@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart"
-date: 2024-11-15T19:11:37.970Z
-updated: 2024-11-17T18:06:53.841Z
+date: 2024-11-25T16:38:16.409Z
+updated: 2024-11-27T16:12:14.168Z
 tags:
   - laptops
 categories:
@@ -19,9 +19,17 @@ Apple product deals are rare, but this 20% discount on a MacBook Air is unheard 
 
 **Read the review: [M1 MacBook Air review](https://www.zdnet.com/article/m1-macbook-air-long-term-review/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![2020-03-19-at-2-39-54-pm.jpg](https://www.zdnet.com/a/img/resize/80ba392bacc4388899c436d9acd4d00f04d5645c/2020/03/19/ff6c9504-c35e-4cb6-a83c-f51c18669916/2020-03-19-at-2-39-54-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best laptop with the longest battery life The laptops on this list can keep you online and working longer when you need to be unplugged.  Read now](https://www.zdnet.com/article/best-battery-life-laptop/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The laptop comes packed with 256GB of storage and 8GB RAM, so you can quickly work through websites, documents, and more. Plus, you can stay focused for hours on end thanks to the long battery life, which lasts up to 18 hours on a single charge. 
 
@@ -61,23 +69,19 @@ The backlit keyboard enables you to log on in any environment. You can even Face
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-enhanced-video-capture-on-pcmac-with-top-apps/"><u>[Updated] Enhanced Video Capture on PC/Mac with Top Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-5-quick-hacks-to-sharpen-your-indie-filmmaking-skills/"><u>2024 Approved 5 Quick Hacks to Sharpen Your Indie Filmmaking Skills</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-comprehensible-guide-to-mastering-pixelated-photography/"><u>A Comprehensible Guide to Mastering Pixelated Photography</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-cleaning-game-with-the-expertly-tested-and-reviewed-best-robot-vacuums-for-dealing-with-pet-hair-zdnets-definitive-list/"><u>Ace Your Cleaning Game with the Expertly Tested and Reviewed Best Robot Vacuums for Dealing with Pet Hair: ZDNET's Definitive List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-can-we-learn-from-nature-exploring-the-use-of-animals-as-inspiration-for-future-robots-in-the-new-breed/"><u>How Can We Learn From Nature? Exploring The Use of Animals as Inspiration for Future Robots in 'The New Breed'</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y28-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y28 5G</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/interactive-techniques-for-periscope-hosts-for-2024/"><u>Interactive Techniques for Periscope Hosts for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labor-day-savings-on-a-game-changing-automated-cat-litter-read-how-it-transformed-the-pet-care-routine/"><u>Labor Day Savings on a Game-Changing Automated Cat Litter! Read How It Transformed the Pet Care Routine</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/perfecting-video-frames-for-instagram-shares/"><u>Perfecting Video Frames for Instagram Shares</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-a-revolutionary-perspective-on-ai-and-robot-design-drawing-parallels-with-the-natural-world-as-suggested-by-the-new-breed-zdnet-analysis/"><u>Unveiling a Revolutionary Perspective on AI & Robot Design: Drawing Parallels with the Natural World as Suggested by The New Breed | ZDNET Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-selection-of-2024s-smartest-home-innovations-expertly-tested-and-scrutinized/"><u>ZDNet's Ultimate Selection of 2024'S Smartest Home Innovations: Expertly Tested and Scrutinized</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-achieving-harmonic-transition-blends/"><u>[Updated] 2024 Approved Achieving Harmonic Transition Blends</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-watching-social-network-vids-through-the-television-glass/"><u>[Updated] 2024 Approved Watching Social Network Vids Through the Television Glass?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-connect-worlds-quickly-sharing-tiktoks-with-facebook/"><u>[Updated] In 2024, Connect Worlds Quickly Sharing TikToks with Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/five-actionable-strategies-for-achieving-greater-technological-sustainability-insights-from-zdnet/"><u>Five Actionable Strategies for Achieving Greater Technological Sustainability - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-tech-unveiled-the-lasting-appeal-of-modular-android-compared-to-latest-iphones-and-pixels-with-a-twist-zdnet-insights/"><u>Future-Proof Tech Unveiled: The Lasting Appeal of Modular Android Compared to Latest iPhones and Pixels, With a Twist | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-discount-save-50-off-top-rated-weber-electric-grills-exclusive-offer-at-zdnet/"><u>Get a Discount: Save $50 Off Top-Rated Weber Electric Grills - Exclusive Offer at ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-fantastic-deal-save-50-when-you-buy-an-elite-weber-electric-grill-tips-from-zdnet/"><u>Get a Fantastic Deal: Save $50 When You Buy an Elite Weber Electric Grill - Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/harnessing-iot-for-environmental-monitoring-ibm-teams-with-the-nature-conservancy-in-india-spotlighted-by-zdnet/"><u>Harnessing IoT for Environmental Monitoring: IBM Teams with The Nature Conservancy in India, Spotlighted by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-artificial-intelligence-is-revolutionizing-your-grocery-experience-the-top-innovation-zdnet/"><u>How Artificial Intelligence Is Revolutionizing Your Grocery Experience: The Top Innovation | ZDNET</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-vivo-y27s-by-fonelab-android-recover-video/"><u>How to recover old videos from your Vivo Y27s</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-streamline-your-workflow-with-these-5-obs-editing-hacks/"><u>In 2024, Streamline Your Workflow with These 5 OBS Editing Hacks</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/resolving-error-code-0x8004def7-on-windows-11-fixing-onedrive-issues/"><u>Resolving Error Code 0X8004DEF7 on Windows 11 - Fixing OneDrive Issues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-motorola-razr-40-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Motorola Razr 40 Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

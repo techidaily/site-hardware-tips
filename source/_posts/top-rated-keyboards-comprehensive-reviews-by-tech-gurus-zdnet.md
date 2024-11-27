@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Keyboards : Comprehensive Reviews by Tech Gurus | ZDNet"
-date: 2024-09-19 16:57:56
-updated: 2024-09-20 11:13:11
+date: 2024-11-25T18:34:51.410Z
+updated: 2024-11-27T16:16:24.440Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-digital-audiovideo-artisans-den/"><u>[New] Digital Audio/Video Artisan's Den</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-engaging-viewers-best-practices-and-pitfalls-in-dayly-blogging/"><u>[Updated] 2024 Approved Engaging Viewers Best Practices & Pitfalls in Dayly Blogging</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-harnessing-the-power-of-instagrams-video-connectivity/"><u>[Updated] 2024 Approved Harnessing the Power of Instagram's Video Connectivity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-essential-techniques-for-sizing-up-your-instagram-video-reach/"><u>2024 Approved Essential Techniques for Sizing Up Your Instagram Video Reach</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-understanding-your-srt-equipment-like-a-pro/"><u>2024 Approved Understanding Your SRT Equipment Like a Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fltflvaviwmvmp4mp3/"><u>高效FLT變形工具：雙速將FLV檔案转换成AVI、WMV、MP4和MP3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-collection-of-2022s-cutting-edge-tech-products-tools-and-widgets-reviewed-by-zdnet/"><u>Discover the Ultimate Collection of 2022'S Cutting-Edge Tech Products, Tools, and Widgets Reviewed by ZDNET</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhanced-online-security-made-easy-discover-how-proton-enables-full-data-protection-through-its-new-password-manager-as-explored-by-zdnet-experts/"><u>Enhanced Online Security Made Easy: Discover How Proton Enables Full Data Protection Through Its New Password Manager, as Explored by ZDNet Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-icloud-security-a-guide-to-activating-two-factor-authentication/"><u>Enhancing iCloud Security: A Guide to Activating Two-Factor Authentication</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmins-ultimate-sports-timepiece-enduro-is-set-to-outshine-apple-in-the-ultra-endurance-race-zdnet/"><u>Garmin's Ultimate Sports Timepiece: Enduro 지니어 Is Set to Outshine Apple in the Ultra-Endurance Race | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-watchos-10-alters-iphone-discovery-with-your-apple-watch-an-in-depth-analysis-you-should-know-about-zdnet/"><u>How WatchOS 10 Alters iPhone Discovery with Your Apple Watch - An In-Depth Analysis You Should Know About | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-garmin-vivomove-sport-how-this-budget-hybrid-timepiece-excels-in-health-tracking-and-durability-wired/"><u>Inside the Garmin Vivomove Sport: How This Budget Hybrid Timepiece Excels in Health Tracking and Durability | Wired</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kid-friendly-fitbit-ace-lte-the-fun-educational-gadget-transforming-workouts-into-games-a-pixel-watch-2-alternative-reviewed-by-zdnet/"><u>Kid-Friendly Fitbit Ace LTE: The Fun, Educational Gadget Transforming Workouts Into Games - A Pixel Watch 2 Alternative Reviewed by ZDNet</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/mastering-credit-cards-in-2009-insider-secrets-and-strategies-powerful-tools-from-massmail/"><u>Mastering Credit Cards in 2009: Insider Secrets & Strategies - Powerful Tools From MassMail</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sales-of-apples-latest-series-watch-9-and-ultra-continue-amidst-legal-hold-on-prohibition-insights-from-zdnet/"><u>Sales of Apple's Latest Series: Watch 9 & Ultra Continue Amidst Legal Hold on Prohibition - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-big-reveal-complete-list-of-new-galaxy-devices-from-the-latest-unpacked-event-zdnet-coverage/"><u>Samsung's Big Reveal: Complete List of New Galaxy Devices From the Latest Unpacked Event - ZDNet Coverage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-amazing-benefits-that-convinced-me-to-choose-samsung-galaxy-watch-6-classic-insights-from-zdnet/"><u>Top 3 Amazing Benefits That Convinced Me to Choose Samsung Galaxy Watch 6 Classic - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-stylus-tablets-comprehensive-reviews-by-industry-experts-zdnet/"><u>Top-Rated Stylus Tablets : Comprehensive Reviews by Industry Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-right-bp-tracker-forbes-health/"><u>Ultimate Guide to Choosing the Right BP Tracker - Forbes Health</u></a></li>
+</ul></div>
+

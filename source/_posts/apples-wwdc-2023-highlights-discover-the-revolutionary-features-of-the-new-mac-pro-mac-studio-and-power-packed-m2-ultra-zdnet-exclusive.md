@@ -1,7 +1,7 @@
 ---
 title: "Apple's WWDC 2023 Highlights: Discover the Revolutionary Features of the New Mac Pro, Mac Studio and Power-Packed M2 Ultra | ZDNet Exclusive"
-date: 2024-11-12T19:42:56.480Z
-updated: 2024-11-17T22:16:41.712Z
+date: 2024-11-26T16:09:03.991Z
+updated: 2024-11-27T18:51:58.839Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday storage and SSD deals
 
 * [Kingston Fury Renegade 4TB SSD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKingston-Renegade-Internal-SFYRDK-4000G%2Fdp%2FB0BJL8DWW3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb0f2dd04-a785-4895-9ade-56cbdf3fe510%7Cdtp&dtb=1) for $375 (save $260 at Amazon)
@@ -37,6 +41,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [LaCie 2TB rugged external SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1503994-REG%2Flacie%5Fsthr2000800%5F2tb%5Frugged%5Fssd%5Fusb%5Fc.html): $210 (save $290 at B&H Photo)
 * [WD My Passport 4TB portable SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1624288-REG%2Fwd%5Fwdbagf0040bgy%5Fwesn%5F4tb%5Fmy%5Fpassport%5Fssd.html): $250 (save $430 at B&H Photo)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday flash drive deals
 
 * [PNY Duo Link 128GB iOS flash drive](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpny-duo-link-128gb-usb-3-0-otg-flash-drive-for-ios-devices-and-computers-gray%2F6033400.p%3FskuId%3D6033400&publisher_slug=itechdaily19598&exclusive=1): $38 (save $42 at Best Buy)
@@ -44,13 +52,6 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Kingston DataTraveler Max 256GB 2-pack](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1720837-REG%2Fkingston%5F256gb%5Fdatatraveler%5Fmax%5Fusb.html): $50 (save $26 at B&H Photo)
 * [SanDisk iXpand 256GB lightning/USB-C](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-256gb-ixpand-phone-drive-luxe-for-iphone-lightning-and-type-c-devices-black%2F6459403.p%3FskuId%3D6459403&publisher_slug=itechdaily19598&exclusive=1): $61 (save $38 at Best Buy)
 * [Corsair Survivor Stealth 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Flash-Survivor-Stealth-256GB%2Fdp%2FB00YHL1RJG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb0f2dd04-a785-4895-9ade-56cbdf3fe510%7Cdtp&dtb=1): $55 (save $29 at Amazon)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best holiday SD card deals
 
@@ -87,16 +88,7 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Crucial T700 4TB SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1766243-REG%2Fcrucial%5Fct4000t700ssd3%5Ft700%5Fgen5%5Fnvme%5Fm%5F2.html): $450 (save $150)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday storage and SSD deals at Newegg
@@ -109,10 +101,7 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [KingSpec 4TB 3D NAND SSD](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fkingspec-4tb-2-5-sata%252Fp%252F0D9-000D-00159): $140 (save $130)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -121,16 +110,13 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best SSD?
 
 My pick for the [best SSD](https://www.zdnet.com/article/best-ssd/) is the WD My Passport for its affordability, even at higher capacities, 256-bit AES encryption, compatibility with both Windows and macOS devices, and variety of capacities. It also features a drop and shock resistant chassis to help prevent data loss and corruption due to accidents. You can even set up a password to access the drive itself or specific folders and files to help prevent unauthorized use of your SSD. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals right now?
 
@@ -200,18 +186,20 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-excellence-in-motion-best-4k-cameras-unveiled/"><u>[New] 2024 Approved Excellence in Motion Best 4K Cameras Unveiled</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-inspirational-themes-for-regular-vlogs/"><u>[New] 2024 Approved Inspirational Themes for Regular Vlogs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-visualizing-google-meet-introduction-to-effects-and-filtering-for-2024/"><u>[New] Visualizing Google Meet Introduction to Effects & Filtering for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-which-is-the-ultimate-ios-video-editor-cameo-vs-filmorago-for-2024/"><u>[Updated] Which Is the Ultimate iOS Video Editor? Cameo Vs. FilmoraGo for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ai-robot-revolutionizes-navigation-for-the-visually-impaired-beyond-canes-and-guide-dogs/"><u>AI Robot Revolutionizes Navigation for the Visually Impaired - Beyond Canes & Guide Dogs</u></a></li>
-<li><a href="https://win11.techidaily.com/easing-windows-11-disruptions-with-simple-fixes/"><u>Easing WINDOWS 11 Disruptions with Simple Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evolution-of-ai-identifying-truly-autonomous-robots-insights-from-zdnet/"><u>Evolution of AI: Identifying Truly Autonomous Robots - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-effortless-lawn-maintenance-with-our-new-cutting-edge-cordless-robotic-mower-featured-on-zdnet/"><u>Experience Effortless Lawn Maintenance with Our New Cutting-Edge Cordless Robotic Mower Featured on ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-review-the-shark-ion-robovac-av751-exceptional-cleaning-performance-with-navigation-challenges-tech-insights/"><u>In-Depth Analysis and Review: The Shark iON RoboVac AV751 - Exceptional Cleaning Performance with Navigation Challenges | Tech Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-instructions-for-malfunctioning-kotion-g200n-microphones/"><u>Step-by-Step Repair Instructions for Malfunctioning KOTION G200n Microphones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-social-spheres-new-picks-explore-these-8-trends-for-2024/"><u>The Social Sphere's New Picks Explore These 8 Trends for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-the-power-of-roborock-s8-pro-a-revolutionary-2-in-1-cleaning-solution-review-techinsights/"><u>Unleashing the Power of Roborock S8 Pro: A Revolutionary 2-in-1 Cleaning Solution Review | TechInsights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-professional-thumbnail-creation-for-youtube-macos-style/"><u>[New] Professional Thumbnail Creation for YouTube (macOS Style)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-creating-the-perfect-biz-account-a-compreehsive-instagram-tutorial/"><u>[Updated] Creating the Perfect Biz Account A Compreehsive Instagram Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adopting-green-tech-habits-a-guide-to-sustainable-innovation-as-revealed-by-zdnet/"><u>Adopting Green Tech Habits: A Guide To Sustainable Innovation, As Revealed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-boundaries-how-the-cybertruck-concept-revolutionized-modern-robot-mowers-an-in-depth-analysis-by-zdnet-experts/"><u>Beyond Boundaries: How the Cybertruck Concept Revolutionized Modern Robot Mowers - An In-Depth Analysis by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-generations-how-modular-android-devices-outlast-iphones-and-pixels-with-a-twist-tech-insights-by-zdnet/"><u>Beyond Generations: How Modular Android Devices Outlast iPhones and Pixels with a Twist | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boosting-workspace-vibe-and-health-5-ideal-indoor-plants-every-home-office-needs-insights-by-zdnet/"><u>Boosting Workspace Vibe & Health: 5 Ideal Indoor Plants Every Home Office Needs (Insights by ZDNET)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrate-independence-with-freedom-and-savings-get-your-segway-max-g2-electric-scooter-for-half-price-this-memorial-day-only-at-zdnet/"><u>Celebrate Independence with Freedom and Savings: Get Your Segway Max G2 Electric Scooter for Half Price This Memorial Day – Only at ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/combatting-global-warming-top-5-innovative-tech-solutions-unveiled-by-zdnet/"><u>Combatting Global Warming: Top 5 Innovative Tech Solutions Unveiled by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crusader-kings-2-wont-start-heres-how-to-resolve-the-problem/"><u>Crusader Kings 2 Won't Start? Here's How to Resolve the Problem</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-microsoft-application-now-bridges-windows-to-chromebooks-and-macs-select-user-access-featured/"><u>Exclusive Microsoft Application Now Bridges Windows to Chromebooks & Macs, Select User Access Featured</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-13-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 13 Pro Without Passcode Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-ideal-top-5-ios-apps-for-podcasting/"><u>In 2024, Ideal Top 5 iOS Apps for Podcasting</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-damaged-film-clips-in-mp4mov-format-effortlessly-using-vlc-solutions/"><u>Revive Damaged Film Clips in MP4/MOV Format Effortlessly Using VLC Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-and-install-the-newest-epson-wf-372cued-to-provide-you-with-comprehensive-answers-and-guidance/"><u>Upgrade & Install the Newest Epson WF-372cued to Provide You with Comprehensive Answers and Guidance.</u></a></li>
 </ul></div>
 

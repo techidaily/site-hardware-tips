@@ -1,7 +1,7 @@
 ---
 title: Canon USA Faces Lawsuit Over Print Devices That Don't Use Ink or Scanning Features - Tech News
-date: 2024-09-19 19:20:31
-updated: 2024-09-20 12:21:26
+date: 2024-11-25T18:57:41.001Z
+updated: 2024-11-27T16:20:53.798Z
 tags:
   - printer
 categories:
@@ -11,9 +11,17 @@ thumbnail: https://www.zdnet.com/topic/printers/    https://www.zdnet.com/a/img/
 
 ## Canon USA Faces Lawsuit Over Print Devices That Don't Use Ink or Scanning Features - Tech News
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![hp-color-laserjet-enterprise-m856x-lifestyle.jpg](https://www.zdnet.com/a/img/resize/a4c68caab98078e8490aa8b4b2a2b893a7623d1d/2020/05/18/7a7e314f-f876-4957-9d3c-f13132f57779/hp-color-laserjet-enterprise-m856x-lifestyle.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best laser printers We look at a variety of printers ranging from enterprise-level monsters to the sleek, high-performance, inexpensive models our editors rely on personally.  Read now](https://www.zdnet.com/article/best-laser-printer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We all hate that when any single ink in our inkjet printers is out, most printers won't allow us to print at all. That's especially annoying when we want to print an ordinary black and white document, but the printer says "No way!" when we're out of, say, cyan ink. Now, [Canon USA](https://www.usa.canon.com/) has reached a new low in printing frustration. According to a class-action lawsuit, the [Canon Pixma MG6320 "all-in-one" machine won't even scan or fax documents if the printer is out of ink](https://www.documentcloud.org/documents/21085661-123118208417). 
 
@@ -62,11 +70,31 @@ The court has yet to take action on the lawsuit, nor has Canon replied yet. If t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-convenient-techniques-for-customizing-your-own-short-videos/"><u>[New] 2024 Approved Convenient Techniques for Customizing Your Own Short Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-social-media-giant-to-premium-format-mastering-insta-to-mp4-2-ways/"><u>[New] In 2024, From Social Media Giant to Premium Format Mastering Insta-to-MP4 2 Ways</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-rewards-and-risks-virtual-reality-unveiled/"><u>[New] In 2024, Rewards & Risks Virtual Reality Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pinterest-content-powered-free-high-speed-download-apps-reviewed/"><u>[New] Pinterest Content Powered Free, High-Speed Download Apps Reviewed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-coherent-and-curated-youtube-playlists-online-and-mobile-assembly-guide-for-2024/"><u>[Updated] Coherent and Curated YouTube Playlists Online & Mobile Assembly Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-laptop-showdown-deciding-if-a-macbook-pro-or-macbook-air-suits-you-best-expert-insights/"><u>Apple Laptop Showdown: Deciding If a MacBook Pro or MacBook Air Suits You Best | Expert Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-apple-laptop-macbook-air-vs-macbook-pro-comparison-guide/"><u>Choosing the Right Apple Laptop: MacBook Air Vs. MacBook Pro Comparison Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-pc-optimization-how-to-enable-gpu-usage-under-windows-nvidia/"><u>Cyberpunk 2077 PC Optimization - How to Enable GPU Usage Under Windows nVidia</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-bargain-on-high-performance-computing-secure-your-new-gigabyte-aero-16-at-half-price-endorsed-for-gamers-and-professionals-alike/"><u>Discover the Best Bargain on High-Performance Computing: Secure Your New Gigabyte Aero 16 at Half Price, Endorsed for Gamers and Professionals Alike!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-budget-college-laptop-that-outshines-macbooks-and-thinkpads-for-students-now-with-a-sweet-200-off-deal-reviews/"><u>Discover the Ultimate Budget College Laptop That Outshines MacBooks and ThinkPads for Students - Now With a Sweet 200 Off Deal! Reviews</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-call-of-duty-vanguard-error-5573-developers-mistake-solution-guide/"><u>How to Overcome the Call of Duty Vanguard Error 5573: Developer's Mistake Solution Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/permanent-capture-sustaining-facebook-live-footage/"><u>Permanent Capture Sustaining Facebook Live Footage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pre-order-your-atandt-and-verizon-pixel-fold-available-now/"><u>Pre-Order Your AT&T & Verizon Pixel Fold - Available Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-linux-laptop-picks-for-253-comprehensive-reviews-and-benchmarks-by-tech-experts-pcmag/"><u>Top-Rated Linux Laptop Picks for 2^53: Comprehensive Reviews & Benchmarks by Tech Experts - PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-discovering-top-notch-featherlight-laptops-ideal-for-remote-professionals-insights-from-an-expert-review/"><u>Ultimate Guide: Discovering Top-Notch Featherlight Laptops Ideal for Remote Professionals - Insights From an Expert Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-extra-usb-ports-for-macbookipad-pro-the-definitive-add-on-strategy-by-zdnet-experts/"><u>Unlock Extra USB Ports for MacBook/iPad Pro: The Definitive Add-On Strategy by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-nvidias-latest-powerhouse-laptops-for-creatives-record-breaking-gpu-performance-detailed-by-zdnet/"><u>Unveiling Nvidia's Latest Powerhouse Laptops for Creatives: Record-Breaking GPU Performance Detailed by ZDNet</u></a></li>
+</ul></div>
+

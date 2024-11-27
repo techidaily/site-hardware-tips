@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Expanding Your Raspberry Pi Model B (Pi 5) with M.2 Devices - Tips & Tricks"
-date: 2024-09-17 20:53:56
-updated: 2024-09-20 12:17:43
+date: 2024-11-25T19:33:42.319Z
+updated: 2024-11-27T18:54:14.368Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-boosting-your-youtube-presence-key-tips-for-popularity/"><u>[New] 2024 Approved Boosting Your YouTube Presence Key Tips for Popularity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-holistic-harmony-the-best-online-yoga-channels/"><u>[New] In 2024, Holistic Harmony - The Best Online Yoga Channels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-premier-external-hard-drive-choices-for-xbox-for-2024/"><u>[Updated] Premier External Hard Drive Choices for Xbox for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-apple-collaborates-with-microsofts-github-to-integrate-gpt-3-into-macos-ipados-and-ios-the-future-of-ai-on-apple-devices/"><u>1. Apple Collaborates with Microsoft's GitHub to Integrate GPT-3 Into macOS, iPadOS, and iOS: The Future of AI on Apple Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-black-friday-2024-exclusive-gaming-blowout-sweep-up-to-1k-savings-today/"><u>Best Black Friday 2024 Exclusive Gaming Blowout – Sweep Up to $1K Savings Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chilling-times-ahead-for-computer-producers-what-it-means-for-shoppers-digitalsavvy-news/"><u>Chilling Times Ahead for Computer Producers - What It Means for Shoppers | DigitalSavvy News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-birds-guide-to-amazon-prime-day-savings-exclusive-oct-24-deals-for-your-next-laptop-upgrade/"><u>Early Bird's Guide to Amazon Prime Day Savings: Exclusive Oct '24 Deals for Your Next Laptop Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fresh-chromeos-upgrade-introduces-windows-11-features-to-your-chromebook-insights-from-zdnet/"><u>Fresh ChromeOS Upgrade Introduces Windows 11 Features to Your Chromebook - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-setting-up-custom-dns-settings-on-a-chromebook-and-its-benefits-insights/"><u>Guide: Setting Up Custom DNS Settings on a Chromebook & Its Benefits - Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-f23-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo F23 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-latest-innovations-unveiled-by-microsoft-during-octobers-surface-expo-insights/"><u>In-Depth Analysis: Latest Innovations Unveiled by Microsoft During October's Surface Expo - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-2024-prime-day-final-countdown-exclusive-game-deals-galore-save-hundreds-now/"><u>October 2024 Prime Day Final Countdown: Exclusive Game Deals Galore! Save Hundreds Now .</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/opening-stuck-microsoft-word-files-a-step-by-step-guide-for-quick-solutions/"><u>Opening Stuck Microsoft Word Files: A Step-by-Step Guide for Quick Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-transition-between-classes-and-leisure-expert-zdnet-review-of-the-best-college-friendly-2-in-1-laptops/"><u>Seamless Transition Between Classes and Leisure: Expert ZDNet Review of the Best College-Friendly 2-in-1 Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208158927-steam-update-woes-heres-how-you-can-ensure-successful-downloads/"><u>Steam Update Woes? Here's How You Can Ensure Successful Downloads!</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-secure-windows-against-unauthorized-removable-storage/"><u>Steps to Secure Windows Against Unauthorized Removable Storage</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-x8b-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor X8b for Parents | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-updating-your-google-chrome-browser-this-weekend-is-essential-a-guide-by-zdnet/"><u>Why Updating Your Google Chrome Browser This Weekend Is Essential: A Guide by ZDNet</u></a></li>
+</ul></div>
+

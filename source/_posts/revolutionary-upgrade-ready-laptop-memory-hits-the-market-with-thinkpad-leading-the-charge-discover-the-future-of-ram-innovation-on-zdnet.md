@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Upgrade-Ready Laptop Memory Hits the Market with ThinkPad Leading the Charge - Discover the Future of RAM Innovation on ZDNet
-date: 2024-11-15T17:38:13.763Z
-updated: 2024-11-17T20:51:36.313Z
+date: 2024-11-20T16:48:10.108Z
+updated: 2024-11-27T16:32:59.543Z
 tags:
   - laptops
 categories:
@@ -45,6 +45,10 @@ Image: Charles McLellan / ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design
 
 Lenovo's ThinkPads rarely stray far from the familiar black livery with red and silver accents, and the ThinkPad X13s is no exception. The chassis, which is made of magnesium-aluminium (top) and [GFRP](https://en.wikipedia.org/wiki/Fibre-reinforced%5Fplastic) (bottom), is Thunder Black in colour, with branding on the lid and wrist rest, the iconic red TrackPoint embedded in the keyboard, and three buttons above the trackpad. Lenovo says that 90% of the magnesium used in the chassis is recycled, as is 97% of the plastic in the speaker enclosure, while 90% of the packaging is recycled and/or sustainable. 
@@ -66,10 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -83,10 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -118,10 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -175,10 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -226,20 +218,24 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/1716040960552-new-in-2024-the-7-best-fps-games/"><u>[New] In 2024, The 7 Best FPS Games</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-innovative-naming-solutions-for-channels/"><u>[Updated] Innovative Naming Solutions for Channels</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discover-your-rhythm-assembling-tailored-youtube-playlists-for-the-digital-age-webmobile-for-2024/"><u>Discover Your Rhythm Assembling Tailored YouTube Playlists for the Digital Age (Web/Mobile) for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-list-of-the-24-finest-holiday-discounts-for-dell-electronics-compared-at-major-retailers-like-best-buy-and-more-zdnet/"><u>Exclusive List of the 24 Finest Holiday Discounts for Dell Electronics Compared at Major Retailers Like Best Buy and More | ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-a05-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy A05 Android SIM Unlock APK</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/keyboard-detox-transforming-a-dusty-habit-into-a-cleansing-ritual-life-hacks-from-zdnet/"><u>Keyboard Detox: Transforming a Dusty Habit Into a Cleansing Ritual | Life Hacks From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-iscanner-prices-slashed-by-20-exclusive-to-zdnet-readers/"><u>Limited Time Offer: IScanner Prices Slashed by 20% Exclusive to ZDNet Readers!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-macbook-airs-potential-discover-the-perfect-thin-and-portable-hub-solution/"><u>Maximize Your MacBook Air's Potential: Discover the Perfect Thin & Portable Hub Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-change-an-in-depth-look-at-using-an-lg-dualup-monitor-with-a-16x18-aspect-ratio/"><u>Navigating the Change: An In-Depth Look at Using an LG DualUp Monitor with a 16X18 Aspect Ratio</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-new-terrain-how-temu-modified-their-refund-procedures-and-my-attempt-to-process-multiple-returns-online-retail-insights/"><u>Navigating the New Terrain: How Temu Modified Their Refund Procedures & My Attempt to Process Multiple Returns | Online Retail Insights</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/simplify-your-youtube-presence-with-flawless-shorts-thumbnails-for-2024/"><u>Simplify Your YouTube Presence with Flawless Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steer-clear-of-these-devastating-mistakes-in-using-apple-vision-pro-save-your-project-before-its-too-late-expert-advice/"><u>Steer Clear of These Devastating Mistakes in Using Apple Vision Pro – Save Your Project Before It's Too Late | Expert Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-remedy-windows-onedrive-server-issues/"><u>Swiftly Remedy Windows OneDrive Server Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncovering-a-potential-hack-for-your-airtags-and-more-devices-due-to-flawed-battery-safety-feature-zdnet/"><u>Uncovering a Potential Hack for Your AirTags and More Devices Due to Flawed Battery Safety Feature | ZDNET</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-compression-made-easy-top-5-free-iphone-and-ipad-apps/"><u>Video Compression Made Easy Top 5 Free iPhone and iPad Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-digital-arcade-over-a-hundred-game-channels-for-2024/"><u>[Updated] Digital Arcade Over a Hundred Game Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-transcribe-a-youtube-video-for-free/"><u>[Updated] In 2024, How to Transcribe a YouTube Video for FREE</u></a></li>
+<li><a href="https://extra-information.techidaily.com/choreographing-compelling-cinematic-hooks-for-2024/"><u>Choreographing Compelling Cinematic Hooks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crashes-no-more-overcoming-total-war-warhammer-iis-technical-glitches/"><u>Crashes No More: Overcoming Total War: Warhammer II's Technical Glitches</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-graphics-and-connectivity-windows-1011-hdmi-driver-update/"><u>Improve Graphics & Connectivity - Windows 10/11 HDMI Driver Update</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-using-retro-effects-on-edits/"><u>In 2024, Ultimate Guide to Using Retro Effects on Edits</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-muted-powershell-scripts-four-tactics-to-counter-error-message/"><u>Mastery Over Muted PowerShell Scripts: Four Tactics to Counter Error Message</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sound-science-for-language-success-music-and-effective-strategies/"><u>Sound Science for Language Success - Music & Effective Strategies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-adding-a-pure-white-backdrop-to-your-images/"><u>Step-by-Step Guide: Adding a Pure White Backdrop to Your Images</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-televisions-expert-picks-from-zdnet/"><u>Top Rated Affordable Televisions : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-fireplace-media-consoles-in-2-the-ultimate-guide-zdnet/"><u>Top-Rated Fireplace Media Consoles in 2# # - The Ultimate Guide [ZDNet]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-lg-television-models-comprehensive-review-by-tech-experts/"><u>Top-Rated LG Television Models - Comprehensive Review by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-live-tv-streamers-of-2024-expert-ratings-and-insights-zdnet/"><u>Ultimate Guide to Choosing the Best Live TV Streamers of 2024: Expert Ratings and Insights | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-hosting-a-memorable-labor-day-bash/"><u>Ultimate Guide to Hosting a Memorable Labor Day Bash</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-pick-of-the-5-most-reliable-all-in-one-universal-tv-remotes-zdnet/"><u>Ultimate Pick of the 5 Most Reliable All-in-One Universal TV Remotes (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-on-top-rated-lg-oled-tvs-get-up-to-800-off-this-labor-day-insider-scoop-from-zdnet/"><u>Unbeatable Deals on Top-Rated LG OLED TVs: Get Up To $800 Off This Labor Day - Insider Scoop From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-labor-day-savings-on-highly-rated-lg-oled-tvs-available-up-to-80t-discounted-only-here-zdns-tech-corner/"><u>Unbeatable Labor Day Savings on Highly Rated LG OLED TVs, Available Up to $80T Discounted Only Here | ZDN's Tech Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-no-cost-enhancements-on-your-roku-tv-the-premium-update-awaits/"><u>Unlock Exclusive, No-Cost Enhancements on Your Roku TV - The Premium Update Awaits!</u></a></li>
 </ul></div>
 

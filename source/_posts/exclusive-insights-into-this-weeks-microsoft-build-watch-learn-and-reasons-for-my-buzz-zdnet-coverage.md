@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insights Into This Week's Microsoft Build: Watch, Learn & Reasons for My Buzz | ZDNet Coverage"
-date: 2024-09-19 20:25:46
-updated: 2024-09-20 10:18:46
+date: 2024-11-26T16:35:08.034Z
+updated: 2024-11-27T16:49:00.892Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,31 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-strategies-for-full-time-workers-who-create-videos/"><u>[New] Strategies for Full-Time Workers Who Create Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-understanding-your-needs-for-a-precise-vimeo-subscription-level/"><u>[New] Understanding Your Needs for a Precise Vimeo Subscription Level</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-chuckle-filled-creativity-crafting-7-side-splitting-youtube-sets/"><u>[Updated] 2024 Approved Chuckle-Filled Creativity Crafting 7 Side-Splitting YouTube Sets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>[Updated] Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipate-the-release-dates-matter-device-and-app-enhancements-from-eve-nanoleaf-and-amazon-insights-from-zdnet/"><u>Anticipate the Release Dates: Matter Device & App Enhancements From Eve, Nanoleaf, and Amazon - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clearview-techniques-for-superior-video-with-vce-2-written-by-john-doe-phd/"><u>ClearView Techniques for Superior Video with VCE 2 Written by John Doe, PhD</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-dazzle-tools-to-brighten-online-videos/"><u>Digital Dazzle Tools to Brighten Online Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-matter-version-12-enhances-smart-home-tech-with-new-device-types-zdnet/"><u>Discover the Latest: Matter Version 1.2 Enhances Smart Home Tech With New Device Types | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-ambiance-in-your-space-with-a-spectrum-of-over-16k-color-variations-save-50-on-this-innovative-lamp-explore-at-zdnet/"><u>Enhance Ambiance in Your Space with a Spectrum of Over 16K Color Variations: Save 50% on This Innovative Lamp - Explore at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-any-room-in-over-16-million-shades-for-under-60-discover-the-sleek-design-with-zdnets-top-pick/"><u>Illuminate Any Room in Over 16 Million Shades for Under $60 - Discover the Sleek Design with ZDNET's Top Pick</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-directly-uploading-tweets-videos-to-instagram-profile/"><u>In 2024, Directly Uploading Tweets Videos to Instagram Profile</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-8t-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 8T to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/june-2n-d4s-ultimate-best-buy-bargains-showcased-by-zdnet-save-big-now/"><u>June 2N D4's Ultimate Best Buy Bargains Showcased by ZDNet: Save Big Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-connected-living-spaces-exploring-new-communication-protocols-for-advanced-smart-home-systems/"><u>Revolutionizing Connected Living Spaces: Exploring New Communication Protocols for Advanced Smart Home Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-kitchen-design-the-impact-of-innovative-under-cabinet-lighting-on-style-and-functionality-insight-by-zdnet/"><u>Revolutionizing Kitchen Design: The Impact of Innovative Under-Cabinet Lighting on Style and Functionality - Insight by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-home-office-vibe-alexas-innovative-approach-to-busy-lights-unveiled-by-zdnet/"><u>Transform Your Home Office Vibe: Alexa's Innovative Approach to Busy Lights Unveiled by ZDNet</u></a></li>
+</ul></div>
+

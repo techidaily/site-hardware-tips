@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Sixteen Years: Mary Jo Foley's Retrospective of Microsoft News Coverage for ZDNet"
-date: 2024-09-17 14:52:32
-updated: 2024-09-20 10:36:40
+date: 2024-11-23T18:33:00.803Z
+updated: 2024-11-27T16:33:17.859Z
 tags:
   - pc
 categories:
@@ -64,11 +64,32 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-iconic-photographs-the-true-story/"><u>[New] 2024 Approved Iconic Photographs The True Story</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-apowersoft-recording-software-overview/"><u>[Updated] Apowersoft Recording Software Overview</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-starting-up-youtube-your-first-gear-list/"><u>[Updated] Starting Up YouTube - Your First Gear List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-personal-linguist-tips-and-tricks-for-seamless-language-translation/"><u>ChatGPT as Your Personal Linguist: Tips and Tricks for Seamless Language Translation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722953731792-download-hp-officejet-pro-8600-printer-drivers-for-windows-computers/"><u>Download HP OfficeJet Pro 8600 Printer Drivers for Windows Computers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y27-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y27 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-huge-cyber-monday-blowout-on-the-sleek-and-portable-lg-gram-17-notebook-save-an-extra-400-now-at-zdnet/"><u>Limited Time Offer! Huge Cyber Monday Blowout on the Sleek and Portable LG Gram 17 Notebook - Save an Extra $400 Now at ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-file-imports-into-windows-11-with-ease-for-2024/"><u>Mastering File Imports Into Windows 11 with Ease for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-hot-40-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/recovering-lost-data-a-comprehensive-guide-to-accessing-your-old-laptop-after-forgetting-the-passcode-expert-tips/"><u>Recovering Lost Data: A Comprehensive Guide to Accessing Your Old Laptop After Forgetting the Passcode - Expert Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-0x887a0006-dxgierror-device-stuck-in-win1111/"><u>Resolving 0X887A0006: DXGI_ERROR - Device Stuck in Win11/11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-cyber-monday-game-discounts-save-up-to-1k-on-black-friday-2024/"><u>Top-Rated Cyber Monday Game Discounts - Save Up To $1K on Black Friday 2024!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-gamers-dream-setup-unveiled-insider-secrets-and-strategies-experts/"><u>Ultimate Gamer's Dream Setup Unveiled - Insider Secrets and Strategies Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-every-detail-microsofts-latest-revelations-from-the-october-surface-showcase-tech-insights/"><u>Unveiling Every Detail: Microsoft's Latest Revelations From the October Surface Showcase | Tech Insights</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "1. Reviving Classic Cinema: A Guide to Watching Vintage DVDs on New Apple M-Series MacBooks | TechRadar"
-date: 2024-11-13T16:29:17.444Z
-updated: 2024-11-17T21:25:35.761Z
+date: 2024-11-26T16:56:55.871Z
+updated: 2024-11-27T17:38:37.075Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,10 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Processor             | Intel 12th Gen Core i5-1235U                                                                                               |
@@ -54,10 +58,7 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 | Dimensions and weight | 19.95mm (H) x 356.5mm (W) x 253mm (D) (0.79 x 14.03 x 9.96 inches) \| 4.01lbs                                              |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -93,10 +94,7 @@ Unusually, for a Lenovo device, I didn't love the keyboard. The individual keys 
 Of course, you'll eventually get used to this layout, but I'm not certain it was necessary to begin with. Very few gamers make use of a full numpad for anything short of custom real-time strategy layouts or unusual MMORPG control schemes. Even then, they'd likely be better served by something like the [SteelSeries Aerox 9 Wireless](https://www.zdnet.com/home-and-office/home-entertainment/steelseries-aerox-9-wireless-review/), or another MMO/MOBA mouse that does the same job as a numpad.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance
@@ -122,10 +120,7 @@ As a last note, I should mention that the battery life of the IdeaPad Gaming Chr
 [Lenovo IdeaPad Gaming Chromebook $600 at Lenovo](https://lenovo.vzew.net/c/5597632/218864/3808?sharedId=zdnet&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-gaming-laptops%2Fideapad-5i-gaming-chromebook-gen-7-%2816-inch-intel%29%2F82v8000hux&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -141,16 +136,7 @@ This Chromebook and others like it are already more than capable enough to handl
 Thankfully, progress is constantly being made. In the short few weeks between the Acer review and this one, Xbox Cloud Gaming has seen noticeable performance enhancements. But then again, it also continues to stop me dead when trying to play some games. I believe cloud gaming really will fulfill its potential...eventually. If you want an excellent way of joining in what will surely be a wild ride on the way there, Lenovo's take on a gaming Chromebook is one of the best options available. 
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -201,22 +187,20 @@ Would you rather dabble in cloud gaming, but maintain the ability to locally ins
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-backdrops-for-dynamic-streaming/"><u>[New] Top Backdrops for Dynamic Streaming</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-effortless-screen-recording-for-hp-users-top-4-methods-compared-for-2024/"><u>[Updated] Effortless Screen Recording for HP Users - Top 4 Methods Compared for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-quieter-audio-with-progressive-volume-reduction-in-lumafusion/"><u>2024 Approved Mastering Quieter Audio with Progressive Volume Reduction in Lumafusion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cyber-weekend-extravaganza-snatch-up-these-17-amazing-deals-for-tvs-headphones-and-speakers-before-its-too-late-cyber-monday-sale-hits-techbargains/"><u>Cyber Weekend Extravaganza! Snatch Up These 17 Amazing Deals for TVs, Headphones, and Speakers Before It's Too Late - Cyber Monday Sale Hits | TechBargains</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-fixes-for-stability-problems-in-euro-truck-simulator-2-pc-edition/"><u>Effective Fixes for Stability Problems in Euro Truck Simulator 2 PC Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-performing-a-full-restore-of-your-windows-10-system-with-ease-advice-from-zdnet/"><u>Expert Tips on Performing a Full Restore of Your Windows 10 System with Ease – Advice From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/free-recovery-image-solutions-for-your-laptoppc-windowslinux-techniques-for-dell-hp-lenovo-or-surface-systems/"><u>Free Recovery Image Solutions for Your Laptop/PC (Windows/Linux): Techniques for Dell, HP, Lenovo, or Surface Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-premium-gaming-plus-content-laptop-at-a-whopping-1100-discounted-price-check-out-the-latest-deals-zdnet-insider-tips/"><u>Get Premium Gaming + Content Laptop at a Whopping $1,100 Discounted Price - Check Out the Latest Deals | ZDNet Insider Tips</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-15-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 15 Pro in the Best Ways</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y100i-power-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y100i Power 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labor-day-special-offer-get-the-hp-victus-15-for-up-to-350-less-limited-time-deal-at-best-buy-insights-from-zdnet/"><u>Labor Day Special Offer! Get the HP Victus 15 for Up to $350 Less - Limited Time Deal at Best Buy | Insights From ZDNet</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/professionelle-datenwiederherstellung-von-beschadigten-festplatten-mit-myrecover/"><u>Professionelle Datenwiederherstellung Von Beschädigten Festplatten - Mit MyRecover</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seize-the-day-with-a-bug-discovery-passport-join-openais-rewarding-adventure/"><u>Seize the Day with a Bug Discovery Passport; Join OpenAI’s Rewarding Adventure!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-35-unbeatable-cyber-monday-offers-on-dell-products-from-retail-giants-like-best-buy-amazon-and-newegg-find-them-here/"><u>Top 35 Unbeatable Cyber Monday Offers on Dell Products From Retail Giants Like Best Buy, Amazon & Newegg - Find Them Here!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-role-of-trusted-platform-module-tpm-in-windows-11-a-comprehensive-guide/"><u>Understanding the Role of Trusted Platform Module (TPM) in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlock-the-secrets-accelerating-your-fb-communitys-growth/"><u>Unlock the Secrets: Accelerating Your Fb Community's Growth</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-key-ai-capabilities-newly-added-to-copilotplus-desktops-whats-missing-on-my-macbook/"><u>Unveiling Key AI Capabilities Newly Added to Copilot+ Desktops - What's Missing on My MacBook?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-entry-into-the-world-of-google-meet-webinars/"><u>[New] In 2024, Entry Into the World of Google Meet Webinars</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-tips-for-organizing-online-gatherings-google-meet/"><u>[New] In 2024, Essential Tips for Organizing Online Gatherings (Google Meet)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-master-tips-securing-audio-for-unboxing-vids/"><u>[New] In 2024, Master Tips Securing Audio for Unboxing Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-picks-of-external-ssds-for-xbox-gaming/"><u>2024 Approved Top Picks of External SSDs for Xbox Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-ustream-live-streaming-choices/"><u>Beyond Ustream Live Streaming Choices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-c53-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme C53 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-quip-cinema-script/"><u>In 2024, Quick Quip Cinema Script</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/srt-conversion-masterclass-direct-route-to-sub/"><u>SRT Conversion Masterclass Direct Route to SUB</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-docx-to-pdf-migration-for-windows-users/"><u>Step-by-Step DOCX to PDF Migration for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-amazon-tablet-reviews-the-ultimate-guide/"><u>Top-Rated Amazon Tablet Reviews: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-artists-choice-drawing-tablets-featured-by-zdnet/"><u>Top-Rated Artists' Choice Drawing Tablets - Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-kids-tablets-in-depth-analysis-by-tech-gurus-and-parental-approval-zdnet/"><u>Top-Rated Kid's Tablets: In-Depth Analysis by Tech Gurus & Parental Approval | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-aged-fire-tablet-into-a-functional-echo-show-tips-and-tricks-techguide/"><u>Transform Your Aged Fire Tablet Into a Functional Echo Show - Tips & Tricks | TechGuide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-childs-tech-experience-with-our-revolutionary-tablet-on-sale-a-new-era-for-kids-devices-zdnet/"><u>Transform Your Child's Tech Experience with Our Revolutionary Tablet (On Sale) – A New Era for Kids’ Devices | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-high-quality-large-tablets-in-depth-analysis-and-ratings-gizmohive/"><u>Ultimate Selection of High-Quality Large Tablets : In-Depth Analysis and Ratings | GizmoHive</u></a></li>
 </ul></div>
 

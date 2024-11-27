@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Bargain: Secure Your 4TB Samsung T5 External Drive at Amazon for Half the Price, Exclusive ZDNet Report"
-date: 2024-09-19 16:57:47
-updated: 2024-09-20 10:45:36
+date: 2024-11-26T19:14:03.707Z
+updated: 2024-11-27T17:15:40.723Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,26 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-2023-approaches-to-slidecasting-via-camera-for-2024/"><u>[New] Innovative 2023 Approaches to Slidecasting via Camera for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-syncing-tunes-with-video-cut-and-paste-youtube-editor-basics/"><u>[New] Syncing Tunes with Video Cut & Paste YouTube Editor Basics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-youtube-beginnings-15-editing-samples/"><u>[Updated] 2024 Approved Best YouTube Beginnings 15 Editing Samples</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capture-and-share-your-screens-bandicam-vs-camtasia/"><u>[Updated] In 2024, Capture and Share Your Screens Bandicam vs Camtasia</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-watch-series-10-turnaround-the-top-3-features-that-won-my-endorsement-zdnet-review/"><u>Apple Watch Series 10 Turnaround: The Top 3 Features That Won My Endorsement | ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-watch-series-8-analysis-stealing-the-spotlight-despite-falling-short-of-samsungs-advanced-sensor-tech-zdnet-insights/"><u>Apple Watch Series 8 Analysis: Stealing the Spotlight Despite Falling Short of Samsung's Advanced Sensor Tech - ZDNet Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/542087-9781451603675-divining-your-dreams/"><u>Divining Your Dreams | Free Book</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-future-of-playtime-analysis-beyond-fbx-solutions/"><u>In 2024, The Future of Playtime Analysis Beyond FBX Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-immersion-guide-uncovering-the-top-10-pc-headsets-for-virtual-video/"><u>In 2024, The Ultimate Immersion Guide Uncovering the Top 10 PC Headsets for Virtual Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/instructions-to-prevent-unwanted-touchpad-input-in-windows-10-with-an-attached-mouse-device/"><u>Instructions to Prevent Unwanted Touchpad Input in Windows 10 with an Attached Mouse Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-samsung-devices-gain-fresh-google-innovations-exclusive-insights-revealed-by-zdnet/"><u>Upcoming Samsung Devices Gain Fresh Google Innovations: Exclusive Insights Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zooming-in-on-the-apple-watch-ultra-2-and-garmin-epix-pro-an-in-depth-comparison-of-their-advanced-amoled-tech/"><u>Zooming in on the Apple Watch Ultra 2 and Garmin Epix Pro: An In-Depth Comparison of Their Advanced AMOLED Tech</u></a></li>
+</ul></div>
+

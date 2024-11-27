@@ -1,7 +1,7 @@
 ---
 title: "A Week with an Ergonomic Split Keyboard: How My Productivity Skyrocketed"
-date: 2024-11-12T17:13:57.134Z
-updated: 2024-11-17T18:38:03.759Z
+date: 2024-11-21T19:04:27.013Z
+updated: 2024-11-27T17:46:46.570Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -109,10 +113,7 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -151,22 +152,21 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-master-the-art-of-live-streaming-with-google-meet-on-youtube/"><u>[Updated] Master the Art of Live Streaming with Google Meet on YouTube</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-cool-climates-cozy-cinematics-selecting-winter-backgrounds/"><u>2024 Approved Cool Climates, Cozy Cinematics Selecting Winter Backgrounds</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>2024 Approved Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-a2-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi A2? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-best-buy-savings-for-june-2e-insider-tips-by-zdnet/"><u>Discover the Ultimate Best Buy Savings for June 2E - Insider Tips by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-the-neato-d10-robotic-vacuum-a-comprehensive-zdnet-review/"><u>Expert Analysis: The Neato D10 Robotic Vacuum - A Comprehensive ZDNet Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-markets-finest-2022s-elite-selection-of-mouse-mats-by-zdnet/"><u>Exploring the Market's Finest: 2022'S Elite Selection of Mouse Mats by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hands-on-review-of-poly-sync-10-on-zdnet-promising-sound-quality-with-missing-crucial-features/"><u>Hands-On Review of Poly Sync 10 on ZDNet: Promising Sound Quality with Missing Crucial Features</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-x8b-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on X8b</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24+ Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-top-10-audio-disruptors-androidios-edition/"><u>In 2024, Top 10 Audio Disruptors Android/iOS Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-innocn-27c1u-a-stunning-4k-display-with-fast-connection-time-insights-from-zdnet/"><u>Review of Innocn 27C1U: A Stunning 4K Display with Fast Connection Time - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-how-the-easy-to-use-anker-3d-printer-impressed-and-became-a-must-have-for-newbies-tech-insights/"><u>The Ultimate Guide: How the Easy-to-Use Anker 3D Printer Impressed & Became a Must-Have for Newbies | Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-workstation-laptops-analyzed-by-professionals-a-comprehensive-guide-zdnet/"><u>Top-Rated Graphics Workstation Laptops Analyzed by Professionals - A Comprehensive Guide | ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723201119149-troubleshooting-tips-for-an-unresponsive-xbox-one-contoller-quick-fixes/"><u>Troubleshooting Tips for an Unresponsive Xbox One Contoller - Quick Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-20-savings-with-iscanner-limited-time-deal-now-live-on-zdnet/"><u>Unlock 20% Savings with iScanner: Limited-Time Deal Now Live on ZDNet!</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-strategies-for-rectifying-fall-guys-connection-woes-in-windows/"><u>Winning Strategies for Rectifying Fall Guys Connection Woes in Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-diy-digital-footprint-creating-youtube-thumbnails-from-mobile-devices/"><u>[New] DIY Digital Footprint Creating YouTube Thumbnails From Mobile Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-insiders-guide-to-the-best-6-harnesses-for-capturing-life-with-gopro/"><u>[New] Insider's Guide to the Best 6 Harnesses for Capturing Life with GOPRO</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-capture-the-crash-expert-surfer-cameras-review/"><u>[Updated] 2024 Approved Capture the Crash - Expert Surfer Cameras Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-total-data-consumption-days-long-movie-for-2024/"><u>[Updated] Total Data Consumption Day's Long Movie for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-finest-thermal-travel-mugs-ideal-for-tea-coffee-and-more-zdnet/"><u>2022'S Finest Thermal Travel Mugs: Ideal for Tea, Coffee & More | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-driving-with-elite-radar-detectors-vetted-by-specialists-at-zdnet-the-complete-selection-list/"><u>Ace Your Driving with Elite Radar Detectors Vetted by Specialists at ZDNet: The Complete Selection List!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/autonomous-deliveries-on-the-rise-with-uber-leading-the-way-according-to-zdnet/"><u>Autonomous Deliveries on the Rise with Uber Leading the Way, According to ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breakthrough-techniques-for-selecting-text-in-windows-pdfs/"><u>Breakthrough Techniques for Selecting Text in Windows PDFs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/endless-minecraft-crashes-try-these-6-simple-steps-for-a-smooth-gaming-experience/"><u>Endless Minecraft Crashes? Try These 6 Simple Steps for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-meizu-21frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Meizu 21FRP Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issues-connecting-with-dhcp-server/"><u>Resolved: Issues Connecting with DHCP Server</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-entry-to-your-fileshare-onedrive-troubleshooting-guide/"><u>Streamline Entry to Your Fileshare: OneDrive Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-future-of-food-retail-discover-zdnets-1-ai-innovation-transforming-shopping-trips/"><u>Unlock the Future of Food Retail: Discover ZDNet's #1 AI Innovation Transforming Shopping Trips!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-redesign-of-your-uber-application-essential-insights-revealed-by-zdnet/"><u>Upcoming Redesign of Your Uber Application: Essential Insights Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-kalk-cake-electric-bike-your-eco-friendly-work-to-play-transporter-with-a-utilitarian-edge/"><u>ZDNet Reveals Kalk Cake Electric Bike: Your Eco-Friendly Work-to-Play Transporter with a Utilitarian Edge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-guide-to-emporia-energys-economical-electric-vehicle-charger-with-enhanced-data-features/"><u>ZDNet's Comprehensive Guide to Emporia Energy’s Economical Electric Vehicle Charger with Enhanced Data Features</u></a></li>
 </ul></div>
 

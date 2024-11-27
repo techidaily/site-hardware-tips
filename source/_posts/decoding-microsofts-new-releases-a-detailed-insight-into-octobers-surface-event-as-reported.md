@@ -1,7 +1,7 @@
 ---
 title: "Decoding Microsoft’s New Releases: A Detailed Insight Into October’s Surface Event as Reported"
-date: 2024-11-12T19:33:45.146Z
-updated: 2024-11-17T18:35:07.443Z
+date: 2024-11-25T17:08:50.654Z
+updated: 2024-11-27T18:33:22.060Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -79,10 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -92,10 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -142,19 +140,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/the-new-breed-how-emulating-animal-traits-transforms-modern-robotics-book-exploration-and-seo-deep-dive/"><u>'The New Breed': How Emulating Animal Traits Transforms Modern Robotics | Book Exploration and SEO Deep Dive</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hacking-the-process-instant-deletion-on-youtube/"><u>[New] In 2024, Hacking the Process Instant Deletion on Youtube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/autonomous-cleaning-revolution-dreame-l40-ultra-robot-vacuums-75-day-solo-operation-spotlight-by-zdnet/"><u>Autonomous Cleaning Revolution: Dreame L40 Ultra Robot Vacuum's 75-Day Solo Operation - Spotlight by ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/binkw32dll-is-unavailable-discover-simple-fixes-for-common-dll-errors/"><u>Binkw32.Dll Is Unavailable? Discover Simple Fixes for Common DLL Errors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-cleaning-showdown-proven-tips-on-choosing-between-90-and-700-robot-vacuums/"><u>Budget-Friendly Cleaning Showdown: Proven Tips on Choosing Between $90 and $700 Robot Vacuums</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-googles-text-conversion-service-a-detailed-walkthrough/"><u>In 2024, Mastering Google's Text Conversion Service A Detailed Walkthrough</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/intel-introduces-extended-two-year-guarantee-for-defective-chips-insider-info-revealed-techinsight/"><u>Intel Introduces Extended Two-Year Guarantee for Defective Chips – Insider Info Revealed | TechInsight</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-a-movie-in-minutes-the-easy-way-to-film-success/"><u>Make a Movie in Minutes The Easy Way to Film Success</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-tech-score-the-eufy-turbo-vacuum-for-only-350-after-prime-sale-a-deal-you-cant-miss/"><u>Save Big on Tech: Score the Eufy Turbo Vacuum for Only $350 After Prime Sale - A Deal You Can't Miss</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-choosing-prime-games-in-apples-marketplace/"><u>The Art of Choosing Prime Games in Apple's Marketplace</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-cleaning-solution-unveiled-roborock-s8-pros-amazing-2-in-1-features-thoroughly-explored-a-comprehensive-review-by-techexplorer/"><u>Ultimate Cleaning Solution Unveiled: Roborock S8 Pro's Amazing 2-in-1 Features Thoroughly Explored - A Comprehensive Review by TechExplorer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-how-to-transform-your-dvd-collection-into-premium-mpeg2-format-videos/"><u>Ultimate Guide: How To Transform Your DVD Collection Into Premium MPEG2 Format Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/zoom-webinars-for-newbies-a-practical-starter-manual-for-2024/"><u>Zoom Webinars for Newbies A Practical Starter Manual for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-companion-for-creating-unique-metaverse-avatars/"><u>[New] 2024 Approved The Ultimate Companion for Creating Unique Metaverse Avatars</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tales-on-the-silver-screen-writing-for-cinema/"><u>[New] Tales on the Silver Screen Writing for Cinema</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-learn-photo-edits-like-a-pro-lunapic-for-starters/"><u>[Updated] Learn Photo Edits Like a Pro LunaPic for Starters</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-secrets-of-sound-logging-ios-and-android-stealthy-tools-list/"><u>2024 Approved Secrets of Sound Logging IOS & Android Stealthy Tools List</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/achieving-cinematic-quality-through-aspect-ratio-choices/"><u>Achieving Cinematic Quality Through Aspect Ratio Choices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-vibrant-canvas-cropping-adding-and-editing-sound-effectively/"><u>In 2024, Unleash Vibrant Canvas Cropping, Adding, & Editing Sound Effectively</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-photography-these-are-your-cams-in-24/"><u>New Photography? These Are Your Cams in '24</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-chip-technology-harnessed-from-fungi-to-charge-gadgets-and-protect-our-environment-explore-with-zdnet/"><u>Revolutionary Chip Technology Harnessed From Fungi to Charge Gadgets and Protect Our Environment | Explore with ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-reminders-with-reusability-discover-rocketbooks-optimistic-vision-for-sustainable-notes-zdnet/"><u>Revolutionizing Reminders with Reusability: Discover Rocketbook’s Optimistic Vision for Sustainable Notes | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-the-cart-top-strategies-on-how-artificial-intelligence-is-redefining-your-grocery-experience-insights-from-zdnet/"><u>Revolutionizing the Cart: Top Strategies on How Artificial Intelligence Is Redefining Your Grocery Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unveils-eco-friendly-galaxy-s23-a-new-era-of-green-innovation/"><u>Samsung Unveils Eco-Friendly Galaxy S23: A New Era of Green Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-shoveling-struggles-discover-how-an-electric-snow-removal-solution-is-game-changing-for-clevelands-cold-season-insights-from-zdnet/"><u>Say Goodbye to Shoveling Struggles! Discover How an Electric Snow Removal Solution Is Game-Changing for Cleveland's Cold Season | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-biofuel-innovation-mushroom-derived-chip-technology-for-device-power-and-eco-conservation-exploring-the-future-with-zdnet/"><u>Sustainable Biofuel Innovation: Mushroom-Derived Chip Technology for Device Power & Eco Conservation | Exploring the Future with ZDNET</u></a></li>
 </ul></div>
 

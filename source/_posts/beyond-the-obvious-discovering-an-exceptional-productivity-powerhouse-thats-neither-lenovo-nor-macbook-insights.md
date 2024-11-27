@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Obvious: Discovering an Exceptional Productivity Powerhouse That's Neither Lenovo nor MacBook | Insights"
-date: 2024-11-10T19:48:14.927Z
-updated: 2024-11-17T21:46:48.732Z
+date: 2024-11-22T16:24:38.883Z
+updated: 2024-11-27T17:46:37.481Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kyle Kucharski/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -91,10 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,22 +134,17 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-inside-camstudios-updated-screen-recorder-techniques/"><u>[New] 2024 Approved Inside CamStudio's Updated Screen Recorder Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-quick-guide-merging-igtv-with-instagram-stories/"><u>[New] 2024 Approved Quick Guide Merging IGTV with Instagram Stories</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamline-your-skype-talks-using-obs-effectively/"><u>[Updated] 2024 Approved Streamline Your Skype Talks Using OBS Effectively</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-illustration-ingenuity-3d-text-magic/"><u>[Updated] Illustration Ingenuity 3D Text Magic</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tailoring-sound-fades-within-logic-pro-settings/"><u>2024 Approved Tailoring Sound Fades Within Logic Pro Settings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-chill-discover-the-best-low-cost-air-conditioners-for-savvy-shoppers-insights-from-zdnet/"><u>Budget-Friendly Chill: Discover the Best Low-Cost Air Conditioners for Savvy Shoppers – Insights From ZDNET</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-zero-to-hero-funimates-apk-unleashed-playbook/"><u>From Zero to Hero Funimate's APK Unleashed Playbook</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-srt-revisited-direct-conversion-to-subcap/"><u>In 2024, SRT Revisited Direct Conversion to SUBCAP</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-future-of-remote-collaboration-googles-new-workplace-video-calls-with-magic-window-technology-derived-from-project-starline-detailed-review-144/"><u>Introducing the Future of Remote Collaboration: Google's New Workplace Video Calls with 'Magic Window' Technology Derived From Project Starline, Detailed Review and Benefits Explained on ZDNet.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/raspberry-pi-starter-kit-step-by-step-assembly-instructions-inspired-by-zdnet-experts/"><u>Raspberry Pi Starter Kit: Step-by-Step Assembly Instructions Inspired by ZDNet Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/shure-mv7-unveiled-tackling-the-hybrid-mic-landscape-for-content-creators-expert-review-by-zdnet/"><u>Shure MV7 Unveiled: Tackling the Hybrid Mic Landscape for Content Creators | Expert Review by ZDNET</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-8-tech-tools-for-seamless-work-trips-as-endorsed-by-zdnets-industry-leaders/"><u>The Ultimate 8 Tech Tools for Seamless Work Trips, as Endorsed by ZDNet's Industry Leaders</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-3-benefits-of-switching-to-an-ergonomic-mouse-now-insights-from-zdnet/"><u>Top 3 Benefits of Switching to an Ergonomic Mouse Now: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-silent-gaming-mouse-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Silent Gaming Mouse : Comprehensive Testing & Reviews by Tech Experts | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-wireless-charging-pads-of-2024-featured-on-zdnet/"><u>Top-Rated Wireless Charging Pads of 2024 - Featured on ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-6-fixes-for-baldurs-gate-stuttering-and-freezing-issues/"><u>[Fixed] 6 Fixes for Baldur's Gate Stuttering & Freezing Issues</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-evaluating-magix-multimedia-software/"><u>[New] 2024 Approved Evaluating MAGIX Multimedia Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-download-youtube-tunes-with-these-10plus-no-cost-audio-crackers/"><u>[New] In 2024, Download YouTube Tunes with These 10+ No-Cost Audio Crackers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-engagement-strategic-use-of-youtube-titles-for-2024/"><u>[Updated] Elevating Engagement Strategic Use of Youtube Titles for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-outstanding-evaluation-and-alternative-paths/"><u>2024 Approved Outstanding Evaluation & Alternative Paths</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-rush-grab-samsung-t5-ssds-at-half-price-before-october-on-amazon-tech-insights-by-zdnet/"><u>Beat the Rush! Grab Samsung T5 SSDs at Half Price Before October on Amazon | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-c67-4g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme C67 4G Pattern Lock Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intricate-analysis-of-dell-xps-13-beyond-eye-catching-appearance-to-its-top-featured-performance-expert-insights-by-zdnet/"><u>Intricate Analysis of Dell XPS 13: Beyond Eye-Catching Appearance to Its Top Featured Performance | Expert Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-raises-repair-game-with-latest-laptops-ifixit-impressed-apple-watchers-take-note/"><u>Microsoft Raises Repair Game with Latest Laptops; iFixit Impressed, Apple Watchers Take Note!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touch-screen-laptops-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Touch Screen Laptops: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unparalleled-flexibility-and-stunning-visuals-a-review-of-an-exceptional-laptop-with-top-notch-display-insights/"><u>Unparalleled Flexibility & Stunning Visuals: A Review of an Exceptional Laptop with Top-Notch Display - Insights</u></a></li>
 </ul></div>
 

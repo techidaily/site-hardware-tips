@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Personalized DNS Servers on Chromebooks: Benefits and How-To Guide"
-date: 2024-11-11T21:54:06.080Z
-updated: 2024-11-17T18:52:48.565Z
+date: 2024-11-24T18:59:57.029Z
+updated: 2024-11-27T18:24:00.390Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,10 @@ Based on all my experience, here's why Chromebooks are the perfect laptops for m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Chromebooks are cheap
 
 The first reason is beyond dispute. Given how the economy has had a rather crushing effect on so many of our budgets, finding an inexpensive piece of hardware can be a real plus for anyone looking to stay productive. That's not to say every Chromebook is cheap. I once paid a premium for a [Chromebook Pixel](https://www.zdnet.com/article/googles-chromebook-pixel-lives-on-but-you-cant-buy-one/) \-- and that laptop remains one of my favorites. (The display and keyboard were best in class at the time.) 
@@ -58,6 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Chromebooks are user-proof
 
 No other laptop operating system on the planet can claim to be as user-proof as [ChromeOS](https://www.zdnet.com/article/5-chromeos-tips-for-faster-navigation-and-a-more-efficient-experience/). Some would argue that's because there's so little you can do with a Chromebook, but that's patently false, especially considering that your Chromebook can run both [Android](https://www.zdnet.com/home-and-office/work-life/how-to-add-android-apps-to-your-chromebook/) and Linux apps. 
@@ -81,10 +89,7 @@ It's not just about how quickly apps open (Android _and_ Linux apps, see above),
 If you want a fast laptop at a reasonable price, get a Chromebook.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Chromebooks are reliable
@@ -95,13 +100,6 @@ In the 10 years since I've been using Chromebooks, I've only had one device with
 
 Even when using the [non-stable ChromeOS channel](https://www.zdnet.com/article/how-to-switch-release-channels-on-your-chromebook/), I've found the operating system to be exponentially more reliable than Windows. Anyone who argues this point hasn't used ChromeOS enough.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Chromebooks are secure
 
 Reliability isn't just about stability -- it's also about security, and -- thanks to the Linux kernel -- [ChromeOS is a very secure option](https://www.zdnet.com/article/5-chromeos-settings-you-should-change-for-a-more-secure-chromebook-heres-how/). On top of that, Chromebooks are secured with verification at boot, a read-only OS that blocks executables, data encryption, sandboxing, and more. 
@@ -111,10 +109,7 @@ Thanks to ChromeOS's built-in security, even older, out-of-support Chromebooks a
 You won't need antivirus or anti-malware. Just make sure to apply any/all updates when they become available, avoid suspicious websites, and only install extensions from the official Google Chrome Store, and you're good to go. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Chromebooks can be easily restored
@@ -126,10 +121,7 @@ Speaking of reliability, should you wind up having a problem with ChromeOS misbe
 No other operating system can compete with ChromeOS's ability to factory reset and return you to a pristine working state without having lost your data, bookmarks, apps, and more. I've never once worried about doing anything with a Chromebook, simply because I know I can do a quick power wash and be back working in minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -166,16 +158,19 @@ Chromebooks may not be the ideal solution for everyone. (Attempt any serious vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-powerdirectors-complete-blueprint-for-success/"><u>[New] PowerDirector's Complete Blueprint for Success</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-innovative-approaches-to-sims-4-video/"><u>[Updated] Innovative Approaches to Sims 4 Video</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-secure-your-videos-with-free-image-savers-for-2024/"><u>[Updated] Secure Your Videos with FREE Image Savers for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-rejuvenating-your-old-keyboard-a-step-by-step-guide-for-a-fresh-start-and-the-unexpected-joy-of-cleaning/"><u>1. Rejuvenating Your Old Keyboard: A Step-by-Step Guide for a Fresh Start (and the Unexpected Joy of Cleaning!)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cost-effective-filmmaking-how-these-compact-mini-ssds-outshine-pricey-memory-cards-insights-from-zdnet/"><u>Cost-Effective Filmmaking: How These Compact Mini SSDs Outshine Pricey Memory Cards - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/declutter-and-disinfect-the-surprising-benefits-of-refreshing-your-5-year-old-keyboard/"><u>Declutter and Disinfect: The Surprising Benefits of Refreshing Your 5-Year-Old Keyboard</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-reveals-superior-alternatives-to-yeti-and-rode-for-podcasters-mics-zdnet-insights/"><u>Expert Review Reveals Superior Alternatives to Yeti & Rode for Podcasters' Mics | ZDNet Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-a56s-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo A56s 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/meet-the-latest-super-sleek-lg-gram-the-lightest-and-leanest-laptop-ever-by-techexpert-at-zdnet/"><u>Meet the Latest Super Sleek LG Gram: The Lightest & Leanest Laptop Ever by TechExpert at ZDNET</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-best-professional-template-pack-for-premiere-pro/"><u>The Best Professional Template Pack for Premiere Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-file-clarity-the-art-of-notating-explorers/"><u>Unraveling File Clarity: The Art of Notating Explorers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1726809481690-x-plus-5x-n/"><u> [X + 5X = N </u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixing-invisible-areas-within-youtube-videos/"><u>[New] 2024 Approved Fixing Invisible Areas Within YouTube Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-3-step-guide-to-ascertain-googles-profitable-potential-youtube-analysis/"><u>2024 Approved 3-Step Guide to Ascertain Google's Profitable Potential YouTube Analysis</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-jovial-jamboree-accessing-comic-crafts-for-free/"><u>2024 Approved Jovial Jamboree Accessing Comic Crafts for Free</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-fire-tv-showdown-expert-picks-for-the-ultimate-media-streamer-of-202n4-cnet-insights/"><u>Amazon Fire TV Showdown: Expert Picks for the Ultimate Media Streamer of 202N4 - CNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-hidden-gem-the-ultimate-speaker-setup-surpassing-bose-and-sonos-discovered/"><u>Best Hidden Gem: The Ultimate Speaker Setup Surpassing Bose & Sonos Discovered</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211112324-9798218279486-grace-grit-lipstick/"><u>Grace, Grit & Lipstick | Free Book</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-zte-blade-a73-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On ZTE Blade A73 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmatched-audio-experience-discover-the-ultimate-non-sony-non-bose-soundbar-recommended-by-tech-guru-on-zdnet/"><u>Unmatched Audio Experience: Discover the Ultimate Non-Sony, Non-Bose Soundbar Recommended by Tech Guru on ZDNet</u></a></li>
+<li><a href="https://techidaily.com/windows-spotlight-not-working-in-windows-10-fixed/"><u>Windows Spotlight Not Working in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-ultimate-guide-to-viewing-the-super-bowl-liv-across-all-online-platforms-zdnet/"><u>Your Ultimate Guide to Viewing the Super Bowl LIV Across All Online Platforms - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-picks-for-the-ultimate-roku-tv-selection-in-2er-2024-comprehensive-expert-ratings/"><u>ZDNet's Picks for the Ultimate Roku TV Selection in 2Er 2024: Comprehensive Expert Ratings</u></a></li>
 </ul></div>
 

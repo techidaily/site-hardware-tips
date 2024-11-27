@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Coverage: All You Need to Know About Microsoft's Latest Innovations From the Recent Surface Unveiling"
-date: 2024-11-14T16:30:53.001Z
-updated: 2024-11-17T20:45:38.817Z
+date: 2024-11-21T16:55:23.591Z
+updated: 2024-11-27T17:28:12.624Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [How to use Android's emergency satellite texting if you lose cell signal](https://www.zdnet.com/article/how-to-use-androids-emergency-satellite-texting-if-you-lose-cell-signal/)
@@ -38,10 +42,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -61,10 +62,7 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -85,13 +83,6 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The aptly-named Surface Studio 2+
 
 The Surface Studio 2+ looks nearly identical to the Surface Studio 2.
@@ -107,10 +98,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -124,6 +112,10 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -171,24 +163,14 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-entrepreneurs-playbook-gather-these-vital-products-to-thrive-in-business/"><u>[New] 2024 Approved The Entrepreneur's Playbook Gather These Vital Products to Thrive in Business</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instatilecraft-create-impressive-androidplusios-vids/"><u>[New] InstaTilecraft Create Impressive Android+iOS Vids</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unlock-youtubes-power-for-free-educational-sessions/"><u>[Updated] 2024 Approved Unlock YouTube's Power for FREE Educational Sessions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-exploring-browsing-anomalies-where-are-my-fb-video-suggestions-for-2024/"><u>[Updated] Exploring Browsing Anomalies Where Are My FB Video Suggestions for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-snippet-supremacy-essential-hashes-for-accelerated-viewership-growth-for-2024/"><u>[Updated] Snippet Supremacy Essential Hashes for Accelerated Viewership Growth for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-how-to-optimizing-vlc-for-mac-performance/"><u>2024 Approved How-To Optimizing VLC for Mac Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/equinox-introduces-revolutionary-ai-robotic-massage-therapy-for-ultimate-relaxation-zdnet/"><u>Equinox Introduces Revolutionary AI Robotic Massage Therapy for Ultimate Relaxation | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/faa-approves-new-regulations-a-boon-for-commercial-drone-pilots-insights-and-analysis-from-zdnet/"><u>FAA Approves New Regulations: A Boon for Commercial Drone Pilots - Insights and Analysis From ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-x6-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco X6 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mcdonalds-automated-drive-through-bot-causes-chaos-hilariously-goes-viral/"><u>McDonald's Automated Drive-Through Bot Causes Chaos, Hilariously Goes Viral</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-the-roomba-combo-j7plus-the-nearly-perfect-hybrid-robot-vacuum-insights-from-zdnet/"><u>Review of the Roomba Combo J7+: The Nearly Perfect Hybrid Robot Vacuum - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/struggling-with-misplaced-car-keys-see-why-robots-have-the-edge-over-our-memories-according-to-zdnet-research/"><u>Struggling with Misplaced Car Keys? See Why Robots Have the Edge Over Our Memories - According to ZDNet Research</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-smart-home-innovations-in-2eightyfour-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Smart Home Innovations in 2Eightyfour: Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-robot-vacuum-mopping-systems-in-depth-analysis-by-professionals-techinsider/"><u>Top-Rated Robot Vacuum Mopping Systems : In-Depth Analysis by Professionals | TechInsider</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-smart-home-gadgets-of-2024-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Smart Home Gadgets of 2024 - Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-joy-in-yard-work-the-ultimate-guide-to-a-smart-remote-controlled-lawnmower-experience-tech-innovations-on-zdnet/"><u>Unleashing Joy in Yard Work: The Ultimate Guide to a Smart, Remote-Controlled Lawnmower Experience | Tech Innovations on ZDNET</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/zegt-krijgen-of-bekostigd-betreffelijke-movavi-video-omwisselende-instelling-voor-nederlands-speelgoed/"><u>Zegt 'Krijgen' Of 'Bekostigd'! Betreffelijke Movavi Video-Omwisselende Instelling Voor Nederlands Speelgoed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-creating-engaging-stream-content-shorts/"><u>[New] Creating Engaging Stream Content Shorts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cripting-significant-soliloquies-for-2024/"><u>[New] Scripting Significant Soliloquies for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-creating-full-screen-memories/"><u>2024 Approved The Ultimate Guide to Creating Full-Screen Memories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-meme-magic-kinemaster-edition/"><u>2024 Approved Unlocking Meme Magic KineMaster Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cross-version-windows-hardware-installers/"><u>Cross-Version Windows Hardware Installers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-home-generator-bargains-of-december-2022-insider-picks-from-zdnet/"><u>Top 4 Home Generator Bargains of December 2022 - Insider Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-a-review-by-zdnet/"><u>Top 5 Eco-Friendly Smartphones : A Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-houseplants-ideal-for-revitalizing-your-workspace-insights-and-tips/"><u>Top 5 Houseplants Ideal for Revitalizing Your Workspace - Insights & Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-office-friendly-houseplants-enhancing-productivity-with-greenery-zdnet-guide/"><u>Top 5 Office-Friendly Houseplants: Enhancing Productivity with Greenery (ZDNet Guide)</u></a></li>
 </ul></div>
 

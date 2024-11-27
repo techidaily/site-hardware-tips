@@ -1,7 +1,7 @@
 ---
 title: "Skip the Queue: Masterful Tips for Buying New Apple MacBook Pro and Mac Mini Directly | Expert Advice by ZDNET"
-date: 2024-09-17 18:51:27
-updated: 2024-09-20 12:30:44
+date: 2024-11-20T16:09:21.571Z
+updated: 2024-11-27T19:30:56.137Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,30 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-break-boundaries-get-free-vob-handling-toolset-pc-and-mac/"><u>[Updated] Break Boundaries Get Free VOB Handling Toolset (PC & Mac)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-phantom-slow-motion-masterclass/"><u>2024 Approved Phantom Slow Motion Masterclass</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-a05-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-8-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 8 Factory Reset? | Stellar</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-definitive-guide-to-appending-srt-track-in-videos/"><u>In 2024, The Definitive Guide to Appending SRT Track in Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovos-journey-towards-a-greener-future-achieving-sustainable-practices-and-net-zero-goals-insights-from-zdnet/"><u>Lenovo's Journey Towards a Greener Future: Achieving Sustainable Practices & Net Zero Goals - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leveraging-artifice-intelligence-for-enhanced-home-energy-savings-with-samsungs-smartthings-expert-analysis-on-zdnet/"><u>Leveraging Artifice Intelligence for Enhanced Home Energy Savings with Samsung's SmartThings | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-the-value-of-your-upgraded-phone-tips-on-selling-or-donating-your-previous-model/"><u>Maximizing the Value of Your Upgraded Phone - Tips on Selling or Donating Your Previous Model</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-future-of-garden-maintenance-dandys-autonomous-weed-destroyer-your-new-back-saver-zdnet/"><u>Meet the Future of Garden Maintenance: Dandy's Autonomous Weed Destroyer, Your New Back Saver | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-great-reshuffle-exploring-green-skills-and-jobs-in-linkedins-landscape-insights-from-zdnet/"><u>Navigating the Great Reshuffle: Exploring Green Skills & Jobs in LinkedIn's Landscape - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-path-to-green-tech-innovation-overcoming-obstacles-and-seizing-prospects/"><u>Navigating the Path to Green Tech Innovation: Overcoming Obstacles & Seizing Prospects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/orchestrating-your-playlists-from-one-to-another/"><u>Orchestrating Your Playlists From One to Another</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/paris-olympics-data-a-key-to-reducing-future-olympic-events-energy-consumption/"><u>Paris Olympics Data: A Key to Reducing Future Olympic Events' Energy Consumption</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-common-issues-with-non-functioning-zoom-cameras/"><u>Solving Common Issues with Non-Functioning Zoom Cameras</u></a></li>
+</ul></div>
+

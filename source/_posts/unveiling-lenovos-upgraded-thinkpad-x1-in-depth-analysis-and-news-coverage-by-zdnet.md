@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Lenovo's Upgraded ThinkPad X1: In-Depth Analysis and News Coverage by ZDNet"
-date: 2024-11-11T19:05:52.415Z
-updated: 2024-11-17T20:31:57.800Z
+date: 2024-11-22T17:42:15.879Z
+updated: 2024-11-27T16:56:22.328Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -79,10 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,15 +122,22 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-vhs-80s-effects-to-use-in-video-editing/"><u>[New] 2024 Approved Best VHS 80S Effects to Use in Video Editing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-capture-to-share-precision-cropping-and-export-tips-for-instagram/"><u>[Updated] In 2024, From Capture to Share Precision Cropping & Export Tips for Instagram</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-pros-guide-to-exceptional-cameras-and-lenses-in-4k/"><u>[Updated] In 2024, The Pro's Guide to Exceptional Cameras and Lenses in 4K</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/all-in-one-roborock-s8-pro-vacuum-mastery-comprehensive-test-and-evaluation-techdigest/"><u>All-in-One Roborock S8 Pro Vacuum Mastery: Comprehensive Test & Evaluation - TechDigest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experiencing-the-next-generation-of-two-in-one-vacuums-a-comprehensive-review-zdnet-news/"><u>Experiencing the Next Generation of Two-in-One Vacuums: A Comprehensive Review | ZDNET News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-apples-vision-the-next-generation-of-home-robotics-and-automation/"><u>Exploring Apple's Vision: The Next Generation of Home Robotics and Automation</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 14 Pro Max</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-unleash-gaming-potential-using-obs-recording-features/"><u>In 2024, Unleash Gaming Potential - Using OBS Recording Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-roomba-combo-j7plus-the-nearly-perfect-dual-purpose-robotic-vacuum-tech-review-by-zdnet/"><u>In-Depth Analysis of the Roomba Combo J7+: The Nearly Perfect Dual-Purpose Robotic Vacuum | Tech Review by ZDNet</u></a></li>
-<li><a href="https://fox-access.techidaily.com/tips-to-communicate-with-youtube-subscribers/"><u>Tips to Communicate with YouTube Subscribers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-lunapics-power-expert-tips-and-hacks/"><u>[New] Unlocking LunaPic's Power Expert Tips and Hacks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-utilmate-guide-15-tips-to-become-instagram-famous-fast-and-easy/"><u>[Updated] In 2024, Utilmate Guide 15 Tips to Become Instagram Famous Fast and Easy</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-poco-m6-5g-frp-by-drfone-android/"><u>How Can We Bypass Poco M6 5G FRP?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pro-tips-on-selecting-the-best-mac-snipers-for-2024/"><u>Pro Tips on Selecting the Best Mac Snipers for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-14-pro-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 14 Pro Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/reparieren-sie-mp4-video-dateien-auf-dem-pc-oder-mac-free-losung-fur-beschadigtes-video/"><u>Reparieren Sie MP4-Video Dateien Auf Dem PC Oder Mac - FREE-Lösung Für Beschädigtes Video</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/six-effective-methods-for-securely-removing-deleted-items-from-your-pc-windows-10-and-11-edition/"><u>Six Effective Methods for Securely Removing Deleted Items From Your PC - Windows 10 and 11 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-tech-hacks-slash-energy-costs-and-go-green-with-gadgets-zdnet/"><u>Top 6 Eco-Friendly Tech Hacks: Slash Energy Costs & Go Green with Gadgets | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-iphone-14-pro-and-pro-max-protective-cases-zdnets-picks/"><u>Top-Rated iPhone 14 Pro & Pro Max Protective Cases - ZDNET's Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-protectors-the-ultimate-guide-to-iphone-14-pro-and-pro-max-cases-techreviews/"><u>Top-Rated Protectors: The Ultimate Guide to iPhone 14 Pro & Pro Max Cases - TechReviews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-overcoming-error-4201-in-genshin-impact/"><u>Troubleshooting Tips for Overcoming Error #4201 in Genshin Impact</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uber-introduces-carbon-footprint-tracking-feature-showcasing-your-co2-reduction-achievements/"><u>Uber Introduces Carbon Footprint Tracking Feature, Showcasing Your CO2 Reduction Achievements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-massive-green-threat-to-apples-breaking-news-on-zdnet/"><u>Uncovering the Massive Green Threat to Apples | Breaking News on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-right-to-repair-movement-importance-and-impact-on-consumers-explore-with-zdnet/"><u>Understanding the Right to Repair Movement: Importance & Impact on Consumers - Explore with ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-ultimate-performance-a-comprehensive-review-of-zendure-superbase-pro-2000-for-tech-enthusiasts/"><u>Unleashing Ultimate Performance: A Comprehensive Review of Zendure SuperBase Pro 2000 for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-magic-of-lomi-indoor-composter-a-detailed-expert-review/"><u>Unveiling the Magic of Lomi Indoor Composter - A Detailed Expert Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

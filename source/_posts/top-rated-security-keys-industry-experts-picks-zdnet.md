@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Security Keys - Industry Experts' Picks | ZDNet
-date: 2024-11-12T18:30:39.040Z
-updated: 2024-11-17T16:58:27.475Z
+date: 2024-11-20T19:00:25.509Z
+updated: 2024-11-27T17:27:08.958Z
 tags:
   - laptops
 categories:
@@ -31,10 +31,7 @@ ZDNET's favorite security key is the [Yubico YubiKey 5 NFC](https://buy.geni.us/
 ZDNET has tested many security keys throughout the years and frequently tracks market developments and changes. We often use security keys ourselves and lean upon our personal experience to shape our recommendations. Below, you will find our top picks for security keys today. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best security keys of 2024
@@ -50,13 +47,6 @@ Pros
 Cons 
 * Expensive, especially if you need two
 * Technical knowledge may be required
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Yubico YubiKey 5 NFC
 
@@ -88,10 +78,7 @@ Cons
 * Doesn't support macOS logins
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thetis Fido U2F Security Key
@@ -123,19 +110,6 @@ Cons
 * Expensive
 * No NFC compatibility
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Yubico YubiKey 5 Nano
 
 ### Best security key for travel
@@ -164,14 +138,11 @@ Pros
 Cons 
 * Only supports FIDO protocols
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Yubico Security Key C NFC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best security key for businesses
 
@@ -199,6 +170,10 @@ Cons
 * USB-A only
 * No support for macOS and ChromeOS
 * May need to download additional drivers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Kensington Verimark Fingerprint Key
 
@@ -228,6 +203,10 @@ Pros
 Cons 
 * No biometrics
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Google Titan security key
 
 ### The best multi-platform security key
@@ -243,13 +222,6 @@ Titan security keys are compatible with Google's Advanced Protection Program, a 
 **Google Titan security key f** **eatures:** FIDO-certified security key | USB-A/NFC, USB-C/NFC | USB-C to USB-A adapter | Supports 250 passkeys | Works with Google's Advanced Protection Program
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best security key?
 
@@ -267,10 +239,7 @@ As testers of security keys over the years, we recommend the Yubico YubiKey 5 NF
 Note: Prices and compatibility information may vary based on location and specific devices. This table is based on the information provided in the given descriptions and is subject to change.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the right security key for you?
@@ -312,6 +281,10 @@ Our main criteria for selecting these security keys are:
 * **Security features**: Naturally, the security features of a security key are paramount. We considered each device's support for different authentication protocols alongside security measures including passwordless authentication.
 * **Price point**: The cost of your next security key is an important factor to consider. As they are physical, we recommend that you pick up two, just in case one ends up lost. As a result, we wanted to ensure this was affordable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are security keys and how do they work?
 
 A security key is a physical device that generates a unique code used with a password to authenticate your identity when logging into a website or application. It uses public-key cryptography and is more secure than traditional 2FA methods.
@@ -331,10 +304,7 @@ SMS is open to SIM hijacking, while a physical key cannot be copied or the data 
 We recommend purchasing at least two -- one that you use day-to-day and one to keep as a backup. For example, you can keep one in your home office or attached to a keychain if you're on the road, while one is stashed safely away to cover you if you lose your primary key. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can security keys be hacked?
@@ -344,6 +314,10 @@ Security keys are one of the best authentication methods on the market today and
 ## How do security keys prevent phishing?
 
 In layman's terms, security keys use encryption and security tokens that only work on genuine websites rather than fake phishing domains. Public and private keys work together to authenticate a user session, but the private key is held on the physical device, reducing the attack surface. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative security keys worth considering?
 
@@ -393,19 +367,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturing-your-digital-world/"><u>[New] 2024 Approved Capturing Your Digital World</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-content-youtube-video-editing-secrets-revealed-for-2024/"><u>[Updated] Elevate Your Content YouTube Video Editing Secrets Revealed for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/compact-in-size-powerful-cleaning-how-this-tiny-robot-vacuum-defies-expectations/"><u>Compact in Size, Powerful Cleaning: How This Tiny Robot Vacuum Defies Expectations</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-honor-70-lite-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Honor 70 Lite 5G</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/effortlessly-sync-youtube-videos-with-fb-feeds-using-autoplay-mode-for-2024/"><u>Effortlessly Sync YouTube Videos with FB Feeds Using Autoplay Mode for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/eufy-unveils-innovative-x1/"><u>Eufy Unveils Innovative X1</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcp-transition-hacks-3-pro-tips-for-seamless-video-editing-for-2024/"><u>FCP Transition Hacks 3 Pro Tips for Seamless Video Editing for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-15-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 15 iCloud Lock</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-home-cleaning-how-dreames-l40-ultra-bots-stay-active-for-two-full-solar-cycles-insights-from-zdnet/"><u>Revolutionizing Home Cleaning: How Dreame's L40 Ultra Bots Stay Active for Two Full Solar Cycles - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-home-cleaning-unveiled-an-in-depth-analysis-of-irobots-roomba-combo-j7plus-expert-reviews-on-zdnet/"><u>The Future of Home Cleaning Unveiled: An In-Depth Analysis of IRobot's Roomba Combo J7+ | Expert Reviews on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-2024-robot-vacuum-mopping-systems-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated 2024 Robot Vacuum Mopping Systems: Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-discords-audio-issues-during-screen-shares/"><u>Troubleshooting Guide: Fixing Discord's Audio Issues During Screen Shares</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-leading-robot-vacuums-of-2023-thorough-expert-analysis-and-ratings-engadget/"><u>Ultimate Guide to the Leading Robot Vacuums of 2023: Thorough Expert Analysis and Ratings | Engadget</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-cartoon-video-creation-made-easy-top-10-tools-for-beginners-for-2024/"><u>Updated Cartoon Video Creation Made Easy Top 10 Tools for Beginners for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-record-google-meet-for-free-for-2024/"><u>[New] How to Record Google Meet for Free for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-shooting-phenomenal-igtv-with-dslrsmartphone/"><u>[Updated] 2024 Approved The Ultimate Guide to Shooting Phenomenal IGTV with DSLR/Smartphone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-tagging-techniques-to-skyrocket-your-game-vids/"><u>2024 Approved Tagging Techniques to Skyrocket Your Game Vids</u></a></li>
+<li><a href="https://fox-links.techidaily.com/artistry-in-your-pocket-the-bestiary-of-top-8-iphone-drawing-apps/"><u>Artistry in Your Pocket The Bestiary of Top 8 iPhone Drawing Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avidemux-crop-video-a-beginners-guide-to-trimming-and-resizing/"><u>Avidemux Crop Video A Beginners Guide to Trimming and Resizing</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/dechiffrer-un-dvd-solutions-et-explications-qandr-faq/"><u>Déchiffrer Un DVD : Solutions Et Explications - Q&R FAQ</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-motorola-g24-power-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Motorola G24 Power in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-expert-endorsed-the-best-9-podcast-microphones-to-elevate-your-audio-level-9/"><u>New 2024 Approved Expert-Endorsed The Best 9 Podcast Microphones to Elevate Your Audio (Level 9)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-solar-power-banks-expert-picks-zdnet/"><u>Top-Rated Portable Solar Power Banks : Expert Picks - ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-protective-covers-for-the-iphone-14-pro-and-pro-max-2024s-ultimate-guide-zdnet/"><u>Top-Rated Protective Covers for the iPhone 14 Pro & Pro Max: 2024'S Ultimate Guide - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-cordless-leaf-vacuums-for-a-cleaner-garden-2022-edition/"><u>Ultimate Guide to Choosing the Best Cordless Leaf Vacuums for a Cleaner Garden, 2022 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-2024s-premier-riding-mowers-features-pros-and-cons-gadgetguru/"><u>Ultimate Selection of 2024'S Premier Riding Mowers - Features, Pros & Cons | GadgetGuru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-potential-in-depth-test-of-the-powerful-zendure-superbase-pro-200atury-batteries-featured-by-zdnet/"><u>Unleashing Potential: In-Depth Test of the Powerful Zendure SuperBase Pro 200Atury Batteries Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-potential-of-eco-friendly-technology-practical-tips-and-methods-insights-from-zdnet/"><u>Unlocking the Potential of Eco-Friendly Technology: Practical Tips and Methods | Insights From ZDNet</u></a></li>
 </ul></div>
 

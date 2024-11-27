@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Portable Power Solution for Years of Unmatched Performance | Save Big with Limited Time Offer at 49%% Off!
-date: 2024-11-11T17:41:24.398Z
-updated: 2024-11-17T17:14:17.037Z
+date: 2024-11-21T18:22:43.799Z
+updated: 2024-11-27T19:38:02.519Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -71,10 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -86,16 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -132,14 +124,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/buyable-innovations-from-ces-202n-exciting-gadgets-unveiled/"><u>Buyable Innovations From CES 202N - Exciting Gadgets Unveiled!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/crafting-and-sharing-custom-contact-posters-in-ios-17-using-namedrop-a-step-by-step-guide-techtips/"><u>Crafting and Sharing Custom Contact Posters in iOS 17 Using NameDrop - A Step-by-Step Guide | TechTips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/les-courses-au-francophone/"><u>Les Courses Au Francophone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-quest-for-enchanted-speech-is-the-magic-app-real-uncover-other-pathways/"><u>The Quest for Enchanted Speech Is the Magic App Real? Uncover Other Pathways</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ram-mods-ideal-memory-boosters-for-productivity-and-gaming-latest-reviews-on-zdnet/"><u>Top Ram Mods : Ideal Memory Boosters for Productivity & Gaming - Latest Reviews on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-performance-why-these-affordable-35-wireless-earbuds-are-a-steal-zdnet/"><u>Unbeatable Performance: Why These Affordable $35 Wireless Earbuds Are a Steal - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-the-leading-giant-displays-in-2t4/"><u>ZDNet's Ultimate Guide: The Leading Giant Displays in 2T4</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-behind-the-scenes-access-to-user-vids-on-facebook/"><u>[Updated] 2024 Approved Behind-the-Scenes Access to User Vids on Facebook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-in-class-ps3-virtual-games-for-pc/"><u>[Updated] 2024 Approved Best-in-Class PS3 Virtual Games for PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-captivating-features-the-allure-of-filmora-editing/"><u>[Updated] In 2024, Captivating Features The Allure of Filmora Editing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-securely-boost-your-tiktok-engagement-and-reach/"><u>2024 Approved Securely Boost Your TikTok Engagement & Reach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-players-in-immersive-vision-sets/"><u>2024 Approved Top Players in Immersive Vision Sets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-warzone-pacific-down-heres-how-to-prevent-sudden-game-shutdowns/"><u>COD: Warzone Pacific Down? Here's How to Prevent Sudden Game Shutdowns</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974211832-easily-update-intel-graphics-3000-windows-11-style/"><u>Easily Update Intel Graphics 3000, Windows 11 Style!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-wpd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .wpd file</u></a></li>
+<li><a href="https://extra-information.techidaily.com/one-mans-quest-with-3d-tech-3dr-analysis/"><u>One Man's Quest with 3D Tech '3DR' Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-this-black-friday-exclusive-offer-on-contixos-advanced-f2n-pro-gps-quadcopter-save-45-and-elevate-your-drone-experience/"><u>Score Big Savings This Black Friday: Exclusive Offer on Contixo's Advanced F2n Pro GPS Quadcopter | Save $45 and Elevate Your Drone Experience!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sony-and-honda-unveil-futuristic-electric-vehicle-concept-exclusive-look/"><u>Sony & Honda Unveil Futuristic Electric Vehicle Concept – Exclusive Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-rise-of-robotic-couriers-ubers-ascent-in-the-world-of-automated-shipping-forbes-digital/"><u>The Rise of Robotic Couriers: Uber's Ascent in the World of Automated Shipping | Forbes Digital</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-12-unique-presents-perfect-for-any-adventurer-inspiration-from-zdnet/"><u>Top 12 Unique Presents Perfect for Any Adventurer - Inspiration From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-tesla-models-a-comprehensive-comparison-of-model-s-3-x-and-y-insights-by-zdnet/"><u>Top-Ranking Tesla Models : A Comprehensive Comparison of Model S, 3, X & Y - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-radar-detectors-as-chosen-by-experts-on-zdnet-find-the-ultimate-guide/"><u>Top-Rated Radar Detectors as Chosen by Experts on ZDNet - Find the Ultimate Guide!</u></a></li>
 </ul></div>
 

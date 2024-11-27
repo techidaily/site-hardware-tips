@@ -1,7 +1,7 @@
 ---
 title: "Top Discounted Deals of 2023: Score Spectacular Savings on Dell XPS, Latitude and Precision Models | TechSavvy Bargains"
-date: 2024-11-14T17:03:08.245Z
-updated: 2024-11-17T16:29:55.977Z
+date: 2024-11-25T16:58:51.872Z
+updated: 2024-11-27T18:55:34.699Z
 tags:
   - laptops
 categories:
@@ -69,6 +69,10 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 
 [Garmin Venu 2S Smartwatch for $300 (save $50) $300 at Garmin](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/707572/pn/010-02429-01)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Target Cyber Monday headphones deals**
 
 [Beats Studio3 Wireless Headphones for $170 (save $180) $150 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fbeats-studio3-over-ear-noise-canceling-bluetooth-wireless-headphones%2F-%2FA-52960608%3Fpreselect%3D53280866%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -89,13 +93,6 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 
 [Vizio 50-inch Class M6 4K QLED Smart TV for $400 (save $130) $400 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fvizio-50-34-class-m6-series-4k-qled-hdr-smart-tv-with-dolby-vision-voice-remote-and-gaming-engine-m50q6-j01%2F-%2FA-86871198%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Target Cyber Monday speaker deals**
 
 [Bose SoundLink Revolve Plus II portable bluetooth speaker for $230 (save $100) $230 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fbose-soundlink-revolve-plus-ii-portable-bluetooth-speaker%2F-%2FA-82224654%3Fpreselect%3D82077495%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -106,6 +103,10 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 
 [Google Nest Mini (2nd generation) for $20 (save $29) $20 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fgoogle-nest-mini-2nd-generation%2F-%2FA-78589456&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose Cyber Monday deals at Target?
 
 For Target's Cyber Monday deals, we considered that people look for deals that are at least 20% off, especially when looking for holiday gifts. So, we scanned Target's website for the most in-demand, top-quality devices and included the ones with the steepest discounts. But make sure to check back here, as some of these deals will still be available the day after Cyber Monday.
@@ -113,10 +114,7 @@ For Target's Cyber Monday deals, we considered that people look for deals that a
 Scouring through deals means comparing prices across many retailers and finding the ones that make the most sense without compromising quality. Many of these products have been reviewed  experts to help you make an informed decision before you make a purchase.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is Black Friday 2022?
@@ -124,10 +122,7 @@ Scouring through deals means comparing prices across many retailers and finding 
 Black Friday is always the Friday following Thanksgiving Day. This year, Black Friday was on Nov. 25.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is Cyber Monday 2022?
@@ -135,10 +130,7 @@ Black Friday is always the Friday following Thanksgiving Day. This year, Black F
 Cyber Monday is the Monday after Thanksgiving and is when most online retailers have a holiday sale. This year, Cyber Monday was on Nov. 28.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
@@ -150,10 +142,7 @@ ZDNET scoured holiday sales to find the best deals this year:
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Holiday deals by retailer**
@@ -246,19 +235,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-fixing-dark-mode-issues-during-recording/"><u>[New] In 2024, Fixing Dark Mode Issues During Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capture-and-share-online-journeys-browsers-top-screen-recorders/"><u>[Updated] In 2024, Capture and Share Online Journeys Browsers' Top Screen Recorders</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-teacher-technology-cutting-edge-classroom-recorders-of-the-year/"><u>[Updated] In 2024, Teacher Technology Cutting-Edge Classroom Recorders of the Year</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-and-update-guide-windows-11-mobile-as-a-microsoft-insider-user/"><u>Download & Update Guide: Windows 11 Mobile as a Microsoft Insider User</u></a></li>
-<li><a href="https://app-tips.techidaily.com/download-premium-content-for-free-music-films-and-more-from-the-itunes-store/"><u>Download Premium Content For Free: Music, Films & More From the iTunes Store</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-excellence-in-camera-technology-top-15/"><u>In 2024, Excellence in Camera Technology – Top 15</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-spark-ars-full-potential-with-personalized-lut-implementations/"><u>In 2024, Unlock Spark AR's Full Potential with Personalized LUT Implementations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-storage-choices-ssd-or-hdd-a-comparative-analysis-for-tech-enthusiasts/"><u>Navigating Storage Choices: SSD or HDD - A Comparative Analysis for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-gen-elite-screen-technology-launched-by-samsung-before-the-upcoming-ces-exclusive-coverage-on-zdnet/"><u>Next-Gen Elite Screen Technology Launched by Samsung Before the Upcoming CES - Exclusive Coverage on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-workspace-with-the-must-have-1nite-dream-dock-for-creatives-featured-on-zdnet/"><u>Revolutionize Your Workspace with the Must-Have 1Nite Dream Dock for Creatives, Featured on ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/super-bowl-spots-soar-microsofts-copilot-and-temu-capture-attention-boosting-downloads-zdnet-insights/"><u>Super Bowl Spots Soar: Microsoft's Copilot & Temu Capture Attention, Boosting Downloads | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tablet-discounts-and-offers-save-big-on-your-purchase-this-june-insights-from-zdnet/"><u>Top Tablet Discounts & Offers: Save Big on Your Purchase This June - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-blistering-speeds-in-depth-analysis-of-top-tier-ssds-that-leave-enthusiasts-in-awe-zdnet/"><u>Unveiling Blistering Speeds: In-Depth Analysis of Top-Tier SSDs That Leave Enthusiasts in Awe | ZDNET</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-most-economical-tools-for-youtube-audio-conversion-for-2024/"><u>[New] The Most Economical Tools for YouTube Audio Conversion for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-nailing-iphone-snaps-top-editing-tricks/"><u>[Updated] Nailing iPhone Snaps Top Editing Tricks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210310468-9781778320095-10-hours-of-guided-meditations-for-deep-sleep-anxiety-depression-overthinking/"><u>10 Hours Of Guided Meditations For Deep Sleep, Anxiety, Depression & Overthinking | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-ringtones-and-fix-muted-phone-issues-on-iphone/"><u>How to Restore Ringtones and Fix Muted Phone Issues on iPhone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-lava-yuva-2-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lava Yuva 2 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-nokia-c210-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Nokia C210 Screen | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-airspace-rules-can-dji-mini-drones-be-used-for-business-purposes-zdnet/"><u>Navigating New Airspace Rules: Can DJI Mini Drones Be Used for Business Purposes? | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/no-more-waiting-on-deliveries-amazons-revolutionary-free-drone-service-brings-you-prescriptions-fast/"><u>No More Waiting on Deliveries - Amazon's Revolutionary Free Drone Service Brings You Prescriptions Fast!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/over-20k-southwest-airlines-flights-canceled-discover-whats-happening-and-why-it-matters/"><u>Over 20K Southwest Airlines Flights Canceled: Discover What's Happening and Why It Matters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prioritize-your-vehicles-crucial-safety-element-dont-overlook-it-anymore-zdnet/"><u>Prioritize Your Vehicle's Crucial Safety Element - Don't Overlook It Anymore | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ram-electrifies-the-market-with-first-battery-powered-pickup-showcased-at-ces-zdnet/"><u>Ram Electrifies the Market with First Battery-Powered Pickup, Showcased at CES | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-autonomous-vehicles-a-groundbreaking-ml-initiative-propelled-by-zdnet/"><u>Revolutionizing Autonomous Vehicles: A Groundbreaking ML Initiative Propelled by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-traffic-safety-south-koreas-commitment-to-advanced-c-v2x-systems/"><u>Revolutionizing Traffic Safety: South Korea's Commitment to Advanced C-V2X Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-sdi-and-gm-announce-joint-investment-of-3b-for-a-us-based-electric-vehicle-battery-facility/"><u>Samsung SDI & GM Announce Joint Investment of $3B for a U.S.-based Electric Vehicle Battery Facility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-spectrums-impact-applying-color-dynamics-for-2024/"><u>The Spectrum's Impact Applying Color Dynamics for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-install-epson-workforce-ds30-driver-on-pcs-running-win-10-8-or-easier-how-to-get-a-driver-upgrade-when-you-dont-want-your-computer-to-cras250/"><u>Ultimate Guide to Install Epson WorkForce DS30 Driver on PCs Running Win 10, 8 or Easier! How to Get a Driver Upgrade when You Don't Want Your Computer to Crash and Burn.</u></a></li>
 </ul></div>
 

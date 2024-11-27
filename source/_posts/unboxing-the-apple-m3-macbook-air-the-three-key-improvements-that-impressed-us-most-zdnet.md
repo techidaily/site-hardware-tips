@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Apple M3 MacBook Air: The Three Key Improvements That Impressed Us Most | ZDNET"
-date: 2024-11-16T21:26:20.553Z
-updated: 2024-11-17T18:56:10.024Z
+date: 2024-11-21T18:03:22.518Z
+updated: 2024-11-27T16:28:59.782Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple is _officially_ in the AI PC race
 
 Kerry Wan/ZDNET
@@ -51,10 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -66,10 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -112,20 +110,22 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-ultimate-checklist-to-add-audio-to-your-facebook-vids/"><u>[Updated] In 2024, The Ultimate Checklist to Add Audio to Your Facebook Vids</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-precision-in-film-craft-advanced-kinemaster-strategies/"><u>2024 Approved Precision in Film Craft Advanced Kinemaster Strategies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/battling-battery-issues-during-winter-why-your-electronics-may-lose-charging-power/"><u>Battling Battery Issues During Winter: Why Your Electronics May Lose Charging Power</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chipotle-invests-in-future-of-technology-with-new-venture-capital-initiative-zdnet/"><u>Chipotle Invests in Future of Technology with New Venture Capital Initiative - ZDNet</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/discord-spoilers-guide-essential-info-at-a-glance-for-2024/"><u>Discord Spoilers Guide Essential Info at a Glance for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-upgrade-to-latest-amd-drivers-enjoy-effortless-auto-selecting-technology/"><u>Download and Upgrade to Latest AMD Drivers - Enjoy Effortless Auto-Selecting Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-how-this-combo-robot-vacuum-and-mops-clever-self-cleaning-ability-transforms-your-cleaning-routine-gadget-reviews-zdnet/"><u>Explore How This Combo Robot Vacuum & Mop's Clever Self-Cleaning Ability Transforms Your Cleaning Routine | Gadget Reviews ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-skies-discovering-the-premier-aerial-photography-drones-of-2022-according-to-zdnet/"><u>Exploring the Skies: Discovering the Premier Aerial Photography Drones of 2022, According to ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-latest-mpow-bluetooth-driver-update-for-windows-download-now/"><u>Get Latest MPOW Bluetooth Driver Update for Windows - Download Now</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-14-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 14 Plus to iPad | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-premium-1900-robovac-and-mop-worth-your-investment-my-one-month-hands-on-experience-smarthomeguide/"><u>Is the Premium $1,900 RoboVac and Mop Worth Your Investment? My One-Month Hands-On Experience | SmartHomeGuide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconfiguring-account-lockout-limit-post-failed-sign-in-in-windows-1011/"><u>Reconfiguring Account Lockout Limit Post-Failed Sign-In in Windows 10/11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/star-wars-disneyland-and-droids/"><u>Star Wars, Disneyland, and Droids.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-connected-to-your-pets-anywhere-with-cutting-edge-pet-bot-technology-featured-on-zdnet/"><u>Stay Connected to Your Pets Anywhere with Cutting-Edge Pet Bot Technology Featured on ZDNET</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-y200e-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Y200e 5G without backup.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-to-mp3-conversion-guide/"><u>[New] 2024 Approved Instagram to MP3 Conversion Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-lens-on-innovation-how-hdri-redefines-video-production-standards/"><u>[New] A Lens on Innovation How HDRI Redefines Video Production Standards</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-steps-to-ensure-whole-sound-in-fb-video-playbacks-for-2024/"><u>[Updated] Steps to Ensure Whole Sound in FB Video Playbacks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-slash-prices-by-up-to-two-thirds-secure-your-amazon-fire-hd-8-plus-today-with-deals-from-techsavvy/"><u>1. Slash Prices by Up to Two-Thirds: Secure Your Amazon Fire HD 8 Plus Today with Deals From TechSavvy!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-amplify-your-digital-presence-a-compreranautical-guide-to-instagram-stardom-with-9-steps/"><u>2024 Approved Amplify Your Digital Presence A Compreranautical Guide to Instagram Stardom with 9 Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bending-words-altering-text-images/"><u>2024 Approved Bending Words Altering Text Images</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-next-gen-titans-windows-10s-newest-games-and-apps/"><u>2024 Approved Next-Gen Titans Windows 10'S Newest Games and Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-studies-with-the-ultimate-ipad-selection-comprehensive-testing-and-analysis-on-zdnet/"><u>Ace Your Studies with the Ultimate iPad Selection: Comprehensive Testing and Analysis on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-swap-out-your-desktoplaptop-for-an-ipad-today-an-insightful-look-by-zdnet/"><u>Can You Swap Out Your Desktop/Laptop for an iPad Today? An Insightful Look by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-ways-to-stream-mkv-video-formats-on-ios-devices/"><u>Easy Ways to Stream MKV Video Formats on iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reappear-the-powerbattery-icon-in-windows-10-step-by-step-guide/"><u>Reappear the Power/Battery Icon in Windows 10 – Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-telnet-on-windows-11-systems/"><u>Unlocking Telnet on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-ipad-addressing-a-major-error-and-apples-path-to-rectification-insights-from-zdnet/"><u>Unveiling the Latest iPad: Addressing a Major Error and Apple's Path to Rectification - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-top-features-and-performance-of-the-newest-amazon-fire-max-a-comprehensive-review-zdnet-insights/"><u>Unveiling the Top Features and Performance of the Newest Amazon Fire Max: A Comprehensive Review | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-joining-apples-icloud-photo-sharing-revolution-is-a-must-expert-tips-and-tricks-for-effortless-collaboration-zdnet-reviews/"><u>Why Joining Apple's iCloud Photo Sharing Revolution Is a Must: Expert Tips & Tricks for Effortless Collaboration | ZDNET Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-top-picks-an-in-depth-look-at-why-this-budget-friendly-android-tablet-stands-out/"><u>ZDNet's Top Picks: An In-Depth Look at Why This Budget-Friendly Android Tablet Stands Out!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-to-the-top-drawing-tablets-for-pros-in-2eightyfour-expert-picks-and-reviews/"><u>ZDNet's Ultimate Guide to the Top Drawing Tablets for Pros in 2eightyFour: Expert Picks and Reviews</u></a></li>
 </ul></div>
 

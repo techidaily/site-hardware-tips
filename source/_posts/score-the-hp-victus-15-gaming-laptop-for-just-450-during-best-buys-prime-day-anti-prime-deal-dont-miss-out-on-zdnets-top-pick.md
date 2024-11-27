@@ -1,7 +1,7 @@
 ---
 title: Score the HP Victus 15 Gaming Laptop for Just $450 During Best Buy's Prime Day Anti-Prime Deal – Don’t Miss Out on ZDNET’s Top Pick!
-date: 2024-11-10T20:23:37.624Z
-updated: 2024-11-17T21:04:46.261Z
+date: 2024-11-21T17:29:59.223Z
+updated: 2024-11-27T17:04:01.840Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,24 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-becoming-a-pro-the-ultimate-guide-to-microsofts-movie-maker-in-win11-for-2024/"><u>[New] Becoming a Pro The Ultimate Guide to Microsoft's Movie Maker in Win11 for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-path-to-insta-prominence-unveiling-9-key-moves-for-fame-seekers/"><u>[New] The Path to Insta Prominence Unveiling 9 Key Moves for Fame Seekers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-cyber-conference-capture/"><u>[Updated] Cyber Conference Capture</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-best-selections-for-youtube-ringtone-downloads/"><u>[Updated] Explore Best Selections for YouTube Ringtone Downloads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/12-gadget-transforms-unused-ssds-into-functional-external-drives-insights-from-a-zdnet-review/"><u>$12 Gadget Transforms Unused SSDs Into Functional External Drives: Insights From a ZDNet Review</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-v29-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from V29 Pro</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-clearstream-2v-hdtv-antenna-exceptional-outdoor-and-indoor-reception-in-a-less-than-pleasing-design/"><u>Evaluating the ClearStream 2V HDTV Antenna: Exceptional Outdoor and Indoor Reception in a Less-Than-Pleasing Design</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-master-the-art-of-instagram-videos-length-adjustments-for-2024/"><u>How to Master the Art of Instagram Videos' Length Adjustments for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-imovie-the-best-video-editing-software-for-windows-10/"><u>Say Goodbye to iMovie The Best Video Editing Software for Windows 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/section-3c-qanda-with-solutions/"><u>Section 3C: Q&A with Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sub-130-premium-surround-sound-with-new-drop-blanket-speaker-for-your-desk-explore-reviews-at-zdnet/"><u>Sub-$130 Premium Surround Sound with New Drop Blanket Speaker for Your Desk | Explore Reviews at ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-your-keyboard-needs-a-cleanse-unveiling-the-hidden-dirt-the-ultimate-guide-techadvice/"><u>Why Your Keyboard Needs a Cleanse: Unveiling the Hidden Dirt - The Ultimate Guide | TechAdvice</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-behind-the-glamour-10-honest-insights-into-reels/"><u>[Updated] 2024 Approved Behind the Glamour 10 Honest Insights Into Reels</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-best-online-hubs-capturing-sky-in-high-dynamic-range/"><u>[Updated] In 2024, Best Online Hubs Capturing Sky in High Dynamic Range</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigating-zoom-settings-for-top-notch-audio-capture/"><u>2024 Approved Navigating ZOOM Settings for Top-Notch Audio Capture</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-rmvb-mkv/"><u>免費網路服務：透過 Movavi 轉換器改造 RMVB到 MKV格式</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/anticipated-announcements-at-apples-upcoming-october-showcase-the-new-m4-mac-mini-advanced-ipads-and-latest-innovations-in-siri-technology-insights-by-zdnet25/"><u>Anticipated Announcements at Apple's Upcoming October Showcase: The New M4 Mac Mini, Advanced iPads, and Latest Innovations in Siri Technology - Insights by ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-honor-v-purse-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Honor V Purse</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-2024-prime-viewing-guide-discover-top-tv-deals-and-savings-on-electronics-screentech-hub/"><u>Labor Day 2024 Prime Viewing Guide: Discover Top TV Deals and Savings on Electronics | ScreenTech Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-discover-the-1-samsung-tv-based-on-testing-now-for-an-unbeatable-43-off-choose-wisely-with-our-zdnet-guide/"><u>Labor Day Sale: Discover the #1 Samsung TV Based on Testing Now for an Unbeatable 43% Off – Choose Wisely with Our ZDNET Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-shopping-spree-discover-the-ultimate-selection-of-60-tv-deals-in-september-er-2024-smart-savings-on-screens-from-zdnet/"><u>Labor Day Shopping Spree: Discover the Ultimate Selection of 60 TV Deals in September Er 2024 | Smart Savings on Screens From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lg-reports-increased-earnings-in-european-tv-sector-amidst-rising-popularity-of-streaming-services-zdnet/"><u>LG Reports Increased Earnings in European TV Sector Amidst Rising Popularity of Streaming Services - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/major-enhancements-for-your-smart-home-with-the-latest-ios-update/"><u>Major Enhancements for Your Smart Home with the Latest iOS Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterclass-in-throwing-a-memorable-labor-day-gathering-a-comprehensive-guide-for-beginners/"><u>Masterclass in Throwing a Memorable Labor Day Gathering: A Comprehensive Guide for Beginners</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-compatibility-ensuring-seamless-gameplay-of-age-of-empires-ii-on-windows-10-systems/"><u>Mastering Compatibility: Ensuring Seamless Gameplay of Age of Empires II on Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-visuals-and-audio-on-a-bargain-screen-a-step-by-er-guide-to-enhancing-a-30-hdtv/"><u>Maximizing Visuals and Audio on a Bargain Screen: A Step-by-Er Guide to Enhancing a $30 HDTV</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-smart-displays-showdown-the-distinct-features-between-samsung-frame-tv-2024-vs-2023-zdnet/"><u>Next-Gen Smart Displays Showdown: The Distinct Features Between Samsung Frame TV (2024 Vs. 2023) | ZDNET</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/organizational-management-of-antivirus-and-security-measures-a-comprehensive-overview-with-malwarefox-solutions/"><u>Organizational Management of Antivirus & Security Measures: A Comprehensive Overview with MalwareFox Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-television-guide-expert-tips-on-choosing-high-quality-displays-and-snagging-amazing-deals-zdnet-recommendations/"><u>Prime Day Television Guide: Expert Tips on Choosing High-Quality Displays & Snagging Amazing Deals | ZDNET Recommendations</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor Magic 6 Pro? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

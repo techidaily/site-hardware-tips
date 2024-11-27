@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Selection of HP Holiday Discounts: The Top 16 Picks | PCMag"
-date: 2024-11-12T16:28:22.063Z
-updated: 2024-11-17T17:20:36.245Z
+date: 2024-11-25T19:33:59.959Z
+updated: 2024-11-27T18:52:48.644Z
 tags:
   - laptops
 categories:
@@ -114,6 +114,10 @@ This device is available together with AC Tactical, containing 2.4 & 5GHz suppor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Other gifts for hackers to consider**
 
 [Flipper Zero (stock and shipping can be difficult, often sells out quickly) for $169 View now at Flipper](https://shop.flipperzero.one/)
@@ -124,13 +128,6 @@ This device is available together with AC Tactical, containing 2.4 & 5GHz suppor
 
 [Hacking Multifactor Authentication, Roger Grimes for $29 $25.14 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2F1119650798%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca438dc61-0d73-4a12-935a-aac242794029%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these hacker gift ideas?
 
 It can be a challenge to find specialist gifts -- whether the field you're interested in is cybersecurity or otherwise -- so we examined products that would appeal to the widest customer base available. Or, at the least, products that will keep the hackers in your life busy, learning, and out of mischief. 
@@ -138,10 +135,7 @@ It can be a challenge to find specialist gifts -- whether the field you're inter
 However, not every gift has to have a hands-on educational purpose in mind, so we've also included interesting reads on the industry.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is hacking illegal?
@@ -155,10 +149,7 @@ Hacking, in itself, doesn't automatically mean unauthorized entry. There are com
 It is only when a hacker uses their skills for unauthorized and criminal purposes, theft, or destruction that it becomes illegal. This could include breaking into a network to deploy malware or stealing confidential information.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What types of ethical hackers are out there?
@@ -166,6 +157,10 @@ It is only when a hacker uses their skills for unauthorized and criminal purpose
 Ethical hackers are individuals who go into the cybersecurity field for 'white hat' purposes and to defend against cybercriminals. 
 
 Job roles include penetration testers who try to find weaknesses in software and networks; bug bounty hunters who privately disclose vulnerabilities to companies; consultants, network defense experts, OSINT intelligence and investigation experts, and more. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## I want to learn about hacking but where do I start?
 
@@ -184,16 +179,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -228,18 +214,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-gopro-and-time-lapse-synergy/"><u>[New] Navigating Through GoPro and Time-Lapse Synergy</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-getting-started-a-primer-on-screencastify-use-for-2024/"><u>[Updated] Getting Started A Primer on Screencastify Use for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-integrate-efficiently-macos-sierra-for-desktop-enhancement/"><u>[Updated] In 2024, Integrate Efficiently MacOS Sierra for Desktop Enhancement</u></a></li>
-<li><a href="https://fox-info.techidaily.com/creating-your-first-home-theater-disc-with-mac-for-2024/"><u>Creating Your First Home Theater Disc with Mac for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expand-your-workspace-set-up-two-external-screens-using-thunderbolt-ports-on-an-apples-m1-powerhouse-zdnet-insights/"><u>Expand Your Workspace: Set Up Two External Screens Using Thunderbolt Ports on an Apple's M1 Powerhouse | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gear-up-for-a-new-year-the-ultimate-list-of-best-keyboards-as-tested-and-reviewed-by-professionals-zdnet/"><u>Gear up for a New Year: The Ultimate List of Best Keyboards as Tested and Reviewed by Professionals | ZDNET</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-tecno-spark-20-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-playwright-gateway/"><u>Premier Playwright Gateway</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-innocn-27c1u-4k-display-a-stunning-and-fast-connecting-screen-insights-from-zdnet/"><u>Review of Innocn 27C1U 4K Display: A Stunning and Fast-Connecting Screen - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-35-unmissable-cyber-monday-bargains-on-dell-products-find-them-now-at-walmart-ebay-and-other-retailers/"><u>Top 35 Unmissable Cyber Monday Bargains on Dell Products: Find Them Now at Walmart, eBay, and Other Retailers!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-review-of-monoprices-dt-3bt-sound-perfection-for-under-100-expert-advice-by-zdnet/"><u>Top Review of Monoprice's DT-3BT Sound Perfection for Under $100 - Expert Advice by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-compact-hub-for-your-macbook-air-a-lighter-way-to-connect-zdnet/"><u>Ultimate Compact Hub for Your MacBook Air - A Lighter Way to Connect (ZDNet)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-detailed-history-and-transformation-of-apples-revolutionary-iphone/"><u>Unveiling the Detailed History and Transformation of Apple's Revolutionary iPhone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-exclusive-list-top-5-advanced-webcams-for-remote-meetings/"><u>[New] In 2024, Exclusive List Top 5 Advanced Webcams for Remote Meetings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[Updated] Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-your-compreran-guide-to-creating-viral-ad-videos-for-free-for-2024/"><u>[Updated] Your Compreran Guide to Creating Viral Ad Videos for Free for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-zenith-of-zoom-background-blurring-techniques/"><u>2024 Approved The Zenith of Zoom Background Blurring Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-viewing-pleasure-expert-tips-to-optimize-projector-settings-for-stunning-imagery-zdnet/"><u>Enhance Your Viewing Pleasure: Expert Tips to Optimize Projector Settings for Stunning Imagery | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-list-of-superior-tv-racks-for-2er-2023-insights-from-zdnet/"><u>Explore the Ultimate List of Superior TV Racks for 2Er 2023 - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-1500-discount-how-the-samsung-qn95a-oled-surpassed-all-my-expectations-shop-today/"><u>Huge $1,500 Discount: How the Samsung QN95A OLED Surpassed All My Expectations - Shop Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-on-the-new-85-tcl-smart-led-only-900-before-labor-day-shop-now/"><u>Huge Savings on the New 85 TCL Smart LED - Only $900 Before Labor Day! Shop Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-art-utilizing-chatgpt-for-ai-generated-images/"><u>Interactive Art: Utilizing ChatGPT for AI-Generated Images</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-tcls-spectacular-115-inch-mini-led-tv-a-breakthrough-in-visual-experience-screentech-today/"><u>Introducing TCL's Spectacular 115-Inch Mini LED TV : A Breakthrough in Visual Experience | ScreenTech Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-cheaper-apple-tv-4k-worth-it-comprehensive-breakdown-by-zdnet/"><u>Is Cheaper Apple TV 4K Worth It? Comprehensive Breakdown by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/judicial-interpretations-of-laws-by-courts-affect-how-policies-are-implemented/"><u>Judicial Interpretations of Laws by Courts Affect How Policies Are Implemented.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-special-top-rated-qled-tv-now-discounted-by-1000-exclusive-review-on-zdnet/"><u>Labor Day Special: Top-Rated QLED TV Now Discounted by $1,000 - Exclusive Review on ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-6-plus-5-ways-to-get-into-a-locked-apple-iphone-6-plus-by-drfone-ios/"><u>Locked Out of Apple iPhone 6 Plus? 5 Ways to get into a Locked Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-admin-level-operations-avoid-elevation-needed-alerts-in-windows-11-10-and-7/"><u>Mastering Admin-Level Operations: Avoid 'Elevation Needed' Alerts in Windows 11, 10 & 7</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210238644-9780648873969-wanting-to-be-me/"><u>Wanting to be Me | Free Book</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-10-iso-dvd/"><u>Windows 10 で ISO イメージを DVD へ書き込む究極ガイド</u></a></li>
 </ul></div>
 

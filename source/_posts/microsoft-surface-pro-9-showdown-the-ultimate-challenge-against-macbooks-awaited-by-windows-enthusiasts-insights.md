@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Pro 9 Showdown: The Ultimate Challenge Against MacBooks Awaited by Windows Enthusiasts - Insights"
-date: 2024-11-11T16:59:09.264Z
-updated: 2024-11-17T19:12:43.955Z
+date: 2024-11-21T19:45:42.629Z
+updated: 2024-11-27T18:45:51.423Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -44,13 +48,6 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -64,10 +61,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -87,10 +81,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -130,10 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -155,6 +143,10 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -200,22 +192,17 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-instagrams-unique-video-display-a-deep-dive/"><u>[New] Instagram’s Unique Video Display A Deep Dive</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-navigating-through-facebook-gif-downloads-across-platforms/"><u>[Updated] Navigating Through Facebook GIF Downloads Across Platforms</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/achieving-precision-with-obs-implementing-timer-functionality-for-2024/"><u>Achieving Precision with OBS Implementing Timer Functionality for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-with-snapchat-customer-service-best-practices-and-methods/"><u>Connecting with Snapchat Customer Service: Best Practices and Methods</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-secret-mac-utilities-that-come-at-no-cost-why-theyre-missing-from-the-basics/"><u>Discover Top Secret Mac Utilities That Come at No Cost – Why They're Missing From the Basics!</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/watch-dynamics-navigating-youtube-in-parallel-for-2024/"><u>Dual-Watch Dynamics Navigating YouTube in Parallel for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-gadgets-for-business-travel-top-8-must-haves-revealed-by-tech-experts-at-zdnet/"><u>Essential Gadgets for Business Travel: Top 8 Must-Haves Revealed by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hands-on-review-of-apples-new-studio-display-premium-27-5k-monitor-is-it-worth-the-price-tag-for-creative-professionals-on-mac/"><u>Hands-On Review of Apple's New Studio Display: Premium 27 5K Monitor, Is It Worth the Price Tag for Creative Professionals on Mac?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-the-neato-d10-automatic-cleaner-by-tech-experts-at-zdnet/"><u>In-Depth Evaluation of the Neato D10 Automatic Cleaner by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-amd-rx-5700-xt-video-card-drivers-on-windows-support-for-versions-111087/"><u>Install AMD RX 5700 XT Video Card Drivers on Windows: Support for Versions 11/10/8/7</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877262-9781612832876-mental-radio/"><u>Mental Radio | Free Book</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/perfect-tiktok-start-mac-based-production-strategies-for-2024/"><u>Perfect TikTok Start Mac-Based Production Strategies for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/perfeziona-i-tuoi-video-con-winxvideo-ai-per-una-qualita-senza-pari/"><u>Perfeziona I Tuoi Video Con WinXvideo AI per Una Qualità Senza Pari</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-comeback-how-apple-transformed-its-least-favorite-gadget-into-a-hit-zdnet/"><u>Revolutionary Comeback: How Apple Transformed Its Least Favorite Gadget Into a Hit | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-boosting-podcast-quality-using-the-focusrite-scarlet-cu2-expert-insights-from-zdnet/"><u>The Ultimate Guide to Boosting Podcast Quality Using the Focusrite Scarlet Cu2 | Expert Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-compatibility-the-ideal-miniature-keyboard-for-your-raspberry-pi-and-smart-televisions-features-unveiled/"><u>Unlocking Compatibility: The Ideal Miniature Keyboard for Your Raspberry Pi & Smart Televisions - Features Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-new-tile-app-introducing-scan-and-secure-a-powerful-tool-against-stalking/"><u>ZDNet's New Tile App: Introducing 'Scan & Secure' - A Powerful Tool Against Stalking</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-revolutionize-your-fb-video-strategy-with-these-ideas-for-2024/"><u>[New] Revolutionize Your FB Video Strategy with These Ideas for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-honor-90-gt-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Honor 90 GT to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-kitchen-chronicles-filming-every-bite/"><u>In 2024, Kitchen Chronicles Filming Every Bite</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-secure-and-seamless-file-sharing-with-20-preferred-no-fee-services/"><u>In 2024, Secure & Seamless File Sharing with 20 Preferred No-Fee Services</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/prime-list-best-free-video-transcript-harvesters/"><u>Prime List Best Free Video Transcript Harvesters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-settings-fix-for-the-vanished-enhancement-tab-in-windows-11/"><u>Restore Your Settings: Fix for the Vanished Enhancement Tab in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-living-room-a-guide-to-reduceby-controlling-what-information-your-smart-tv-obtains-zdnet/"><u>Secure Your Living Room: A Guide to Reduceby Controlling What Information Your Smart TV Obtains | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seven-years-of-complimentary-software-enhancements-on-samsung-smart-tvs-powered-by-artifice-intelligence/"><u>Seven Years of Complimentary Software Enhancements on Samsung Smart TVs Powered by Artifice Intelligence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seven-years-of-free-samsung-smart-tv-updates-powered-by-artific/"><u>Seven Years of FREE Samsung Smart TV Updates Powered by Artific</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-electricity-cost-with-these-5-smart-tv-adjustments-a-proven-strategy-from-zdnet/"><u>Slash Your Electricity Cost with These 5 Smart TV Adjustments: A Proven Strategy From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-restoring-renderer-functionality-after-recent-patch-updates/"><u>Successfully Restoring Renderer Functionality After Recent Patch Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726220831054-aacmp3movavi/"><u>オンラインで自由にAAC形式MP3に変換！Movaviの無料ツール</u></a></li>
 </ul></div>
 

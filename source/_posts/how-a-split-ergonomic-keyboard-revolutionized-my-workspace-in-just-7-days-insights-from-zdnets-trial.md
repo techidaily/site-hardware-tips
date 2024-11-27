@@ -1,7 +1,7 @@
 ---
 title: How a Split Ergonomic Keyboard Revolutionized My Workspace in Just 7 Days - Insights From ZDNet's Trial
-date: 2024-11-11T21:06:39.727Z
-updated: 2024-11-17T18:58:47.995Z
+date: 2024-11-22T17:49:44.966Z
+updated: 2024-11-27T16:46:51.927Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/b25db0a5e0e02074d08a797f57ffab39b0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -107,10 +111,7 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,24 +150,24 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-essential-fb-movie-downloads-for-23-list-8/"><u>[New] Essential FB Movie Downloads for '23 List #8</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ullview-pacts-the-art-of-media-company-selection/"><u>[New] FullView Pacts The Art of Media Company Selection</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-ultimate-guide-for-elevating-videos-from-basic-sdr-to-breathtaking-hdr-splendor-for-2024/"><u>[New] Ultimate Guide for Elevating Videos From Basic SDR to Breathtaking HDR Splendor for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-adding-audio-magic-music-and-voiceovers-for-instagram-reels/"><u>[Updated] 2024 Approved Adding Audio Magic Music & Voiceovers for Instagram Reels</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-immerse-in-hd-celestial-wonders-online-for-2024/"><u>[Updated] Immerse in HD Celestial Wonders Online for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-fast-and-flawless-mastering-the-art-of-multi-snap-chats/"><u>2024 Approved Fast & Flawless Mastering the Art of Multi-Snap Chats</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-about-psvr-2-launch-games-in-depth-listing-and-details/"><u>All About PSVR 2 Launch Games: In-Depth Listing and Details</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-newly-unveiled-developer-edition-of-ubuntu-core-get-early-access-and-reviews-on-zdnet/"><u>Explore the Newly Unveiled Developer Edition of Ubuntu Core - Get Early Access and Reviews on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-a-deal-of-a-lifetime-hp-victus-laptop-slashed-by-350-for-labor-day-sale-at-best-buy-insights-and-tips-from-zdnet/"><u>Get a Deal of a Lifetime: HP Victus ˈlaptop Slashed by $350 for Labor Day Sale at Best Buy, Insights & Tips From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-windows-11-active-directory-printer-fails/"><u>How to Rectify Windows 11 Active Directory Printer Fails</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximizing-visual-variety-with-b-roll-elements-for-2024/"><u>Maximizing Visual Variety with B Roll Elements for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/rectifying-the-accelerated-scroll-movement-in-windows-11-file-explorer-ending-abrupt-jumps/"><u>Rectifying the Accelerated Scroll Movement in Windows 11 File Explorer – Ending Abrupt Jumps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reviving-antiques-how-chrome-os-flex-brought-life-back-to-three-historic-pcs-a-step-by-step-guide/"><u>Reviving Antiques: How Chrome OS Flex Brought Life Back to Three Historic PCs – A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-with-immediate-discount-on-the-nvidia-rtx-nvidia-3070-special-offer-at-zdnet/"><u>Save Big with Immediate Discount on the Nvidia RTX nVIDIA 3070 - Special Offer at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-essential-steps-before-installing-chrome-os-flex-save-time-and-troubleshoot-easily-tips-from-zdnet/"><u>Top 5 Essential Steps Before Installing Chrome OS Flex: Save Time and Troubleshoot Easily - Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-gaming-rig-reviews-2024-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Ranked Gaming Rig Reviews 2024: In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-deep-savings-up-to-75-discounts-on-latest-walmart-gadgets-insider-tips-from-zdnet/"><u>Unlock Deep Savings: Up To 75% Discounts on Latest Walmart Gadgets – Insider Tips From ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-ubuntu-2310-desktop-peering-into-the-next-chapter-of-ubuntu-evolution-geektimes/"><u>Unveiling Ubuntu 23.10 Desktop: Peering Into The Next Chapter of Ubuntu Evolution | GeekTimes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-surface-pros-ssd-capacity-quickly-and-affordably-with-our-7-step-guide-techsavvy/"><u>Upgrade Your Surface Pro's SSD Capacity Quickly & Affordably with Our 7-Step Guide | TechSavvy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expedited-srt-to-txt-conversion-2023s-efficient-method/"><u>[Updated] Expedited SRT to TXT Conversion 2023'S Efficient Method</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-conversion-manual-from-srt-to-various-formats/"><u>2024 Approved Ultimate Conversion Manual From SRT to Various Formats</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/utubers-get-paid-monthly-in-2024/"><u>Do YouTubers Get Paid Monthly, In 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-itel-a60s-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Itel A60s</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unlock-youtubes-end-screens-easy-template-ideas-and-tutorials/"><u>In 2024, Unlock YouTube's End Screens Easy Template Ideas & Tutorials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-of-photo-date-annotation-methods/"><u>Mastery of Photo Date Annotation Methods</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>New 2024 Approved Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-advanced-calculator-on-ipad-challenges-own-to-prompt-consideration-of-apple-pencil-acquisition-analysis-by-zdnet/"><u>Next-Gen Advanced Calculator on iPad Challenges Own to Prompt Consideration of Apple Pencil Acquisition | Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rethinking-the-habit-of-handing-down-electronics-potential-pitfalls-and-alternatives-for-elderly-loved-ones/"><u>Rethinking the Habit of Handing Down Electronics: Potential Pitfalls and Alternatives for Elderly Loved Ones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-bargain-grab-the-new-gen-apple-pencil-at-only-95-during-labor-day-sale-exclusive-offer-on-zdnet/"><u>Score a Bargain: Grab the New-Gen Apple Pencil at Only $95 During Labor Day Sale - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-bargain-grab-the-latest-amazon-fire-kids-tablet-at-just-90-limited-stock-available-zdnet-deals-alert/"><u>Score a Bargain! Grab the Latest Amazon Fire Kid’s Tablet at Just $90 – Limited Stock Available | ZDNET Deals Alert</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-superior-e-readers-surpassing-remarkable-and-kindle-in-functionality-cnet-reviews/"><u>The Ultimate Guide to Superior E-Readers - Surpassing Remarkable and Kindle in Functionality | CNET Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-smart-display-picks-insiders-guide-by-techradar/"><u>Top 5 Smart Display Picks : Insider's Guide by TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-the-finest-ipad-models-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top Picks for the Finest iPad Models - In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-non-kindle-non-remarkable-e-ink-tablets-reviewed-insights-and-picks-from-tech-expert-zdnet/"><u>Top-Ranking Non-Kindle, Non-Remarkable E Ink Tablets Reviewed: Insights and Picks From Tech Expert | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-samsung-tablet-reviews-professional-insights-from-zdnet/"><u>Top-Ranking Samsung Tablet Reviews : Professional Insights From ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-like-a-pro-16-free-video-editors-for-amateur-filmmakers/"><u>Updated Create Like a Pro 16 Free Video Editors for Amateur Filmmakers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ying-ad-revenue-for-channels-for-2024/"><u>Verifying Ad Revenue for Channels for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exclusive List of Holiday Bargains - Score Big on Dell Deals From Leading Retailers Compiled by Experts at ZDNET
-date: 2024-09-19 18:33:20
-updated: 2024-09-20 10:31:54
+date: 2024-11-25T17:35:27.323Z
+updated: 2024-11-27T19:07:50.179Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-youtube-creative-commons-key-to-video-content-sharing/"><u>[Updated] 2024 Approved YouTube Creative Commons Key to Video Content Sharing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ignite-imagination-crafting-engaging-content-for-channels/"><u>[Updated] Ignite Imagination Crafting Engaging Content for Channels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-in-depth-look-10-must-have-terraria-mods/"><u>[Updated] In 2024, In-Depth Look 10 Must-Have Terraria Mods</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-instant-tune-livestreams-on-douyin/"><u>[Updated] Instant Tune Livestreams on Douyin</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cat-s22-flip-assessment-the-perfect-blend-of-classic-style-and-advanced-connectivity-in-rugged-conditions-gadgetflow/"><u>CAT S22 Flip Assessment - The Perfect Blend of Classic Style & Advanced Connectivity in Rugged Conditions | GadgetFlow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-apple-watch-os-11-compatibility-find-out-your-models-update-eligibility/"><u>Comprehensive Guide: Apple Watch OS 11 Compatibility – Find Out Your Model's Update Eligibility</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-inescapable-recommendations-on-fb/"><u>Decoding the Inescapable Recommendations on FB</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-pc-hiccups-in-wows-with-these-5-rapid-troubleshooting-steps/"><u>Eliminate PC Hiccups in WoWs with These 5 Rapid Troubleshooting Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-android-smartwatch-selection-thoroughly-testing-and-evaluating-the-best-picks-insights-from-zdnet-professionals/"><u>Elite Android Smartwatch Selection: Thoroughly Testing & Evaluating the Best Picks - Insights From ZDNet Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-activating-apple-watchs-fall-alert-feature-benefits-and-steps-explained/"><u>Guide to Activating Apple Watch's Fall Alert Feature: Benefits & Steps Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-picture-landscapes-on-pexelscom/"><u>In 2024, Navigating Picture Landscapes on Pexels.com</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-your-smartwatch-equipped-for-offline-navigation-discover-the-google-maps-update-for-wearos-by-zdnet/"><u>Is Your Smartwatch Equipped for Offline Navigation? Discover the Google Maps Update for WearOS by ZDNET</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/learn-cinematic-techniques-with-youtube-veterans-and-novices-for-2024/"><u>Learn Cinematic Techniques with YouTube Veterans and Novices for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/learn-how-to-enable-the-latest-fall-alert-function-in-googles-innovative-pixel-watch-series-a-comprehensive-guide-techwise/"><u>Learn How to Enable the Latest Fall Alert Function in Google's Innovative Pixel Watch Series - A Comprehensive Guide | TechWise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-apple-watch-unlock-the-secrets-of-the-double-tap-control/"><u>Mastering Your Apple Watch: Unlock the Secrets of the Double-Tap Control!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-watch-6-save-100-today-exclusive-deal-on-zdnet/"><u>Samsung Galaxy Watch 6: Save $100 Today - Exclusive Deal on ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tech-faceoff-analyzing-the-differences-between-apples-ipad-pro-and-microsoft-surface-pro/"><u>Tech Faceoff: Analyzing the Differences Between Apple’s iPad Pro and Microsoft Surface Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-offers-on-top-android-smartwatches-this-labor-day-find-out-why-in-our-latest-review-by-zdnet/"><u>Unbeatable Offers on Top Android Smartwatches This Labor Day! Find Out Why in Our Latest Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/wearable-wars-in-depth-comparison-of-the-newest-smartwatches-google-pixel-vs-apple-watch-series-9-zdnet/"><u>Wearable Wars: In-Depth Comparison of the Newest Smartwatches - Google Pixel Vs. Apple Watch Series 9 | ZDNET</u></a></li>
+</ul></div>
+

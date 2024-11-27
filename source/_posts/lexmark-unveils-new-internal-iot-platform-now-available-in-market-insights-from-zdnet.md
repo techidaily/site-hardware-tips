@@ -1,7 +1,7 @@
 ---
 title: Lexmark Unveils New Internal IoT Platform Now Available in Market - Insights From ZDNet
-date: 2024-09-19 17:27:50
-updated: 2024-09-20 11:22:59
+date: 2024-11-24T17:58:48.909Z
+updated: 2024-11-27T19:33:42.648Z
 tags:
   - printer
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://www.zdnet.com/topic/printers/    https://www.zdnet.com/a/img/
 
 Lexmark, best known for its printers, is launching an Internet of things (IoT) platform that it developed internally and is now commercializing for other enterprises. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![hp-color-laserjet-enterprise-m856x-lifestyle.jpg](https://www.zdnet.com/a/img/resize/a4c68caab98078e8490aa8b4b2a2b893a7623d1d/2020/05/18/7a7e314f-f876-4957-9d3c-f13132f57779/hp-color-laserjet-enterprise-m856x-lifestyle.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best laser printers We look at a variety of printers ranging from enterprise-level monsters to the sleek, high-performance, inexpensive models our editors rely on personally.  Read now](https://www.zdnet.com/article/best-laser-printer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The platform, [Lexmark Optra IoT Solutions](https://www.lexmark.com/en%5Fus/solutions/optra-iot-platform.html), was announced at the virtual IoT Tech Expo North America event. Lexmark CEO Allen Waugerman said managing printers, predictive maintenance and ingesting data have been hallmarks of Lexmark. 
 
@@ -58,11 +66,29 @@ Waugerman said the initial focus for Optra IoT Platform is midmarket equipment m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-beginners-guide-going-live-with-ease-on-facebook/"><u>[New] Beginner’s Guide Going Live with Ease on Facebook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unveiling-the-premier-10-hexacopters/"><u>[New] In 2024, Unveiling the Premier 10 HexaCopters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chilly-forecast-how-the-upcoming-tough-season-benefits-future-pc-purchasers-insights/"><u>Chilly Forecast: How the Upcoming Tough Season Benefits Future PC Purchasers Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-living-through-technology-explore-9-ways-chatgpt-streamlines-tasks/"><u>Effortless Living Through Technology: Explore 9 Ways ChatGPT Streamlines Tasks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/essential-game-picks-ghost-of-tsushima-rival-edition-for-2024/"><u>Essential Game Picks Ghost of Tsushima Rival Edition for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-grab-metas-limited-time-512gb-quest-3-for-just-xxx-during-october-prime-day-top-seller-on-zdnet/"><u>Exclusive Offer: Grab Meta's Limited-Time 512GB Quest 3 for Just $XXX During October Prime Day – Top Seller on ZDNet!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-and-solving-the-top-4-gpu-flaws/"><u>Identifying & Solving the Top 4 GPU Flaws</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-the-game-an-insiders-look-at-dells-luxury-laptop-with-mind-blowing-features-breakdown-and-analysis-for-gamers-by-zdnet/"><u>Revolutionizing the Game: An Insider's Look at Dell's Luxury Laptop with Mind-Blowing Features | Breakdown & Analysis for Gamers by ZDNET</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-secret-direct-x-glitch-in-league/"><u>Solved: Secret Direct X Glitch in League</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-perfect-companion-for-on-the-go-productivity-our-pick-for-the-best-travel-friendly-laptop-zdnet/"><u>The Perfect Companion for On-the-Go Productivity: Our Pick for the Best Travel-Friendly Laptop | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-from-ces-2024-the-ultimate-guide-to-the-years-hottest-laptops-zdnet/"><u>Top Picks From CES 2024: The Ultimate Guide to the Year's Hottest Laptops - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-premium-touchscreen-laptops-features-and-reviews/"><u>Ultimate Guide to Premium Touchscreen Laptops - Features & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-black-friday-offer-up-to-700-off-on-the-high-performance-dell-xps-15-exclusive-insights-from-zdnet/"><u>Unmissable Black Friday Offer: Up to $700 Off on the High-Performance Dell XPS 15 - Exclusive Insights From ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Charge All Your Gadgets on the Go with This 140W Multi-Device Companion - Lasts Until Next Charge
-date: 2024-11-11T22:01:29.365Z
-updated: 2024-11-17T21:09:04.110Z
+date: 2024-11-22T19:04:54.645Z
+updated: 2024-11-27T16:51:37.082Z
 tags:
   - laptops
 categories:
@@ -50,6 +50,10 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Acer Student Discounts](https://www.tkqlhce.com/click-9041660-15733826?url=https%3A%2F%2Fstore.acer.com%2Fen-us%2Fstudent-discount%3F&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Now through Aug. 26, teachers, parents and administrators that are part of Samsung's Education Offers Program can earn 30% off at checkout plus, 30% off Samsung Care+ for select PCs, tablets & more for an extra level of protection. 
@@ -86,31 +90,24 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-dive-into-360-videos-iphone-edition-for-facebook-posts-for-2024/"><u>[Updated] Dive Into 360 Videos IPhone Edition for Facebook Posts for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/520-hp-victus-gaming-laptop-deal-alert-save-up-to-40-off-in-latest-blowout-exclusive-zdnet-coverage/"><u>$520 HP Victus Gaming Laptop Deal Alert! Save Up to 40% Off in Latest Blowout | Exclusive ZDNET Coverage</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-audiophiles-guide-selecting-prime-tools-for-vtuber-voice-alteration/"><u>2024 Approved Audiophile's Guide Selecting Prime Tools for VTuber Voice Alteration</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cost-analysis-strategy-for-music-video-creation/"><u>Cost Analysis Strategy for Music Video Creation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cyberpower-cp685avrg-uninterruptible-power-supply-reliable-backup-solution-overview/"><u>Cyberpower CP685AVRG Uninterruptible Power Supply - Reliable Backup Solution Overview</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/defy-the-odds-successful-windows-11-installation-on-vintage-pcs-against-microsofts-advice-zdnet-insights/"><u>Defy the Odds: Successful Windows 11 Installation on Vintage PCs Against Microsoft's Advice | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-costco-cyber-week-deals-revealed-save-big-on-high-quality-tvs-computers-and-tablet-offers-in-our-top-38-picks/"><u>Exclusive Costco Cyber Week Deals Revealed: Save Big on High-Quality TVs, Computers & Tablet Offers in Our Top 38 Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-the-ultimate-list-of-mechanical-keyboards-zdnets-selection/"><u>Expertly Reviewed: The Ultimate List of Mechanical Keyboards | ZDNet's Selection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/free-windows-11-upgrade-no-longer-available-whats-next/"><u>Free Windows 11 Upgrade No Longer Available: What's Next?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-freshly-released-nvidia-geforce-nvme-940mx-drivers-download-now/"><u>Install Freshly Released NVIDIA GeForce Nvme 940MX Drivers - Download Now</u></a></li>
-<li><a href="https://article-files.techidaily.com/roundabout-viewpoint-versus-threefold-imaging/"><u>Roundabout Viewpoint Versus Threefold Imaging</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsungs-latest-release-the-odyssey-neo-priced-at-1300-now-available-on-amazon/"><u>Samsung's Latest Release: The Odyssey Neo Priced at $1,300 Now Available on Amazon</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-delete-your-facebook-account-android-wise/"><u>The Ultimate Guide: Delete Your Facebook Account Android-Wise</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-maximize-your-google-meet-experience-with-effective-use-of-digital-boards-on-any-os/"><u>[New] 2024 Approved Maximize Your Google Meet Experience with Effective Use of Digital Boards on Any OS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-raw-to-refined-your-guide-to-youtube-video-edits-for-2024/"><u>[New] From Raw to Refined Your Guide to YouTube Video Edits for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/hassle-free-tactics-to-fetch-tracks-from-gaana-with-minimal-effort/"><u>Hassle-Free Tactics to Fetch Tracks From Gaana with Minimal Effort</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-f14-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy F14 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-android-automotive-update-featuring-advanced-bluetooth-headset-integration-the-tech-roundup-on-zdnet/"><u>Introducing the New Android Automotive Update Featuring Advanced Bluetooth Headset Integration – The Tech Roundup on ZDNet.</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-12-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 12 5GFRP Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-android-auto-update-brings-enhanced-quality-of-life-features-and-bluetooth-headphone-compatibility-tech-news/"><u>Latest Android Auto Update Brings Enhanced Quality of Life Features & Bluetooth Headphone Compatibility - Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lessons-in-frustration-a-firsthand-look-at-southwest-airlines-disappointing-digital-services-as-revealed-by-zdnet/"><u>Lessons in Frustration: A Firsthand Look at Southwest Airlines' Disappointing Digital Services, as Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discounts-score-flights-at-94-off-with-dollar-flight-club-exclusive-deals-unveiled/"><u>Massive Discounts: Score Flights at 94% Off with Dollar Flight Club - Exclusive Deals Unveiled!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-disruption-alert-southwest-grounds-20k-flights-critical-update-on-passenger-impact/"><u>Massive Disruption Alert: Southwest Grounds 20K Flights - Critical Update on Passenger Impact</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-vacation-budget-access-cut-price-hotels-car-hires-and-theme-park-admission-through-our-member-deals-zdnets-tips/"><u>Maximize Your Vacation Budget: Access Cut-Price Hotels, Car Hires & Theme Park Admission Through Our Member Deals | ZDNet's Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-lifespan-and-performance-expert-tips-on-maintaining-high-end-electric-bike-batteries/"><u>Maximizing Lifespan & Performance: Expert Tips on Maintaining High-End Electric Bike Batteries</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-away-from-worker-monitoring-strategies-for-the-transport-sector-insights-by-zdnet/"><u>Navigating Away From Worker Monitoring: Strategies for the Transport Sector - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-without-technology-embracing-the-old-school-road-atlas-in-light-of-cognitive-health-awareness-zdnet-insights/"><u>Navigating Without Technology: Embracing the Old-School Road Atlas in Light of Cognitive Health Awareness | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/playing-ps4-titles-on-your-new-ps5-console-a-comprehensive-guide/"><u>Playing PS4 Titles on Your New PS5 Console: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-ntldr-is-missing-blue-screen-comprehensive-guide/"><u>Solving the 'NTLDR Is Missing' Blue Screen: Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforme-sus-archivos-aiff-a-formato-mp3-sin-costo-alguno-usando-la-herramienta-en-linea-de-movavi/"><u>Transforme Sus Archivos AIFF a Formato MP3 Sin Costo Alguno Usando La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210170103-9781643345857-what-he-told-me-in-100-days/"><u>What He Told Me in 100 Days | Free Book</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

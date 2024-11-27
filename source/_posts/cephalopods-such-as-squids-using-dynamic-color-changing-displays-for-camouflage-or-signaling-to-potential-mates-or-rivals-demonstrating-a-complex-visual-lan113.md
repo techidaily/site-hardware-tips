@@ -1,7 +1,7 @@
 ---
 title: Cephalopods Such as Squids Using Dynamic Color-Changing Displays for Camouflage or Signaling to Potential Mates or Rivals, Demonstrating a Complex Visual Language.
-date: 2024-11-16T21:38:05.721Z
-updated: 2024-11-17T16:36:28.969Z
+date: 2024-11-20T19:04:23.974Z
+updated: 2024-11-27T17:14:34.681Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -41,10 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,16 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,10 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,19 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamline-your-game-logs-advanced-camcapturing-techniques/"><u>[New] In 2024, Streamline Your Game Logs Advanced CamCapturing Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-become-an-instagram-content-wizard-with-smart-cropping-practices-for-2024/"><u>[Updated] Become an Instagram Content Wizard with Smart Cropping Practices for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-to-the-best-10-sites-for-vector-image-download/"><u>2024 Approved Navigate to the Best 10 Sites for Vector Image Download</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-value-alert-procure-your-dream-monitor-at-a-bargain-price-non-gamer-secures-epic-32-curved-model-for-230-insider-info-from-techsavvypundit/"><u>Best Value Alert: Procure Your Dream Monitor at a Bargain Price - Non-Gamer Secures Epic 32 Curved Model for $230, Insider Info From TechSavvyPundit</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-pc-efficiency-the-ultimate-guide-to-high-speed-m3-nvme-ssds-featured-on-zdnet/"><u>Elevate PC Efficiency: The Ultimate Guide to High-Speed M.^3 NVMe SSDs Featured on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-workspace-with-x-techs-ergonomic-marvel-the-x-chair-executive-chair-unveiled-on-cnet/"><u>Elevate Your Workspace with X-Tech's Ergonomic Marvel – The X-Chair Executive Chair Unveiled on CNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hyperx-unveils-the-next-gen-pulsefire-haste-2-gaming-mice-and-clutch-gladiate-xbox-control-device-what-you-need-to-know/"><u>HyperX Unveils the Next-Gen Pulsefire Haste #2 Gaming Mice & Clutch Gladiate Xbox Control Device – What You Need to Know</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-10t-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme 10T 5G</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ter-labyr-writes-making-memorable-parodies-for-2024/"><u>Laughter Labyr Writes Making Memorable Parodies for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastery-of-spotify-ad-formats-and-best-practices/"><u>Mastery of Spotify Ad Formats and Best Practices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-lava-yuva-2-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Yuva 2 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-maintaining-your-mechanical-keyboards-lifespan-with-proper-cleaning-techniques/"><u>Step-by-Step Guide: Maintaining Your Mechanical Keyboard's Lifespan with Proper Cleaning Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/take-your-podcasting-game-to-the-next-level-using-focusrite-scarlett-2i2-insider-tips-featured-on-zdnet/"><u>Take Your Podcasting Game to the Next Level Using Focusrite Scarlett 2I2 - Insider Tips Featured on ZDNET</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/what-to-do-when-convert2mp3-crashes-the-leading-mp3-file-converters/"><u>What To Do When Convert2MP3 Crashes: The Leading MP3 File Converters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essence-of-polarr-revolutionizing-digital-photography/"><u>[New] The Essence of Polarr Revolutionizing Digital Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-sound-collection-adding-itunes-podcasts-with-ease/"><u>2024 Approved Streamlined Sound Collection Adding iTunes Podcasts with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-discovering-the-ultimate-in-depth-sound-experience-with-my-latest-speaker-test/"><u>Beyond Bose & Sonos: Discovering the Ultimate In-Depth Sound Experience with My Latest Speaker Test</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-in-soundbars-expert-review-highlights-top-sonybose-alternative-at-zdnet/"><u>Breakthrough in Soundbars! Expert Review Highlights Top Sony/Bose Alternative at ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-best-picture-quality-neo-qled-or-oled-televisions-compared/"><u>Choosing the Best Picture Quality: Neo QLED or OLED Televisions Compared</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-best-tv-brand-lg-or-samsung-a-comprehensive-review-zdnet/"><u>Choosing the Best TV Brand: LG or Samsung? A Comprehensive Review - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/claim-your-exclusive-offer-samsungs-limited-time-promo-for-a-complimentary-65-4k-television-act-fast-before-it-ends/"><u>Claim Your Exclusive Offer: Samsung's Limited-Time Promo for a Complimentary 65 4K Television - Act Fast Before It Ends!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/committees-play-a-critical-role-in-shaping-legislation-through-hearings-and-amendments/"><u>Committees Play a Critical Role in Shaping Legislation Through Hearings and Amendments.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cutting-costs-with-amazonbasics-a-review-of-the-budget-friendly-flat-antenna/"><u>Cutting Costs with AmazonBasics: A Review of the Budget-Friendly Flat Antenna</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-a2-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo A2 Quickly | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y17s-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y17s Bootloader Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-error-code-nba-2k24-727e66ac-top-fixes-for-gamers/"><u>Overcoming Error Code Nba 2K24 (727E66ac): Top Fixes for Gamers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-itel-by-drfone-android/"><u>Top 10 Password Cracking Tools For Itel</u></a></li>
 </ul></div>
 

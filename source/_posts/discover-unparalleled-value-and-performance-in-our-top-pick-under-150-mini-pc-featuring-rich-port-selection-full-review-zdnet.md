@@ -1,7 +1,7 @@
 ---
 title: Discover Unparalleled Value & Performance in Our Top-Pick Under-$150 Mini PC Featuring Rich Port Selection – Full Review | ZDNET
-date: 2024-09-17 13:13:52
-updated: 2024-09-20 11:50:26
+date: 2024-11-24T18:06:54.874Z
+updated: 2024-11-27T16:57:21.500Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,27 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-brightness-and-hd-in-harmony-a-fit-for-hdr/"><u>[Updated] In 2024, Brightness and HD in Harmony A Fit for HDR?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-reestablishing-iphone-x-trust-restoring-biometric-lock/"><u>[Updated] In 2024, Reestablishing iPhone X Trust Restoring Biometric Lock</u></a></li>
+<li><a href="https://facebook.techidaily.com/4-ways-social-media-changed/"><u>4 Ways Social Media Changed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-fix-persistent-palworld-crashes-in-your-pc-gaming-session/"><u>How to Prevent and Fix Persistent PalWorld Crashes in Your PC Gaming Session</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-sms-issues-on-iphones-a-step-by-step-guide-7-fixes/"><u>How to Troubleshoot SMS Issues on iPhones: A Step-by-Step Guide (7 Fixes)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-comprehensively-understanding-cloud-storage-with-adobe-and-why-you-should-compare/"><u>In 2024, Comprehensively Understanding Cloud Storage with Adobe and Why You Should Compare</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionary-guide-to-iphone-x-animoji-mastery/"><u>Revolutionary Guide to iPhone X Animoji Mastery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-xiaomi-mi-projection-set-up-big-screen-entertainment-on-demand-for-any-room-gizmodo/"><u>The Ultimate Guide to the Xiaomi Mi Projection Set-Up: Big Screen Entertainment on Demand for Any Room | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-36-unbeatable-holiday-subscription-offers-for-services-like-roku-spotify-pandora-and-amazon-prime-tech-savvy-guide/"><u>Top 36 Unbeatable Holiday Subscription Offers for Services Like Roku, Spotify, Pandora & Amazon Prime | Tech-Savvy Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-36-unmissable-online-entertainment-offers-this-season-explore-the-best-options-on-roku-apple-music-max-amazon-and-others-zdnet/"><u>Top 36 Unmissable Online Entertainment Offers This Season: Explore the Best Options on Roku, Apple Music, Max, Amazon & Others | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-compact-projector-picks-your-ultimate-guide-zdnet/"><u>Top 5 Compact Projector Picks : Your Ultimate Guide - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-samsung-non-lg-qled-television-reviews-discover-hidden-gems/"><u>Top Non-Samsung, Non-LG QLED Television Reviews: Discover Hidden Gems</u></a></li>
+</ul></div>
+

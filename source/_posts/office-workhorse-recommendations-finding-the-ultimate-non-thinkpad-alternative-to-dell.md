@@ -1,7 +1,7 @@
 ---
 title: "Office Workhorse Recommendations: Finding the Ultimate Non-ThinkPad Alternative to Dell"
-date: 2024-11-16T18:05:31.944Z
-updated: 2024-11-17T18:32:16.424Z
+date: 2024-11-22T17:48:54.016Z
+updated: 2024-11-27T18:04:08.567Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the deal?
 
 Dell's XPS 14 is seeing some big discounts at Best Buy right now for the higher-end configurations. The laptop with the Intel Core Ultra 7 processor and Intel Arc GPU is [on sale for $1,799](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-xps-14-14-5-3-2k-oled-touch-laptop-intel-core-ultra-7-evo-edition-32gb-memory-nvidia-geforce-rtx-4050-platinum%2F6575149.p&publisher_slug=itechdaily19598&exclusive=1), which is $300 off the regular price. Even better: the configuration with the upgraded Nvidia GeForce RTX 4050 graphics card -- a solid GPU in its own right -- is [marked down to $2,099](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-xps-14-14-5-3-2k-oled-touch-laptop-intel-core-ultra-7-evo-edition-32gb-memory-nvidia-geforce-rtx-4050-platinum%2F6575149.p&publisher_slug=itechdaily19598&exclusive=1) for a savings of $400.
@@ -27,10 +31,7 @@ Dell's XPS 14 is seeing some big discounts at Best Buy right now for the higher-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -74,10 +75,7 @@ Even with this upgraded card, this is not a [gaming laptop](https://www.zdnet.co
 The lack of an HDMI port and full-sized SD card reader is a strange design choice as both would further carve out an identity as a premium-looking laptop for visual creatives. Luckily, the XPS 14 does come with a USB-C dongle that helps get most creative jobs done.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications comparison
@@ -106,10 +104,7 @@ I've talked a little about messing around with the [function keys in other machi
 On the Dell XPS 14, the function row is so minimal that it doesn't even have physical keys at all; there is no haptic feedback or physical indication of a key being pressed, you're just interacting with a little LED icon, and that is a design choice that certainly won't be for everyone. While working with the XPS 14, I never really got used to having the Home, End, and Delete keys associated with these "lights" and found myself preferring simply having these attached to physical inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,10 +116,7 @@ This is not a scrappy, unpretentious workhorse, but rather a premium, ultra-mode
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -161,20 +153,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-discovering-the-top-5-smarter-url-lengtheners-for-youtube-for-2024/"><u>[New] Discovering the Top 5 Smarter URL Lengtheners for YouTube for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-laugh-loom-meme-crafter/"><u>[New] Laugh Loom Meme Crafter</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-digital-dollars-crafting-an-online-wealth-journey-for-2024/"><u>[Updated] Digital Dollars Crafting an Online Wealth Journey for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-laugh-o-matic-crafting-gags-on-the-house-rate/"><u>[Updated] In 2024, Laugh-O-Matic Crafting Gags on the House Rate</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-google-pixel-8-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Google Pixel 8 Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-10-leading-substitutes-for-chatgpt-in-todays-market/"><u>Discover the 10 Leading Substitutes for ChatGPT in Today's Market</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/free-access-ended-microsoft-terminates-windows-10-upgrades-says-zdnet/"><u>Free Access Ended: Microsoft Terminates Windows 10 Upgrades, Says ZDnet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/patent-reveals-apple-may-introduce-modular-design-in-next-gen-macbook-pros/"><u>Patent Reveals Apple May Introduce Modular Design in Next-Gen MacBook Pros</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revitalize-your-slow-computer-effective-strategies-for-speeding-up-old-windows-11-pcs-and-macs-zdnet-insights/"><u>Revitalize Your Slow Computer: Effective Strategies for Speeding Up Old Windows 11 PCs and Macs | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-costs-and-expand-storage-on-your-surface-pro-in-just-seven-steps-money-saving-tips-for-savvy-users-gadgetguru/"><u>Slash Costs and Expand Storage on Your Surface Pro in Just Seven Steps - Money-Saving Tips for Savvy Users | GadgetGuru</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-expenses-cut-over-500-from-monthly-costs-with-simple-strategies-zdnet/"><u>Slash Your Expenses: Cut Over $500 From Monthly Costs with Simple Strategies | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gamers-choice-the-ultimate-list-of-gaming-mouse-mats-2024-edition-techradar/"><u>Top-Rated Gamer's Choice: The Ultimate List of Gaming Mouse Mats - 2024 Edition | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-classic-computer-to-windows-11-despite-microsofts-warnings-as-demonstrated-by-our-readers-tech-chronicles-at-zdnet/"><u>Upgrade Your Classic Computer to Windows 11 Despite Microsoft’s Warnings, as Demonstrated by Our Readers | Tech Chronicles at ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-solve-video-issues-in-facebook-chat-on-iosandroid-devices/"><u>2024 Approved Solve Video Issues in Facebook Chat on iOS/Android Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cost-free-webm-playback-the-top-10-players-reviewed-for-2024/"><u>Cost-Free WebM Playback The Top 10 Players Reviewed for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-tips-for-measuring-the-internal-climate-of-your-macbook-pro-or-air/"><u>Essential Tips for Measuring the Internal Climate of Your MacBook Pro or Air</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12 4G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solved-the-ultimate-guide-to-correcting-your-windows-10s-bluetooth-drivers/"><u>Solved: The Ultimate Guide to Correcting Your Windows 10'S Bluetooth Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-streaming-from-pclaptop-to-tv-using-hdmi-connection/"><u>Step-by-Step Tutorial: Streaming From PC/Laptop to TV Using HDMI Connection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-art-of-instagram-covers-your-stepwise-journey-begins-here/"><u>The Art of Instagram Covers Your Stepwise Journey Begins Here</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-image-loading-issues-solutions-for-when-your-iphone-cant-display-images/"><u>Troubleshooting Image Loading Issues: Solutions for When Your iPhone Can't Display Images</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-alert-exclusive-test-of-best-non-flagship-samsung-tablets-now-at-a-bargain-price-gadgetguru-insights/"><u>Unbeatable Value Alert: Exclusive Test of Best Non-Flagship Samsung Tablets Now at a Bargain Price | GadgetGuru Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-netflixs-decision-latest-update-drops-compatibility-with-aging-ios-devices-find-out-which-are-no-longer-supported/"><u>Understanding Netflix's Decision: Latest Update Drops Compatibility with Aging iOS Devices – Find Out Which Are No Longer Supported</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-full-power-of-the-m4-ipad-pro-how-ai-innovations-at-apples-worldwide-developers-conference-will-revolutionize-your-experience/"><u>Unleashing the Full Power of the M4 iPad Pro: How AI Innovations at Apple’s Worldwide Developers Conference Will Revolutionize Your Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-and-how-to-purge-app-data-from-your-android-improve-performance-and-free-up-space/"><u>Why and How to Purge App Data From Your Android - Improve Performance & Free Up Space!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/xiaomi-book-s-ultrabook-review-experience-the-power-of-windows-on-arm-in-a-budget-friendly-2-in-1-device/"><u>Xiaomi Book S Ultrabook Review: Experience the Power of Windows on ARM in a Budget-Friendly 2-in-1 Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-the-ultimate-survivor-tablet-windows-stylus-capable-device-among-the-finest-tested/"><u>ZDNet Reviews the Ultimate Survivor Tablet: Windows, Stylus Capable Device Among the Finest Tested!</u></a></li>
 </ul></div>
 

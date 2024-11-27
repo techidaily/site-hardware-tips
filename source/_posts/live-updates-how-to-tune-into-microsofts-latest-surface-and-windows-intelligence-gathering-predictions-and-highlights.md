@@ -1,7 +1,7 @@
 ---
 title: "Live Updates: How to Tune Into Microsoft’s Latest Surface & Windows Intelligence Gathering - Predictions & Highlights"
-date: 2024-11-14T16:39:30.490Z
-updated: 2024-11-17T21:26:43.261Z
+date: 2024-11-21T17:59:27.614Z
+updated: 2024-11-27T17:52:37.161Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [How to use Android's emergency satellite texting if you lose cell signal](https://www.zdnet.com/article/how-to-use-androids-emergency-satellite-texting-if-you-lose-cell-signal/)
@@ -38,16 +42,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -65,6 +60,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 [Buy the Surface Laptop 5 View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?)
 
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
 
@@ -85,10 +84,7 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -106,10 +102,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -123,13 +116,6 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -177,18 +163,20 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-sprout-pro-in-depth-review-of-desktop-capturing/"><u>[New] In 2024, Sprout Pro In-Depth Review of Desktop Capturing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-art-of-perusing-past-facebook-pages-to-review-or-not-to/"><u>[Updated] The Art of Perusing Past Facebook Pages To Review or Not To?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/12-gadget-transforms-unused-ssds-into-practical-external-drives-zdnet/"><u>$12 Gadget Transforms Unused SSDs Into Practical External Drives - ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-storing-itunes-video-files/"><u>2024 Approved Comprehensive Guide to Storing iTunes Video Files</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-your-studies-now-discover-the-ultimate-keyboard-featuring-chatgpt-shortcuts-a-must-read-review-on-zdnet/"><u>Boost Your Studies Now! Discover the Ultimate Keyboard Featuring ChatGPT Shortcuts - A Must-Read Review on ZDNET</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-techniques-for-saving-mobile-gameplay/"><u>Essential Techniques for Saving Mobile Gameplay</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-your-tiktok-content-collection-game/"><u>In 2024, Revolutionizing Your TikTok Content Collection Game</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-sony-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Sony</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ting-waterway-content-with-flair/"><u>Sculpting Waterway Content with Flair</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-35-unmissable-dell-promotions-on-cyber-monday-across-stores-like-best-buy-and-amazon-insights-from-zdnet/"><u>Top 35 Unmissable Dell Promotions on Cyber Monday Across Stores Like Best Buy & Amazon - Insights From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-secrets-of-the-console-xbox-s-controller/"><u>Unlock the Secrets of the Console - Xbox S Controller</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/up-to-60-discounts-on-essential-portable-ssd-drives-shop-now-at-a-steal-on-amazon/"><u>Up to 60% Discounts on Essential Portable SSD Drives - Shop Now at a Steal on Amazon!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-upgrade-photographic-images-preserve-precision/"><u>[New] 2024 Approved Upgrade Photographic Images, Preserve Precision</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-nextgen-tv-including-the-best-local-channels-online-for-2024/"><u>[New] NextGen TV Including the Best Local Channels Online for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unleash-retro-game-delights-with-the-leading-android-tools-for-ps2-titles/"><u>[New] Unleash Retro Game Delights with the Leading Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-10-best-metaverse-games-you-can-play-with-friends/"><u>[Updated] 10 Best Metaverse Games You Can Play with Friends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/150-value-exploring-the-all-in-one-capabilities-of-satechis-universal-docking-station-zdnet-insights/"><u>$150 Value: Exploring the All-in-One Capabilities of Satechi's Universal Docking Station | ZDNET Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/4-ways-to-record-internal-android-audio-no-rooting/"><u>4 Ways to Record Internal Android Audio (No Rooting)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-top-pick-best-non-lenovonon-dell-2-in-1-laptops-before-prime-day-special-offers-revealed-zdnet/"><u>Affordable Top Pick: Best Non-Lenovo/Non-Dell 2-in-1 Laptops Before Prime Day - Special Offers Revealed! (ZDNet)</u></a></li>
+<li><a href="https://facebook.techidaily.com/cryptocurrencys-expansion-a-future-headline/"><u>Cryptocurrency's Expansion: A Future Headline?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-wwdc-2023s-big-reveals-detailed-coverage-of-mac-pro-mac-studio-and-revolutionary-m2-ultra-processors/"><u>Decoding WWDC 2023'S Big Reveals: Detailed Coverage of Mac Pro, Mac Studio, and Revolutionary M2 Ultra Processors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exhilarating-escapades-a-guide-to-the-greatest-action-adventure-games-top-10-for-2024/"><u>Exhilarating Escapades A Guide to the Greatest Action-Adventure Games (Top 10) for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hands-on-with-lenovos-newest-creation-the-remarkably-thin-and-powerful-snapdragon-x-laptops-insights-from-zdnet/"><u>Hands-On with Lenovo's Newest Creation: The Remarkably Thin & Powerful Snapdragon X Laptops - Insights From ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-k70-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi K70 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-video-rotation-made-easy-top-10-online-tools/"><u>New Video Rotation Made Easy Top 10 Online Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-designer-laptops-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Graphics Designer Laptops: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-chromebooks-stand-out-as-the-perfect-option-for-users-a-closer-look-by-zdnet-with-7-key-points/"><u>Why Chromebooks Stand Out as the Perfect Option for Users: A Closer Look by ZDNet with 7 Key Points</u></a></li>
 </ul></div>
 

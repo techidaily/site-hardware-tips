@@ -1,7 +1,7 @@
 ---
 title: "A Retrospective Glance: How Mary Jo Foley Became a Leading Voice in Microsoft Coverage for ZDNet"
-date: 2024-09-17 19:22:36
-updated: 2024-09-20 10:48:29
+date: 2024-11-24T17:25:52.156Z
+updated: 2024-11-27T18:29:38.649Z
 tags:
   - pc
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 The Crucial T705 PCIe Gen5 NVMe M.2 SSD features a monster heatsink.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -36,6 +40,10 @@ This means that storage is now a key component to consider when you're exploring
 Over the past couple of weeks I've been testing Crucial's new [T705 PCIe Gen5 NVMe M.2 SSD](https://www.crucial.com/ssd/t705/CT1000T705SSD3), which the company touts as the world's fastest SSD. And yes, it _is_ blazingly fast -- if you have the hardware to handle it.
 
 [ZDNET RECOMMENDS Crucial T705 PCIe Gen5 NVMe M.2 SSD The T705 is a follow-on to the T700, and brings the following improvements: 18% higher sequential reads, 8% higher sequential writes, 4% higher random reads, and 20% higher random writes. View at Crucial](https://www.crucial.com/ssd/t705/CT1000T705SSD3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Crucial T705 Gen5 SSD specifications and highlights
 
@@ -103,6 +111,10 @@ Another key difference between the T700 and the T705 is that this new drive is c
 
 The Crucial T705 is slated for global release on March 12, 2024\. Pricing begins at $240 for the 1TB bare drive version, with the cost rising to $730 for the 4TB model equipped with a heatsink. The special limited edition, featuring a white heatsink and available only in a 2TB capacity, will be priced at $484.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 There are two types of people who will be looking at the Crucial T705\. 
@@ -138,11 +150,33 @@ If speed is your top priority, this drive is the ultimate choice. It also offers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence/"><u>[New] Stream Power Showdown VMix Clashes with Wirecast for Broadcast Excellence</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-tips-for-sharper-images-on-google-meet-calls-for-2024/"><u>[Updated] Top Tips for Sharper Images on Google Meet Calls for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-online-hubs-sky-high-dynamic-range-photography/"><u>2024 Approved Best Online Hubs Sky High Dynamic Range Photography</u></a></li>
+<li><a href="https://win-special.techidaily.com/dont-lose-hope-four-powerful-techniques-for-retrieving-deleted-items-on-your-windows-10-system/"><u>Don't Lose Hope: Four Powerful Techniques for Retrieving Deleted Items on Your Windows 10 System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-on-top-rated-qled-tv-this-labor-day-save-big-with-limited-time-offer/"><u>Huge Discount on Top-Rated QLED TV This Labor Day: Save Big with Limited Time Offer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hybrid-mic-mastery-how-the-shure-mv7-is-redefining-perfection-for-podcasters-and-streamers-zdnets-expert-analysis/"><u>Hybrid Mic Mastery: How the Shure MV7 Is Redefining Perfection for Podcasters & Streamers | ZDNet's Expert Analysis</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-11-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-xiaomi-14-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Xiaomi 14 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-lava-blaze-2-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Lava Blaze 2 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-logitech-blue-sona-mic-blending-design-with-performance-zdnets-expert-take/"><u>In-Depth Analysis of Logitech Blue Sona Mic: Blending Design with Performance - ZDNet's Expert Take</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-bonanza-get-a-free-xbox-game-pass-with-33-off-any-fire-tv-stick-bundle-top-promo-by-zdnet/"><u>Labor Day Bonanza: Get a Free Xbox Game Pass with 33% Off Any Fire TV Stick Bundle - Top Promo by ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/missed-octobers-prime-day-check-out-lasting-amazon-fire-tv-offers-now-insights-from-zdnet/"><u>Missed October's Prime Day? Check Out Lasting Amazon Fire TV Offers Now - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-your-sonos-experience-new-features-include-a-tailored-home-interface-cross-device-search-capability-insights-from-zdnet/"><u>Revolutionizing Your Sonos Experience: New Features Include a Tailored Home Interface, Cross-Device Search Capability - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-lost-remotes-introducing-the-ultimate-solution-every-roku-enthusiast-deserves-featured-on-zdnet/"><u>Say Goodbye to Lost Remotes: Introducing the Ultimate Solution Every Roku Enthusiast Deserves, Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-the-latest-samsung-galaxy-a35-with-complimentary-buds-fe-from-amazon-featured-in-our-exclusive-zdnet-guide/"><u>Score the Latest Samsung Galaxy A35 with Complimentary Buds FE From Amazon, Featured in Our Exclusive ZDNet Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scoring-free-galaxy-buds-seplus-with-your-new-samsung-galaxy-a35-the-complete-guide/"><u>Scoring Free Galaxy Buds SE+ with Your New Samsung Galaxy A35 - The Complete Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-melody-matchers-the-premier-music-detection-apps-compatible-with-android-smartphones/"><u>Updated Melody Matchers The Premier Music Detection Apps Compatible with Android Smartphones</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Powerhouse: Discover How This Compact Computer Outperforms Expectations - Insights From ZDNet"
-date: 2024-09-18 12:49:12
-updated: 2024-09-20 10:57:39
+date: 2024-11-20T17:30:26.041Z
+updated: 2024-11-27T18:42:17.169Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-a-comprehensive-guide-to-share-facebook-videos-with-whatsapp-for-2024/"><u>[New] A Comprehensive Guide to Share Facebook Videos with WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-instagram-to-tik-tok-a-social-pivot-blueprint/"><u>[New] Instagram to Tik Tok - A Social Pivot Blueprint</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-transforming-ordinary-to-extraordinary-edit-tiktok-vids-on-mac-for-2024/"><u>[New] Transforming Ordinary to Extraordinary Edit TikTok Vids on Mac for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-video-requirements-how-to-upload-a-video-on-twitter/"><u>[Updated] 2024 Approved Twitter Video Requirements | How to Upload a Video on Twitter?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-add-music-to-powerpoint-for-2024/"><u>[Updated] Add Music to PowerPoint for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-view-count-prime-hashtags-strategy-for-2024/"><u>[Updated] Elevate View Count Prime Hashtags Strategy for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-historical-insights-from-youtubes-top-10-vlogs-for-2024/"><u>[Updated] Historical Insights From YouTube's Top 10 Vlogs for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-heartfelt-journey-from-fitbit-to-smartwatching-with-garmin-a-personal-transition-story/"><u>A Heartfelt Journey From Fitbit to Smartwatching with Garmin - A Personal Transition Story</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-fitness-audio-why-i-choose-these-36-workout-headphones-a-review-by-zdnet/"><u>Affordable Fitness Audio: Why I Choose These $36 Workout Headphones - A Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-hydrow-wave-spin-bike-reviewed-cost-effective-yet-comparably-efficient-alternative/"><u>Affordable Hydrow Wave Spin Bike Reviewed: Cost-Effective Yet Comparably Efficient Alternative</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-add-featured-channels-on-youtube-a-complete-guide/"><u>How to Add Featured Channels on YouTube A Complete Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphones-guide-to-night-photography-excellence/"><u>In 2024, IPhone's Guide to Night Photography Excellence</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-gt-5-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme GT 5 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/setting-new-targets-tips-for-adjusting-your-apple-watch-exercise-objectives-insights-from-zdnet/"><u>Setting New Targets: Tips for Adjusting Your Apple Watch Exercise Objectives - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/taking-a-closer-look-at-the-huawei-watch-gt-runners-athletic-performance-features-spotlight-from-zdnet/"><u>Taking a Closer Look at the Huawei Watch GT Runner's Athletic Performance Features | Spotlight From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-apple-watch-offers-in-june-2023-exclusive-selection-on-zdnet/"><u>Top Apple Watch Offers in June 2023 - Exclusive Selection on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-value-in-fitness-tracking-unveiling-the-features-of-the-coros-apex-2-pro-how-it-stacks-up-againnst-pricier-rivals-gizmodo/"><u>Top Tier Value in Fitness Tracking: Unveiling the Features of the Coros Apex 2 Pro - How It Stacks Up Againnst Pricier Rivals | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-apples-second-generation-watch-se-keeps-80-price-cut-beyond-prime-day-sale-period/"><u>ZDNet Reveals: Apple's Second Generation Watch SE Keeps $80 Price Cut Beyond Prime Day Sale Period</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-shokz-openrun-pro-the-ultimate-hands-free-safety-first-audio-solution-for-workouts/"><u>ZDNet's In-Depth Analysis: Shokz OpenRun Pro - The Ultimate Hands-Free, Safety-First Audio Solution for Workouts</u></a></li>
+</ul></div>
+

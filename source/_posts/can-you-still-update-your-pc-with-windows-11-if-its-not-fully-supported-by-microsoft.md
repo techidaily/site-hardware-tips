@@ -1,7 +1,7 @@
 ---
 title: Can You Still Update Your PC with Windows 11 If It's Not Fully Supported by Microsoft?
-date: 2024-09-18 16:26:24
-updated: 2024-09-20 12:45:35
+date: 2024-11-24T17:11:08.773Z
+updated: 2024-11-27T18:12:53.186Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,29 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-premium-mobile-and-desktop-avc-viewer-with-ease/"><u>[New] Premium Mobile and Desktop AVC Viewer with Ease</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-resolving-no-video-issue-on-sony-a6400-device-for-2024/"><u>[New] Resolving No-Video Issue on Sony A6400 Device for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-step-by-step-tiktok-usage-for-mac-and-pc-users/"><u>[New] Step-by-Step TikTok Usage for Mac and PC Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-penniless-to-partnered-a-small-channels-journey/"><u>[Updated] 2024 Approved From Penniless to Partnered A Small Channel's Journey</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elite-arena-showdown-best-of-the-royales-for-2024/"><u>[Updated] Elite Arena Showdown Best of the Royales for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-leading-6-video-languages-conversion-aids/"><u>[Updated] Leading 6 Video Languages Conversion Aids</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-powered-robot-the-new-assistant-replacing-canes-and-guide-dogs-for-those-with-visual-challenges-featured-on-zdnet/"><u>AI-Powered Robot: The New Assistant Replacing Canes & Guide Dogs for Those with Visual Challenges - Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-innovative-window-cleaning-robot-by-ecovacs-a-true-highlight-of-the-ces-showcase-insights-from-zdnet/"><u>Discover the Innovative Window-Cleaning Robot by Ecovacs: A True Highlight of the CES Showcase - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-review-the-ultimate-guide-to-purchasing-a-high-end-roborock-bot-vac-must-have-reasons-for-tech-enthusiasts/"><u>Exclusive Review: The Ultimate Guide to Purchasing a High-End Roborock Bot Vac | Must-Have Reasons for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-latest-roborock-automated-vacuum-lineup-highlights-from-ces-2023-tech-insights/"><u>Introducing the Latest Roborock Automated Vacuum Lineup: Highlights From CES 2023 - Tech Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-c53-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme C53</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-sale-save-big-with-the-amazing-discounted-irobot-roomba-j7-now-just-300-less/"><u>Memorial Day Sale: Save Big with the Amazing Discounted iRobot Roomba J7 - Now Just $300 Less!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-system-performance-managing-high-cpu-utilization-from-windows-10-module-installer/"><u>Optimizing System Performance: Managing High CPU Utilization From Windows 10 Module Installer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-all-rounder-cleanser-evaluation-discover-the-exceptional-capabilities-of-roborocks-2-in-1-vacuum-on-zdnet/"><u>The All-Rounder Cleanser Evaluation: Discover the Exceptional Capabilities of Roborock's 2-in-1 Vacuum on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-review-of-sharks-latest-innovation-the-hands-free-cleaning-masterpiece-featured-on-zdnet/"><u>Ultimate Review of Shark’s Latest Innovation: The Hands-Free Cleaning Masterpiece - Featured on ZDNet!</u></a></li>
+</ul></div>
+

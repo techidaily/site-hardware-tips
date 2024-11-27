@@ -1,7 +1,7 @@
 ---
 title: HP's Q4 Performance Exceeds Expectations with Enhanced Q1 Forecast | TechWorld
-date: 2024-09-19 17:12:38
-updated: 2024-09-20 10:38:28
+date: 2024-11-24T18:05:22.007Z
+updated: 2024-11-27T17:42:48.826Z
 tags:
   - printer
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/fa9ecb83590883591b5e39cc72324125a3
 ![hp-q4-fy-21.png](https://www.zdnet.com/a/img/resize/f7eafb1a39343adc0cdb6d7ac36204566ea688d3/2021/11/23/ecb5122d-5ef4-4b88-8fe9-fbb08ad591dc/hp-q4-fy-21.png?auto=webp&width=1280)
 
 HP reported better-than-expected fourth quarter earnings due to strong demand for its Windows PCs amid hybrid work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -75,11 +79,25 @@ As for the outlook, HP projected first quarter non-GAAP earnings of 99 cents a s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-step-by-step-modify-username-in-google-meet/"><u>[Updated] Step-by-Step Modify Username in Google Meet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-obs-studio-vs-bandicam-which-takes-the-crown/"><u>2024 Approved OBS Studio Vs. Bandicam Which Takes the Crown?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-transforming-your-facebook-display-photo-quickly/"><u>2024 Approved Transforming Your Facebook Display Photo Quickly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-massive-discounts-on-the-slim-fit-high-resolution-lg-gram-17-laptop-during-cyber-monday-shopping-event-save-up-to-40/"><u>Don't Miss Out! Massive Discounts on the Slim-Fit, High-Resolution LG Gram 17 Laptop During Cyber Monday Shopping Event – Save Up To 40%!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-infinix-smart-8-frp-bypass-by-drfone-android/"><u>In 2024, About Infinix Smart 8 FRP Bypass</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximizing-your-network-an-in-depth-review-of-the-netgear-ac1200-wireless-range-extender-ex6200/"><u>Maximizing Your Network: An In-Depth Review of the Netgear AC1200 Wireless Range Extender (EX6200)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-full-scale-of-precision-a-review-of-asus-pa32us-capabilities-for-2024/"><u>The Full Scale of Precision A Review of Asus PA32U's Capabilities for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-discounted-computers-on-black-friday-and-cyber-monday-find-your-perfect-purchase/"><u>Top-Rated Discounted Computers on Black Friday & Cyber Monday - Find Your Perfect Purchase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-finest-touchscreen-laptops-of-the-year-in-depth-expert-evaluations-and-ratings-zdnet/"><u>Ultimate Guide to the Finest Touchscreen Laptops of the Year: In-Depth Expert Evaluations and Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-revelations-at-apples-october-showcase-unveiling-the-m4-mac-mini-latest-ipad-lineup-enhanced-ai-capabilities-and-beyond-insights/"><u>Upcoming Revelations at Apple's October Showcase: Unveiling the M4 Mac Mini, Latest iPad Lineup, Enhanced AI Capabilities & Beyond - Insights</u></a></li>
+</ul></div>
+

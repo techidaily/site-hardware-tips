@@ -1,7 +1,7 @@
 ---
 title: Discovering the Best Deals on Raspberry Pi - Top Locations & Alternative Options Detailed by ZDNet
-date: 2024-09-19 12:24:52
-updated: 2024-09-20 12:32:58
+date: 2024-11-24T19:36:47.529Z
+updated: 2024-11-27T18:08:26.128Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,31 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-your-guide-to-premium-metaverse-goggles-and-headsets-for-2024/"><u>[Updated] Your Guide to Premium Metaverse Goggles & Headsets for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-online-film-platforms-top-picks-for-streaming-movies-without-cost-on-desktops-and-smartphones/"><u>Best Free Online Film Platforms: Top Picks for Streaming Movies Without Cost on Desktops & Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-google-pixel-watch-analysis-a-non-apple-alternative-in-android-wearables/"><u>Comprehensive Google Pixel Watch Analysis: A Non-Apple Alternative in Android Wearables</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/durable-protection-best-belted-leather-straps-and-sturdy-cases-for-apple-watches-and-galaxy-z-fold-4-techradar/"><u>Durable Protection: Best Belted Leather Straps & Sturdy Cases for Apple Watches & Galaxy Z Fold 4 | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977650151-easy-install-brother-mfc-7360n-printer-drivers-for-windows-10-8-and-eby-latest-updates-available/"><u>Easy Install: Brother MFC-7360N Printer Drivers for Windows 10, 8 & Eby | Latest Updates Available!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-analysis-unveiling-imos-features-and-user-experience/"><u>Expert Analysis: Unveiling IMo's Features and User Experience</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-infamous-video-dxgkrnl-bsod-issue-in-windows-11-step-by-step-guide/"><u>Fixing the Infamous Video Dxgkrnl BSOD Issue in Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-leveraging-engagement-for-higher-facebook-profile-visibility/"><u>In 2024, Leveraging Engagement for Higher Facebook Profile Visibility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-review-for-runners-uncovering-the-mighty-potential-of-garmin-forerunner-955-solar-watch-explored-by-zdnet/"><u>In-Depth Analysis and Review for Runners: Uncovering the Mighty Potential of Garmin Forerunner 955 Solar Watch | Explored by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/major-apple-smartwatch-revamp-anticipated-insights-and-speculations/"><u>Major Apple Smartwatch Revamp Anticipated : Insights and Speculations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-with-the-apple-watch-series-10-at-best-buy-for-under-100-order-in-advance-and-save-full-tips-covered-by-zdnet/"><u>Score Big Savings with the Apple Watch Series 10 at Best Buy for Under $100 - Order in Advance & Save! Full Tips Covered by ZDNet</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/step-by-step-guide-transforming-tod-videos-into-various-formats-including-mp4-and-avi/"><u>Step-by-Step Guide: Transforming TOD Videos Into Various Formats Including MP4 & AVI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-transforming-your-apple-watch-display-with-custom-faces-tips-from-zdnet/"><u>Step-by-Step Guide: Transforming Your Apple Watch Display with Custom Faces - Tips From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-6-best-reasons-for-dialing-down-online-engagement/"><u>The 6 Best Reasons for Dialing Down Online Engagement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-rise-of-intelligent-rings-how-this-new-tech-trend-is-set-to-revolutionize-the-wearable-industry/"><u>The Rise of Intelligent Rings: How This New Tech Trend Is Set to Revolutionize the Wearable Industry</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-quick-solution-for-error-1053-when-service-fails-to-react-timely/"><u>Troubleshooting Success: Quick Solution for Error 1053 When Service Fails to React Timely</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/urinary-osmolarity-measures-solute-concentration-in-urine/"><u>Urinary Osmolarity Measures Solute Concentration in Urine.</u></a></li>
+</ul></div>
+

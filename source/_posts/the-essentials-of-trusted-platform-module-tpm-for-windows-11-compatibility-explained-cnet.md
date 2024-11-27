@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Trusted Platform Module (TPM) for Windows 11 Compatibility Explained | CNET
-date: 2024-09-17 17:41:39
-updated: 2024-09-20 11:59:19
+date: 2024-11-22T17:13:37.099Z
+updated: 2024-11-27T17:18:49.180Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-step-by-step-to-mastering-instagram-chat-videos/"><u>[New] In 2024, A Step-by-Step to Mastering Instagram Chat Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-periscope-pro-the-in-depth-usage-guidebook/"><u>[New] Periscope Pro The In-Depth Usage Guidebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-look-at-samsungutation-studio-features/"><u>2024 Approved In-Depth Look at Samsung'utation Studio Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipating-apples-latest-innovation-the-sx-series-watch-price-estimates-and-launch-predictions-amidst-swirling-rumors/"><u>Anticipating Apple's Latest Innovation: The SX Series Watch, Price Estimates & Launch Predictions Amidst Swirling Rumors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722884423420-experience-amazing-ipad-deals-and-special-discounts-right-now/"><u>Experience Amazing iPad Deals and Special Discounts Right Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-get-expressvpn-coupon-code-get-49-off-discount/"><u>How to Get ExpressVPN Coupon Code – Get 49% Off Discount</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-a18-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on A18</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovo-tab-p11-pro-assessment-exceptional-performance-with-minor-flaws/"><u>Lenovo Tab P11 Pro Assessment: Exceptional Performance with Minor Flaws</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-sale-save-300-on-the-eufy-robovac-12-499-off-available-now/"><u>Massive Sale: Save $300 on the Eufy RoboVac 12 ($499 OFF) - Available Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-special-offer-save-45-on-the-roborock-q7-maxplus-automated-cleaning-system-for-hardwood-and-tile-floors-tech-news/"><u>Memorial Day Special Offer: Save 45% on the Roborock Q7 Max+ Automated Cleaning System for Hardwood and Tile Floors | Tech News</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/personalizing-flipbooks-in-mother-tongue-a-how-to-using-flipbuilders-language-settings/"><u>Personalizing Flipbooks in Mother Tongue: A How-To Using FlipBuilder's Language Settings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/roomba-robotic-vacuums-ranking-of-2eepy-2024-thoroughly-tested-and-expert-opinions-cnet/"><u>Roomba Robotic Vacuums Ranking of 2Eepy 2024: Thoroughly Tested and Expert Opinions | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/summer-protection-how-a-square-shaped-robot-vac-prevented-dog-track-marks-on-my-floors-a-zdnet-review/"><u>Summer Protection: How a Square-Shaped Robot Vac Prevented Dog Track Marks on My Floors - A ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tipsy-circuits-how-my-robo-sommeliers-wine-blunder-turned-into-an-odd-tip-request-adventure-zdnet/"><u>Tipsy Circuits! How My Robo-Sommelier's Wine Blunder Turned Into an Odd Tip Request Adventure | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-telepresence-bots-comprehensive-review-and-ranking/"><u>Top 5 Telepresence Bots : Comprehensive Review & Ranking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-unknown-brands-discover-the-hidden-gem-in-2-in-1-robot-vacuums-that-outperforms-rivals/"><u>Top Unknown Brands: Discover the Hidden Gem in 2-in-1 Robot Vacuums That Outperforms Rivals!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-robot-floor-cleaners-comprehensive-reviews-and-testing-insights-techradar/"><u>Top-Rated Robot Floor Cleaners : Comprehensive Reviews & Testing Insights | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-get-the-high-performance-eufy-twin-turbine-vac-for-only-360-before-labor-day-ends-gadget-bargains/"><u>Unbeatable Deal Alert: Get the High-Performance Eufy Twin Turbine Vac for Only $360 Before Labor Day Ends | Gadget Bargains</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/unlocking-the-secrets-of-avi-and-dvd-conversion-top-5-watermark-free-methods/"><u>Unlocking the Secrets of AVI and DVD Conversion: Top 5 Watermark-Free Methods</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unpacking HP's Bold Move with a New Portable All-in-One Device – The Unexpected Twists in Tech News | ZDNET
-date: 2024-09-18 21:58:35
-updated: 2024-09-20 11:45:12
+date: 2024-11-25T16:20:33.563Z
+updated: 2024-11-27T18:43:17.944Z
 tags:
   - printer
 categories:
@@ -78,11 +78,28 @@ The company teamed up with Lecia Geosystems, Topcon, and Trimble to ensure that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-from-graphics-to-emojis-turning-gifs-into-stickers-on-telegram-and-more/"><u>[New] 2024 Approved From Graphics to Emojis Turning GIFs Into Stickers on Telegram & More</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-overview-and-assessment-parrots-advanced-edition/"><u>[New] 2024 Approved Overview and Assessment - Parrot's Advanced Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-5-mac-video-tools-beyond-standard-bandicam/"><u>[New] Top 5 Mac Video Tools Beyond Standard Bandicam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3000-gaming-beast-unleashed-how-dells-elite-laptop-redefines-luxury-for-gamers-cutting-edge-electronics-review/"><u>$3,000 Gaming Beast Unleashed: How Dell's Elite Laptop Redefines Luxury for Gamers | Cutting-Edge Electronics Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-13-mini-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 13 mini? Find the Best Solution Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-laptops-of-2nity-a-guide-to-choosing-ideal-tech-gifts-curated-by-zdnet-experts/"><u>Best Laptops of 2Nity: A Guide to Choosing Ideal Tech Gifts, Curated by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-big-names-unveiling-excellence-in-work-laptops-tested-by-zdnet-not-lenovo-or-macbook/"><u>Beyond the Big Names: Unveiling Excellence in Work Laptops Tested by ZDNet Not Lenovo or MacBook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-creative-potential-with-filmora-answers/"><u>In 2024, Unlocking Creative Potential with Filmora Answers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/solve-macbooks-power-management-issues-save-battery-with-this-essential-tool/"><u>Solve MacBook's Power Management Issues: Save Battery with This Essential Tool</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-10-omegle-alternative-videochat-websites/"><u>Top 10 Omegle Alternative Videochat Websites</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

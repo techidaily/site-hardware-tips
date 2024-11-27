@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Targets Classrooms: New Low-Cost Laptop SE & Tailored Windows 11 SE Operating System Released, Discover More on ZDNet!"
-date: 2024-09-18 22:35:54
-updated: 2024-09-20 11:49:31
+date: 2024-11-24T16:52:21.653Z
+updated: 2024-11-27T16:25:58.159Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,31 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-crafting-perfect-ringtones-from-popular-tiktok-audio-tracks-for-2024/"><u>[New] Crafting Perfect Ringtones From Popular TikTok Audio Tracks for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-full-review-of-picsart-app-a-step-by-step-guide/"><u>[New] In 2024, Full Review of PicsArt App - A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-one-frame-at-a-time-how-to-extract-images-from-windows-10-movie-files/"><u>[New] In 2024, One Frame at a Time How To Extract Images From Windows 10 Movie Files</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-smart-choices-best-vimeo-video-downloader-apps/"><u>2024 Approved Smart Choices Best Vimeo Video Downloader Apps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-speech-to-text-your-all-inclusive-gdoc-training-guide-for-2024/"><u>From Speech to Text Your All-Inclusive GDoc Training Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-special-offer-secure-33-discount-on-xbox-game-pass-bundle-with-fire-tv-stick-limited-time-only-zdnet/"><u>Labor Day Special Offer! Secure 33% Discount on Xbox Game Pass Bundle with Fire TV Stick – Limited Time Only | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-and-greatest-the-top-ranked-mp3-players-for-2er-2024-cnet-analysis/"><u>Latest and Greatest: The Top-Ranked MP3 Players for 2Er 2024 - CNET Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lg-unveils-innovative-features-next-gen-cockpit-display-and-adaptive-color-fridge-with-transparency-tech-techworld/"><u>LG Unveils Innovative Features: Next-Gen Cockpit Display & Adaptive Color Fridge with Transparency Tech | TechWorld</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/podcasting-and-streaming-pros-choice-unveiling-the-shure-mv7-the-near-perfect-hybrid-microphone-revelation-zdnet-review/"><u>Podcasting & Streaming Pro's Choice? Unveiling the Shure MV7 - The Near-Perfect Hybrid Microphone Revelation! [ZDNet Review]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revive-your-zoom-camera-a-comprehensive-fix-guide/"><u>Revive Your Zoom Camera: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-glimpse-discover-how-google-reinvents-tv-streaming-with-its-upcoming-device-diverging-from-chromecast-ideals-digitalfrontiers/"><u>Revolutionary Glimpse: Discover How Google Reinvents TV Streaming with Its Upcoming Device Diverging From Chromecast Ideals | DigitalFrontiers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/roku-security-alert-over-15k-users-affected-urgent-steps-to-secure-your-account-zdnet/"><u>Roku Security Alert: Over 15K Users Affected - Urgent Steps to Secure Your Account | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-a35-deals-on-amazon-grab-your-free-earbuds-with-every-purchase-gizmodo/"><u>Samsung Galaxy A35 Deals on Amazon: Grab Your Free Earbuds with Every Purchase! | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-tcls-cleared-out-65-offer-the-last-chance-to-grab-a-premium-4k-qled-tv-and-earn-savings-of-300/"><u>Save Big with TCL's Cleared Out 65 OFFER! - The Last Chance to Grab a Premium 4K QLED TV & Earn Savings of $300!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-realme-10t-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Realme 10T 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranked-qled-televisions-your-ultimate-guide/"><u>Top-Ranked QLED Televisions : Your Ultimate Guide</u></a></li>
+</ul></div>
+

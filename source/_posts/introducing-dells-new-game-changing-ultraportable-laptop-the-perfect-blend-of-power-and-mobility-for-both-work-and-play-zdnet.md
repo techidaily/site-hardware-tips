@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Game-Changing Ultraportable Laptop: The Perfect Blend of Power & Mobility for Both Work and Play | ZDNet"
-date: 2024-11-15T20:59:19.801Z
-updated: 2024-11-17T20:50:21.239Z
+date: 2024-11-22T18:35:04.477Z
+updated: 2024-11-27T16:10:53.623Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ Before we get into some of the finer details about the brand new Laptop 16 which
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Laptop 13 gets some big updates
 
 If you've been holding off on taking the modular plunge because of the lack of an AMD CPU option, your wait is nearly over. Starting today, you can preorder a [Laptop 13](https://frame.work/laptop-12-gen-intel) with an AMD Ryzen 5 or Ryzen 7 series CPU. The addition of an AMD build was one of the most requested features from Framework. In fact, if you already own an Intel-powered Laptop 13, you can upgrade to the AMD mainboard as long as you have or upgrade to DDR5 memory and a compatible Wi-Fi card. 
@@ -43,10 +47,7 @@ You can [preorder the Laptop 13](https://frame.work/marketplace) and any of the 
 Framework is also expanding the countries its products are available in, adding Belgium, Italy, Spain, and Taiwan. Pre-orders in those countries will begin this summer. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A novel way to repurpose that old mainboard
@@ -64,10 +65,7 @@ The case effectively turns the mainboard into a portable computer, albeit withou
 The case will cost $39 and launches later this spring. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Framework goes big with the Laptop 16
@@ -132,17 +130,17 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-tips-from-pros-elevating-your-twitch-video-quality/"><u>[Updated] 2024 Approved Tips From Pros Elevating Your Twitch Video Quality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-your-budget-with-roombas-updated-275-e-series-a-top-contender-in-affordable-robotic-cleaning-technology-insights-from-zdnet/"><u>Beat Your Budget with Roomba's Updated $275 E-Series: A Top Contender in Affordable Robotic Cleaning Technology - Insights From ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fuse-rhythms-into-powerpoint-layouts-for-2024/"><u>Fuse Rhythms Into PowerPoint Layouts for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-systemsettingsexe-failure-on-windows-11/"><u>Preventing SystemSettings.exe Failure on Windows 11</u></a></li>
-<li><a href="https://win-guides.techidaily.com/solving-the-mystery-of-an-active-asus-pc-with-no-screen-output/"><u>Solving the Mystery of an Active ASUS PC with No Screen Output</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-smart-home-gadgets-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Smart Home Gadgets of 2024: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-most-efficient-roomba-models-of-2024-industry-experts-weigh-in-engadget/"><u>Ultimate Guide to the Most Efficient Roomba Models of 2024 - Industry Experts Weigh In | Engadget</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-the-ultimate-household-helper-review-of-the-roomba-combo-j7pluss-2-in-1-vacuummop-capabilities-zdnet-tech-insights/"><u>Unboxing the Ultimate Household Helper? Review of the Roomba Combo J7+'s 2-in-1 Vacuum/Mop Capabilities | Zdnet Tech Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-google-gemini-with-these-tips/"><u>Unlock the Power of Google Gemini with These Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unnerving-precision-in-motion-the-next-generation-atlas-robot-by-boston-dynamics-revealed/"><u>Unnerving Precision in Motion: The Next Generation Atlas Robot by Boston Dynamics Revealed</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/unscramble-your-disney-movies-a-step-by-step-guide-to-burning-dvds-using-handbrake/"><u>Unscramble Your Disney Movies: A Step-by-Step Guide to Burning DVDs Using Handbrake</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>2024 Approved Prime Time Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/direct-correction-methods-for-usb-mtp-errors/"><u>Direct Correction Methods for USB MTP Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-frame-drops-and-stutter-in-v-a-guide-for-pc-users/"><u>Eliminating Frame Drops and Stutter in V: A Guide for PC Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-insight-the-ultimate-review-of-line-messenger-app/"><u>Expert Insight: The Ultimate Review of LINE Messenger App</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-g04-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto G04 Devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-ultimate-dvd-converter-tools-for-windows-users-the-premier-pick-for-win10-and-win11-zero-fee/"><u>Free Ultimate DVD Converter Tools for Windows Users: The Premier Pick for Win10 and Win11 [Zero Fee]</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/losungsansatze-fur-die-update-fehlercode-0x80070422-in-windows-11-top-5-tipps-und-tricks/"><u>Lösungsansätze Für Die Update-Fehlercode 0X80070422 in Windows 11: Top 5 Tipps Und Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-yard-care-dandys-innovative-weed-destroying-lawnbot-promises-a-pain-free-garden-experience/"><u>Revolutionizing Yard Care: Dandy's Innovative Weed-Destroying Lawnbot Promises a Pain-Free Garden Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rocketbooks-innovative-approach-to-sustainable-sticky-notes-for-the-conscious-user-zdnet/"><u>Rocketbook's Innovative Approach to Sustainable Sticky Notes for the Conscious User | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unveils-the-eco-friendly-galaxy-s23-a-new-era-of-sustainability-in-smartphones-zdnet/"><u>Samsung Unveils the Eco-Friendly Galaxy S23: A New Era of Sustainability in Smartphones | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-future-with-amazon-meet-the-duo-of-new-solar-energy-projects-down-under-as-spotted-by-zdnet/"><u>Sustainable Future with Amazon? Meet the Duo of New Solar Energy Projects Down Under, as Spotted by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-7-key-ai-enhancements-you-can-use/"><u>Unveiling 7 Key AI Enhancements You Can Use</u></a></li>
 </ul></div>
 

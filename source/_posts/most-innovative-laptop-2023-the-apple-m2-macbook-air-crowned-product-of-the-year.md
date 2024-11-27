@@ -1,7 +1,7 @@
 ---
 title: Most Innovative Laptop 2023 - The Apple M2 MacBook Air Crowned Product of the Year
-date: 2024-11-13T21:14:27.999Z
-updated: 2024-11-17T17:08:24.290Z
+date: 2024-11-23T19:10:55.136Z
+updated: 2024-11-27T17:45:08.852Z
 tags:
   - laptops
 categories:
@@ -34,15 +34,16 @@ Getty/MacLife Magazine
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why it's the top product of 2022
 
 One of the other common criticisms of this product when it was first released was that it's now a bit of a tweener in the Mac product line -- with the very-capable [M1 MacBook Air](https://go.shopyourlikes.com/pi/244cb3ab772a00eb37169c21806273bf37215920?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) still on sale and now serving as the entry-level, under-$1,000 Mac laptop and the robust [MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C57XLR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5144bc14-ec77-44d9-bd88-a76324dbb1f1%7Cdtp&dtb=1) line being the go-to option for professionals and creators who need more oomph. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -64,10 +65,7 @@ My conclusion: The M2 MacBook Air can now handle about 75% of what you used to n
 That can potentially save you $500-$1,000\. The M2 MacBook Air I tested included the 10-core GPU and 16 GB of RAM and retails for $1,700\. But, a comparable MacBook Pro is going to run you at least $2,000-$2,500.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -97,10 +95,7 @@ While no Apple product ever really flies under the radar, the accomplishments of
 You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Product of the Year as a [YouTube Short](https://www.youtube.com/shorts/SlyOpp2rlKk) (embedded below), [Instagram Reel](https://www.instagram.com/reel/CmtsrSzqrrb/?hl=en), or on [TikTok](https://www.tiktok.com/@zdnet%5Fofficial/video/7182202897806019886).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -147,18 +142,17 @@ You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-optimal-online-sound-snatching/"><u>[Updated] In 2024, Optimal Online Sound Snatching</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210934673-9781782497585-5-minute-magic-for-modern-wiccans/"><u>5-Minute Magic for Modern Wiccans | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-discover-the-ultimate-holiday-savings-for-ssds-and-storage-solutions-digital-trends/"><u>Exclusive Guide: Discover the Ultimate Holiday Savings for SSDs and Storage Solutions | Digital Trends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/identifying-your-computers-core-components-cpu-and-mobo-speed-tested-techniques/"><u>Identifying Your Computer's Core Components: CPU & Mobo - Speed-Tested Techniques!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-propel-your-social-impact-with-strategic-facebook-video-ads/"><u>In 2024, Propel Your Social Impact with Strategic Facebook Video Ads</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-roku-remote-enabling-your-devices-closed-captions-effortlessly/"><u>Mastering the Roku Remote: Enabling Your Device’s Closed Captions Effortlessly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-lava-agni-2-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Lava Agni 2 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/preventing-logofail-intrusions-top-strategies-for-securing-your-devices-insights-from-zdnet/"><u>Preventing LogoFAIL Intrusions: Top Strategies for Securing Your Devices - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/selecting-the-perfect-mac-desktop-mini-studio-imac-or-pro-a-comprehensive-guide/"><u>Selecting the Perfect Mac Desktop: Mini, Studio, iMac, or Pro - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-keyboards-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Keyboards : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-hp-victus-15l-gaming-laptop-now-at-only-480-labor-day-flash-sale/"><u>Unbeatable Deal: HP Victus 15L Gaming Laptop Now at Only $480 - Labor Day Flash Sale!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-the-potential-storing-insta-media-on-your-phone/"><u>Unlocking the Potential Storing Insta Media on Your Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-top-7-nft-creators-for-your-artwork-for-2024/"><u>Unveiling the Top 7 NFT Creators for Your Artwork for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-rhythm-of-the-skies-bebop-parrot-revisited/"><u>[New] The Rhythm of the Skies Bebop Parrot Revisited</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-superior-streaming-recorders-for-youtube-vloggers-for-2024/"><u>[Updated] Superior Streaming Recorders for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-s24plus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy S24+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-extras-top-4-accessory-picks-for-the-dji-mini-3-pro-insights-from-zdnet/"><u>Essential Extras: Top 4 Accessory Picks for the DJI Mini 3 Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/finding-the-right-auto-repair-a-tale-of-skipping-reviews-with-chatgpt-plus/"><u>Finding the Right Auto Repair: A Tale of Skipping Reviews with ChatGPT Plus</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-uber-dominates-self-driving-deliveries-and-captures-market-share-techradar/"><u>How Uber Dominates Self-Driving Deliveries and Captures Market Share | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-ubers-new-package-delivery-service-with-ups-fedex-and-usps-works-a-comprehensive-guide/"><u>How Uber's New Package Delivery Service with UPS, FedEx & USPS Works: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-integrating-voices-into-videos-effectively/"><u>In 2024, Integrating Voices Into Videos Effectively</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-amazons-fire-and-apples-ipad-which-one-fits-you/"><u>Navigating Through Amazon's Fire and Apple's iPad: Which One Fits You?</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/ultimate-guide-hdd-windows-1011/"><u>Ultimate Guide: ハイドラー外部HDDの完全初期化 - Windows 10および11用</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-potential-top-benefits-of-macos-15s-fresh-update-for-your-apple-macbook-revealed-by-zdnet/"><u>Unlocking New Potential: Top Benefits of macOS 15'S Fresh Update for Your Apple MacBook Revealed by ZDNet</u></a></li>
 </ul></div>
 

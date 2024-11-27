@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal Alert: HP Victus 15 Laptop Price Slashed to $530 by Best Buy - ZDNET Exclusive!"
-date: 2024-11-13T21:26:47.737Z
-updated: 2024-11-17T16:10:25.180Z
+date: 2024-11-26T18:38:58.239Z
+updated: 2024-11-27T16:05:03.456Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 GPU and a screen capable of a 144Hz refre
 **Also: [Best laptops under $1,000](https://www.zdnet.com/article/best-laptop-under-1000/)**
 
 With 8GB of RAM, a 512GB SSD, and a 12th-gen Intel Core i5 processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,29 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-chill-vibes-top-idle-pc-experiences-for-2024/"><u>[Updated] Chill Vibes Top Idle PC Experiences for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-video-capture-crusade-obs-vs-shadowcast/"><u>[Updated] In 2024, Video Capture Crusade OBS Vs ShadowCast</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversao-de-video-wmv-para-formato-3g2-online-e-gratuito-pelo-movavi/"><u>Conversão De Vídeo WMV Para Formato 3G2 Online E Gratuito Pelo Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/education-focused-microsoft-unveils-affordable-250-surface-laptop-se-and-the-specialized-windows-11-se-os-tech-news/"><u>Education-Focused Microsoft Unveils Affordable $250 Surface Laptop SE and the Specialized Windows 11 SE OS | Tech News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-the-most-bang-for-your-buck-a-compact-powerhouse-mini-pc-with-endless-connectivity-options-below-150-explore-on-zdnet/"><u>Get the Most Bang for Your Buck: A Compact Powerhouse Mini PC with Endless Connectivity Options Below $150 - Explore on ZDNet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-sony-xperia-10-v-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Sony Xperia 10 V Safely | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminating-imagery-pro-level-tips-for-spectacular-photos-for-2024/"><u>Illuminating Imagery Pro-Level Tips for Spectacular Photos for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-snap-save-and-share-like-a-pro-with-the-mi-11-screen-recording-suite/"><u>In 2024, Snap, Save and Share Like a Pro with the Mi 11 Screen Recording Suite</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-silently-ends-hopes-for-windows-11-lifeline-an-update-from-zdnet/"><u>Microsoft Silently Ends Hopes for Windows 11 Lifeline - An Update From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-gen-microsoft-roadmap-revolutionary-approach-to-cloud-services-advertisements-and-hardware-synergy-zdnet-insights/"><u>Next-Gen Microsoft Roadmap: Revolutionary Approach to Cloud Services, Advertisements & Hardware Synergy | ZDNet Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-gt-neo-5-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme GT Neo 5 Phone Now with These Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/quick-guide-setting-up-chrome-os-flex-within-half-an-hour-insights-from-zdnet/"><u>Quick Guide: Setting Up Chrome OS Flex Within Half an Hour - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revive-your-slow-computer-expert-guidance-for-accelerating-older-windows-1-groph-or-mac-pcs-by-zdnet/"><u>Revive Your Slow Computer: Expert Guidance for Accelerating Older Windows 1 Groph or Mac PCs by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-to-upgrading-your-system-from-linux-mint-to-the-latest-version-mint-21/"><u>Step-by-Step Guide to Upgrading Your System From Linux Mint to the Latest Version - Mint 21</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-next-gen-discover-8-leading-tablets-pushing-beyond-filmoras-limits/"><u>The Next Gen Discover 8 Leading Tablets Pushing Beyond Filmora's Limits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-big-screen-displays-the-ultimate-guide-zdnet/"><u>Top-Rated Big Screen Displays: The Ultimate Guide - ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-nwstoreexe-system-crashes/"><u>Troubleshooting Steps for Resolving nw_store.exe System Crashes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-flexistabilizer-the-ultimate-videographers-tool/"><u>[New] 2024 Approved FlexiStabilizer The Ultimate Videographer's Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audio-alchemy-excellent-picks-for-skype-ringtone-downloads/"><u>[Updated] Audio Alchemy Excellent Picks for Skype Ringtone Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-top-10-best-photo-layering-and-editing-apps-iosandroid/"><u>[Updated] Explore Top 10 Best Photo Layering & Editing Apps iOS/Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-no-cash-needed-try-these-free-youtube-subtitle-tools/"><u>[Updated] No Cash Needed? Try These Free YouTube Subtitle Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporating-seconds-and-minutes-on-youtube-clips/"><u>2024 Approved Incorporating Seconds and Minutes on YouTube Clips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/alarming-update-southwest-airlines-cancels-20k-flights-what-you-need-to-know-zdnet/"><u>Alarming Update: Southwest Airlines Cancels 20K Flights - What You Need to Know! | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/alert-first-city-in-the-us-experiences-drone-food-deliveries-from-doordash-discover-how/"><u>Alert: First City in the U.S. Experiences Drone Food Deliveries From DoorDash - Discover How!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazing-deal-ride-your-new-e-bike-and-cook-delicious-meals-with-its-integrated-grill/"><u>Amazing Deal: Ride Your New E-Bike and Cook Delicious Meals with Its Integrated Grill!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-car-charger-dangers-myth-or-fact-for-iphones-unveiling-the-truth-with-rigorous-zdnet-product-trials-and-analysis/"><u>Are Car Charger Dangers Myth or Fact for iPhones? Unveiling the Truth with Rigorous ZDNet Product Trials and Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/autonomous-cab-launch-baidu-initiates-self-driving-taxis-in-duo-chinese-metropolises-zdnet/"><u>Autonomous Cab Launch: Baidu Initiates Self-Driving Taxis in Duo Chinese Metropolises - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/baidus-leap-into-the-future-with-launch-of-driverless-taxi-programme-across-two-major-cities-in-china-insights-from-zdnet/"><u>Baidu's Leap Into the Future with Launch of Driverless Taxi Programme Across Two Major Cities in China | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-2023-highlights-exclusive-updates-from-htc-and-google-revealed-on-day-3-plus-leading-tech-news-covered/"><u>CES 2023 Highlights: Exclusive Updates From HTC & Google Revealed on Day 3 + Leading Tech News Covered</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-unique-dandd-characters-with-ai-leveraging-chatgpt-and-dall-e/"><u>Crafting Unique D&D Characters with AI: Leveraging ChatGPT & DALL-E</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-x6-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco X6 Pro Through Google Earth?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/perfect-your-video-edits-step-by-step-on-youtube-cutting/"><u>Perfect Your Video Edits Step-by-Step on YouTube Cutting</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-creating-a-boot-disk-using-windows-pe-or-linux/"><u>Step-by-Step Guide: Creating a Boot Disk Using Windows PE or Linux</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-selection-of-2023s-leading-ev-models-rated-and-ranked/"><u>ZDNet's Ultimate Selection of 2023'S Leading EV Models - Rated and Ranked</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

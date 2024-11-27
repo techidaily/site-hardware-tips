@@ -1,7 +1,7 @@
 ---
 title: HP Delivers Exceptional Q4 Earnings with Bright Prospects for Q1 - Insights From ZDNet
-date: 2024-09-18 14:23:37
-updated: 2024-09-20 12:29:57
+date: 2024-11-20T18:38:18.879Z
+updated: 2024-11-27T18:52:33.898Z
 tags:
   - printer
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d3
 ![hp-q4-fy-21.png](https://www.zdnet.com/a/img/resize/f7eafb1a39343adc0cdb6d7ac36204566ea688d3/2021/11/23/ecb5122d-5ef4-4b88-8fe9-fbb08ad591dc/hp-q4-fy-21.png?auto=webp&width=1280)
 
 HP reported better-than-expected fourth quarter earnings due to strong demand for its Windows PCs amid hybrid work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -75,11 +79,27 @@ As for the outlook, HP projected first quarter non-GAAP earnings of 99 cents a s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-green-screen-mastery-seamless-yt-integration/"><u>[Updated] 2024 Approved Green Screen Mastery Seamless YT Integration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cam-repaired-obs-recovery-successful-for-2024/"><u>[Updated] Cam Repaired OBS Recovery Successful for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhancing-collaboration-the-synergy-between-zoom-and-skype-for-2024/"><u>[Updated] Enhancing Collaboration The Synergy Between ZOOM and SKYPE for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-best-android-photos-tactics/"><u>2024 Approved Unveiling Best Android Photos Tactics</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210399393-9781088008485-90-minutes-from-covid/"><u>90 Minutes From Covid | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beware-recent-research-highlights-data-breach-threats-when-using-external-hardware-repair-services/"><u>Beware! Recent Research Highlights Data Breach Threats When Using External Hardware Repair Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/durable-and-versatile-protection-the-brydge-sp-max-plus-keyboard-case-unveiled-for-your-surface-pro-8-zdnets-expert-analysis/"><u>Durable and Versatile Protection: The Brydge SP Max Plus Keyboard Case Unveiled for Your Surface Pro 8 – ZDNet's Expert Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-syncing-sonata-to-still-images-in-the-cyberrealm/"><u>In 2024, Syncing Sonata to Still Images in the Cyberrealm</u></a></li>
+<li><a href="https://fox-links.techidaily.com/integrating-soundscapes-with-fusion-studios-tips-for-2024/"><u>Integrating Soundscapes with Fusion Studio's Tips for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-hybrid-work-productivity-with-the-ideal-lenovo-laptop-picked-by-us-exclusive-offer-save-up-to-1000-today/"><u>Maximize Your Hybrid Work Productivity with the Ideal Lenovo Laptop Picked by Us | Exclusive Offer: Save Up to $1,000 Today!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-flip-rotate-and-edit-videos-online-with-ease/"><u>New Flip, Rotate, and Edit Videos Online with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-hp-cyber-week-blowout-sale-70-75-off-top-tech-find-your-dream-monitor-or-laptop-at-unbeatable-prices-featured/"><u>Save Big with HP Cyber Week Blowout Sale: 70-75% Off Top Tech - Find Your Dream Monitor or Laptop at Unbeatable Prices, Featured .</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-discovering-the-top-13-inch-laptop-with-exceptional-endurance-and-strikingly-unique-aesthetics-insights-from-zdnet/"><u>The Ultimate Guide: Discovering the Top 13-Inch Laptop with Exceptional Endurance & Strikingly Unique Aesthetics - Insights From ZDNet</u></a></li>
+</ul></div>
+

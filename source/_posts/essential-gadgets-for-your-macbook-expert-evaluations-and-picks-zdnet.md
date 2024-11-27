@@ -1,7 +1,7 @@
 ---
 title: "Essential Gadgets for Your MacBook : Expert Evaluations and Picks | ZDNet"
-date: 2024-11-16T19:31:31.006Z
-updated: 2024-11-17T20:13:05.358Z
+date: 2024-11-21T17:37:09.055Z
+updated: 2024-11-27T19:27:27.909Z
 tags:
   - laptops
 categories:
@@ -33,6 +33,10 @@ But my favorite use for any of these super-light monitors is as a test rig. I re
 No matter what your usage model is for these little devices, they're incredibly versatile and -- at least for one of them, the [Lepow shown below](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPortable-Monitor-Foldable-Kickstand-Speakers%2Fdp%2FB09B7LY3LQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d16be8a-7a46-411f-a3d7-4266a642081b%7Cdtp&dtb=1) \-- can be purchased for less than $150\. 
 
 So with that, let's dig into our shootout. Oh, actually, one note before we get started: all of these monitors have built-in speakers, but they're barely meh at best. Nearly every [laptop](https://www.zdnet.com/article/best-laptop/) will have far better speakers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  FOPO S16
 
@@ -83,10 +87,7 @@ So, don't believe everything you read.
 [FOPO S16 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFOPO-Triple-Laptop-Screen-Extender%2Fdp%2FB0BDFVVTGH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d16be8a-7a46-411f-a3d7-4266a642081b%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  INNOCN 15K1F
@@ -115,6 +116,10 @@ What I really like about this unit is that the stand, case, and display itself a
 
 [INNOCN 15K1F $174.3 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09L12DGW5%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d16be8a-7a46-411f-a3d7-4266a642081b%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  LEPOW C2
 
 ### Inexpensive, with a kickstand
@@ -137,26 +142,10 @@ Overall, the LEPOW C2 is a very well-considered design that does a lot very smar
 
 [LEPOW C2 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPortable-Monitor-Foldable-Kickstand-Speakers%2Fdp%2FB09B7LY3LQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d16be8a-7a46-411f-a3d7-4266a642081b%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  AUZAI ME16Z01
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### This isn't the external monitor you're looking for
@@ -186,10 +175,7 @@ Sure, some of the reviews are fake plants by the vendors, and some are the usual
 [TechMatte Multi-Angle Aluminum Holder $9.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00HHEAMXC%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d16be8a-7a46-411f-a3d7-4266a642081b%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to choose
@@ -225,18 +211,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ideal-bandicam-replacements-for-mac-users-for-2024/"><u>[New] Ideal Bandicam Replacements for Mac Users for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/comprehensive-guide-on-macro-virus-infections-and-effective-eradication-techniques/"><u>Comprehensive Guide on Macro Virus Infections & Effective Eradication Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-nacon-revolution-x-professional-gaming-controller-2022-zdnet-evaluation/"><u>Expert Analysis: Nacon Revolution X Professional Gaming Controller - 2022 ZDNet Evaluation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-victus-15l-desktop-laptop-now-at-an-unbelievable-price-of-520-over-38-discounted-dont-miss-out/"><u>HP Victus 15L Desktop Laptop Now at an Unbelievable Price of $520: Over 38% Discounted! Don't Miss Out!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-bandicam-reconnaissance-a-comprehensive-review-of-its-features/"><u>In 2024, Bandicam Reconnaissance A Comprehensive Review of Its Features</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-best-fb-video-extractors-for-ios-devices-ranked-1/"><u>In 2024, Best FB Video Extractors for iOS Devices Ranked #1</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-gaming-insiders-youtube-channels-you-should-see/"><u>In 2024, Gaming Insiders' YouTube Channels You Should See</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsungs-newest-gaming-marvel-the-odyssey-neo-hits-1300-on-amazon-and-beyond/"><u>Samsung's Newest Gaming Marvel: The Odyssey Neo Hits $1,300 on Amazon & Beyond!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-4-iphone-models-best-avoided-this-season-insights-from-zdnet/"><u>Top 4 iPhone Models Best Avoided This Season: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-workspace-with-cleanliness-how-revitalizing-an-old-keyboard-can-be-surprisingly-soothing-and-productive-zdnet/"><u>Transform Your Workspace with Cleanliness: How Revitalizing an Old Keyboard Can Be Surprisingly Soothing and Productive | ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformer-une-video-facilement-4-methodes-de-pivote-a-decouvrir/"><u>Transformer Une Vidéo Facilement : 4 Méthodes De Pivote À Découvrir</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-narzo-n55-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Narzo N55 Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-get-an-incredible-gaming-rig-with-the-newly-discounted-hp-victus-15l-at-just-520-offers-today/"><u>Unmissable Deal Alert: Get an Incredible Gaming Rig with the Newly-Discounted HP Victus 15L at Just $520 Offers Today!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-freecamx-analyzed-performance-and-usability-review/"><u>[New] 2024 Approved FreeCamX Analyzed Performance & Usability Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-guide-non-commercial-android-recorder-choice/"><u>[New] In 2024, Essential Guide Non-Commercial Android Recorder Choice</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-depth-look-at-vsdc-plus-top-competitors-for-2024/"><u>[New] In-Depth Look at VSDC, Plus Top Competitors for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-elevating-your-streaming-experience-switching-between-spotify-and-youtube-music/"><u>2024 Approved Elevating Your Streaming Experience Switching Between Spotify & YouTube Music</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-fine-tuning-virtual-presence-in-ms-teams/"><u>In 2024, Fine-Tuning Virtual Presence in MS Teams</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-windows-video-editing-software-that-rivals-sony-vegas/"><u>New 2024 Approved Windows Video Editing Software That Rivals Sony Vegas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-in-home-connectivity-apple-improves-content-sharing-with-airplay-for-homes-and-beyond-zdnet/"><u>Revolutionizing In-Home Connectivity: Apple Improves Content Sharing with AirPlay for Homes and Beyond | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/risk-takers-in-the-skies-how-8000-travelers-embraced-a-new-experience-with-southwest-airlines-zdnet-highlights/"><u>Risk Takers in the Skies: How 8,000 Travelers Embraced a New Experience with Southwest Airlines | ZDNet Highlights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rugged-electric-bike-delivers-unforgettable-off-road-adventure-joyful-ride-with-tech-innovation-zdnet/"><u>Rugged Electric Bike Delivers Unforgettable Off-Road Adventure - Joyful Ride with Tech Innovation | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-sdi-and-general-motors-unite-to-establish-a-3-billion-ev-battery-manufacturing-facility-in-the-usa-zdnet-news-coverage/"><u>Samsung SDI and General Motors Unite to Establish a $3 Billion EV Battery Manufacturing Facility in the USA | ZDNET News Coverage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-unveils-v4-supercharger-technology-arizona-to-be-first-state-for-installation-insights-by-zdnet/"><u>Tesla Unveils V4 Supercharger Technology, Arizona to Be First State for Installation | Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-car-hire-companies-and-apps-your-ultimate-guide-insights-from-zdnet/"><u>Top 5 Car Hire Companies & Apps: Your Ultimate Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-chase-branded-credit-cards-comprehensive-review-and-recommendations/"><u>Top 5 Chase Branded Credit Cards : Comprehensive Review and Recommendations</u></a></li>
 </ul></div>
 

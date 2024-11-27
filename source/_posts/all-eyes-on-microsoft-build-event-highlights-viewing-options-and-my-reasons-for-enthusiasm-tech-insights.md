@@ -1,7 +1,7 @@
 ---
 title: "All Eyes on Microsoft Build: Event Highlights, Viewing Options & My Reasons for Enthusiasm | Tech Insights"
-date: 2024-09-17 21:43:49
-updated: 2024-09-20 10:51:32
+date: 2024-11-24T16:47:19.291Z
+updated: 2024-11-27T16:06:09.995Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,31 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagrams-peak-moments-a-how-to-guide-for-2024/"><u>[New] Mastering Instagram's Peak Moments A How-To Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-futures-best-cameras-in-visual-storytelling-2024-edition/"><u>[Updated] Future's Best Cameras in Visual Storytelling, 2024 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-success-stories-leveraging-highlights-for-growth/"><u>[Updated] In 2024, Instagram Success Stories Leveraging Highlights for Growth</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-best-unplugged-android-gaming-apps-no-internet-required/"><u>2024 Approved Best Unplugged Android Gaming Apps (No Internet Required)</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dell-elevates-its-premium-range-the-new-xps-15-and-17-models-unveiled-insights-from-zdnet/"><u>Dell Elevates Its Premium Range: The New XPS 15 & 17 Models Unveiled - Insights From ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratis-premium-video-editoren-fur-windows-10-8-and-7-und-macos-entfernen-von-unnotigem-videomaterial/"><u>Gratis Premium Video-Editoren Für Windows 10, 8 & 7 Und macOS - Entfernen Von Unnötigem Videomaterial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/head-to-head-showdown-samsung-flagship-laptop-vs-macbook-pro-tested-by-tech-expert-insights-for-zdnet-readers/"><u>Head-to-Head Showdown: Samsung Flagship Laptop Vs. MacBook Pro Tested by Tech Expert | Insights for ZDNet Readers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-key-to-a-profitable-yt-channel-accurate-monetization-verification/"><u>In 2024, The Key to a Profitable YT Channel Accurate Monetization Verification</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-next-generation-samsungs-revolutionary-copilotplus-pc-with-advanced-ai-capabilities-as-revealed/"><u>Introducing the Next Generation: Samsung's Revolutionary Copilot+ PC with Advanced AI Capabilities, as Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/magicbook-14-reviewed-high-performance-budget-friendly-14-laptop-with-integrated-graphics-tested-by-tech-experts-at-zdnet/"><u>MagicBook 14 Reviewed: High-Performance, Budget-Friendly 14 Laptop With Integrated Graphics – Tested by Tech Experts at ZDNet.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-your-creative-vision-with-digital-cropting-skills-for-2024/"><u>Master Your Creative Vision with Digital Cropting Skills for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surprising-leading-contender-in-business-laptops-unveiled-neither-lenovo-thinkpad-nor-macbook-per-zdnet-insight/"><u>Surprising Leading Contender in Business Laptops Unveiled: Neither Lenovo ThinkPad nor MacBook, Per ZDNET Insight</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-resource-on-affordable-webinars-on-youtube-for-2024/"><u>The Ultimate Resource on Affordable Webinars on Youtube for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-12-unique-presents-perfect-for-any-hackers-sweet-tooth-recommendations-from-zdnet/"><u>Top 12 Unique Presents Perfect for Any Hacker's Sweet Tooth: Recommendations From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-gaming-graphics-cards-insights/"><u>Top-Ranking Gaming Graphics Cards - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-security-keys-industry-experts-picks-zdnet/"><u>Top-Rated Security Keys - Industry Experts' Picks | ZDNet</u></a></li>
+</ul></div>
+

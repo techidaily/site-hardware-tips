@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Exploring Lenovo ThinkPad X1 Fold - The Ultimate Blend of Eccentricity, Amusement & Pricey Tech | ZDNet"
-date: 2024-11-14T21:14:52.600Z
-updated: 2024-11-17T18:40:38.714Z
+date: 2024-11-21T17:22:35.575Z
+updated: 2024-11-27T16:18:02.844Z
 tags:
   - laptops
 categories:
@@ -45,6 +45,10 @@ Image: Charles McLellan / ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design
 
 Lenovo's ThinkPads rarely stray far from the familiar black livery with red and silver accents, and the ThinkPad X13s is no exception. The chassis, which is made of magnesium-aluminium (top) and [GFRP](https://en.wikipedia.org/wiki/Fibre-reinforced%5Fplastic) (bottom), is Thunder Black in colour, with branding on the lid and wrist rest, the iconic red TrackPoint embedded in the keyboard, and three buttons above the trackpad. Lenovo says that 90% of the magnesium used in the chassis is recycled, as is 97% of the plastic in the speaker enclosure, while 90% of the packaging is recycled and/or sustainable. 
@@ -66,10 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -83,10 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -118,10 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -175,10 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -226,22 +218,18 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-why-are-my-insta-vids-upside-down/"><u>[New] In 2024, Why Are My Insta Vids Upside Down?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-quickly-snag-and-store-gifs-from-your-favorite-social-networks/"><u>[Updated] In 2024, Quickly Snag and Store GIFs From Your Favorite Social Networks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-tips-for-capturing-stunning-close-up-footage/"><u>[Updated] Pro Tips for Capturing Stunning Close-Up Footage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-hyperdrive-storage-solutions-revolutionizing-laptop-performance-with-cutting-edge-hubs-docks-and-ssd-enclosures-discover-the-power-on-zdnet/"><u>1. Hyperdrive Storage Solutions: Revolutionizing Laptop Performance with Cutting-Edge Hubs, Docks, & SSD Enclosures - Discover the Power on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-swift-setup-expanding-your-raspberry-pi-model-bs-capabilities-with-m2-modules-a-step-by-step-guide/"><u>1) Swift Setup: Expanding Your Raspberry Pi Model B's Capabilities with M.2 Modules - A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/buy-your-4tb-portable-samsung-t5-ssd-at-half-price-plus-more-off-exclusive-deal-alert-by-zdnet/"><u>Buy Your 4TB Portable Samsung T5 SSD at Half Price + More Off | Exclusive Deal Alert by ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/corrupt-system-drivers-master-swift-fix-techniques-today/"><u>Corrupt System Drivers? Master Swift Fix Techniques Today!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-your-systems-gpu-easy-steps-for-verifying-graphic-cards-and-updating-drivers-accordingly-zdnet-insights/"><u>Discover Your System's GPU: Easy Steps for Verifying Graphic Cards and Updating Drivers Accordingly | ZDNET Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exploring-the-most-effective-10-yoga-video-platforms-for-2024/"><u>Exploring The Most Effective 10 Yoga Video Platforms for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-prospects-of-microsofts-latest-arm-edition-for-windows-will-it-reshape-tech/"><u>Exploring the Prospects of Microsoft's Latest ARM Edition for Windows: Will It Reshape Tech ?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y17s-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y17s FRP Locks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/surprising-powerhouse-compact-computer-delivers-big-performance-on-a-small-budget/"><u>Surprising Powerhouse: Compact Computer Delivers Big Performance on a Small Budget!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-piecing-together-digital-images/"><u>The Art of Piecing Together Digital Images</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-platform-showdown-twitch-meets-youtube/"><u>The Ultimate Platform Showdown Twitch Meets YouTube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-over-half-off-on-4tb-samsung-portable-ssds-prime-time-offer-on-amazon-for-labor-day/"><u>Unbelievable Deal: Over Half-Off on 4TB Samsung Portable SSDs - Prime Time Offer on Amazon for Labor Day</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-3-upcoming-ai-enhancements-for-copilot-equipped-desktops-why-your-macbook-is-falling-behind/"><u>Unveiling Top 3 Upcoming AI Enhancements for Copilot-Equipped Desktops: Why Your MacBook Is Falling Behind!</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12r-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12R Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-celebrity-fleeting-frame-revisit/"><u>[New] Celebrity Fleeting Frame Revisit</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-step-into-the-world-of-film-making-effective-use-of-movie-maker-on-windows-8-pcs/"><u>[Updated] 2024 Approved Step Into the World of Film Making Effective Use of Movie Maker on Windows 8 PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-access-unlimited-free-high-quality-green-screen-footage-online/"><u>[Updated] In 2024, Access Unlimited Free, High-Quality Green Screen Footage Online</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-from-pages-to-production-creating-a-movie-blueprint/"><u>[Updated] In 2024, From Pages to Production Creating a Movie Blueprint</u></a></li>
+<li><a href="https://fox-that.techidaily.com/camera-malfunctions-on-iphone-here-are-7-fixes-you-need-to-know/"><u>Camera Malfunctions on iPhone? Here Are 7 Fixes You Need to Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-delivery-to-discovery-enhancing-initial-encounters/"><u>From Delivery to Discovery Enhancing Initial Encounters</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-intriguing-stories-flourishing-channels-top-3-techniques/"><u>In 2024, Intriguing Stories, Flourishing Channels Top 3 Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-virtual-conferencing-in-style-with-mercedes-benz-e-class-discover-how-at-zdnet/"><u>Next Level Virtual Conferencing in Style with Mercedes-Benz E Class | Discover How at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-ai-development-for-driverless-cars-unveiled-by-latest-machine-learning-endeavor-on-zdnet/"><u>Pioneering AI Development for Driverless Cars Unveiled by Latest Machine Learning Endeavor on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/potential-hidden-issue-at-southwest-airlines-what-passengers-need-to-be-aware-of/"><u>Potential Hidden Issue at Southwest Airlines: What Passengers Need to Be Aware Of</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/preserve-and-optimize-a-guide-to-extending-the-life-of-your-luxury-electric-bikeebatry-zdnet/"><u>Preserve and Optimize: A Guide to Extending the Life of Your Luxury Electric Bike'ebatry (ZDNET)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revealed-southwest-flight-crew-shares-troubling-conditions-pilots-say-you-should-know-about/"><u>Revealed: Southwest Flight Crew Shares Troubling Conditions Pilots Say You Should Know About</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-macos-11-big-sur-transition-tips/"><u>Understanding macOS 11 Big Sur Transition Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is a Customizable MacBook on the Horizon? Delving Into Apple’s New Patented Modular Design for Laptops | ZDNET
-date: 2024-09-17 16:22:10
-updated: 2024-09-20 10:58:55
+date: 2024-11-21T16:02:46.374Z
+updated: 2024-11-27T19:25:35.083Z
 tags:
   - pc
 categories:
@@ -78,11 +78,37 @@ The company teamed up with Lecia Geosystems, Topcon, and Trimble to ensure that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-subtle-techniques-make-unwanted-backgrounds-disappear-in-videos/"><u>[New] 2024 Approved Subtle Techniques Make Unwanted Backgrounds Disappear in Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-hone-your-talks-expert-insights-into-google-meet-chats/"><u>[Updated] 2024 Approved Hone Your Talks Expert Insights Into Google Meet Chats</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-humor-and-memes-galore-iphones/"><u>[Updated] 2024 Approved Humor & Memes Galore, iPhones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-design-a-gif-joke-giphy-magic-for-2024/"><u>[Updated] Design a Gif Joke Giphy Magic for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-10-plugins-to-enhance-fcp/"><u>[Updated] Ultimate 10 Plugins to Enhance FCP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-deals-await-snag-your-samsung-galaxy-z-foldflip-6-for-up-to-1200-less/"><u>Best Deals Await: Snag Your Samsung Galaxy Z Fold/Flip 6 for Up to $1,200 Less!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-x-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone X without a computer?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-lava-yuva-3-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Lava Yuva 3 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-amazfit-gtr-3-smartwatch-features-and-performance-review/"><u>In-Depth Analysis: Amazfit GTR 3 Smartwatch - Features & Performance Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lifesaving-hidden-function-in-the-pixel-watch-3-revealed-by-zdnet/"><u>Lifesaving Hidden Function in the Pixel Watch 3 Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-communication-a-step-by-step-guide-to-activating-and-using-your-apple-watchs-in-built-walkie-talkie-insights-from-zdnet/"><u>Mastering the Art of Communication: A Step-by-Step Guide to Activating and Using Your Apple Watch's In-Built Walkie Talkie - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-training-results-how-the-whoop-band-and-apple-watch-can-benefit-pro-athletes-zdnet/"><u>Maximizing Training Results: How the Whoop Band & Apple Watch Can Benefit Pro Athletes | ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-biggest-iphone-x-frustrations-a-step-by-step-guide/"><u>Overcoming the Biggest iPhone X Frustrations: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/trasforma-i-tuoi-file-avi-in-formato-aac-gratuito-online-utilizzando-movavi/"><u>Trasforma I Tuoi File AVI in Formato AAC Gratuito Online Utilizzando Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-guide-to-downloading-gifs-a-step-by-step-approach/"><u>Twitter's Guide to Downloading GIFs A Step-by-Step Approach</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrading-your-google-pixel-watch-in-a-flash-a-comprehensive-guide-on-forcing-the-latest-software-update/"><u>Upgrading Your Google Pixel Watch in a Flash: A Comprehensive Guide on Forcing the Latest Software Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/use-a-narrative-style-that-incorporates-mythological-analogies-to-describe-their-actions-or-stances-eg-athenas-shield-representing-protective-measures/"><u>Use a Narrative Style that Incorporates Mythological Analogies to Describe Their Actions or Stances (E.g., Athena's Shield Representing Protective Measures).</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-stopped-looking-elsewhere-and-chose-a-pixel-smartwatch-as-the-ultimate-android-companion/"><u>Why I Stopped Looking Elsewhere and Chose a Pixel Smartwatch as the Ultimate Android Companion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-guide-to-garmin-instinct-solar-smartwatch-tough-design-eye-catching-colors-and-long-lasting-performance-suited-for-everyone/"><u>ZDNet's Comprehensive Guide to Garmin Instinct Solar Smartwatch: Tough Design, Eye-Catching Colors, and Long-Lasting Performance Suited for Everyone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

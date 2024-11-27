@@ -1,7 +1,7 @@
 ---
 title: Score an Unbeatable Price on the HP Victus 15 for Gamers - Only $515 with Best Buy's Exclusive Prime Day Deal | Smart Tech Advice
-date: 2024-11-16T18:18:42.173Z
-updated: 2024-11-17T17:56:46.625Z
+date: 2024-11-20T16:12:05.664Z
+updated: 2024-11-27T17:00:27.045Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,29 +63,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-legends-of-arcade-combat-nintendos-top-ten-on-switch/"><u>[Updated] 2024 Approved Legends of Arcade Combat Nintendo's Top Ten on Switch</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-from-beginner-to-champion-essential-drone-races-tips-and-best-models-for-2024/"><u>[Updated] From Beginner to Champion Essential Drone Races Tips and Best Models for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-how-to-record-screen-with-adobe-captive/"><u>2024 Approved How To Record Screen With Adobe Captive</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-top-20-tiktok-anthems-discovering-todays-hip-hop-stars/"><u>2024 Approved Top 20 TikTok Anthems Discovering Today’s Hip-Hop Stars</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoid-common-pitfalls-pre-installation-checklist-for-chromeos-flex-by-tech-experts-at-zdnet/"><u>Avoid Common Pitfalls: Pre-Installation Checklist for ChromeOS Flex by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/beam-brighter-adopting-the-playful-cartoon-lens-on-snapchat-for-2024/"><u>Beam Brighter Adopting the Playful Cartoon Lens on Snapchat for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/desktop-decision-dilemma-how-to-select-between-mac-mini-studio-imac-or-pro-models-for-your-needs/"><u>Desktop Decision Dilemma: How to Select Between Mac Mini, Studio, iMac, or Pro Models for Your Needs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-hp-laptop-usb-port-troubleshooting-step-by-step-repair-tips/"><u>DIY HP Laptop USB Port Troubleshooting: Step-by-Step Repair Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-latest-steal-the-hp-victus-15l-gaming-pc-drops-to-only-480-for-labor-day-spotlight-by-zdnet/"><u>Get Your Hands on the Latest Steal! The HP Victus 15L Gaming PC Drops to Only $480 for Labor Day - Spotlight by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-your-pc-ready-save-220-on-the-latest-rtx-nvidia-geforce-3070-today-techradar/"><u>Get Your PC Ready: Save $220 on the Latest RTX nVidia GeForce 3070 Today! | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-to-intel-cpu-vulnerability-affected-systems-applying-fixes-and-comprehensive-faq-zdnet-insights/"><u>Guide to Intel CPU Vulnerability – Affected Systems, Applying Fixes, and Comprehensive FAQ | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-nacon-revolution-x-pro-controller-a-comprehensive-gaming-pad-evaluation-review-2022/"><u>In-Depth Analysis: Nacon Revolution X Pro Controller - A Comprehensive Gaming Pad Evaluation (Review) 2022</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/june-2024s-ultimate-selection-top-deals-at-best-buy-revealed-by-zdnet/"><u>June 2024'S Ultimate Selection: Top Deals at Best Buy Revealed by ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-driver-fix-system-normalized/"><u>Nvidia Driver Fix - System Normalized</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-methods-to-update-windows-laptop-battery-drivers/"><u>Quick & Easy Methods to Update Windows Laptop Battery Drivers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-your-inner-gamer-with-lenovo-legion-slim-5-a-steal-at-under-1100-from-newegg/"><u>Unleash Your Inner Gamer with Lenovo Legion Slim 5 – A Steal at Under $1,100 From Newegg</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/walmarts-must-have-discounts-for-july-2n-2024-uncovered-by-zdnet-experts/"><u>Walmart's Must-Have Discounts for July 2N, 2024 – Uncovered by ZDNet Experts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-cut-to-impress-top-tier-online-photo-editing-skills/"><u>[New] 2024 Approved Cut to Impress Top-Tier Online Photo Editing Skills</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-extreme-escape-top-10-unpredictable-tiktok-challenges/"><u>[New] 2024 Approved Extreme Escape Top 10 Unpredictable TikTok Challenges</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-essential-techniques-to-enhance-instagram-reels-with-sounds/"><u>[New] Essential Techniques to Enhance Instagram Reels with Sounds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-crystalgrabber-deluxe-winos/"><u>[Updated] 2024 Approved CrystalGrabber Deluxe - WinOS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-craft-compelling-videos-utilize-no-cost-templates-and-samples/"><u>[Updated] Craft Compelling Videos Utilize No-Cost Templates & Samples</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-whats-ideal-fps-for-capturing-stunning-slow-motion-cinematography/"><u>[Updated] What's Ideal FPS for Capturing Stunning Slow Motion Cinematography?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-essential-tweets-de-following-aids-the-ultimate-list/"><u>In 2024, Essential Tweets De-Following Aids The Ultimate List</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y100-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y100 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restore-scanner-link-to-computer-post-windows-update/"><u>Restore Scanner Link to Computer Post-Windows Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-mystery-of-smart-sound-devices-in-apples-latest-computers-and-tablets/"><u>Unlocking the Mystery of Smart Sound Devices in Apple's Latest Computers and Tablets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-elite-android-tablet-lineup-for-2eplus24-professional-evaluations-and-rankings-zdnet/"><u>Unveiling the Elite Android Tablet Lineup for 2E+24: Professional Evaluations and Rankings | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-revolutionary-blue-light-free-pc-with-dynamic-120hz-paper-like-screen-a-leap-forward-in-eye-comfort-and-vision-health/"><u>Unveiling the Revolutionary Blue-Light-Free PC with Dynamic 120Hz Paper-Like Screen: A Leap Forward in Eye Comfort and Vision Health</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/up-to-50-discount-available-how-to-exchange-and-snag-the-amazon-fire-hd-8-plus-exclusive-insight-from-zdnet/"><u>Up to 50% Discount Available: How to Exchange and Snag the Amazon Fire HD 8 Plus | Exclusive Insight From ZDNET</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Class Action Targeting Canon USA for Allegedly Defective Printers Lacking Ink and Scan Functions | ZDNET Exclusive
-date: 2024-09-17 11:55:49
-updated: 2024-09-20 11:44:21
+date: 2024-11-20T16:23:54.257Z
+updated: 2024-11-27T18:20:05.147Z
 tags:
   - printer
 categories:
@@ -11,9 +11,17 @@ thumbnail: https://www.zdnet.com/topic/printers/    https://www.zdnet.com/a/img/
 
 ## Class Action Targeting Canon USA for Allegedly Defective Printers Lacking Ink and Scan Functions | ZDNET Exclusive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![hp-color-laserjet-enterprise-m856x-lifestyle.jpg](https://www.zdnet.com/a/img/resize/a4c68caab98078e8490aa8b4b2a2b893a7623d1d/2020/05/18/7a7e314f-f876-4957-9d3c-f13132f57779/hp-color-laserjet-enterprise-m856x-lifestyle.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best laser printers We look at a variety of printers ranging from enterprise-level monsters to the sleek, high-performance, inexpensive models our editors rely on personally.  Read now](https://www.zdnet.com/article/best-laser-printer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We all hate that when any single ink in our inkjet printers is out, most printers won't allow us to print at all. That's especially annoying when we want to print an ordinary black and white document, but the printer says "No way!" when we're out of, say, cyan ink. Now, [Canon USA](https://www.usa.canon.com/) has reached a new low in printing frustration. According to a class-action lawsuit, the [Canon Pixma MG6320 "all-in-one" machine won't even scan or fax documents if the printer is out of ink](https://www.documentcloud.org/documents/21085661-123118208417). 
 
@@ -62,11 +70,26 @@ The court has yet to take action on the lawsuit, nor has Canon replied yet. If t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-step-by-step-securely-attach-a-link-to-your-tiktok-profile-for-2024/"><u>[New] Step-by-Step Securely Attach a Link to Your TikTok Profile for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-explore-every-degree-top-9-techniques-for-vr-filmmaking-for-2024/"><u>[Updated] Explore Every Degree Top 9 Techniques for VR Filmmaking for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-discover-top-tier-ps3-games-on-your-pc-today/"><u>2024 Approved Discover Top-Tier PS3 Games on Your PC Today</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-revolutionize-live-streaming-top-4-approaches-to-record-on-fb/"><u>2024 Approved Revolutionize Live Streaming Top 4 Approaches to Record on FB</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-event-preview-anticipate-revolutionary-features-in-m4-mac-mini-enhanced-ipads-and-advanced-ai/"><u>Apple Event Preview: Anticipate Revolutionary Features in M4 Mac Mini, Enhanced iPads, and Advanced AI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-flash-unveiling-the-elite-ssd-lineup-expert-analysis-from-zdnet/"><u>Future Flash: Unveiling the Elite SSD Lineup - Expert Analysis From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guarding-web-data-privacy-strategies-to-deter-automated-scraper-bots-including-openai/"><u>Guarding Web Data Privacy: Strategies to Deter Automated Scraper Bots Including OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/practical-ai-insights-how-businesses-utilize-gpt/"><u>Practical AI Insights: How Businesses Utilize GPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-insiders-srt-primer-must-know-elements/"><u>The Insider's SRT Primer Must-Know Elements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-for-your-ipad-pro-a-users-guide-to-a-must-have-usb-c-hub-featured-by-zdnet/"><u>Top Pick for Your iPad Pro: A User's Guide to a Must-Have USB-C Hub | Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-top-vr-selection-metas-512gb-quest-3-offer-could-be-your-ideal-choice-according-to-zdnet-analysis/"><u>Unveiling the Top VR Selection: Meta's 512GB Quest 3 Offer Could Be Your Ideal Choice, According to ZDNet Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+</ul></div>
+

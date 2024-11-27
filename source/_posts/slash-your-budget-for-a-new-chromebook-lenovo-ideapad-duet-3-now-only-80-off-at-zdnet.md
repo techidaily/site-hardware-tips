@@ -1,7 +1,7 @@
 ---
 title: Slash Your Budget for a New Chromebook! Lenovo IdeaPad Duet 3 Now Only $80 Off at ZDNet
-date: 2024-11-13T16:59:54.954Z
-updated: 2024-11-17T19:25:27.209Z
+date: 2024-11-26T16:23:57.720Z
+updated: 2024-11-27T16:15:35.261Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -75,10 +79,7 @@ I tested the [IdeaPad Flex 5i's](https://go.shopyourlikes.com/pi/6dcf690a69011d7
 I should warn you that this laptop can run a little warm. The [IdeaPad Flex 5i](https://go.shopyourlikes.com/pi/6dcf690a69011d7d576626ac887f56b098db1cfa?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) comes equipped with a 13th Gen Intel Core i3-1315U processor. Its performance won't make the hardware run hot by itself. Instead, the bottom-firing ventilation port likely restricts proper airflow, making things toastier than they should be.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -117,22 +118,22 @@ You can purchase the [IdeaPad Flex 5i on Best Buy for $500](https://shop-links.c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-superior-4k-screens-our-1-picks/"><u>[New] Superior 4K Screens Our #1 Picks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-instant-insight-snapshots-for-windows-enthusiasts/"><u>[Updated] In 2024, Instant Insight Snapshots for Windows Enthusiasts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-rewind-ritual-making-playlists-run-opposite-to-current/"><u>[Updated] The Rewind Ritual Making Playlists Run Opposite to Current</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/calculate-the-total-distance-traveled-by-all-vehicles-in-june-00047-kmvehicle-times-8-times-106-vehicles-37600-kilometers/"><u>Calculate the Total Distance Traveled by All Vehicles in June: $0.0047$ Km/Vehicle $ Times 8 Times 10^6$ Vehicles = $37,600$ Kilometers.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-free-powerhouse-utility-thats-absolutely-essential-for-every-mac-owner-not-shipped-but-available-now/"><u>Discover the Hidden Gem: Free Powerhouse Utility That's Absolutely Essential for Every Mac Owner, Not Shipped but Available Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-comfortable-and-efficient-ergonomic-mice-for-office-use-in-202-instruction-1-same-difficultyformatlength-solution/"><u>Discover the Most Comfortable & Efficient Ergonomic Mice for Office Use in 202# Instruction 1 (Same Difficulty/Format/Length) Solution:</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-tiles-new-scan-and-secure-function-your-solution-against-stalking-insights-from-zdnet/"><u>Introducing Tile's New 'Scan & Secure' Function: Your Solution Against Stalking - Insights From ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lectura-de-relojes-en-espanol-un-camino-inicial/"><u>Lectura De Relojes en Español: Un Camino Inicial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/luts-techniques-for-movie-visuals-enhancement/"><u>Luts Techniques for Movie Visuals Enhancement</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/s-top-online-video-editing-platforms-for-chromebooks-for-2024/"><u>S Top Online Video Editing Platforms for Chromebooks for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-24-unbeatable-christmas-purchase-opportunities-on-sites-like-best-buy-amazon-and-newegg-featured-by-zdnet/"><u>Top 24 Unbeatable Christmas Purchase Opportunities on Sites Like Best Buy, Amazon & Newegg Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-keyboards-thoroughly-tested-by-tech-experts-insights-from-zdnet/"><u>Top-Rated Keyboards - Thoroughly Tested by Tech Experts! Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-mechanical-keyboards-a-comprehensive-list-and-review/"><u>Top-Rated Mechanical Keyboards : A Comprehensive List & Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-steps-to-thoroughly-cleanse-your-mech-board-zdnets-advice/"><u>Ultimate Guide: Steps to Thoroughly Cleanse Your Mech-Board [ZDNet's Advice]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-creatives-might-choose-the-apple-studio-display-an-in-depth-analysis-for-potential-buyers-zdnet-guides/"><u>Why Creatives Might Choose the Apple Studio Display: An In-Depth Analysis for Potential Buyers | ZDNet Guides</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-windows-best-video-conferencing-apps-2-1/"><u>[New] 2024 Approved Windows' Best Video Conferencing Apps, #2-#1</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-a18-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aviation-alert-southwest-pilots-expose-harsh-realities-for-passengers-tech-news/"><u>Aviation Alert: Southwest Pilots Expose Harsh Realities for Passengers | Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/behind-the-scenes-at-southwest-pilots-speak-out-on-service-struggles-and-industry-realities/"><u>Behind the Scenes at Southwest: Pilots Speak Out on Service Struggles and Industry Realities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-2022-pick-me-ups-on-the-go-expert-reviews-of-hot-and-cold-mug-options-by-zdnet/"><u>Best 2022 Pick-Me-Ups on the Go: Expert Reviews of Hot and Cold Mug Options by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-rv-picks-unveiled-expert-insights-on-top-motorhomes-and-campers-zdnet/"><u>Best RV Picks Unveiled: Expert Insights on Top Motorhomes & Campers | ZDNET</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-site-with-advanced-cookiebot-technology-integration/"><u>Boost Your Site with Advanced Cookiebot Technology Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bringing-ev-battery-manufacturing-home-a-monumental-44-billion-investment-transforms-us-energy-sector/"><u>Bringing EV Battery Manufacturing Home: A Monumental $4.4 Billion Investment Transforms U.S. Energy Sector</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-rivian-ev-trucks-offset-concerns-over-amazons-carbon-footprint-unpacking-the-impact-on-sustainability-techinsight/"><u>Can Rivian EV Trucks Offset Concerns Over Amazon's Carbon Footprint? Unpacking the Impact on Sustainability | TechInsight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/complimentary-unlimited-wi-fi-now-available-in-all-singapore-airlines-cabin-classes-exclusive-update-from-zdnet/"><u>Complimentary Unlimited Wi-Fi Now Available in All Singapore Airlines Cabin Classes – Exclusive Update From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cut-aviation-costs-in-half-unlock-up-to-2000-savings-with-dollar-flight-club-ideas-zdnet/"><u>Cut Aviation Costs in Half: Unlock Up to $2,000 Savings with Dollar Flight Club Ideas | ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-pursuit-of-perfection-does-picku-outshine-other-android-tools/"><u>In Pursuit of Perfection Does PickU Outshine Other Android Tools?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/masterclass-in-elegance-blurring-borders-for-zoom-for-2024/"><u>Masterclass in Elegance Blurring Borders for Zoom for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/streamline-your-viewing-experience-with-globo-video-grabber-convert-globo-broadcasts-to-mp4wmv-formats/"><u>Streamline Your Viewing Experience with Globo Video Grabber: Convert Globo Broadcasts to MP4/WMV Formats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-accessing-windows-10-recovery-options-menu-successfully/"><u>The Ultimate Guide to Accessing Windows 10 Recovery Options Menu Successfully</u></a></li>
 </ul></div>
 

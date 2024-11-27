@@ -1,7 +1,7 @@
 ---
 title: Discover the Hidden Gems in This Understated Asus Laptop - A Creative's Dream Revealed
-date: 2024-11-16T22:12:36.329Z
-updated: 2024-11-17T17:21:27.562Z
+date: 2024-11-21T18:04:41.513Z
+updated: 2024-11-27T17:34:34.688Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -69,10 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,24 +112,21 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/-vloggers-guide-to-camera-lenses/"><u>[New] A Vlogger's Guide To Camera Lenses</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-complete-overview-bublcam-360-camera-explored/"><u>[New] Complete Overview Bublcam 360 Camera Explored</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ultimate-srt-insights-essential-facts-unveiled/"><u>[Updated] Ultimate SRT Insights Essential Facts Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-maximizing-apple-podcast-listing-chances/"><u>2024 Approved Guide Maximizing Apple Podcast Listing Chances</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-iphone-images-in-dim-light/"><u>2024 Approved Perfecting iPhone Images in Dim Light</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bringing-classics-back-to-life-how-i-refurbished-old-desktops-using-chrome-os-flex/"><u>Bringing Classics Back to Life: How I Refurbished Old Desktops Using Chrome OS Flex</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-msis-steam-deck-compete-effectively-in-the-portable-gaming-market-and-reach-victory-insights-from-zdnet/"><u>Can MSI's Steam Deck Compete Effectively in the Portable Gaming Market and Reach Victory? - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-between-arm-and-intel-in-the-surface-pro-a-complex-decision-explained-by-zdnet/"><u>Choosing Between ARM and Intel in the Surface Pro - A Complex Decision Explained by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-evolution-how-the-mac-mini-became-the-powerhouse-mac-studio-by-apple/"><u>Discover the Evolution: How the Mac Mini Became the Powerhouse Mac Studio by Apple</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-tecno-pova-6-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Tecno Pova 6 Pro 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-scheduling-zoom-conferences-for-android-users/"><u>In 2024, Scheduling Zoom Conferences for Android Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-we-have-listed-the-top-10-free-final-cut-pro-x-plugins-with-their-respective-uses-also-you-can-check-a-quick-step-by-step-guide-to-install-such-plug/"><u>In 2024, We Have Listed the Top 10 Free Final Cut Pro X Plugins with Their Respective Uses. Also, You Can Check a Quick Step-by-Step Guide to Install Such Plugins</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-steelseries-arctis-nova-3-headset-a-new-era-in-gaming-audio/"><u>In-Depth Review of the SteelSeries Arctis Nova 3 Headset - A New Era in Gaming Audio</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/nvidia-partnership-propels-apple-forward-a-new-era-in-tech-emerges/"><u>Nvidia Partnership Propels Apple Forward: A New Era in Tech Emerges</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-affordable-tech-in-depth-review-of-the-quad-core-raspberry-pi-zero-2w-cutting-edge-gadget-for-budget-builders/"><u>Revolutionizing Affordable Tech: In-Depth Review of the Quad-Core Raspberry Pi Zero 지오 2W | Cutting-Edge Gadget for Budget Builders</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-mouse-pad-reviews-and-comparisons-2022-edition-by-techradar/"><u>Top 5 Mouse Pad Reviews and Comparisons - 2022 Edition by TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premium-desktop-mats-reviewed-the-ultimate-guide-inspired-by-zdnet/"><u>Top 5 Premium Desktop Mats Reviewed: The Ultimate Guide - Inspired by ZDNet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/top-6-must-try-instagram-reel-apps-for-2024/"><u>Top 6 Must-Try Instagram Reel Apps for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-30plus-futuristic-metaverse-musings-arvr/"><u>[New] 2024 Approved 30+ Futuristic Metaverse Musings [AR/VR]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-savvy-mastering-screen-recordings-on-your-phone/"><u>[New] 2024 Approved Snapchat Savvy Mastering Screen Recordings on Your Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nine-ways-to-unblock-live-feeds-on-firefoxchrome/"><u>[New] Nine Ways to Unblock Live Feeds on FireFox/Chrome</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-big-file-baskets-in-the-cloud-cost-effective-saver/"><u>[Updated] 2024 Approved Big File Baskets in the Cloud - Cost-Effective Saver</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-sustainable-cinematic-solutions-catalog/"><u>[Updated] Sustainable Cinematic Solutions Catalog</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/4-ways-ai-tools-enhance-your-academic-research/"><u>4 Ways AI Tools Enhance Your Academic Research</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-warzone-and-windows-11-how-to-ensure-your-gpu-is-fully-utilized/"><u>Call of Duty: Warzone and Windows 11 – How to Ensure Your GPU Is Fully Utilized</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-troubleshooting-a-non-functioning-webex-mic/"><u>Effective Solutions for Troubleshooting a Non-Functioning WebEx Mic</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-correcting-your-hp-computers-video-card-drivers-on-various-versions-of-microsoft-windows/"><u>Guide: Correcting Your HP Computer's Video Card Drivers on Various Versions of Microsoft Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-a-massive-discount-up-to-66-off-amazon-fire-hd-8-plus-tablet-exclusive-offer-from-zdnet/"><u>Secure a Massive Discount: Up To 66% Off Amazon Fire HD 8 Plus Tablet - Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sky-high-savings-alert-secure-your-4tb-samsung-usb-drive-for-less-than-half-price-on-amazon-this-labor-day-zdnet/"><u>Sky-High Savings Alert! Secure Your 4TB Samsung USB Drive for Less Than Half Price on Amazon This Labor Day | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-enhancing-your-surface-pro-x-with-an-ssd-upgrade-a-detailed-walkthrough/"><u>Step-by-Step Guide: Enhancing Your Surface Pro X with an SSD Upgrade - A Detailed Walkthrough</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-instructions-for-downloading-the-first-android-13-beta-is-immediate-installation-advised-zdnet/"><u>Step-by-Step Instructions for Downloading the First Android 13 Beta: Is Immediate Installation Advised? | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/storage-solution-a-4tb-samsung-portable-ssd-available-only-at-amazon/"><u>Storage Solution – A 4TB Samsung Portable SSD Available Only at Amazon!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-guide-to-apples-intelligent-ipad-mini-vs-new-iphone-16-models-thought-leadership-by-zdnet-analyst/"><u>The Comprehensive Guide to Apple's Intelligent iPad Mini Vs. New iPhone 16 Models | Thought Leadership by ZDNet Analyst</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-10-internet-coffee-shops-the-leading-hotspots-of-2024-insights-from-zdnet/"><u>Top 10 Internet Coffee Shops: The Leading Hotspots of 2024 - Insights From ZDNet</u></a></li>
 </ul></div>
 

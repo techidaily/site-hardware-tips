@@ -1,7 +1,7 @@
 ---
 title: "Savings Alert: Grab the 8TB Samsung T5 SSD on Amazon Up to 36%% Less Post-Prime Day | ZDNet Tech Reviews"
-date: 2024-11-12T18:58:14.204Z
-updated: 2024-11-17T22:24:49.108Z
+date: 2024-11-23T18:43:32.441Z
+updated: 2024-11-27T18:13:31.384Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ With a truly impressive amount of storage space, you'll get read and write speed
 **Read more:** **[SSD vs. HDD: What's the difference, and which should you buy?](https://www.zdnet.com/article/ssd-vs-hdd-whats-the-difference-and-which-should-you-buy/)** 
 
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9df070ed-bda2-4543-9019-9a0e1f642df9%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -61,25 +65,20 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-converting-jpegpng-images-to-pdf-on-ipad-and-iphone-devices/"><u>[New] Converting JPEG/PNG Images to PDF on iPad and iPhone Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-seamless-transition-turning-mac-videos-into-discs/"><u>[Updated] 2024 Approved Seamless Transition Turning Mac Videos Into Discs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-top-strategies-for-high-fidelity-video-conversion-to-dvd-for-2024/"><u>[Updated] Top Strategies for High-Fidelity Video Conversion to DVD for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/astounding-deal-alert-snag-the-rtx-4080-gpu-at-a-jaw-dropping-discount-of-270-this-black-friday-exclusive-on-zdnet/"><u>Astounding Deal Alert: Snag the RTX 4080 GPU at a Jaw-Dropping Discount of $270 This Black Friday - Exclusive on ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-horizon-of-ubuntu-preview-of-ubuntu-2310-and-its-vision-for-linux/"><u>Discovering the Horizon of Ubuntu: Preview of Ubuntu 23.10 and Its Vision for Linux</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/end-of-the-road-say-goodbye-to-complimentary-windows-11-transfers-tech-insights/"><u>End of the Road: Say Goodbye to Complimentary Windows 11 Transfers | Tech Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-chrome-blackout-heres-how-to-restore-your-browsers-display/"><u>Google Chrome Blackout? Here's How to Restore Your Browser's Display</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-poco-c51-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Poco C51 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-buffering-easy-fix-for-your-kodi-playback-issues/"><u>Say Goodbye to Buffering: Easy Fix for Your Kodi Playback Issues</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/total-horizon-capture-versus-focused-dimensionality/"><u>Total Horizon Capture Versus Focused Dimensionality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-hidden-power-saving-enhancements-a-comprehensive-guide-to-google-chromes-new-battery-life-and-memory-features/"><u>Unveiling Hidden Power Saving Enhancements: A Comprehensive Guide to Google Chrome's New Battery Life & Memory Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/winning-over-incompatibility-real-stories-of-upgrading-legacy-systems-to-run-windows-11-insights-from-zdnet/"><u>Winning Over Incompatibility: Real Stories of Upgrading Legacy Systems to Run Windows 11 | Insights From ZDNET</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/wirecast-overview-and-comparable-solutions/"><u>WireCast Overview & Comparable Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-views-with-customized-thumbnail-sizes-on-youtube/"><u>[New] 2024 Approved Boosting Views with Customized Thumbnail Sizes on YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-step-by-step-youtube-traffic-and-revenue-assessment-guide/"><u>[New] A Step-by-Step Youtube Traffic & Revenue Assessment Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-effortless-mac-screenshots-exploring-five-simple-methods-for-2024/"><u>[New] Effortless Mac Screenshots Exploring Five Simple Methods for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-myvidhub-testing-a-quest-for-more-features/"><u>[New] In 2024, MyVidHub Testing A Quest for More Features?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-liberating-your-media-experience-free-movplay-software/"><u>[Updated] 2024 Approved Liberating Your Media Experience Free MOV/PLAY Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2-charge-up-for-adventure-and-cookouts-our-top-e-bike-with-built-in-grill-insight-by-zdnet/"><u>2. Charge Up for Adventure & Cookouts – Our Top E-Bike with Built-In Grill [Insight by ZDNET]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accelerating-autonomous-vehicle-development-with-innovative-ai-project-insights-from-zdnet/"><u>Accelerating Autonomous Vehicle Development with Innovative AI Project - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/android-automotive-system-enhanced-with-latest-quality-of-life-upgrade-featuring-bluetooth-headphone-compatibility-zdnet-news/"><u>Android Automotive System Enhanced with Latest Quality of Life Upgrade Featuring Bluetooth Headphone Compatibility - ZDNet News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-portable-car-adapters-ruining-your-smartphones-health-expert-review-reveals-positive-findings/"><u>Are Portable Car Adapters Ruining Your Smartphone's Health? Expert Review Reveals Positive Findings!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-cyber-monday-discounts-for-drones-up-to-90-off-dji-mini-2-and-65-savings-on-drone-gear-techbargains/"><u>Best Cyber Monday Discounts for Drones - Up to $90 Off DJI Mini 2 and 65% Savings on Drone Gear | TechBargains</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-14-ultra-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi 14 Ultra 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 6s Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-xs-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone XS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-future-of-ai-in-business-with-chatgpt-and-whisper-api-access/"><u>Navigating the Future of AI in Business with ChatGPT and Whisper API Access</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-of-the-velotrix-nomad-1-e-bike-mastering-varied-landscapes-with-unmatched-comfort/"><u>ZDNet's In-Depth Analysis of the Velotrix Nomad 1 E-Bike: Mastering Varied Landscapes with Unmatched Comfort</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: HP Unveils Future Growth Tactics Amidst Hybrid Office Boom Driving Up Demand for Computers & Quick-Start Ink Program
-date: 2024-09-19 12:11:15
-updated: 2024-09-20 12:11:53
+date: 2024-11-21T19:21:19.687Z
+updated: 2024-11-27T16:53:14.783Z
 tags:
   - printer
 categories:
@@ -21,6 +21,10 @@ Throughout HP's analyst day on Tuesday, CEO Enrique Lores and team emphasized th
 
 Here's a look at HP's master plan to digitally transform. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The PC boom and what's next
 
 HP's PC leadership in commercial and consumer laptops is strong and the company plans to keep it that way by blurring lines between work and play and making it easier for IT departments to manage devices. Lores said:
@@ -35,6 +39,10 @@ Alex Cho, president of HP's personal systems unit, said the company plans on tar
 
 ![hp-personal-systems-sam-2021.png](https://www.zdnet.com/a/img/resize/02f265fb260de506b4ac05ec5e8000fdaccdb399/2021/10/21/2c055e0d-a30d-4dbb-a005-76caf1ff51f6/hp-personal-systems-sam-2021.png?auto=webp&width=1280)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Peripherals will also be a large market to complement PCs.
 
 On supply chain, Lores said HP is managing well and that advantage can also drive sales. Lores said:
@@ -42,6 +50,10 @@ On supply chain, Lores said HP is managing well and that advantage can also driv
 > We are developing more direct supplier relationships and long-term agreements for critical commodities. This is important so that we can orchestrate among suppliers in a more effective way. We have expanded supplier coverage in just the past few months, and we plan to continue doing so. Also, we have improved commonality of key parts and reduced unique components by up to 30%. We are going further and increasing design leverage between commercial and consumer products to reduce the number of unique platforms and displays.
 
 HP is also optimizing systems and consolidated to 1 ERP system. The company also has leveraged data science and analytics to optimize its supply chain. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Printing: Becoming a services business
 
@@ -65,6 +77,10 @@ The moving parts for HP's printing business include:
 On the services front, Tran said Instant Ink will move beyond ink to toner and paper. HP said almost half of its customers want to get their PC, printer, supplies and services consolidated into one monthly bill. 
 
 HP is also offering printers and supplies to remote workers via customized company portals and bridging into digital document workflow software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3D printing
 
@@ -93,11 +109,25 @@ In addition, HP is targeting high-performance athletic footwear and has a person
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-and-paid-iphone-photo-experience-top-app-lineup/"><u>2024 Approved Free & Paid iPhone Photo Experience - Top App Lineup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-quality-display-on-this-budget-friendly-laptop-reviewed-by-zdnet/"><u>Affordable High-Quality Display on This Budget-Friendly Laptop Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-2024-exclusive-guide-to-october-deals-for-top-tier-laptops-zdnet-reviews/"><u>Amazon Prime Day 2024: Exclusive Guide to October Deals for Top-Tier Laptops | ZDNET Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-october-prime-day-snag-apple-m2-macbook-air-at-unbeatable-price-of-749-latest-deals/"><u>Amazon's October Prime Day: Snag Apple M2 MacBook Air at Unbeatable Price of $749 - Latest Deals!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-concealed-trackpoint-and-more-in-this-portable-lenovo-laptop-exclusive-insights-from-zdnet/"><u>Discover the Concealed TrackPoint and More in This Portable Lenovo Laptop - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-game-changing-workflow-with-lenovos-new-dual-display-laptop-a-firsthand-review/"><u>Experience Game-Changing Workflow with Lenovo's New Dual-Display Laptop - A Firsthand Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-civi-3-disney-100th-anniversary-edition-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Civi 3 Disney 100th Anniversary Edition Phones? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-a78-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo A78</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hing-a-dominant-biz-channel-key-tips-and-hacks/"><u>Launching a Dominant Biz Channel Key Tips & Hacks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-13t-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi 13T</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-tools-like-chatgpt-for-autonomous-code-generation/"><u>Top 7 Tools Like ChatGPT for Autonomous Code Generation</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Top 44 Ideal Deals for Holiday Storage & SSDs - Spotted
-date: 2024-11-14T18:38:18.180Z
-updated: 2024-11-17T21:03:45.068Z
+date: 2024-11-21T19:41:48.546Z
+updated: 2024-11-27T18:54:28.190Z
 tags:
   - laptops
 categories:
@@ -37,13 +37,6 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [LaCie 2TB rugged external SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1503994-REG%2Flacie%5Fsthr2000800%5F2tb%5Frugged%5Fssd%5Fusb%5Fc.html): $210 (save $290 at B&H Photo)
 * [WD My Passport 4TB portable SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1624288-REG%2Fwd%5Fwdbagf0040bgy%5Fwesn%5F4tb%5Fmy%5Fpassport%5Fssd.html): $250 (save $430 at B&H Photo)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday flash drive deals
 
 * [PNY Duo Link 128GB iOS flash drive](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpny-duo-link-128gb-usb-3-0-otg-flash-drive-for-ios-devices-and-computers-gray%2F6033400.p%3FskuId%3D6033400&publisher_slug=itechdaily19598&exclusive=1): $38 (save $42 at Best Buy)
@@ -52,6 +45,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [SanDisk iXpand 256GB lightning/USB-C](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-256gb-ixpand-phone-drive-luxe-for-iphone-lightning-and-type-c-devices-black%2F6459403.p%3FskuId%3D6459403&publisher_slug=itechdaily19598&exclusive=1): $61 (save $38 at Best Buy)
 * [Corsair Survivor Stealth 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Flash-Survivor-Stealth-256GB%2Fdp%2FB00YHL1RJG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C789bde7c-064a-456d-a64f-5b3f0f55448b%7Cdtp&dtb=1): $55 (save $29 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday SD card deals
 
 * [Samsung Pro Ultimate 256GB microSD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Ultimate-microSDXC-MB-MY256SA-AM%2Fdp%2FB0CF82B8NN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C789bde7c-064a-456d-a64f-5b3f0f55448b%7Cdtp&dtb=1): $25 (save $10 at Amazon)
@@ -59,13 +56,6 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [SanDisk Extreme 1TB microSDXC and adapter](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1692704-REG%2Fsandisk%5Fsdsqxav%5F1t00%5Fan6ma%5F1tb%5Fextreme%5Fuhs%5Fi%5Fmicrosd.html): $90 (save $160 at B&H Photo)
 * [Sony 256GB Tough Series SDXC](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1736000-REG%2Fsony%5Fsfg256t%5Ft1%5F256gb%5Fsf%5Fg%5Ftough%5Fseries.html): $298 (save $100 at B&H Photo)
 * [SanDisk 256GB microSD for Nintendo Switch](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsandisk-256gb-microsdxc%252Fp%252FN82E16820173622): $33 (save $17 at Newegg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best holiday storage and SSD deals at Best Buy
 
@@ -80,10 +70,7 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Seagate 2TB expansion card for Xbox Series X|S](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fseagate-2tb-storage-expansion-card-for-xbox-series-xs-internal-nvme-ssd-black%2F6477864.p%3FskuId%3D6477864&publisher_slug=itechdaily19598&exclusive=1): $280 (save $120)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday storage and SSD deals at B&H Photo
@@ -100,6 +87,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [WD Black SN770 2TB](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1702060-REG%2Fwd%5Fwdbbdl0020bnc%5Fwrsn%5F2tb%5Fwd%5Fblack%5Fsn770%5Fnvme.html): $118 (save $152)
 * [Crucial T700 4TB SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1766243-REG%2Fcrucial%5Fct4000t700ssd3%5Ft700%5Fgen5%5Fnvme%5Fm%5F2.html): $450 (save $150)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday storage and SSD deals at Newegg
 
 * [Samsung T7 2TB portable SSD](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsamsung-t7-2tb%252Fp%252FN82E16820147762): $150 (save $60)
@@ -109,22 +100,23 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Corsair MP600 Pro XT Hydro Edition M.2 4TB](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fcorsair-4tb-mp600-pro-xt-hydro-x-edition%252Fp%252FN82E16820236814): $289 (save $146)
 * [KingSpec 4TB 3D NAND SSD](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fkingspec-4tb-2-5-sata%252Fp%252F0D9-000D-00159): $140 (save $130)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best SSD?
 
 My pick for the [best SSD](https://www.zdnet.com/article/best-ssd/) is the WD My Passport for its affordability, even at higher capacities, 256-bit AES encryption, compatibility with both Windows and macOS devices, and variety of capacities. It also features a drop and shock resistant chassis to help prevent data loss and corruption due to accidents. You can even set up a password to access the drive itself or specific folders and files to help prevent unauthorized use of your SSD. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals right now?
 
@@ -194,22 +186,24 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-crafting-excellent-canon-temp-video-series/"><u>[New] Crafting Excellent Canon Temp Video Series</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-digital-imaging-from-basic-to-cutting-edge-hdr-techniques/"><u>[New] Digital Imaging From Basic to Cutting-Edge HDR Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-billion-views-video-hall-youtubes-top-ever-watches/"><u>[New] In 2024, Billion-Views Video Hall YouTube's Top Ever Watches</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-microsoft-shakes-up-tech-industry-with-easy-to-repair-laptops-a-game-changer-or-a-challenge-to-competitors-like-apple-insights-from-ifixit-zdnet/"><u>1. Microsoft Shakes Up Tech Industry with Easy-to-Repair Laptops: A Game Changer or a Challenge to Competitors Like Apple? - Insights From iFixit [ZDNet]</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-conceptualizing-and-realizing-a-podcast-rss-strategy/"><u>2024 Approved Conceptualizing and Realizing a Podcast RSS Strategy</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/competitive-exclusion-can-result-in-one-species-outcompeting-another-potentially-leading-to-extinction-cuadrado-de-cierre/"><u>Competitive Exclusion Can Result in One Species Outcompeting Another, Potentially Leading to Extinction. Cuadrado De Cierre</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-logitech-mx-master-3-ideal-choice-or-not-professional-insights-from-zdnet/"><u>Expert Analysis of Logitech MX Master 3 - Ideal Choice or Not? Professional Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-wi-fi-6e-a-glimpse-into-tomorrows-wireless-technology-benefits-and-limitations-zdnet/"><u>Exploring Wi-Fi 6E: A Glimpse Into Tomorrow's Wireless Technology - Benefits and Limitations | ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-behringer-usb-audio-cable-drivers-today-download-and-learn-easily/"><u>Get Your Behringer USB Audio Cable Drivers Today – Download & Learn Easily</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-10-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 10 Pro 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-at-apples-hot-selling-3-in-1-charging-cube-zdnet-exclusive-test-and-worth-evaluation/"><u>Inside Look at Apple's Hot Selling 3-in-1 Charging Cube | ZDNet Exclusive Test & Worth Evaluation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/iphone-15-and-m2-mac-updates-apple-introduces-remote-tool-in-self-service-repair-initiative-zdnet-insights/"><u>IPhone 15 & M2 Mac Updates: Apple Introduces Remote Tool in Self Service Repair Initiative | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/oled-vs-led-screen-technology-determining-the-clear-winner/"><u>OLED Vs. LED Screen Technology - Determining the Clear Winner!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-most-effective-laptop-chillers-of-2n24-industry-experts-weigh-in-toms-hardware/"><u>Ultimate Guide to the Most Effective Laptop Chillers of 2N24: Industry Experts Weigh In | Tom's Hardware</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/visualsnitch-capture-and-save-tweets-images-and-videos/"><u>VisualSnitch Capture and Save Tweets' Images & Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-artwork-accelerated-techniques-for-editing-photos-on-pc/"><u>[New] Master Artwork Accelerated Techniques for Editing Photos on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/99-amazon-firestick-top-pick-for-prime-day-savings-limited-stock-remains-techguide/"><u>$99 Amazon Firestick: Top Pick for Prime Day Savings – Limited Stock Remains! | TechGuide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accelerate-television-viewing-experience-with-these-top-6-tweaks-recommended-by-zdnet/"><u>Accelerate Television Viewing Experience with These Top 6 Tweaks, Recommended by ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/achieve-perfect-picture-clarity-essential-projector-configurations-revealed-by-experts-visualwizard/"><u>Achieve Perfect Picture Clarity: Essential Projector Configurations Revealed by Experts | VisualWizard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acr-disabling-secrets-for-any-television-slashing-advertisements-in-half-why-it-matters-digitalwatchdog/"><u>ACR Disabling Secrets for Any Television: Slashing Advertisements in Half - Why It Matters! | DigitalWatchdog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/answer-lets-denote-the-unknown-number-as-x-according-to-the-problem-we-have/"><u>Answer: Let's Denote the Unknown Number as ( X ). According to the Problem, We Have:</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-mid-year-bargain-bonanza-top-29-unbeatable-offers-for-julys-black-friday-event-vs-amazon-prime-day-tech-insights/"><u>Best Buy's Mid-Year Bargain Bonanza: Top 29 Unbeatable Offers for July's Black Friday Event vs Amazon Prime Day | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/connect-and-stream-from-iphone-to-samsung-tv-with-these-easy-mirroring-tips/"><u>Connect and Stream From iPhone to Samsung TV with These Easy Mirroring Tips!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciding-between-top-flagships-in-oled-tvs-an-analytical-battle-of-lg-g3-against-samsungs-s95c/"><u>Deciding Between Top Flagships in OLED TVs: An Analytical Battle of LG G3 Against Samsung's S95C</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-brilliance-of-samsung-65qn90b-the-ideal-tv-for-bright-spaces-revealed-cnet/"><u>Discover the Brilliance of Samsung 65QN90B: The Ideal TV for Bright Spaces Revealed | CNET</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-discover-and-erase-concealed-partitions-on-your-usb-stick/"><u>How to Discover and Erase Concealed Partitions on Your USB Stick</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-spark-20-proplus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Spark 20 Pro+ Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-camon-20-pro-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Camon 20 Pro 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-snappy-solution-seconds-for-ssgnature-bg-purge/"><u>In 2024, Snappy Solution Seconds for Ssgnature BG Purge</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-defy-2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Defy 2 FRP Bypass</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/insight-into-watermark-functionality-for-fb-media/"><u>Insight Into Watermark Functionality for Fb Media</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210210663-9781722526696-think-and-grow-rich-and-the-richest-man-in-babylon-with-study-guides/"><u>Think and Grow Rich and The Richest Man in Babylon with Study Guides | Free Book</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-20-online-instagram-video-converters-to-mp4-format-for-2024/"><u>Top 20 Online Instagram Video Converters to MP4 Format for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Test Drive the Latest Ubuntu Core: Live Developer Preview Now Available - Tech Insights From ZDNet"
-date: 2024-09-19 22:11:35
-updated: 2024-09-20 11:34:47
+date: 2024-11-20T17:13:53.631Z
+updated: 2024-11-27T16:26:20.307Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,26 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-analyzing-investment-costs-for-auditory-visual-fusion/"><u>[New] 2024 Approved Analyzing Investment Costs For Auditory-Visual Fusion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-astonishing-assessment-and-alternative-choices/"><u>[New] Astonishing Assessment & Alternative Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-wipe-out-your-youtube-buffered-videos/"><u>[New] In 2024, How-To Wipe Out Your YouTube Buffered Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-techniques-for-moving-media-from-iphones/"><u>Comprehensive Techniques for Moving Media From iPhones</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-civi-3-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Civi 3 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-low-volume-transitions-within-fl-studio/"><u>In 2024, Mastering Low-Volume Transitions Within FL Studio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-process-for-deleting-stickers-from-tiktok-for-2024/"><u>Step-by-Step Process for Deleting Stickers From TikTok for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-fire-tv-streaming-devices-reviews-and-comparison-by-zdnet/"><u>Top Fire TV Streaming Devices - Reviews & Comparison by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-mp3-devices-a-comprehensive-review-techradar/"><u>Top MP3 Devices : A Comprehensive Review - TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-expert-recommendations-for-the-ultimate-32-inch-tv-models-zdnet/"><u>Top Picks: Expert Recommendations for the Ultimate 32-Inch TV Models - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-fire-tv-stick-alternatives-recommended-by-zdnet/"><u>Top-Rated Fire TV Stick Alternatives - Recommended by ZDNet</u></a></li>
+<li><a href="https://win-info.techidaily.com/wie-man-das-problem-mit-dem-uninitialisierten-datentrager-in-windows-11-beamt-professionelle-losungsmethode/"><u>Wie Man Das Problem Mit Dem Uninitialisierten Datenträger in Windows 11 Beamt – Professionelle Lösungsmethode</u></a></li>
+</ul></div>
+
