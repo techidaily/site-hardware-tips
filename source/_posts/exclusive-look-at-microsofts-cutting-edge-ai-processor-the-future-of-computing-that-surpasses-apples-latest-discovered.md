@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look at Microsoft’s Cutting-Edge AI Processor: The Future of Computing That Surpasses Apple's Latest | Discovered"
-date: 2024-11-20T16:09:12.807Z
-updated: 2024-11-27T16:05:31.732Z
+date: 2024-11-29T16:01:07.329Z
+updated: 2024-12-06T21:10:19.527Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Magic Editor in Google Photos
@@ -53,7 +53,7 @@ By now, you likely know what [Magic Editor](https://www.zdnet.com/article/magic-
 You'll be able to select a photo in the Google Photos app, tap (or click) Magic Eraser, and start editing the image to your liking. You can reposition and resize objects, use contextual suggestions to improve the lighting and background, and completely reimagine your photos with a few clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Gemini on your Chromebook
@@ -63,7 +63,7 @@ That's right, [Gemini](https://www.zdnet.com/article/what-is-google-gemini/) is 
 If you're a new Chromebook Plus user, you'll get the Google One AI Premium plan at no cost for 12 months. After that, you'll have to pay for the Gemini subscription. That plan includes access to Gemini Advance, 2TB of cloud storage, Gemini in Docs, Sheets, Slides, Gmail, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Help Me Write
@@ -75,7 +75,7 @@ If you're a new Chromebook Plus user, you'll get the Google One AI Premium plan 
 Help Me Write helps generate text from scratch, using a prompt, or can help you rewrite existing text to make it more formal, shorten it, or totally rephrase it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-generated wallpapers and video call backgrounds
@@ -85,7 +85,7 @@ With the help of AI, you'll be able to dream up just about any kind of image you
 You'll find some pre-built prompts included to help you build your backgrounds of all types (such as fun, whimsical, zen, and professional). Select what you want to see, and Google's AI will take it from there to generate an image specific to your prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Quick access to Google Tasks
@@ -128,22 +128,16 @@ These new features will be available to Chromebook Plus devices on the latest Ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-seo-the-path-to-more-audience-engagement/"><u>[New] 2024 Approved YouTube SEO The Path to More Audience Engagement</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-irecorder-pro-in-depth-analysis/"><u>[New] In 2024, IRecorder Pro In-Depth Analysis</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-apex-newcomer-catalogue-panzoid-edition/"><u>[Updated] In 2024, Apex Newcomer Catalogue Panzoid Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/are-it-professionals-compromising-your-data-security-startling-new-evidence-suggests-so-stay-informed/"><u>Are IT Professionals Compromising Your Data Security? Startling New Evidence Suggests So - Stay Informed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/breaking-boundaries-with-custom-made-toughness-exploring-a-new-era-of-rugged-computing-not-defined-by-getac-innovative-reviews-on-zdnet/"><u>Breaking Boundaries with Custom-Made Toughness: Exploring a New Era of Rugged Computing Not Defined by Getac | Innovative Reviews on ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/breeze-into-adventures-compiling-top-7-free-chatgpt-itinerary-apps/"><u>Breeze Into Adventures: Compiling Top 7 Free ChatGPT Itinerary Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/crafting-captivating-content-with-correct-dimensions-for-2024/"><u>Crafting Captivating Content with Correct Dimensions for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/duets-of-destiny-song-suggestions-for-the-big-ask/"><u>Duets of Destiny Song Suggestions for the Big Ask</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-steam-game-issues-troubleshooting-non-launching-titles-on-windows-11/"><u>Fixing Steam Game Issues: Troubleshooting Non-Launching Titles on Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-switching-to-a-split-ergonomic-keyboard-upgraded-my-pc-setup-in-just-one-week/"><u>How Switching to a Split Ergonomic Keyboard Upgraded My PC Setup in Just One Week</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-surface-laptop-5-insights-content-not-angered-just-underwhelmed-zdnet-expert-review/"><u>Microsoft Surface Laptop 5 Insights: Content, Not Angered, Just Underwhelmed | ZDNET Expert Review</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-ultimate-guide-to-the-best-10-websites-for-obtaining-vintage-and-contemporary-montage-sounds/"><u>New 2024 Approved The Ultimate Guide to the Best 10 Websites for Obtaining Vintage and Contemporary Montage Sounds</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/professionally-recording-every-aspect-of-your-ppt-presentations-for-2024/"><u>Professionally Recording Every Aspect of Your PPT Presentations for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-hp-victus-15-gaming-laptop-for-a-bargain-515-avoid-missing-out-on-this-anti-prime-day-deal-from-best-buy/"><u>Snag the HP Victus 15 Gaming Laptop for a Bargain $515 - Avoid Missing Out on This Anti-Prime Day Deal From Best Buy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-ultimate-laptop-picks-professionally-evaluated-by-tech-experts-zdnet/"><u>Top-Ranking Ultimate Laptop Picks , Professionally Evaluated by Tech Experts | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-best-online-tech-bargains-for-october-prime-day-and-cyber-monday-2024-shopping-advice-from-zdnet/"><u>Ultimate Best Online Tech Bargains for October Prime Day and Cyber Monday 2024 | Shopping Advice From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-new-gen-of-ai-enhanced-dell-xps-laptops-where-sophistication-meets-innovation-in-style-and-functionality/"><u>Unveiling the New Gen of AI-Enhanced Dell XPS Laptops: Where Sophistication Meets Innovation in Style and Functionality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/3dr-the-soloists-voyage-in-3d-printing-tech-for-2024/"><u>'3DR' The Soloist’s Voyage in 3D Printing Tech for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-essentials-of-making-engaging-youtube-shorts/"><u>[New] 2024 Approved The Essentials of Making Engaging YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-collaborative-video-creation-and-growth-tips/"><u>[Updated] In 2024, Collaborative Video Creation & Growth Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterclass-guide-top-free-apps-for-iphone-and-ipad-edits/"><u>[Updated] Masterclass Guide Top Free Apps for iPhone & iPad Edits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-perfecting-sound-with-advanced-audacity-methods/"><u>2024 Approved Perfecting Sound with Advanced Audacity Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buy-four-blackview-tab-12-devices-at-the-cost-of-a-single-ipad-air-high-performance-android-tables-on-sale/"><u>Buy Four Blackview Tab 12 Devices at the Cost of a Single iPad Air - High-Performance Android Tables on Sale!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-tablet-apples-ipad-air-vs-other-models-find-your-best-fit-with-our-in-depth-comparison/"><u>Choosing the Right Tablet: Apple's iPad Air Vs. Other Models - Find Your Best Fit with Our In-Depth Comparison!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-dates-and-top-deal-locations-unveiling-black-friday-2022s-ultimate-shopping-guide/"><u>Discover the Dates & Top Deal Locations: Unveiling Black Friday 2022'S Ultimate Shopping Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-excellence-in-budget-android-tablets-non-samsung-non-tcl-reviews-by-zdnet/"><u>Discovering Excellence in Budget Android Tablets - Non-Samsung, Non-TCL Reviews by ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cing-narrative-flow-integrating-chapters-into-your-youtube-content-for-2024/"><u>Enhancing Narrative Flow Integrating Chapters Into Your YouTube Content for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-ace-2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Ace 2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

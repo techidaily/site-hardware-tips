@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Secure a 36%% Discount on the Durable 8TB Samsung Portable SSD at Amazon - Insights From ZDNet"
-date: 2024-11-24T17:55:09.982Z
-updated: 2024-11-27T16:28:20.570Z
+date: 2024-12-06T00:34:52.846Z
+updated: 2024-12-06T21:12:02.308Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5d25efea-41c2-4721-bece-33eaed47020a%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,21 +65,21 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems/"><u>[Updated] In 2024, Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Pro Max Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-hue-adjustment-strategies-for-professionals/"><u>Advanced Hue Adjustment Strategies for Professionals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-releases-innovative-flexible-17-portable-oled-display-the-perfect-blend-of-technology-and-convenience/"><u>ASUS Releases Innovative Flexible 17 Portable OLED Display: The Perfect Blend of Technology and Convenience</u></a></li>
-<li><a href="https://article-files.techidaily.com/embracing-digital-learning-a-teachers-resource-for-2024/"><u>Embracing Digital Learning A Teacher's Resource for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-cooking-instruments-featured-on-tiktok-ultimate-guide-and-gift-ideas-zdnets-handpicked-list/"><u>Essential Cooking Instruments Featured on TikTok – Ultimate Guide & Gift Ideas | ZDNet's Handpicked List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experiencing-the-lg-dualup-display-my-journey-with-a-widescreen-1618-aspect-ratio/"><u>Experiencing the LG DualUp Display: My Journey with a Widescreen 16:18 Aspect Ratio</u></a></li>
-<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-a-malfunctioning-touchscreen-on-windows-11/"><u>Five Effective Methods to Repair a Malfunctioning Touchscreen on Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-honor-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Honor?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-instantly-professional-rapidly-crafting-valorant-game-imagery/"><u>In 2024, Instantly Professional Rapidly Crafting Valorant Game Imagery</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lg-innovative-steam-powered-wardrobe-enjoy-a-200-discount-today-zdnet-exclusive/"><u>LG Innovative Steam-Powered Wardrobe - Enjoy a $200 Discount Today! [ZDNet Exclusive]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-your-desk-display-setup-for-maximum-productivity-insights-by-zdnet/"><u>Mastering Your Desk Display Setup for Maximum Productivity - Insights by ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-signed-out-messages-on-apple-iphones-a-detailed-guide/"><u>Quick Fixes for Signed Out Messages on Apple iPhones - A Detailed Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revamp-your-email-security-a-step-by-step-guide-to-changing-your-gmail-password-with-ease/"><u>Revamp Your Email Security: A Step-by-Step Guide to Changing Your Gmail Password with Ease</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-ergonomic-keyboards-a-comprehensive-review-by-zdnet/"><u>Top 5 Ergonomic Keyboards : A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-the-potential-of-wi-fi-6e-how-its-shaping-modern-networks-now-understanding-its-limitations/"><u>Unleashing the Potential of Wi-Fi 6E: How It's Shaping Modern Networks Now - Understanding Its Limitations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enablingdisabling-youtube-video-comments/"><u>[New] In 2024, Enabling/Disabling YouTube Video Comments</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-top-7-budget-friendly-tiktok-editors-for-macbooks-for-2024/"><u>[Updated] Top 7 Budget-Friendly TikTok Editors for MacBooks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adapting-workplace-technology-how-devices-will-transform-with-artificial-intelligence-advancements-zdnet-insights/"><u>Adapting Workplace Technology: How Devices Will Transform With Artificial Intelligence Advancements - ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-power-of-windows-11-with-the-affordable-pro-mini-pc-at-just-160-grab-it-now-from-amazons-exclusive-spring-deal/"><u>Experience the Power of Windows 11 with the Affordable Pro Mini PC at Just $160 – Grab It Now From Amazon’s Exclusive Spring Deal!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-connecting-successfully-to-a-remote-server-common-fixes/"><u>Expert Tips: Connecting Successfully to a Remote Server - Common Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-locate-the-latest-energy-efficient-enhancements-in-google-chrome-a-step-by-step-guide-techinsight/"><u>How To Locate The Latest Energy-Efficient Enhancements In Google Chrome: A Step-By-Step Guide | TechInsight</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nubia-z50-ultra-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nubia Z50 Ultra to iPad | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-polishing-and-personalizing-drone-videos/"><u>In 2024, The Art of Polishing and Personalizing Drone Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlock-the-potential-of-pc-games-recording-in-win10/"><u>In 2024, Unlock the Potential of PC Games Recording in Win10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-with-dells-premier-offers-of-june-202-get-the-lowdown-on-xps-latitude-and-precision-sales-now-smarttechbargains/"><u>Score Big with Dell's Premier Offers of June 202# - Get the Lowdown on XPS, Latitude & Precision Sales Now! | SmartTechBargains</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-end-of-microsofts-windows-11-free-trial-insights-and-alternatives/"><u>The End of Microsoft's Windows 11 Free Trial – Insights and Alternatives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-checklist-for-compelling-audio-intros-for-2024/"><u>The Ultimate Checklist for Compelling Audio Intros for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievably-high-quality-wireless-buds-at-just-35-check-out-why-these-are-a-game-changer/"><u>Unbelievably High-Quality Wireless Buds at Just $35? Check Out Why These Are a Game Changer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-ultimate-shopping-guide-for-latest-raspberry-pi-units-plus-top-alternative-options-zdnet/"><u>Your Ultimate Shopping Guide for Latest Raspberry Pi Units + Top Alternative Options | ZDNet</u></a></li>
 </ul></div>
 

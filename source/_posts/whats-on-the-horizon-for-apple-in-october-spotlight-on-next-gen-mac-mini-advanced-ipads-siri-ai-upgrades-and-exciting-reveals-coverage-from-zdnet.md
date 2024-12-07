@@ -1,7 +1,7 @@
 ---
 title: What's on the Horizon for Apple in October? Spotlight on Next-Gen Mac Mini, Advanced iPads, Siri AI Upgrades & Exciting Reveals | Coverage From ZDNET
-date: 2024-11-20T18:50:02.533Z
-updated: 2024-11-27T16:04:16.464Z
+date: 2024-12-04T17:50:55.732Z
+updated: 2024-12-06T19:47:17.809Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,14 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-quick-tips-screen-recording-made-simple-for-mac-users/"><u>[New] In 2024, Quick Tips Screen Recording Made Simple for Mac Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-grasping-core-principles-in-narrative-designs-for-2024/"><u>[Updated] Grasping Core Principles in Narrative Designs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-engaging-viewers-alive-in-the-age-of-virtual-gatherings/"><u>2024 Approved The Art of Engaging Viewers Alive in the Age of Virtual Gatherings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/avoiding-miscommunication-on-google-meet-best-practices-for-2024/"><u>Avoiding Miscommunication on Google Meet Best Practices for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-the-ipad-serve-as-a-suitable-replacement-for-traditional-computers-insights-from-zdnet/"><u>Can the iPad Serve as a Suitable Replacement for Traditional Computers? | Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/compact-keyboard-optimized-for-raspberry-pi-and-modern-smart-tvs-the-ultimate-guide-by-zdnet/"><u>Compact Keyboard Optimized for Raspberry Pi & Modern Smart TVs: The Ultimate Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-irobots-latest-game-changer-the-most-advanced-roomba-with-unbeatable-price-point/"><u>Discover IRobot's Latest Game-Changer: The Most Advanced Roomba with Unbeatable Price Point!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-digital-interactions-with-manycam-the-leading-choice-for-high-quality-live-video-software-and-virtual-webcam-solutions/"><u>Enhance Digital Interactions with ManyCam - The Leading Choice for High-Quality Live Video Software & Virtual Webcam Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-hyperxs-latest-release-the-pulsefire-haste-2-mouse-series-and-clutch-gladiate-for-enhanced-xbox-gameplay-insider-review/"><u>Exploring HyperX's Latest Release: The Pulsefire Haste #2 Mouse Series and Clutch Gladiate for Enhanced Xbox Gameplay | Insider Review</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insight-using-live-photos-effectively/"><u>In 2024, Expert Insight Using Live Photos Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-review-of-protonvpn-by-zdnet-exceptional-vpn-service-with-superior-data-breach-prevention-capabilities/"><u>In-Depth Review of ProtonVPN by ZDNet: Exceptional VPN Service with Superior Data Breach Prevention Capabilities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-pro-users-rejoice-fedora-linux-compatible-with-every-apple-silicon-machine-one-exception-techspot/"><u>MacBook Pro Users Rejoice: Fedora Linux Compatible with Every Apple Silicon Machine, One Exception! | TechSpot</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rocketbook-fusion-moleskine-alternative-up-to-24-off-perfect-for-eco-friendly-note-taking/"><u>Rocketbook Fusion Moleskine Alternative: Up To 24% Off - Perfect For Eco-Friendly Note Taking</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-most-comfortable-ergonomic-keyboards-featured-on-zdnet/"><u>Top 5 Most Comfortable Ergonomic Keyboards - Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-for-creators-why-the-dream-dock-with-16-ports-is-a-must-have-on-your-workspace-zdnet-review/"><u>Top Picks for Creators: Why the Dream Dock with 16 Ports Is a Must-Have on Your Workspace – ZDNET Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-most-highly-rated-graphic-design-displays-of-2024-as-tested-by-professionals-zdnet/"><u>Ultimate Guide to the Most Highly Rated Graphic Design Displays of 2024, as Tested by Professionals | ZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-modern-uses-of-drones-to-coming-innovations/"><u>[New] Modern Uses of Drones to Coming Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-dont-purchase-these-4-apple-devices-yet-a-zdnet-insight/"><u>1. Don't Purchase These 4 Apple Devices Yet: A ZDNet Insight</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-customize-your-videos-appeal-youtube-thumbnail-tips-and-tricks/"><u>2024 Approved Customize Your Video's Appeal YouTube Thumbnail Tips & Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-beast-explore-how-this-compact-computing-marvel-outperforms-giants-at-a-surprising-price-point-gadgetguru/"><u>Budget-Friendly Beast: Explore How This Compact Computing Marvel Outperforms Giants at a Surprising Price Point | GadgetGuru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buy-the-ultimate-deal-over-half-off-on-a-4tb-samsung-usb-c-external-ssd-at-amazon-tech-advice/"><u>Buy the Ultimate Deal: Over Half Off on a 4TB Samsung USB-C External SSD at Amazon - Tech Advice</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/efficient-management-and-use-of-b-roll-footage/"><u>Efficient Management and Use of B-Roll Footage</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/survival-strategies-for-microsoft-amidst-falling-surface-revenue-expert-opinions-and-forecasts-zdnet/"><u>Survival Strategies for Microsoft Amidst Falling Surface Revenue - Expert Opinions and Forecasts | ZDNet</u></a></li>
 </ul></div>
 

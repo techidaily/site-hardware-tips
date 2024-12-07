@@ -1,7 +1,7 @@
 ---
 title: "Top Pick Tools and Supplies for Crafty DIY Enthusiasts: Discover the Perfect Apery for Your Next Project - Insights From ZDNet"
-date: 2024-11-22T16:53:24.960Z
-updated: 2024-11-27T16:32:49.509Z
+date: 2024-11-30T01:21:41.493Z
+updated: 2024-12-07T03:38:41.205Z
 tags:
   - laptops
 categories:
@@ -18,17 +18,9 @@ There's an old adage worth remembering when it comes to tools: "Feel the pain on
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![regular-gg-custom-hero-collection-door](https://www.zdnet.com/a/img/resize/0b0cc7d8ff9ce2dcc37545231a740e7b985d6824/2023/01/06/5432e6d1-6507-4feb-bcda-ebe426cbd068/regular-gg-custom-hero-collection-door.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET Gift Guides Looking for the perfect gift this year? Here's a great lineup of gift ideas and resources to get you started.  Read now](https://www.zdnet.com/collection/gift-guide/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Having the right tools not only makes the job quicker. It also makes the job safer and prevents you from causing more damage and mayhem during the repair process. Also, there's nothing like the satisfaction that comes from using quality tools to get a job done. 
 
@@ -40,10 +32,6 @@ Here is a selection of tools and gadgets that I find indispensable when testing,
 * [The best cheap tech gifts under $75](https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-tech-gifts-under-75/)
 * [The best cheap tech gifts under $50](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-50/)
 * [The best cheap tech gifts under $25](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-25/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **The best DIY gift ideas for the holidays**
 
@@ -195,7 +183,7 @@ For peering into those dark crevices, this is the perfect flashlight. Not only i
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNITECORE-TIP2-Rechargeable-Keychain-Flashlight%2Fdp%2FB07R5VWWQB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6b525ff2-3c9a-4024-b8d7-f40aaa46f6ca%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How these products have been chosen?
@@ -209,11 +197,19 @@ When it comes to tools, I look for a number of things:
 * **Cost-effective**: You can pay a LOT of money for tools. While I'm a firm believer is "buy cheap, buy twice," it's possible to overpay for tools (especially big-brand names aimed at professionals). I find that I can get the same quality for a fraction of the price if I shop around.
 * **Usefulness**: I'm wary of buying a tool that I'll only use once. Yes, a laser glass remover would be handy, but it's expensive and not something I'd use a lot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What do you have against cheap tools?
 
 For many years, I've used screwdrivers that fit badly or would chew screwheads. I've also used pliers that gripped badly, were uncomfortable to use, or ones in which the wirecutter would blunt after a few uses. 
 
 "Buy cheap, buy twice."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can you replace a toolkit with a multitool?
 
@@ -236,6 +232,10 @@ Below are five DIY gifts deals I found happening right now!
 [Mechanics Tool Set, SAE and Metric, 1/2 + 1/4 + 3/8 Drive, 192-Piece - 69% off $205.11 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01BHJE0J4%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6b525ff2-3c9a-4024-b8d7-f40aaa46f6ca%7Cdtp&dtb=1)
 
 [BOSCH 12V Max Cordless 3/8 in. Drill/Driver and 1/4 in. Impact Driver Combo Kit - 48% off $164 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB005GT0IWK%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6b525ff2-3c9a-4024-b8d7-f40aaa46f6ca%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best gifts for 2023?
 
@@ -294,11 +294,11 @@ But gifts can come in all shapes and sizes, so we also rounded up the best gifts
 * [The best Android phones you can buy (including a surprise pick)](https://www.zdnet.com/article/best-android-phone/ "The best Android phones you can buy (including a surprise pick)")
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/ "The best robot vacuum and mop combos (and if they're worth the money)")
 
-###   
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+###   
 
 ###   
 
@@ -319,24 +319,19 @@ But gifts can come in all shapes and sizes, so we also rounded up the best gifts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-excellent-pc-screen-grabbers-the-most-useful-1-5/"><u>[New] Excellent PC Screen Grabbers The Most Useful #1-#5</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ow-much-could-you-make-on-youtube-snippets-for-2024/"><u>[New] How Much Could You Make on YouTube Snippets for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-discover-the-leading-8-free-3d-videos-players-for-windowsmac-os-for-2024/"><u>[Updated] Discover the Leading 8 FREE 3D Videos Players for Windows/Mac OS for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-keyword-kickstart-the-top-7-free-user-friendly-video-tag-extractors-analyzed/"><u>[Updated] Keyword Kickstart The Top 7 Free, User-Friendly Video Tag Extractors Analyzed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-lut-techniques-for-enhanced-ae-visuals/"><u>[Updated] LUT Techniques for Enhanced AE Visuals</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-poco-m6-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Poco M6 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-the-lightweight-lg-gram-17-with-a-big-screen-is-slashed-by-400-this-cyber-monday-at-zdnet/"><u>Don't Miss Out: The Lightweight LG Gram 17 with a Big Screen Is Slashed by $400 This Cyber Monday at ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-vetted-ultimate-laptop-selections-for-university-students-reviews-and-comparisons/"><u>Expertly Vetted Ultimate Laptop Selections for University Students: Reviews & Comparisons</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y78t-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y78t</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-meizu-21-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Meizu 21 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-powerful-performance-of-hps-zbook-studio-g9-the-ultimate-professional-mobile-workstation-reviewed/"><u>Inside the Powerful Performance of HP's ZBook Studio G9: The Ultimate Professional Mobile Workstation Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ready-for-the-new-semester-unlock-exclusive-discounts-on-tech-gadgets-for-students-samsung-deals/"><u>Ready for the New Semester? Unlock Exclusive Discounts on Tech Gadgets for Students - Samsung Deals !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-budget-get-a-stunning-6-off-on-the-new-m1-macbook-air-limited-time-promo/"><u>Slash Your Budget: Get a Stunning 6% Off on the New M1 MacBook Air – Limited-Time Promo !</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snap-tales-with-flair-unearth-over-120-ingenious-titles-for-your-unique-snapchat-chronicles-for-2024/"><u>Snap Tales with Flair Unearth over 120 Ingenious Titles for Your Unique Snapchat Chronicles for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/surpassing-the-macbook-air-the-microsoft-surface-laptop-copilotplus-pc-excellence-tested-and-reviewed-experts/"><u>Surpassing the MacBook Air: The Microsoft Surface Laptop Copilot+ PC Excellence Tested and Reviewed Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ideal-companion-for-telecommuters-unveiled-in-our-latest-laptop-review-on-zdnet/"><u>The Ideal Companion for Telecommuters Unveiled in Our Latest Laptop Review on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-ultraportable-computers-in-depth-review-by-tech-experts/"><u>Top-Ranking Ultraportable Computers - In Depth Review by Tech Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-snag-essential-presents-from-best-buys-impromptu-bargain-event-featured/"><u>Ultimate Guide: Snag Essential Presents From Best Buy’s Impromptu Bargain Event - Featured !</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ios-snapshot-spectrum-your-quick-reference/"><u>[New] IO's Snapshot Spectrum Your Quick Reference</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-highlighting-twitvideos-twitters-viral-video-trends/"><u>[Updated] In 2024, Highlighting TwitVideos Twitter's Viral Video Trends</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ultimate-aquatic-enhancements-for-gopro-footage-for-2024/"><u>[Updated] Ultimate Aquatic Enhancements for GoPro Footage for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-quick-tips-how-to-record-and-keep-a-transcript-of-your-google-voice-calls/"><u>2024 Approved Quick Tips How to Record and Keep a Transcript of Your Google Voice Calls</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-v-purse-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor V Purse? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-car-hire-companies-and-apps-your-ultimate-guide-insights-from-zdnet/"><u>Top 5 Car Hire Companies & Apps: Your Ultimate Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-chase-branded-credit-cards-comprehensive-review-and-recommendations/"><u>Top 5 Chase Branded Credit Cards : Comprehensive Review and Recommendations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-travel-credit-cards-offering-exclusive-airport-lounges-unlock-elite-benefits/"><u>Top 5 Travel Credit Cards Offering Exclusive Airport Lounges - Unlock Elite Benefits!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-electric-luxury-cars-comparing-tesla-model-s-3-x-and-y-insights-from-zdnet/"><u>Top Electric Luxury Cars : Comparing Tesla Model S, 3, X & Y - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-travel-cards-for-newcomers-insights-from-zdnet/"><u>Top Recommended Travel Cards for Newcomers - Insights From ZDNet</u></a></li>
 </ul></div>
 

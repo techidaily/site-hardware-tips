@@ -1,7 +1,7 @@
 ---
 title: "Maximize Savings: Save Big on MacBooks for Costco Members - Exclusive Discount Secrets Revealed | ZDNET"
-date: 2024-11-24T18:15:05.221Z
-updated: 2024-11-27T18:51:12.185Z
+date: 2024-11-30T22:39:09.608Z
+updated: 2024-12-06T23:00:12.668Z
 tags:
   - laptops
 categories:
@@ -22,15 +22,15 @@ Got a gamer in your life and don't know what to get them for the holidays? Many 
 
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To help you find the best sales and deals, we've rounded up the best Cyber Monday gaming deals still available below. You can keep reading to save big on gaming laptops, components, and accessories. 
 
 ## **Latest Cyber Monday gaming deals**
 
 The last time this page received an update, these were the latest Cyber Monday gaming deals worth checking out: 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Gaming accessories**
 
@@ -79,12 +79,16 @@ The last time this page received an update, these were the latest Cyber Monday g
 * [Xbox Series S 512GB for $250 (save $50) at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-xbox-series-s-512-gb-all-digital-disc-free-gaming-holiday-console-white%2F6510817.p%3FskuId%3D6510817&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **VR headsets for gaming**
 
 * [Meta Quest 2 with Resident Evil 4 and Beat Saber for $350 (Save $50) at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmeta-quest-2-resident-evil-4-bundle-with-beat-saber-128gb%2F6522220.p%3FskuId%3D6522220&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday gaming deals**
 
@@ -125,7 +129,7 @@ Here are some other gaming Cyber Monday deals happening right now at Amazon:
 [Razer DeathAdder V2 Pro Wireless for $58 (save $72) $58 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-DeathAdder-Wireless-Gaming-Mouse%2Fdp%2FB08FQMBKQG%3Fref%5F%3DOct%5FDLandingS%5FD%5F9309fac0%5F63%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5976d4-e756-4974-ac5f-3c41065fd380%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Cyber Monday gaming deals at Walmart**
@@ -142,10 +146,6 @@ Here are some other gaming Cyber Monday deals happening right now at Walmart:
 
 [Kingston Fury Beast RGB RAM 16GB for $64 (save $46) $64 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FKingston-FURY-Beast-RGB-16GB-KIT-2x8GB-3200MHz-DDR4-Desktop-Memory-KF432C16BBAK2-16-Kit-of-2%2F450574725&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Cyber Monday gaming deals at Best Buy**
 
 Here are some other gaming Cyber Monday deals happening right now at Best Buy: 
@@ -157,6 +157,10 @@ Here are some other gaming Cyber Monday deals happening right now at Best Buy:
 [Razer Blade 14 $2000 (save $600) $2,000 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-blade-14-14-gaming-laptop-qhd-165hz-amd-ryzen-9-6900hx-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-black%2F6499098.p%3FskuId%3D6499098&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Arcade1Up Marvel Vs Capcom $400 (save $300) $400 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Farcade1up-marvel-vs-capcom-gaming-table%2F6482610.p%3FskuId%3D6482610&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Cyber Monday gaming deals at B&H**
 
@@ -174,12 +178,16 @@ Here are some other gaming Cyber Monday deals happening right now at B&H:
 
 I did my best to choose deals that had at least a 20% discount since gaming laptops and consoles can be quite expensive. I also tried to have a good mix of PC and console gaming deals to appeal to all gamers. And I've made sure to include PC components like CPUs and hard drives for PC gamers looking to build new rigs or update current setups.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is Black Friday 2022?
 
 This year, Black Friday is on Nov. 25\. And while this is a traditional day for sales and deals at many brick-and-mortar retailers like Walmart and Target, you can find excellent deals online all month long to get a jump on your Christmas list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is Cyber Monday 2022?
@@ -194,10 +202,6 @@ ZDNET scoured holiday sales to find the best deals this year:
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Holiday deals by retailer**
 
 * [The best holiday 2022 deals at Amazon](https://www.zdnet.com/article/amazon-best-holiday-deals-2022/)
@@ -207,16 +211,16 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 deals at Walmart](https://www.zdnet.com/article/walmart-best-holiday-deals-2022/)
 * [Top early holiday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-holiday-deals-2022/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Holiday deals by brand**
 
 * [The best holiday 2022 Apple deals](https://www.zdnet.com/article/apple-best-holiday-deals-2022/)
 * [The best holiday 2022 Samsung deals](https://www.zdnet.com/article/samsung-best-holiday-deals-2022/)
 * [The best holiday 2022 Dell deals](http://zdnet.com/article/dell-best-holiday-deals-2022/)
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Holiday deals by category**
 
@@ -243,10 +247,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found:
 
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -294,22 +294,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flipping-currencies-through-cosmetics-content/"><u>[Updated] In 2024, Flipping Currencies Through Cosmetics Content</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-seamless-srt-file-engagement-for-os-users/"><u>[Updated] In 2024, Seamless SRT File Engagement for OS Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-quick-tips-simplified-techniques-for-capturing-google-meets/"><u>[Updated] Quick Tips Simplified Techniques for Capturing Google Meets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-essential-laptop-cooling-gadget-every-tech-enthusiast-must-have-stay-chill-while-you-work/"><u>1. Essential Laptop Cooling Gadget Every Tech Enthusiast Must Have - Stay Chill While You Work!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-elite-security-key-picks-professionally-assessed-on-zdnet/"><u>2024'S Elite Security Key Picks, Professionally Assessed on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-bargains-on-amazon-and-walmart-exclusive-offers-for-oct-2024-prime-events-limited-stock/"><u>Best Bargains on Amazon & Walmart - Exclusive Offers for Oct 2024 Prime Events: Limited Stock!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1366446-9781599474557-discovering-the-laws-of-life/"><u>Discovering the Laws of Life | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-hassle-free-charging-how-the-viral-tangle-resistant-usb-c-cable-became-my-travel-lifesaver-innovation-spotlights/"><u>Experience Hassle-Free Charging: How the Viral Tangle-Resistant USB-C Cable Became My Travel Lifesaver | Innovation Spotlights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unbeatable-savings-up-to-230-off-on-an-hp-156-inch-touch-enabled-notebook-s-current-offer/"><u>Experience Unbeatable Savings: Up to $230 Off on an HP 15.6 Inch Touch-Enabled Notebook 'S Current Offer!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-all-latest-artificial-intelligence-enhancements-in-copilotplus-systems-almost-convinced/"><u>Exploring All Latest Artificial Intelligence Enhancements in Copilot+ Systems – Almost Convinced!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-x50-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor X50 Lock Screen Password?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-razr-40-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Motorola Razr 40 won’t play MP4 files</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/power-users-dream-discovering-key-aspects-of-the-outstanding-lenovo-laptop/"><u>Power User's Dream: Discovering Key Aspects of the Outstanding Lenovo Laptop</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sky-secrets-unraveled-an-aminy-review/"><u>Sky Secrets Unraveled: An Aminy Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-new-macbook-air-powered-by-m2-chip-at-unprecedented-discounts-this-cyber-monday-only/"><u>Snag the New MacBook Air Powered by M2 Chip at Unprecedented Discounts This Cyber Monday Only</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-5-microphones-compatible-with-macos-for-2024/"><u>Top 5 Microphones Compatible with MacOS for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-detailed-analysis-of-duolingo-complimentary-and-engaging-method-for-mastering-new-languages/"><u>ZDNet's Detailed Analysis of Duolingo: Complimentary and Engaging Method for Mastering New Languages</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-cultivate-creativity-10plus-channel-driven-video-suggestions/"><u>[New] In 2024, Cultivate Creativity 10+ Channel-Driven Video Suggestions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-captivate-viewers-designing-engaging-youtube-trailers-with-filmora-for-2024/"><u>[Updated] Captivate Viewers Designing Engaging YouTube Trailers with Filmora for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-optidrive-specialists-judgment-for-2024/"><u>[Updated] OptiDrive Specialists Judgment for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/google-meet-aesthetics-elevating-with-filters-and-effects-for-2024/"><u>Google Meet Aesthetics Elevating with Filters and Effects for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/guia-paso-a-paso-transferir-archivos-de-programas-entre-unidades-de-almacenamiento-en-windows-11/"><u>Guía Paso a Paso: Transferir Archivos De Programas Entre Unidades De Almacenamiento en Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-itel-a60s-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Itel A60s Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-pixel-slates-unstable-chromeos-experience/"><u>In-Depth Analysis of the Pixel Slate's Unstable ChromeOS Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-responsibly-assessing-the-ecological-cost-of-mobile-devices-and-how-to-minimize-it-zdnet/"><u>Navigating Tech Responsibly: Assessing the Ecological Cost of Mobile Devices & How to Minimize It | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-complexities-of-eco-friendly-innovation-tips-for-boosting-backing-and-collaboration/"><u>Navigating the Complexities of Eco-Friendly Innovation: Tips for Boosting Backing and Collaboration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overcoming-obstacles-in-eco-friendly-innovation-a-guide-to-gaining-extra-resources/"><u>Overcoming Obstacles in Eco-Friendly Innovation: A Guide to Gaining Extra Resources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/personalized-car-insurance-rates-based-on-telematics-a-closer-look/"><u>Personalized Car Insurance Rates Based on Telematics: A Closer Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/powering-your-home-through-storms-how-the-ecoflow-portable-battery-saved-us-from-outages-a-zdnet-story/"><u>Powering Your Home Through Storms: How the EcoFlow Portable Battery Saved Us From Outages - A ZDNet Story</u></a></li>
 </ul></div>
 

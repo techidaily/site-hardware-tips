@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Workers, Get Ready to Upgrade! Exclusive Deal Alert: Prime Day's $1K Off on the Best Lenovo Laptop Picked by ZDNet."
-date: 2024-11-22T16:13:32.100Z
-updated: 2024-11-27T19:09:28.536Z
+date: 2024-11-29T20:53:22.499Z
+updated: 2024-12-06T22:28:40.112Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,21 +79,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-11-window-wisdom-the-secret-techniques-youve-missed-out-on/"><u>[New] 11 Window Wisdom The Secret Techniques You've Missed Out On</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-dive-into-the-world-of-interactive-video-features-on-youtube/"><u>[New] In 2024, Dive Into the World of Interactive Video Features on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-structured-approach-to-managing-youtube-videos-a-complete-watch-later-system/"><u>[New] Structured Approach to Managing YouTube Videos A Complete Watch Later System</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-the-world-of-ig-data-an-expert-guide-to-understanding-metrics/"><u>[Updated] In 2024, Navigating the World of IG Data An Expert Guide to Understanding Metrics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-lenovo-laptop-guide-elite-ratings-and-in-depth-analysis-digital-trends/"><u>2024'S Ultimate Lenovo Laptop Guide: Elite Ratings and In-Depth Analysis | Digital Trends</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/aomenix-windows-88110-aomei-backupper/"><u>AOMEnix Windows 8/8.1/10最佳拷贝软件解决方案 - AOMEI Backupper</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-prime-day-bargains-for-laptops-in-oct-24-expert-tips-from-zdnet/"><u>Discover the Ultimate Prime Day Bargains for Laptops in Oct '24 | Expert Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-analysis-how-lenovos-affordable-749-thinkbook-is-set-to-claim-best-value-laptop-crown-reviews/"><u>Exclusive Analysis: How Lenovo's Affordable $749 ThinkBook Is Set to Claim Best-Value Laptop Crown Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-next-level-performance-save-up-to-57-on-the-latest-gigabyte-aero-16-exclusive-offer-inside-pc-gamer-reviews/"><u>Experience Next-Level Performance: Save up to 57% on the Latest Gigabyte Aero 16 - Exclusive Offer Inside! | PC Gamer Reviews</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-analysis-on-the-premium-mophie-powerstation-ac-charger-convenience-at-a-cost/"><u>Expert Analysis on The Premium Mophie Powerstation AC Charger – Convenience at a Cost</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-motorola-moto-g34-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Moto G34 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-black-friday-score-an-hp-victus-gro-a-gaming-laptop-for-just-515-at-best-buy-dont-miss-the-prime-day-sale/"><u>Save Big on Black Friday: Score an HP Victus Gro a Gaming Laptop for Just $515 at Best Buy - Don't Miss the Prime Day Sale!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-score-amazing-discounts-on-games-in-octobers-prime-deal-extravaganza-insights/"><u>The Ultimate Guide to Score Amazing Discounts on Games in October's Prime Deal Extravaganza | Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-year-2024-comprehensive-testing-and-reviews-by-tech-experts/"><u>The Year 2024: Comprehensive Testing & Reviews by Tech Experts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/your-essential-guide-to-unblocking-on-instagram-for-2024/"><u>Your Essential Guide to Unblocking on Instagram for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-mastering-your-media-with-vlcs-secret-features/"><u>[Updated] 2024 Approved Mastering Your Media with VLC's Secret Features</u></a></li>
+<li><a href="https://win11.techidaily.com/8-ways-to-fix-the-sign-in-method-youre-trying-to-use-isnt-allowed-error-on-windows/"><u>8 Ways to Fix The Sign-In Method You're Trying to Use Isn't Allowed Error on Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-screen-replay-applications-for-windowsmacos/"><u>Best Screen Replay Applications for Windows/macOS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-5-smart-plug-products-for-a-smarter-home-cnet/"><u>Discover the Leading 5 Smart Plug Products for a Smarter Home | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-unknown-wishlist-item-the-enchanting-smart-light-projector-reviewed-on-zdnet/"><u>Discover Your Unknown Wishlist Item - The Enchanting Smart Light Projector Reviewed on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-magic-of-affordable-smart-lighting-an-alternative-to-philips-hue-on-a-budget/"><u>Experience the Magic of Affordable Smart Lighting: An Alternative to Philips Hue on a Budget!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-brightest-innovations-zdnets-guide-to-optimal-book-lights-for-2e24/"><u>Exploring the Brightest Innovations: ZDNet's Guide to Optimal Book Lights for 2E24</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-compose-your-cinematic-storytelling-add-melodies-to-iphone-videos-without-cost/"><u>In 2024, Compose Your Cinematic Storytelling – Add Melodies to iPhone Videos Without Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professionals-choice-in-streaming-illumination-featured-lights-rated-by-experts-digitaltrends/"><u>Professional's Choice in Streaming Illumination: Featured Lights Rated by Experts | DigitalTrends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-home-entertainment-with-philips-hue-on-samsung-tv-special-3mo-deal-covered-by-zdnet/"><u>Revolutionize Your Home Entertainment with Philips Hue on Samsung TV - Special $3/Mo Deal Covered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essence-of-smart-living-impactful-connectivity-standards-for-enhanced-home-automation/"><u>The Essence of Smart Living: Impactful Connectivity Standards for Enhanced Home Automation</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-reno-11-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo Reno 11 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshoot-switch-reclaim-your-connection/"><u>Troubleshoot Switch: Reclaim Your Connection</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-dirt-5-continuously-fails-on-your-desktop-pc/"><u>Troubleshooting Steps When Dirt 5 Continuously Fails on Your Desktop PC</u></a></li>
 </ul></div>
 

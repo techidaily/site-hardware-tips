@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Reliable: Why the $299 Laptop Is Perfect for Academic Use, According to ZDNET"
-date: 2024-11-25T18:50:26.530Z
-updated: 2024-11-27T17:51:55.566Z
+date: 2024-12-05T20:09:28.289Z
+updated: 2024-12-06T17:28:53.285Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,24 +77,22 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-mastering-windows-installation-of-your-new-focusrite-scarlett-2i2-audio-interface/"><u>[Download]: Mastering Windows Installation of Your New Focusrite Scarlett 2I2 Audio Interface!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-visual-storytelling-through-youtube-split-screens/"><u>[New] In 2024, Visual Storytelling Through YouTube Split-Screens</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-multiplatform-meeting-logistics-on-zoom-for-2024/"><u>[New] Mastering Multiplatform Meeting Logistics on Zoom for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-your-potential-is-a-joined-force-right-for-you-for-2024/"><u>[Updated] Maximizing Your Potential Is a Joined Force Right for You for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-photography-elite-line-up-best-6-4k-dslr-options-reviewed-for-2024/"><u>[Updated] Photography Elite Line-Up Best 6 4K DSLR Options Reviewed for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximize-your-visuals-on-zoom-the-definitive-guide/"><u>2024 Approved Maximize Your Visuals on Zoom – The Definitive Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/audiophiles-recorder-review-for-2024/"><u>Audiophile's Recorder Review for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-newest-amd-radeon-pro-w5700-drivers-compatible-with-windows-11107/"><u>Download the Newest AMD Radeon Pro W5700 Drivers Compatible with Windows 11/10/7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effortlessly-expand-your-macbook-airs-portability-with-this-new-sleek-docking-station-zdnet/"><u>Effortlessly Expand Your MacBook Air's Portability with This New, Sleek Docking Station (ZDNet)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-gaming-setup-with-secretlabs-chic-car-seat-cover-designs-insights-from-zdnet/"><u>Enhance Your Gaming Setup with SecretLab's Chic Car Seat Cover Designs - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/getting-started-with-raspberry-pi-a-beginners-guide-on-setting-up-your-first-device-insights-from-zdnet/"><u>Getting Started with Raspberry Pi: A Beginner's Guide on Setting Up Your First Device - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hunt-the-most-amazing-laptop-discounts-this-july-expert-choices-by-zdnet/"><u>Hunt the Most Amazing Laptop Discounts This July - Expert Choices by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/join-us-for-the-microsoft-build-spectacle-insider-info-on-sessions-streaming-links-and-my-anticipation-guide/"><u>Join Us for the Microsoft Build Spectacle! Insider Info on Sessions, Streaming Links, and My Anticipation Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/june-2023s-ultimate-monitor-bargains-spotlighted-by-zdnet/"><u>June 2023'S Ultimate Monitor Bargains Spotlighted by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mega-cyber-sale-alert-snag-a-800-discount-on-the-ultimate-fujifilm-photography-setup-exclusive-offer-just-for-today/"><u>Mega Cyber Sale Alert: Snag a $800 Discount on the Ultimate Fujifilm Photography Setup - Exclusive Offer Just for Today!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-16-port-hub-essential-for-every-creator-discover-the-perfect-dream-dock/"><u>The Ultimate 16-Port Hub Essential for Every Creator: Discover the Perfect Dream Dock</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-apples-new-m3-imac-falls-short-for-enthusiasts-of-the-27-inch-experience-a-critical-look-at-necessity/"><u>Why Apple's New M3 iMac Falls Short for Enthusiasts of the 27-Inch Experience - A Critical Look at Necessity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-revival-microsoft-and-ibm-reimagine-classic-ms-dos-as-an-open-source-project/"><u>- The Revival: Microsoft & IBM Reimagine Classic MS-DOS as an Open Source Project!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-webcam-innovation-cutting-edge-live-video-technology/"><u>[Updated] 2024 Approved Webcam Innovation Cutting-Edge Live Video Technology</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-visionary-8-tools-transforming-gameplay/"><u>[Updated] In 2024, Visionary 8 Tools Transforming Gameplay</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snapseed-advanced-usage-insights/"><u>[Updated] Snapseed Advanced Usage Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/5asn6kap5qih44oh44k444k44or44ot44oh44kq44kz44ou44o844o744og44kv44ol44od44kv77ya5a656yep6laf44gi44ks6kej5rai44gz44kl44os44oz44oi/"><u>大規模デジタルビデオコピー・テクニック：容量超えを解消するヒント</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/crafting-an-affordable-high-performance-starfield-rig-below-1200-a-step-by-step-guide/"><u>Crafting an Affordable High-Performance Starfield Rig Below $1,200 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-hyperx-armada-27-an-in-depth-review-of-the-pioneering-gaming-display-from-hyperx/"><u>Exploring the HyperX Armada 27: An In-Depth Review of the Pioneering Gaming Display From HyperX</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-out-which-graphics-processor-you-own-tips-for-detecting-gpus-and-installing-the-latest-driver-software-wired/"><u>Find Out Which Graphics Processor You Own! Tips for Detecting GPUs and Installing the Latest Driver Software | Wired</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-completa-para-conversion-de-archivos-vob-protegidos-a-mp4-en-windows-11-y-mac/"><u>Guía Completa Para Conversión De Archivos VOB Protegidos a MP4 en Windows 11 Y Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-trusted-platform-module-tpm-became-a-prerequisite-for-windows-11-installation-digitalguardian/"><u>How the Trusted Platform Module (TPM) Became a Prerequisite for Windows 11 Installation | DigitalGuardian</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-restore-drag-and-drop-capabilities-in-windows-efficiently/"><u>How to Restore Drag & Drop Capabilities in Windows Efficiently</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-11-pro-by-drfone-ios/"><u>How To Unlock A Found iPhone 11 Pro?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mega-deal-alert-samsung-4tb-external-ssd-on-a-steep-discount-over-50-off-prime-your-digital-storage-this-labor-day/"><u>Mega Deal Alert: Samsung 4TB External SSD on a Steep Discount Over 50% Off - Prime Your Digital Storage This Labor Day!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210233075-9781612834689-prosperity-meditations/"><u>Prosperity Meditations | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-huge-discount-hps-powerful-gaming-pc-the-victus-15l-down-to-480-this-labor-day-insider-tips-from-zdnet/"><u>Score a Huge Discount: HP's Powerful Gaming PC, the Victus 15L, Down to $480 This Labor Day - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/successful-guide-resolving-amd-radeon-graphics-drivers-update-issues/"><u>Successful Guide: Resolving AMD Radeon Graphics Drivers Update Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/triple-display-setup-made-easy-on-m1-macs-using-ugreens-new-docking-station-insights-from-zdnet/"><u>Triple Display Setup Made Easy on M1 Macs Using Ugreen's New Docking Station - Insights From ZDNet</u></a></li>
 </ul></div>
 

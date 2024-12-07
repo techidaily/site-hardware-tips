@@ -1,7 +1,7 @@
 ---
 title: "Amazon Flash Sale: High-Speed Perfection with the 16-in-1 Thunderbolt Hub - Get an Immediate $70 Discount | ZDNet Tech"
-date: 2024-11-22T18:07:50.899Z
-updated: 2024-11-27T17:04:16.352Z
+date: 2024-12-04T17:59:21.848Z
+updated: 2024-12-06T20:03:32.199Z
 tags:
   - laptops
 categories:
@@ -20,7 +20,7 @@ And yes, that's _with_ the Nvidia RTX 3070 Ti graphics card.
 Aside from the amazing top-tier graphics card, the laptop offers so much more to keep your gaming running on the go. It offers a massive 2TB of storage for taking a literal library of games on the machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -28,7 +28,7 @@ Aside from the amazing top-tier graphics card, the laptop offers so much more to
 [![regular-gg-custom-hero-collection-door](https://www.zdnet.com/a/img/resize/0b0cc7d8ff9ce2dcc37545231a740e7b985d6824/2023/01/06/5432e6d1-6507-4feb-bcda-ebe426cbd068/regular-gg-custom-hero-collection-door.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET Gift Guides Looking for the perfect gift this year? Here's a great lineup of gift ideas and resources to get you started.  Read now](https://www.zdnet.com/collection/gift-guide/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The processor also clocks in at 2.3GHz, but can be boosted to up to 4.7GHz when you need it for gaming or even content. Also packed into this top-notch gaming machine is 16GB of RAM. Plus, one of the perks about this gaming laptop is that it doesn't look like a gaming laptop, so for those that don't want to advertise they have an expensive model while they're traveling, this is the perfect option.
@@ -69,24 +69,24 @@ Looking for other laptop options? No problem -- head over to our [dedicated gami
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-from-simple-to-sophisticated-mastering-zd-softs-video-recording-techniques/"><u>[New] From Simple to Sophisticated Mastering ZD Soft's Video Recording Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-decoding-the-m1-max-clip-functionality/"><u>[Updated] Decoding the M1 Max Clip Functionality</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-igtv-unveiled-5-essential-downloads-for-mobile-devices/"><u>2024 Approved IGTV Unveiled 5 Essential Downloads for Mobile Devices</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-game-download-sites-top-picks-for-2024/"><u>Best Game Download Sites Top Picks for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bid-goodbye-to-screenshake-learn-the-key-techniques-to-stop-that-annoying-flicker/"><u>Bid Goodbye to Screenshake – Learn the Key Techniques to Stop That Annoying Flicker!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-whats-new-in-matter-13-upgraded-features-and-wider-hardware-support-detailed-by-zdnet/"><u>Discover What's New in Matter 1.3 - Upgraded Features and Wider Hardware Support Detailed by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effortlessly-upgrade-to-extra-storage-space-for-just-12-how-i-converted-idle-ssds-into-external-backup-units/"><u>Effortlessly Upgrade to Extra Storage Space for Just $12 - How I Converted Idle SSDs Into External Backup Units</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/excellent-mic-options-enhancing-4k-video-quality/"><u>Excellent Mic Options Enhancing 4K Video Quality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-joining-jpeg-worlds-with-ease-and-skill/"><u>In 2024, Joining JPEG Worlds with Ease and Skill</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-nextgen-video-havens-step-away-from-youtube/"><u>In 2024, NextGen Video Havens - Step Away From YouTube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-tiles-new-scan-and-secure-a-revolutionary-solution-to-combat-stalking-discover-how-on-zdnet/"><u>Introducing Tile's New 'Scan & Secure': A Revolutionary Solution to Combat Stalking - Discover How on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/logitech-launches-budget-friendly-webcams-designed-for-remote-and-hybrid-work-environments-zdnet/"><u>Logitech Launches Budget-Friendly Webcams Designed for Remote & Hybrid Work Environments - ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/reconciling-microphone-and-xbox-app-on-1011-pcs/"><u>Reconciling Microphone and Xbox App on 10/11 PCs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-a53-freestyle-evaluation-insights-from-zdnet/"><u>Samsung Galaxy A53 Freestyle Evaluation - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tile-introduces-robust-anti-theft-measures-and-critiques-apples-airtag-method-zdnet-exclusive-insight/"><u>Tile Introduces Robust Anti-Theft Measures and Critiques Apple's AirTag Method | ZDNet Exclusive Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-3-essential-safety-devices-every-traveler-should-carry-insights-from-zdnet/"><u>Top 3 Essential Safety Devices Every Traveler Should Carry - Insights From ZDNet</u></a></li>
-<li><a href="https://solve-help.techidaily.com/top-international-film-picks-for-festive-season-viewing/"><u>Top International Film Picks for Festive Season Viewing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-graphics-laptop-picks-comprehensive-reviews-by-pros-techradar/"><u>Top-Ranked Graphics Laptop Picks: Comprehensive Reviews by Pros | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-hyperx-pulsefire-haste/"><u>Unveiling the HyperX Pulsefire Haste</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup-for-2024/"><u>[New] Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-chatcast-collector-fb-groups-for-2024/"><u>[Updated] ChatCast Collector - FB Groups for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-tools-for-producing-road-trip-videos/"><u>[Updated] Tools for Producing Road Trip Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-accelerate-subscriber-count-on-your-channel/"><u>2024 Approved How to Accelerate Subscriber Count on Your Channel</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-maximizing-your-idevices-screen-record-functionality/"><u>2024 Approved Maximizing Your iDevice's Screen Record Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoiding-costly-mistakes-preventing-damage-from-incompatible-usb-c-cables-tips-and-tricks/"><u>Avoiding Costly Mistakes: Preventing Damage From Incompatible USB-C Cables | Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoiding-tech-mishaps-with-the-right-usb-c-cable-selection-expert-guide/"><u>Avoiding Tech Mishaps with the Right USB-C Cable Selection: Expert Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-technology-must-haves-for-setting-up-a-home-recording-studio-zdnet/"><u>Essential Technology Must-Haves for Setting Up a Home Recording Studio | ZDNet</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-it-guide-no-more-distorted-screens/"><u>Fix-It Guide: No More Distorted Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hps-latest-gamers-dream-the-victus-15l-laptop-slashed-to-a-steal-at-480-for-the-holiday-weekend-tech-analysis-by-zdnet/"><u>HP's Latest Gamers' Dream: The Victus 15L Laptop Slashed to a Steal at $480 for the Holiday Weekend | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-power-of-words-enhancing-viewer-count-with-impressive-description-templates/"><u>In 2024, The Power of Words Enhancing Viewer Count with Impressive Description Templates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/shielding-identity-video-blur-and-privacy-preservation/"><u>Shielding Identity Video Blur and Privacy Preservation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-cheat-sheet-constructing-an-unbeatable-gaming-station-as-recommended-by-zdnet-experts/"><u>The Complete Cheat Sheet: Constructing an Unbeatable Gaming Station as Recommended by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-is-now-how-enterprise-gadgets-are-changing-for-the-ai-revolution-tips-from-zdnet/"><u>The Future Is Now: How Enterprise Gadgets Are Changing for the AI Revolution - Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-premier-choices-in-memory-upgrades-for-enhanced-work-and-gaming-experience-best-ram-picks-of-2023-zdnet/"><u>The Premier Choices in Memory Upgrades for Enhanced Work and Gaming Experience – Best RAM Picks of 2023 | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-discover-the-mighty-power-of-affordable-micro-pcs-on-a-budget-insights-from-zdnet/"><u>Unbeatable Value: Discover the Mighty Power of Affordable Micro-PCs on a Budget - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-new-possibilities-in-laptops-with-hypers-cutting-edge-hubs-docks-and-ssd-enclosures-zdnet-insights/"><u>Unlocking New Possibilities in Laptops with Hyper's Cutting-Edge Hubs, Docks & SSD Enclosures | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/d-ideas-for-daily-vlogging-talks-for-2024/"><u>Varied Ideas for Daily Vlogging Talks for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/youtube-tv-vs-hulu-with-live-tv-a-comprehensive-guide-to-selecting-your-ideal-streaming-experience/"><u>YouTube TV Vs. Hulu with Live TV: A Comprehensive Guide to Selecting Your Ideal Streaming Experience</u></a></li>
 </ul></div>
 

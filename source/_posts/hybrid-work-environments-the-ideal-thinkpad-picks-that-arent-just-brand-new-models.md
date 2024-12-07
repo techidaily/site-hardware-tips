@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models
-date: 2024-11-23T17:13:46.936Z
-updated: 2024-11-27T17:28:44.462Z
+date: 2024-12-03T19:46:47.970Z
+updated: 2024-12-06T18:32:47.352Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,18 +112,19 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimizedusageofyourwebcamrecorder/"><u>[New] 2024 Approved OptimizedUsageOfYourWebcamRecorder</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-storyremix-for-windows-11-enhancing-videos-with-photos/"><u>[Updated] In 2024, Mastering StoryRemix for Windows 11 Enhancing Videos with Photos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beginners-guide-configuring-your-initial-raspberry-pi-project-tips-from-zdnet/"><u>Beginner's Guide: Configuring Your Initial Raspberry Pi Project - Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-enhanced-self-service-repair-functionality-by-apple-integrating-remote-diagnostic-tools-for-new-models-like-iphone-15-and-m2-mac-insights-on-zdn154/"><u>Explore the Enhanced Self Service Repair Functionality by Apple, Integrating Remote Diagnostic Tools for New Models Like iPhone 15 and M2 Mac - Insights on ZDNET</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/giggle-garage-gratuitous-tools-to-tickle-your-brain/"><u>Giggle Garage Gratuitous Tools to Tickle Your Brain</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-prevent-logofail-hacking-incidents-and-safeguard-your-computers-cybersecurityhub/"><u>How to Prevent LogoFAIL Hacking Incidents and Safeguard Your Computers | CyberSecurityHub</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone 11 Pro Max</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-hp-print-and-scan-now-plan-enough-to-ease-your-frustrations-with-printers-find-out-here/"><u>Is the HP Print and Scan Now Plan Enough to Ease Your Frustrations with Printers? Find Out Here!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lg-dualup-1618-display-experience-a-comprehensive-review-and-personal-transition-story-techinsight/"><u>LG DualUp 16:18 Display Experience - A Comprehensive Review and Personal Transition Story | TechInsight</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-and-performance-review-of-the-blade-blh4100-120-rc-helicopter-perfect-for-outdoor-adventures/"><u>Unboxing and Performance Review of the Blade BLH4100 120 R/C Helicopter: Perfect For Outdoor Adventures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-ai-conversations-mastering-the-chatgpt-api/"><u>Unlocking AI Conversations: Mastering the ChatGPT API</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-repairability-revolution-in-microsofts-latest-laptop-lineup-outshining-rivals-and-puzzling-apple-the-verdict-by-ifixit-zdnet/"><u>Unveiling the Repairability Revolution in Microsoft's Latest Laptop Lineup, Outshining Rivals and Puzzling Apple – The Verdict by iFixit | ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-mobile-video-capture/"><u>[New] In 2024, The Ultimate Guide to Mobile Video Capture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-breaking-down-instagrams-timeframe-per-video/"><u>2024 Approved Breaking Down Instagram's Timeframe Per-Video</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-13-mini-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 13 mini to Samsung | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazing-2023-holiday-savings-neweggs-ultimate-deal-roundup-for-festive-shopping-spree-zdnet-insights/"><u>Amazing 2023 Holiday Savings: Newegg's Ultimate Deal Roundup for Festive Shopping Spree | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/canon-usa-faces-lawsuit-over-print-devices-that-dont-use-ink-or-scanning-features-tech-news/"><u>Canon USA Faces Lawsuit Over Print Devices That Don't Use Ink or Scanning Features - Tech News</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862837146-elevate-your-pc-experience-with-a-budget-friendly-acer-nitro-gaming-display-27-screen-170hz/"><u>Elevate Your PC Experience with a Budget-Friendly Acer Nitro Gaming Display – 27 Screen, 170Hz.</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-70-lite-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Honor 70 Lite 5G FRP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hewlett-packard-launches-revolutionary-portable-all-in-one-pc-surprising-revelations-from-hp-tech-news-by-zdnet/"><u>Hewlett-Packard Launches Revolutionary Portable All-In-One PC: Surprising Revelations From HP | Tech News by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-stratasys-latest-carbon-fiber-development-could-revolutionize-industry-usage-insights-from-zdnet/"><u>How Stratasys' Latest Carbon Fiber Development Could Revolutionize Industry Usage - Insights From ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-xiaomi-civi-3-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Xiaomi Civi 3 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-end-of-an-era-epson-discontinues-laser-printing-line-details-by-zdnet/"><u>The End of an Era: Epson Discontinues Laser Printing Line - Details by ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-6s-plus-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 6s Plus Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-color-correction-for-youtube-beauty/"><u>Video Color Correction for YouTube Beauty</u></a></li>
 </ul></div>
 

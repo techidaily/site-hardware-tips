@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights on ZDNet"
-date: 2024-11-20T19:55:03.118Z
-updated: 2024-11-27T18:06:14.512Z
+date: 2024-12-02T22:41:39.451Z
+updated: 2024-12-06T20:18:04.244Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-ps3-experience-on-pc-leading-emulators-guide-for-2024/"><u>[New] PS3 Experience on PC Leading Emulators Guide for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-essential-free-tools-perfecting-your-video-calls/"><u>2024 Approved Essential Free Tools Perfecting Your Video Calls</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-tools-unlock-a-world-of-dvd-experience-on-devices/"><u>2024 Approved Free Tools Unlock a World of DVD Experience on Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-the-ultimate-selection-of-cheap-webcams-for-your-home-office-this-year/"><u>Affordable Excellence: The Ultimate Selection of Cheap Webcams for Your Home Office This Year</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-budget-friendly-webcams-for-online-communication-top-picks-of-2023/"><u>Best Budget-Friendly Webcams for Online Communication - Top Picks of 2023</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-your-laptop-performance-by-adding-more-ram-tips-and-tricks-from-zdnet-experts/"><u>Boost Your Laptop Performance by Adding More RAM - Tips & Tricks From ZDNet Experts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro Max To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leading-8-sites-offering-free-access-to-3d-text-psdfiles/"><u>Leading 8 Sites Offering Free Access to 3D Text PSDFiles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-accessible-webcam-solutions-by-logitee-perfect-for-todays-virtual-teams-insights-from-zdnet/"><u>New Accessible Webcam Solutions by Logitee: Perfect for Today's Virtual Teams, Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/rogelikes-past-present-and-emerging-futures-for-2024/"><u>Rogelikes Past, Present, & Emerging Futures for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-communication-restored-your-step-by-step-solution-to-discords-packet-loss-problem/"><u>Seamless Communication Restored: Your Step-by-Step Solution to Discord's Packet Loss Problem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-journey-of-the-obsolete-from-floppy-disks-to-modern-transport-uncovering-their-hidden-presence-zdnet/"><u>The Journey of the Obsolete: From Floppy Disks to Modern Transport - Uncovering Their Hidden Presence | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-most-effective-laptop-chillers-of-2er-year-professional-evaluations-techradar/"><u>Ultimate Guide to the Most Effective Laptop Chillers of 2Er Year: Professional Evaluations | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-savings-with-our-earwax-removal-tech-toolkit-camera-black-friday-deal-alert-from-zdnet/"><u>Unlock Savings with Our Earwax Removal Tech Toolkit Camera – Black Friday Deal Alert From ZDNet!</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-become-a-tiktok-fanatic-setup-guide-for-macbook/"><u>[New] 2024 Approved Become a TikTok Fanatic Setup Guide for MacBook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-exclusive-insight-into-low-cost-footage-websites/"><u>[New] 2024 Approved Exclusive Insight Into Low-Cost Footage Websites</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-digital-editing-made-easy-convert-avis-to-sharp-shareable-gifs-with-filmora-pcmac/"><u>2024 Approved Digital Editing Made Easy Convert AVIs to Sharp, Shareable GIFs with Filmora (PC/Mac)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-why-choosing-a-lenovo-aio-over-an-imac-is-worth-reconsidering-insights-from-zdnet/"><u>Discover Why Choosing a Lenovo AIO Over an iMac Is Worth Reconsidering: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-2024-laptop-selection-indepth-evaluation-and-ratings-by-experts-at-zdnet/"><u>Elite 2024 Laptop Selection: InDepth Evaluation and Ratings | By Experts at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-with-a-touchscreen-macbook-benefits-and-drawbacks-analyzed-by-experts/"><u>Exploring the Future with a Touchscreen MacBook: Benefits and Drawbacks Analyzed by Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-fatal-dev-error-in-modern-warfare-and-warzone/"><u>Fix: Fatal (Dev) Error in Modern Warfare & Warzone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-sonys-x1000v-hd-recorder-for-2024/"><u>In-Depth Look at Sony's X1000V HD Recorder for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-expenses-by-500plus-essential-cost-saving-strategies-for-entrepreneurs-insights-from-zdnet/"><u>Slash Expenses by $500+: Essential Cost-Saving Strategies for Entrepreneurs - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-restoring-default-sound-settings-on-windows-os-digital-trends/"><u>Step-by-Step Tutorial: Restoring Default Sound Settings on Windows OS | Digital Trends</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-mystique-of-a-blue-icon-on-facebook-decoding-its-purpose-and-meaning-for-2024/"><u>The Mystique of a Blue Icon on Facebook Decoding Its Purpose and Meaning for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-budget-friendly-gaming-pcs-for-202eby-expert-selections-from-zdnet/"><u>Ultimate Guide to Budget-Friendly Gaming PCs for 202Eby: Expert Selections From ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-meizu-by-drfone-android/"><u>Universal Unlock Pattern for Meizu</u></a></li>
 </ul></div>
 

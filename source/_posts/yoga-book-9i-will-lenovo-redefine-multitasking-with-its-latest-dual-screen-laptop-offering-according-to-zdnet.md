@@ -1,7 +1,7 @@
 ---
 title: "Yoga Book ^9I: Will Lenovo Redefine Multitasking with Its Latest Dual-Screen Laptop Offering, According to ZDNet?"
-date: 2024-11-23T16:45:01.076Z
-updated: 2024-11-27T16:54:12.703Z
+date: 2024-12-04T20:51:00.710Z
+updated: 2024-12-07T03:10:05.727Z
 tags:
   - laptops
 categories:
@@ -26,25 +26,21 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take screenshots on any laptop
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
 ### **Option 1: The old fashioned way**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -57,7 +53,7 @@ The button can be just about anywhere, so just look for something that looks as 
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
@@ -73,7 +69,7 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
@@ -104,11 +100,11 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### Is there an easy way to record video of my laptop screen too?
 
@@ -117,6 +113,10 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,14 +157,18 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-explore-the-best-9-gif-recorders-for-windows-seamless-animation-saving-for-2024/"><u>[New] Explore the Best 9 GIF Recorders for Windows Seamless Animation Saving for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/maximize-your-ios-for-ps2-gaming-with-best-emulators-for-2024/"><u>Maximize Your IOS for PS2 Gaming with Best Emulators for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-workspace-with-an-11-in-1-docking-station-marked-down-44-in-our-zdnet-shop/"><u>Maximize Your Workspace with an 11-in-1 Docking Station, Marked Down 44% in Our ZDNet Shop!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-tips-locate-your-lost-iphone-using-a-laptop-or-mac-device/"><u>Quick Tips: Locate Your Lost iPhone Using a Laptop or Mac Device</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-ultimate-list-of-8-iphone-sms-recovery-programs-pinnacle-tech/"><u>The Ultimate List of 8 iPhone SMS Recovery Programs | Pinnacle Tech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-why-this-dell-inspiron-outshines-all-other-laptops-on-the-market/"><u>The Ultimate Review: Why This Dell Inspiron Outshines All Other Laptops on the Market</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-premier-android-and-ios-video-chat-tools-for-2024/"><u>Top 10 Premier Android & iOS Video Chat Tools for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-touchscreen-laptop-guide-in-depth-analysis-by-professionals-gadgetsphere/"><u>Ultimate Touchscreen Laptop Guide: In-Depth Analysis by Professionals | GadgetSphere</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-top-savings-on-iphone-apple-watch-and-ipad-july-2024s-exclusive-apple-bargains-featured-by-zdnet/"><u>Unlocking Top Savings on iPhone, Apple Watch & iPad: July 2024'S Exclusive Apple Bargains Featured by ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fusing-youtube-beats-into-film-scenes/"><u>[New] Fusing YouTube Beats Into Film Scenes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-viral-victory-your-kinemaster-journey/"><u>[New] Viral Victory Your KineMaster Journey</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-initial-cinematic-composition-review/"><u>2024 Approved Initial Cinematic Composition Review</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/cookiebot-the-secret-ingredient-behind-tailored-user-experiences/"><u>Cookiebot: The Secret Ingredient Behind Tailored User Experiences</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-enhanced-features-of-apple-watch/"><u>Exploring the Enhanced Features of Apple Watch</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-huawei-watch-gt-runner-the-ideal-sports-companion-expert-insights-from-zdnet/"><u>In-Depth Review of Huawei Watch GT Runner: The Ideal Sports Companion - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/navigating-the-art-of-live-stream-archiving-for-tv-series/"><u>Navigating the Art of Live Stream Archiving for TV Series</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/overcoming-the-challenge-of-startup-failure-in-cities-skylines-2/"><u>Overcoming the Challenge of Startup Failure in Cities: Skylines 2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/shokz-openrun-pro-assessed-by-zdnet-premiere-bone-conduction-audio-for-secure-exercise-experiences-reviewed/"><u>Shokz OpenRun Pro Assessed by ZDNet: Premiere Bone Conduction Audio for Secure Exercise Experiences Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/twitch-replay-magic-stream-control-secrets-for-2024/"><u>Twitch Replay Magic Stream Control Secrets for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-smartphone-potential-as-windows-microphone/"><u>Unlocking Smartphone Potential as Windows Microphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-full-potential-of-your-wear-os-watch-with-5-proven-tips-by-zdnet-experts/"><u>Unlocking the Full Potential of Your Wear OS Watch with 5 Proven Tips by ZDNet Experts</u></a></li>
 </ul></div>
 

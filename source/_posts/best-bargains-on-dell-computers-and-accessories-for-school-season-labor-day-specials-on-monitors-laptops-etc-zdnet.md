@@ -1,7 +1,7 @@
 ---
 title: Best Bargains on Dell Computers & Accessories for School Season – Labor Day Specials on Monitors, Laptops, Etc. | ZDNet
-date: 2024-09-18 22:30:33
-updated: 2024-09-20 11:14:43
+date: 2024-12-04T20:08:06.514Z
+updated: 2024-12-07T02:12:50.070Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-step-by-step-guide-for-ios-users-jpgpng-to-pdf-transformation/"><u>[New] 2024 Approved Step-by-Step Guide for iOS Users JPG/PNG to PDF Transformation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-pathway-to-recognition-youtubers-guide-to-personal-brands/"><u>[New] 2024 Approved The Pathway to Recognition YouTubers' Guide to Personal Brands</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-bridge-gaps-between-tech-worlds-stream-and-save-youtube-from-various-devices-for-2024/"><u>[New] Bridge Gaps Between Tech Worlds Stream and Save YouTube From Various Devices for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-unveiling-of-picsart-complete-users-guide/"><u>[New] Full Unveiling of PicsArt Complete User's Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-perfected-techniques-for-high-quality-webp-to-jpg-conversion/"><u>[New] In 2024, Perfected Techniques for High-Quality WebP to JPG Conversion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-in-depth-training-on-googles-automatic-transcription-tool/"><u>2024 Approved In-Depth Training on Google's Automatic Transcription Tool</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-internet-spots-for-glossy-3d-text-effects/"><u>2024 Approved Premium Internet Spots for Glossy 3D Text Effects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-a-chromebook-and-a-laptop-find-the-perfect-match-for-your-tech-requirements/"><u>Choosing Between a Chromebook and a Laptop: Find the Perfect Match for Your Tech Requirements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/diy-vintage-video-preservation-transforming-your-vhs-collection-onto-dvd-using-your-computer/"><u>DIY Vintage Video Preservation: Transforming Your VHS Collection Onto DVD Using Your Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-transition-converting-dvds-for-seamless-integration-into-your-home-media-hub/"><u>Effortless Transition: Converting DVDs for Seamless Integration Into Your Home Media Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-vpn-providers-of-2024-in-depth-reviews-and-comparisons-pcmag/"><u>Leading VPN Providers of 2024: In-Depth Reviews and Comparisons | PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-challenges-apple-with-revolutionary-next-gen-ai-chip-an-up-close-look-revealed-by-zdnet/"><u>Microsoft Challenges Apple with Revolutionary Next-Gen AI Chip: An Up-Close Look Revealed by ZDNET</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-avidemux-tutorial-how-to-crop-resize-and-enhance-your-videos/"><u>New In 2024, The Ultimate Avidemux Tutorial How to Crop, Resize, and Enhance Your Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-best-apples-magsafe-station-now-with-an-amazing-60-off-limited-time-sale-featured/"><u>Snag the Best Apple's MagSafe Station Now with an Amazing $60 Off - Limited Time Sale Featured !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/story-1-the-misunderstanding-of-signal-transmission/"><u>Story 1: The Misunderstanding of Signal Transmission</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-linux-laptop-picks-comprehensive-reviews-by-tech-experts-gizmodo/"><u>Top-Ranking Linux Laptop Picks - Comprehensive Reviews by Tech Experts | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-bargains-on-high-performance-laptops-this-fall-season-october-2-cuyote-zdnet-exclusives/"><u>Ultimate Guide: Bargains on High-Performance Laptops This Fall Season (October 2 Cuyote) - ZDNET Exclusives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-an-exceptional-laptop-with-stunning-visuals-and-impressive-adaptability-for-every-need/"><u>ZDNet Reviews an Exceptional Laptop with Stunning Visuals and Impressive Adaptability for Every Need</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-unveils-how-to-buy-cutting-edge-augmented-reality-laptop-with-giant-100-inch-display-eliminating-the-need-for-a-separate-monitor/"><u>ZDNet Unveils How to Buy Cutting-Edge Augmented Reality Laptop with Giant 100-Inch Display, Eliminating the Need for a Separate Monitor!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Transformation of Workplace Gadgets for Thriving in an AI-Driven World | Insights
-date: 2024-11-21T18:49:00.083Z
-updated: 2024-11-27T18:45:24.710Z
+date: 2024-12-04T20:00:42.362Z
+updated: 2024-12-07T03:19:28.033Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,22 +134,22 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-propel-your-workflow-final-cut-pros-must-have-tools/"><u>[New] Propel Your Workflow Final Cut Pro’s Must-Have Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-ultimate-list-best-video-making-for-ios-android-users/"><u>[Updated] 2024 Approved The Ultimate List Best Video-Making For iOS, Android Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beware-of-invasive-pc-repair-workers-snooping-on-personal-data-recent-study-warns-zdnet/"><u>Beware of Invasive PC Repair Workers Snooping on Personal Data, Recent Study Warns | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/building-blocks-of-tomorrow-how-dells-innovative-luna-laptop-disassembles-for-a-customizable-experience-the-next-big-thing-in-computing/"><u>Building Blocks of Tomorrow: How Dell's Innovative Luna Laptop Disassembles for a Customizable Experience - The Next Big Thing in Computing?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-body-stream-dilemma-decoded-seven-remedies-for-smooth-operations/"><u>ChatGPT’s Body Stream Dilemma Decoded: Seven Remedies for Smooth Operations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exceptional-display-quality-at-an-unbeatable-price-discover-this-fantastic-portable-laptop-on-zdnet/"><u>Exceptional Display Quality at an Unbeatable Price: Discover This Fantastic, Portable Laptop on ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-infinix-zero-5g-2023-turbo-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Infinix Zero 5G 2023 Turbo via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-guided-pathway-for-large-file-exchange-in-apple-ecosystem/"><u>In 2024, Guided Pathway for Large File Exchange in Apple Ecosystem</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-s24-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy S24 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-v29e-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo V29e</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-laptops-lifespan-with-easy-steps-to-turn-on-google-chromes-energy-saver-mode-a-must-read-guide/"><u>Maximize Your Laptop's Lifespan with Easy Steps to Turn On Google Chrome's Energy Saver Mode: A Must-Read Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mega-discount-on-high-performance-gaming-pcs-up-to-57-savings-on-gigabyte-aero-16-techsavvy/"><u>Mega Discount on High-Performance Gaming PCs - Up to 57% Savings on Gigabyte Aero 16 | TechSavvy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-msodll-file-missing-issues/"><u>Solutions for Resolving 'Mso.dll File Missing' Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-october-prime-day-offer-metas-latest-512gb-quest-3-top-choice-for-vr-enthusiasts-still-in-stock-techspot/"><u>Unbeatable October Prime Day Offer: Meta's Latest 512GB Quest 3 - Top Choice for VR Enthusiasts! (Still In Stock) | TechSpot</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-the-revolutionary-lg-gram-pro-17-a-featherlight-powerhouse-perfect-for-prime-day-deals-exclusive-review-by-zdnet/"><u>Unboxing the Revolutionary LG Gram Pro 17: A Featherlight Powerhouse Perfect for Prime Day Deals - Exclusive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-new-era-for-dells-xps-portfolio-enhanced-with-ai-functionality-while-maintaining-iconic-style-tech-insights-by-zdnet/"><u>Unveiling The New Era for Dell's XPS Portfolio: Enhanced with AI Functionality While Maintaining Iconic Style | Tech Insights by ZDNET</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-you-should-forgo-the-mic-feature-in-ps5s/"><u>Why You Should Forgo the Mic Feature in PS5s</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-master-the-art-of-technological-advancement-with-this-guide-for-2024/"><u>[New] Master the Art of Technological Advancement with This Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streaming-wars-the-ultimate-twitch-vs-youtube-battle/"><u>[Updated] Streaming Wars The Ultimate Twitch Vs. YouTube Battle</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-easily-change-avchd-videos-to-mp4-for-free-under-windows-10/"><u>How to Easily Change AVCHD Videos to MP4 for Free Under Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/important-questions-answered-is-chatgpt-suitable-for-your-mental-health-needs/"><u>Important Questions Answered: Is ChatGPT Suitable for Your Mental Health Needs?</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-call-of-duty-ww2-in-depth-analysis-and-fixes-for-error-4220/"><u>Mastering Call of Duty WW2: In-Depth Analysis and Fixes for Error 4220</u></a></li>
+<li><a href="https://video-capture.techidaily.com/quick-steps-to-convert-macs-image-file-types-for-2024/"><u>Quick Steps to Convert Mac's Image File Types for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-8-sites-with-easy-access-to-free-3d-text-psd-images/"><u>Top 8 Sites with Easy Access to Free 3D Text PSD Images</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-non-samsung-non-tcl-android-tablets-discover-the-best-alternatives/"><u>Top Recommended Non-Samsung, Non-TCL Android Tablets: Discover the Best Alternatives!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-six-strategies-for-refreshing-and-optimizing-your-gadgets-this-spring-insights-from-zdnet/"><u>Top Six Strategies for Refreshing and Optimizing Your Gadgets This Spring - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-tablet-addons-expert-picks-by-techadvisor/"><u>Top-Rated Tablet Addons : Expert Picks by TechAdvisor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-buying-a-notetaking-tablet-in-depth-analysis-and-ratings-pcmag/"><u>Ultimate Guide to Buying a Notetaking Tablet : In-Depth Analysis and Ratings | PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-sound-quality-discover-the-top-speaker-setup-that-outperforms-bose-and-polk/"><u>Unbelievable Sound Quality - Discover the Top Speaker Setup That Outperforms Bose and Polk</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unexpected-contender-the-top-tablet-for-movie-enthusiasts-from-an-unlikely-brand-zdnet-insights/"><u>Unexpected Contender: The Top Tablet for Movie Enthusiasts From an Unlikely Brand | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-fun-and-education-save-big-on-amazon-fire-kids-tablet-for-only-90-special-deal-alert-zdnet/"><u>Unlock Fun & Education: Save Big on Amazon Fire Kids Tablet for Only $90 – Special Deal Alert | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-at-apples-latest-product-launch-the-new-m4-ipad-pro-and-updated-ipad-air-with-enhanced-features-and-the-innovative-apple-pencil-pro/"><u>Unveiling at Apple’s Latest Product Launch: The New M4 iPad Pro & Updated iPad Air with Enhanced Features and the Innovative Apple Pencil Pro</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-compatible-nvme-driver-installation-free-download-and-guide-for-users/"><u>Windows-Compatible NVMe Driver Installation - Free Download & Guide for Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722089553304-worth-investing-in-auto-gpt-before-gpt-4-arrives-lets-compare/"><u>Worth Investing in Auto-GPT Before GPT-4 Arrives? Let's Compare</u></a></li>
 </ul></div>
 

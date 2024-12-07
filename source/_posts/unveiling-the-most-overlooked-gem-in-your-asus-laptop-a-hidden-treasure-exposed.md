@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Most Overlooked Gem in Your Asus Laptop: A Hidden Treasure Exposed"
-date: 2024-11-24T16:33:31.407Z
-updated: 2024-11-27T17:31:30.242Z
+date: 2024-12-04T18:59:04.474Z
+updated: 2024-12-07T02:13:38.928Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,24 +106,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-elite-sound-recording-tools-11-selection/"><u>[New] 2024 Approved Elite Sound Recording Tools - #11 Selection</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-comparative-analysis-luminances-hdr-prowess/"><u>[New] Comparative Analysis Luminance's HDR Prowess</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-strategies-boosting-creative-work-with-gpt/"><u>7 Strategies: Boosting Creative Work with GPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/acer-nitro-5-gaming-laptop-sale-secure-savings-of-up-to-250-now-zdnet/"><u>Acer Nitro 5 Gaming Laptop Sale - Secure Savings of Up To $250 Now! | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/alienware-aurora-r13-gamers-bargain-slash-your-cost-by-350-today-with-this-exclusive-offer/"><u>Alienware Aurora R13 Gamer's Bargain - Slash Your Cost by $350 Today with This Exclusive Offer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-fortnites-restrictions-fix-the-you-are-not-allowed-to-play/"><u>Bypassing Fortnite's Restrictions: Fix the 'You Are Not Allowed to Play'</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cyber-monday-alert-snag-an-hp-pavilion-laptop-for-half-the-price-only-450-this-year-zdnet/"><u>Cyber Monday Alert: Snag an HP Pavilion Laptop for Half the Price - Only $450 This Year! | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-revolutionary-self-rotating-notebook-unveiled-at-ifa-2024-a-game-changer-for-mobile-workstations-techradar/"><u>Experiencing Lenovo's Revolutionary Self-Rotating Notebook Unveiled at IFA 2024: A Game-Changer for Mobile Workstations? | TechRadar</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-secure-and-spacious-our-compilation-of-best-20-free-cloud-services/"><u>In 2024, Secure & Spacious Our Compilation of Best 20 Free Cloud Services</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-t2x-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo T2x 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-nubia-z50s-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nubia Z50S Pro FRP Bypass</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-formula-1-2021-on-your-pc-techniques-to-avoid-disruptive-crashes-and-play-smoothly/"><u>Mastering Formula 1 2021 on Your PC: Techniques to Avoid Disruptive Crashes & Play Smoothly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/office-workhorse-laptop-guide-discover-top-brands-beyond-dell-and-lenovo-for-your-needs/"><u>Office Workhorse Laptop Guide: Discover Top Brands Beyond Dell and Lenovo for Your Needs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sale-alert-grab-the-discounted-8tb-samsung-t5-nvme-ssd-from-amazon-post-prime-day-save-36/"><u>Sale Alert: Grab the Discounted 8TB Samsung T5 NVMe SSD From Amazon Post-Prime Day – Save 36%!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-9-key-considerations-before-investing-in-a-dashboard-recorder/"><u>The Ultimate Guide: 9 Key Considerations Before Investing in a Dashboard Recorder</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-october-2024-pc-and-laptop-discounts-unbeatable-savings-ahead-of-black-friday-techradar/"><u>Top October 2024 PC & Laptop Discounts: Unbeatable Savings Ahead of Black Friday | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-work-travel-tablet-a-non-microsoft-non-lenovo-recommendation-from-a-seasoned-reviewer/"><u>Top-Rated Work Travel Tablet: A Non-Microsoft, Non-Lenovo Recommendation From a Seasoned Reviewer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-beginners-choice-of-linux-distributions-thoroughly-evaluated-and-ranked-with-expert-reviews/"><u>Ultimate Beginner's Choice of Linux Distributions: Thoroughly Evaluated & Ranked with Expert Reviews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-8-cameras-transforming-online-broadcasting/"><u>[Updated] Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smartphones-and-beyond-the-leading-vr-headsets/"><u>[Updated] Smartphones and Beyond The Leading VR Headsets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-revolutionize-viewing-experience-the-best-yt-reaction-methods/"><u>2024 Approved Revolutionize Viewing Experience The Best YT Reaction Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-cprm/"><u>最新版・DVD-CPRMコピー方法を解明する！</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-magic-in-home-lighting-a-budget-friendly-alternative-to-philips-hue/"><u>Affordable Magic in Home Lighting - A Budget-Friendly Alternative to Philips Hue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-media-experience-the-nanoleaf-4d-exclusive-80-cyber-monday-offer/"><u>Elevate Your Media Experience: The Nanoleaf 4D - Exclusive $80 Cyber Monday Offer!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-guide-to-2023s-best-smart-plug-gadgets-featured-on-zdnet/"><u>Explore the Ultimate Guide to 2023'S Best Smart Plug Gadgets, Featured on ZDNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-to-view-performances-film-cast-permissions/"><u>Free-to-View Performances Film Cast Permissions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-your-viewing-experience-enjoy-philips-hue-integration-with-your-samsung-tv-for-just-3month-exclusive-guide-on-zdnet/"><u>Illuminate Your Viewing Experience: Enjoy Philips Hue Integration with Your Samsung TV for Just $3/Month - Exclusive Guide on ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-next-gen-key-smartwatch-opens-your-mac/"><u>In 2024, Next-Gen Key Smartwatch Opens Your Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-lighting-deal-alert-get-stunning-personalized-govee-neon-lights-at-a-whopping-30-off-full-guide-and-reviews-cnet/"><u>Labor Day Lighting Deal Alert: Get Stunning, Personalized Govee Neon Lights at a Whopping 30% Off! Full Guide and Reviews | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-exclusive-guide-to-personalized-govee-neon-light-discounts-save-big/"><u>Labor Day Sale: Exclusive Guide to Personalized Govee Neon Light Discounts – Save Big!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-5-budget-friendly-methods-for-live-feed-recordings/"><u>Top 5 Budget-Friendly Methods for Live Feed Recordings</u></a></li>
 </ul></div>
 

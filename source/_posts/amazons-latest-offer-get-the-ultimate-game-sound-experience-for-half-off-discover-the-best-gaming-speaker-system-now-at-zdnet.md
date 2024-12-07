@@ -1,7 +1,7 @@
 ---
 title: Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.
-date: 2024-11-25T17:06:56.680Z
-updated: 2024-11-27T17:47:34.437Z
+date: 2024-12-01T23:22:38.839Z
+updated: 2024-12-06T18:06:35.365Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,14 +128,16 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-djis-aerial-fleet-standard-aviators-professional-pilots-4k-pros/"><u>[New] 2024 Approved DJI's Aerial Fleet Standard Aviators, Professional Pilots, 4K Pros</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-optimal-downloaders-your-guide-to-superior-4k-content/"><u>[New] Optimal Downloaders Your Guide to Superior 4K Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-a-revolutionary-12-port-thunderbolt-dock-designed-to-empower-windows-pcs/"><u>Discover the Hidden Gem: A Revolutionary 12-Port Thunderbolt Dock Designed to Empower Windows PCs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-compelling-best-buy-discounts-in-june-2024-insider-tips/"><u>Discover the Most Compelling Best Buy Discounts in June 2024 - Insider Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-money-saving-offers-before-prime-day-2024-insights-from-zdnet/"><u>Essential Money-Saving Offers Before Prime Day 2024: Insights From ZDNet</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-capturing-the-world-from-anywhere-9-must-follow-steps/"><u>In 2024, Capturing the World From Anywhere 9 Must-Follow Steps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-experts-pathway-to-purchasing-an-immaculate-4k-display-for-2024/"><u>The Expert's Pathway to Purchasing an Immaculate 4K Display for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-durable-notebooks-of-2024-expert-picks-revealed-by-zdnet/"><u>Top Durable Notebooks of 2024: Expert Picks Revealed by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-official-status-your-blueprint-for-successful-verification-on-x/"><u>Unlocking Official Status: Your Blueprint for Successful Verification on X</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-master-your-youtube-thumbnail-size-and-ratio/"><u>[Updated] Master Your YouTube Thumbnail Size & Ratio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-video-wins-essential-ideas-for-vloggers/"><u>[Updated] Quick Video Wins Essential Ideas for Vloggers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-concept-to-creation-in-seconds-the-astonishing-capabilities-of-ai-in-modern-robotics-design-zdnet/"><u>From Concept to Creation in Seconds: The Astonishing Capabilities of AI in Modern Robotics Design | ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-your-trusty-old-ipad-falling-short-in-the-modern-tech-world/"><u>Is Your Trusty Old iPad Falling Short in the Modern Tech World?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/justification-why-choosing-an-ipad-makes-sense-financially/"><u>Justification: Why Choosing an iPad Makes Sense Financially</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-self-cleaning-robot-vacuum-now-equipped-with-baseboard-wiping-feature-zdnet/"><u>Revolutionary Self-Cleaning Robot Vacuum: Now Equipped with Baseboard Wiping Feature | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-8-essential-concerns-surrounding-the-use-of-chatgpt-by-openai/"><u>The 8 Essential Concerns Surrounding the Use of ChatGPT by OpenAI</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-split-between-panoramic-and-virtual-realities/"><u>The Split Between Panoramic & Virtual Realities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-smart-home-gadgets-comprehensive-testing-and-reviews-by-experts-techradar/"><u>Top Rated Smart Home Gadgets : Comprehensive Testing & Reviews by Experts | TechRadar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/trust-trail-witnessed-by-true-buyers/"><u>Trust Trail: Witnessed by True Buyers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-upgrade-how-the-new-two-in-one-robot-vacuum-outperforms-its-predecessor-a-comprehensive-review-by-zdnet/"><u>Unveiling the Latest Upgrade: How the New Two-in-One Robot Vacuum Outperforms Its Predecessor – A Comprehensive Review by ZDNet</u></a></li>
 </ul></div>
 

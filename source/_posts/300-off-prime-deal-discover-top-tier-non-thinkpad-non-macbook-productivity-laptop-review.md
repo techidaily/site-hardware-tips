@@ -1,7 +1,7 @@
 ---
 title: "$300 Off Prime Deal: Discover Top-Tier Non-ThinkPad, Non-MacBook Productivity Laptop Review"
-date: 2024-11-22T16:24:50.778Z
-updated: 2024-11-27T17:29:48.575Z
+date: 2024-12-02T19:22:43.678Z
+updated: 2024-12-06T22:42:03.994Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Amazon's October Prime Day event has officially ended, but many laptops are stil
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,16 +146,21 @@ All things considered, the [sale price of $989](https://www.awin1.com/awclick.ph
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-syncing-your-youtube-watchlist-with-instagram-feed/"><u>[New] In 2024, Syncing Your YouTube Watchlist with Instagram Feed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-your-devices-speed-with-this-all-in-one-fast-charger-and-usbhdmi-hub-latest-review-by-zdnet/"><u>Boost Your Device's Speed with This All-in-One Fast Charger and USB/HDMI Hub - Latest Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-enduring-performance-and-stunning-visuals-with-one-of-the-most-durable-laptops-reviewed-on-zdnet/"><u>Experience Enduring Performance & Stunning Visuals with One of the Most Durable Laptops Reviewed on ZDNet</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/exploring-the-sky-satellite-internets-advantages-with-starlink/"><u>Exploring the Sky - Satellite Internet's Advantages with Starlink</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hyperx-cloud-gaming-headset-microphone-issues-step-by-step-solutions/"><u>Fixing HyperX Cloud Gaming Headset Microphone Issues: Step-by-Step Solutions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-honor-magic-vs-2-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Honor Magic Vs 2 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-traditional-to-split-transforming-productivity-in-a-week-using-an-ergonomic-keyboard-featured/"><u>From Traditional to Split: Transforming Productivity in a Week Using an Ergonomic Keyboard | Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-enduring-performance-from-a-discounted-laptop-backup-battery-quality-lasts-years-and-price-drops-now-zdnet/"><u>Get Enduring Performance From a Discounted Laptop Backup Battery - Quality Lasts Years and Price Drops Now | ZDNET</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-gt-neo-5-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-oppo-find-x7-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Find X7 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-walmart-savings-in-july-2024-exclusive-offers-spotted-by-zdnet/"><u>Top Walmart Savings in July 2024: Exclusive Offers Spotted by ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-quick-youtube-revenue-assessments-available/"><u>[New] In 2024, Quick YouTube Revenue Assessments Available</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastery-of-memes-how-to-download-twitters-animated-images-for-2024/"><u>[New] Mastery of Memes How to Download Twitter's Animated Images for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-discover-snapchats-artistic-side-with-anime-inspired-effects/"><u>[Updated] 2024 Approved Discover Snapchat’s Artistic Side with Anime-Inspired Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-monetize-your-youtube-shorts-simple-steps/"><u>[Updated] 2024 Approved How to Monetize Your YouTube Shorts Simple Steps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleash-creativity-on-screen-discover-the-best-reactions-for-2024/"><u>[Updated] Unleash Creativity on Screen Discover the Best Reactions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-modern-motion-perception-technologies/"><u>2024 Approved Understanding Modern Motion Perception Technologies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-guide-syncing-and-watching-films-with-subtitles-directly-from-your-television/"><u>Easy Guide: Syncing and Watching Films with Subtitles Directly From Your Television</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-itel-p55plus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Itel P55+ to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-aid-to-recover-googles-nonresponsive-windows-share-app/"><u>Quick Aid to Recover Google's Nonresponsive Windows Share App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-great-reshuffle-on-linkedin-a-deep-dive-into-green-skills-sustainable-jobs-and-overlooked-pitfalls-expert-commentary-from-zdnet/"><u>The 'Great Reshuffle' On LinkedIn: A Deep Dive Into Green Skills, Sustainable Jobs and Overlooked Pitfalls | Expert Commentary From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-case-for-backing-ai-and-clean-energy-in-singapore-funding-the-path-to-decarbonization/"><u>The Case for Backing AI & Clean Energy in Singapore: Funding the Path to Decarbonization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essentials-of-right-to-repair-laws-and-their-significance-for-everyday-users-digitalwise-blog/"><u>The Essentials of Right-to-Repair Laws & Their Significance for Everyday Users | DigitalWise Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essentials-of-the-right-to-repair-movement-how-it-affects-consumers-and-why-its-crucial/"><u>The Essentials of the Right-to-Repair Movement: How It Affects Consumers and Why It's Crucial.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-battling-snowstorms-in-cleveland-discover-the-ultimate-solution-with-an-innovative-electric-snow-blower/"><u>Tired of Battling Snowstorms in Cleveland? Discover the Ultimate Solution with an Innovative Electric Snow Blower</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-a-comprehensive-guide-by-zdnet/"><u>Top 5 Eco-Friendly Smartphones : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-solar-power-banks-comprehensive-review-techradar/"><u>Top-Rated Portable Solar Power Banks : Comprehensive Review - TechRadar</u></a></li>
 </ul></div>
 

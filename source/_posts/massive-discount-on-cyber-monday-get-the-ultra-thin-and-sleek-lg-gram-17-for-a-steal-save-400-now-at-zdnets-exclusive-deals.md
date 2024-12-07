@@ -1,7 +1,7 @@
 ---
 title: "Massive Discount on Cyber Monday: Get the Ultra-Thin and Sleek LG Gram 17 for a Steal - Save $400 Now at ZDNet's Exclusive Deals!"
-date: 2024-11-23T16:36:40.774Z
-updated: 2024-11-27T16:06:22.690Z
+date: 2024-12-03T16:19:16.817Z
+updated: 2024-12-06T21:37:42.665Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,24 +128,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-new-era-of-creativity-pinpointing-the-best-10-budget-friendly-video-art-communities-on-youtube/"><u>[New] 2024 Approved A New Era of Creativity Pinpointing the Best 10 Budget-Friendly Video Art Communities on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-buzzing-phrase-builder-suite-for-2024/"><u>[New] Buzzing Phrase Builder Suite for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-entirety-summary-a-deep-dive-into-googles-podcast-application/"><u>[New] Entirety Summary A Deep Dive Into Google's Podcast Application</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capture-every-moment-essential-ways-for-google-meet-recordings/"><u>[Updated] Capture Every Moment Essential Ways for Google Meet Recordings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-top-framework-chromebook-rated-as-ultimate-fixability-and-longevity-champion-insights/"><u>Comprehensive Guide: Top Framework Chromebook Rated as Ultimate Fixability & Longevity Champion - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-get-the-8tb-samsung-ssd-for-9400-less-at-a-36-markdown-hot-savings-alert/"><u>Don't Miss Out: Get the 8TB Samsung SSD for $9,400 Less at a 36% Markdown – Hot Savings Alert !</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-this-file-has-no-app-windows-issue/"><u>Eliminating 'This File Has No App' Windows Issue</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-to-scoring-fantastic-laptop-deals-during-october-2024-amazon-prime-day-tips-and-reviews/"><u>Exclusive Guide to Scoring Fantastic Laptop Deals During October 2024 Amazon Prime Day - Tips & Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-2024-offers-at-best-buy-limited-time-tech-news/"><u>Exclusive October Prime Day 2024 Offers at Best Buy - Limited Time! | Tech News</u></a></li>
-<li><a href="https://article-posts.techidaily.com/haptic-feedback-and-vr-for-medicine/"><u>Haptic Feedback and VR for Medicine</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/holiday-tech-guide-find-the-best-deals-on-apples-dells-and-hps-exclusive-offers/"><u>Holiday Tech Guide: Find the Best Deals on Apples, Dells, and HPs - Exclusive Offers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a23-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A23 5G Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/make-every-instagram-story-a-visual-feast-multiply-your-images-for-2024/"><u>Make Every Instagram Story a Visual Feast Multiply Your Images for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sale-alert-grab-the-deal-on-a-discounted-8tb-samsung-t5-ssd-post-prime-day-up-to-36-off-zdnet/"><u>Sale Alert: Grab the Deal on a Discounted 8TB Samsung T5 SSD Post-Prime Day - Up To 36% Off! - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-for-gamers-intel-arc-powered-pcs-comes-with-valuable-game-collection-worth-more-than-450-zdnet-insights/"><u>Score Big Savings for Gamers! Intel Arc-Powered PCs Comes With Valuable Game Collection Worth More Than $450 | ZDNet Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-stutter-issues-ensure-a-seamless-gaming-experience-with-modern-warfare-on-pc/"><u>Solve Stutter Issues: Ensure a Seamless Gaming Experience with Modern Warfare on PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-high-performance-laptops-for-video-creation-in-depth-analysis-and-ratings-cnet-expert-picks/"><u>Ultimate List of High-Performance Laptops for Video Creation: In-Depth Analysis & Ratings - CNET Expert Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-powerhouse-performance-for-less-secure-your-new-hp-victus-15-laptop-today-for-a-low-price-of-515-with-this-special-deal-at-best-buy-on-prime-day/"><u>Unleash Powerhouse Performance for Less: Secure Your New HP Victus 15 Laptop Today for a Low Price of $515 with This Special Deal at Best Buy on Prime Day</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-meme-madness-twitters-funniest-video-threads-for-2024/"><u>[New] Meme Madness Twitter's Funniest Video Threads for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-cutting-edge-platforms-where-gif-becomes-professional-video/"><u>2024 Approved Cutting-Edge Platforms Where GIF Becomes Professional Video</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-devices-functionality-a-step-by-step-tutorial-on-incorporating-additional-ports-in-macbook-and-ipad-pro/"><u>Boost Your Device's Functionality: A Step-by-Step Tutorial on Incorporating Additional Ports in MacBook and iPad Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-smartwatch-a-comprehensive-guide-comparing-apple-watch-se-with-series-7-insights-for-your-purchase-decision-zdnet-in-depth-analysis/"><u>Choosing the Right Smartwatch: A Comprehensive Guide Comparing Apple Watch SE with Series 7 - Insights for Your Purchase Decision | ZDNet In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-workout-game-with-top-garmin-athletic-smartwatches-insights-from-zdnet/"><u>Elevate Your Workout Game with Top Garmin Athletic Smartwatches - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-athletic-watches-of-2ebrty-2024-expertly-assessed-and-critiqued-featured-on-zdnet/"><u>Elite Athletic Watches of 2Ebrty 2024: Expertly Assessed and Critiqued - Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enabling-apple-watchs-fall-alert-feature-a-comprehensive-guide-on-functionality-and-benefits-tech-insights/"><u>Enabling Apple Watch's Fall Alert Feature: A Comprehensive Guide on Functionality & Benefits | Tech Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/enjoy-a-smooth-gameplay-in-remnant-from-the-ashes-no-more-crashes/"><u>Enjoy a Smooth Gameplay in 'Remnant: From the Ashes - No More Crashes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-xs-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone XS and iPad Without Apple ID | Stellar</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-guide-to-stop-motion-on-instagram-from-concept-to-viral-sensation/"><u>In 2024, The Ultimate Guide to Stop Motion on Instagram From Concept to Viral Sensation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-elite-montblanc-wear-os-smartwatch-at-1300-a-game-changer-for-luxury-timepieces-find-out-on-zdnet/"><u>Is the Elite Montblanc Wear OS Smartwatch at $1,300 a Game Changer for Luxury Timepieces? Find Out on ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-power-management-easy-updates-to-enhance-device-functionality/"><u>Lenovo Power Management: Easy Updates to Enhance Device Functionality</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-kid-friendly-video-editors-10-fun-and-easy-to-use-apps/"><u>New 2024 Approved Kid-Friendly Video Editors 10 Fun and Easy-to-Use Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/swayed-by-three-stellar-features-why-im-now-a-believer-in-the-apple-watch-series-10/"><u>Swayed by Three Stellar Features - Why I'm Now a Believer in the Apple Watch Series 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-ultimate-gaming-performance-2024s-leading-laptops-from-razor-acer-msi-and-others-zdnet-comparison/"><u>Top Picks for Ultimate Gaming Performance: 2024'S Leading Laptops From Razor, Acer, MSI & Others - ZDNet Comparison</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-premium-android-watches-comprehensive-reviews-by-industry-pros-gadgetzone/"><u>Ultimate Guide to Premium Android Watches: Comprehensive Reviews by Industry Pros | GadgetZone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-apple-watch-8-surprising-success-with-less-sophisticated-sensors-than-samsung-exclusive-review-on-zdnet/"><u>Unveiling The Apple Watch 8: Surprising Success with Less Sophisticated Sensors Than Samsung | Exclusive Review on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-changes-apple-set-to-enhance-budget-friendly-watch-se-exciting-updates-await-zdnet/"><u>Upcoming Changes: Apple Set to Enhance Budget-Friendly Watch SE - Exciting Updates Await! [ZDNet]</u></a></li>
 </ul></div>
 

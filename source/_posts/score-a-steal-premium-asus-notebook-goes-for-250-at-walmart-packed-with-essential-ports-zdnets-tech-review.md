@@ -1,7 +1,7 @@
 ---
 title: "Score a Steal: Premium ASUS Notebook Goes for $250 at Walmart, Packed with Essential Ports | ZDNet's Tech Review"
-date: 2024-11-20T18:38:28.597Z
-updated: 2024-11-27T16:34:42.239Z
+date: 2024-12-05T19:20:38.896Z
+updated: 2024-12-06T21:44:42.749Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,18 +87,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-a-comprehensive-guide-to-azure-speech-to-text-implementation/"><u>[New] 2024 Approved A Comprehensive Guide to Azure Speech-to-Text Implementation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-photos-mastering-time-lapse-with-samsung-mobile/"><u>2024 Approved Transform Your Photos Mastering Time Lapse with Samsung Mobile</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-insights-through-cookiebot-integration-on-your-website/"><u>Enhanced Insights Through Cookiebot Integration on Your Website</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-audio-bliss-save-on-the-top-ranking-speaker-system-now-for-just-100-less-available-exclusively-at-best-buy-says-zdnet/"><u>Experience Unmatched Audio Bliss: Save on the Top-Ranking Speaker System Now for Just $100 Less - Available Exclusively at Best Buy, Says ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixed-how-to-tackle-endless-loading-screens-in-red-dead-redemption-ii/"><u>Fixed! How to Tackle Endless Loading Screens in Red Dead Redemption II</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-nokia-c02-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Nokia C02 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-catch-the-half-yearly-lenovo-discount-up-to-1500-exclusive-deals-for-thinkpad-enthusiasts-zdnet/"><u>Huge Savings Alert: Catch the Half-Yearly Lenovo Discount Up to $1,500 - Exclusive Deals for ThinkPad Enthusiasts! [ZDNet]</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-storm-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Storm 5G Phone that is Locked?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-biz-cloud-vault-services/"><u>In 2024, Premium Biz Cloud Vault Services</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-multipurpose-charger-with-usb-and-hdmi-insights/"><u>The Ultimate Multipurpose Charger with USB and HDMI: Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-fascinating-copilotplus-devices-unveiled-at-the-2024-ifa-showcase-featuring-a-special-selection-for-gamers-insights/"><u>Top 5 Fascinating Copilot+ Devices Unveiled at the 2024 IFA Showcase, Featuring a Special Selection for Gamers - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-durable-laptop-picks-insiders-guide-by-zdnet/"><u>Top Durable Laptop Picks - Insider's Guide by ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-going-from-end-to-start-the-instagram-video-technique/"><u>[New] Going From End to Start The Instagram Video Technique</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-elevate-every-moment-mastering-snapchat-photo-edits/"><u>[New] In 2024, Elevate Every Moment Mastering Snapchat Photo Edits</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-8-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 8 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-makeup-trends-to-try-now/"><u>In 2024, Makeup Trends to Try Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rethink-kids-tech-with-our-advanced-tablet-exceptional-performance-meets-limited-time-sale-discover-now-on-zdnet/"><u>Rethink Kids' Tech with Our Advanced Tablet: Exceptional Performance Meets Limited Time Sale - Discover Now on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviewing-the-ultimate-sturdy-windows-tablet-for-creative-professionals-with-built-in-pen-support-cnet/"><u>Reviewing the Ultimate Sturdy Windows Tablet for Creative Professionals with Built-In Pen Support | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-hidden-gem-a-top-tier-affordable-tablet-for-labor-day-specials-zdnets-inside-look/"><u>Samsung’s Hidden Gem: A Top-Tier, Affordable Tablet for Labor Day Specials - ZDNet's Inside Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scoring-a-bargain-snag-your-own-amazon-fire-tablet-at-just-50-after-labor-day-insider-details-on-the-incredible-trade-in-offer/"><u>Scoring a Bargain: Snag Your Own Amazon Fire Tablet at Just $50 After Labor Day - Insider Details on the Incredible Trade-In Offer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-childs-next-big-toy-grab-the-amazon-kids-fire-tablet-at-just-90-in-our-exclusive-offer/"><u>Secure Your Child's Next Big Toy: Grab the Amazon Kids Fire Tablet at Just $90 in Our Exclusive Offer!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-ultimate-bargain-ipads-on-sale-for-only-199-this-amazon-labor-day-event/"><u>Snag the Ultimate Bargain: IPads on Sale for Only $199 This Amazon Labor Day Event</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-your-new-ipad-at-a-steal-only-199-at-the-exclusive-amazon-labor-day-event-insights-from-zdnet/"><u>Snag Your New iPad at a Steal: Only $199 at the Exclusive Amazon Labor Day Event - Insights From ZDNet!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/symptomatic-vs-asymptomatic/"><u>Symptomatic vs Asymptomatic</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722683417521-top-ranking-evaluation-of-microsoft-surface-laptop-4-exceptional-quality/"><u>Top Ranking Evaluation of Microsoft Surface Laptop 4 - Exceptional Quality</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transformar-tu-particion-mbr-al-formato-mas-moderno-gpt-con-windows-11-guia-sencilla/"><u>Transformar Tu Partición MBR Al Formato Más Moderno GPT Con Windows 11 - Guía Sencilla</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-start-menu-issues-discover-quick-solutions/"><u>Windows 11 Start Menu Issues? Discover Quick Solutions!</u></a></li>
 </ul></div>
 

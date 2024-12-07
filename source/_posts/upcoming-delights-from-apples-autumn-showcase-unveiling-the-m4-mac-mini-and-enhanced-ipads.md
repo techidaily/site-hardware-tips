@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Delights From Apple's Autumn Showcase: Unveiling the M4 Mac Mini & Enhanced iPads!"
-date: 2024-11-20T17:17:19.551Z
-updated: 2024-11-27T19:50:43.840Z
+date: 2024-12-05T02:59:01.740Z
+updated: 2024-12-06T20:37:27.356Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,21 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-enhanced-team-collaboration-with-slack-plus-filmora-timelines-for-2024/"><u>[New] Enhanced Team Collaboration with Slack + Filmora Timelines for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-leveraging-engagement-for-higher-facebook-profile-visibility-for-2024/"><u>[New] Leveraging Engagement for Higher Facebook Profile Visibility for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-introduction-to-soft-starting-sounds-in-audition/"><u>[Updated] In 2024, Introduction to Soft-Starting Sounds in Audition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-snicker-showcase-top-10-tweets-for-2024/"><u>[Updated] Snicker Showcase Top 10 Tweets for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/acer-laptop-stuns-reviewers-exceptional-combination-of-oled-display-and-top-tier-webcam-revealed-tech-analysis-on-zdnet/"><u>Acer Laptop Stuns Reviewers: Exceptional Combination of OLED Display & Top-Tier Webcam Revealed | Tech Analysis on ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/audio-mastery-the-top-8-professional-editing-software-solutions-for-2024/"><u>Audio Mastery The Top 8 Professional Editing Software Solutions for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dell-xps-16-powerhouse-takes-on-apples-macbook-pro-a-comprehensive-reveiw-by-zdnet/"><u>Dell XPS 16 Powerhouse Takes on Apple's MacBook Pro - A Comprehensive Reveiw by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hurry-final-shot-at-epic-savings-for-gamers-on-oct24-prime-day-deals-save-up-to-1000/"><u>Hurry! Final Shot at Epic Savings for Gamers on Oct'24 Prime Day Deals - Save up to $1,000</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-loop-and-relish-youtube-videos-double-the-delight-on-tv/"><u>In 2024, Loop & Relish YouTube Videos, Double the Delight on Tv</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-air-face-off-choosing-between-the-m3-and-m2-models-a-detailed-comparison-techradar/"><u>MacBook Air Face-Off: Choosing Between the M3 and M2 Models - A Detailed Comparison | TechRadar</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-challenges-in-nba-2k24-a-step-by-step-guide-to-fixing-error-code-727e66ac-insights-for-gamers/"><u>Overcoming Challenges in NBA 2K24: A Step-by-Step Guide to Fixing Error Code 727E66ac - Insights for Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-college-laptops-professional-testing-and-comprehensive-reviews-techadvisor/"><u>Top Rated College Laptops: Professional Testing & Comprehensive Reviews | TechAdvisor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-m2-ssds-comprehensive-testing-and-reviews-by-tech-experts-find-the-perfect-choice/"><u>Top-Rated M.2 SSDs : Comprehensive Testing & Reviews by Tech Experts – Find the Perfect Choice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-touch-screen-laptops-thoroughly-evaluated-by-experts-see-our-comprehensive-reviews/"><u>Top-Rated Touch Screen Laptops: Thoroughly Evaluated by Experts - See Our Comprehensive Reviews!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-stop-motion-animation-tools-for-mac-and-pc/"><u>Updated 2024 Approved Best Stop Motion Animation Tools for Mac and PC</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/virtualdub-2023-a-review-of-its-features-pricing-and-alternatives-for-2024/"><u>Virtualdub 2023 A Review of Its Features, Pricing, and Alternatives for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-boosting-your-competitive-edge-with-custom-vocalization-techniques-in-free-fire-gaming-free-solution-included/"><u>[New] 2024 Approved Boosting Your Competitive Edge with Custom Vocalization Techniques in Free Fire Gaming (Free Solution Included)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>[New] GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps/"><u>[Updated] 2024 Approved Swiftly Enhanced Facebook Videos Best Extensions, Hacks, and Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-13-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on 13 Ultra?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-15-plus-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 15 Plus With or Without Password</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essentials-of-quality-tvs-top-5-with-peak-colors/"><u>The Essentials of Quality TVs Top 5 with Peak Colors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-solar-powered-lanterns-a-comprehensive-review-by-zdnet/"><u>Top 5 Solar-Powered Lanterns : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-solar-powered-outdoor-lamps-your-ultimate-guide-gizmocentral/"><u>Top 5 Solar-Powered Outdoor Lamps : Your Ultimate Guide | GizmoCentral</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-compact-sunlight-power-banks-2023-edition-techradar/"><u>Top-Rated Compact Sunlight Power Banks - 2023 Edition | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-iphone-14-pro-and-pro-max-protectors-the-definitive-guide-techreview/"><u>Top-Rated iPhone 14 Pro & Pro Max Protectors: The Definitive Guide | TechReview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-solar-power-banks-a-comprehensive-review-by-zdnet/"><u>Top-Rated Portable Solar Power Banks - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/track-your-carbon-footprint-reduction-with-ubers-latest-emission-tracker-feature-learn-more-about-the-impact-of-green-transportation-zdnet/"><u>Track Your Carbon Footprint Reduction with Uber's Latest Emission Tracker Feature - Learn More About the Impact of Green Transportation | ZDNet</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-nonfunctional-mactubes-effective-solutions/"><u>Troubleshooting Nonfunctional MacTubes: Effective Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-note-12-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi Note 12 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

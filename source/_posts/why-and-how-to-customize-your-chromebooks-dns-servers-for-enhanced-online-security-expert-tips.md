@@ -1,7 +1,7 @@
 ---
 title: Why and How to Customize Your Chromebook's DNS Servers for Enhanced Online Security - Expert Tips
-date: 2024-11-21T17:02:57.003Z
-updated: 2024-11-27T19:39:49.545Z
+date: 2024-12-03T01:25:37.604Z
+updated: 2024-12-06T21:32:56.342Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,18 +120,22 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/amazons-october-prime-sale-shines-with-25-off-score-the-latest-apple-m3-macbook-air-for-less/"><u>Amazon's October Prime Sale Shines with 25% Off: Score the Latest Apple M3 MacBook Air for Less!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/braving-the-frost-why-computer-manufacturers-struggle-may-spell-opportunity-for-consumers-tech-analysis-on-zdnet/"><u>Braving the Frost: Why Computer Manufacturers' Struggle May Spell Opportunity for Consumers | Tech Analysis on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-17-graphics-tools-for-creative-professionals/"><u>Discover the Leading 17 Graphics Tools for Creative Professionals</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-13c-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi 13C 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-the-airwaves-in-depth-evaluation-of-the-retro-inspired-nulaxy-km18-fm-transmitter/"><u>Mastering the Airwaves: In-Depth Evaluation of the Retro-Inspired Nulaxy KM18 FM Transmitter</u></a></li>
-<li><a href="https://games-able.techidaily.com/pairing-playstation-devices-for-enhanced-switch-gaming/"><u>Pairing PlayStation Devices for Enhanced Switch Gaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prime-day-savings-alert-unveiling-an-exceptional-lenovo-and-dell-alternative-the-ultimate-guide-to-choosing-a-budget-friendly-2-in-1-laptop-experts/"><u>Prime Day Savings Alert! Unveiling an Exceptional, Lenovo & Dell Alternative: The Ultimate Guide to Choosing a Budget-Friendly 2-in-1 Laptop Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-apples-m2-macbook-air-for-an-unbelievable-price-of-749-on-amazons-prime-day-in-october-according-to-zdnet-reviews/"><u>Snag the Apple's M2 MacBook Air for an Unbelievable Price of $749 on Amazon’s Prime Day in October, According to ZDNET Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-laptops-reviewed-by-experts-at-zdnet-discover-the-solid-multi-purpose-machine-earning-accolades-among-users-and-critics-alike/"><u>Top-Performing Laptops Reviewed by Experts at ZDNet: Discover the Solid, Multi-Purpose Machine Earning Accolades Among Users and Critics Alike</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-consequences-of-apples-legal-battle-with-doj-for-iphone-owners-and-ios-developer-community-tech-analysis-by-zdnet/"><u>Understanding the Consequences of Apple's Legal Battle with DOJ for iPhone Owners and iOS Developer Community | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/undiscovered-gem-the-top-2023-dual-function-device-with-a-surprising-office-perk-reviews-by-tech-experts/"><u>Undiscovered Gem: The Top 2023 Dual-Function Device with a Surprising Office Perk, Reviews by Tech Experts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-tv-off-switch-guide-for-2024/"><u>[New] Instagram TV Off Switch Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-become-an-expert-tutorial-for-making-gifs-into-desirable-whatsapp-and-telegram-stickers/"><u>[Updated] Become an Expert Tutorial for Making GIFs Into Desirable WhatsApp & Telegram Stickers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-visual-guide-to-building-believable-characters-in-virtual-space/"><u>2024 Approved A Visual Guide to Building Believable Characters in Virtual Space</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-whats-ideal-for-you-understanding-vimeo-membership-tiers/"><u>2024 Approved What's Ideal for You? Understanding Vimeo Membership Tiers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-polar-grit-x-pro-titan-analysis-elite-performance-tracking-with-advanced-features-zdnet/"><u>Comprehensive Polar Grit X Pro Titan Analysis: Elite Performance Tracking with Advanced Features - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-integration-mastering-the-quick-addition-of-your-surface-dock-driver-today/"><u>Effortless Integration: Mastering the Quick Addition of Your Surface Dock Driver Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-discover-the-top-6-benefits-of-owning-an-apple-watch-learn-more-on-zdnet/"><u>Expert Insights: Discover the Top 6 Benefits of Owning an Apple Watch - Learn More on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fitbit-sense-2-vs-versa-4-a-comprehensive-health-tracker-face-off-with-a-spotlight-on-gps-limitations-expert-findings-from-zdnet/"><u>Fitbit Sense 2 vs Versa 4: A Comprehensive Health Tracker Face-Off with a Spotlight on GPS Limitations - Expert Findings From ZDNET</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/identifying-the-need-for-a-new-graphics-card-expert-tips-from-yl-computing/"><u>Identifying the Need for a New Graphics Card: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-huawei-watch-gt-3-pro-opulent-features-but-limited-market-attraction/"><u>In-Depth Analysis of Huawei Watch GT 3 Pro - Opulent Features but Limited Market Attraction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-your-rest-with-apple-watch-series-8-a-step-by-step-guide-to-better-sleep/"><u>Maximizing Your Rest with Apple Watch Series 8: A Step-by-Step Guide to Better Sleep</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-pop-7-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Pop 7 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selecting-carbon-neutral-accessories-for-your-apple-watch-series-10-to-minimize-environmental-impact-zdnet-insights/"><u>Selecting Carbon-Neutral Accessories for Your Apple Watch Series 10 to Minimize Environmental Impact | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-samsung-non-google-android-smartwatch-review-discovering-excellence-beyond-tech-giants-a-closer-look/"><u>Top Non-Samsung, Non-Google Android Smartwatch Review: Discovering Excellence Beyond Tech Giants - A Closer Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-android-wearables-get-your-deal-before-labor-day-ends-exclusive-insights-from-zdnet/"><u>Top-Ranking Android Wearables: Get Your Deal Before Labor Day Ends - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-fps-levels-in-delayed-footage/"><u>Ultimate FPS Levels in Delayed Footage</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-tone-it-up-5-easy-to-use-online-generators-no-charge/"><u>Updated Tone It Up 5 Easy-to-Use Online Generators No Charge</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Picks From CES 2024: The Ultimate Laptop Guide - ZDNet"
-date: 2024-11-24T19:23:52.920Z
-updated: 2024-11-27T16:49:43.087Z
+date: 2024-11-30T01:55:10.722Z
+updated: 2024-12-06T22:41:30.347Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -111,10 +115,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C617c5761-e71f-4bb6-b846-2e2bc6108bec%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Walmart laptop deals
 
 [ASUS Vivobook 16-inch laptop deal for $499 (save $200) $499 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-16-PC-Laptop-Intel-Core-i7-1255U-16GB-512GB-Win-11-Home-Black-F1605ZA-WS74%2F5023779612&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -126,10 +126,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [HP Chromebook, 11.6-inch, 4GB RAM, 32GB deal for $100 (save $118) $100 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-Laptop-Computer%2F592161882&subId1=zd-__COM_CLICK_ID__-dtp)
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Buy laptop deals
 
@@ -153,10 +149,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -170,7 +162,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What specifications do I need to look for in a laptop?
@@ -182,13 +174,13 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -196,9 +188,17 @@ When you're considering your budget for a new laptop, you have to consider what 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -257,24 +257,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-ensuring-profit-tracking-on-your-channel/"><u>[New] In 2024, Ensuring Profit Tracking on Your Channel</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-are-there-legal-constraints-in-capturing-online-video-screenshots/"><u>2024 Approved Are There Legal Constraints in Capturing Online Video Screenshots?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-efficient-screen-capture-strategies-for-effective-facetime-recording/"><u>2024 Approved Efficient Screen-Capture Strategies for Effective FaceTime Recording</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-new-drop-compact-desktop-speakers-immersive-audio-experience-below-130-discover-more-on-zdnet/"><u>Affordable New Drop Compact Desktop Speakers: Immersive Audio Experience Below $130 - Discover More on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipated-shifts-in-tech-the-impact-of-eus-unified-charger-mandate-on-devices-like-iphones-zdnet/"><u>Anticipated Shifts in Tech: The Impact of EU's Unified Charger Mandate on Devices Like iPhones | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-your-productivity-transform-any-laptop-into-a-powerhouse-pc-using-this-innovative-low-profile-dock-gadgetmasters-insights/"><u>Boost Your Productivity: Transform Any Laptop Into a Powerhouse PC Using This Innovative, Low-Profile Dock - GadgetMasters Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/critical-security-fixes-for-intel-amd-cpus-implemented-in-latest-linux-distribution-update/"><u>Critical Security Fixes for Intel, AMD CPUs Implemented in Latest Linux Distribution Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diy-windows-audio-to-text-application-using-autohotkey-and-whisper-libraries/"><u>DIY Window's Audio to Text Application Using AutoHotkey & Whisper Libraries</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/driving-engagement-the-art-of-building-a-buzz-for-2024/"><u>Driving Engagement The Art of Building a Buzz for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expanding-your-workspace-on-an-m1-mac-mini-a-simple-guide-to-dual-thunderbolt-monitors-zdnet/"><u>Expanding Your Workspace on an M1 Mac Mini - A Simple Guide to Dual Thunderbolt Monitors | ZDNET</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-a34-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy A34 5G Is Unlocked</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/impact-of-eus-unified-charger-mandate-on-future-devices-including-iphones-insights-from-zdnet/"><u>Impact of EU's Unified Charger Mandate on Future Devices, Including iPhones - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-complete-analysis-hero4-black-system/"><u>In 2024, Complete Analysis Hero4 Black System</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-advice-to-recover-missing-thumbnails-from-videos/"><u>In 2024, Expert Advice to Recover Missing Thumbnails From Videos</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-workspace-with-the-affordable-portable-monitor-that-outshines-a-pricier-dell-computer/"><u>Revolutionize Your Workspace with the Affordable Portable Monitor That Outshines a Pricier Dell Computer!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-the-ultimate-guide-to-the-best-portable-photo-printers-features-and-reviews-zdnet/"><u>Top Picks: The Ultimate Guide to the Best Portable Photo Printers - Features & Reviews [ZDNet]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-and-testing-the-innocn-27c1u-monitor-brightness-and-speed-assessed-by-zdnet-experts/"><u>Unboxing and Testing the Innocn 27C1U Monitor: Brightness & Speed Assessed by ZDNet Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-display-hiccups-in-windows-11-system/"><u>Understanding and Fixing Display Hiccups in Windows 11 System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-seamless-streaming-expert-use-of-netflixs-pip-feature/"><u>[New] 2024 Approved Seamless Streaming Expert Use of Netflix's PIP Feature</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-rev-up-your-social-media-impact-essential-hashtags-for-high-likes-and-follows-for-2024/"><u>[New] Rev Up Your Social Media Impact Essential Hashtags for High Likes and Follows for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adaptive3d-joins-desktop-metals-portfolio-company-projects-q1-earnings-at-113m-aims-for-100m-insights-from-zdnet/"><u>Adaptive3D Joins Desktop Metal's Portfolio; Company Projects Q1 Earnings at $11.3M, Aims for $100M - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androids-ultimate-capture-secrets-revealed-for-2024/"><u>Android's Ultimate Capture Secrets Revealed for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-update-resolves-major-flaws-in-over-150-hp-printer-models-by-printing-shellz-zdnet/"><u>Comprehensive Update Resolves Major Flaws in Over 150 HP Printer Models by Printing Shellz | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/consistent-performance-achieved-how-hp-solved-its-printer-woes-according-to-zdnet-exclusive/"><u>Consistent Performance Achieved: How HP Solved Its Printer Woes, According to ZDNet Exclusive</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/deconstructing-the-microsoft-surface-go-a-comprehensive-look-at-its-price-point-and-ambiguous-persona/"><u>Deconstructing the Microsoft Surface Go - A Comprehensive Look at Its Price-Point and Ambiguous Persona</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-the-future-of-work-with-hps-integrated-solutions-for-hybrid-office-environments/"><u>Embracing the Future of Work with HP's Integrated Solutions for Hybrid Office Environments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-fortunes-in-additive-manufacturing-key-players-set-to-thrive-amidst-ongoing-supply-chain-crisis-industry-analysis/"><u>Future Fortunes in Additive Manufacturing: Key Players Set to Thrive Amidst Ongoing Supply Chain Crisis | Industry Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/highlighting-hps-robust-fourth-quarter-achievements-and-optimistic-first-quarter-predictions-silicon-insights/"><u>Highlighting HP's Robust Fourth Quarter Achievements and Optimistic First-Quarter Predictions | Silicon Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-immerse-viewers-advanced-tiktok-visuals/"><u>In 2024, Immerse Viewers Advanced TikTok Visuals</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-video-timing-what-you-need-to-know-for-2024/"><u>Instagram Video Timing What You Need To Know for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterclass-picks-professional-webcam-stands-for-2024/"><u>Masterclass Picks Professional Webcam Stands for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overheating-if-a-device-overheats-it-may-shut-down-to-protect-itself-from-damage-allowing-it-to-cool-before-restarting-can-sometimes-fix-a-black-screen-prob444/"><u>Overheating: If a Device Overheats, It May Shut Down to Protect Itself From Damage. Allowing It to Cool Before Restarting Can Sometimes Fix a Black Screen Problem.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-printer-models-expert-reviews-by-zdnet/"><u>Top Rated Printer Models : Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-success-in-royal-match-essential-techniques-revealed/"><u>Unlocking Success in ‘Royal Match’: Essential Techniques Revealed</u></a></li>
 </ul></div>
 

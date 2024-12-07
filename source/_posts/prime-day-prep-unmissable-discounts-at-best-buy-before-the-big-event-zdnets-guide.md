@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Prep: Unmissable Discounts at Best Buy Before the Big Event - ZDNet's Guide"
-date: 2024-11-25T17:21:24.902Z
-updated: 2024-11-27T19:56:09.931Z
+date: 2024-12-04T02:26:10.125Z
+updated: 2024-12-06T21:34:00.761Z
 tags:
   - laptops
 categories:
@@ -22,12 +22,16 @@ Whether you want to get an early head start on your holiday gift list or treat y
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Our favorite 48-Hour Flash Sale deals at Best Buy
 
 ![galaxy-s24-ultra-2024](https://www.zdnet.com/a/img/resize/01cdf104edbcfc2824d2887471bb859bd9300f88/2024/07/12/02e3a444-211a-4951-92d4-e777f151db7e/galaxy-s24-ultra-2024.jpg?auto=webp&width=1280)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Amazon/ZDNET
@@ -38,10 +42,6 @@ Amazon/ZDNET
 * [Samsung Galaxy Book 4 Edge Copiot+ PC for $799 (save $550)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book4-edge-copilot-pc-14-amoled-touch-screen-laptop-snapdragon-x-elite-3-4ghz-16gb-memory-512gb-storage-sapphire-blue%2F6583789.p%3FskuId%3D6583789&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20last%20chance&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-09%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Optimized for AI, the Copilot+ laptop features a 14-inch touch-screen AMOLED display, 16GB of RAM, and 512GB of storage.
 * [Jabra Elite 10 Earbuds for $169 (save $80)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjabra-elite-10-dolby-atmos-true-wireless-in-ear-heaphones-titanium-black%2F6553257.p%3FskuId%3D6553257&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20last%20chance&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-09%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Jabra's latest wireless earbuds have a comfortable and secure fit, good noise cancellation, and excellent sound quality.
 * [Govee Hexa Wall Light Panels for $99 (save $30)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgovee-hexa-wall-light-panels-7-panels-multi%2F6503425.p%3FskuId%3D6503425&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20last%20chance&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-09%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Create a personalized lighting display with inspiration for your gaming room, living room, bedroom, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy deals under $30
 
@@ -56,7 +56,7 @@ Best Buy/ZDNET
 **Also:** [**Best Prime Day deals under $25**](https://www.zdnet.com/article/best-prime-day-deals-under-25-2024-10-07/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals
@@ -87,10 +87,6 @@ Samsung/ZDNET
 
 **Also: [Best Prime Day TV deals](https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-tv-deals-10-07-2024/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy appliance deals
 
 LG/ZDNET
@@ -103,11 +99,19 @@ LG/ZDNET
 
 **Also:** [**Best Prime Day kitchen deals**](https://www.zdnet.com/home-and-office/kitchen-household/best-early-prime-day-kitchen-deals-2024-10-07/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### Will Best Buy have sales during Prime Day?
 
 Yes. Best Buy's 48-Hour Flash Sale runs Oct. 8-9, the same days as Amazon's October Prime Big Deal Days event. These deals reflect some of the best discounts on items in a range of categories.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Does Best Buy price match Amazon Prime Day deals?
 
@@ -118,10 +122,6 @@ No. Best Buy's Price Match Guarantee does not apply to discounts that are exclus
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -189,20 +189,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/a-top-contender-in-versatility-the-highly-praised-laptop-that-impresses-with-its-robust-hardware-techspot/"><u>A Top Contender in Versatility: The Highly Praised Laptop That Impresses With Its Robust Hardware | TechSpot</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-setting-up-custom-dns-settings-on-a-chromebook-and-its-benefits-insights/"><u>Guide: Setting Up Custom DNS Settings on a Chromebook & Its Benefits - Insights</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 15 Pro</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-microsoft-surface-go-a-low-cost-tablet-struggling-with-identity/"><u>In-Depth Look at Microsoft Surface Go: A Low-Cost Tablet Struggling with Identity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-310-processor-shows-dual-p-cores-still-got-game-a-look-at-its-geekbench-performance/"><u>Intel 310 Processor Shows Dual-P Cores Still Got Game: A Look at Its Geekbench Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-game-changing-thunderbolt-dock-for-pcs-unveiled-with-a-remarkable-windows-friendly-power-trick-insights-from-zdnet/"><u>Introducing the Game-Changing Thunderbolt Dock for PCs: Unveiled With a Remarkable Windows-Friendly Power Trick | Insights From ZDNET</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/legitimate-wonderfox-dvd-ripping-solution-secure-your-copy-without-the-crack/"><u>Legitimate WonderFox DVD Ripping Solution – Secure Your Copy Without the Crack</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/power-all-your-gadgets-with-this-high-capacity-140w-portable-battery-always-charged-and-ready/"><u>Power All Your Gadgets with This High-Capacity 140W Portable Battery - Always Charged and Ready!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/powered-by-cookiebot/"><u>Powered by Cookiebot</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-photoshop-scratch-disk-capacity-issue/"><u>Resolving the Photoshop Scratch Disk Capacity Issue</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seamless-transition-between-classes-and-leisure-expert-zdnet-review-of-the-best-college-friendly-2-in-1-laptops/"><u>Seamless Transition Between Classes and Leisure: Expert ZDNet Review of the Best College-Friendly 2-in-1 Laptops</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/still-a-steal-the-top-lenovo-notebook-ideal-for-the-modern-mix-of-remote-and-office-work-save-thousands/"><u>Still a Steal: The Top Lenovo Notebook Ideal for the Modern Mix of Remote and Office Work - Save Thousands!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oppo-reno-11-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Oppo Reno 11 Pro 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-surprising-quality-and-smart-features-in-dells-most-affordable-laptop-an-expert-review-by-zdnet/"><u>Unveiling the Surprising Quality and Smart Features in Dell's Most Affordable Laptop - An Expert Review by ZDNET</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/uide-to-structuring-youtube-content-with-separate-chapters/"><u>[New] Guide to Structuring YouTube Content with Separate Chapters</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tep-by-step-tutorial-for-successful-youtube-video-submissions-for-2024/"><u>[New] Step-By-Step Tutorial for Successful YouTube Video Submissions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-drive-growth-with-these-top-10-innovative-igtv-videos/"><u>[Updated] In 2024, Drive Growth with These Top 10 Innovative IGTV Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-saving-snaps-from-snapchat-on-camera-roll-a-guide/"><u>[Updated] Saving Snaps From Snapchat on Camera Roll – A Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-leading-telepresence-machines-reviewed-top-picks-and-buyers-guide-by-zdnet/"><u>2022'S Leading Telepresence Machines Reviewed: Top Picks & Buyer’s Guide by ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aimp-pro-streaming-enhancer-without-wmsp-for-2024/"><u>AIMP Pro Streaming Enhancer Without WMSP for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-and-the-future-of-domestic-ai-companions-what-you-need-to-know-according-to-zdnet/"><u>Apple and the Future of Domestic AI Companions: What You Need to Know, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/automated-assistants-takeover-how-robotic-staff-are-supporting-understaffed-eateries-the-impact-on-traditional-waiter-jobs/"><u>Automated Assistants Takeover: How Robotic Staff Are Supporting Understaffed Eateries - The Impact on Traditional Waiter Jobs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-accidentally-removed-messages-in-itunes-with-these-proven-techniques/"><u>Retrieve Accidentally Removed Messages in iTunes with These Proven Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-telepresence-bots-expert-picks-by-zdnet/"><u>Top 5 Telepresence Bots : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-smart-home-gadgets-in-2/"><u>Top Rated Smart Home Gadgets in 2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-2024-robot-mop-cleaners-in-depth-reviews-by-tech-experts-zdnet/"><u>Top-Rated 2024 Robot Mop Cleaners: In-Depth Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/tutorial-hati-hati-untuk-mengembalikan-undian-media-di-iphones-prosedur-lanjutan-terperinci/"><u>Tutorial Hati-Hati Untuk Mengembalikan Undian Media Di iPhones - Prosedur Lanjutan Terperinci!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-power-of-smart-cleaning-with-irobots-new-roomba-combos-j9plus-and-beyond-in-depth-review-for-home-automation-enthusiasts-zdnet-gadgets/"><u>Unlock the Power of Smart Cleaning with IRobot's New Roomba Combos: J9+ and Beyond | In-Depth Review for Home Automation Enthusiasts | ZDNET Gadgets</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-and-setup-steelseries-arctis-section-1-advanced-problem-on-gas-metal-arc-welding-gmaw-parameters/"><u>Update & Setup SteelSeries Arctis # Section 1: Advanced Problem on Gas Metal Arc Welding (GMAW) Parameters</u></a></li>
+<li><a href="https://windows11.techidaily.com/window-brightness-prodigies-a-list-of-premier-tools-for-multiscreeners/"><u>Window Brightness Prodigies: A List of Premier Tools for Multiscreeners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-guide-to-evaluating-robot-vacuums-in-depth-reviews-and-comparisons/"><u>ZDNet's Comprehensive Guide to Evaluating Robot Vacuums: In-Depth Reviews & Comparisons</u></a></li>
 </ul></div>
 

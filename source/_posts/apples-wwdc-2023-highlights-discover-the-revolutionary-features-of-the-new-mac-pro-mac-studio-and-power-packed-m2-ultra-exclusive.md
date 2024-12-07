@@ -1,7 +1,7 @@
 ---
 title: "Apple's WWDC 2023 Highlights: Discover the Revolutionary Features of the New Mac Pro, Mac Studio and Power-Packed M2 Ultra Exclusive"
-date: 2024-11-22T16:32:55.226Z
-updated: 2024-11-27T16:43:00.795Z
+date: 2024-12-04T18:27:44.979Z
+updated: 2024-12-06T18:06:49.060Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,20 +142,22 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-screen-to-streamer-effortlessly-reviewed/"><u>[New] Screen to Streamer, Effortlessly Reviewed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-demystifying-the-purpose-what-is-a-blue-image-on-facebook/"><u>[Updated] 2024 Approved Demystifying the Purpose What Is a Blue Image on Facebook?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-key-points-to-understand-tiktok-web-macos/"><u>[Updated] Key Points to Understand TikTok Web (macOS)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-amazon-prime-day-offers-of-2024-top-bargains-you-cant-miss-in-october-zdnet/"><u>Best Amazon Prime Day Offers of 2024: Top Bargains You Can't Miss in October - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/black-friday-blowout-save-big-with-this-deal-250-off-the-versatile-power-packed-dell-inspiron-16-inch-2-in-1-laptop/"><u>Black Friday Blowout! Save Big with This Deal: $250 Off the Versatile, Power-Packed Dell Inspiron 16-Inch 2-in-1 Laptop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-fix-for-kernelbasedll-problems-quick-results-guaranteed/"><u>Easy Fix for KernelBase.dll Problems: Quick Results Guaranteed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/game-changer-upgrade-to-an-epic-sound-adventure-for-your-console-or-pc-and-score-a-massive-150-discount-at-amazon-spotted-by-zdnet/"><u>Game Changer: Upgrade to an Epic Sound Adventure for Your Console or PC, and Score a Massive $150 Discount at Amazon - Spotted by ZDNET.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-an-extreme-bargain-snag-a-premium-512gb-m1-macbook-pro-for-less-than-ever-before-at-just-450-off-zdnet-deals/"><u>Get an Extreme Bargain: Snag a Premium 512GB M1 MacBook Pro for Less Than Ever Before at Just $450 Off | ZDNET Deals</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v30-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V30 ProFRP Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-outlook-issue-on-your-pc/"><u>Overcoming Outlook Issue on Your PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prime-time-savings-ultimate-discounts-before-prime-day-2024-explore-top-offers/"><u>Prime Time Savings: Ultimate Discounts Before Prime Day 2024 - Explore Top Offers!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-prime-day-bargains-on-video-games-what-to-buy-in-october-2024-zdnet/"><u>Top Prime Day Bargains on Video Games: What to Buy in October 2024 - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-best-buy-bargains-in-june-2024-find-your-next-purchase-on-zdnet/"><u>Top-Rated Best Buy Bargains in June 2024: Find Your Next Purchase on ZDNet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unboxing-the-efficient-apc-back-ups-be600m1-review-built-in-usb-charger-for-added-convenience/"><u>Unboxing the Efficient APC Back-UPS BE600M1 Review - Built-In USB Charger for Added Convenience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/uncovering-quantum-hdrs-core-principles/"><u>Uncovering Quantum HDR's Core Principles</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-instantaneous-google-collage-a-speedy-diy-method/"><u>[New] In 2024, Instantaneous Google Collage A Speedy DIY Method</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-beyond-the-surface-what-you-dont-know-about-stories/"><u>[Updated] Beyond the Surface What You Don't Know About Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-linkedin-luminaries-chatting-with-snapchat/"><u>2024 Approved LinkedIn Luminaries Chatting with Snapchat</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-high-end-weave-collection-in-favor-of-partnering-with-beats-for-new-case-series/"><u>Apple Discontinues High-End Weave Collection in Favor of Partnering with Beats for New Case Series</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-quick-guide-bypassing-edgenuity-courses-seamlessly/"><u>In 2024, Quick Guide Bypassing Edgenuity Courses Seamlessly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oppo-reno-10-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Oppo Reno 10 Pro 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-best-free-streaming-options-on-roku/"><u>Top 8 Best Free Streaming Options on Roku</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-value-gear-affordable-cameras-for-dynamic-sports/"><u>Top Value Gear Affordable Cameras for Dynamic Sports</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-tablet-reviews-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Tablet Reviews - Comprehensive Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-samsung-tablet-deal-uncovered-non-flagship-model-at-steep-discount-this-labor-day-insights-from-zdnet/"><u>Top-Rated Affordable Samsung Tablet Deal Uncovered: Non-Flagship Model at Steep Discount This Labor Day - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ipad-models-comprehensive-testing-and-reviews-by-pros-zdnet/"><u>Top-Rated iPad Models - Comprehensive Testing & Reviews by Pros | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-miniature-tablets-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Miniature Tablets - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-tablets-thorough-reviews-by-tech-experts-zdnet/"><u>Top-Rated Tablets : Thorough Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-audio-experience-exploring-the-best-non-bosenon-sonos-speakers-that-defy-expectations/"><u>Top-Tier Audio Experience: Exploring the Best Non-Bose/Non-Sonos Speakers That Defy Expectations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transitioning-from-traditional-to-digital-my-remarkable-experience-with-a-colored-e-ink-tablet-over-two-weeks/"><u>Transitioning From Traditional to Digital: My Remarkable Experience with a Colored E-Ink Tablet Over Two Weeks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-student-tablets-in-depth-testing-and-comparisons-from-industry-insiders-zdnet/"><u>Ultimate Guide to Student Tablets: In-Depth Testing & Comparisons From Industry Insiders | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-intelligence-at-home-how-home-assistant-elevates-smart-living/"><u>Unleashing Intelligence at Home: How Home Assistant Elevates Smart Living</u></a></li>
 </ul></div>
 

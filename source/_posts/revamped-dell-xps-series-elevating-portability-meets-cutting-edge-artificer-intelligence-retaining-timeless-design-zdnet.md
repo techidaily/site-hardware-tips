@@ -1,7 +1,7 @@
 ---
 title: "Revamped Dell XPS Series: Elevating Portability Meets Cutting-Edge Artificer Intelligence, Retaining Timeless Design | ZDNet"
-date: 2024-11-25T19:00:04.402Z
-updated: 2024-11-27T16:33:11.383Z
+date: 2024-11-30T23:59:43.140Z
+updated: 2024-12-07T00:38:08.303Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,24 +85,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-make-every-instagram-story-a-visual-feast-multiply-your-images/"><u>[New] In 2024, Make Every Instagram Story a Visual Feast Multiply Your Images</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-superior-recording-devices-face-camera-included/"><u>[Updated] In 2024, Superior Recording Devices - Face Camera Included</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726026971159-2024dvd/"><u>「2024年版DVD のハイクオリティーミュージック抽出 - シンプルな手順ガイド」</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-wins11-new-gaming-titles/"><u>2024 Approved Harness the Power of Wins11 New Gaming Titles</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/6-metaverse-examples-to-help-you-have-a-deep-insight-about-it/"><u>6 Metaverse Examples to Help You Have a Deep Insight About It</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cyber-week-sale-alert-prime-gaming-bargains-of-october-2024-highlighted-for-savvy-shoppers/"><u>Cyber Week Sale Alert: Prime Gaming Bargains of October 2024 Highlighted for Savvy Shoppers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-email-experience-with-the-release-of-thunderbird-52-from-mozilla/"><u>Enhance Your Email Experience with the Release of Thunderbird 52 From Mozilla</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-cyber-monday-offer-on-lenovo-chromebooks-for-just-79-dont-miss-out-limited-stock-available-insider-tips/"><u>Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available Insider Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-productivity-how-lenovos-innovative-dual-screen-laptop-enhanced-my-efficiency-zdnet-insights/"><u>Revolutionizing Productivity: How Lenovo's Innovative Dual-Screen Laptop Enhanced My Efficiency | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-the-day-with-our-ultimate-list-of-48-must-have-cyber-monday-gaming-offers-conquer-console-and-pc-sales-at-record-prices/"><u>Save the Day with Our Ultimate List of 48 Must-Have Cyber Monday Gaming Offers: Conquer Console & PC Sales at Record Prices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/snag-ultimate-savings-on-headphones-in-march-202amoon-exclusive-offers-curated/"><u>Snag Ultimate Savings on Headphones in March 202Amoon – Exclusive Offers Curated</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-recover-lost-data-on-faulty-usb-sticks-in-windows/"><u>Tactics to Recover Lost Data on Faulty USB Sticks in Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-lenovo-notebooks-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Lenovo Notebooks : Comprehensive Analysis by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-linux-os-options-for-newcomers-comprehensive-guide-by-seasoned-experts-insights/"><u>Top-Rated Linux OS Options for Newcomers: Comprehensive Guide by Seasoned Experts - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultra-light-acer-swift-edge-156-4k-oled-gaming-laptop-evaluation/"><u>Ultra-Light Acer Swift Edge 15.6 4K OLED Gaming Laptop Evaluation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-discover-the-best-ever-laptop-screen-quality-at-unbelievable-prices-tech-innovators-guide/"><u>Unbeatable Bargain Alert: Discover the Best-Ever Laptop Screen Quality at Unbelievable Prices | Tech Innovator's Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-peak-performance-while-working-from-home-with-hps-copilotplus-laptop-proven-results-by-zdnet/"><u>Unlocking Peak Performance While Working From Home with HP's Copilot+ Laptop | Proven Results by ZDNET</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outubes-monetization-a-deep-dive-for-2024/"><u>[New] YouTube's Monetization A Deep Dive for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unveil-your-world-in-wide-angle-iosandroid-photo-integration-on-social-media/"><u>[Updated] 2024 Approved Unveil Your World in Wide Angle IOS/Android Photo Integration on Social Media</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-guide-to-mastering-zoom-in-windows-10/"><u>2024 Approved The Ultimate Guide to Mastering Zoom in Windows 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-sony-2024-announcements-cutting-edge-news-and-inside-scoop-uncovered/"><u>All About Sony 2024: Announcements, Cutting-Edge News & Inside Scoop Uncovered</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-discover-the-ultimate-audio-experience-with-the-top-rated-speakers/"><u>Beyond Bose & Sonos: Discover the Ultimate Audio Experience with the Top-Rated Speakers!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-discovering-the-ultimate-speaker-system-for-a-transcendent-sound-journey-expert-insights-from-zdnet/"><u>Beyond Bose & Sonos: Discovering the Ultimate Speaker System for a Transcendent Sound Journey | Expert Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-the-ultimate-immersive-audio-experience-you-need-to-hear/"><u>Beyond Bose and Sonos: The Ultimate Immersive Audio Experience You Need to Hear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breach-exposed-over-15000-roku-accounts-vulnerable-immediate-action-advised-by-zdnet/"><u>Breach Exposed! Over 15,000 Roku Accounts Vulnerable | Immediate Action Advised by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-streaming-essentials-a-comprehensive-review-of-the-logitec-litra-beam-key-lights-pcmag/"><u>Budget-Friendly Streaming Essentials: A Comprehensive Review of the Logitec Litra Beam Key Lights | PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-why-this-samsung-projector-outshines-traditional-consoles-in-gaming-insights-by-zdnet/"><u>Discover Why This Samsung Projector Outshines Traditional Consoles in Gaming - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-superior-qled-technology-outside-the-samsung-and-lg-domains-a-comprehensive-review/"><u>Discovering Superior QLED Technology Outside the Samsung and LG Domains - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-listening-experience-how-this-non-bosenon-polk-speaker-set-is-revolutionizing-sound-quality/"><u>Elevate Your Listening Experience: How This Non-Bose/Non-Polk Speaker Set Is Revolutionizing Sound Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-images-leaked-discover-google-tv-streamer-a-revolutionary-step-up-from-the-classic-chromecast-digital-gadgets-buzz/"><u>Exclusive Images Leaked: Discover Google TV Streamer - A Revolutionary Step Up From the Classic Chromecast | Digital Gadgets Buzz</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-enable-end-task-option-in-windows-11-settings/"><u>Guide to Enable End Task Option in Windows 11 Settings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-itel-a60-by-fonelab-android-recover-video/"><u>How to recover old videos from your Itel A60</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-seamless-stories-from-the-past-accessing-older-fb-content-on-pcmobile/"><u>In 2024, Seamless Stories From The Past Accessing Older FB Content on PC/Mobile</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-simplified-mac-solution-audioplusscreen-capture/"><u>In 2024, Simplified Mac Solution Audio+Screen Capture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-for-transforming-fragments-into-lasting-memories-for-2024/"><u>The Ultimate Guide for Transforming Fragments Into Lasting Memories for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Pre-Black Friday Gaming Bargains: Exclusive Offers Available All October Long - ZDNet Insights"
-date: 2024-11-22T17:52:33.454Z
-updated: 2024-11-27T18:56:25.254Z
+date: 2024-11-30T00:01:51.802Z
+updated: 2024-12-06T21:49:59.834Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
@@ -107,10 +107,6 @@ ZDNET
 * [MSI Claw 512GB for $642 (save $108)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Claw-Gaming-Handheld-Thunderbolt%2Fdp%2FB0CXG3DBQV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc5d38d9c-5a11-4c52-9140-9dfe512747c8%7Cdtp&dtb=1): Built with an Intel Core Ultra 7 CPU, 16GB of RAM, a 512GB SSD, and a 7-inch display, the MSI Claw rivals the Steam Deck handheld gaming PC in power and performance.
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc5d38d9c-5a11-4c52-9140-9dfe512747c8%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -126,6 +122,10 @@ ZDNET
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 * [Corsair Void RGB Elite wireless gaming headset for $80 (save $30 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07X8SJ8HM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc5d38d9c-5a11-4c52-9140-9dfe512747c8%7Cdtp&dtb=1): With 7.1CH surround sound, an omnidirectional mic, and up to a 40-foot range, the Void RGB Elite gives you immersive game music and sound cues, clear chat, and freedom of movement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -187,10 +187,6 @@ Kyle Kucharski/ZDNET
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -227,7 +223,7 @@ Samsung/ZDNET
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -236,12 +232,16 @@ Samsung/ZDNET
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -313,16 +313,17 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-achieve-professional-results-with-simple-webcam-tech/"><u>[New] In 2024, Achieve Professional Results with Simple WebCam Tech</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-discovering-top-5-fluids-in-virtual-playgrounds/"><u>2024 Approved Discovering Top 5 Fluids in Virtual Playgrounds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bring-your-own-intelligence-byoai-overcoming-lock-in-barriers-for-user-freedom-and-technological-progress/"><u>Bring Your Own Intelligence (BYOAI): Overcoming Lock-In Barriers for User Freedom & Technological Progress</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-disk-read-windows-error-immediately/"><u>Fixing 'Disk Read' Windows Error Immediately</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/getting-started-with-raspberry-pi-a-beginners-guide-tips-from-zdnet/"><u>Getting Started with Raspberry Pi: A Beginner's Guide - Tips From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nokia-g42-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nokia G42 5G Phone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/is-obs-studio-or-fraps-your-ideal-choice-for-capturing-screens-for-2024/"><u>Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lg-shatters-record-by-outperforming-samsungs-operating-income-in-the-first-quarter-after-fourteen-years/"><u>LG Shatters Record by Outperforming Samsung's Operating Income in the First Quarter After Fourteen Years!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-developer-conference-unveiled-everything-you-need-to-know-about-the-event-and-live-coverage-options/"><u>Microsoft Developer Conference Unveiled: Everything You Need To Know About The Event & Live Coverage Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/non-gamers-rejoice-unbeatable-deal-on-32-curved-screen-only-230/"><u>Non-Gamers Rejoice: Unbeatable Deal on 32 Curved Screen - Only $230!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-erasing-your-artificial-intelligence-feature-in-snapchat-app/"><u>Step-by-Step Tutorial: Erasing Your Artificial Intelligence Feature in Snapchat App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-recording-your-display-essential-tips-for-effective-screen-capture/"><u>[New] Recording Your Display Essential Tips for Effective Screen Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-your-buzz-factor-with-these-3-dynamic-approaches-to-youtube-video-reactions-for-2024/"><u>[Updated] Boost Your Buzz Factor with These 3 Dynamic Approaches to YouTube Video Reactions for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-online-presence-with-captivating-haul-videos-for-2024/"><u>[Updated] Elevate Your Online Presence with Captivating Haul Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva/"><u>2024 Approved Removing Obstacles A Guide to Pristine Visual Backgrounds in Canva</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/expert-tips-for-capturing-and-saving-igtv-on-handhrani/"><u>Expert Tips for Capturing and Saving IGTV on Handhrani</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-video-editing-software-for-chrome-os-users/"><u>New 2024 Approved Best Video Editing Software for Chrome OS Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-integration-of-internal-ssds-via-usb-c-with-pcmac-a-step-by-step-guide/"><u>Seamless Integration of Internal SSDs via USB-C with PC/Mac - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-channel-company-analyst-predicts-steady-rise-in-personal-computer-shipments-with-over-15-increase-and-an-even-brighter-outlook-for-222-coverage-on-zdnet159/"><u>The Channel Company Analyst Predicts Steady Rise in Personal Computer Shipments with Over 15% Increase and an Even Brighter Outlook for 2^22 | Coverage on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ram-mods-ideal-memory-boosters-for-productivity-and-gaming-latest-reviews-on-zdnet/"><u>Top Ram Mods : Ideal Memory Boosters for Productivity & Gaming - Latest Reviews on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-performance-why-these-affordable-35-wireless-earbuds-are-a-steal-zdnet/"><u>Unbeatable Performance: Why These Affordable $35 Wireless Earbuds Are a Steal - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-error-code-0xc0000185-definition-and-troubleshooting-steps/"><u>Understanding Error Code 0xC0000185: Definition & Troubleshooting Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-the-leading-giant-displays-in-2t4/"><u>ZDNet's Ultimate Guide: The Leading Giant Displays in 2T4</u></a></li>
 </ul></div>
 

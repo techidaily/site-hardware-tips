@@ -1,7 +1,7 @@
 ---
 title: How LG's Cutting-Edge Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Portability, and Battery Life Insights
-date: 2024-11-22T17:56:39.979Z
-updated: 2024-11-27T16:27:22.638Z
+date: 2024-11-30T19:37:02.934Z
+updated: 2024-12-06T23:16:16.008Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,19 +114,22 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-fade-perfection-quick-tips-and-tricks/"><u>[New] 2024 Approved Fade Perfection Quick Tips and Tricks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-premium-mac-image-transformer/"><u>[New] 2024 Approved Premium Mac Image Transformer</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-inaugural-zooid-creations-ranked-for-2024/"><u>[Updated] Inaugural Zooid Creations Ranked for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-premium-laptop-risers-expert-picks-by-zdnet/"><u>2024'S Ultimate Guide to Premium Laptop Risers: Expert Picks by ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-11-non-itunes-tools-for-seamless-management-and-transfer-of-ios-information/"><u>Best 11 Non-iTunes Tools for Seamless Management and Transfer of iOS Information</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/can-you-afford-not-to-sign-up-for-youtube-tv/"><u>Can You Afford Not to Sign Up for YouTube TV?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-chromeoss-transformation-with-a-touch-of-windows-11-flair-in-recent-update-tech-insights/"><u>Exploring ChromeOS's Transformation with a Touch of Windows 11 Flair in Recent Update | Tech Insights</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-activate-stellar-data-recovery-for-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Activate Stellar Data Recovery for iPhone 6s Plus | Stellar</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-elevate-your-videography-top-tier-vimeo-tools/"><u>In 2024, Elevate Your Videography Top-Tier Vimeo Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-investment-in-sound-quality-ranked-list-of-excellent-no-cost-and-full-priced-podcast-editors/"><u>In 2024, The Investment in Sound Quality Ranked List of Excellent, No-Cost and Full-Priced Podcast Editors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/metas-quest-3-innovative-october-prime-deal-at-an-all-time-low-get-your-512gb-unit-now-exclusive-insights-and-tips/"><u>Meta's Quest 3 Innovative October Prime Deal at an All-Time Low: Get Your 512GB Unit Now! Exclusive Insights and Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-durable-laptop-with-stunning-display-reviewed-on-zdnet/"><u>Top-Performing Durable Laptop with Stunning Display Reviewed on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-discounts-during-the-hp-cyber-sale-secure-up-to-71-off-on-quality-monitors-and-laptops-shop-smart/"><u>Unbeatable Discounts During the HP Cyber Sale: Secure Up to 71% Off on Quality Monitors & Laptops | Shop Smart</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmatched-screen-quality-in-an-ultra-portable-laptop-at-great-discount-prices-exclusive-review/"><u>Unmatched Screen Quality in an Ultra-Portable Laptop at Great Discount Prices – Exclusive Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rafting-compelling-narratives-with-strategic-youtube-banners-for-2024/"><u>[New] Crafting Compelling Narratives with Strategic YouTube Banners for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-explore-top-10-no-cost-digital-photography-tools/"><u>2024 Approved Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/beat-the-blues-simple-m-audio-solutions/"><u>Beat the Blues: Simple M-Audio Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrate-the-holidaturdays-with-nanoleafs-premier-matter-certified-yuletide-luminaries-now-available/"><u>Celebrate the Holidaturdays with Nanoleaf's Premier Matter-Certified Yuletide Luminaries, Now Available!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/color-coding-success-with-amazon-echo-a-guide-to-staying-focused-in-your-wfh-space/"><u>Color Coding Success with Amazon Echo - A Guide to Staying Focused in Your WFH Space</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/first-ever-material-matters-certified-nanoleaf-seasonal-lighting-showcase-hits-shelves/"><u>First Ever Material Matters Certified Nanoleaf Seasonal Lighting Showcase Hits Shelves!</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-imovie-photo-slideshow-with-music-in-2024/"><u>How to Make a iMovie Photo Slideshow with Music, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/o-make-youtube-animated-subscribe-button-easily-in-filmora-for-2024/"><u>How to Make YouTube Animated Subscribe Button Easily in Filmora for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-your-space-like-never-before-a-cost-effective-solution-competing-with-philips-hues-enchantment/"><u>Illuminate Your Space Like Never Before: A Cost-Effective Solution Competing with Philips Hue's Enchantment</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-transferring-tunes-across-platforms/"><u>In 2024, The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leviton-upgrades-home-automation-with-new-product-lineup-spotlighting-premier-first-matter-exterior-plug-insights-for-tech-enthusiasts-zdnet-news/"><u>Leviton Upgrades Home Automation with New Product Lineup, Spotlighting Premier First Matter Exterior Plug – Insights for Tech Enthusiasts | ZDNET News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/real-time-color-adaptation-how-govees-latest-ai-lights-enhance-monitor-ambiance/"><u>Real-Time Color Adaptation: How Govee’s Latest AI Lights Enhance Monitor Ambiance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stream-pro-lighting-solutions-ranked-by-experts-the-ultimate-guide-cnet/"><u>Stream Pro Lighting Solutions Ranked by Experts: The Ultimate Guide | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-smart-home-gadgets-in-depth-review-by-zdnet/"><u>Top Affordable Smart Home Gadgets: In-Depth Review by ZDNet</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-audio-dial-achieving-smooth-volume-ramp-ups/"><u>Updated Audio Dial Achieving Smooth Volume Ramp-Ups</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "7-Device Charging Capacity: Unmatched 140W Portable Battery Backup That Lasts Longer Between Charges - Spotlight on Tech"
-date: 2024-11-24T16:10:53.379Z
-updated: 2024-11-27T19:14:44.945Z
+date: 2024-12-03T00:57:47.050Z
+updated: 2024-12-06T17:54:22.890Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -81,7 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,17 +130,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-exploring-versatility-in-vsco-imagery/"><u>[Updated] 2024 Approved Exploring Versatility in VSCO Imagery</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-hash-monitors-for-facebook-twitter-instagram-for-2024/"><u>[Updated] Essential Hash Monitors for Facebook, Twitter, Instagram for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-excellent-typography-trick-sets/"><u>[Updated] Excellent Typography Trick Sets</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-win-over-with-these-8-best-free-high-quality-3d-video-apps/"><u>[Updated] In 2024, Win Over with These 8 Best Free, High-Quality 3D Video Apps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-windows-8-video-editor-pro/"><u>[Updated] Windows 8 Video Editor Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-12-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi 12 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-game-changing-thunderbolt-dock-for-pcs-unveiled-with-a-remarkable-windows-friendly-power-trick-insights/"><u>Introducing the Game-Changing Thunderbolt Dock for PCs: Unveiled With a Remarkable Windows-Friendly Power Trick | Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-discount-save-1100-on-the-latest-gaming-and-content-creation-laptops-featured/"><u>Massive Discount: Save $1100 on the Latest Gaming & Content Creation Laptops - Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-savings-on-apple-products-for-july-2eb4-exclusive-offers-on-iphones-apple-watches-and-more-insider-deals-from-zdnet/"><u>Top Savings on Apple Products for July 2Eb4: Exclusive Offers on iPhones, Apple Watches, and More | Insider Deals From ZDNET</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/ultimate-gif-hack-top-twitter-tool-2024/"><u>Ultimate GIF Hack Top Twitter Tool 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-latest-energy-efficient-options-in-google-chrome-your-ultimate-guide/"><u>Unlocking the Latest Energy-Efficient Options in Google Chrome - Your Ultimate Guide!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-ig-videos-building-a-powerful-focused-marketing-plan-for-2024/"><u>[New] Mastering IG Videos Building a Powerful, Focused Marketing Plan for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-charting-your-course-for-social-media-mastery/"><u>2024 Approved Charting Your Course for Social Media Mastery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-vlog-editing-essentials-utilizing-jump-cuts-rightly/"><u>2024 Approved Vlog Editing Essentials Utilizing Jump Cuts Rightly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-comprehensive-one-month-review-of-the-1900-cleaning-bot-is-investing-in-high-end-automation-justified/"><u>A Comprehensive One-Month Review of the $1,900 Cleaning Bot: Is Investing in High-End Automation Justified?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/advanced-bootstrapvueargon-pro-dashboard-enhanced-vuejs-and-bootstrapvue-administration-panel-by-creative-tim/"><u>Advanced BootstrapVue/Argon Pro Dashboard - Enhanced Vue.js & BootstrapVue Administration Panel by Creative Tim</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazed-by-the-future-meet-the-new-privacy-protecting-robots-insights-from-zdnet/"><u>Amazed by the Future: Meet the New Privacy-Protecting Robots - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-roborock-s8-pro-ultra-assessment-the-all-purpose-vacuum-marvel-revealed/"><u>Comprehensive Roborock S8 Pro Ultra Assessment - The All-Purpose Vacuum Marvel Revealed!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/discover-the-best-html5-video-players-around/"><u>Discover the Best HTML5 Video Players Around</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-future-of-clean-shark-innovates-ultimate-no-touch-vacuuming-experience-expert-insights-from-zdnet/"><u>Discover the Future of Clean: Shark Innovates Ultimate No-Touch Vacuuming Experience | Expert Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-advice-on-robot-vacuums-what-you-need-to-know-before-making-your-selection-techsavvybargains/"><u>Essential Advice on Robot Vacuums - What You Need to Know Before Making Your Selection | TechSavvyBargains</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultimate-grass-cutting-joy-with-our-remote-controlled-lawn-mower-a-revelation-from-tech-review-at-zdnet/"><u>Experience Ultimate Grass-Cutting Joy with Our Remote-Controlled Lawn Mower - A Revelation From Tech Review at ZDNet!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-your-data-transfer-download-lexar-usb-drivers-now/"><u>Fast Track Your Data Transfer: Download Lexar USB Drivers Now</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fix-slowly-loading-youtube-content-on-mobile/"><u>In 2024, Fix Slowly Loading YouTube Content on Mobile</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-xsplits-edge-in-livestraning-meet-obs-counterpart/"><u>In 2024, XSplit's Edge in Livestraning? Meet OBS Counterpart</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pet-scans-measure-metabolic-activity-which-is-higher-in-active-tumor-cells-compared-to-non-active-or-necrotic-tissue/"><u>PET Scans Measure Metabolic Activity, Which Is Higher in Active Tumor Cells Compared to Non-Active or Necrotic Tissue.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-11-unmissable-last-minute-seasonal-bargains-festive-shopping-guide-zdnet-insights/"><u>Top 11 Unmissable Last-Minute Seasonal Bargains – Festive Shopping Guide | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-telepresence-bots-revolutionizing-remote-interaction-insights-from-zdnet/"><u>Top 5 Telepresence Bots Revolutionizing Remote Interaction - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-robot-mop-cleaners-of-2024-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Robot Mop Cleaners of 2024: Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/troubleshoot-tweets-on-chrome-not-loading/"><u>Troubleshoot Tweets on Chrome Not Loading</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Huge Discount Alert for Asus 14-Inch 15.6 Inch ROG Zephyrus Laptop – Slash Rs. 55,000 From the Original Price!
-date: 2024-11-20T18:47:52.878Z
-updated: 2024-11-27T17:31:56.005Z
+date: 2024-12-02T23:48:36.364Z
+updated: 2024-12-06T23:59:57.907Z
 tags:
   - laptops
 categories:
@@ -18,7 +18,7 @@ I regularly use my gaming laptop on the go. If you're looking for a pre-built po
 The ROG Zephyrus brings a 14-inch, 120Hz screen that offers 500 nits of brightness so you can game in both brightly lit settings and dedicated, darkened gaming spaces. It's only 3.64 pounds and is only .73-inches thin. Under the lightweight chassis, the AMD Ryzen 9 6900HS processor will keep you gaming, working, and streaming with ease.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -26,7 +26,7 @@ The ROG Zephyrus brings a 14-inch, 120Hz screen that offers 500 nits of brightne
 [![regular-gg-custom-hero-collection-door](https://www.zdnet.com/a/img/resize/0b0cc7d8ff9ce2dcc37545231a740e7b985d6824/2023/01/06/5432e6d1-6507-4feb-bcda-ebe426cbd068/regular-gg-custom-hero-collection-door.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET Gift Guides Looking for the perfect gift this year? Here's a great lineup of gift ideas and resources to get you started.  Read now](https://www.zdnet.com/collection/gift-guide/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Like the AMD Ryzen CPU, the laptop also uses an AMD Radeon RX 6700S graphics card that features SmartShift Max technology. If you're unfamiliar with SmartShift Max, the technology can boost your gaming performance so you can game on more spec-heavy games. There is also a dedicated MUX Switch that can enhance your GPU, reducing latency and boosting performance by an average of 9%. You'll also get 16GB of dedicated memory, too.
@@ -77,17 +77,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unveiling-the-best-mobile-tools-to-pull-videos-from-youtube/"><u>[New] 2024 Approved Unveiling the Best Mobile Tools to Pull Videos From YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-obs-repair-camera-functioning-now-for-2024/"><u>[New] OBS Repair Camera Functioning Now for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-step-by-step-creating-stellar-content-for-facebook-stories/"><u>[Updated] In 2024, Step-by-Step Creating Stellar Content for Facebook Stories</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1k-discount-on-top-picks-the-best-lenovo-laptop-for-hybrid-professionals-during-octobers-prime-day/"><u>$1K Discount on Top-Picks: The Best Lenovo Laptop for Hybrid Professionals During October's Prime Day</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ai-advancements-and-enhanced-security-the-new-demands-for-next-gen-laptops-as-predicted-by-lenovo/"><u>AI Advancements & Enhanced Security: The New Demands for Next-Gen Laptops as Predicted by Lenovo</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-the-leading-iphone-data-recovery-apps-of-2n4-our-top-10-selection-supporting-ios-17plus/"><u>Discover the Leading iPhone Data Recovery Apps of 2N4 - Our Top 10 Selection Supporting iOS 17+</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-v30-lite-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo V30 Lite 5G Is Unlocked</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-lava-yuva-2-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Lava Yuva 2 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/increased-patent-safeguards-for-linux-systems-oin-exclusivity-intensifies-skirts-ai-coverage-zdnet/"><u>INCREASED PATENT SAFEGUARDS FOR LINUX SYSTEMS: OIN EXCLUSIVITY INTENSIFIES, SKIRTS AI COVERAGE - ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-this-black-friday-save-up-to-700-off-on-the-top-rated-dell-xps-15-laptop-shop-smart-best-tech-specials/"><u>Score Big Savings This Black Friday! Save Up to $700 Off on the Top-Rated Dell XPS 15 Laptop | Shop Smart Best Tech Specials!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-for-black-friday-and-cyber-monday-laptops-exclusive-offers-await/"><u>Top Picks for Black Friday & Cyber Monday Laptops - Exclusive Offers Await!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nfographics-leveraging-social-media-videos-for-2024/"><u>[New] Infographics Leveraging Social Media Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unique-stories-crafting-powerful-yt-narratives/"><u>[Updated] 2024 Approved Unique Stories Crafting Powerful YT Narratives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-out-the-best-8-youtube-engagement-tools-for-2024/"><u>[Updated] Find Out The Best 8 Youtube Engagement Tools for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-realme-gt-5-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Realme GT 5 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-bypass-tools-to-bypass-lock-screen-realme-narzo-n53-by-drfone-android-unlock-android-unlock/"><u>Realme Bypass Tools to Bypass Lock Screen(Realme Narzo N53)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-your-flash-drive-a-comprehensive-guide-to-fixing-and-restoring-files/"><u>Revive Your Flash Drive: A Comprehensive Guide to Fixing & Restoring Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-sawdust-into-art-how-a-unique-3d-printing-tech-creates-custom-wooden-lights-and-instruments/"><u>Transforming Sawdust Into Art: How a Unique 3D Printing Tech Creates Custom Wooden Lights & Instruments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-right-to-repair-movement-impacts-and-importance-for-consumers-insights-from-zdnet/"><u>Understanding the Right-to-Repair Movement: Impacts and Importance for Consumers - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-power-of-right-to-repair-how-it-impacts-consumers-techinsights/"><u>Unlocking the Power of Right-to-Repair - How It Impacts Consumers | TechInsights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-eco-friendly-features-in-ciscos-collaborative-software-insights-from-zdnet/"><u>Unveiling Eco-Friendly Features in Cisco's Collaborative Software – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tomorrows-innovations-with-samsung-galaxy-s23-and-galaxy-book-pro-insights-from-zdnet/"><u>Unveiling Tomorrow's Innovations with Samsung Galaxy S23 & Galaxy Book Pro | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgraded-phone-in-hand-sell-donate-or-recycle-your-previous-model-safely-gadgetpulse/"><u>Upgraded Phone in Hand! Sell, Donate or Recycle Your Previous Model Safely | GadgetPulse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-you-shouldnt-overlook-apples-help-resources-a-deep-dive-by-zdnet-into-the-top-reasons-to-use-them/"><u>Why You Shouldn't Overlook Apple's Help Resources - A Deep Dive by ZDNet Into the Top Reasons to Use Them</u></a></li>
 </ul></div>
 

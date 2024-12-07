@@ -1,7 +1,7 @@
 ---
 title: "- The Revival: Microsoft & IBM Reimagine Classic MS-DOS as an Open Source Project!"
-date: 2024-09-18 15:48:37
-updated: 2024-09-20 12:58:32
+date: 2024-11-29T16:28:03.280Z
+updated: 2024-12-06T18:08:59.295Z
 tags:
   - pc
 categories:
@@ -78,11 +78,29 @@ The company teamed up with Lecia Geosystems, Topcon, and Trimble to ensure that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-breaking-the-mold-unique-post-vidcon-events-for-2024/"><u>[New] Breaking the Mold Unique Post-VidCon Events for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-converting-youtube-journeys-into-animated-expressions-a-comprehensive-guide-for-mobiledesktop-users/"><u>[New] In 2024, Converting YouTube Journeys Into Animated Expressions A Comprehensive Guide for Mobile/Desktop Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-best-facebook-video-downloader-and-addons-for-firefox/"><u>[Updated] 2024 Approved Best Facebook Video Downloader And Addons for Firefox</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-crafting-a-tiktok-twosome-film/"><u>2024 Approved Crafting a TikTok Twosome Film</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-june-offers-on-dells-premium-lineup-save-big-on-xps-latitude-and-precision-laptops/"><u>Exclusive June Offers on Dell's Premium Lineup - Save Big on XPS, Latitude & Precision Laptops!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-make-a-video-meme-for-facebook-and-instagram/"><u>In 2024, How to Make a Video Meme for Facebook and Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-showdown-determining-your-ideal-machine-between-air-and-pro-variants-with-tips-from-zdnet/"><u>MacBook Showdown: Determining Your Ideal Machine Between Air and Pro Variants with Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-latest-innovations-revealed-at-unpacked-event-comprehensive-guide-to-new-galaxy-devices/"><u>Samsung's Latest Innovations Revealed at Unpacked Event - Comprehensive Guide to New Galaxy Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/subrip-file-creation-from-compressed-archives/"><u>SubRip File Creation From Compressed Archives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-m2-solid-state-drives-comprehensive-testing-and-reviews-by-pros-techradar/"><u>Top-Rated M.2 Solid State Drives : Comprehensive Testing & Reviews by Pros - TechRadar</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

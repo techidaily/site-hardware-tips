@@ -1,7 +1,7 @@
 ---
 title: "Buy the Ultimate Deal: Over Half Off on a 4TB Samsung USB-C External SSD at Amazon - Tech Advice"
-date: 2024-09-18 21:24:59
-updated: 2024-09-20 11:14:52
+date: 2024-12-04T17:38:21.010Z
+updated: 2024-12-06T16:15:51.097Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,26 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-streamlining-youtube-sharing-with-google-account-accessibility/"><u>[New] 2024 Approved Streamlining YouTube Sharing with Google Account Accessibility</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xpertly-design-your-3d-openers-best-picks/"><u>[New] Expertly Design Your 3D Openers Best Picks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>[Updated] In 2024, Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-selection-top-8-webcams-to-upgrade-streaming/"><u>[Updated] Prime Selection Top 8 Webcams to Upgrade Streaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-alaw-file-in-wav-omzetten-online-vervullend-door-movavi/"><u>Gratis ALAW-File in WAV Omzetten - Online Vervullend Door Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-alert-secure-your-hp-victus-15-gaming-laptop-for-only-450-on-best-buys-prime-day-deal-zdnet-insider-info/"><u>Limited Time Alert: Secure Your HP Victus 15 Gaming Laptop for Only $450 on Best Buy's Prime Day Deal | ZDNET Insider Info</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-oddities-of-modern-computing-why-embracing-strangeness-boosts-innovation/"><u>Navigating the Oddities of Modern Computing: Why Embracing Strangeness Boosts Innovation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-stabilize-your-footage-for-free-the-best-online-video-stabilizers/"><u>New 2024 Approved Stabilize Your Footage for Free The Best Online Video Stabilizers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-journeys-with-a-unique-foldable-laptop-case-the-ultimate-accessory-that-amazes-exclusive-review-on-zdnet/"><u>Revolutionizing Journeys with a Unique Foldable Laptop Case: The Ultimate Accessory That Amazes | Exclusive Review on ZDNET</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-for-blurring-and-excising-picture-borders-for-2024/"><u>Techniques for Blurring and Excising Picture Borders for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-10-christmas-chromebook-bargains-exclusive-offers-on-zdnet/"><u>Top 10 Christmas Chromebook Bargains: Exclusive Offers on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-ideal-business-tablet-alternatives-to-apples-ipad-and-lenovos-thinkpad-endorsed-by-zdnet/"><u>Unlocking the Ideal Business Tablet: Alternatives to Apple's iPad and Lenovo's ThinkPad Endorsed by ZDNet</u></a></li>
+</ul></div>
+

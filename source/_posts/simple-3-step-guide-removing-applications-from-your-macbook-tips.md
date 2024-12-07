@@ -1,7 +1,7 @@
 ---
 title: "Simple 3-Step Guide: Removing Applications From Your MacBook - Tips"
-date: 2024-11-22T17:56:27.256Z
-updated: 2024-11-27T18:11:34.838Z
+date: 2024-12-06T01:26:45.796Z
+updated: 2024-12-07T02:33:46.122Z
 tags:
   - laptops
 categories:
@@ -30,21 +30,17 @@ The truth is that deleting apps in MacOS is as easy as 1, 2, 3, literally. Just 
 
 **Also:** [**I put the Apple Watch Ultra through a Tough Mudder. Here's how it held up**](https://www.zdnet.com/article/apple-watch-ultra-review/)
 
-##  How to delete apps on a MacBook
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##  How to delete apps on a MacBook
 
 ## 1\. Open Launchpad
 
 Go to the dock and click on the Launchpad icon or access Launchpad via the Applications folder. 
 
 Image: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Click and hold app
 
@@ -55,6 +51,10 @@ Sorry, GarageBand, it's been fun.
 Image: Maria Diaz/ZDNET
 
 You can also press Option (the ⌥ key) to make the apps jiggle. When you do this, you have to keep the key pressed while you click on the delete button. The apps will only jiggle while the Option key is pressed. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Click on the Delete button
 
@@ -69,13 +69,13 @@ Once you click on the X or Delete button at the top left corner, a message will 
 Image: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why can't I delete apps from my MacBook?
@@ -91,7 +91,7 @@ If you can't delete an app from the Launchpad, you can try using Finder to remov
 **Also:** [**Here's how to delete apps on an iPhone**](https://www.zdnet.com/article/how-to-delete-apps-on-iphone/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How can I find an app on my Mac?
@@ -140,19 +140,20 @@ Simply deleting an app will not cancel any membership or subscription you may ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-free-and-fast-guide-to-detecting-fraudulent-accounts-among-instragrammers/"><u>[Updated] In 2024, Free & Fast Guide to Detecting Fraudulent Accounts Among Instragrammers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-broadcast-brilliance-transforming-fb-live-for-tv/"><u>2024 Approved Broadcast Brilliance Transforming FB Live for TV</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-the-art-of-uploading-youtube-videos-on-fb/"><u>2024 Approved Mastering the Art of Uploading YouTube Videos on FB</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/become-a-youtube-earning-expert-universal-device-strategies/"><u>Become a YouTube Earning Expert Universal Device Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-the-apple-studio-display-full-specifications-advanced-features-and-essential-info/"><u>Comprehensive Guide to the Apple Studio Display: Full Specifications, Advanced Features & Essential Info</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-hot-40-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Hot 40 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-unveils-innovative-subscription-model-could-this-be-the-answer-to-make-you-love-your-printer/"><u>HP Unveils Innovative Subscription Model: Could This Be The Answer To Make You Love Your Printer?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-bridging-youtube-and-imovie-with-seamless-audio-transfer/"><u>In 2024, Bridging YouTube and iMovie with Seamless Audio Transfer</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oneplus-12-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring OnePlus 12 to PC? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-orchestrating-a-harmonious-tiktok-finale/"><u>In 2024, Orchestrating a Harmonious TikTok Finale</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-a-bigger-screen-worth-it-evaluating-apples-latest-m3-imac-against-loyalists-expectations-zdnet-insights/"><u>Is a Bigger Screen Worth It? Evaluating Apple's Latest M3 iMac Against Loyalists’ Expectations | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/remote-diagnostics-feature-in-apples-latest-self-service-repair-kit-now-includes-iphone-15-and-m2-mac-support-tech-news/"><u>Remote Diagnostics Feature in Apple's Latest Self-Service Repair Kit: Now Includes iPhone 15 & M2 Mac Support | Tech News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/scoring-big-on-best-buy-black-friday-in-july-over-30-exclusive-deals-to-outshine-amazon-prime-day/"><u>Scoring Big on Best Buy Black Friday in July - Over 30 Exclusive Deals to Outshine Amazon Prime Day!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-moto-g14-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Moto G14 Android SIM Unlock APK</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-a-primer-on-using-azures-voice-to-text-service-for-2024/"><u>[New] A Primer on Using Azure's Voice-to-Text Service for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2023-ultimate-guide-to-optimal-ram-selection-essential-memory-boosts-for-professionals-and-gamers-by-zdnet/"><u>2023 Ultimate Guide to Optimal RAM Selection: Essential Memory Boosts for Professionals & Gamers by ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-itel-s23-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Itel S23 Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoiding-wait-times-a-guide-to-purchasing-the-latest-macbook-pro-and-mac-mini-from-apple/"><u>Avoiding Wait Times: A Guide to Purchasing the Latest MacBook Pro & Mac Mini From Apple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-apple-innovations-mac-mini-versus-mac-studio-how-does-the-new-m2-stack-up-against-its-predecessor-the-m1/"><u>Comparing Apple Innovations: Mac Mini versus Mac Studio – How Does the New M2 Stack Up Against Its Predecessor, the M1?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/free-end-in-sight-windows-10-upgrade-offer-concludes/"><u>Free End in Sight: Windows 10 Upgrade Offer Concludes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-androids-ear-4-easy-unrooted-ways/"><u>In 2024, Capture Android's Ear 4 Easy, Unrooted Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-c51-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme C51 Phone?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-create-a-green-screen-video-in-after-effects/"><u>New In 2024, How To Create A Green Screen Video In After Effects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/novatech-series-unified-4k-all-in-one-workstations/"><u>NovaTech Series Unified 4K, All-in-One Workstations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-up-to-50-off-premium-4tb-samsung-portable-ssd-available-at-amazon-zdnet-exclusive-deal/"><u>Save Big with Up to 50% Off: Premium 4TB Samsung Portable SSD Available at Amazon – ZDNET Exclusive Deal</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-sonys-xbr65x850f-a-high-end-economically-priced-65-oled-display/"><u>The Ultimate Guide to Sony's XBR65X850F - A High-End, Economically Priced 65 OLED Display.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-microphones-reviews-and-buyers-guide-by-zdnet/"><u>Top-Rated Streaming Microphones - Reviews & Buyer's Guide by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcoding-ttml-and-ssa-into-easy-to-use-srt-format-for-2024/"><u>Transcoding TTML & SSA Into Easy-to-Use SRT Format for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-tpms-essential-for-windows-11-security-features-techguide/"><u>Understanding TPMs - Essential for Windows 11 Security Features | TechGuide</u></a></li>
 </ul></div>
 

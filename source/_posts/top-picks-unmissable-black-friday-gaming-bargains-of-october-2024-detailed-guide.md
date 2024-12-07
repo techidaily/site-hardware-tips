@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: Unmissable Black Friday Gaming Bargains of October 2024 - Detailed Guide"
-date: 2024-11-25T17:43:09.616Z
-updated: 2024-11-27T19:08:07.337Z
+date: 2024-12-02T16:05:51.007Z
+updated: 2024-12-06T23:36:59.208Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,10 @@ Please refer to the table of contents to quickly navigate our categories**.**
 * [Beats Solo3 wireless headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbeats-by-dr-dre-solo-the-beats-icon-collection-wireless-on-ear-headphones-matte-black%2F6383124.p%3FskuId%3D6383124&publisher_slug=itechdaily19598&exclusive=1) for $130 (save $70) at Best Buy
 * [Fire HD 10 tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08XMBMW3H%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $220 (save $50) at Amazon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Best Cyber Monday TV deals**
 
 Whether you're buying your first TV or upgrading your home theater, these awesome Cyber Monday deals make it more affordable than ever. Brands like Samsung, Sony, LG, and TCL have great discounts on already budget-friendly models as well as high-end TVs for shoppers looking for premium features like OLED panels and virtual surround sound. 
@@ -90,6 +94,10 @@ Best Buy
 * [Samsung 13.3-inch Galaxy Book2 Pro Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09R8VGY83%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $958.40 (save $342) at Amazon
 * [HP Pavilion Laptop 15t-eg200](https://www.anrdoezrs.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-pavilion-laptop-15t-eg200-6m7m8av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $700 (save $320) at HP
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Best Cyber Monday tablet deals**
 
 Black Friday and Cyber Monday are the biggest shopping times of the year, and it is when tablets go on sale for $100 or even $500 off. We've rounded up the best Cyber Monday tablet deals from brands like Apple and Samsung. 
@@ -129,6 +137,10 @@ Image: Best Buy
 * [ASUS TUF Gaming 27" Gaming Monitor](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-TUF-Gaming-27-LED-Gaming-Monitor-1080P-Full-HD-165Hz-Supports-144Hz-IPS-1ms%2F1544229980&subId1=zd-__COM_CLICK_ID__-dtp) for $159 (save $140) at Walmart
 * [HP V223ve FHD Monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-V223ve-21-5-inch-certified-Ergonomic%2Fdp%2FB09GKZ71PJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $105 (save $145) at Amazon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Best Cyber Monday home deals**
 
 We found the deepest discounts you can get now on top-rated smart thermostats, video doorbells, security cameras, robot vacuums, and smart kitchen tech like Instant Pots. You will want to kit out your home/ office with these hot products all on sale. 
@@ -149,7 +161,7 @@ Amazon
 * [Blink Outdoor 3 cam kit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBlink-Outdoor-bundle-Echo-Show%2Fdp%2FB08ZN97SWW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $160 (save $175) at Amazon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday streaming deals**
@@ -186,7 +198,7 @@ Sony
 * [Beats Fit Pro](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbeats-by-dr-dre-beats-fit-pro-true-wireless-noise-cancelling-in-ear-earbuds-black%2F6397391.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $180 (save $20) at Best Buy
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday smartphone deals**
@@ -201,10 +213,6 @@ Samsung
 
 * [Samsung Galaxy S21 FE (128GB) smartphone](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09BFSTTNK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $400 (save $300) at Amazon
 * [Google Pixel 6a](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-6a-Smartphone-Megapixel%2Fdp%2FB0B3PQPNKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $360 (save $89) at Amazon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Best Cyber Monday smartwatch deals**
 
@@ -242,6 +250,10 @@ Target
 * [LG 2.1- Channel Soundbar](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-2-1-channel-soundbar-with-wireless-subwoofer-and-dts-virtualx-black%2F6479130.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $119 (save $160) at Best Buy
 * [JBL PartyBox 100 High Power Portable Wireless Bluetooth Speaker](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FJBL-PartyBox-100-High-Power-Portable-Wireless-Bluetooth-Speaker-Black%2F691892469%3F&subId1=zd-__COM_CLICK_ID__-dtp) for $199 (save $100) at Walmart
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **More Cyber Monday tech deals**
 
 OK, here's all the other random -- but still cool -- tech we found on sale. 
@@ -278,10 +290,6 @@ We've shopped online just as much as you, but we're experts at finding tech deal
 
 **\*** Except for Apple products and other devices that seldom go on sale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When was Black Friday 2022?
 
 Black Friday takes place every year on the day after Thanksgiving. This year, Black Friday 2022 fell on Friday, Nov. 25\. But, honestly, Black Friday is no longer just a 24-hour event. It's morphed into weeks of early bird deals, doorbusters, and even sales that start in October. 
@@ -299,7 +307,7 @@ ZDNET scoured Cyber Monday sales to find the best deals this year, and many are 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by retailer**
@@ -310,10 +318,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best Cyber Monday 2022 deals at Target](https://www.zdnet.com/article/target-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 deals at Walmart](https://www.zdnet.com/article/walmart-cyber-monday-deals-still-available-november-30-2022/)
 * [Top early Cyber Monday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-cyber-monday-deals-still-available-november-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by brand**
 
@@ -347,10 +351,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found that are still available:
 
 * [The best Cyber Monday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-cyber-monday-deals-under-30-still-available-november-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -398,22 +398,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-dive-into-digital-friendship-start-your-facebook-journey/"><u>[New] 2024 Approved Dive Into Digital Friendship Start Your Facebook Journey</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-expert-techniques-to-elevate-your-fullscreen-experience-in-premiere/"><u>[New] 2024 Approved Expert Techniques to Elevate Your Fullscreen Experience in Premiere</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-benefits-of-apples-m1-in-post-production-editing/"><u>[New] In 2024, Benefits of Apple's M1 in Post-Production Editing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-fbs-viral-hits-10-songs-that-scored-big/"><u>[New] In 2024, Mastering FB's Viral Hits - 10 Songs That Scored Big</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>[New] Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-transformed-my-entire-tech-setup-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How One Change Transformed My Entire Tech Setup | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-the-rush-for-black-friday-get-your-samsung-t5-ssd-at-a-massive-48-off-before-the-prime-day-extravaganza-zdnet/"><u>Beat the Rush for Black Friday: Get Your Samsung T5 SSD at a Massive 48% Off Before the Prime Day Extravaganza | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/college-students-guide-to-the-perfectly-priced-299-laptop-expert-advice-by-zdnet/"><u>College Student's Guide to the Perfectly Priced $299 Laptop | Expert Advice by ZDNET</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-20-public-domain-pubg-slideshows/"><u>Cutting-Edge 20 Public Domain PUBG Slideshows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-whats-new-with-the-latest-upgrade-of-lenovo-thinkpad-x1-a-breakdown/"><u>Discover What's New with the Latest Upgrade of Lenovo ThinkPad X1: A Breakdown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-chromebook-simplifies-life-without-windows-at-an-unexpectedly-affordable-price-save-136-exclusive-review-by-zdnet/"><u>HP Chromebook Simplifies Life without Windows at an Unexpectedly Affordable Price (Save $136) | Exclusive Review by ZDNET</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-overcoming-fortnites-video-memory-crashes/"><u>Resolved: Overcoming Fortnite's Video Memory Crashes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722877542013-the-next-chapter-in-google-smartwatches-anticipated-pricing-launch-window-and-specs-the-rumor-mill-churns/"><u>The Next Chapter in Google Smartwatches: Anticipated Pricing, Launch Window & Specs - The Rumor Mill Churns!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ipad-pro-usb-c-hub-unveiled-a-must-have-accessory-when-you-need-it-most/"><u>Top iPad Pro USB-C Hub Unveiled : A Must-Have Accessory When You Need It Most</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-lenovo-laptops-under-800-tailored-for-efficient-hybrid-working-read-my-review/"><u>Top Lenovo Laptops Under $800 Tailored for Efficient Hybrid Working - Read My Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toughest-computers-for-harsh-conditions-zdnets-2024-roundup/"><u>Toughest Computers for Harsh Conditions: ZDNet's 2024 Roundup</u></a></li>
-<li><a href="https://fox-access.techidaily.com/web-comedy-architect/"><u>Web Comedy Architect</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-comparing-m1-powered-laptops-to-videographers-needs/"><u>[New] In 2024, Comparing M1-Powered Laptops to Videographers' Needs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-insta-film-conversion-blueprints-to-mp3-formats/"><u>[New] Insta Film Conversion Blueprints to MP3 Formats</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-engrossing-12-pc-clicker-games-that-keep-you-hooked/"><u>[Updated] In 2024, Engrossing 12 PC Clicker Games That Keep You Hooked</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tweak-twitter-video-clip-cover/"><u>[Updated] In 2024, Tweak Twitter Video Clip Cover</u></a></li>
+<li><a href="https://windows11.techidaily.com/alomware-essentials-for-customizing-windows-experience/"><u>AlomWare Essentials for Customizing Windows Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-x9b-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Honor X9b</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-from-zero-to-hero-top-10-free-and-paid-android-video-editing-apps/"><u>New From Zero to Hero Top 10 Free and Paid Android Video Editing Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-alert-caixuns-stunningly-affordable-4k-android-tv-the-best-bang-for-your-buck/"><u>Review Alert: Caixun’s Stunningly Affordable 4K Android TV - The Best Bang for Your Buck!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-projector-picks-expert-reviews-and-ratings/"><u>Top Rated Portable Projector Picks - Expert Reviews & Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-projector-picks-expert-reviews-on-zdnet/"><u>Top Rated Portable Projector Picks - Expert Reviews on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-gadgets-a-comprehensive-guide-zdnet/"><u>Top Rated Streaming Gadgets : A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-sticks-and-boxes-expert-reviews-by-zdnet/"><u>Top Rated Streaming Sticks & Boxes - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-projection-screens-expert-picks-by-zdnet/"><u>Top-Rated Portable Projection Screens : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-tv-antennas-of-the-year-expert-picks-and-reviews/"><u>Top-Rated TV Antennas of the Year: Expert Picks & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-holiday-viewing-bargains-discover-the-finest-deals-on-platforms-like-roku-apple-music-max-and-amazon-zdnet/"><u>Ultimate Guide to Holiday Viewing Bargains: Discover the Finest Deals on Platforms Like Roku, Apple Music, Max, and Amazon | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-a-gamers-dream-secure-free-xbox-game-pass-and-fire-tv-stick-bundle-up-to-33-discount-dont-miss-this-epic-post-prime-day-offer-by-zdnet/"><u>Unlock a Gamer's Dream: Secure Free Xbox Game Pass & Fire TV Stick Bundle Up to 33% Discount – Don't Miss This Epic Post-Prime Day Offer by ZDNET!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the New Features of Microsoft's Latest Addition - The Laptop 5, Familiar Yet Refined.
-date: 2024-11-23T18:08:18.878Z
-updated: 2024-11-27T18:55:12.870Z
+date: 2024-12-05T00:40:06.287Z
+updated: 2024-12-06T20:43:09.193Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ Finally, let's talk about the design because I like what HP did with the laptop,
 HP's solution to this is packaging two docking stations with the Spectre, allowing users to expand their array of ports. With the docks, you can add extra USB inputs as well as an HDMI port. The good news is the charger still works through the docking station. Don't worry about feeling like you'll be forced to choose between connectivity or keeping the laptop. You can have both.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -118,18 +118,19 @@ Prices for the 2024 Spectre x360 start at $1,449.99 with multiple configurations
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-balancing-act-lowering-audio-levels/"><u>[New] Balancing Act Lowering Audio Levels</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-installing-tiktok-made-easy-for-mac-users/"><u>[New] Installing TikTok Made Easy for Mac Users</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-21plus-puzzling-pictures-assemble-a-joyous-vision/"><u>[Updated] In 2024, 21+ Puzzling Pictures Assemble a Joyous Vision</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/affordable-eyewear-alert-could-an-iphones-headset-be-the-next-big-thing-in-apple-accessories/"><u>Affordable Eyewear Alert! Could an iPhones Headset Be the Next Big Thing in Apple Accessories?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipated-launch-apples-next-gen-m4-processors-elevate-macintosh-ai-capabilities/"><u>Anticipated Launch: Apple's Next-Gen M4 Processors Elevate Macintosh AI Capabilities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-revolutionizes-device-maintenance-with-expanded-at-home-repair-services-for-iphone-and-macbook-learn-more/"><u>Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-buy-prime-day-preview-top-savings-and-offers-insights/"><u>Best Buy Prime Day Preview: Top Savings & Offers Insights</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-s17t-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo S17t Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/last-chance-to-grab-exclusive-gaming-bargains-on-prime-day-our-comprehensive-list-of-top-deals-from-june-15-2024-techradar/"><u>Last Chance to Grab Exclusive Gaming Bargains on Prime Day: Our Comprehensive List of Top Deals From June 15, 2024 - TechRadar</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/start-at-vectors-beginning-a-short-overview-of-forms-and-tools/"><u>Start at Vector's Beginning A Short Overview of Forms & Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-for-reverting-windows-audio-configurations-based-on-expert-advice/"><u>Step-by-Step Tutorial for Reverting Windows Audio Configurations, Based on Expert Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/work-trip-must-haves-discover-the-8-key-devices-featured-in-a-zdnet-guide/"><u>Work Trip Must-Haves: Discover the 8 Key Devices Featured in a ZDNet Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/x-stream-recorder-pc-edition-for-2024/"><u>X-Stream Recorder PC Edition for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/treamline-your-vlog-with-video-length-optimization/"><u>[New] Streamline Your Vlog with Video Length Optimization</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-elevating-gopro-videos-with-professional-filmmaking-techniques/"><u>[Updated] In 2024, Elevating Gopro Videos with Professional Filmmaking Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-teslas-electric-vehicle-charging-network-sets-new-us-benchmark-following-agreement-with-general-motors-and-ford-insights-for-zdnet/"><u>1. Tesla's Electric Vehicle Charging Network Sets New U.S. Benchmark Following Agreement with General Motors and Ford – Insights for ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/act-fast-secure-your-affordable-e-bike-deal-priced-under-900-on-zdnet-right-away/"><u>Act Fast: Secure Your Affordable E-Bike Deal, Priced Under $900 on ZDNET Right Away!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/efficiently-traverse-youtubes-votes-and-reaction-space/"><u>Efficiently Traverse YouTube’s Votes and Reaction Space</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-visual-branding-in-small-business-marketing/"><u>In 2024, Visual Branding in Small Business Marketing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-your-easy-route-to-tiktok-bliss-on-a-macbook/"><u>In 2024, Your Easy Route to TikTok Bliss on a MacBook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-use-of-iphone-front-selfie-camera-mirror-feature/"><u>Mastering the Use of iPhone Front (Selfie) Camera Mirror Feature</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-reno-9a-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Reno 9A Phone? Unlock It Now</u></a></li>
+<li><a href="https://win11.techidaily.com/realigning-context-menus-a-windows-users-guide/"><u>Realigning Context Menus: A Windows User's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/velotrix-unveiled-affordable-performance-in-the-electric-biking-world/"><u>Velotrix Unveiled - Affordable Performance in the Electric Biking World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/walmart-enhances-aerial-deliveries-new-phase-of-drone-delivery-initiative-unveiled-insights-from-zdnet/"><u>Walmart Enhances Aerial Deliveries: New Phase of Drone Delivery Initiative Unveiled - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zectron-e-bike-review-one-week-test-drive-and-promising-capabilities-insights-from-zdnet/"><u>Zectron E-Bike Review: One Week Test Drive & Promising Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zooming-in-on-the-new-android-automotive-qol-upgrade-featuring-in-car-bluetooth-headphones-support-zdnet/"><u>Zooming in on the New Android Automotive QOL Upgrade Featuring In-Car Bluetooth Headphones Support | ZDnet</u></a></li>
 </ul></div>
 

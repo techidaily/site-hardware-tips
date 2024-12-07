@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2024-11-24T19:15:31.297Z
-updated: 2024-11-27T16:11:21.777Z
+date: 2024-11-30T00:55:41.438Z
+updated: 2024-12-06T23:00:54.136Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,19 +114,22 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nhancing-video-discoverability-with-effective-titles-and-tags-for-2024/"><u>[New] Enhancing Video Discoverability with Effective Titles & Tags for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-innovative-interactions-in-virtuosity-the-top-30-quotes/"><u>[New] In 2024, Innovative Interactions in Virtuosity The Top 30 Quotes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tarted-streaming-learn-obs-for-youtube-now-for-2024/"><u>[New] Started Streaming? Learn OBS for Youtube Now for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlock-vintage-cinematography-with-this-essential-manual/"><u>[New] Unlock Vintage Cinematography with This Essential Manual</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-dissecting-youtube-copyright-vs-creative-commons-ethos/"><u>[Updated] Dissecting YouTube Copyright Vs. Creative Commons Ethos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-cgps-reliability-in-providing-health-facts/"><u>Assessing CGP’s Reliability in Providing Health Facts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-15-inch-notebook-sold-at-walmart-get-quality-tech-with-every-essential-port-for-only-250-spotted/"><u>Asus 15-Inch Notebook Sold at Walmart: Get Quality Tech with Every Essential Port for Only $250 - Spotted</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chilly-forecast-how-the-upcoming-tough-season-benefits-future-pc-purchasers-insights/"><u>Chilly Forecast: How the Upcoming Tough Season Benefits Future PC Purchasers Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/disappointing-performance-how-the-asus-expertbook-b3-falls-short-of-expectations-on-multiple-fronts-tech-analysis-by-zdnet/"><u>Disappointing Performance: How the ASUS ExpertBook B3 Falls Short of Expectations on Multiple Fronts | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-grab-metas-limited-time-512gb-quest-3-for-just-xxx-during-october-prime-day-top-seller-on-zdnet/"><u>Exclusive Offer: Grab Meta's Limited-Time 512GB Quest 3 for Just $XXX During October Prime Day – Top Seller on ZDNet!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-vimeo-uploads-with-imovie-videos/"><u>Mastering Vimeo Uploads with iMovie Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-list-of-free-video-meeting-tools-for-professionals-and-educators-for-2024/"><u>The Ultimate List of Free Video Meeting Tools for Professionals & Educators for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-premium-touchscreen-laptops-features-and-reviews/"><u>Ultimate Guide to Premium Touchscreen Laptops - Features & Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-black-friday-offer-up-to-700-off-on-the-high-performance-dell-xps-15-exclusive-insights-from-zdnet/"><u>Unmissable Black Friday Offer: Up to $700 Off on the High-Performance Dell XPS 15 - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-future-is-now-how-vida-transforms-video-editing/"><u>[New] 2024 Approved The Future Is Now How Vida Transforms Video Editing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-spark-dialogue-with-personalized-and-creative-story-inquiries-for-2024/"><u>[New] Spark Dialogue with Personalized and Creative Story Inquiries for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-5-internet-viewing-units-for-2024/"><u>[Updated] Advanced 5 Internet Viewing Units for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-converting-horizontals-for-igtv-tips-and-techniques-explored/"><u>[Updated] In 2024, Converting Horizontals for IGTV Tips & Techniques Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-get-your-samsung-tv-upgraded-with-philips-hue-integration-for-just-3month-insights-from-zdnet/"><u>1. Get Your Samsung TV Upgraded with Philips Hue Integration for Just $3/Month: Insights From ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-guide-to-fixing-the-bluetoothwireless-interface-issue-on-your-260ci-vehicles-usb-port/"><u>Expert Guide to Fixing the Bluetooth/Wireless Interface Issue on Your 260Ci Vehicle's USB Port</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-value-of-rokus-latest-budget-friendly-smart-gadgets-with-just-one-complaint-tech-analysis/"><u>Exploring the Value of Roku's Latest Budget-Friendly Smart Gadgets with Just One Complaint | Tech Analysis</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-lava-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Lava</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-under-cabinet-lighting-upgrades-your-kitchen-charm-the-smart-touch-unveiled-by-techradar/"><u>Innovative Under-Cabinet Lighting Upgrades Your Kitchen Charm - The Smart Touch Unveiled by TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intelligent-illumination-govee-reveals-smart-lighting-that-syncs-with-your-screen-for-enhanced-ambiance-spotlighted-by-zdnet/"><u>Intelligent Illumination: Govee Reveals Smart Lighting That Syncs with Your Screen for Enhanced Ambiance, Spotlighted by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intelligent-illumination-how-ge-cync-enhances-led-neon-lighting-insights-from-zdnet/"><u>Intelligent Illumination: How GE Cync Enhances LED Neon Lighting - Insights From ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oppo-k11-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo K11 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/rapid-routines-transferring-iphone-content-for-2024/"><u>Rapid Routines Transferring iPhone Content for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-your-smart-home-discover-how-a-unified-connectivity-standard-transforms-interactions/"><u>Revolutionizing Your Smart Home: Discover How a Unified Connectivity Standard Transforms Interactions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-led-ring-lights-enhance-your-tiktok-videos-with-style-techreview/"><u>Top Rated LED Ring Lights - Enhance Your TikTok Videos with Style | TechReview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-security-floodlighting-solutions-for-your-home-expert-reviews-and-picks/"><u>Top-Rated Security Floodlighting Solutions for Your Home - Expert Reviews and Picks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-your-account-5-proven-fixes-for-the-cs-go-no-user-problem/"><u>Unlock Your Account: 5 Proven Fixes for the CS GO 'No User' Problem</u></a></li>
 </ul></div>
 

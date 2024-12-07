@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!"
-date: 2024-11-23T16:28:16.192Z
-updated: 2024-11-27T19:26:32.950Z
+date: 2024-12-02T17:52:38.820Z
+updated: 2024-12-06T22:01:12.777Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,16 +87,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/approved-how-to-promote-videos-cross-platform-youtube-meets-facebook/"><u>2024 Approved How to Promote Videos Cross-Platform YouTube Meets Facebook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/celebrate-our-nations-leaders-score-an-unbeatable-price-on-2023-m2-macbook-air-during-presidents-day-sale-get-it-for-300-less-now/"><u>Celebrate Our Nation's Leaders: Score an Unbeatable Price on 2023 M2 MacBook Air During Presidents' Day Sale – Get It for $300 Less Now !</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-ace-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone/"><u>In 2024, Ace Your Youtube Finances Secrets for Profits at the 500-Subscriber Milestone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-select-best-dvd-software-for-sierra-mac-users/"><u>In 2024, Select Best Dvd Software for Sierra Mac Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-podcast-cover-art-top-decoding-strategies-for-2024/"><u>Mastering Podcast Cover Art Top Decoding Strategies for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-excessive-cpu-consumption-in-google-chrome/"><u>Resolved: How to Fix Excessive CPU Consumption in Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-non-charging-problem-when-device-is-connected-to-windows-7-or-10/"><u>Resolving the Non-Charging Problem When Device Is Connected to Windows 7 or 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-portability-unveiling-intels-newest-ai-chip-in-upcoming-laptops-discover-exhilarating-performance-boosts-zdnet/"><u>Revolutionizing Portability: Unveiling Intel's Newest AI Chip in Upcoming Laptops - Discover Exhilarating Performance Boosts! [ZDNet]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-steep-discount-secure-your-asus-rog-strix-g115-for-just-600-less-hot-deal-alert/"><u>Score a Steep Discount: Secure Your Asus ROG Strix G1^15 for Just $600 Less | Hot Deal Alert</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-what-to-do-when-your-computer-cant-locate-d3dx926dll-file/"><u>Troubleshooting: What To Do When Your Computer Can't Locate d3dx9_26.dll File</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-powerful-versatility-of-lenovos-tablet-convertible-laptop-insights-and-analysis-from-zdnet/"><u>Unlocking the Powerful Versatility of Lenovo’s Tablet-Convertible Laptop: Insights and Analysis From ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-picks-scrutinizing-active-and-leading-recorders-feats/"><u>[New] Top Picks Scrutinizing Active and Leading Recorder's Feats</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-campaigns-selecting-the-best-7-total-war-victories-for-2024/"><u>[Updated] Ultimate Campaigns Selecting the Best 7 Total War Victories for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-thorough-examination-of-hero5-video-content/"><u>2024 Approved A Thorough Examination of Hero5 Video Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-powered-robot-the-new-assistant-replacing-canes-and-guide-dogs-for-those-with-visual-challenges-featured-on-zdnet/"><u>AI-Powered Robot: The New Assistant Replacing Canes & Guide Dogs for Those with Visual Challenges - Featured on ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/crimson-update-kit/"><u>Crimson Update Kit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-smart-8-hd-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Smart 8 HD Phones? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-xcover-7-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy XCover 7 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-construct-your-dreams-with-dynamic-time-lapses-on-a-hero5/"><u>In 2024, Construct Your Dreams with Dynamic Time-Lapses on a Hero5</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reclaiming-one-headphone-harmony/"><u>Reclaiming One-Headphone Harmony</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-ballie-a-reliable-companion-revealed-at-ces-insights-from-zdnet/"><u>Samsung's Ballie: A Reliable Companion Revealed at CES - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-all-rounder-cleanser-evaluation-discover-the-exceptional-capabilities-of-roborocks-2-in-1-vacuum-on-zdnet/"><u>The All-Rounder Cleanser Evaluation: Discover the Exceptional Capabilities of Roborock's 2-in-1 Vacuum on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-review-of-sharks-latest-innovation-the-hands-free-cleaning-masterpiece-featured-on-zdnet/"><u>Ultimate Review of Shark’s Latest Innovation: The Hands-Free Cleaning Masterpiece - Featured on ZDNet!</u></a></li>
 </ul></div>
 

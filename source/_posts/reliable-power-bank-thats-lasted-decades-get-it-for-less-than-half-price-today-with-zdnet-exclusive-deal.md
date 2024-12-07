@@ -1,7 +1,7 @@
 ---
 title: Reliable Power Bank That's Lasted Decades – Get It for Less Than Half Price Today with ZDNET Exclusive Deal!
-date: 2024-11-24T19:30:19.005Z
-updated: 2024-11-27T17:22:08.490Z
+date: 2024-12-06T00:43:37.831Z
+updated: 2024-12-06T23:55:12.362Z
 tags:
   - laptops
 categories:
@@ -44,7 +44,7 @@ AI-powered laptops are the future, and right now, manufacturers are putting thei
 Most people don't need top-of-the-line AI integration just yet. The reality is that day-to-day workflows for most people are still reliant on powerful, reliable laptops that can tackle whatever you throw at it, and the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3CDZLTB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf29cede6-eeee-4096-89ad-3712e08c3e11%7Cdtp&dtb=1) is a machine that fulfills exactly that need, while being light as air. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-create-impact-with-intro-excellence-best-free-services-reviewed-for-2024/"><u>[New] Create Impact with Intro Excellence Best Free Services Reviewed for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-from-tube-to-chat-sharing-video-content-from-youtube-and-twitter-directly/"><u>[New] In 2024, From Tube to Chat Sharing Video Content From YouTube & Twitter Directly</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-halt-youtube-suggested-content-now/"><u>[Updated] In 2024, Halt YouTube Suggested Content Now</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/11-insights-from-zdnet-experts/"><u>11 | Insights From ZDNet Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-add-fade-inout-premiere-pro/"><u>2024 Approved Add Fade In/Out Premiere Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-next-level-audio-for-gamers-secure-the-top-speaker-system-at-an-amazing-150-off-reviewed-by-zdnet/"><u>Dive Into Next-Level Audio for Gamers - Secure the Top Speaker System at an Amazing $150 Off, Reviewed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-july-202n4-apple-blowouts-revealed-score-iphones-and-more-at-unbeatable-prices-detailed-listings-by-zdnet/"><u>Exclusive July 202N4 Apple Blowouts Revealed: Score IPhones & More at Unbeatable Prices | Detailed Listings by ZDNET</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-poco-x6-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Poco X6</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-x5-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Poco X5 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-apples-new-macbook-air-with-m3-chip-the-features-that-blew-us-away-gizmodo/"><u>In-Depth Review of Apple's New MacBook Air with M3 Chip: The Features That Blew Us Away | Gizmodo</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-feature-alert-lenovo-unveils-revolutionary-iphone-data-syncing-in-latest-laptop-lineup-experience-it-now-techinsider/"><u>Innovative Feature Alert: Lenovo Unveils Revolutionary iPhone Data Syncing in Latest Laptop Lineup - Experience It Now | TechInsider</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-snag-a-microsoft-surface-laptop-5-at-an-unbeatable-price-of-850-now/"><u>Limited Time Offer: Snag a Microsoft Surface Laptop 5 at an Unbeatable Price of $850 - Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-15-inch-notebooks-of-2024-comprehensive-reviews-by-experts-techradar/"><u>Top Rated 15-Inch Notebooks of 2024 - Comprehensive Reviews by Experts | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-bargains-save-big-on-latest-october-prime-day-laptops-limited-time-only/"><u>Ultimate Bargains: Save Big on Latest October Prime Day Laptops – Limited Time Only!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/windows-enthusiasts-rejoice-lenovos-answer-to-the-mac-studio-could-outshine-apples-creation/"><u>Windows Enthusiasts Rejoice: Lenovo's Answer to the Mac Studio Could Outshine Apple’s Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-bidfarewelltomycam-the-quest-for-improved-options-for-2024/"><u>[New] BidFarewellToMyCam The Quest for Improved Options for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevate-your-reddit-presence-with-these-essentials/"><u>[Updated] Elevate Your Reddit Presence with These Essentials</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-direct-link-between-twitter-and-tumblr-videos/"><u>[Updated] In 2024, Direct Link Between Twitter and Tumblr Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-complete-obs-playback-handbook-for-2024/"><u>[Updated] The Complete OBS Playback Handbook for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unleash-the-full-potential-of-youtube-videos-with-srt-download-tutorial/"><u>2024 Approved Unleash the Full Potential of YouTube Videos With SRT Download Tutorial</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-duel-of-viewers-google-cardboard-vs-samsung-vr/"><u>In 2024, A Duel of Viewers Google Cardboard Vs. Samsung VR</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speeding-matters-an-inquiry-into-the-decreased-velocity-of-chatgpt-nternals-4-compared-to-version-35/"><u>Speeding Matters: An Inquiry Into the Decreased Velocity of ChatGPT-Nternals 4 Compared to Version 3.5</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-best-3d-animation-apps-for-android-and-ios-devices/"><u>The Ultimate List Best 3D Animation Apps for Android and iOS Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unconventional-journey-my-experience-with-the-polestar-2-on-a-test-drive-zdnet/"><u>Unconventional Journey: My Experience with the Polestar 2 on a Test Drive | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-teslas-latest-sensor-enhancement-key-reasons-explained-by-zdnet/"><u>Understanding Tesla's Latest Sensor Enhancement – Key Reasons Explained by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-ubers-package-return-feature-with-major-shipping-services-an-in-depth-guide-for-google-searchers/"><u>Understanding Uber's Package Return Feature with Major Shipping Services: An In-Depth Guide for Google Searchers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unrestricted-aerial-innovation-how-a-pioneering-drone-venture-achieved-comprehensive-faa-endorsement-according-to-zdnet/"><u>Unrestricted Aerial Innovation: How a Pioneering Drone Venture Achieved Comprehensive FAA Endorsement, According to ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-teslas-latest-sensor-upgrade-matters-insights-from-zdnet/"><u>Why Tesla's Latest Sensor Upgrade Matters: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-new-qol-improvements-for-android-auto-now-supports-bluetooth-audio-devices/"><u>ZDNet Exclusive: New QOL Improvements for Android Auto Now Supports Bluetooth Audio Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-review-how-this-innovative-bluetooth-adapter-solves-check-engine-warning-issues/"><u>ZDNET Review: How This Innovative Bluetooth Adapter Solves Check Engine Warning Issues</u></a></li>
 </ul></div>
 

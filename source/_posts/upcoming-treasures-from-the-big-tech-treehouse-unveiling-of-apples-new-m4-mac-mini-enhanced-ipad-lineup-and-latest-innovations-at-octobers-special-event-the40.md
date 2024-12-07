@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Treasures From the Big Tech Treehouse: Unveiling of Apple’s New M4 Mac Mini, Enhanced iPad Lineup, and Latest Innovations at October's Special Event - The Insightful Guide"
-date: 2024-11-20T17:03:30.110Z
-updated: 2024-11-27T18:13:57.259Z
+date: 2024-12-02T03:33:57.046Z
+updated: 2024-12-06T22:14:46.528Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,20 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-8-trending-facebook-video-hits/"><u>[New] 2024 Approved Top 8 Trending Facebook Video Hits</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-capture-and-save-fb-videos-on-windows-mac/"><u>[Updated] In 2024, Capture and Save FB Videos on Windows, Mac</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-list-of-8-real-world-youtube-boosters/"><u>[Updated] In 2024, The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-moviegenius-for-windows-8/"><u>[Updated] MovieGenius for Windows 8</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-value-meta-512gb-quest-pro-top-october-prime-day-vr-sale-yet-to-go/"><u>Best Value Meta 512GB Quest Pro: Top October Prime Day VR Sale Yet To Go!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-zero-to-hero-a-beginners-guide-to-windows-10-setup-on-a-fresh-drive/"><u>From Zero to Hero: A Beginner's Guide to Windows 10 Setup on a Fresh Drive</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lens-and-light-essential-camera-movements-every-novice-needs/"><u>In 2024, Lens & Light Essential Camera Movements Every Novice Needs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/login-limbo-no-more-the-unavailable-online-login-glitch-corrected/"><u>Login Limbo No More: The 'Unavailable Online Login' Glitch Corrected</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/saving-big-on-pcs-during-prime-day-sales-expert-tips-for-scoring-the-best-deals-in-october-202-cuarters-featured-by-zdnet/"><u>Saving Big on PCs During Prime Day Sales – Expert Tips for Scoring the Best Deals in October 202 Cuarters | Featured by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-perfect-companion-for-telecommuters-an-expert-look-at-the-lightest-best-laptops-by-zdnet/"><u>The Perfect Companion for Telecommuters: An Expert Look at the Lightest, Best Laptops by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-accessory-for-macbook-air-users-discover-the-slim-easy-to-carry-hub-featured-on-zdnet/"><u>The Ultimate Accessory for MacBook Air Users: Discover the Slim, Easy-to-Carry Hub Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-scoring-amazing-savings-on-amazon-prime-day-2024-this-october-zdnet-insights/"><u>The Ultimate Guide to Scoring Amazing Savings on Amazon Prime Day 2024 This October | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/what-the-addition-of-9-more-mac-models-to-apples-obsolete-list-signifies-for-consumers-and-businesses-insights/"><u>What the Addition of 9 More Mac Models to Apple's 'Obsolete' List Signifies for Consumers and Businesses | Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-revealed-dual-function-fast-charging-with-usb-and-hdmi-hub-capabilities/"><u>ZDNet's Revealed: Dual-Function Fast Charging with USB and HDMI Hub Capabilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-exclusive-list-of-best-video-chat-apps-for-iphone-and-android/"><u>[New] 2024 Approved Exclusive List of Best Video Chat Apps for iPhone and Android</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mastering-mobile-asmr-must-have-apps/"><u>[Updated] 2024 Approved Mastering Mobile ASMR Must-Have Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-distinguishing-between-youtube-content-control-and-creative-commons-flexibility/"><u>[Updated] Distinguishing Between YouTube Content Control and Creative Commons Flexibility</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-elevating-engagement-top-discord-bots-you-must-try-for-2024/"><u>[Updated] Elevating Engagement Top Discord Bots You Must Try for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-reels-harnessing-tiktok-secrets-for-popularity-surge/"><u>[Updated] In 2024, Instagram Reels Harnessing TikTok Secrets for Popularity Surge</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-polishing-job-experience-descriptions/"><u>[Updated] Polishing Job Experience Descriptions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-vs-high-end-robot-cleaners-a-cost-efficiency-showdown-and-purchase-guide-for-savvy-consumers-zdnet/"><u>Affordable vs High-End Robot Cleaners: A Cost-Efficiency Showdown and Purchase Guide for Savvy Consumers | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-the-top-overlooked-dual-function-robot-cleaner-from-an-unknown-brand-featured-on-zdnet/"><u>Discover the Hidden Gem: The Top Overlooked Dual-Function Robot Cleaner From an Unknown Brand - Featured on ZDNet!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-ultimate-smartphone-filmmakers-handbook-for-youtube-thumbnails/"><u>In 2024, The Ultimate Smartphone Filmmaker's Handbook for YouTube Thumbnails</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-approach-in-robotics-learning-from-animal-models-over-human-analogues-insights-from-the-new-breed-book/"><u>Innovative Approach in Robotics: Learning From Animal Models Over Human Analogues - Insights From The New Breed Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-chatgpt-with-our-expert-guide-to-ultimate-custom-instructions/"><u>Master ChatGPT with Our Expert Guide to Ultimate Custom Instructions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-yard-work-unveiling-the-most-enjoyable-remote-controlled-lawnmower-on-zdnets-latest-test-drive/"><u>Revolutionize Yard Work! Unveiling the Most Enjoyable Remote-Controlled Lawnmower on ZDNet's Latest Test Drive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-roborock-vacuum-cleaners-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Roborock Vacuum Cleaners : In-Depth Analysis & Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-best-kept-secret-in-robot-vacuums-a-stunning-find-from-a-newcomer-to-market-zdnet-exclusive-review/"><u>Uncovering the Best Kept Secret in Robot Vacuums: A Stunning Find From a Newcomer to Market | ZDNET Exclusive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-full-potential-top-10-tweaks-for-extending-your-robovacs-battery-efficiency/"><u>Unlocking Full Potential: Top 10 Tweaks for Extending Your RoboVac’s Battery Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-top-benefits-of-roborocks-high-end-robot-cleaner-an-expert-evaluation-zdnet/"><u>Unveiling the Top Benefits of Roborock's High-End Robot Cleaner - An Expert Evaluation | ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Ultra-Compact Powerhouse: The World’s Tiniest Webcam and Its Impressive Flexibility"
-date: 2024-11-26T18:14:51.130Z
-updated: 2024-11-27T18:46:57.406Z
+date: 2024-12-01T21:47:52.600Z
+updated: 2024-12-06T20:34:05.821Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Regarding the battery life on the ThinkBook 14 2-in-1, I found it to be acceptab
 I can get a full day's worth of work out of this laptop on one charge, but honestly, barely so. That being said, the fast charging capability does bring the laptop from nearly dead to 100% in less than an hour. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,18 +120,18 @@ If you're looking for a similarly-priced convertible with a better display, chec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-fullscreen-partnership-how-to-choose-an-mcn/"><u>[New] Fullscreen Partnership How to Choose An MCN</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-screenflow-exploration-a-mac-focused-journey-through-video-editing/"><u>[Updated] 2024 Approved ScreenFlow Exploration A Mac-Focused Journey Through Video Editing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-enhancing-revenue-the-15-premier-fb-insight-gadgets/"><u>2024 Approved Enhancing Revenue The 15 Premier FB Insight Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024-ultimate-selection-hardcore-ready-computers-reviewed/"><u>2024 Ultimate Selection: Hardcore-Ready Computers Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-massive-savings-the-high-capacity-4tb-samsung-t5-drive-at-a-steep-discount-shop-now-at-amazon-featured/"><u>Discover Massive Savings: The High-Capacity 4TB Samsung T5 Drive at a Steep Discount - Shop Now at Amazon | Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-compelling-best-buy-discounts-in-june-2024-insider-tips-from-zdnet/"><u>Discover the Most Compelling Best Buy Discounts in June 2024 - Insider Tips From ZDNET</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-boosting-video-impact-integrating-free-luts-into-your-obs-workflow/"><u>In 2024, Boosting Video Impact Integrating Free LUTs Into Your OBS Workflow</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-phantom-v-fold-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Phantom V Fold Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-advantages-of-choosing-a-chromebook-the-ultimate-device-for-everyone-insights/"><u>Top 6 Advantages of Choosing a Chromebook: The Ultimate Device for Everyone - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-alert-snag-an-8tb-samsung-t5-ssd-for-up-to-36-off-at-amazon-following-prime-day-check-out-what-zdnet-has-found/"><u>Unbeatable Deals Alert! Snag an 8TB Samsung T5 SSD for Up to 36% Off at Amazon Following Prime Day - Check Out What ZDNet Has Found!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-reasons-behind-purchasing-damaged-macbook-pro-monitors-insights-from-zdnet/"><u>Understanding the Reasons Behind Purchasing Damaged MacBook Pro Monitors - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-uncovering-sources-of-aid-navigating-the-challenges-of-green-technology-development/"><u>1. Uncovering Sources of Aid: Navigating the Challenges of Green Technology Development</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-utilizing-insights-from-the-paris-olympic-data-to-enhance-energy-efficiency-for-future-events-a-deep-dive-into-sustainable-sporting-practices/"><u>1. Utilizing Insights From the Paris Olympic Data to Enhance Energy Efficiency for Future Events - A Deep Dive Into Sustainable Sporting Practices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adapting-home-power-consumption-with-smartai-features-of-samsungs-smartthings-zdnet/"><u>Adapting Home Power Consumption with SmartAI Features of Samsung's SmartThings | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-related-threats-to-our-environment-loom-large-urgent-action-required-now/"><u>Apple-Related Threats to Our Environment Loom Large - Urgent Action Required Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assessing-cell-phones-carbon-footprint-effective-strategies-for-a-greener-future/"><u>Assessing Cell Phone's Carbon Footprint: Effective Strategies for a Greener Future</u></a></li>
+<li><a href="https://fox-info.techidaily.com/cyberspace-screenplays-virtual-movie-journeys-for-2024/"><u>Cyberspace Screenplays Virtual Movie Journeys for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-showdown-iphone-15-pro-against-pro-max-unveiled/"><u>Head-to-Head Showdown: IPhone 15 Pro Against Pro Max Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-14-pro-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/instagram-examining-the-questions-of-trust-and-authenticity/"><u>Instagram: Examining the Questions of Trust and Authenticity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/journey-beyond-the-frantic-crafting-epic-slow-motion-content-for-instragram/"><u>Journey Beyond the Frantic Crafting Epic Slow Motion Content for Instragram</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-the-move-from-windows-10-to-windows-11/"><u>Mastering the Move From Windows 10 to Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-decision-guide-to-upgrading-to-the-latest-ios-version/"><u>The Ultimate Decision Guide to Upgrading to the Latest iOS Version</u></a></li>
 </ul></div>
 

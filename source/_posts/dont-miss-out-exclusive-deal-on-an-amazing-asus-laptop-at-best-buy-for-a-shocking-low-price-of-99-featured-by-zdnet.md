@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! Exclusive Deal on an Amazing ASUS Laptop at Best Buy for a Shocking Low Price of $99 - Featured by ZDNet
-date: 2024-11-23T17:57:36.203Z
-updated: 2024-11-27T18:03:03.599Z
+date: 2024-12-04T17:26:09.354Z
+updated: 2024-12-06T21:57:18.363Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,16 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exploring-facebooks-newest-feature-evolution/"><u>[New] 2024 Approved Exploring Facebook's Newest Feature Evolution</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-step-by-step-guide-to-eternal-unlinking-of-a-tiktok-id-for-2024/"><u>[New] Step-by-Step Guide to Eternal Unlinking of a TikTok ID for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-luxury-for-your-laptop-needs-top-reviews-of-stunning-displays-on-a-lightweight-model-featured-by-zdnet/"><u>Affordable Luxury for Your Laptop Needs: Top Reviews of Stunning Displays on a Lightweight Model - Featured by ZDNET</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhance-your-online-presence-with-manycam-top-rated-live-video-and-digital-webcam-tool/"><u>Enhance Your Online Presence with ManyCam – Top-Rated Live Video and Digital Webcam Tool</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experts-insights-on-acquiring-budget-friendly-surface-pro-11-top-3-discoveries-revealed-techwise/"><u>Experts' Insights on Acquiring Budget-Friendly Surface Pro 11 - Top 3 Discoveries Revealed | TechWise</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-preserving-conversations-with-chatgpt-learn-how/"><u>Guide: Preserving Conversations with ChatGPT - Learn How</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-nubia-red-magic-8s-proplus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Nubia Red Magic 8S Pro+ Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-top-5-revolutionary-technology-breakthroughs-in/"><u>The Top 5 Revolutionary Technology Breakthroughs In</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-student-notebooks-a-comprehensive-test-and-analysis-by-experts-zdnet/"><u>Top-Ranking Student Notebooks: A Comprehensive Test & Analysis by Experts - ZDNet</u></a></li>
-<li><a href="https://win-unique.techidaily.com/wie-sie-verhindern-konnen-dass-ihr-computer-auf-windows-11-aktualisiert-wird-und-bei-windows-10-bleibt/"><u>Wie Sie Verhindern Können, Dass Ihr Computer Auf Windows 11 Aktualisiert Wird Und Bei Windows 10 Bleibt</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ecording-youtube-videos-effortlessly-the-free-way-to-screencasts/"><u>[New] Recording YouTube Videos Effortlessly - The Free Way to Screencasts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-fabric-of-future-cutting-edge-vr-technology/"><u>[Updated] 2024 Approved The Fabric of Future Cutting-Edge VR Technology</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cut-the-cost-not-your-content-quality-try-these-top-8-free-tools-for-2024/"><u>[Updated] Cut The Cost, Not Your Content Quality - Try These Top 8 Free Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-idevice-screenshots-latest-techniques/"><u>[Updated] Mastering iDevice Screenshots Latest Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-ideal-debit-cards-for-newbies-a-comprehensive-guide/"><u>1. Ideal Debit Cards for Newbies: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-cutting-edge-chapter-tactics-to-complement-your-youtube-presentations/"><u>2024 Approved Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-discover-top-tier-ps3-games-on-your-pc-today/"><u>2024 Approved Discover Top-Tier PS3 Games on Your PC Today</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-m1s-potential-in-streamlining-editing-tasks/"><u>2024 Approved Exploring M1’s Potential in Streamlining Editing Tasks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-printer-driver-software-update-available-for-windows-10-and-11-operating-systems/"><u>Latest HP Printer Driver Software Update Available for Windows 10 and 11 Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/undisclosed-issues-plague-southwest-airlines-what-passengers-should-be-aware-of/"><u>Undisclosed Issues Plague Southwest Airlines: What Passengers Should Be Aware Of</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/united-states-flight-operations-grounded-due-to-federal-aviation-authority-glitch-comprehensive-overview-technews-today/"><u>United States Flight Operations Grounded Due To Federal Aviation Authority Glitch: Comprehensive Overview | TechNews Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unpacking-deltas-recent-controversy-how-it-alienated-core-patrons-and-why-zdnet/"><u>Unpacking Delta's Recent Controversy: How It Alienated Core Patrons and Why? | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultimate-tech-toolkit-indispensable-devices-for-todays-work-traveler-expert-tips-by-zdnet/"><u>Unveiling the Ultimate Tech Toolkit: Indispensable Devices for Today's Work Traveler - Expert Tips by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-hyundai-and-qualcomms-strategic-alliance-for-next-gen-vehicle-infotainment-technology/"><u>ZDNet Exclusive: Hyundai and Qualcomm's Strategic Alliance for Next-Gen Vehicle Infotainment Technology</u></a></li>
 </ul></div>
 

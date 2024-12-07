@@ -1,7 +1,7 @@
 ---
 title: "The Future of Office Tech: Adapting Work Devices for the Age of Artificial Intelligence | ZDNet"
-date: 2024-09-17 23:40:23
-updated: 2024-09-20 10:45:48
+date: 2024-12-03T21:37:05.722Z
+updated: 2024-12-06T23:39:35.092Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,31 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-effortless-video-capturing-on-win11-os-for-2024/"><u>[New] Effortless Video Capturing on Win11 OS for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/6-equipped-with-advanced-ai-capabilities-insights-and-updates/"><u>6 Equipped with Advanced AI Capabilities - Insights and Updates</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-an-expert-at-youtube-live-streams-with-google-meet/"><u>Become an Expert at YouTube Live Streams with Google Meet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/contributing-to-chromes-future-the-essential-role-of-user-feedback-and-how-it-shapes-development-exclusive-tips-zdnet/"><u>Contributing to Chrome's Future: The Essential Role of User Feedback and How It Shapes Development (Exclusive Tips) | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-future-of-computing-with-dells-new-xps-14-laptop-exclusively-tested-and-reviewed-by-zdnet/"><u>Discover the Future of Computing with Dell's New XPS 14 Laptop, Exclusively Tested and Reviewed by ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-crafting-a-professional-resume-with-chatgpt/"><u>Effective Strategies: Crafting a Professional Resume with ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-a-budget-friendly-asus-15-inch-laptop-with-essential-ports-at-walmart-for-only-250-the-ultimate-deal/"><u>Get Your Hands on a Budget-Friendly Asus 15-Inch Laptop with Essential Ports at Walmart for Only $250 – The Ultimate Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-metas-unbeatable-512gb-quest-3-offer-top-tier-virtual-reality-bargain-of-the-moment-detailed-review-by-zdnet/"><u>Get Your Hands on Meta's Unbeatable 512GB Quest 3 Offer: Top-Tier Virtual Reality Bargain of the Moment - Detailed Review by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connectivity-hurdles-restoring-wireless-capability-easily/"><u>Overcoming Connectivity Hurdles: Restoring Wireless Capability Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/phasmophobia-crash-troubles-heres-how-to-resolve-the-latest-issues/"><u>Phasmophobia Crash Troubles? Here's How to Resolve the Latest Issues!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/presidents-day-savings-alert-snag-a-discounted-new-macbook-pro-featuring-m3-pro-chip-for-200-less-techdeals-on-zdnet/"><u>President’s Day Savings Alert: Snag a Discounted New MacBook Pro Featuring M3 Pro Chip for $200 Less | TechDeals on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-savings-exclusive-guide-to-early-bird-deals-on-high-performance-laptops-for-octobers-prime-shopping-event-zdnet/"><u>Secure Your Savings: Exclusive Guide to Early Bird Deals on High-Performance Laptops for October's Prime Shopping Event | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-motherboard-drivers-in-windows/"><u>Step-by-Step Guide: Updating Your Motherboard Drivers in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-role-of-output-impedance-in-audio-devices-explained/"><u>The Role of Output Impedance in Audio Devices Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-laptops-in-2-comprehensive-2024-reviews-by-brand-razer-acer-msi-and-others/"><u>Top Rated Gaming Laptops in 2#: Comprehensive 2024 Reviews by Brand - Razer, Acer, MSI & Others</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-update-bug-0xc1900208-a-comprehensive-solution-for-seamless-installation/"><u>Win11 Update Bug 0Xc1900208: A Comprehensive Solution for Seamless Installation</u></a></li>
+<li><a href="https://win-studio.techidaily.com/windows-110xeb33c3/"><u>Windows 11中出现的代码0xeb33c:掌握这3个简单解决方法</u></a></li>
+</ul></div>
+

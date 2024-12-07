@@ -1,7 +1,7 @@
 ---
 title: Discover Why Samsung's New Copilot+ Is Dominating the Market as the Premier Windows Laptop Bargain of the Year | Tech Insight by ZDNet.
-date: 2024-11-21T16:06:38.231Z
-updated: 2024-11-27T18:23:41.198Z
+date: 2024-12-01T19:29:37.933Z
+updated: 2024-12-06T17:15:08.770Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,18 +166,14 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-monetization-a-beginners-guide-to-facebook-revenue/"><u>[New] In 2024, Mastering Monetization A Beginner’s Guide to Facebook Revenue</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-best-of-the-best-10-acclaimed-online-vimeo-downloaders/"><u>[Updated] Best of the Best 10 Acclaimed Online Vimeo Downloaders</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-new-insight-sony-s6500-bd-reader-update/"><u>[Updated] New Insight Sony S6500 BD Reader Update</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-moto-g-stylus-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Moto G Stylus (2023)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-202n3-gaming-blowouts-secure-up-to-1000-in-savings-before-its-too-late-spotlight-by-zdnet/"><u>Exclusive October Prime Day 202N3 Gaming Blowouts! Secure Up to $1,000 in Savings Before It's Too Late – Spotlight by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-hypers-innovative-storage-solutions-ultra-fast-hubs-portable-docks-and-high-performance-ssd-enclosures-for-next-level-laptop-upgrades/"><u>Exploring Hyper's Innovative Storage Solutions: Ultra-Fast Hubs, Portable Docks & High-Performance SSD Enclosures for Next-Level Laptop Upgrades</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-lava-blaze-2-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Lava Blaze 2 Pro FRP Bypass</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lg-gram-pro-vs-macbook-air-a-comparative-analysis-reveals-three-key-advantages/"><u>LG Gram Pro vs MacBook Air: A Comparative Analysis Reveals Three Key Advantages</u></a></li>
-<li><a href="https://win-popular.techidaily.com/recover-lost-memories-retrieve-deleted-images-from-an-iphone-easily/"><u>Recover Lost Memories: Retrieve Deleted Images From an iPhone Easily!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-hp-victus-15-gaming-notebook-at-an-unbeatable-price-of-just-515-during-best-buys-prime-day-event-exclusive-offer/"><u>Snag the HP Victus 15 Gaming Notebook at an Unbeatable Price of Just $515 During Best Buy's Prime Day Event - Exclusive Offer !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snap-up-the-deal-8tb-samsung-t5-ssd-available-at-a-steep-36-discount-on-amazon-insights-from-zdnet/"><u>Snap Up the Deal: 8TB Samsung T5 SSD Available at a Steep 36% Discount on Amazon - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-elite-15-inch-laptops-for-2abbreviations2024-professional-insights-and-ratings-pcmag/"><u>Ultimate List of Elite 15-Inch Laptops for 2Abbreviations!2024: Professional Insights and Ratings | PCMag</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-audio-blending-into-youtube-clips-using-editors/"><u>[New] In 2024, Effortless Audio Blending Into YouTube Clips Using Editors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-notch-techniques-for-saving-online-radio-broadcasts/"><u>[Updated] Top-Notch Techniques for Saving Online Radio Broadcasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-mix-mastery-the-essence-of-crossfade-for-2024/"><u>Audio Mix Mastery The Essence of Crossfade for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-s17t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo S17t Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/izing-videos-on-youtube-strategies-success-for-2024/"><u>Monetizing Videos on YouTube Strategies Success for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reduce-your-emissions-with-ubers-latest-feature-discover-the-amount-of-co2-youve-prevented-from-polluting-our-atmosphere-the-complete-guide-zdnet/"><u>Reduce Your Emissions with Uber's Latest Feature: Discover the Amount of CO2 You've Prevented From Polluting Our Atmosphere - The Complete Guide | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-chip-technology-harnessed-from-fungi-to-charge-gadgets-and-protect-our-environment-explore-with-zdnet/"><u>Revolutionary Chip Technology Harnessed From Fungi to Charge Gadgets and Protect Our Environment | Explore with ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-reminders-with-reusability-discover-rocketbooks-optimistic-vision-for-sustainable-notes-zdnet/"><u>Revolutionizing Reminders with Reusability: Discover Rocketbook’s Optimistic Vision for Sustainable Notes | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-the-cart-top-strategies-on-how-artificial-intelligence-is-redefining-your-grocery-experience-insights-from-zdnet/"><u>Revolutionizing the Cart: Top Strategies on How Artificial Intelligence Is Redefining Your Grocery Experience - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Lenovo Forecasts Essential AI and Cybersecurity Capabilities in Future Laptops - Insights From ZDNet
-date: 2024-11-23T17:42:24.476Z
-updated: 2024-11-27T18:14:09.331Z
+date: 2024-11-30T16:45:30.174Z
+updated: 2024-12-06T16:56:11.070Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,24 +77,18 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-cadences-and-crescendos-your-ringtone-repository-guide/"><u>[Updated] In 2024, Cadences and Crescendos Your Ringtone Repository Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-laughing-liberally-with-our-meme-toolbox/"><u>[Updated] Laughing Liberally with Our Meme Toolbox</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/515-yes-please-secure-your-hp-victus-n-gaming-powerhouse-before-it-sells-out-on-best-buys-exclusive-anti-prime-deal-tips/"><u>$515? Yes, Please! Secure Your HP Victus N Gaming Powerhouse Before It Sells Out on Best Buy's Exclusive Anti-Prime Deal | Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-elite-authentication-keys-comprehensive-expert-analysis-and-rankings-securetech-digest/"><u>2024'S Elite Authentication Keys: Comprehensive Expert Analysis and Rankings | SecureTech Digest</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-v30-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme V30 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/adraise-the-curtain-on-amd-rdna-35-when-to-expect/"><u>ADRaise the Curtain on AMD RDNA 3.5 - When to Expect?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/camon-20-music-recovery-recover-deleted-music-from-camon-20-by-fonelab-android-recover-music/"><u>Camon 20 Music Recovery - Recover Deleted Music from Camon 20</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-concealed-secrets-of-this-lightweight-lenovo-notebooks-trackpoint-and-more-techinsights/"><u>Discover the Concealed Secrets of This Lightweight Lenovo Notebook's TrackPoint & More | TechInsights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/embracing-the-split-design-an-enlightening-week-of-typing-on-a-dedicated-ergonomic-keyboard-zdnet/"><u>Embracing the Split Design: An Enlightening Week of Typing on a Dedicated Ergonomic Keyboard | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-ram-upgrades-of-2023-boosting-gaming-and-productivity-with-expert-picks-from-zdnet/"><u>Essential RAM Upgrades of 2023: Boosting Gaming and Productivity with Expert Picks From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-access-and-enjoy-apples-cutting-edge-3d-spatial-content-with-a-meta-quest-device-tips-and-tricks-zdnet/"><u>How to Access and Enjoy Apple's Cutting-Edge 3D Spatial Content with a Meta Quest Device - Tips & Tricks | ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/job-security-and-ai-use-are-there-consequences-to-chatting-with-chatgpt-at-work/"><u>Job Security and AI Use: Are There Consequences to Chatting with ChatGPT at Work?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/neurodevelopmental-advantages-in-youthful-language-learning/"><u>Neurodevelopmental Advantages in Youthful Language Learning</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-prime-gaming-deals-of-2024-save-big-now-before-theyre-gone-huge-discounts-up-to-1k-zdnet-exclusive/"><u>October Prime Gaming Deals of 2024: Save Big Now Before They're Gone! Huge Discounts up to $1K | ZDNET Exclusive</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-issue-why-isnt-football-manager-2023-loading/"><u>Solving the Issue: Why Isn't Football Manager 2023 Loading?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tablet-or-laptop-showdown-in-depth-review-of-the-ipad-pro-vs-macbook-air-to-find-your-ideal-device/"><u>Tablet or Laptop Showdown: In-Depth Review of the iPad Pro vs MacBook Air to Find Your Ideal Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-office-space-grab-the-multifunctional-docking-station-11-features-in-one-and-save-big-with-44-off-exclusive-offer/"><u>Transform Your Office Space! Grab the Multifunctional Docking Station, 11 Features in One, and Save Big with 44% Off – Exclusive Offer !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-black-friday-offer-save-big-on-the-hp-envy-x360-touchscreen-laptop-up-to-40-discount-get-yours-for-just-499-today-at-store-name/"><u>Unmissable Black Friday Offer: Save Big on the HP Envy X360 Touchscreen Laptop - Up to 40% Discount! Get Yours for Just $499 Today at [Store Name]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-presidents-day-offer-save-big-on-the-latest-macbook-pro-with-m3-pro-at-an-exclusive-discount-of-200-shop-now/"><u>Unmissable President's Day Offer: Save Big on the Latest MacBook Pro with M3 Pro at an Exclusive Discount of $200 - Shop Now!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elite-text-enhancement-tools-and-techniques/"><u>[New] Elite Text Enhancement Tools & Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-prime-6-sleek-designs-in-virtual-houses-for-2024/"><u>[New] Prime 6 Sleek Designs in Virtual Houses for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-sighted-making-your-windows-11-taskbar-glossy/"><u>Clear-Sighted: Making Your Windows 11 Taskbar Glossy</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-resolve-the-hulu-hd-network-issue-error-code-p-dev320-on-your-television/"><u>How to Resolve the Hulu HD Network Issue (Error Code: P-DEV320) on Your Television</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-g42-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia G42 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-start-utilizing-zoom-in-windows-10-systems/"><u>In 2024, Quick Start Utilizing Zoom in Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g933-mic-issues-resolved-a-step-by-step-fixing-guide/"><u>Logitech G933 Mic Issues Resolved - A Step-by-Step Fixing Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-projector-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Projector Models : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-old-tv-to-high-definition-wonderland-for-just-50-with-our-top-pick-of-4k-sticks-insights-from-zdnet/"><u>Transform Old TV to High-Definition Wonderland for Just $50 with Our Top Pick of 4K Sticks | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-premier-streaming-deals-for-the-festive-season-from-apple-music-to-amazon-discounts-zdnets-exclusive-insights/"><u>Ultimate List of Premier Streaming Deals for the Festive Season: From Apple Music to Amazon Discounts | ZDNET's Exclusive Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-premium-tv-antennas-a-comprehensive-review-by-tech-savvy-experts/"><u>Ultimate Selection of Premium TV Antennas - A Comprehensive Review by Tech Savvy Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-33-savings-snag-your-free-xbox-game-pass-and-fire-tv-combo-in-post-prime-day-blowout-featured-by-zdnet/"><u>Unbeatable 33% Savings: Snag Your Free Xbox Game Pass & Fire TV Combo in Post-Prime Day Blowout Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-free-galaxy-buds-premium-for-your-new-samsung-galaxy-a35-phone-exclusive-offer-inside/"><u>Unlock Free Galaxy Buds Premium for Your New Samsung Galaxy A35 Phone – Exclusive Offer Inside!</u></a></li>
 </ul></div>
 

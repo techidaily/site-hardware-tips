@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Apple M3 MacBook Air: The Revolutionary, Budget-Friendly AI Device You Can't Miss | Review"
-date: 2024-11-24T16:04:35.810Z
-updated: 2024-11-27T19:47:12.548Z
+date: 2024-12-04T20:30:35.264Z
+updated: 2024-12-06T16:33:14.209Z
 tags:
   - laptops
 categories:
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/70eba607a5493f0dcd7d40fac4dac70e28238f9a9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -47,6 +43,10 @@ First, the best thing about the arrival of the M3 MacBook Air models might be th
 One more thing to keep in mind if you're considering buying the 15-inch M3 MacBook Air: if you configure it with 16GB of RAM and 512GB of storage, then you'll be at $1,699 and quickly getting into 14-inch M3 MacBook Pro territory in terms of cost. If you're going to go there, I'd recommend opting for the 14-inch M3 MacBook Pro instead, because of its much better display and sound, and the fact that you can hook it up to two external monitors and still use the laptop's monitor as a third display.
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -72,7 +72,7 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -109,6 +109,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cinebench CPU/GPU benchmark (higher is better)
 
 ---
@@ -138,7 +142,7 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best features of M3 MacBook Air?
@@ -154,6 +158,10 @@ The M3 MacBook Air is powerful enough to feel like a desktop. Here, it's powerin
 Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
 
@@ -171,10 +179,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9d7a976-2d13-4b45-813c-13ccc3ba0f0e%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9d7a976-2d13-4b45-813c-13ccc3ba0f0e%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -184,10 +188,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,21 +235,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-smilesketcher-easy-to-use-digital-comedy-tool/"><u>[New] In 2024, SmileSketcher Easy-to-Use Digital Comedy Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavorful-funnels-catchy-recipe-channels-that-work/"><u>[Updated] 2024 Approved Flavorful Funnels Catchy Recipe Channels That Work</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-entry-level-landing-low-cost-profitable-youtube-platforms/"><u>[Updated] In 2024, Entry Level Landing Low-Cost, Profitable YouTube Platforms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-whatsapp-web-chat-basics-for-pc-users/"><u>[Updated] WhatsApp Web Chat Basics for PC Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-joining-the-digital-dialogue-facebook-basics/"><u>2024 Approved Joining the Digital Dialogue (Facebook Basics)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-strategies-for-powerful-instagram-captions/"><u>ChatGPT Strategies for Powerful Instagram Captions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/commanding-control-in-windows-11-filtering-tasks-and-implementing-new-theme-vibes/"><u>Commanding Control in Windows 11: Filtering Tasks & Implementing New Theme Vibes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-efficient-work-travel-tablet-alternative-to-microsoft-and-lenovo-according-to-industry-experts-insights/"><u>Discover the Most Efficient Work Travel Tablet Alternative to Microsoft and Lenovo, According to Industry Experts Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exceptional-longevity-and-breathtaking-display-discover-the-best-long-lasting-laptop-reviewed/"><u>Exceptional Longevity and Breathtaking Display: Discover the Best Long-Lasting Laptop Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-to-julys-most-competitive-laptop-offers-featured/"><u>Exclusive Guide to July's Most Competitive Laptop Offers, Featured</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-xr21-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia XR21 Bootloader Easily</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-workspaces-discovering-the-most-exceptional-2-in-1-tech-of-this-year-with-a-hidden-perk-zdnet-insight/"><u>Revolutionizing Workspaces: Discovering the Most Exceptional 2-in-1 Tech of This Year with a Hidden Perk | ZDNet Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/spectacular-deals-alert-get-the-ultimate-bargain-on-samsung-odyssey-neo-g8-monitor-for-550-less-at-best-buys-anti-prime-day-event/"><u>Spectacular Deals Alert! Get the Ultimate Bargain on Samsung Odyssey Neo G8 Monitor for $550 Less at Best Buy's Anti-Prime Day Event</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-an-ideal-lightweight-laptop-for-remote-working-according-to-zdnet-tests/"><u>The Ultimate Guide to Choosing an Ideal Lightweight Laptop for Remote Working, According to ZDNet Tests</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-exclusive-access-to-the-top-rated-gaming-sound-experience-on-amazon-now-just-150-sharp/"><u>Unbeatable Bargain Alert: Exclusive Access to the Top-Rated Gaming Sound Experience on Amazon - Now Just $150 Sharp</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-chatgpt-code-translator-its-significance-and-uses/"><u>Understanding the ChatGPT Code Translator: Its Significance and Uses</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-most-influential-srt-boosters-for-pc-and-apple-systems/"><u>[New] 2024 Approved Most Influential SRT Boosters for PC & Apple Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-memes-galore-download-and-share-joy/"><u>[New] In 2024, Memes Galore Download & Share Joy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-no-money-no-problem-your-guide-to-free-youtube-ads/"><u>[New] No Money, No Problem! Your Guide to Free YouTube Ads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-organizing-elements-for-dynamic-youtube-videos/"><u>2024 Approved Organizing Elements for Dynamic YouTube Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-defy-2-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola Defy 2 to iPad | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-watch-ultra-why-it-reigns-supreme-among-android-smartwatches-and-now-comes-with-an-irresistible-labor-day-offer-tech-review-zdnet/"><u>Samsung Galaxy Watch Ultra: Why It Reigns Supreme Among Android Smartwatches and Now Comes with an Irresistible Labor Day Offer | Tech Review ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unveils-new-heart-health-monitoring-capabilities-for-galaxy-watch-series-exclusive-features-covered-by-zdnet/"><u>Samsung Unveils New Heart Health Monitoring Capabilities for Galaxy Watch Series | Exclusive Features Covered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamlessly-enhancing-apple-watch-functionality-with-advanced-techniques-tips-and-tricks-zdnet-exclusive/"><u>Seamlessly Enhancing Apple Watch Functionality with Advanced Techniques: Tips and Tricks [ZDNet Exclusive]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-apple-watch-series-10-for-just-99-with-early-bird-preorders-on-bestbuy-the-ultimate-guide-techradar/"><u>Secure Your Apple Watch Series 10 for Just $99 with Early Bird Preorders on BestBuy – The Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-update-errors-a-comprehensive-guide/"><u>Solving Windows Update Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/switching-seasons-in-wearables-how-a-garmin-smartwatch-swept-my-daughter-off-her-feet-away-from-fitbit/"><u>Switching Seasons in Wearables: How a Garmin Smartwatch Swept My Daughter Off Her Feet Away From Fitbit</u></a></li>
+<li><a href="https://driver-install.techidaily.com/turbo-speed-tp-link-wi-fi-drivers-downloads-for-windows/"><u>Turbo Speed: TP Link Wi-Fi Drivers Downloads for Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-potential-with-the-budget-friendly-fitbit-inspire-3-at-99-a-top-choice-reviewed-by-zdnet/"><u>Unleash Your Potential with the Budget-Friendly Fitbit Inspire 3 at $99 – A Top Choice Reviewed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-new-features-apple-watch-series-9-introduces-double-tap-functionality-explore-the-possibilities/"><u>Unlocking New Features: Apple Watch Series 9 Introduces Double-Tap Functionality - Explore the Possibilities!</u></a></li>
 </ul></div>
 

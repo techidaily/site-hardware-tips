@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Lenovo ThinkPad Z16 Analysis: Outstanding Performance Hindered by Poor Camera Quality - A Comprehensive Overview"
-date: 2024-11-24T19:44:18.098Z
-updated: 2024-11-27T18:24:34.823Z
+date: 2024-12-06T02:31:13.236Z
+updated: 2024-12-06T21:49:37.560Z
 tags:
   - laptops
 categories:
@@ -44,6 +44,10 @@ Read on to see if this new ThinkPad from Lenovo should be your next laptop.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Processor             | AMD Ryzen 9 PRO                                                                    |
@@ -58,7 +62,7 @@ Read on to see if this new ThinkPad from Lenovo should be your next laptop.
 | Weight and dimensions | 3.99lb \| 354.4 x 237.4 x 15.8 mm (13.95 x 9.35 x 0.62 inches)                     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build
@@ -96,7 +100,7 @@ Michael Gariffo/ZDNET
 I was initially disappointed by the new trackpad. By default, the haptic feedback it uses to replace mechanical clicks was very weak, almost undetectable near its edges. Thankfully, once I'd raised the haptic feedback level in the laptop's settings, it improved dramatically, and was hard to discern from mechanical clicks. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features and ports
@@ -144,7 +148,7 @@ As mentioned in the video, I've given the webcam the best chance to perform well
 It's still better than most budget-laptops. But, the Z16 is a premium model, and you should expect its camera to rise to that designation. Unfortunately, it didn't. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -199,10 +203,6 @@ If you do need to top up mid-day, the included 135W charger makes quick work of 
 
 [Lenovo ThinkPad Z16 $899 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8NVY2FZ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9d7a11a8-80e2-4a96-95cc-a42fb6ddfa05%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 I opened by noting that the [ThinkPad Z16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21D4001VUS-Notebook-Board%2Fdp%2FB0B8NVY2FZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9d7a11a8-80e2-4a96-95cc-a42fb6ddfa05%7Cdtp&dtb=1) is very much a premium laptop, with the high expectations that designation carries. From the build quality, through the performance, to the battery life, I was consistently impressed. The only negative standout was that pesky webcam. If Lenovo hadn't branded the lid with its specs and created a dedicated "Communications Bar" to house it, I might have shrugged at its mediocre performance. But, if you're going to make something a showpiece of a $2,000ish laptop, it had better be a highlight. It wasn't.
@@ -210,7 +210,7 @@ I opened by noting that the [ThinkPad Z16](https://buy.geni.us/Proxy.ashx?TSID=3
 If you want a do-it-all, desktop replacement notebook that will last just about all day, look no further. There are systems that perform just as well for hundreds of dollars less, but none that offer the same level of wow-inducing build quality or the attention to detail that's made Lenovo's ThinkPad line a favorite of business travelers for 30 years. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -261,22 +261,18 @@ If you want something a bit smaller with the same ultra-premium vibes as Lenovo'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-global-iptv-connectivity-solutions/"><u>2024 Approved Global IPTV Connectivity Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-process-to-master-color-grading-with-luts-in-pscc/"><u>2024 Approved Step-by-Step Process to Master Color Grading with LUTs in PSCC</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003565146-call-of-duty-black-ops-4-not-launching-discover-how-to-fix-it-now/"><u>Call of Duty Black Ops 4 Not Launching? Discover How to Fix It Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-tips-to-correct-hey-siri-problems-encountered-on-iphones/"><u>Comprehensive Tips to Correct 'Hey Siri' Problems Encountered on iPhones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-apples-flop-to-a-hit-the-surprising-evolution-story/"><u>From Apple’s Flop to a Hit: The Surprising Evolution Story</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-basic-to-expert-mastering-the-art-of-adobe-ps-background-removal-for-2024/"><u>From Basic to Expert Mastering the Art of Adobe PS Background Removal for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-failure-to-triumph-apple-transforms-its-poorest-offering-into-a-top-tier-gem-zdnet/"><u>From Failure to Triumph: Apple Transforms Its Poorest Offering Into a Top-Tier Gem | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-the-most-out-of-audio-on-a-budget-explore-the-monoprice-dt-3bt-desktop-speaker-deal-under-100-zdnet/"><u>Get the Most Out of Audio on a Budget: Explore the Monoprice DT-3BT Desktop Speaker Deal Under 100$ | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-the-most-out-of-cyber-monday-with-our-exclusive-deal-save-big-and-bundle-fujifilm-cameras-for-only-800-less-now-on-zdnet/"><u>Get the Most Out of Cyber Monday with Our Exclusive Deal: Save Big and Bundle Fujifilm Cameras for Only $800 Less, Now On ZDNET!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-13-ultrawithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi 13 Ultrawith/without a PC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-what-lies-beneath-an-exploration-into-youtubes-unlisted-video-space/"><u>In 2024, What Lies Beneath An Exploration Into YouTube's Unlisted Video Space</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/logitech-unveils-budget-friendly-webcams-tailored-for-remote-and-hybrid-professionals-whats-new-zdnet/"><u>Logitech Unveils Budget-Friendly Webcams Tailored for Remote & Hybrid Professionals: What's New? [ZDNet]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-cant-launch-valheim-on-startup-issue-for-players-in-202e/"><u>Resolving the 'Can't Launch Valheim on Startup Issue for Players in 202E</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-up-to-46-off-specialized-earwax-removal-cameras-for-tech-enthusiasts-during-black-friday-deals-zdnet/"><u>Score Big Savings! Up to 46% Off Specialized Earwax Removal Cameras for Tech Enthusiasts During Black Friday Deals | ZDNET</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-zte-nubia-flip-5g-by-drfone-android/"><u>Three Ways to Sim Unlock ZTE Nubia Flip 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tired-of-your-aging-laptop-webcam-experience-the-worlds-tiniest-clip-on-cam-by-opal-zdnet-news/"><u>Tired of Your Aging Laptop Webcam? Experience the World's Tiniest Clip-On Cam by Opal | ZDNet News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premium-usb-c-charging-adapters-for-laptops-expert-reviews-and-comparisons/"><u>Top 5 Premium USB-C Charging Adapters for Laptops - Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-crafting-an-engaging-review-vlog-for-everyday-items/"><u>[New] Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-essential-20-hysterical-detention-cell-gifs-to-amplify-your-online-joy/"><u>[New] Essential 20 Hysterical Detention Cell Gifs to Amplify Your Online Joy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-streamline-your-content-with-these-4-instagram-looping-hacks-for-2024/"><u>[New] Streamline Your Content with These 4 Instagram Looping Hacks for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-share-images-from-phone-snapshots-seamlessly/"><u>[Updated] In 2024, How To Share Images From Phone Snapshots Seamlessly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-your-next-raspberry-pi-top-sources-for-the-newest-models-and-competing-choices-techradar/"><u>Discovering Your Next Raspberry Pi: Top Sources for the Newest Models & Competing Choices | TechRadar</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellence-in-auditory-theatre-writing/"><u>Excellence in Auditory Theatre Writing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-apples-m3-chip-replacing-m1-and-m2-optimal-time-for-upgrading-and-reasons/"><u>Is Apple's M3 Chip Replacing M1 & M2: Optimal Time for Upgrading and Reasons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/renewable-resources-can-be-replenished-more-quickly-than-they-are-used-up/"><u>Renewable Resources Can Be Replenished More Quickly than They Are Used Up.</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/solution-expert-comment-reussir-la-restauration-du-bios-de-serveur-windows-server-2019-decouvrez-les-plus-hauteurs-defficacite/"><u>Solution Expert: Comment Réussir La Restauration Du BIOS De Serveur Windows Server 2019 - Découvrez Les Plus Hauteurs D'Efficacité!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-latest-intel-chipset-flaw-affected-systems-patch-application-guide-and-in-depth-information/"><u>Understanding the Latest Intel Chipset Flaw – Affected Systems, Patch Application Guide & In-Depth Information</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tomorrow-discover-whats-new-in-ubuntu-desktop-2n10-and-its-impact-on-linux-landscapes-zdnet-insight/"><u>Unlocking Tomorrow: Discover What's New in Ubuntu Desktop 2N.10 And Its Impact on Linux Landscapes | ZDNET Insight</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-secrets-of-professional-free-youtube-transcription-for-2024/"><u>Unveiling the Secrets of Professional Free YouTube Transcription for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-these-4-popular-iproducts-may-not-be-your-best-choice-according-to-tech-gurus-at-zdnet/"><u>Why These 4 Popular iProducts May Not Be Your Best Choice According to Tech Gurus at ZDNet</u></a></li>
 </ul></div>
 

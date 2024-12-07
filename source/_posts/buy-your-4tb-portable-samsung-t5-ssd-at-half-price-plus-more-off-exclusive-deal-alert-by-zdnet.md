@@ -1,7 +1,7 @@
 ---
 title: Buy Your 4TB Portable Samsung T5 SSD at Half Price + More Off | Exclusive Deal Alert by ZDNet
-date: 2024-09-17 11:37:57
-updated: 2024-09-20 11:53:11
+date: 2024-12-05T20:25:09.014Z
+updated: 2024-12-06T21:26:08.885Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-direct-approaches-to-documenting-google-voice-interactions/"><u>[New] In 2024, Direct Approaches to Documenting Google Voice Interactions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-flair-just-facts-dissecting-recordcast/"><u>[New] No Flair, Just Facts Dissecting RecordCast</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities/"><u>[New] Pioneering Usability Unearthed Strategies for Amplified Windows 11 Capabilities</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-a59-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo A59 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-nvidia-screen-recorder-record-games-with-ease/"><u>2024 Approved NVIDIA Screen Recorder - Record Games with Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-fixes-how-to-refresh-the-firmware-of-a-lenovo-dock/"><u>Easy Fixes: How to Refresh the Firmware of a Lenovo Dock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-and-tough-discovering-the-ultimate-rugged-laptops-of-2024-according-to-industry-experts-at-zdnet/"><u>Future-Proof and Tough: Discovering the Ultimate Rugged Laptops of 2024, According to Industry Experts at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-dell-transformed-my-expectations-with-a-laptop-packed-full-of-bells-and-whistles-at-just-300e-insights-review/"><u>How Dell Transformed My Expectations with a Laptop Packed Full of Bells and Whistles at Just $3,00E | Insights Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-visual-power-in-gaming-channels-a-template-guidebook/"><u>In 2024, Visual Power in Gaming Channels A Template Guidebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-microsofts-latest-surface-laptop-5-satisfaction-marginally-lower-than-anticipated-tech-analysis-on-zdnet/"><u>In-Depth Look at Microsoft's Latest Surface Laptop 5: Satisfaction Marginally Lower than Anticipated | Tech Analysis on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-alert-samsung-4tb-portable-ssd-t5-now-available-on-amazon-for-just-under-half-the-original-price-zdnet/"><u>Massive Discount Alert: Samsung 4TB Portable SSD (T5) Now Available on Amazon for Just Under Half the Original Price - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-savings-on-cyber-monday-with-exceptional-laptop-deals-for-under-500-plus-bonus-item-just-99-insider-tips/"><u>Maximize Your Savings on Cyber Monday with Exceptional Laptop Deals for Under $500 + Bonus Item Just $99 - Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-for-gamers-intel-arc-powered-pcs-comes-with-valuable-game-collection-worth-more-than-450-insights/"><u>Score Big Savings for Gamers! Intel Arc-Powered PCs Comes With Valuable Game Collection Worth More Than $450 Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-latest-lenovo-thinkpad-2-in-1-upgrade-a-game-changer-for-professional-users-insights/"><u>The Latest Lenovo ThinkPad 2-in-1 Upgrade: A Game-Changer for Professional Users - Insights</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/top-5-highly-effective-anti-spyware-tools-and-removers-protect-your-system-now/"><u>Top 5 Highly Effective Anti-Spyware Tools & Removers: Protect Your System Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-amd-radeon-r5-driver-packs-for-all-windows-platforms-including-win-11-and-back-to-win-7/"><u>Updated AMD Radeon R5 Driver Packs for All Windows Platforms Including Win 11 & Back to Win 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-chromebooks-should-be-your-first-choice-the-ultimate-guide-to-their-benefits-by-zdnet/"><u>Why Chromebooks Should Be Your First Choice – The Ultimate Guide to Their Benefits by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-travel-essentials-discover-the-ideal-work-ready-13-laptop-that-outshines-dell-xps-and-macbook-options/"><u>ZDNet's Travel Essentials: Discover the Ideal Work-Ready 13 Laptop That Outshines Dell XPS and MacBook Options</u></a></li>
+</ul></div>
+

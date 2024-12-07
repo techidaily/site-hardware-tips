@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Review: Unleashing Power in a Compact Form with Morefire's S5n Plus Mini PC, 1TB Storage & Turbo Graphics!"
-date: 2024-09-17 19:24:17
-updated: 2024-09-20 11:19:42
+date: 2024-11-30T20:10:25.473Z
+updated: 2024-12-06T16:29:53.668Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,27 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-a-comprehensive-handbook-for-recording-live-hulu-on-pcmacosandroid/"><u>[New] A Comprehensive Handbook for Recording Live Hulu on PC/MacOS/Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-diminishing-excessive-encoding-obs/"><u>[Updated] 2024 Approved Diminishing Excessive Encoding (OBS)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-spring-deals-score-a-200-discount-on-apples-new-m3-macbook-pro-insights/"><u>Amazon's Spring Deals: Score a $200 Discount on Apple's New M3 MacBook Pro - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-ultimate-flexibility-a-comprehensive-review-of-the-top-lenovo-2-in-1-for-professionals-on-zdnet/"><u>Discovering the Ultimate Flexibility: A Comprehensive Review of the Top Lenovo 2-in-1 for Professionals on ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-14-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 14 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-navigating-the-world-of-audio-editing-with-garageband/"><u>In 2024, Navigating the World of Audio Editing with GarageBand</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-vs-old-tech-showdown-the-m3-versus-m2-macbook-air-for-apple-enthusiasts/"><u>New Vs. Old Tech Showdown: The M3 Versus M2 MacBook Air for Apple Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-amazon-prime-deals-apple-macbook-air-with-m3-chip-now-at-a-250-discount-full-coverage/"><u>October Amazon Prime Deals: Apple MacBook Air with M3 Chip Now at a $250 Discount - Full Coverage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-gaming-disruptions-solving-pc-issues-with-new-world/"><u>Say Goodbye to Gaming Disruptions: Solving PC Issues with 'New World'</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971617130-seamlessly-install-your-intel-centrino-advanced-n-6205-wifi-card-free-drivers-available/"><u>Seamlessly Install Your Intel Centrino Advanced-N 6205 WiFi Card - Free Drivers Available!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1729392525365-top-rated-touchscreen-laptops-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Touchscreen Laptops: Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-methodology-for-rigorous-laptop-reviews-and-assessments-explored/"><u>ZDNet's Methodology for Rigorous Laptop Reviews and Assessments Explored</u></a></li>
+</ul></div>
+

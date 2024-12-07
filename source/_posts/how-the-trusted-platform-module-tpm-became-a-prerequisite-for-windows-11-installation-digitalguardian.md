@@ -1,7 +1,7 @@
 ---
 title: How the Trusted Platform Module (TPM) Became a Prerequisite for Windows 11 Installation | DigitalGuardian
-date: 2024-09-19 19:49:49
-updated: 2024-09-20 12:46:44
+date: 2024-12-04T22:08:30.791Z
+updated: 2024-12-06T22:43:39.382Z
 tags:
   - pc
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/5ae603843c69ab8590eef54d94afc1369f
 The Crucial T705 PCIe Gen5 NVMe M.2 SSD features a monster heatsink.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -36,6 +40,10 @@ This means that storage is now a key component to consider when you're exploring
 Over the past couple of weeks I've been testing Crucial's new [T705 PCIe Gen5 NVMe M.2 SSD](https://www.crucial.com/ssd/t705/CT1000T705SSD3), which the company touts as the world's fastest SSD. And yes, it _is_ blazingly fast -- if you have the hardware to handle it.
 
 [ZDNET RECOMMENDS Crucial T705 PCIe Gen5 NVMe M.2 SSD The T705 is a follow-on to the T700, and brings the following improvements: 18% higher sequential reads, 8% higher sequential writes, 4% higher random reads, and 20% higher random writes. View at Crucial](https://www.crucial.com/ssd/t705/CT1000T705SSD3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Crucial T705 Gen5 SSD specifications and highlights
 
@@ -103,6 +111,10 @@ Another key difference between the T700 and the T705 is that this new drive is c
 
 The Crucial T705 is slated for global release on March 12, 2024\. Pricing begins at $240 for the 1TB bare drive version, with the cost rising to $730 for the 4TB model equipped with a heatsink. The special limited edition, featuring a white heatsink and available only in a 2TB capacity, will be priced at $484.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 There are two types of people who will be looking at the Crucial T705\. 
@@ -138,11 +150,25 @@ If speed is your top priority, this drive is the ultimate choice. It also offers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-6-cheapest-action-cameras-to-buy-under-100/"><u>[Updated] In 2024, Top 6 Cheapest Action Cameras to Buy Under $100</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-secret-sauce-to-staying-fresh-on-instagram-a-4-step-guide-to-gifs/"><u>[Updated] The Secret Sauce to Staying Fresh on Instagram A 4-Step Guide to GIFs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/compare-and-conquer-how-this-budget-friendly-windows-notebook-rivals-the-macbook-airs-prowess-insights-from-zdnet/"><u>Compare and Conquer: How This Budget-Friendly Windows Notebook Rivals the MacBook Air's Prowess – Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-call-top-gaming-bargains-in-octobers-prime-event-score-up-to-1k-savings-best-deals-technews/"><u>Last Call: Top Gaming Bargains in October's Prime Event - Score Up to $1K Savings! [Best Deals] | TechNews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-minute-opportunity-snag-amazing-october-deals-and-save-big-on-games-100-cutbacks-zdnet/"><u>Last-Minute Opportunity! Snag Amazing October Deals & Save Big on Games - $1,00# Cutbacks | ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-text-design-with-ae-top-10-tips/"><u>Mastering Text Design with AE Top 10 Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/plant-root-exudates-as-modulators-of-soil-microbiota-diversity-and-function/"><u>Plant Root Exudates as Modulators of Soil Microbiota Diversity and Function</u></a></li>
+<li><a href="https://win-answers.techidaily.com/state-of-decay-2-continuous-play-guide-for-2amo-players-avoid-the-2024-crashes/"><u>State of Decay 2 Continuous Play Guide for 2Amo Players: Avoid the 2024 Crashes!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/toolwiz-app-unveiled-a-critical-examination-of-its-functionality-for-2024/"><u>Toolwiz App Unveiled A Critical Examination of Its Functionality for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-asus-laptop-surpasses-your-macbook-in-every-way-a-comprehensive-review-by-zdnet/"><u>Why the Asus Laptop Surpasses Your MacBook in Every Way - A Comprehensive Review by ZDNet</u></a></li>
+</ul></div>
+

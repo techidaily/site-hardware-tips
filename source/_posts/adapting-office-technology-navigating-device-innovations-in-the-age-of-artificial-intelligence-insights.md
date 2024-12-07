@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: Navigating Device Innovations in the Age of Artificial Intelligence - Insights"
-date: 2024-11-20T17:19:00.763Z
-updated: 2024-11-27T19:24:41.269Z
+date: 2024-12-05T22:14:07.372Z
+updated: 2024-12-07T03:51:36.871Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,15 +134,18 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/expert-tips-for-effortless-screen-captures-on-your-laptop-dell-lenovo-and-mac-edition/"><u>Expert Tips for Effortless Screen Captures on Your Laptop: Dell, Lenovo & Mac Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/preeminent-6-social-media-sites-favored-by-professionals/"><u>Preeminent 6 Social Media Sites Favored by Professionals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-best-vr-experience-exclusive-on-metas-enhanced-512gb-oculus-quest-3-bargain-zdnets-hot-deal-spotlight/"><u>Snag the Best VR Experience: Exclusive on Meta's Enhanced 512GB Oculus Quest 3 Bargain – ZDNet's Hot Deal Spotlight</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-into-the-world-of-text-animation-14-must-see-examples-for-2024/"><u>Step Into the World of Text Animation 14 Must-See Examples for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-hypervisorbsod-in-windows-a-top-ten-approach/"><u>Stop HYPERVISOR_BSOD in Windows: A Top-Ten Approach</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-itel-s23-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Itel S23 Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-computing-unleashed-how-lenovos-two-display-laptop-transformed-my-work-efficiency-insights/"><u>The Future of Computing Unleashed: How Lenovo’s Two-Display Laptop Transformed My Work Efficiency | Insights</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-importance-of-proper-youtube-thumbnail-size-for-successful-engagement-for-2024/"><u>The Importance of Proper YouTube Thumbnail Size for Successful Engagement for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-workflow-with-lenovos-cutting-edge-ai-thinkpads-the-ultimate-laptops-for-todays-business-users-as-featured/"><u>Transform Your Workflow with Lenovo's Cutting-Edge AI ThinkPads – The Ultimate Laptops for Today’s Business Users, as Featured</u></a></li>
-<li><a href="https://win-docs.techidaily.com/ultimate-guide-to-the-best-microsoft-surface-devices-of-202n3-expert-comparisons-and-reviews-zdnet/"><u>Ultimate Guide to the Best Microsoft Surface Devices of 202N3 - Expert Comparisons & Reviews | ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-why-and-how-to-choose-a-lone-players-path-in-apex-legends/"><u>[Updated] 2024 Approved Why and How to Choose a Lone Player's Path in Apex Legends</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-translating-megabits-to-seconds-a-20-video-challenge/"><u>2024 Approved Translating Megabits to Seconds A 20-Video Challenge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/an-in-depth-look-at-the-huawei-watch-gt-runners-athletic-capabilities-a-sports-enthusiasts-review-zdnet/"><u>An In-Depth Look at the Huawei Watch GT Runner's Athletic Capabilities: A Sports Enthusiast's Review | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-smartwatch-picks-for-2n24-in-depth-analysis-and-ratings-zdnet/"><u>Budget-Friendly Smartwatch Picks for 2N24: In-Depth Analysis and Ratings | ZDNET</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/344254-9781440631412-end-of-days/"><u>End of Days | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/five-step-guide-to-a-spotless-apple-watch-tips-and-tricks-from-zdnet/"><u>Five-Step Guide to a Spotless Apple Watch: Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-fraudulent-clones-strategies-for-finding-authentic-chatgpt-in-the-ios-ecosystem/"><u>Navigating Through Fraudulent Clones: Strategies for Finding Authentic ChatGPT in the iOS Ecosystem</u></a></li>
+<li><a href="https://fox-access.techidaily.com/phantom-3-vs-phantom-4/"><u>Phantom 3 Vs Phantom 4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-early-access-exclusive-guide-to-buying-apple-watch-series-10-with-top-savings-tips-techinsights/"><u>Secure Your Early Access: Exclusive Guide to Buying Apple Watch Series 10 with Top Savings Tips! | TechInsights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/security-updates-rolled-out-in-new-apple-ios-1ve-651-release-exclusive-details-on-zdnet/"><u>Security Updates Rolled Out in New Apple iOS 1Ve-6.5.1 Release | Exclusive Details on ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-huge-savings-save-up-to-1200-on-latest-samsung-galaxy-z-fold-and-z-flip-6-smartphones-ingenious-tips-revealed/"><u>Unlock Huge Savings: Save Up To $1,200 On Latest Samsung Galaxy Z Fold & Z Flip 6 Smartphones – Ingenious Tips Revealed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-nvidia-geforce-mx150-graphics-card-free-windows-compatible-software/"><u>Update Your Nvidia GeForce MX150 Graphics Card - Free Windows-Compatible Software</u></a></li>
 </ul></div>
 

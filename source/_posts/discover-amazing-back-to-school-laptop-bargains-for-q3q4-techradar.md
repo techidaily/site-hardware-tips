@@ -1,7 +1,7 @@
 ---
 title: Discover Amazing Back-to-School Laptop Bargains for Q3/Q4 | TechRadar
-date: 2024-11-25T17:00:56.423Z
-updated: 2024-11-27T17:58:42.904Z
+date: 2024-12-02T18:21:40.296Z
+updated: 2024-12-07T00:14:05.036Z
 tags:
   - laptops
 categories:
@@ -95,14 +95,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Amazon laptop deals
@@ -120,7 +116,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Walmart laptop deals
@@ -144,6 +140,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Lenovo Flex 5i 14-inch FHD touchscreen 2-in-1 laptop deal for $380 (save $170) $380 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-5i-14-fhd-touchscreen-2-in-1-laptop-intel-core-i3-1215u-with-8gb-memory-intel-uhd-graphics-256gb-ssd-storm-grey%2F6571566.p%3FskuId%3D6571566&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Apple MacBook deals
 
@@ -169,10 +169,6 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -197,7 +193,7 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best deals by retailer
@@ -206,6 +202,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,19 +257,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-beatify-your-content-adding-melodies-to-instagram-stories/"><u>[Updated] 2024 Approved Beatify Your Content Adding Melodies to Instagram Stories</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-understanding-the-mechanisms-of-youtubes-cc-license/"><u>[Updated] 2024 Approved Understanding the Mechanisms of YouTube's CC License</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-battlefield-legends-the-ultimate-list-of-top-7-total-war-victories/"><u>[Updated] Battlefield Legends The Ultimate List of Top 7 Total War Victories</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-academics-with-ease-best-multi-tasking-2-in-1-laptops-reviewed-by-zdnet/"><u>Ace Your Academics with Ease: Best Multi-Tasking 2-in-1 Laptops Reviewed by ZDNET</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/boosting-dvdfab-dvd-rippers-performance-to-accelerate-your-video-extraction-speeds/"><u>Boosting DVDFab DVD Ripper's Performance to Accelerate Your Video Extraction Speeds</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-poco-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Poco lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-introduces-laptops-and-chromebooks-tailored-for-the-modern-hybrid-workforce-discover-their-innovative-all-in-one-desktops/"><u>HP Introduces Laptops and Chromebooks Tailored for the Modern Hybrid Workforce - Discover Their Innovative All-in-One Desktops</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/live-streaming-guide-how-to-attend-the-samsung-unpacked-event-virtually/"><u>Live Streaming Guide: How to Attend the Samsung Unpacked Event Virtually</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-m1-macs-potential-with-an-unmatched-tricast-display-experience-tugreen-docking-mastery/"><u>Maximize Your M1 Mac's Potential with an Unmatched Tricast Display Experience - TUGreen Docking Mastery</u></a></li>
-<li><a href="https://win-top.techidaily.com/names-with-a-particular-meaning-hope-joy-love-faith-grace-peace/"><u>Names with a Particular Meaning: Hope, Joy, Love, Faith, Grace, Peace</u></a></li>
-<li><a href="https://win-premium.techidaily.com/recover-verlorene-informationen-auf-ihrem-pc-top-5-strategien-fur-windows-11/"><u>Recover Verlorene Informationen Auf Ihrem PC: Top-5 Strategien Für Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-windows-notebook-beats-macbook-air-in-price-and-features-now-at-a-steal-exclusive-review-by-zdnet/"><u>Top-Pick Windows Notebook: Beats MacBook Air in Price & Features, Now at a Steal – Exclusive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-laptop-picks-for-2-the-year-2024-thoroughly-analyzed-by-tech-pros-zdnet/"><u>Top-Ranking Laptop Picks for 2 the Year 2024 - Thoroughly Analyzed by Tech Pros | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-breakdown-of-features-and-performance-for-the-latest-apple-m2-cpu/"><u>ZDNet's Ultimate Breakdown of Features and Performance for the Latest Apple M2 CPU</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/xplore-the-top-10-youtube-to-mp3-services/"><u>[New] Explore the Top 10 YouTube-to-MP3 Services</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-resolve-instagram-video-glitches-today/"><u>[Updated] 2024 Approved Resolve Instagram Video Glitches Today</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-time-lapse-tiktoks-capturing-anime-elements-and-styles-for-2024/"><u>[Updated] Time-Lapse TikToks Capturing Anime Elements and Styles for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-luts-into-film-colorwork/"><u>2024 Approved Integrating Luts Into Film Colorwork</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-laughloop-app-a-hub-for-humor-enthusiasts/"><u>2024 Approved LaughLoop App - A Hub for Humor Enthusiasts</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-you-safe-from-personal-data-leakage-via-fb-apps/"><u>Are You Safe From Personal Data Leakage Via FB Apps?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-showcase-meet-roborocks-new-generation-of-smart-home-vacuums-powered-by-ai-zdnet-innovations-update/"><u>CES Showcase: Meet Roborock's New Generation of Smart Home Vacuums Powered by AI | ZDNET Innovations Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-rated-smart-vacuum-bots-at-unbeatable-low-costs-insights-from-zdnet/"><u>Discover Top-Rated Smart Vacuum Bots at Unbeatable Low Costs | Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edge-40-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge 40 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-self-sanitizing-smart-vac-zdnet-unveils-a-cleaner-that-wipes-surfaces-too/"><u>Introducing the Self-Sanitizing Smart Vac: ZDNet Unveils a Cleaner That Wipes Surfaces Too!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-m-audio-fast-track-driver-installation-files-for-windows-users-win-10-7-8-and-81/"><u>Latest M-Audio Fast Track Driver Installation Files for Windows Users (Win 10, 7, 8 & 8.1)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/learning-from-horses-pioneering-advances-in-human-automaton-dynamics-zdnet/"><u>Learning From Horses: Pioneering Advances in Human-Automaton Dynamics | ZDNET</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-comprehensive-blueprint-for-youtube-earnings-enhancement-for-2024/"><u>The Comprehensive Blueprint for YouTube Earnings Enhancement for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-roborock-vacuum-models-featuring-in-depth-analysis-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Roborock Vacuum Models , Featuring In-Depth Analysis & Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-on-top-rated-pet-hair-vacuums-save-400-now-with-limited-offer-at-zdnet/"><u>Unbeatable Deal on Top-Rated Pet Hair Vacuums - Save $400 Now with Limited Offer at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/when-bots-take-orders-exploring-the-impact-of-machines-supporting-human-wait-staff-shortages-insights-from-zdnet/"><u>When Bots Take Orders: Exploring the Impact of Machines Supporting Human Wait Staff Shortages | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-picks-the-ultimate-selection-of-the-best-remote-presence-robots/"><u>ZDNet's Picks: The Ultimate Selection of the Best Remote Presence Robots</u></a></li>
 </ul></div>
 

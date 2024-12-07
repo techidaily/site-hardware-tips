@@ -1,7 +1,7 @@
 ---
 title: ZDNet Picks Apple M2 MacBook Air as Top Tech Gadget in Annual Awards
-date: 2024-11-25T16:48:07.222Z
-updated: 2024-11-27T16:15:08.821Z
+date: 2024-11-29T16:29:48.219Z
+updated: 2024-12-07T02:46:17.099Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ Getty/MacLife Magazine
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why it's the top product of 2022
@@ -43,7 +43,7 @@ Getty/MacLife Magazine
 One of the other common criticisms of this product when it was first released was that it's now a bit of a tweener in the Mac product line -- with the very-capable [M1 MacBook Air](https://go.shopyourlikes.com/pi/244cb3ab772a00eb37169c21806273bf37215920?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) still on sale and now serving as the entry-level, under-$1,000 Mac laptop and the robust [MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C57XLR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5144bc14-ec77-44d9-bd88-a76324dbb1f1%7Cdtp&dtb=1) line being the go-to option for professionals and creators who need more oomph. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -65,7 +65,7 @@ My conclusion: The M2 MacBook Air can now handle about 75% of what you used to n
 That can potentially save you $500-$1,000\. The M2 MacBook Air I tested included the 10-core GPU and 16 GB of RAM and retails for $1,700\. But, a comparable MacBook Pro is going to run you at least $2,000-$2,500.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -95,7 +95,7 @@ While no Apple product ever really flies under the radar, the accomplishments of
 You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Product of the Year as a [YouTube Short](https://www.youtube.com/shorts/SlyOpp2rlKk) (embedded below), [Instagram Reel](https://www.instagram.com/reel/CmtsrSzqrrb/?hl=en), or on [TikTok](https://www.tiktok.com/@zdnet%5Fofficial/video/7182202897806019886).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -142,18 +142,19 @@ You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-tickle-tycoon-picture-builder/"><u>[New] 2024 Approved Tickle Tycoon Picture Builder</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-21-edition-examination-the-gamblers-guide-to-vegas-pro/"><u>[Updated] '21 Edition Examination – The Gambler’s Guide to Vegas Pro</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-windowsmac-captioning-crusade-the-ultimate-guide-to-text-placement/"><u>[Updated] 2024 Approved Windows/Mac Captioning Crusade The Ultimate Guide to Text Placement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-metaverse-race-begins-dont-miss-these-7-essential-tools/"><u>2024 Approved The Metaverse Race Begins Don't Miss These 7 Essential Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nubia-z50s-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nubia Z50S Pro Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/code-crafters-clash-determining-better-language-fiends/"><u>Code Crafters Clash: Determining Better Language Fiends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-unbeatable-deals-on-all-your-favorite-presents-at-best-buys-exclusive-final-countdown/"><u>Discover Unbeatable Deals on All Your Favorite Presents at Best Buy's Exclusive Final Countdown!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-automate-sorting-emails-efficiently-using-gmails-rule-making-feature/"><u>How to Automate Sorting Emails Efficiently Using Gmail's Rule-Making Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-listen-to-spotify-with-friends/"><u>How to Listen to Spotify With Friends</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-a05s-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy A05s FRP Locks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-the-smallest-webcam-on-earth-a-compact-powerhouse-of-versatility-uncovered-by-tech-guru-at-zdnet/"><u>Review: The 'Smallest Webcam on Earth' - A Compact Powerhouse of Versatility, Uncovered by Tech Guru at ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tablet-meets-notebook-a-detailed-look-at-ipad-pro-vs-macbook-air-for-optimal-user-experience-zdnet/"><u>Tablet Meets Notebook: A Detailed Look at iPad Pro vs MacBook Air for Optimal User Experience | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-top-tier-electronic-notekeepers-in-depth-analysis-by-industry-experts-pcmag/"><u>Ultimate Guide to Top-Tier Electronic Notekeepers: In-Depth Analysis by Industry Experts - PCMag</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ree-tribe-50-branding-banners-ready-to-unleash/"><u>[New] Free Tribe 50 Branding Banners Ready to Unleash!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-front-runners-in-4k-gaming-graphics/"><u>[New] Front-Runners in 4K Gaming Graphics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-escaping-boredom-with-a-chuckle-best-fb-incarceration-comical-stories/"><u>[Updated] In 2024, Escaping Boredom with a Chuckle Best FB Incarceration Comical Stories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-voice-to-text-conversion-using-ms-words-advanced-features/"><u>[Updated] The Ultimate Guide to Voice-to-Text Conversion Using MS Word's Advanced Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/building-a-brand-on-fb-covers-that-speak-volumes/"><u>Building a Brand on FB Covers that Speak Volumes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-best-android-and-ios-wedding-timers-for-seamless-countdowns/"><u>In 2024, Exploring the Best Android & iOS Wedding Timers for Seamless Countdowns</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/restore-your-damaged-excel-workbook-top-6-strategies-for-success-under-windows-os/"><u>Restore Your Damaged Excel Workbook: Top 6 Strategies for Success Under Windows OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-and-buy-an-affordable-e-bike-for-less-than-900-exclusive-deals-from-zdnet/"><u>Save Big and Buy an Affordable E-Bike for Less Than $900 - Exclusive Deals From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-the-hovranger-electric-bike-a-500-smarter-alternative-for-your-everyday-transit-explored-by-a-tech-enthusiast-on-zdnet/"><u>Save Big with the HovRanger Electric Bike: A $500 Smarter Alternative for Your Everyday Transit, Explored by a Tech Enthusiast on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-purchase-a-high-quality-electric-bike-below-900-today-only/"><u>Save Big: Purchase a High-Quality Electric Bike Below $900 - Today Only!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tailored-auto-coverage-based-on-telematics-data-get-a-fairer-rate-innovative-insurance-solutions/"><u>Tailored Auto Coverage Based on Telematics Data - Get a Fairer Rate! | Innovative Insurance Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teslas-cybertruck-vindicated-as-ocean-crossing-vehicle-by-elon-musk-breakthrough-revealed-zdnet/"><u>Tesla's Cybertruck Vindicated as Ocean-Crossing Vehicle by Elon Musk - Breakthrough Revealed | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-repairing-when-d3dx941dll-is-lost-or-undetected/"><u>Troubleshooting and Repairing When d3dx9_41.dll Is Lost or Undetected</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-thermaltake-massive-tm-premium-pc-cooler-with-a-hefty-cost/"><u>Ultimate Guide to the Thermaltake Massive TM: Premium PC Cooler with a Hefty Cost</u></a></li>
 </ul></div>
 

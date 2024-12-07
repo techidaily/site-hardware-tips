@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings: Over Half-Off on Amazon's 4TB Samsung T5 External SSD - Exclusively Featured on ZDNet"
-date: 2024-09-19 20:15:55
-updated: 2024-09-20 12:54:41
+date: 2024-12-05T03:16:28.402Z
+updated: 2024-12-07T02:48:56.775Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,26 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-filter-arsenal-for-revamping-your-archive/"><u>[New] 2024 Approved Instagram's Filter Arsenal for Revamping Your Archive</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-shine-brightly-youtubes-17-must-have-illumination/"><u>[New] In 2024, Shine Brightly! YouTube's #17 Must-Have Illumination</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-full-analysis-compreenaside-with-camstudio-screencap/"><u>[Updated] 2024 Approved Full Analysis Compreenaside with CamStudio Screencap</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-a-chromebook-and-laptop-determining-the-ideal-device-for-you/"><u>Choosing Between a Chromebook and Laptop: Determining the Ideal Device for You</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decode-and-repair-nvidia-geforce-experiences-0x0003-error-a-comprehensive-guide/"><u>Decode and Repair Nvidia Geforce Experience's 0X0003 Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-rankings-of-2024s-best-laptops-expert-insights-and-analysis/"><u>Elite Rankings of 2024'S Best Laptops: Expert Insights and Analysis</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-xr-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-deal-get-the-top-tech-pick-at-a-whopping-500-discount-on-amazon-before-prime-day/"><u>Limited-Time Deal: Get the Top Tech Pick at a Whopping $500 Discount on Amazon Before Prime Day!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-network-needs-for-natural-growth-in-youtube-numbers-for-2024/"><u>Navigating Network Needs for Natural Growth in Youtube Numbers for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-lag-and-crashes-when-playing-pc-version-of-god-of-war/"><u>Overcoming Lag and Crashes When Playing PC Version of God of War</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/simple-methods-for-embedding-images-in-your-pdf-document/"><u>Simple Methods for Embedding Images in Your PDF Document</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-new-m2-macbook-air-tears-of-joy-or-disappointment/"><u>Unboxing the New M2 MacBook Air: Tears of Joy or Disappointment?</u></a></li>
+</ul></div>
+

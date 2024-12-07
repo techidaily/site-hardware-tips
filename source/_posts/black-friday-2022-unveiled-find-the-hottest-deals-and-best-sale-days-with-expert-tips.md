@@ -1,7 +1,7 @@
 ---
 title: "Black Friday 2022 Unveiled: Find the Hottest Deals and Best Sale Days with Expert Tips"
-date: 2024-11-20T17:14:44.802Z
-updated: 2024-11-27T18:49:57.801Z
+date: 2024-12-02T01:20:01.766Z
+updated: 2024-12-06T16:01:51.968Z
 tags:
   - laptops
 categories:
@@ -102,10 +102,6 @@ ZDNET
 * [Arcade1Up Attack From Mars electronic pinball table for $499 (save $150)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FArcade-William-Bally-Attack-Mars-Pinball%2Fdp%2FB0998S48N2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C00c55e01-892c-49da-b2c2-ae45c780735e%7Cdtp&dtb=1): A fully-digital pinball table featuring a classic William Bally "Attack From Mars" theme.
 * [Arcade1Up Street Fighter II Champion Turbo Legacy Edition cabinet for $399 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FARCADE1UP-Capcom-Fighter-Champion-Machine%2Fdp%2FB0B94VCWG3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C00c55e01-892c-49da-b2c2-ae45c780735e%7Cdtp&dtb=1): A Wi-Fi enabled, retro-inspired arcade cabinet featuring 14 different games to play head-to-head against online players or friends in-person.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -120,6 +116,10 @@ ZDNET
 * [Razer quick charging station for PS5 controllers in blue for $25 (save $15 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-quick-charging-stand-for-ps5-controllers-blue%2F6520072.p%3FskuId%3D6520072&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A USB-C charging stand for keeping your extra controllers powered up and at-the-ready.
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -139,6 +139,10 @@ ZDNET
 * [Logitech G920 racing wheel with pedals for $230 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLogitech-G920-Driving-Force-Racing-Wheel-and-Floor-Pedals-for-Xbox-Series-X-S-Xbox-One-PC-Mac-Black%2F49071785%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Designed for hardcore racing sim enthusiasts, the Logitech G920 gives you a real-world driving experience with a 3-pedal board and near-life sized steering wheel with shifter paddles for precision racing.
 * [Dragon's Dogma 2 standard edition for $44 (save $23 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -192,10 +196,6 @@ Lenovo
 * [HP Victus 16 laptop for $850 (save $450 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r100-161-91c59av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade gamign laptop with a 16-inch 1080p IPS display, 144Hz refresh rate, 14th gen Intel Core i5 CPU, 16GB of RAM, GeForce RTX 4050 GPU, and a 512GB SSD.
 * [Alienware m18 R2 for $3,400 (save $600 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming monitor deals
 
 Samsung/ZDNET
@@ -205,6 +205,10 @@ Samsung/ZDNET
 * [Samsung Odyssey Neo G8 32-inch curved monitor for $800 (save $500 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-odyssey-neo-g8-32-curved-4k-uhd-freesync-premium-pro-g-sync-compatible-240hz-1ms-gaming-monitor-black%2F6507933.p%3FskuId%3D6507933&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This 32-inch display support both AMD FreeSync Premium Pro and Nvidia G-Sync VRR, a 240Hz refresh rate, a 1ms response time, and 4K resolution.
 * [AOC AG27 27-inch monitor for $600 (save $450 at B&H Photo, deal ends Oct 5)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1741859-REG%2Faoc%5Fag274qzm%5F27%5F16%5F9%5Fqhd.html): This 27-inch IPS monitor has 1440p resolution, a 240Hz refresh rate, a 1ms response time, and Nvidia G-Sync VRR support.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
 
@@ -221,16 +225,12 @@ Samsung/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
@@ -238,7 +238,7 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -275,24 +275,16 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-practices-for-youtube-to-igtv-transformation-for-2024/"><u>[New] Best Practices for YouTube to IGTV Transformation for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-efficient-use-of-vlc-for-media-creation/"><u>[New] In 2024, Efficient Use of VLC for Media Creation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-streamlining-the-timestamp-process-for-youtubers-for-2024/"><u>[New] Streamlining the Timestamp Process for YouTubers for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevate-your-content-incorporating-exact-timestamps-in-videos/"><u>[Updated] In 2024, Elevate Your Content Incorporating Exact Timestamps in Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-alternative-to-macbook-air-top-rated-windows-laptop-now-on-sale-zdnet/"><u>Affordable Alternative to MacBook Air: Top-Rated Windows Laptop Now On Sale - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-buy-anti-prime-day-exclusive-snag-the-hp-victus-15-gaming-laptop-for-just-450-expert-tips/"><u>Best Buy Anti-Prime Day Exclusive: Snag the HP Victus 15 Gaming Laptop for Just $450 | Expert Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/clarity-chronicles-for-beginners-unraveling-resolution-factors/"><u>Clarity Chronicles for Beginners Unraveling Resolution Factors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-twitchs-no-signal-problem/"><u>Fixing Twitch's No-Signal Problem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hellbent-on-failure/"><u>Hellbent on Failure</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-beginners-blueprint-for-mobile-youtube-videos/"><u>In 2024, The Beginner's Blueprint for Mobile YouTube Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prime-cyber-week-bonanza-exclusive-steals-on-notebooks-for-the-tech-savvy-shopper/"><u>Prime Cyber Week Bonanza: Exclusive Steals on Notebooks for the Tech-Savvy Shopper</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/protecting-privacy-the-ultimate-step-by-step-method-to-erase-sensitive-data-from-your-windows-pc-free-tips-and-tricks-zdnet/"><u>Protecting Privacy: The Ultimate Step-by-Step Method to Erase Sensitive Data From Your Windows PC - Free Tips & Tricks | ZDNET</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/recovering-lost-photos-and-texts-on-your-iphone-after-a-factory-reset/"><u>Recovering Lost Photos & Texts on Your iPhone After a Factory Reset</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/school-supplies-beware-repeated-incidents-of-chromebooks-attacked-by-bedbugs-exposed-insights/"><u>School Supplies Beware: Repeated Incidents of Chromebooks Attacked by Bedbugs Exposed! - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-ultralight-laptop-perfect-for-remote-professionals-a-comprehensive-review-by-zdnet/"><u>Top Rated Ultralight Laptop Perfect for Remote Professionals: A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-antivirus-solutions-reviewed-the-ultimate-guide-techradar/"><u>Top-Ranked Antivirus Solutions Reviewed: The Ultimate Guide | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-discounted-laptops-on-prime-day-events-october-2024-shopping-guide-techradar/"><u>Top-Rated Discounted Laptops on Prime Day Events - October 2024 Shopping Guide | TechRadar</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/ultimate-guide-to-calculate-your-youtube-views-and-money-for-2024/"><u>Ultimate Guide to Calculate Your YouTube Views and Money. For 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-beyond-flat-canvas-elevating-text-to-new-heights/"><u>[New] In 2024, Beyond Flat Canvas Elevating Text to New Heights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-perfecting-ps3-recorded-content-expert-insights/"><u>[New] In 2024, Perfecting PS3 Recorded Content Expert Insights</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v29e-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V29e</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-htc-u23-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change HTC U23 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-poco-x5-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Poco X5 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-12-unique-presents-perfect-for-any-adventurer-inspiration-from-zdnet/"><u>Top 12 Unique Presents Perfect for Any Adventurer - Inspiration From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-tesla-models-a-comprehensive-comparison-of-model-s-3-x-and-y-insights-by-zdnet/"><u>Top-Ranking Tesla Models : A Comprehensive Comparison of Model S, 3, X & Y - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-radar-detectors-as-chosen-by-experts-on-zdnet-find-the-ultimate-guide/"><u>Top-Rated Radar Detectors as Chosen by Experts on ZDNet - Find the Ultimate Guide!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-portable-jump-starters-featured-on-zdnet-by-industry-experts/"><u>Ultimate Guide to the Best Portable Jump Starters , Featured on ZDNET by Industry Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-flyer-discounts-save-25-on-flights-with-your-amazon-prime-benefits-insight-from-zdnet/"><u>Unlock Flyer Discounts: Save $25 on Flights with Your Amazon Prime Benefits - Insight From ZDNet</u></a></li>
 </ul></div>
 

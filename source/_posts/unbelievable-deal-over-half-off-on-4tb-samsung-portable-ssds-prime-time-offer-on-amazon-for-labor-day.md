@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Deal: Over Half-Off on 4TB Samsung Portable SSDs - Prime Time Offer on Amazon for Labor Day"
-date: 2024-09-17 16:10:38
-updated: 2024-09-20 10:37:57
+date: 2024-11-30T00:30:58.960Z
+updated: 2024-12-06T21:00:28.502Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,31 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-photo-to-film-adding-melodies-for-emotion/"><u>[New] Photo to Film Adding Melodies for Emotion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker/"><u>[Updated] In 2024, Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-venturing-beyond-reality-understanding-vr-basics-for-2024/"><u>[Updated] Venturing Beyond Reality Understanding VR Basics for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-personalize-your-prayers-with-scripture-inspired-tunes-guide/"><u>2024 Approved Personalize Your Prayers with Scripture-Inspired Tunes Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/6-equipped-with-advanced-ai-capabilities-insights-and-updates/"><u>6 Equipped with Advanced AI Capabilities - Insights and Updates</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/advanced-computer-solutions-decoded-by-experts-at-toms-hardware/"><u>Advanced Computer Solutions Decoded by Experts at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-touchscreen-computers-in-depth-reviews-and-ratings-insights-experts/"><u>Elite Selection of Touchscreen Computers: In-Depth Reviews & Ratings | Insights Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/empower-chromeos-creators-through-user-reviews-the-importance-of-sharing-exclusive-tips/"><u>Empower ChromeOS Creators Through User Reviews - The Importance of Sharing Exclusive Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-top-pick-magsafe-charger-discounted-by-60-perfect-for-your-iphone-and-macbook/"><u>Exclusive Deal: Top-Pick MagSafe Charger Discounted by $60 - Perfect for Your iPhone and MacBook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-metas-unbeatable-512gb-quest-3-offer-top-tier-virtual-reality-bargain-of-the-moment-detailed-review-by-zdnet/"><u>Get Your Hands on Meta's Unbeatable 512GB Quest 3 Offer: Top-Tier Virtual Reality Bargain of the Moment - Detailed Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-latest-microsoft-innovation-surface-pro-10-and-laptop-vee-6-enhanced-with-artificial-intelligence-explore-the-updates/"><u>Introducing the Latest Microsoft Innovation: Surface Pro 10 & Laptop Vee 6 Enhanced with Artificial Intelligence – Explore the Updates!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/legal-harmonies-unpacking-music-policy-on-instagram-for-2024/"><u>Legal Harmonies Unpacking Music Policy on Instagram for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/obscure-audio-alchemists-top-6-android-and-ios-recording-tools-for-2024/"><u>Obscure Audio Alchemists Top 6 Android & iOS Recording Tools for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-unbeatable-laptop-bargains-on-prime-day-october-2024-shopping-guide-zdnet/"><u>Top Picks: Unbeatable Laptop Bargains on Prime Day - October 2024 Shopping Guide | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-laptops-in-2-comprehensive-2024-reviews-by-brand-razer-acer-msi-and-others/"><u>Top Rated Gaming Laptops in 2#: Comprehensive 2024 Reviews by Brand - Razer, Acer, MSI & Others</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-potential-of-apples-latest-ai-innovation-enhancing-siri-and-personalizing-your-home-screen-insights/"><u>Unlocking the Potential of Apple’s Latest AI Innovation: Enhancing Siri & Personalizing Your Home Screen - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-a-top-pick-the-formidable-windows-laptop-that-rivals-the-macbook-air-in-performance-but-costs-less/"><u>Unveiling a Top Pick: The Formidable Windows Laptop That Rivals the MacBook Air in Performance but Costs Less!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Best 5G Notebooks : Ultimate Guide and Rankings on CNet"
-date: 2024-11-21T19:03:59.771Z
-updated: 2024-11-27T17:48:35.496Z
+date: 2024-12-02T00:40:21.410Z
+updated: 2024-12-06T20:28:04.103Z
 tags:
   - laptops
 categories:
@@ -43,14 +43,10 @@ And with a snafu like no sound, there are a few ways to troubleshoot the issue, 
 Here's how to pull this off in both Windows 10 and 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reset your audio settings in Windows
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check your audio and sound source
 
@@ -59,6 +55,10 @@ You've probably already checked the usual suspects. But let's review anyway. Mak
 Check the volume.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Go to sound settings
 
@@ -74,13 +74,13 @@ Check the audio sources.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check external speakers
 
 If you use external speakers, double-check for loose wires, unseated connections, and similar physical ailments. (Yes, try unplugging and plugging them in again.) If those all pass the test, then it's time to ask for help from Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn to a Windows troubleshooter
 
@@ -143,7 +143,7 @@ Reset the devices and apps.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Check the sound control panel
@@ -166,10 +166,6 @@ Turn off audio enhancements.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Find the audio driver in Device Manager
 
 If the sound still isn't working, close all of the sound settings windows. Right-click the Start button and select Device Manager from the menu. Click the right arrow for the entry for **Audio inputs and outputs** and double-click your default audio source. Then click the tab for **Driver**.
@@ -178,10 +174,6 @@ Open Device Manager.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Click Update driver
 
 First, try updating the driver. Click the **Update driver** button. Permit it to search your computer for drivers and then search Windows Update.
@@ -189,6 +181,10 @@ First, try updating the driver. Click the **Update driver** button. Permit it to
 Update the driver.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 12\. If this doesn't work, try uninstalling the driver
 
@@ -205,6 +201,10 @@ To bring back the driver, either reboot your PC or right-click on the entry for 
 Reinstall the audio driver.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 14\. Try stopping and restarting the Windows Audio service
 
@@ -259,20 +259,19 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-dive-deep-into-funimates-secrets/"><u>[New] 2024 Approved Dive Deep Into Funimate's Secrets</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-value-windows-laptop-how-lenovos-innovative-749-thinkbook-outshines-competitors/"><u>Best Value Windows Laptop : How Lenovo's Innovative $749 ThinkBook Outshines Competitors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-top-picks-in-depth-review-of-all-lenovo-laptops-unveiled-at-mwc-find-your-perfect-match/"><u>Discover the Top Picks: In-Depth Review of All Lenovo Laptops Unveiled at MWC - Find Your Perfect Match!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209856265-9781945252358-from-rifles-to-roses/"><u>From Rifles to Roses | Free Book</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-2024s-prime-shopping-guide-unbeatable-laptop-offers-featured/"><u>October 2024'S Prime Shopping Guide: Unbeatable Laptop Offers Featured</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/open-access-select-free-youtube-design-patterns-for-2024/"><u>Open Access Select Free YouTube Design Patterns for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/perfektes-kopieren-ihrer-iphone-bilder-auf-deinen-pc-einfache-schritte-fur-eine-nahtlose-ubertragung/"><u>Perfektes Kopieren Ihrer iPhone-Bilder Auf Deinen PC: Einfache Schritte Für Eine Nahtlose Übertragung</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/power-users-dream-essential-specs-that-wowed-me-in-this-lenovo-notebook-insights/"><u>Power User's Dream: Essential Specs That Wowed Me in This Lenovo Notebook - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-23-amazing-last-minute-labor-day-sale-on-laptops-get-them-before-theyre-gone/"><u>Top 23 Amazing Last-Minute Labor Day Sale on Laptops: Get Them Before They're Gone!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-premium-ssd-drives-optimized-for-gaming-consoles-and-pc-reviews-by-zdnet/"><u>Top 6 Premium SSD Drives Optimized for Gaming Consoles & PC: Reviews by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-constant-kodi-crash-issues/"><u>Troubleshooting and Resolving Constant Kodi Crash Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-metas-latest-512gb-oculus-quest-pro-offer-top-virtual-reality-bargain-zdnet-review/"><u>Unbeatable Value: Meta's Latest 512GB Oculus Quest Pro Offer - Top Virtual Reality Bargain ! (ZDNet Review)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/user-insights-on-vllo/"><u>User Insights on VLLO</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-through-the-noise-optimal-thumbnail-sizes/"><u>[Updated] In 2024, Cutting Through the Noise Optimal Thumbnail Sizes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-the-art-of-captivating-vimeo-staff-picks/"><u>[Updated] In 2024, Mastering the Art of Captivating Vimeo Staff Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024-ultimate-projector-guide-expertly-tested-and-comprehensive-reviews-on-zdnet/"><u>2024 Ultimate Projector Guide: Expertly Tested and Comprehensive Reviews on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-viewing-experience-with-the-premier-tv-antenna-picks-from-zdnets-expert-roundup/"><u>Ace Your Viewing Experience with the Premier TV Antenna Picks From ZDNet's Expert Roundup</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/vering-video-opportunities-with-google-trend-analysis/"><u>Discovering Video Opportunities with Google Trend Analysis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/essential-guide-for-newbies-visual-fidelity-in-videos/"><u>Essential Guide for Newbies Visual Fidelity in Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-new-apple-iphone-se-balancing-functionality-with-affordability/"><u>Evaluating the New Apple iPhone SE - Balancing Functionality with Affordability</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigate-high-speed-stories-on-instagram-effectively/"><u>In 2024, Navigate High-Speed Stories on Instagram Effectively</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-xiaomi-redmi-12-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Xiaomi Redmi 12 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-unconventional-chat-services-excellence-list-security-functionality-and-pleasure/"><u>New Unconventional Chat Services Excellence List Security, Functionality, and Pleasure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-4k-projection-displays-ultimate-guide-2024-edition/"><u>Top-Rated 4K Projection Displays: Ultimate Guide - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-gaming-potential-from-samsungs-discounted-projector-device-revealed-by-zdnet-save-an-extra-200/"><u>Unlock Gaming Potential From Samsung's Discounted Projector Device Revealed by ZDNET, Save an Extra $200!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-thrilling-savings-secure-your-free-xbox-game-pass-for-only-21-less-exclusive-prime-day-deal-on-the-newest-fire-tv-stick-bundlezdnet/"><u>Unlock Thrilling Savings: Secure Your Free Xbox Game Pass for Only $21 Less - Exclusive Prime Day Deal on the Newest Fire TV Stick Bundle![ZDNET]</u></a></li>
 </ul></div>
 

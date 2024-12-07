@@ -1,7 +1,7 @@
 ---
 title: "Under Budget Brilliance: Assembling an Inconspicuous Starfield Gaming Beast for Less than 1K | ZDNET Insights"
-date: 2024-09-19 22:59:47
-updated: 2024-09-20 10:12:23
+date: 2024-11-30T20:09:26.534Z
+updated: 2024-12-06T17:27:23.829Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-expressive-beginnings-templates-at-no-charge/"><u>[New] Expressive Beginnings Templates at No Charge</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-filmora-edits-explained-addressing-common-concerns-and-questions/"><u>[New] In 2024, Filmora Edits Explained Addressing Common Concerns and Questions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-future-of-professional-spaces-and-their-impact-on-productivity/"><u>[New] In 2024, The Future of Professional Spaces and Their Impact on Productivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-labor-day-deal-alert-hp-challenger-victus-15-now-within-reach-with-350-off-offer/"><u>Best Buy's Labor Day Deal Alert: HP Challenger Victus 15 Now Within Reach With $350 Off Offer!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-5-workstations-for-creative-professionals-in-graphic-design-zdnet/"><u>Discover the Ultimate 5 Workstations for Creative Professionals in Graphic Design - ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engage-in-confidential-talks-with-advanced-ai-on-duckduckgo-beyond-chatgpt/"><u>Engage in Confidential Talks with Advanced AI on DuckDuckGo – Beyond ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-windows-11-entry-point-top-strategies-revealed/"><u>Enhancing the Windows 11 Entry Point: Top Strategies Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-alert-secure-your-online-privacy-and-productivity-tools-for-just-40-snag-nordvpn-plus-microsoft-365-now/"><u>Exclusive Offer Alert! Secure Your Online Privacy and Productivity Tools for Just $40 - Snag NordVPN + Microsoft 365 Now!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-get-a-youtube-video-trending/"><u>How to Get a YouTube Video Trending</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-trigger-or-suppress-windows-file-dialogs/"><u>How to Trigger or Suppress Windows File Dialogs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-snag-a-samsung-odyssey-g7-monitor-at-almost-half-price-in-the-amazon-spring-clearance-event-tech-news/"><u>Huge Savings Alert: Snag a Samsung Odyssey G7 Monitor at Almost Half Price in the Amazon Spring Clearance Event | Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/it-is-possible-to-have-solar-panels-installed-at-home-but-not-wind-turbines/"><u>It Is Possible to Have Solar Panels Installed at Home, but Not Wind Turbines.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-savings-exclusive-snag-the-ultra-fast-4tb-samsung-portable-ssd-at-deeply-reduced-prices-on-amazon/"><u>Labor Day Savings Exclusive: Snag the Ultra-Fast 4TB Samsung Portable SSD at Deeply Reduced Prices on Amazon!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mac-or-windows-mastering-the-art-of-laptop-screenshots-with-step-by-step-guides-for-popular-brands/"><u>Mac or Windows? Mastering the Art of Laptop Screenshots with Step-by-Step Guides for Popular Brands</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-lava-yuva-2-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Lava Yuva 2 Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/no-need-to-panic-over-gone-messages-a-handy-guide-for-retrieving-deleted-sms-on-any-phone/"><u>No Need to Panic Over Gone Messages – A Handy Guide for Retrieving Deleted SMS on Any Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quad-core-performance-at-bargain-prices-the-raspberry-pi-zero-2-w-unveiled-a-comprehensive-zdnet-assessment/"><u>Quad-Core Performance at Bargain Prices: The Raspberry Pi Zero 2 W Unveiled - A Comprehensive ZDNet Assessment</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/strategie-per-il-ripristino-di-file-cancellati-dal-cestino-post-pulizia-completa/"><u>Strategie per Il Ripristino Di File Cancellati Dal Cestino Post-Pulizia Completa?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-dawn-of-ai-dominance-in-personal-computing-unveiling-ultimate-performance-benchmarks-perspectives-by-zdnet/"><u>The Dawn of AI Dominance in Personal Computing: Unveiling Ultimate Performance Benchmarks – Perspectives by ZDNet</u></a></li>
+</ul></div>
+

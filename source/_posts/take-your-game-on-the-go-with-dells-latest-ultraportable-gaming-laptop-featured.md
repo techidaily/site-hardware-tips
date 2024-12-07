@@ -1,7 +1,7 @@
 ---
 title: Take Your Game On-The-Go with Dell’s Latest Ultraportable Gaming Laptop – Featured
-date: 2024-11-26T18:50:50.110Z
-updated: 2024-11-27T18:00:21.893Z
+date: 2024-12-02T23:34:15.859Z
+updated: 2024-12-07T02:11:18.454Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,17 +114,24 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-fireside-screen-capture-tools/"><u>[New] Fireside Screen Capture Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-crafting-audio-magic-a-windows-10-sound-journey/"><u>[Updated] 2024 Approved Crafting Audio Magic A Windows 10 Sound Journey</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-video-upload-insights-aspect-ratio-for-twitters-platform/"><u>[Updated] 2024 Approved Video Upload Insights Aspect Ratio for Twitter's Platform</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-turn-your-vlogs-into-tunes-with-an-insta-mp3-conversion-hack-for-2024/"><u>[Updated] Turn Your Vlogs Into Tunes with an Insta-Mp3 Conversion Hack for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-editing-workflow-elite-picks-for-video-production-laptops-cnet-tests-and-verdicts/"><u>Ace Your Editing Workflow: Elite Picks for Video Production Laptops – CNET Tests and Verdicts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969806578-ercp-with-stent-placement-provides-symptomatic-relief-from-obstructive-jaundice-and-is-often-part-of-palliative-care/"><u>ERCP with Stent Placement Provides Symptomatic Relief From Obstructive Jaundice and Is Often Part of Palliative Care</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-money-saving-offers-before-prime-day-2024-insights/"><u>Essential Money-Saving Offers Before Prime Day 2024: Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/latest-chromeos-upgrade-introduces-windows-11-features-into-your-chromebook-what-you-need-to-know-zdnet/"><u>Latest ChromeOS Upgrade Introduces Windows 11 Features Into Your Chromebook: What You Need to Know (ZDNet)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-retrieve-lost-emails-from-your-gmail-inbox/"><u>Step-by-Step Guide: Retrieve Lost Emails From Your Gmail Inbox</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/surface-devices-gain-advanced-copilotplus-features-catered-to-business-users-discover-the-latest-enhancements-zdnet/"><u>Surface Devices Gain Advanced Copilot+ Features Catered to Business Users - Discover the Latest Enhancements | ZDNET</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-gaming-notebooks-reviewed-and-compared-featuring-razer-acer-msi-and-others-insights/"><u>Top Gaming Notebooks Reviewed & Compared: Featuring Razer, Acer, MSI & Others - Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-easy-to-use-apps-for-idevice-screen-capturing-for-2024/"><u>[New] Easy-to-Use Apps for iDevice Screen Capturing for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unlocking-the-power-of-preview-a-complete-user-guide-for-mac/"><u>[New] Unlocking the Power of Preview A Complete User Guide for Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pixel-pushers-boost-phone-photography-for-free/"><u>[Updated] In 2024, Pixel Pushers Boost Phone Photography for Free</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-5-ps1-emulators-bringing-classic-games-back/"><u>[Updated] In 2024, Top 5 PS1 Emulators - Bringing Classic Games Back</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfected-audio-chain-guidebook/"><u>[Updated] Perfected Audio Chain Guidebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrate-labor-day-with-a-bright-idea-customizable-govee-lights-now-at-a-sizzling-discount-zdnets-inside-look/"><u>Celebrate Labor Day with a Bright Idea: Customizable Govee Lights Now at a Sizzling Discount! ZDNET’s Inside Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/durable-365-day-led-string-lights-at-unbeatable-prices-beat-rivals/"><u>Durable 365-Day LED String Lights at Unbeatable Prices - Beat Rivals!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y17s-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y17s by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-your-exterior-with-govee-discover-the-art-of-smart-lighting-in-spectacular-colors-techradar/"><u>Illuminate Your Exterior with Govee: Discover the Art of Smart Lighting in Spectacular Colors | TechRadar</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops/"><u>In 2024, Seamless Video Communication in WhatsApp Web for Laptops and Desktops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-latest-innovations-govees-advanced-ai-enabled-gaming-sync-box-and-vibrant-neon-rope-light-explore-on-zdnet/"><u>Introducing the Latest Innovations: Govee's Advanced AI-Enabled Gaming Sync Box & Vibrant Neon Rope Light - Explore on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-secure-your-home-with-the-affordable-blink-4-camera-and-floodlight-bundle-for-only-80/"><u>Labor Day Sale: Secure Your Home with the Affordable Blink 4-Camera & Floodlight Bundle for Only $80</u></a></li>
+<li><a href="https://video-capture.techidaily.com/rapid-routines-for-capturing-video-calls-for-2024/"><u>Rapid Routines for Capturing Video Calls for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-11-search-issue-unlocking-the-settings-apps-search-bar/"><u>Solving Windows 11 Search Issue: Unlocking the Settings App's Search Bar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lighting-choices-for-video-streaming-success-a-professional-review-by-zdnet/"><u>Top Lighting Choices for Video Streaming Success: A Professional Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lighting-setups-for-video-broadcasts-professional-reviewed-by-zdnet/"><u>Top Lighting Setups for Video Broadcasts: Professional-Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-dawn-awakening-devices-insiders-guide-techradar/"><u>Top Rated Dawn Awakening Devices : Insider's Guide - TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-most-effective-outdoor-lighting-security-systems-industry-leaders-weigh-in/"><u>Ultimate Guide to Choosing the Most Effective Outdoor Lighting Security Systems – Industry Leaders Weigh In</u></a></li>
 </ul></div>
 

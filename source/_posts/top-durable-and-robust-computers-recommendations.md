@@ -1,7 +1,7 @@
 ---
 title: Top Durable and Robust Computers - Recommendations
-date: 2024-11-22T18:34:45.646Z
-updated: 2024-11-27T19:10:54.330Z
+date: 2024-11-29T19:54:06.757Z
+updated: 2024-12-06T17:10:04.127Z
 tags:
   - laptops
 categories:
@@ -22,17 +22,9 @@ You can even find rugged laptops with enterprise-level security software, which 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best rugged laptop right now?
 
 We've tested and researched some of the best rugged laptops on the market. Our top pick for the best rugged laptop is the [Getac S510](https://www.getac.com/us/products/laptops/s510/#product-info) for its highly configurable options for shock, drop, moisture, and dust resistance as well as options for multiple storage drives, touchscreen, and even dual SIM, 4G/5G LTE connectivity, and GPS tracking. Keep reading below to find out more about the Getac S510 as well as our other top picks for the best rugged laptops.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best rugged laptops of 2024
 
@@ -49,6 +41,10 @@ Pros
 Cons 
 * Very expensive
 * Not consumer grade
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getac S510
 
@@ -77,7 +73,15 @@ Cons
 * Very expensive
 * No AMD option
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Panasonic ToughBook 40 Mk2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best rugged laptop for battery life
 
@@ -106,6 +110,10 @@ Cons
 
 ## Acer Chromebook Spin 512
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best rugged laptop for students
 
 [Laptops for students](https://www.zdnet.com/article/best-laptop-for-college/) can take a lot of abuse, from getting shoved in backpacks to falling off desks. The Acer Chromebook Spin 512 is designed with MIL-STD-810H protection against shocks and drops as well as a spill-resistant keyboard. The 12-inch display has a built-in blue light filter to help reduce eye strain and fatigue and is made with Corning's Gorilla Glass for enhanced protection against cracks and chips. 
@@ -133,10 +141,6 @@ Cons
 * On the heavy side
 
 ## Asus ZenBook Pro Duo 15 OLED
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best rugged laptop splurge
 
@@ -170,10 +174,6 @@ Cons
 
 ## Asus TUF A14
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best rugged laptop for gaming
 
 If you're a gamer looking for a durable laptop that can handle commutes to tournaments, daily wear-and-tear, and the occasional spill, the Asus TUF A14 is a great option. It's built to MIL-STD-810 standards for shock and drop resistance, which means that if it falls off your desk or gets knocked around in your backpack, you won't have to worry. The keyboard is also spill-resistant, saving delicate electronics from accidental water or soda splashes. 
@@ -195,10 +195,6 @@ I chose the Getac S510 as the best rugged laptop for its highly customizable con
 | Panasonic Toughbook 40 Mk2   | $4,700              | Up to 2TB SSD | Up to Intel Core Ultra 7 165H |
 | Asus ZenBook Pro Duo 15 OLED | $1,700              | 1TB SSD       | Intel Core i7-12700H          |
 | Asus TUF A14                 | $1,400              | 1TB SSD       | AMD Ryzen 7 8845HS            |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which rugged laptop is right for you?
 
@@ -230,19 +226,23 @@ A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that i
 
 These kinds of laptops are great for anyone who has to work outdoors for any length of time, such as people at construction sites, on geological surveys, and in the military.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does "military grade" mean?
 
 A laptop that is listed as "military grade" doesn't necessarily mean that it was developed for use by the Army or other military branches. Rather, it has been tested against military standards for dirt and water resistance as well as resistance to shocks, drops, and operating temperatures. 
 
 Laptops meant for military use are more rigorously tested against a laundry list of conditions, while commercially available laptops labeled "military grade" are only tested against a few of the MIL-STD-810 standards.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does Apple make a rugged laptop?
 
 At the time of writing, Apple does not have a ruggedized version of any of their MacBooks for sale, either through their official store or authorized sellers. You can, however, purchase rugged cases like the [Urban Armor Gear](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FURBAN-ARMOR-GEAR-Feather-Light-Translucent%2Fdp%2FB08M5KWNW4%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce3da2fa2-7385-4385-824e-43795c9997dc%7Cdtp&dtb=1) for the 13-inch MacBook Pro, the [Ibenezer case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07D848J6V%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce3da2fa2-7385-4385-824e-43795c9997dc%7Cdtp&dtb=1) for the 13-inch MacBook Air, or the [Pelican 1085](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPelican-1095CC-Laptop-Case-Liner%2Fdp%2FB006C21MCU%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce3da2fa2-7385-4385-824e-43795c9997dc%7Cdtp&dtb=1) hardshell carrying case.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More rugged laptops to consider
 
@@ -251,10 +251,6 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3Y3M68J%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce3da2fa2-7385-4385-824e-43795c9997dc%7Cdtp&dtb=1)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lenovo ThinkPad X1 Nano Gen 2
 
@@ -269,7 +265,7 @@ Show less
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getac B360
@@ -283,6 +279,10 @@ Show less
 [View now at Panasonic](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-55)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Panasonic Toughbook 55
 
@@ -330,14 +330,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-dji-flying-tech-experiment-with-color-luts-at-no-extra-charge/"><u>[New] DJI Flying Tech Experiment with Color LUTs at No Extra Charge</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-definitive-guide-for-choosing-best-youtube-visual-elements/"><u>[Updated] 2024 Approved The Definitive Guide for Choosing Best YouTube Visual Elements</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-dominates-pc-user-satisfaction-index-in-new-report-narrow-margin-as-samsung-closes-in-insights-from-zdnet/"><u>Apple Dominates PC User Satisfaction Index in New Report; Narrow Margin as Samsung Closes In | Insights From ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-11x-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme 11X 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stable-sony-vegas-workflow-overcoming-persistent-software-instability/"><u>Stable Sony Vegas Workflow: Overcoming Persistent Software Instability</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-reviewed-2023-dual-function-devices-with-a-surprisingly-useful-office-perk-spotted-on-zdnet/"><u>Top Reviewed 2023 Dual-Function Devices with a Surprisingly Useful Office Perk - Spotted on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-black-friday-offer-snag-the-highly-portable-lg-gram-notebook-now-just-400-cheaper-for-cyber-monday-bargains-gizmodo/"><u>Unmissable Black Friday Offer: Snag the Highly Portable LG Gram Notebook, Now Just $400 Cheaper for Cyber Monday Bargains | Gizmodo</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-upgrades-on-the-apple-m3-macbook-air-a-hands-on-analysis-by-an-expert-reviews-zdnet/"><u>Unveiling the Latest Upgrades on the Apple M3 MacBook Air – A Hands-On Analysis by an Expert Reviews ZDNET.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-collection-of-sandbox-games/"><u>[New] 2024 Approved The Ultimate Collection of Sandbox Games</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-vidvault-seamless-techniques-for-securing-tweeted-videos-for-2024/"><u>[New] VidVault Seamless Techniques for Securing Tweeted Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-in-depth-analysis-of-best-practices-in-valheim-agriculture/"><u>[Updated] 2024 Approved In-Depth Analysis of Best Practices in Valheim Agriculture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/350-eufy-turbo-duo-robotic-vacuum-prime-day-bargain-highlighted-by-zdnets-in-depth-review/"><u>$350 Eufy Turbo Duo Robotic Vacuum - Prime Day Bargain Highlighted by ZDNet's In-Depth Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-discover-the-benefits-of-investing-in-roborocks-premium-robot-vacuum-top-4-proven-advantages/"><u>1. Discover the Benefits of Investing in Roborock's Premium Robot Vacuum: Top 4 Proven Advantages!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-pro-level-screen-recorder-showdown/"><u>2024 Approved Pro-Level Screen Recorder Showdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-pickup-for-seasonal-auto-vac-sweepers-expert-ratings-and-deals-from-zdnet/"><u>Best Value Pickup for Seasonal Auto-Vac Sweepers - Expert Ratings & Deals From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/compact-in-size-powerful-cleaning-how-this-tiny-robot-vacuum-defies-expectations/"><u>Compact in Size, Powerful Cleaning: How This Tiny Robot Vacuum Defies Expectations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-combining-rotating-and-fine-tuning-videos-with-android-tools/"><u>In 2024, Combining, Rotating & Fine-Tuning Videos with Android Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-11-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme 11 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamp-your-macs-look-how-to-change-folder-color-settings/"><u>Revamp Your Mac's Look: How to Change Folder Color Settings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-home-cleaning-how-dreames-l40-ultra-bots-stay-active-for-two-full-solar-cycles-insights-from-zdnet/"><u>Revolutionizing Home Cleaning: How Dreame's L40 Ultra Bots Stay Active for Two Full Solar Cycles - Insights From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-transferring-virtual-machines-between-esxi-servers/"><u>Step-by-Step Guide: Transferring Virtual Machines Between ESXi Servers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-cleaning-revealed-eufys-new-omni-robot-vacuum-mop-at-ces-2024-zdnet/"><u>The Future of Cleaning Revealed - Eufy's New Omni Robot Vacuum-Mop at CES 2024 | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-43-unbeatable-sams-club-offers-this-season-score-roomba-samsung-hp-garmin-discounts-and-beyond-exclusive-insights-from-zdnet/"><u>Top 43 Unbeatable Sam's Club Offers This Season: Score Roomba, Samsung, HP, Garmin Discounts & Beyond - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-telepresence-bots-for-remote-collaboration-insights-from-zdnet/"><u>Top 5 Telepresence Bots for Remote Collaboration - Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-onoff-text-emphasis-and-highlight-effects-on-pc/"><u>Turn On/Off Text Emphasis and Highlight Effects on PC</u></a></li>
 </ul></div>
 

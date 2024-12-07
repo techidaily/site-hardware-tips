@@ -1,7 +1,7 @@
 ---
 title: Secure Your Exclusive $8 iPhone Shoot-Out Gear on Sale - Final Deals of Cyber Monday Event | ZDNET.
-date: 2024-11-23T17:23:41.039Z
-updated: 2024-11-27T18:35:02.255Z
+date: 2024-11-30T22:06:14.943Z
+updated: 2024-12-06T18:13:28.713Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-reel-it-in-proven-approaches-to-record-sporting-events-live/"><u>[New] Reel It In Proven Approaches to Record Sporting Events Live</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-virtual-worlds-worth-playing-for-2024/"><u>[Updated] Essential Virtual Worlds Worth Playing for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-short-form-media-exploration/"><u>[Updated] Short Form Media Exploration</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-game-changing-trick-enter-mac-apple-watch-style/"><u>2024 Approved Game-Changing Trick Enter Mac, Apple Watch Style</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-googles-latest-chrome-update-supercharged-performance-on-windows-yet-beware-of-surprising-trade-offs/"><u>Discover Google's Latest Chrome Update: Supercharged Performance on Windows, Yet Beware of Surprising Trade-Offs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-zte-blade-a73-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone ZTE Blade A73 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-usb-c-hub-for-your-ipad-pro-seamless-connectivity-anytime-top-pick/"><u>Essential USB-C Hub for Your iPad Pro: Seamless Connectivity Anytime Top Pick</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/from-grayscale-to-graded-grandeur-color-artistry-for-2024/"><u>From Grayscale to Graded Grandeur Color Artistry for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/impact-of-crop-residue-on-soil-microbial-composition-and-activity-after-harvest/"><u>Impact of Crop Residue on Soil Microbial Composition and Activity After Harvest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-second-hand-mac-shopping-essential-strategies-to-dodge-scams-and-snag-top-deals-zdnet-insights/"><u>Mastering Second-Hand Mac Shopping: Essential Strategies to Dodge Scams & Snag Top Deals | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/msi-summit-e13-laptop-now-at-a-steal-only-600-in-flash-deals-discover-how-on-zdnet/"><u>MSI Summit E13 Laptop Now at a Steal - Only $600 in Flash Deals! Discover How on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pain-is-a-weakness-that-i-can-overcome-and-will/"><u>Pain Is a Weakness That I Can Overcome (And Will)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-optimize-your-use-of-slack-reminders/"><u>Step-by-Step Instructions to Optimize Your Use of Slack Reminders</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-prime-day-laptop-bargains-for-october-2024-find-your-tech-savvy-at-zdnet/"><u>Top Prime Day Laptop Bargains for October 2024 - Find Your Tech Savvy at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-ultraportable-laptop-ideal-for-remote-professionals-a-review/"><u>Top-Performing Ultraportable Laptop Ideal for Remote Professionals - A Review</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-overclocked-cpus-for-gaming-users/"><u>Troubleshooting Overclocked CPUs for Gaming Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-perfecting-your-youtube-contents-first-visual-hook/"><u>[Updated] Perfecting Your YouTube Content's First Visual Hook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-proven-techniques-for-capturing-dynamic-and-engaging-ppts-for-2024/"><u>[Updated] Proven Techniques for Capturing Dynamic and Engaging PPTs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-picks-9-innovative-mobile-video-conferencing-tools-iphoneandroid/"><u>[Updated] Top Picks 9 Innovative Mobile Video Conferencing Tools iPhone/Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-the-premier-apps-for-picture-framing/"><u>2024 Approved Unleash Creativity The Premier Apps for Picture Framing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-fresh-google-enhancements-now-available-on-your-samsung-devices-find-out-whats-new/"><u>Discover the Fresh Google Enhancements Now Available on Your Samsung Devices - Find Out What's New!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-device-rugged-accessories-for-apple-watch-and-samsung-galaxy-z-fold-top-picks-by-gadgetflow/"><u>Enhance Your Device: Rugged Accessories for Apple Watch and Samsung Galaxy Z Fold - Top Picks by GadgetFlow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fitbit-sense-2-vs-versa-4-review-a-months-insight-into-well-being-features-and-navigational-limitations-zdnet/"><u>Fitbit Sense 2 vs Versa 4 Review: A Month's Insight Into Well-Being Features and Navigational Limitations | ZDNET</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guida-rapida-alla-risoluzione-dei-problemi-di-installazione-e-avvio-di-windows-10-metodi-efficaci-che-puoi-utilizzare-ora/"><u>Guida Rapida Alla Risoluzione Dei Problemi Di Installazione E Avvio Di Windows 10: Metodi Efficaci Che Puoi Utilizzare Ora!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-compel-your-pixel-timepiece-easy-steps-for-downloading-the-newest-firmware/"><u>How to Compel Your Pixel Timepiece: Easy Steps for Downloading the Newest Firmware</u></a></li>
+<li><a href="https://win-lab.techidaily.com/meilleure-solution-de-clonage-de-disque-gratuit-pour-windows-7-8-10-telechargement-rapide/"><u>Meilleure Solution De Clonage De Disque Gratuit Pour Windows 7 / 8 / 10 - Téléchargement Rapide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-vs-galaxy-choosing-the-top-android-smartwatch-pixel-watch-3-and-galaxy-watch-5-a-comprehensive-zdnet-review/"><u>Pixel Vs. Galaxy: Choosing the Top Android Smartwatch (Pixel Watch 3 and Galaxy Watch 5) - A Comprehensive ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-perfect-tech-match-made-in-heaven-why-im-thrilled-with-the-apple-watch-ultra-2-and-you-can-save-100-today-for-labor-day-insights-by-zdnet/"><u>The Perfect Tech Match Made in Heaven: Why I'm Thrilled with the Apple Watch Ultra 2 and You Can Save $100 Today for Labor Day | Insights by ZDNET</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138620393-9781722520939-the-solution/"><u>The Solution | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-samsung-non-google-android-smartwatch-reviewed-tech-insights-on-zdnet/"><u>Top Non-Samsung, Non-Google Android Smartwatch Reviewed | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44or44k944kz44oz55so5yuv55s744ks5pcn5asx44gq44gx44gn5zyn57iu44gz44kl44gf44kb44gu44os44oz44oi44go5pa55rov/"><u>パソコン用動画を損失なしで圧縮するためのヒントと方法</u></a></li>
 </ul></div>
 

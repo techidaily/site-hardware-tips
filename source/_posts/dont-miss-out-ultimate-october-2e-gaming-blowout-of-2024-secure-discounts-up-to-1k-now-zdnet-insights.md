@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out: Ultimate October 2E Gaming Blowout of 2024 – Secure Discounts Up to $1K Now | ZDNET Insights"
-date: 2024-11-20T17:57:34.965Z
-updated: 2024-11-27T17:52:25.664Z
+date: 2024-12-04T19:17:54.075Z
+updated: 2024-12-06T16:34:51.868Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
 
@@ -122,6 +118,10 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -136,10 +136,6 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals still available
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -153,7 +149,7 @@ ZDNET
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals still available
@@ -174,7 +170,7 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals still available
@@ -188,6 +184,10 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $1,800 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-aurora-r16-desktop-intel-core-i7-processor-14700kf-nvidia-geforce-rtx-4070-super-32gb-memory-1tb-sdd-black%2F6577352.p%3FskuId%3D6577352&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming PC with a 14th gen Intel Core i7 CPU, RTX 4070 Super GPU, 32GB of RAM, and a 1TB SSD.
 * [MSI Aegis RS for $1,700 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-rs-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-ti-super-2tb-ssd-black%2F6574690.p%3FskuId%3D6574690&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming and content creation desktop with an Intel Core i7-14700F CPU, Nvidia RTX 4070 Ti Super GPU, 32GB of RAM, and a 2TB SSD.
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals still available
 
@@ -227,6 +227,10 @@ Samsung/ZDNET
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
@@ -234,10 +238,6 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -304,16 +304,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-playbook-to-youtube-hub-mastery/"><u>[New] The Ultimate Playbook to YouTube Hub Mastery</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-saving-instagrams-trending-videos/"><u>2024 Approved The Ultimate Guide to Saving Instagram's Trending Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-3-streaming-services-for-switch-gaming/"><u>Essential 3 Streaming Services for Switch Gaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-look-how-this-multipurpose-thunderbolt-hub-revolutionizes-power-for-pc-enthusiasts-zdnet-tech-tips/"><u>Exclusive Look: How This Multipurpose Thunderbolt Hub Revolutionizes Power for PC Enthusiasts | ZDNet Tech Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-prime-day-2024-hot-sales-at-best-buy-unmissable-bargains-still-on-sale-zdnet-insights/"><u>October Prime Day 2024 Hot Sales at Best Buy: Unmissable Bargains Still on Sale | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/presidents-day-blowout-deal-secure-your-2023-macbook-air-with-m2-processor-for-an-exclusive-300-rebate-visit-zdnet-today/"><u>President's Day Blowout Deal: Secure Your 2023 MacBook Air with M2 Processor for an Exclusive $300 Rebate | Visit ZDNET Today!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-smart-tv-review-is-the-un65nu8000fxza-lacking-or-simply-overpriced/"><u>Samsung Smart TV Review – Is The Un65Nu8000Fxza Lacking, or Simply Overpriced?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-converting-yandex-videos-to-common-formats-like-mp4-avi-and-mov-on-pc-or-mac/"><u>Step-by-Step Guide: Converting Yandex Videos to Common Formats Like MP4, AVI & MOV on PC or Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-choice-lenovo-laptops-at-a-sweet-deal-save-50-this-octobers-prime-day-exclusive-insight-by-zdnet/"><u>Top Choice Lenovo Laptops at a Sweet Deal: Save 50% This October's Prime Day - Exclusive Insight by ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-microsoft-stores-error-x80131500/"><u>Troubleshooting Microsoft Store's Error X80131500</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-podcast-profitability-analysis/"><u>[New] In 2024, Podcast Profitability Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-next-gen-title-genius-for-online-content-creators/"><u>[New] Next-Gen Title Genius for Online Content Creators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-8-cost-free-android-video-recording-software-for-2024/"><u>[New] Top 8 Cost-Free Android Video Recording Software for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-craft-your-contents-voyage-from-camera-to-instagram-tv/"><u>[Updated] In 2024, Craft Your Content's Voyage From Camera to Instagram TV</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-effortless-screen-saving-on-android-devices/"><u>[Updated] In 2024, Effortless Screen Saving on Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-samsung-galaxy-watch-4-and-galaxy-watch-5-pro-a-comprehensive-guide-for-buyers-techradar/"><u>Choosing Between Samsung Galaxy Watch 4 and Galaxy Watch 5 Pro: A Comprehensive Guide for Buyers | TechRadar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-the-way-for-functional-alerts-in-microsoft-outlook/"><u>Clearing the Way for Functional Alerts in Microsoft Outlook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortlessly-link-your-bus-or-train-card-with-apple-wallet-expert-tips-and-tricks-by-zdnet/"><u>Effortlessly Link Your Bus or Train Card with Apple Wallet: Expert Tips & Tricks by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-aftershokz-aeropex-exceptional-bone-conduction-audio-quality-and-enduring-power-supply-expert-review-by-techzdnet/"><u>In-Depth Analysis of the AfterShokz Aeropex: Exceptional Bone Conduction Audio Quality & Enduring Power Supply - Expert Review by TechZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surviving-the-elements-an-in-depth-apple-watch-ultra-durability-assessment-spanning-nine-months-insights-from-zdnet/"><u>Surviving the Elements: An In-Depth Apple Watch Ultra Durability Assessment Spanning Nine Months | Insights From ZDNET</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-dichotomy-of-connection-and-loneliness-on-facebook/"><u>The Dichotomy of Connection and Loneliness on Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-apple-watch-offers-in-june-2023-exclusive-selection-on-zdnet/"><u>Top Apple Watch Offers in June 2023 - Exclusive Selection on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-premier-apple-watch-bands-of-2024-thoroughly-tested-and-evaluated-zdnet/"><u>Ultimate Guide to the Premier Apple Watch Bands of 2024: Thoroughly Tested and Evaluated | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-changes-apple-set-to-enhance-budget-friendly-watch-se-exciting-updates-awaitzdnet/"><u>Upcoming Changes: Apple Set to Enhance Budget-Friendly Watch SE - Exciting Updates Await![ZDNet]</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-an-ode-to-open-source-audio-selecting-tunes-for-captivating-montage-videos/"><u>Updated 2024 Approved An Ode to Open Source Audio Selecting Tunes for Captivating Montage Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-step-by-step-techniques-for-audio-retrieval-in-multimedia-content-windows-mac-iosandroid/"><u>Updated 2024 Approved Step-by-Step Techniques for Audio Retrieval in Multimedia Content (Windows, Mac, iOS/Android)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-or-stick-with-the-pro-comparing-the-new-samsung-galaxy-watch-6-classic-to-the-watch-5-pro-for-consumers-zdnet/"><u>Upgrade or Stick with the Pro? Comparing the New Samsung Galaxy Watch 6 Classic to the Watch 5 Pro for Consumers | ZDNET</u></a></li>
 </ul></div>
 

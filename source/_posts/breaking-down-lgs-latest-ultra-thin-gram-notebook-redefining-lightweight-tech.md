@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down LG's Latest Ultra-Thin GRAM Notebook: Redefining Lightweight Tech"
-date: 2024-11-21T18:44:53.535Z
-updated: 2024-11-27T19:37:09.860Z
+date: 2024-12-01T00:47:39.284Z
+updated: 2024-12-07T01:32:55.250Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -47,7 +47,7 @@ A simple solution is to use a USB-C to dual-HDMI dongle, such as the [Plugable U
 [ZDNET RECOMMENDS Plugable USB-C Dual HDMI adapter Some laptops only support a single external display, but this HDMI dual monitor adapter makes use of a DL-6950 chipset and DisplayLink drivers to bypass these limitations. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPlugable-DisplayLink-Multiple-Thunderbolt-USBC-6950M%2Fdp%2FB0CS8D3KF2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf64c0f13-f936-4e06-9777-c0e9d33cf7c2%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Plugable USB-C Dual HDMI adapter tech specs
@@ -87,7 +87,7 @@ While the target market for this adapter includes owners of Macs with the base M
 I've tested this adapter with dual 4K displays attached, and it works reliably on both macOS and Windows -- the sort of reliability that I'd expect from a Plugable device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -124,24 +124,21 @@ Not everyone needs dual 4K displays connected to their laptop, but if you're amo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-expert-advice-elevating-your-nba-live-viewing/"><u>[New] In 2024, Expert Advice Elevating Your NBA Live Viewing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-rapid-audience-expansion-without-breaking-the-bank/"><u>[New] In 2024, Rapid Audience Expansion Without Breaking the Bank</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-make-a-lasting-impression-with-your-facebook-profile-story/"><u>[Updated] How to Make a Lasting Impression with Your Facebook Profile Story</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-snappy-photo-assembly-your-quick-google-collages-blueprint/"><u>[Updated] Snappy Photo Assembly Your Quick Google Collages Blueprint</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-the-norm-a-deep-dive-into-the-toughest-and-most-adaptable-notebook-that-isnt-made-by-getac-zdnet-insights/"><u>Beyond the Norm: A Deep Dive Into the Toughest and Most Adaptable Notebook That Isn't Made by Getac - ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-bests-in-our-latest-college-laptop-comparison-non-apple-and-non-lenovo-with-200-off-see-what-we-found-at-zdnet/"><u>Budget Friendly Bests in Our Latest College Laptop Comparison (Non-Apple & Non-Lenovo) with $200 Off! See What We Found at ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-correcting-d3dx924dll-missing-or-undetected-mishap/"><u>Effective Solutions for Correcting 'd3dx9_24.dll' Missing or Undetected Mishap</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/galaxy-unveiling-highlights-comprehensive-overview-of-samsungs-latest-innovations-revealed-at-unpacked-event-techinsight/"><u>Galaxy Unveiling Highlights: Comprehensive Overview of Samsung's Latest Innovations Revealed at Unpacked Event | TechInsight</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-narzo-60-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme Narzo 60 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximizing-your-impact-with-periscope-live-for-2024/"><u>Maximizing Your Impact with Periscope Live for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/moving-forward-with-technology-how-to-update-your-m3-macbook-pro-or-latest-generation-imac-to-macos-mojave-expert-tips-from-zdnet/"><u>Moving Forward with Technology: How to Update Your M3 MacBook Pro or Latest Generation iMac to macOS Mojave - Expert Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/professionals-guide-to-choosing-the-ideal-laptop-for-video-editing-comprehensive-tests-and-honest-reviews-zdnet/"><u>Professional's Guide to Choosing the Ideal Laptop for Video Editing: Comprehensive Tests and Honest Reviews | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-and-simple-guide-enhance-your-graphics-card-speed-with-top-rated-benchmarks/"><u>Quick and Simple Guide: Enhance Your Graphics Card Speed with Top-Rated Benchmarks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-the-hp-victus-15-gaming-laptop-at-an-unbeatable-price-of-515-dont-miss-out-on-these-amazing-black-friday-savings-from-best-buy/"><u>Score the HP Victus 15 Gaming Laptop at an Unbeatable Price of $515 - Don't Miss Out on These Amazing Black Friday Savings From Best Buy!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-16-unbeatable-hp-laptop-offers-this-festive-season-exclusive-insights/"><u>Top 16 Unbeatable HP Laptop Offers This Festive Season: Exclusive Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-7-amazing-labor-day-promotions-on-apple-products-save-up-to-120-on-airpods-according-to-zdnet/"><u>Top 7 Amazing Labor Day Promotions on Apple Products - Save Up To $120 On AirPods, According to ZDNet!</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-windows-bt-folder-functionality/"><u>Understanding Windows ~BT Folder Functionality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-exceptional-savings-premier-pc-deals-for-octobers-prime-sale-revealed-by-zdnet/"><u>Unlock Exceptional Savings: Premier PC Deals for October's Prime Sale Revealed by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-superiority-of-apple-silicon-analyzing-m2-vs-m1-in-mac-mini-and-mac-studio-technology-insights/"><u>Unveiling the Superiority of Apple Silicon: Analyzing M2 vs M1 in Mac Mini & Mac Studio | Technology Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-premier-alternatives-to-youtubes-top-5-video-editors/"><u>[Updated] 2024 Approved Premier Alternatives to YouTube's Top 5 Video Editors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-swift-introduction-the-art-of-green-screening/"><u>[Updated] 2024 Approved Swift Introduction The Art of Green Screening</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-blur-the-borders-enhancing-your-videos-appeal-on-yt/"><u>[Updated] Blur the Borders Enhancing Your Video's Appeal on YT</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-propel-your-instagram-videos-into-the-public-eye/"><u>[Updated] Propel Your Instagram Videos Into the Public Eye</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-complete-blueprint-for-success-adding-channels-as-features-on-youtube-for-2024/"><u>[Updated] The Complete Blueprint for Success Adding Channels as Features on Youtube for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-amped-up-analysis-the-ultimate-amazon-fire-hd/"><u>1. Amped Up Analysis: The Ultimate Amazon Fire HD</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2023s-ultimate-guide-to-picking-the-perfect-2-in-1-convertible-notebooks/"><u>2023'S Ultimate Guide to Picking the Perfect 2-in-1 Convertible Notebooks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-delight-why-im-in-love-with-this-amazing-android-tablet-insights-from-zdnet/"><u>Affordable Delight: Why I'm in Love with This Amazing Android Tablet - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-ipad-pro-11-inch-and-129-inch-models-a-comparison-of-the-new-m1-and-m2-chips-for-optimal-performance/"><u>Choosing Between iPad Pro 11-Inch and 12.9-Inch Models: A Comparison of the New M1 & M2 Chips for Optimal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/clearing-android-device-caches-made-easy-a-step-by-step-guide-and-its-benefits/"><u>Clearing Android Device Caches Made Easy - A Step-by-Step Guide and Its Benefits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-picks-for-compact-tablets-of-2024-in-depth-analysis-and-ratings-zdnet/"><u>Elite Picks for Compact Tablets of 2024: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-techniques-for-convenient-iphone-screen-recording-for-2024/"><u>Essential Techniques for Convenient Iphone Screen Recording for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-waterfields-ultimate-air-travel-backpack-for-effortless-executive-commuting-a-comprehensive-review/"><u>Expert Analysis: Waterfield's Ultimate Air Travel Backpack for Effortless Executive Commuting - A Comprehensive Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-phantom-v-flipmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Phantom V FlipMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-13-pro-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 13 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-light-setups-enhancing-your-game-room-vibe/"><u>Prime Light Setups: Enhancing Your Game Room Vibe</u></a></li>
 </ul></div>
 

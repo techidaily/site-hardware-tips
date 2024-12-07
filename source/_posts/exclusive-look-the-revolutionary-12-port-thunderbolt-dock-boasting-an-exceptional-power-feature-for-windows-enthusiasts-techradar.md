@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look: The Revolutionary 12-Port Thunderbolt Dock Boasting an Exceptional Power Feature for Windows Enthusiasts | TechRadar"
-date: 2024-11-22T19:05:53.885Z
-updated: 2024-11-27T16:59:46.023Z
+date: 2024-12-02T03:36:46.189Z
+updated: 2024-12-07T01:35:39.837Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cde8d55d1-86d7-400d-9731-1d1296ca9684%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,21 +149,22 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-from-bland-to-blockbuster-framing-videos-in-a-square-perspective/"><u>[New] 2024 Approved From Bland to Blockbuster Framing Videos in a Square Perspective</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unleash-creativity-top-screencast-tools-recommended-by-experts/"><u>[New] Unleash Creativity Top Screencast Tools Recommended by Experts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-windows-11s-hidden-know-how-for-media-importing/"><u>[New] Unveiling Windows 11'S Hidden Know-How for Media Importing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-essential-tips-for-recording-fb-messenger-calls/"><u>[Updated] Essential Tips for Recording FB Messenger Calls</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-speedster-compact-sandisk-flash-drive-with-lightning-quick-data-transfer-tech-insight/"><u>Affordable Speedster: Compact SanDisk Flash Drive with Lightning Quick Data Transfer | Tech Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/detecting-macbooks-battery-charge-velocity-without-an-indicator-cnet-solutions/"><u>Detecting MacBook's Battery Charge Velocity without an Indicator | CNet Solutions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elite-fight-club-best-of-10-battle-royale-titles/"><u>Elite Fight Club Best of 10 Battle Royale Titles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-my-tesla-reacted-to-being-charged-using-the-anker-powerhouse-767-a-zdnet-report/"><u>How My Tesla Reacted to Being Charged Using the Anker PowerHouse 767 - A ZDNET Report</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020) With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-display-decoded-benqs-bl2711u-and-its-professional-impact/"><u>In 2024, The Ultimate Display Decoded BenQ’s BL2711U and Its Professional Impact</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-meizu-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Meizu Phone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mavix-m-gamers-delight-an-in-depth-review-of-its-ultimate-adjustable-features-powered-by-zdnet/"><u>Mavix M# Gamer's Delight: An In-Depth Review of Its Ultimate Adjustable Features | Powered by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/overcoming-the-challenges-of-ai-model-dependency-to-unlock-innovations-potential-with-byo-approach-futuretech-insights/"><u>Overcoming the Challenges of AI Model Dependency to Unlock Innovation's Potential with BYO Approach | FutureTech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-3-essential-raspberry-pi-gadgets-you-need-insights-from-zdnet/"><u>Top 3 Essential Raspberry Pi Gadgets You Need: Insights From ZDNet</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-four-popular-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Top Four Popular Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-for-connecting-airpods-across-devices-including-iphones-zdnet-tutorials/"><u>Ultimate Guide for Connecting AirPods Across Devices, Including iPhones | ZDNET Tutorials</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-streaming-saved-media-easy-igtv-downloads-on-pc-and-mac/"><u>[New] In 2024, The Art of Streaming Saved Media Easy IGTV Downloads on PC & Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-affordable-camcorders-with-full-rotational-coverage/"><u>[Updated] In 2024, Top Affordable Camcorders with Full Rotational Coverage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airpods-reset-ultimate-technique-revealed-know-when-its-time-to-do-so-zdnet-insights/"><u>AirPods Reset Ultimate Technique Revealed! Know When It's Time to Do So | ZDNET Insights.</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/balanced-photography-top-phones-and-cameras-tripod/"><u>Balanced Photography Top Phones & Cameras Tripod</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/compact-portable-docking-station-elevate-your-laptop-into-a-full-featured-desktop-setup-zdnet/"><u>Compact Portable Docking Station - Elevate Your Laptop Into a Full-Featured Desktop Setup | ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-latest-apple-iphone-12-why-its-a-game-changer/"><u>Comprehensive Analysis of the Latest Apple iPhone 12 - Why It's a Game-Changer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-gpt4all-operate-breakdown/"><u>How Does GPT4All Operate? Breakdown</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-overcome-launch-problems-with-tekken-8-on-your-computer/"><u>How To Successfully Overcome Launch Problems With Tekken 8 on Your Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>In 2024, Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-surfaces-key-to-triumph-lies-in-its-flexibility-discover-how-with-zdnet/"><u>Microsoft Surface's Key to Triumph Lies in Its Flexibility - Discover How with ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/safeguarding-windows-devices-comprehensive-guide-to-securing-personal-and-small-office-computers-insights-from-zdnet/"><u>Safeguarding Windows Devices: Comprehensive Guide to Securing Personal & Small Office Computers - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scorching-deals-snag-samsung-odyssey-g7-at-a-whopping-50-discount-on-amazons-spring-fling-insights-from-zdnet/"><u>Scorching Deals: Snag Samsung Odyssey G7 at a Whopping 50% Discount on Amazon's Spring Fling - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-35-unbeatable-cyber-monday-offers-find-the-best-bargains-on-dell-products-at-retail-giants-like-best-buy-and-amazon/"><u>Top 35 Unbeatable Cyber Monday Offers: Find the Best Bargains on Dell Products at Retail Giants Like Best Buy & Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-laptop-picks-for-2n4-professional-evaluations-and-comparisons-on-zdnet/"><u>Top-Ranking Laptop Picks for 2N4: Professional Evaluations & Comparisons on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-fastest-ram-on-the-market-boosting-productivity-and-gaming-rigs-techradar/"><u>Ultimate Guide to the Fastest RAM on the Market : Boosting Productivity & Gaming Rigs | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-confirms-the-era-of-fee-free-windows-10-upgrades-has-closed/"><u>ZDNet Confirms: The Era of Fee-Free Windows 10 Upgrades Has Closed</u></a></li>
 </ul></div>
 

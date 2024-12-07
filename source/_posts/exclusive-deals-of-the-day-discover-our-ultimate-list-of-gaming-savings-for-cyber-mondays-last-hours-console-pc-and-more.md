@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deals of The Day: Discover Our Ultimate List of Gaming Savings for Cyber Monday's Last Hours - Console, PC & More"
-date: 2024-11-21T19:11:26.107Z
-updated: 2024-11-27T18:58:32.384Z
+date: 2024-12-01T00:26:36.560Z
+updated: 2024-12-06T16:02:56.239Z
 tags:
   - laptops
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/91f7f58741561326931ca324590beadc475f32b45
 ## Score Big Savings: Cyber Monday's Exclusive Discount of $400 Off for the Ultra-Thin, High-Resolution LG Gram Ebook | Shop Smart
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/91f7f58741561326931ca324590beadc475f32b45
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Most 17-inch laptops tip the scales at well over 4 pounds, which makes LG's 2.98lb [Gram 17](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-Lightweight-Display-Processor-Thunderbolt%2Fdp%2FB09XGXTXRB%3Fref%3Ddlx%5Fcyber%5Fgd%5Fdcl%5Fimg%5F4%5F48651b7e%5Fdt%5Fsl7%5Fba%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0067eb1b-c2c1-410d-9fdd-a8d0f65e5726%7Cdtp&dtb=1) a remarkable device that will give it particularly appeal for creators, knowledge workers and undemanding gamers who want to maximise screen real estate without sacrificing too much portability. 
@@ -69,20 +69,20 @@ This lightweight 17-inch laptop performs well enough under mainstream productivi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-starter-gear-for-gopro-cameras/"><u>[Updated] In 2024, Top Starter Gear for GoPro Cameras</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-mastering-live-online-broadcasts-recording-techniques/"><u>2024 Approved Mastering Live Online Broadcasts Recording Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/abletons-soften-sound-strategies/"><u>Ableton's Soften Sound Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-of-breeds-macs-top-console-emulators/"><u>Best of Breeds: Mac's Top Console Emulators</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-apple-device-experience-with-these-simple-steps-for-adding-more-ports/"><u>Enhance Your Apple Device Experience with These Simple Steps for Adding More Ports!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guaranteed-steps-to-protectly-delete-your-private-data-from-a-windows-pc-cost-free-methods-covered/"><u>Guaranteed Steps to Protectly Delete Your Private Data From a Windows PC: Cost-Free Methods Covered!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-podcast-openings-unveiled-scripted-appeals/"><u>In 2024, Podcast Openings Unveiled Scripted Appeals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-innovative-2-in-1-device-seamlessly-switching-between-windows-and-android/"><u>Introducing Lenovo's Innovative 2-in-1 Device: Seamlessly Switching Between Windows and Android</u></a></li>
-<li><a href="https://win-answers.techidaily.com/new-world-troubleshooting-how-to-fix-persistent-connection-errors-effectively/"><u>New World Troubleshooting: How to Fix Persistent Connection Errors Effectively</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/shop-the-deal-walmarts-new-offer-on-asus-vivobook-pro-14-with-oled-display-at-sub-450-price-point/"><u>Shop the Deal: Walmart's New Offer on ASUS VivoBook Pro 14 with OLED Display at Sub-$450 Price Point</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-most-innovative-2-in-1-device-a-hidden-gem-for-workplace-productivity/"><u>The Most Innovative 2-in-1 Device : A Hidden Gem for Workplace Productivity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-budget-laptops-under-1k-in-depth-analysis-by-tech-gurus/"><u>Top-Rated Budget Laptops (Under $1K) - In-Depth Analysis by Tech Gurus</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-v27-by-drfone-android/"><u>Universal Unlock Pattern for Vivo V27</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-portability-and-performance-the-mini-chromebook-that-excels-in-flexibility-insights/"><u>Unlocking Portability and Performance: The Mini Chromebook That Excels in Flexibility - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-breakdown-macbook-air-vs-macbook-pro-to-find-your-ideal-apple-laptop/"><u>ZDNet's Ultimate Breakdown: MacBook Air Vs. MacBook Pro to Find Your Ideal Apple Laptop</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-smart-strategies-to-modify-user-numbers-on-tiktok/"><u>[Updated] In 2024, Smart Strategies to Modify User Numbers on TikTok</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-whats-the-maximum-fps-for-exceptional-slow-motion-vids/"><u>[Updated] What's the Maximum FPS for Exceptional Slow Motion Vids?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/customizing-your-watch-the-art-of-altering-youtube-video-pace-for-2024/"><u>Customizing Your Watch The Art of Altering YouTube Video Pace for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-storytelling-abilities-with-strategic-chatgpt-implementation-tips/"><u>Enhance Your Storytelling Abilities with Strategic ChatGPT Implementation Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovating-the-future-of-driving-renault-and-googles-collaboration-on-a-digital-vehicle-platform-explored-by-zdnet/"><u>Innovating the Future of Driving: Renault and Google's Collaboration on a Digital Vehicle Platform, Explored by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-partnership-hyundai-motors-enhances-in-car-entertainment-with-qualcomms-tech-latest-developments/"><u>Innovative Partnership: Hyundai Motors Enhances In-Car Entertainment with Qualcomm's Tech | Latest Developments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/join-conference-calls-from-your-tesla-zoom-meets-electric-the-next-big-thing-in-vehicle-connectivity/"><u>Join Conference Calls From Your Tesla: Zoom Meets Electric - The Next Big Thing in Vehicle Connectivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-skies-how-djis-avata-2-outperforms-in-speed-and-immersion-according-to-zdnets-test-flights/"><u>Mastering the Skies: How DJI's Avata 2 Outperforms in Speed and Immersion, According to ZDNet's Test Flights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/no-need-for-passports-cross-borders-easily-using-just-your-mobiles-qr-code/"><u>No Need for Passports! Cross Borders Easily Using Just Your Mobile's QR Code</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overhauling-in-flight-internet-promising-solutions-emerge-to-address-connectivity-woes-zdnet/"><u>Overhauling In-Flight Internet: Promising Solutions Emerge to Address Connectivity Woes | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/power-up-anywhere-zendures-superbase-v-all-in-one-charger-for-residential-and-electric-vehicle-use/"><u>Power Up Anywhere: Zendure's SuperBase V - All-in-One Charger for Residential & Electric Vehicle Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reviving-the-past-flipping-iphone-video-streams/"><u>Reviving the Past Flipping iPhone Video Streams</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/surviving-the-block-top-houses-for-2024/"><u>Surviving the Block Top Houses for 2024</u></a></li>
 </ul></div>
 

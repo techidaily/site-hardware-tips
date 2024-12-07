@@ -1,7 +1,7 @@
 ---
 title: "Experience Luxury Tech on Sale: $230 Off the Ultra-Sleek HP 15.6” Laptop - Grab Yours Today @ ZDNET!"
-date: 2024-11-22T19:34:13.501Z
-updated: 2024-11-27T16:30:25.932Z
+date: 2024-12-01T18:10:24.871Z
+updated: 2024-12-06T20:20:45.743Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,18 +138,24 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlocking-the-power-of-cross-social-media-file-transfers-youtube-and-facebook/"><u>[New] In 2024, Unlocking the Power of Cross-Social Media File Transfers (YouTube & Facebook)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-style-with-confidence-adding-border-artistry-to-your-instagram-posts-for-2024/"><u>[New] Style with Confidence Adding Border Artistry to Your Instagram Posts for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-buy-prime-day-preview-top-savings-and-offers-zdnet-insights/"><u>Best Buy Prime Day Preview: Top Savings & Offers | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-the-msi-steam-deck-challenge-nintendo-and-sony-in-the-mobile-gaming-arena-a-deep-dive-into-its-prospects-for-triumph/"><u>Can the MSI Steam Deck Challenge Nintendo and Sony in the Mobile Gaming Arena? A Deep Dive Into Its Prospects for Triumph</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-dell-precision/"><u>Review of Dell Precision</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/smiles-in-screens-make-with-kapwing/"><u>Smiles in Screens Make with Kapwing</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-correcting-java-not-setup-error-on-windows/"><u>Strategies for Correcting Java Not Setup Error on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-for-portable-powerhouses-a-minimalist-chromebook-that-packs-a-punch-insights-from-zdnets-testing/"><u>Top Pick for Portable Powerhouses: A Minimalist Chromebook That Packs a Punch – Insights From ZDNet's Testing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-the-best-alternative-laptops-for-business-trips-beyond-the-dell-xps-and-macbook-insider-advice/"><u>Top Picks: The Best Alternative Laptops for Business Trips, Beyond the Dell XPS and MacBook - Insider Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-wireless-routers-features-and-reviews-on-zdnet/"><u>Top Rated Wireless Routers - Features & Reviews on ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-silent-mode-a-guide-to-restoring-audio-on-your-iphone/"><u>Troubleshooting Silent Mode: A Guide to Restoring Audio on Your iPhone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-linking-your-favorite-tiktoks-seamlessly-to-facebook/"><u>[New] In 2024, Linking Your Favorite TikToks Seamlessly to Facebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/archivos-ogg-explicados-todo-lo-que-necesitas-saber-sobre-este-codec-multimedia-y-sus-funciones-basicas/"><u>Archivos Ogg Explicados: Todo Lo Que Necesitas Saber Sobre Este Códec Multimedia Y Sus Funciones Básicas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-google-and-samsungs-finest-the-ultimate-guide-to-selecting-an-android-watch-zdnet/"><u>Choosing Between Google and Samsung's Finest: The Ultimate Guide to Selecting an Android Watch | ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ct-priceless-imagery-from-trusted-4-youtube-directories/"><u>Collect Priceless Imagery From Trusted 4 YouTube Directories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/considering-an-apple-watch-upgrade-comparing-series-8-ultra-and-potential-benefits-of-waiting-for-series-ninth-edition-zdnet-insights/"><u>Considering an Apple Watch Upgrade? Comparing Series 8, Ultra and Potential Benefits of Waiting for Series Ninth Edition | ZDNET Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-red-x-meaning-in-file-organization/"><u>Dissecting the Red “X” Meaning in File Organization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-the-apple-watch-se-steal-for-memorial-day-its-my-top-gadget-purchase-and-a-must-have/"><u>Don't Miss Out on the Apple Watch SE Steal for Memorial Day! It's My Top Gadget Purchase and a Must-Have !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-apple-watch-ultra-2-became-my-ideal-wearable-sidekick-save-100-during-labor-day-sale-zdnet/"><u>How the Apple Watch Ultra 2 Became My Ideal Wearable Sidekick (Save $100 During Labor Day Sale!) | ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-best-mp4-player-you-should-know/"><u>In 2024, Best MP4 Player You Should Know</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boosting-windows-file-audit-with-precision/"><u>In 2024, Boosting Windows File Audit with Precision</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-exploration-of-the-revolutionary-amazfit-gtr-4-with-pioneering-gps-tech-at-just-199-a-comprehensive-assessment/"><u>In-Depth Exploration of the Revolutionary Amazfit GTR 4 with Pioneering GPS Tech at Just $199 – A Comprehensive Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/iphone-15-pro-vs-pro-max-which-ultimate-model-should-you-buy/"><u>IPhone 15 Pro Vs. Pro Max: Which Ultimate Model Should You Buy?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-with-the-latest-99-samsung-galaxy-smartwatch-eligibility-check-and-tips-inside/"><u>Maximize Savings with the Latest $99 Samsung Galaxy Smartwatch - Eligibility Check and Tips Inside!</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>New 2024 Approved Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-android-smartwatches-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Android Smartwatches: In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/wear-os-update-brings-offline-map-feature-is-your-smartwatch-upgraded-techspot/"><u>Wear OS Update Brings Offline Map Feature – Is Your Smartwatch Upgraded? | TechSpot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-google-pixel-watch-stole-the-show-among-android-smartwatches-ive-tested-a-zdnet-review/"><u>Why the Google Pixel Watch Stole the Show Among Android Smartwatches I've Tested - A ZDNet Review</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/windows-10-kanal-acimak-icin-sesle-kaydetme-yolu-4-tane-algilanabilir-temel-baslar/"><u>Windows 10, Kanal Açımak Için Sesle Kaydetme Yolu 4 Tane Algılanabilir: Temel Başlar</u></a></li>
 </ul></div>
 

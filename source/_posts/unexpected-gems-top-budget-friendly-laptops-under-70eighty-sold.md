@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Gems: Top Budget-Friendly Laptops Under $70Eighty Sold"
-date: 2024-11-26T18:53:45.591Z
-updated: 2024-11-27T19:03:57.370Z
+date: 2024-12-03T03:40:08.254Z
+updated: 2024-12-07T03:43:01.180Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,24 +166,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-transform-speech-into-text-the-accurate-google-method/"><u>[New] Transform Speech Into Text The Accurate Google Method</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pull-off-professional-video-edits-with-ken-burns-effect/"><u>[Updated] 2024 Approved Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-chroma-mastery-made-easy-a-complete-guide-to-green-screen-filmmaking-for-2024/"><u>[Updated] Chroma Mastery Made Easy A Complete Guide to Green Screen Filmmaking for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-black-and-white-to-color-classic-video-transition-tips-for-2024/"><u>[Updated] From Black-and-White to Color Classic Video Transition Tips for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-exclusive-top-ranked-laptops-now-available-with-a-staggering-500-discount-before-the-upcoming-prime-day/"><u>Amazon Exclusive: Top-Ranked Laptops Now Available with a Staggering $500 Discount Before the Upcoming Prime Day</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/building-a-strong-online-presence-through-engaging-content-social-media-interaction-and-search-engine-optimization-to-enhance-visibility-and-customer-reach.101/"><u>Building a Strong Online Presence Through Engaging Content, Social Media Interaction, and Search Engine Optimization to Enhance Visibility and Customer Reach.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/disappointing-experience-at-the-local-apple-retail-outlet-a-zdnet-review/"><u>Disappointing Experience at the Local Apple Retail Outlet - A ZDNet Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevating-productivity-with-style-in-depth-review-of-the-brydge-sp-max-plus-case-for-surface-pro-owners/"><u>Elevating Productivity with Style: In-Depth Review of the Brydge SP Max Plus Case for Surface Pro Owners</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/english-worlds-apart/"><u>English Worlds Apart</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ning-youtubes-noteworthy-chats/"><u>Examining YouTube's Noteworthy Chats</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-hp-keyboard-issues-in-no-time-with-these-easy-steps/"><u>Fix HP Keyboard Issues in No Time with These Easy Steps!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/guida-speciale-al-contare-in-italiano-1-1000/"><u>Guida Speciale Al Contare in Italiano (1-1000)</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-on-my-top-pick-magsafe-cable-station-at-50-discounted-price-shop-online-today/"><u>Huge Savings on My Top Pick: MagSafe Cable Station at 50% Discounted Price - Shop Online Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-work-efficiency-the-most-impressive-2-in-1-device-of-the-year-with-a-hidden-office-perk-techexplorer-review/"><u>Revolutionizing Work Efficiency: The Most Impressive 2-in-1 Device of the Year with a Hidden Office Perk | TechExplorer Review</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-12-video-grabber-online-to-download-any-video-you-like/"><u>Top 12 Video Grabber Online to Download Any Video You Like</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-98-cyber-week-offers-and-discounts-of-2022-insights-from-zdnet/"><u>Top 98 Cyber Week Offers & Discounts of 2022 - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-travel-tech-essentials-in-2-discover-the-ultimate-list-from-zdnet/"><u>Top Rated Travel Tech Essentials in 2# - Discover the Ultimate List From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-performance-meets-exceptional-visuals-in-highly-versatile-laptops-an-in-depth-review-gadget-specialist/"><u>Ultimate Performance Meets Exceptional Visuals in Highly Versatile Laptops - An In-Depth Review Gadget Specialist</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-xbox-power-up-with-these-top-hard-drives-rankings/"><u>[New] 2024 Approved Xbox Power-Up with These Top Hard Drives Rankings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-light-and-shadow-with-iphone-xs-new-lens-technology/"><u>[New] Mastering Light & Shadow with iPhone X's New Lens Technology</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-the-conversion-of-vids-to-mp3-on-insta/"><u>[New] Mastering the Conversion of Vids to MP3 on Insta</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-synchronize-speech-and-slide-show-the-voiceover-advantage/"><u>[Updated] Synchronize Speech and Slide Show The Voiceover Advantage</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-beneath-the-oceans-veil-tips-for-recording-top-notch-underwater-gopro-videos/"><u>2024 Approved Beneath the Ocean’s Veil Tips for Recording Top-Notch Underwater GoPro Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-meizu-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Meizu FRP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-tips-for-enhancing-photo-colors-effortlessly/"><u>5 Tips for Enhancing Photo Colors Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-for-loss-of-pin-access-in-windows-11-post-update-fallout/"><u>Fix for Loss of PIN Access in Windows 11 Post-Update Fallout</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-emporias-affordable-ev-charging-solution-with-enhanced-performance-metrics-a-zdnet-perspective/"><u>In-Depth Analysis of Emporia's Affordable EV Charging Solution with Enhanced Performance Metrics - A ZDNet Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-collaboration-sony-plus-honda-reveal-stylish-ev-design-at-auto-showcase/"><u>Innovative Collaboration: Sony + Honda Reveal Stylish EV Design at Auto Showcase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-features-coming-to-android-auto-utilizing-artificial-intelligence-for-streamlined-in-car-text-interaction/"><u>Innovative Features Coming to Android Auto: Utilizing Artificial Intelligence for Streamlined In-Car Text Interaction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-integration-tesla-boosts-connectivity-with-apple-airplay-rejecting-carplay/"><u>Innovative Integration: Tesla Boosts Connectivity with Apple AirPlay - Rejecting CarPlay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kalk-and-cake-the-dual-purpose-utilitarian-e-bike-for-commuting-and-recreation-featured-on-zdnet/"><u>Kalk & Cake: The Dual-Purpose Utilitarian E-Bike for Commuting & Recreation - Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lectric-xp-lite-bike-800-an-in-depth-review-of-urban-electric-mobility-fun-and-functionality-gizmodo/"><u>Lectric XP Lite Bike ($800) - An In-Depth Review of Urban Electric Mobility Fun & Functionality | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-drones-potential-with-these-indispensable-add-ons-for-the-dji-mini-3-pro-featured-by-zdnet/"><u>Maximize Your Drone's Potential with These Indispensable Add-Ons for the DJI Mini 3 Pro, Featured by ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-data-retrieval-tool-restore-lost-data-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-data/"><u>Oppo Data Retrieval tool – restore lost data from Oppo Reno 11 Pro 5G</u></a></li>
 </ul></div>
 

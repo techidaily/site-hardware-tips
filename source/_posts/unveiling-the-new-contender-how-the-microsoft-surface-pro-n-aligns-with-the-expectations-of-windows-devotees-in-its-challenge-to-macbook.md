@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the New Contender: How the Microsoft Surface Pro N Aligns with the Expectations of Windows Devotees in Its Challenge to MacBook"
-date: 2024-11-22T18:59:30.396Z
-updated: 2024-11-27T19:43:22.623Z
+date: 2024-12-05T17:30:46.602Z
+updated: 2024-12-06T20:05:12.926Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -40,6 +40,10 @@ On the surface, Microsoft has kept its fall lineup of products nearly indistingu
 Here's everything that the company announced during its October event.
 
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
 
@@ -58,7 +62,7 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -79,10 +83,6 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The aptly-named Surface Studio 2+
 
 The Surface Studio 2+ looks nearly identical to the Surface Studio 2.
@@ -98,7 +98,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -114,7 +114,7 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -163,24 +163,20 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-become-a-visionary-creator-optimal-camera-lens-selection/"><u>[New] In 2024, Become a Visionary Creator Optimal Camera Lens Selection</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-mastering-motion-control-top-camera-gadgets/"><u>[New] Mastering Motion Control - Top Camera Gadgets</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-comprehensive-checkup-vlle-for-app-health/"><u>[Updated] Comprehensive Checkup VLLE for App Health</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-viewers-interest-with-these-10-yt-reaction-strategies/"><u>[Updated] Unlock Viewers' Interest with These 10 YT Reaction Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-unveiling-the-ultimate-299-windows-laptop-your-top-choice-for-savvy-saving-shoppers-zdnet/"><u>1. Unveiling the Ultimate $299 Windows Laptop: Your Top Choice for Savvy Saving Shoppers | ZDNET</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-sim-inspired-memories-a-comprehensive-guide-to-capturing-life-events-with-gameplay-recordings/"><u>2024 Approved Sim-Inspired Memories A Comprehensive Guide to Capturing Life Events with Gameplay Recordings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-and-powerful-laptops-of-2024-rankings-by-tech-experts-zdnet/"><u>Affordable & Powerful Laptops of 2024 - Rankings by Tech Experts (ZDNet)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-why-samsungs-new-copilotplus-is-dominating-the-market-as-the-premier-windows-laptop-bargain-of-the-year-tech-insight/"><u>Discover Why Samsung's New Copilot+ Is Dominating the Market as the Premier Windows Laptop Bargain of the Year | Tech Insight .</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-laughlens-pictorial-humor-studio/"><u>In 2024, LaughLens Pictorial Humor Studio</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/infuse-vibrancy-mastering-music-integration-in-social-media-videos/"><u>Infuse Vibrancy Mastering Music Integration in Social Media Videos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/microsoft-surface-laptop-4-analysis-unmatched-performance-and-design/"><u>Microsoft Surface Laptop 4 Analysis: Unmatched Performance & Design</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-unlock-your-dvds-a-beginners-guide-to-converting-to-digital-video-formats-for-2024/"><u>New Unlock Your DVDs A Beginners Guide to Converting to Digital Video Formats for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/safeguarding-your-online-presence-during-live-broadcasts/"><u>Safeguarding Your Online Presence During Live Broadcasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-innovative-flexibility-of-lenovos-swiveling-laptop-unveiled-at-ifa-2024-an-exclusive-hands-on-review-gadgets/"><u>The Innovative Flexibility of Lenovo's Swiveling Laptop Unveiled at IFA 2024 – An Exclusive Hands-On Review Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-apples-newest-powerhouse-macbook-pro-m3-max-with-advanced-ai-features-expert-analysis/"><u>The Ultimate Guide to Apple's Newest Powerhouse: MacBook Pro (M3 Max) with Advanced AI Features | Expert Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-price-cuts-pre-black-friday-discover-the-best-buy-deals-exclusive-insights/"><u>Ultimate Price Cuts Pre-Black Friday: Discover the Best Buy Deals | Exclusive Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-how-dells-premium-3000-laptop-defies-expectations-with-cutting-edge-specs-pcmag/"><u>Unlocking Performance: How Dell's Premium $3,000 Laptop Defies Expectations with Cutting-Edge Specs | PCMag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-snag-the-asus-laptop-at-just-99-during-best-buys-flash-sale-insider-tips/"><u>Unmissable Deal Alert: Snag the ASUS Laptop at Just $99 During Best Buy's Flash Sale - Insider Tips !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-this-asus-notebook-surpasses-the-macbook-in-key-areas-a-detailed-review/"><u>Why This Asus Notebook Surpasses the MacBook in Key Areas: A Detailed Review</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-quick-fixes-to-fasten-tiktok-video-speed/"><u>[New] 2024 Approved Quick Fixes to Fasten TikTok Video Speed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-rotational-photography-versus-3d-scanning/"><u>[New] Full-Rotational Photography versus 3D Scanning</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715940849719-new-in-2024-how-to-use-markers-in-video-recording-and-editing/"><u>[New] In 2024, How to Use Markers in Video Recording and Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-skys-the-limit-revel-in-20-top-free-cloud-service-plans-up-to-1tb/"><u>[New] Sky's the Limit Revel in 20 Top Free Cloud Service Plans (Up To 1TB)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-streamline-task-management-with-safaris-picture-in-picture/"><u>[New] Streamline Task Management with Safari's Picture In Picture</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-melodic-instagram-reels-blending-music-voiceovers/"><u>[Updated] In 2024, Melodic Instagram Reels Blending Music, Voiceovers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-a-green-future-how-lenovo-strives-for-net-zero-emissions-and-champions-environmental-responsibility-zdnet/"><u>Embracing a Green Future: How Lenovo Strives for Net Zero Emissions and Champions Environmental Responsibility | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-eco-friendly-futures-how-lenovo-achieves-net-zero-goals-insights-from-zdnet/"><u>Embracing Eco-Friendly Futures: How Lenovo Achieves Net Zero Goals - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unleashed-surprisingly-impressive-performance-from-the-tesla-cybertruck-inspired-robot-lawnmower-tech-review-on-zdnet/"><u>Experience Unleashed: Surprisingly Impressive Performance From the Tesla Cybertruck-Inspired Robot Lawnmower | Tech Review on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-the-future-a-surprising-review-of-the-tesla-cybertruck-inspired-robot-lawnmower-on-zdnet/"><u>Experiencing the Future: A Surprising Review of the Tesla Cybertruck-Inspired Robot Lawnmower on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-innovative-features-of-teslas-new-cybertruck-a-review-by-a-tech-enthusiast-on-zdnet/"><u>Exploring the Innovative Features of Tesla’s New Cybertruck – A Review by a Tech Enthusiast on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/google-unveils-a-decade-of-search-expertise-to-boost-green-startups-in-its-new-accelerator-initiative-the-tech-chronicle/"><u>Google Unveils a Decade of Search Expertise to Boost Green Startups in Its New Accelerator Initiative | The Tech Chronicle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-analysis-of-paralympics-and-olympics-data-can-drive-energy-efficiency-at-the-upcoming-games-a-zdnet-perspective/"><u>How Analysis of Paralympics & Olympics Data Can Drive Energy Efficiency at the Upcoming Games: A ZDNet Perspective</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 11 Pro Max</u></a></li>
 </ul></div>
 

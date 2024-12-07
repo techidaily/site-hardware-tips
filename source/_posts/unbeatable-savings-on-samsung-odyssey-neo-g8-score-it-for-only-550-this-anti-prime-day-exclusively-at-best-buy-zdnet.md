@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Samsung Odyssey Neo G8 - Score It For Only $550 This Anti-Prime Day, Exclusively at Best Buy | ZDNET
-date: 2024-11-26T17:38:39.041Z
-updated: 2024-11-27T16:31:10.444Z
+date: 2024-12-01T03:27:58.779Z
+updated: 2024-12-06T17:24:31.516Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/tangle-free-usb-c-cable-review-the-ultimate-upgrade-you-need-in-your-backpack-for-hassle-free-connectivity/"><u>'Tangle-Free' USB-C Cable Review: The Ultimate Upgrade You Need in Your Backpack for Hassle-Free Connectivity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-elite-list-ten-economical-desktop-sharing-apps-for-2024/"><u>[New] Elite List Ten Economical Desktop Sharing Apps for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-a-comprehensive-guide-to-making-gifs-from-youtube-tracks/"><u>[New] In 2024, A Comprehensive Guide to Making GIFs From YouTube Tracks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-elevate-your-gaming-experience-discovering-kinemasters-potential/"><u>[Updated] In 2024, Elevate Your Gaming Experience - Discovering KineMaster's Potential</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-top-10-gear-for-next-gen-musical-video-production-quality-for-2024/"><u>[Updated] Top 10 Gear for Next-Gen Musical Video Production Quality for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-art-of-nba-streaming-discover-the-best-15-techniques/"><u>2024 Approved The Art of NBA Streaming - Discover the Best 15 Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-the-game-discovering-unmatched-perks-in-dells-high-end-thousand-dollar-laptop-zdnet/"><u>Beyond the Game: Discovering Unmatched Perks in Dell's High-End, Thousand-Dollar Laptop | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-massive-discounts-on-the-slim-fit-high-resolution-lg-gram-17-laptop-during-cyber-monday-shopping-event-save-up-to-40/"><u>Don't Miss Out! Massive Discounts on the Slim-Fit, High-Resolution LG Gram 17 Laptop During Cyber Monday Shopping Event – Save Up To 40%!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gogoanime-understanding-the-safety-and-legality-of-streaming-on-this-platform/"><u>Gogoanime : Understanding the Safety & Legality of Streaming on This Platform</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-phantom-v-flip-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Phantom V Flip Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-10-entertaining-games-to-beat-boredom-anywhere-anytime/"><u>Top 10 Entertaining Games to Beat Boredom Anywhere, Anytime</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-black-friday-computing-bargains-find-the-best-laptops-in-october-2024-ultimate-guide/"><u>Top-Rated Black Friday Computing Bargains: Find the Best Laptops in October 2024 Ultimate Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-discounted-computers-on-black-friday-and-cyber-monday-find-your-perfect-purchase/"><u>Top-Rated Discounted Computers on Black Friday & Cyber Monday - Find Your Perfect Purchase</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-invalidated-hardware-drivers-on-your-pc-or-mac/"><u>Troubleshooting Invalidated Hardware Drivers on Your PC or Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-finest-touchscreen-laptops-of-the-year-in-depth-expert-evaluations-and-ratings-zdnet/"><u>Ultimate Guide to the Finest Touchscreen Laptops of the Year: In-Depth Expert Evaluations and Ratings | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-revelations-at-apples-october-showcase-unveiling-the-m4-mac-mini-latest-ipad-lineup-enhanced-ai-capabilities-and-beyond-insights/"><u>Upcoming Revelations at Apple's October Showcase: Unveiling the M4 Mac Mini, Latest iPad Lineup, Enhanced AI Capabilities & Beyond - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-and-how-to-customize-your-chromebooks-dns-servers-for-enhanced-online-security-expert-tips-from-zdnet/"><u>Why and How to Customize Your Chromebook's DNS Servers for Enhanced Online Security - Expert Tips From ZDNET</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-anonymizing-videos-tips-for-keeping-personal-data-hidden-for-2024/"><u>[New] Anonymizing Videos Tips for Keeping Personal Data Hidden for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-audiovisual-authority-the-finest-computers-for-professional-edits/"><u>[New] In 2024, Audiovisual Authority The Finest Computers for Professional Edits</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-essential-low-cost-footage-source-directory-for-2024/"><u>[Updated] Essential Low-Cost Footage Source Directory for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-cyclings-finest-gaming-experiences/"><u>[Updated] In 2024, Cycling's Finest Gaming Experiences</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-savings-on-a-high-tech-affordable-hands-free-robot-vac-unveiled-by-zdnet-today/"><u>Discover the Ultimate Savings on a High-Tech, Affordable Hands-Free Robot Vac | Unveiled by ZDNET Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-skies-with-tech-zdnets-ultimate-picks-s-best-photography-drones/"><u>Exploring the Skies with Tech: ZDNet's Ultimate Picks 'S Best Photography Drones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-whats-next-for-apple-in-october-spotlight-on-upcoming-m4-mac-mini-enhanced-ipad-lineup-and-ai-advancements-zdnet-insights/"><u>Exploring What's Next for Apple in October: Spotlight on Upcoming M4 Mac Mini, Enhanced iPad Lineup, and AI Advancements | ZDNET Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-quicksnap-win10-recording-master/"><u>In 2024, QuickSnap Win10 Recording Master</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-perspectives-on-ai-development-choosing-animal-models-over-human-analogues-zdnet-analysis/"><u>Innovative Perspectives on AI Development: Choosing Animal Models Over Human Analogues | ZDNet Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-progress-in-ai-with-openais-newly-launched-gpt-4-model/"><u>Pioneering Progress in AI with OpenAI's Newly Launched GPT-4 Model</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-portable-all-in-one-pc-by-hp-the-shocking-announcement-you-need-to-know-covered-by-zdnet/"><u>Revolutionary Portable All-in-One PC by HP: The Shocking Announcement You Need to Know, Covered by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surviving-toy-landmines-and-furballs-how-my-expensive-roomba-conquered-childhood-havoc-insights-for-pet-owners-at-zdnet/"><u>Surviving Toy Landmines and Furballs: How My Expensive Roomba Conquered Childhood Havoc | Insights for Pet Owners at ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-gt-5-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme GT 5 Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-smart-gadgets-in-depth-analysis-and-reviews-by-industry-experts-zdnet/"><u>Top-Rated Smart Gadgets - In-Depth Analysis & Reviews by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-power-of-robotics-and-generative-ai-together-insights-and-strategies-featuring-zdnets-comprehensive-guide/"><u>Unleashing the Power of Robotics and Generative AI Together: Insights and Strategies - Featuring ZDNet's Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "New Vs. Old Tech Showdown: The M3 Versus M2 MacBook Air for Apple Enthusiasts"
-date: 2024-11-20T16:16:22.299Z
-updated: 2024-11-27T18:07:03.491Z
+date: 2024-12-06T03:27:54.344Z
+updated: 2024-12-06T19:16:42.251Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -52,20 +52,20 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M3 MacBook Air if...
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You want the fastest Wi-Fi support available
 
 If you find yourself doing a lot of downloading for work, or you're a gamer, the MacBook Air with M3 features the new [Wi-Fi 6e standard](https://www.zdnet.com/home-and-office/networking/wi-fi-6e-the-future-of-wireless-connectivity-today-with-some-caveats/) that provides faster download speeds and lower latency -- provided you're using a Wi-Fi 6e router, of course. While you might not notice much of a difference for everyday tasks, if you do Wi-Fi-intensive tasks where latency is critical, you'll quickly appreciate the upgrade. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You use more than one monitor
@@ -94,27 +94,27 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M2 MacBook Air if...
 
 Cliff Joseph/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. The $100 price difference means a lot
 
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
 
 Will you be mainly using your laptop for web surfing, streaming, listening to music, or working a remote job? If so, then you probably don't need the power -- and price tag -- of the M3 MacBook Air. For most users, the M2 is a more than reliable machine. It was ZDNET's [2022 product of the year](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/)!
 
 **Also:** [**I recommend this 15-inch MacBook Air to most people, and it's still $250 off**](https://www.zdnet.com/article/i-recommend-this-15-inch-macbook-air-to-most-people-and-its-still-250-off/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. You're expecting the M3 to be a bigger upgrade
 
@@ -156,20 +156,21 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-proactive-measures-for-managing-comments-on-educational-videos/"><u>[New] Proactive Measures for Managing Comments on Educational Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cyber-monday-extravaganza-snag-the-lenovo-thinkpad-l14-gen-3-at-a-jaw-dropping-77-discount-limited-time-offer/"><u>Cyber Monday Extravaganza: Snag the Lenovo ThinkPad L14 Gen 3 at a Jaw-Dropping 77% Discount - Limited Time Offer!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-deals-get-a-giant-8tb-samsung-t5-nvme-ssd-for-36-less-on-amazon-post-prime-day-insights-from-zdnet/"><u>Discover the Deals: Get a Giant 8TB Samsung T5 NVMe SSD for 36% Less on Amazon Post-Prime Day - Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discreet-dock-converts-your-laptop-into-high-performance-desktop-a-complete-review-by-zdnet/"><u>Discreet Dock Converts Your Laptop Into High-Performance Desktop: A Complete Review by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-out-when-you-can-get-your-hands-on-the-new-ps-portable-pricing-features-and-purchase-locations/"><u>Find Out When You Can Get Your Hands on the New PS Portable: Pricing, Features, and Purchase Locations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-access-to-the-top-soundscape-archives/"><u>In 2024, Exclusive Access to the Top Soundscape Archives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pro-iphones-capturing-perfect-silhouettes/"><u>In 2024, Pro iPhones Capturing Perfect Silhouettes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/last-minute-deals-alert-scoop-up-top-october-prime-day-game-bargains-and-save-hundreds-act-fast/"><u>Last-Minute Deals Alert: Scoop up Top October Prime Day Game Bargains and Save Hundreds – Act Fast!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-errors-post-setup-nvidias-smooth-operations/"><u>No Errors Post-Setup: Nvidia's Smooth Operations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-discounted-8-cyber-week-iphone-webcam-mount-exclusive-offer-lives-on/"><u>Secure Your Discounted $8 Cyber Week iPhone Webcam Mount - Exclusive Offer Lives On!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-all-rounder-the-ultimate-laptop-that-delights-everyone-and-impresses-with-its-robust-build-insight/"><u>Top Rated All-Rounder: The Ultimate Laptop That Delights Everyone and Impresses With Its Robust Build - Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-save-big-with-these-fantastic-hp-offers-this-festive-season-zdnet-picks/"><u>Ultimate Guide: Save Big with These Fantastic HP Offers This Festive Season (ZDNet Picks)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-professional-landscape-for-ai-interaction-experts/"><u>Understanding the Professional Landscape for AI Interaction Experts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/king-success-youtubes-keyword-research-secrets-revealed/"><u>Unlocking Success YouTube's Keyword Research Secrets Revealed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-comparative-reviews-beyond-the-norms-of-sharex/"><u>[New] Comparative Reviews Beyond the Norms of ShareX</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-hashtag-heroes-twitters-trending-talk/"><u>[New] Hashtag Heroes Twitter's Trending Talk</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-device-entry-guide-to-googles-video-conferencing/"><u>[Updated] Device Entry Guide to Google's Video Conferencing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-from-creator-to-consumer-securing-a-spot-on-apples-listings/"><u>[Updated] In 2024, From Creator to Consumer Securing a Spot on Apple’s Listings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-edge-40-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-xs-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone XS Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-how-to-make-money-on-tiktok-in-8-ways/"><u>In 2024, How to Make Money on TikTok in 8 Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-future-with-amazon-meet-the-duo-of-new-solar-energy-projects-down-under-as-spotted-by-zdnet/"><u>Sustainable Future with Amazon? Meet the Duo of New Solar Energy Projects Down Under, as Spotted by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-smartphone-choices-the-ultimate-ranking-of-green-phones-for-2e-year-cnet/"><u>Sustainable Smartphone Choices: The Ultimate Ranking of Green Phones for 2E Year | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-great-reshuffle-how-to-leverage-green-skills-for-sustainable-employment-on-linkedin-insights-by-zdnet/"><u>The 'Great Reshuffle': How to Leverage Green Skills for Sustainable Employment on LinkedIn | Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-amazing-powers-of-the-lomi-indoor-composter-unveiled-an-in-depth-review-for-eco-conscious-homes-zdnet/"><u>The Amazing Powers of the Lomi Indoor Composter Unveiled - An In-Depth Review for Eco-Conscious Homes | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-environmental-impact-of-your-smartphone-understanding-and-mitigating-its-effects/"><u>The Environmental Impact of Your Smartphone: Understanding and Mitigating Its Effects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-note-taking-unveiled-smart-reusable-pads-by-rocketbook-on-zdnet/"><u>The Future of Note Taking Unveiled: Smart Reusable Pads by Rocketbook on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-tough-snow-battles-in-cleveland-discover-the-power-of-our-top-rated-electric-snow-thrower/"><u>Tired of Tough Snow Battles in Cleveland? Discover the Power of Our Top-Rated Electric Snow Thrower!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-aerial-shots-the-full-potential-of-mi-drone/"><u>Unveiling Aerial Shots The Full Potential of MI Drone</u></a></li>
 </ul></div>
 

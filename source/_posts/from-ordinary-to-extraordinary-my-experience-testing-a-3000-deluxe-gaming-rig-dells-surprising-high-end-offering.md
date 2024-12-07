@@ -1,7 +1,7 @@
 ---
 title: "From Ordinary to Extraordinary: My Experience Testing a $3,000 Deluxe Gaming Rig - Dell's Surprising High-End Offering"
-date: 2024-11-23T19:37:52.190Z
-updated: 2024-11-27T16:07:19.645Z
+date: 2024-12-04T02:14:00.242Z
+updated: 2024-12-06T18:22:47.779Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,21 +138,22 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-8-best-practices-in-pc-and-microphone-sounds-logging-for-2024/"><u>[New] 8 Best Practices in PC and Microphone Sounds Logging for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-enriching-insta-videos-employ-three-dynamic-description-techniques-for-2024/"><u>[Updated] Enriching Insta Videos Employ Three Dynamic Description Techniques for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/building-the-perfect-gaming-rig-expert-advice-and-strategies/"><u>Building the Perfect Gaming Rig: Expert Advice and Strategies</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/eliminating-bsod-corrective-measures-for-rtkvhd64sys-malfunctioning-in-your-system/"><u>Eliminating BSOD: Corrective Measures for RTKVHD64.sys Malfunctioning in Your System</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hackers-delight-discover-the-top-12-must-have-gifts-curated-expert-picks/"><u>Hacker's Delight: Discover the Top 12 Must-Have Gifts Curated Expert Picks</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-14-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi 14 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco X6 Pro Phone Without Password?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/launching-a-vlog-top-kit-and-applications-for-2024/"><u>Launching a Vlog Top Kit & Applications for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prime-day-vr-savings-alert-get-the-best-deal-on-metas-512gb-quest-3-this-october-insider-tips/"><u>Prime Day VR Savings Alert: Get the Best Deal on Meta’s 512GB Quest 3 This October – Insider Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-immerse-users-in-soundfilters-of-windows-10-photos-for-2024/"><u>Step-by-Step Guide to Immerse Users in Sound/Filters of Windows 10 Photos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-38-unbeatable-cyber-week-and-costco-deals-exclusive-discounts-on-tvs-laptops-and-tablets-find-them-before-theyre-gone/"><u>Top 38 Unbeatable Cyber Week & Costco Deals: Exclusive Discounts on TVs, Laptops, and Tablets - Find Them Before They're Gone!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-budget-friendly-laptops-including-models-from-lenovo-hp-asus-and-others-featured/"><u>Top Budget-Friendly Laptops : Including Models From Lenovo, HP, Asus & Others - Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbelievable-cyber-monday-sale-lenovo-thinkpad-l14-gen-3-laptops-now-just-23-each-still-in-stock-on-zdnet/"><u>Unbelievable Cyber Monday Sale: Lenovo ThinkPad L14 Gen 3 Laptops Now Just $23 Each – Still In Stock on ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-meta-quest-3-offer-512gb-storage-at-great-value-exclusive-october-sale-and-prime-day-savings/"><u>Unmissable Meta Quest 3 Offer - 512GB Storage at Great Value! Exclusive October Sale & Prime Day Savings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-aural-ascendancy-mastering-sound-integration-on-reels/"><u>[Updated] 2024 Approved Aural Ascendancy Mastering Sound Integration on Reels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-sound-clarity-in-media-paid-vs-free-software-solutions-for-2024/"><u>[Updated] Sound Clarity in Media - Paid Vs. Free Software Solutions for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-infinix-note-30-vip-racing-edition-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Infinix Note 30 VIP Racing Edition to Another | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lightning-timelapses-on-iphone-reducing-delay/"><u>In 2024, Lightning Timelapses on iPhone Reducing Delay</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/is-it-possible-to-generate-a-system-restore-disk-from-a-separate-laptop-or-desktop/"><u>Is It Possible to Generate a System Restore Disk From a Separate Laptop or Desktop?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-playthrough-dealing-with-lag-in-guilty-gear-strive/"><u>Optimizing Your Playthrough: Dealing with Lag in Guilty Gear -Strive-</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-roadmap-to-getting-your-account-verified-on-the-rebranded-network-of-x-previously-twitter/"><u>The Roadmap to Getting Your Account Verified on the Rebranded Network of X (Previously Twitter)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-note-taking-tablet-reviews-comprehensive-testing-by-zdnet/"><u>Top Rated Note-Taking Tablet Reviews : Comprehensive Testing by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-stylus-tablets-unveiled-comprehensive-reviews-and-testing-insights-by-tech-gurus-zdnet/"><u>Top-Rated Stylus Tablets Unveiled: Comprehensive Reviews & Testing Insights by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/two-weeks-with-remarkables-colorful-e-ink-why-i-wont-settle-for-bland-traditional-papers-anymore/"><u>Two Weeks with Remarkable's Colorful E-Ink: Why I Won’t Settle for Bland Traditional Papers Anymore</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-right-ipad-for-university-success-smarttechreviews/"><u>Ultimate Guide to Choosing the Right iPad for University Success | SmartTechReviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tablets-user-wishes-vs-actuality-for-microsoft-surface-analysis-by-zdnet/"><u>Unveiling the Future of Tablets: User Wishes Vs. Actuality for Microsoft Surface - Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-why-apples-ai-powered-ipad-mini-outshines-the-latest-iphone-16-series-insights-from-zdnet/"><u>Unveiling Why Apple's AI-Powered iPad Mini Outshines the Latest iPhone 16 Series - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-this-affordable-android-tablet-stands-out-exceptional-value-on-every-aspect/"><u>Why This Affordable Android Tablet Stands Out - Exceptional Value on Every Aspect!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-eco-film-hub-dive-into-green-screen-creativity/"><u>Youtube’s Eco-Film Hub Dive Into Green Screen Creativity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-an-unlikely-top-contender-the-ultimate-non-brand-tablet-for-film-lovers/"><u>ZDNet Reveals an Unlikely Top Contender: The Ultimate Non-Brand Tablet for Film Lovers!</u></a></li>
 </ul></div>
 

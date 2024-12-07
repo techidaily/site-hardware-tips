@@ -1,7 +1,7 @@
 ---
 title: Find the Perfect Laptop at Unbeatable Prices During Oct '24 Prime Day Deals | Expert Picks and Tips | ZDNET
-date: 2024-11-26T18:46:29.964Z
-updated: 2024-11-27T19:08:55.814Z
+date: 2024-12-05T16:10:27.775Z
+updated: 2024-12-06T20:33:57.596Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,24 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-loopers-toolkit/"><u>[Updated] Looper's Toolkit</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/12-gadget-transforms-unused-ssds-into-functional-external-drives-insights-from-a-zdnet-review/"><u>$12 Gadget Transforms Unused SSDs Into Functional External Drives: Insights From a ZDNet Review</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-a18-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apple-macbook-air-13-inch-m1-2020-how-the-new-cpu-is-changing-the-laptop-industry-a-detailed-evaluation/"><u>Apple MacBook Air 13-Inch (M1, 2020): How the New CPU Is Changing the Laptop Industry – A Detailed Evaluation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-leading-printer-brands-and-models-for-202n-insights-from-zdnets-latest-review/"><u>Explore the Leading Printer Brands and Models for 202N - Insights From ZDNet's Latest Review</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-docx-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .docx </u></a></li>
-<li><a href="https://screen-recording.techidaily.com/gamescreen-unleashed-2024-edition/"><u>GameScreen Unleashed 2024 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-past-the-windows-10-hurdle-fixing-upgrades-stuck-at-almost-there-99-stage/"><u>Get Past the Windows 10 Hurdle - Fixing Upgrades Stuck at Almost There (99%) Stage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-bring-your-own-byo-ai-can-drive-user-engagement-and-spur-creative-breakthroughs/"><u>How Bring Your Own (BYO) AI Can Drive User Engagement & Spur Creative Breakthroughs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-the-battery-protection-in-airtags-could-harm-your-device-solutions-and-tips-zdnet/"><u>How the Battery Protection in AirTags Could Harm Your Device - Solutions & Tips | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-assessment-of-the-samsung-freestyle-by-tech-experts-at-zdnet/"><u>In-Depth Assessment of the Samsung Freestyle by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210761578-9781683642954-just-so/"><u>Just So | Free Book</u></a></li>
-<li><a href="https://facebook.techidaily.com/meta-tightening-its-grip-a-threat-to-facebook-and-instagram/"><u>Meta Tightening Its Grip – A Threat to Facebook & Instagram?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-feature-alert-apple-enhances-self-service-repair-with-remote-diagnostics-for-iphone-15-and-m2-mac/"><u>New Feature Alert: Apple Enhances Self-Service Repair with Remote Diagnostics for iPhone 15 & M2 Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-updater-roadblock-0x80073712/"><u>Resolving Updater Roadblock: 0X80073712</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-video-production-the-shift-to-smaller-cheaper-ssds-over-traditional-memory-cards-for-filmmakers-zdnet-exclusive/"><u>Revolutionizing Video Production: The Shift to Smaller, Cheaper SSDs Over Traditional Memory Cards for Filmmakers (ZDNet Exclusive)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seamlessly-upgrade-your-laptop-with-this-unobtrusive-docking-station-for-full-fledged-desktop-experience-techguide/"><u>Seamlessly Upgrade Your Laptop with This Unobtrusive Docking Station for Full-Fledged Desktop Experience | TechGuide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-24-delightful-dell-deals-on-electronics-this-festive-season-find-them-on-ebay-walmart-and-others/"><u>Top 24 Delightful Dell Deals on Electronics This Festive Season - Find Them on eBay, Walmart & Others!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-youtubes-earnings-for-1m-views/"><u>Unveiling YouTube's Earnings for 1M Views</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-much-could-you-make-on-youtube-snippets/"><u>[New] In 2024, How Much Could You Make on YouTube Snippets?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-boosting-youtube-rankings-with-top-seo-practices-1-11/"><u>[Updated] 2024 Approved Boosting YouTube Rankings with Top SEO Practices (1-11)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhance-social-gaming-experience-xbox-to-fb-livestream-for-2024/"><u>[Updated] Enhance Social Gaming Experience Xbox to FB Livestream for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-vlogs-to-virality-jake-paul-the-online-phenomenon-for-2024/"><u>[Updated] From Vlogs to Virality Jake Paul, the Online Phenomenon for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unraveling-the-benefits-of-rapid-youtube-subscription/"><u>2024 Approved Unraveling the Benefits of Rapid YouTube Subscription</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/defy-the-odds-how-enthusiasts-successfully-updated-their-aging-pcs-with-windows-11-despite-microsofts-warning-tech-wonders/"><u>Defy the Odds: How Enthusiasts Successfully Updated Their Aging PCs with Windows 11 Despite Microsoft's Warning | Tech Wonders</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/investing-in-value-my-choice-of-the-budget-friendly-surface-pro-and-why-it-promises-satisfaction/"><u>Investing in Value: My Choice of the Budget-Friendly Surface Pro and Why It Promises Satisfaction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-save-over-50-on-4tb-samsung-t5-external-ssd-shop-now-on-amazon-zdnet/"><u>Massive Discount: Save Over 50% on 4TB Samsung T5 External SSD - Shop Now on Amazon (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-and-efficient-pc-maintenance-boosting-performance-by-deleting-unnecessary-files-with-bleachbit-tips-from-zdnet/"><u>Quick & Efficient PC Maintenance: Boosting Performance by Deleting Unnecessary Files with BleachBit - Tips From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tirez-parti-du-service-gratuit-en-ligne-pour-transformer-vos-fichiers-wma-en-video-vob-avec-movavi/"><u>Tirez Parti Du Service Gratuit en Ligne Pour Transformer Vos Fichiers WMA en Vidéo VOB Avec Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-3-techniques-converting-pin-videos-to-mp3s/"><u>Top 3 Techniques Converting Pin Videos To MP3s</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ubuntu-2204-a-premier-choice-for-a-business-desktop-on-linux-itprotoday/"><u>Ubuntu 22.04: A Premier Choice for a Business Desktop on Linux | ITProToday</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-boosting-performance-selecting-premium-ram-for-enhanced-productivity-and-gaming-techradar/"><u>Ultimate Guide to Boosting Performance : Selecting Premium RAM for Enhanced Productivity and Gaming | TechRadar</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-windows-11-could-this-be-the-tipping-point-in-microsofts-history-of-mixed-reviews-find-out-now/"><u>Unveiling Windows 11: Could This Be the Tipping Point in Microsoft's History of Mixed Reviews? Find Out Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/what-happens-to-your-pc-when-windows-11-requires-compatible-hardware-insights-from-microsofts-update-policy-digital-trends/"><u>What Happens to Your PC When Windows 11 Requires Compatible Hardware – Insights From Microsoft's Update Policy | Digital Trends</u></a></li>
 </ul></div>
 

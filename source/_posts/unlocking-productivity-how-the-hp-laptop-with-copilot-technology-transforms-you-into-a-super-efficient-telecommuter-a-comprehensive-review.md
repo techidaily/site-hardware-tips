@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Productivity: How the HP Laptop with Copilot Technology Transforms You Into a Super-Efficient Telecommuter - A Comprehensive Review"
-date: 2024-11-24T16:19:17.303Z
-updated: 2024-11-27T17:28:05.423Z
+date: 2024-11-29T17:57:01.581Z
+updated: 2024-12-06T21:22:44.404Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -63,7 +63,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -85,10 +85,6 @@ Max Buondonno/ZDNET
 There's a lot that the dual-screen design of the Yoga Book 9i enables, and the versatility of it all is simply unmatched by more [conventional laptops](https://www.zdnet.com/article/best-laptop/). It's like a blank canvas made of OLED screens -- you can literally do whatever you want with them, orient them the way you want, and it can all be packed up and taken on the go.
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does it perform?
 
@@ -130,6 +126,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,16 +182,16 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-financial-flourishing-with-glamour-vlogs/"><u>[New] In 2024, Financial Flourishing with Glamour Vlogs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cultivating-commitment-gentle-subscription-strategies/"><u>[Updated] In 2024, Cultivating Commitment Gentle Subscription Strategies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-masterful-strategies-for-saving-lol-rounds/"><u>2024 Approved Masterful Strategies for Saving LOL Rounds</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-transfer-tactics-for-seamless-online-video-sharing/"><u>2024 Approved Transfer Tactics for Seamless Online Video Sharing</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unlocking-online-potential-mastering-the-art-of-thumbnail-sizing/"><u>2024 Approved Unlocking Online Potential Mastering the Art of Thumbnail Sizing</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/chromatic-excellence-program-for-2024/"><u>Chromatic Excellence Program for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chromeos-latest-update-incorporates-windows-11-features-enhancing-chromebook-experience/"><u>ChromeOS Latest Update Incorporates Windows 11 Features, Enhancing Chromebook Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-screen-capture-a-guide-to-taking-screenshots-on-dell-lenovo-and-macbooks/"><u>Mastering Screen Capture: A Guide to Taking Screenshots on Dell, Lenovo & MacBooks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/meta-unveils-512gb-quest-3-offer-the-premier-virtual-reality-deal-of-the-moment-says-zdnet/"><u>Meta Unveils 512GB Quest 3 Offer – The Premier Virtual Reality Deal of the Moment, Says ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-essentials-before-halloween-ultimate-guide-to-the-best-deals-of-october-prime-day-2024-techradar/"><u>Secure Your Essentials Before Halloween: Ultimate Guide to the Best Deals of October Prime Day 2024 | TechRadar</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easy-steps-capture-screen-with-macos-tools-and-software/"><u>[Updated] Easy Steps Capture Screen with macOS Tools & Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-revamps-fire-tv-with-cutting-edge-generative-ai-capabilities-discover-the-new-features-zdnet-insight/"><u>Amazon Revamps Fire TV with Cutting-Edge Generative AI Capabilities – Discover the New Features | ZDNET Insight</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-instability-expert-tips-and-fixes-to-prevent-red-dead-redemption-2-from-crashing-your-gaming-session/"><u>Conquering Instability: Expert Tips and Fixes to Prevent Red Dead Redemption 2 From Crashing Your Gaming Session</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-evaluation-why-ring-video-doorbell-2-reigns-supreme-in-home-safety/"><u>Expert Evaluation: Why Ring Video Doorbell 2 Reigns Supreme in Home Safety</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-mastering-zoom-video-quality-a-step-by-step-guide/"><u>In 2024, Mastering Zoom Video Quality A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-15-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 15 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-hidden-gaming-power-with-this-top-ranked-samsung-projector-tech-insights/"><u>Unlock Hidden Gaming Power with This Top-Ranked Samsung Projector | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-top-rated-qled-television-now-at-a-striking-discount-for-labor-day-save-big-on-tech/"><u>Unmissable Deal Alert: Top-Rated QLED Television Now at a Striking Discount for Labor Day - Save Big on Tech!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-true-chromecast-heir-the-amazing-features-of-the-99-google-tv-streamer-insights-from-zdnet/"><u>Unveiling the True Chromecast Heir: The Amazing Features of the $99 Google TV Streamer | Insights From ZDNET</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-start-to-finish-how-to-record-your-desktop-with-filmora-scrn/"><u>Updated In 2024, From Start to Finish How to Record Your Desktop with Filmora Scrn</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-to-the-most-innovative-mp3-devices/"><u>ZDNet's Ultimate Guide to the Most Innovative MP3 Devices</u></a></li>
 </ul></div>
 

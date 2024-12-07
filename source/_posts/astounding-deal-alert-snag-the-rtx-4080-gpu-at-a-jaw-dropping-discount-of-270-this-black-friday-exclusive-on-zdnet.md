@@ -1,7 +1,7 @@
 ---
 title: "Astounding Deal Alert: Snag the RTX 4080 GPU at a Jaw-Dropping Discount of $270 This Black Friday - Exclusive on ZDNet!"
-date: 2024-09-17 17:18:24
-updated: 2024-09-20 10:34:35
+date: 2024-12-01T00:07:20.238Z
+updated: 2024-12-07T02:15:00.413Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,29 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-laying-down-the-law-vegas-pro-21-edition-reviewed/"><u>[Updated] Laying Down the Law VEGAS Pro '21 Edition Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-quietude-kingdoms-ultimate-zen-pc-games-for-2024/"><u>[Updated] Quietude Kingdoms Ultimate Zen PC Games for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-360-live-streaming-cameras-for-youtube-and-facebook/"><u>[Updated] Top 360 Live Streaming Cameras for YouTube and Facebook</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-setup-instructions-for-corsair-icue-with-free-download-on-windows-os/"><u>Complete Setup Instructions for Corsair iCUE with Free Download on Windows OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-surprising-creative-power-within-elegant-asus-laptop-models-what-designers-should-know-zdnet/"><u>Discover the Surprising Creative Power Within Elegant Asus Laptop Models - What Designers Should Know | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-get-the-apple-macbook-air-m2-chip-at-unbeatable-prices-this-cyber-monday-limited-time-offer-zdnet/"><u>Don't Miss Out: Get the Apple MacBook Air (M2 Chip) at Unbeatable Prices This Cyber Monday - Limited Time Offer | ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722981660316-easy-fixes-how-to-overcome-fortnite-login-issues-instantly/"><u>Easy Fixes: How to Overcome Fortnite Login Issues Instantly!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-new-era-of-computing-how-the-imac-m1-sets-a-higher-standard-for-visual-quality-and-processing-speed/"><u>Exploring the New Era of Computing: How the iMac M1 Sets a Higher Standard for Visual Quality and Processing Speed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-6s-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 6s Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-microsofts-latest-surface-laptop-5-satisfaction-marginally-lower-than-anticipated-tech-analysis-on-zdnet/"><u>In-Depth Look at Microsoft's Latest Surface Laptop 5: Satisfaction Marginally Lower than Anticipated | Tech Analysis on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-savings-on-cyber-monday-with-exceptional-laptop-deals-for-under-500-plus-bonus-item-just-99-insider-tips/"><u>Maximize Your Savings on Cyber Monday with Exceptional Laptop Deals for Under $500 + Bonus Item Just $99 - Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-for-gamers-intel-arc-powered-pcs-comes-with-valuable-game-collection-worth-more-than-450-insights/"><u>Score Big Savings for Gamers! Intel Arc-Powered PCs Comes With Valuable Game Collection Worth More Than $450 Insights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/seek-out-all-shared-media-on-messenger-platform/"><u>Seek Out All Shared Media on Messenger Platform</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-chromebooks-should-be-your-first-choice-the-ultimate-guide-to-their-benefits-by-zdnet/"><u>Why Chromebooks Should Be Your First Choice – The Ultimate Guide to Their Benefits by ZDNet</u></a></li>
+</ul></div>
+

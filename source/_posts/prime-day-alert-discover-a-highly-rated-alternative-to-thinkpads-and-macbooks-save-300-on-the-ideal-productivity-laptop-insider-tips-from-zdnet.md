@@ -1,7 +1,7 @@
 ---
 title: Prime Day Alert! Discover a Highly Rated Alternative to ThinkPads and MacBooks - Save $300 on the Ideal Productivity Laptop (Insider Tips From ZDNet)
-date: 2024-11-24T18:44:05.661Z
-updated: 2024-11-27T18:06:04.544Z
+date: 2024-11-30T19:07:23.791Z
+updated: 2024-12-06T22:14:24.294Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,19 +134,24 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-ultimate-guide-to-finding-free-video-subtitles/"><u>[New] In 2024, Ultimate Guide to Finding Free Video Subtitles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-advanced-screen-viewer-chromeos-edition/"><u>2024 Approved Advanced Screen Viewer ChromeOS Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-callers-audio-logger-iphone-24/"><u>2024 Approved Caller's Audio Logger IPhone '24</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/blowout-offer-grab-the-apple-m2-macbook-air-for-only-749-on-amazons-october-prime-day-zdnet-insider-tips/"><u>Blowout Offer: Grab the Apple M2 MacBook Air for Only $749 on Amazon's October Prime Day | ZDNET Insider Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ces-2023-recap-top-product-reveals-from-the-first-day-techradar/"><u>CES 2023 Recap - Top Product Reveals From the First Day | TechRadar</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/digital-dialogue-preservation-guide-for-2024/"><u>Digital Dialogue Preservation Guide for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevating-craft-how-writers-exceed-machine-generated-content/"><u>Elevating Craft: How Writers Exceed Machine-Generated Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/four-horsemen-on-a-white-horse/"><u>Four Horsemen on a White Horse</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-regain-entry-after-forgotten-or-revoked-login-credentials/"><u>How to Regain Entry After Forgotten or Revoked Login Credentials</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-repair-and-support-unrecognized-file-systems-in-windows-a-three-step-guide/"><u>How to Repair and Support Unrecognized File Systems in Windows: A Three-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-cyber-monday-savings-on-the-ultra-portable-lg-gram-17-laptop-save-400-now/"><u>Huge Cyber Monday Savings on the Ultra Portable LG Gram 17 Laptop - Save $400 Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-savings-with-costcos-top-38-cyber-monday-bargains-get-quality-tvs-laptops-and-more-at-unbeatable-prices/"><u>Maximize Your Savings with Costco's Top 38 Cyber Monday Bargains – Get Quality TVs, Laptops & More at Unbeatable Prices!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-video-editing-made-easy-for-kids-top-free-and-paid-apps/"><u>New Video Editing Made Easy for Kids Top Free and Paid Apps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-the-high-end-m3-macbook-pro-is-a-steal-at-under-10000-revealing-secrets-with-zdnets-analysis/"><u>Why the High-End M3 MacBook Pro Is a Steal at Under $10,000 – Revealing Secrets with ZDNET's Analysis</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastery-of-memes-how-to-download-twitters-animated-images/"><u>[New] Mastery of Memes How to Download Twitter's Animated Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-content-masterpieces-select-the-ultimate-androidpc-apps/"><u>[Updated] 2024 Approved Crafting Content Masterpieces Select the Ultimate Android/PC Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-prime-6-low-cost-ultra-clear-4k-projection-for-2024/"><u>[Updated] Prime 6 Low-Cost, Ultra-Clear 4K Projection for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-speaking-stories-writing-lyrical-film-scripts/"><u>[Updated] Speaking Stories Writing Lyrical Film Scripts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-covert-creativity-easy-photo-fixes-for-starters/"><u>2024 Approved Covert Creativity Easy Photo Fixes for Starters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-unveils-new-timepieces-as-samsung-galaxy-watch-6-drops-100-in-price-exclusive-offers-inside-zdnet/"><u>Apple Unveils New Timepieces as Samsung Galaxy Watch 6 Drops $100 in Price – Exclusive Offers Inside | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-watch-series-7-vs-series-10-the-compelling-reasons-for-staying-with-what-works-tips-by-a-senior-editor-at-zdnet/"><u>Apple Watch Series 7 Vs. Series 10: The Compelling Reasons for Staying with What Works | Tips by a Senior Editor at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-samsungs-latest-innovations-galaxy-watch-6-vs-watch-vehicles-in-terms-of-features-performance-and-value-buyers-guide-zdnet/"><u>Choosing Between Samsung's Latest Innovations: Galaxy Watch 6 Vs. Watch Vehicles in Terms of Features, Performance, and Value - Buyer's Guide | ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-download-fast-track-validity-fingerprint-sensor-software/"><u>Easy Installation Guide: [DOWNLOAD] Fast-Track Validity Fingerprint Sensor Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-intelligence-how-does-montblancs-premium-1300-wear-os-smartwatch-measure-up-in-todays-tech-landscape/"><u>Evaluating Intelligence: How Does Montblanc's Premium $1,300 Wear OS Smartwatch Measure Up in Today's Tech Landscape?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-prime-day-apple-product-deals-get-your-hands-on-macbook-air-airpods-pro-and-more-spotted-by-zdnet/"><u>Exclusive Prime Day Apple Product Deals: Get Your Hands On MacBook Air, AirPods Pro and More – Spotted by ZDNET!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-7-plus-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 7 Plus Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leveraging-peerless-connectivity-unveiling-the-secrets-behind-operating-apple-watchs-built-in-walkie-talkie-with-expert-advice-from-zdnet/"><u>Leveraging Peerless Connectivity: Unveiling the Secrets Behind Operating Apple Watch's Built-In Walkie Talkie with Expert Advice From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-fitness-performance-with-polar-grit-x-pro-titan-a-detailed-review-by-zdnet-on-training-and-recovery-tools-for-athletes/"><u>Maximizing Fitness Performance with Polar Grit X Pro Titan: A Detailed Review by ZDNet on Training & Recovery Tools for Athletes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimize-your-audio-setup-fixing-inoperative-speakers-on-windows-10-systems/"><u>Optimize Your Audio Setup: Fixing Inoperative Speakers on Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-all-rounder-in-depth-analysis-of-the-garmin-forerunner-255-music-edition-the-runners-choice/"><u>Top-Performing All-Rounder: In-Depth Analysis of the Garmin Forerunner 255 Music Edition - The Runner's Choice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-your-timepiece-a-comprehensive-tutorial-for-switching-up-apple-watch-screens/"><u>Transforming Your Timepiece: A Comprehensive Tutorial for Switching Up Apple Watch Screens</u></a></li>
 </ul></div>
 

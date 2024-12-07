@@ -1,7 +1,7 @@
 ---
 title: The Lightweight Powerhouse That Outperformed MacBook Air in My Hands-On Tests | Tech Analysis
-date: 2024-11-24T17:28:32.121Z
-updated: 2024-11-27T19:30:07.225Z
+date: 2024-12-02T00:26:54.069Z
+updated: 2024-12-06T22:09:16.053Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -87,7 +87,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -126,20 +126,18 @@ The Surface Laptop is a flagship mid-range device that's well-rounded enough to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-illuminate-your-world-top-iphone-lights-techniques/"><u>[Updated] 2024 Approved Illuminate Your World Top iPhone Lights Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-pushing-perceptions-with-the-advanced-dell-p2715q-display-review/"><u>[Updated] 2024 Approved Pushing Perceptions with the Advanced Dell P2715Q Display Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-4-ways-to-record-powerpoint-presentation-with-webcam-2023/"><u>[Updated] In 2024, 4 Ways to Record PowerPoint Presentation with Webcam 2023</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-revolutionize-your-snapchat-experience-a-compendium-of-over-120-innovative-story-titles/"><u>[Updated] Revolutionize Your Snapchat Experience A Compendium of Over 120 Innovative Story Titles</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-techniques-for-perfect-chroma-key-compositing-for-2024/"><u>[Updated] Techniques for Perfect Chroma Key Compositing for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-speedy-to-steady-on-iphone-a-compreomed-guide-for-slowed-down-visuals/"><u>In 2024, From Speedy to Steady on iPhone A Compreomed Guide for Slowed-Down Visuals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-key-techniques-for-smooth-inshot-pivots/"><u>In 2024, Key Techniques for Smooth Inshot Pivots</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-into-ces-2022-samsung-unveils-three-premium-display-models-zdnet/"><u>Leading Into CES 2022: Samsung Unveils Three Premium Display Models | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/protect-your-ears-expert-advice-on-reducing-hearing-risks-associated-with-headphone-use-by-zdnet-experts/"><u>Protect Your Ears: Expert Advice on Reducing Hearing Risks Associated with Headphone Use by ZDNET Experts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-magic-5-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor Magic 5</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/shure-mv7-deep-dive-review-top-tier-hybrid-mic-evaluation-for-content-creators-on-podcasting-and-broadcasting-platforms-tech-inspection-by-zdnet/"><u>Shure MV7 Deep Dive Review: Top-Tier Hybrid Mic Evaluation for Content Creators on Podcasting and Broadcasting Platforms | Tech Inspection by ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-workings-explained-gpt4all-insights/"><u>The Workings Explained: GPT4All Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-productivity-the-perfect-non-gaming-monitor-for-just-230-dont-miss-out-on-this-stunning-32-curved-display/"><u>Transform Your Productivity: The Perfect Non-Gaming Monitor for Just $230! Don't Miss Out on This Stunning 32 Curved Display.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-46-off-on-innovative-earwax-removal-cameras-must-have-gadget-this-black-friday-zdnet/"><u>Unlock 46% OFF on Innovative Earwax Removal Cameras - Must-Have Gadget This Black Friday! | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-workflow-with-the-ultimate-16-port-dream-dock-every-artists-top-tech-pick-zdnet/"><u>Upgrade Your Workflow with the Ultimate 16-Port Dream Dock - Every Artist's Top Tech Pick | ZDNET</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eading-tech-review-the-top-10-screen-recorders-for-2024/"><u>[New] Leading Tech Review The Top 10 Screen Recorders for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-uniting-voices-and-visions-the-top-mics-for-educational-gaming-and-lifestyle-yt-screens/"><u>[New] Uniting Voices & Visions The Top Mics For Educational, Gaming, and Lifestyle YT Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-these-iphone-models-and-key-apple-devices-in-month-top-picks-not-to-purchase-insights-from-zdnet/"><u>Avoid These iPhone Models & Key Apple Devices in [Month]: Top Picks Not To Purchase - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-pcs-performance-by-clearing-clutter-using-bleachbit-zdnet-recommended/"><u>Boost Your PC's Performance by Clearing Clutter Using BleachBit (ZDNet Recommended)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-the-future-how-artificial-intelligence-is-redefining-computing-speeds-insights-from-zdnet/"><u>Embracing the Future: How Artificial Intelligence Is Redefining Computing Speeds - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-100-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor 100 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>In 2024, Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-syncopating-songs-implementing-fades-in-logic-pro-x/"><u>In 2024, Syncopating Songs Implementing Fades in Logic Pro X</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leveraging-local-computing-power-for-ai-model-deployment-managing-dozens-of-models-on-mac-or-pc-without-third-party-clouds-zdnet-insights/"><u>Leveraging Local Computing Power for AI Model Deployment: Managing Dozens of Models on Mac or PC Without Third-Party Clouds | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-snag-the-ultimate-deal-on-an-acer-gamers-dream-computer-under-650-shop-now/"><u>Slash Prices: Snag the Ultimate Deal on an Acer Gamer's Dream Computer Under $650 - Shop Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-macos-stage-manager-a-comprehensive-guide-on-activation-and-features/"><u>Unlocking macOS Stage Manager: A Comprehensive Guide on Activation & Features</u></a></li>
 </ul></div>
 

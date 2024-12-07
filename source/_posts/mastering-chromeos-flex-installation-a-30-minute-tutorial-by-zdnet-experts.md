@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChromeOS Flex Installation: A 30-Minute Tutorial by ZDNet Experts"
-date: 2024-09-17 16:59:17
-updated: 2024-09-20 12:40:20
+date: 2024-12-03T01:54:22.942Z
+updated: 2024-12-07T02:20:39.106Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-sandbox-titles-everyone-should-own/"><u>[Updated] 2024 Approved Essential Sandbox Titles Everyone Should Own</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-kick-starting-a-captivating-instagram-live/"><u>[Updated] Kick-Starting a Captivating Instagram Live</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/250-asus-15-inch-laptop-with-comprehensive-connectivity-available-at-walmart-exclusive-deal/"><u>$250 ASUS 15-Inch Laptop with Comprehensive Connectivity Available at Walmart - Exclusive Deal!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-engagement-mastery-how-to-craft-instagrams-best-puzzles/"><u>2024 Approved Engagement Mastery How to Craft Instagram's Best Puzzles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-frame-your-photos-right-with-top-tools-editors/"><u>2024 Approved Frame Your Photos Right with Top Tools Editors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streaming-masterminds-choice-go-with-pmix-or-castpro/"><u>2024 Approved Streaming Masterminds' Choice Go with PMix or CastPro?</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/bass-brilliance-recording-review-for-2024/"><u>Bass Brilliance Recording Review for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-look-at-microsofts-cutting-edge-ai-processor-the-future-of-computing-that-surpasses-apples-latest-discovered/"><u>Exclusive Look at Microsoft’s Cutting-Edge AI Processor: The Future of Computing That Surpasses Apple's Latest | Discovered</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-apples-fall-event-highlights-m4-mac-mini-unveiling-revolutionary-ipads-and-advancements-in-ai-with-siri-analysis/"><u>Exploring Apple's Fall Event Highlights: M4 Mac Mini Unveiling, Revolutionary iPads & Advancements in AI with Siri | Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-flash-unveiling-the-elite-ssd-lineup-expert-analysis/"><u>Future Flash: Unveiling the Elite SSD Lineup - Expert Analysis</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-error-on-windows-11-solved/"><u>GTX 950 Code 43 Error on Windows 11 [Solved]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/immediate-purchase-top-ces-202/"><u>Immediate Purchase: Top CES 202</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-guide-to-instagram-video-advancement-a-planning-primer-for-2024/"><u>The Guide to Instagram Video Advancement A Planning Primer for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-portable-powerhouse-a-top-picks-review-reveals-why-this-laptop-is-perfect-for-digital-nomads-insights/"><u>The Ultimate Portable Powerhouse: A Top Picks Review Reveals Why This Laptop Is Perfect for Digital Nomads - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-prime-day-blowout-unbeatable-laptop-offers-available-throughout-october-202/"><u>Top-Rated Prime Day Blowout: Unbeatable Laptop Offers Available Throughout October 202</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-legacy-of-netflixs-physical-media-distribution-era/"><u>Understanding the Legacy of Netflix's Physical Media Distribution Era</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-audio-bliss-with-top-rated-100-off-speaker-systems-now-at-best-buy-discover-the-review/"><u>Unlock Audio Bliss with Top-Rated, $100 Off Speaker Systems Now at Best Buy | Discover the Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-the-ideal-13-inch-work-travel-companion-not-dell-or-apple-but-equally-impressive-find-out-which-laptop-made-our-cut/"><u>ZDNet Reveals the Ideal 13-Inch Work Travel Companion: Not Dell or Apple, but Equally Impressive! Find Out Which Laptop Made Our Cut</u></a></li>
+</ul></div>
+

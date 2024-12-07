@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet"
-date: 2024-11-21T17:59:04.208Z
-updated: 2024-11-27T19:19:57.838Z
+date: 2024-11-29T18:25:53.835Z
+updated: 2024-12-07T01:45:28.932Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,22 +134,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-embrace-the-synergy-streaming-fb-videos-through-your-apple-device/"><u>[Updated] In 2024, Embrace the Synergy Streaming FB Videos Through Your Apple Device</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-rhythmic-revelations-unveiling-top-10-music-for-podcast-intros/"><u>2024 Approved Rhythmic Revelations Unveiling Top 10 Music for Podcast Intros</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/p-by-step-guide-for-earning-with-youtube-shorts/"><u>A Step-by-Step Guide for Earning with YouTube Shorts</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/convert-and-save-liveleak-videos-in-mp4avi-format-step-by-step-guide-for-macos-and-windows-users/"><u>Convert and Save LiveLeak Videos in MP4/AVI Format: Step-by-Step Guide for macOS & Windows Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/designing-your-ideal-gaming-station-a-complete-guide-with-expert-tips-from-zdnet/"><u>Designing Your Ideal Gaming Station: A Complete Guide with Expert Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-scoop-unleash-ultimate-performance-with-our-picked-powerhouse-gaming-notebook-now-500-less-on-octobers-prime-event/"><u>Exclusive Scoop: Unleash Ultimate Performance with Our Picked Powerhouse Gaming Notebook, Now $500 Less on October's Prime Event</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-innovators-are-synthesizing-ai-strategies-with-commercial-success-zdnet/"><u>How Innovators Are Synthesizing AI Strategies with Commercial Success | ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-7-plus-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 7 Plus Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-grab-the-hottest-laptop-offers-before-prime-day-in-oct-24-insider-secrets-from-zdnet/"><u>How to Grab the Hottest Laptop Offers Before Prime Day in Oct '24 - Insider Secrets From ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-elevating-your-twitters-with-a-snapchat-integration/"><u>In 2024, Elevating Your Twitters with a Snapchat Integration</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/streamline-your-video-collection-8-best-mac-metadata-editors-for-2024/"><u>Streamline Your Video Collection 8 Best Mac Metadata Editors for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/their-roles-in-nutrient-cycling-organic-matter-decomposition-and-plant-growth-promotion/"><u>Their Roles in Nutrient Cycling, Organic Matter Decomposition, and Plant Growth Promotion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-the-best-long-lasting-ultraportable-laptop-reviewed-exclusive-insights/"><u>Top Pick: The Best Long-Lasting Ultraportable Laptop Reviewed - Exclusive Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-lenovo-notebooks-for-efficiently-managing-remote-and-office-tasks-avail-our-suggested-model-at-a-whopping-1000-discount-insights/"><u>Top-Rated Lenovo Notebooks for Efficiently Managing Remote and Office Tasks: Avail Our Suggested Model at a Whopping $1,000 Discount - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-the-apple-m3-macbook-air-the-three-key-improvements-that-impressed-us-most-zdnet/"><u>Unboxing the Apple M3 MacBook Air: The Three Key Improvements That Impressed Us Most | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-enhanced-features-of-samsungs-latest-copilotplus-desktop-discover-its-advanced-ai-capabilities-on-zdnet/"><u>Unveiling the Enhanced Features of Samsung's Latest Copilot+ Desktop - Discover Its Advanced AI Capabilities on ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y200-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y200 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-apex-audio-streamer-androids-choice/"><u>[New] Apex Audio Streamer, Android's Choice</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-navigating-mov-saving-in-windows-11-top-six-methods-reviewed/"><u>[New] In 2024, Navigating .MOV Saving in Windows 11 - Top Six Methods Reviewed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-proven-methods-to-improve-macro-video-quality-and-aesthetics/"><u>[Updated] Proven Methods to Improve Macro Video Quality and Aesthetics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-apples-potential-ai-robots-for-smarter-homes-spotlight-on-two-innovative-products-techinsight-weekly/"><u>Breaking: Apple's Potential AI Robots for Smarter Homes - Spotlight on Two Innovative Products | TechInsight Weekly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-pc-bypassing-error-code-6-issues-with-expert-tips-and-tricks/"><u>Call of Duty (PC) - Bypassing Error Code #6 Issues with Expert Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-seamless-automated-cleaning-how-the-new-shark-vacuums-set-a-new-standard-for-effortless-upkeep-insights-by-zdnet/"><u>Discover Seamless, Automated Cleaning: How the New Shark Vacuums Set a New Standard for Effortless Upkeep - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-choice-the-ultimate-list-of-leading-irobot-vacuums-reviewed-and-analyzed-zdnet/"><u>Experts' Choice: The Ultimate List of Leading iRobot Vacuums Reviewed & Analyzed | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-how-this-combo-robot-vacuum-and-mops-clever-self-cleaning-ability-transforms-your-cleaning-routine-gadget-reviews-zdnet/"><u>Explore How This Combo Robot Vacuum & Mop's Clever Self-Cleaning Ability Transforms Your Cleaning Routine | Gadget Reviews ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-skies-discovering-the-premier-aerial-photography-drones-of-2022-according-to-zdnet/"><u>Exploring the Skies: Discovering the Premier Aerial Photography Drones of 2022, According to ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-tecno-spark-go-2024-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/innovative-audio-enhancements-for-youtube-creators/"><u>Innovative Audio Enhancements for YouTube Creators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-premium-1900-robovac-and-mop-worth-your-investment-my-one-month-hands-on-experience-smarthomeguide/"><u>Is the Premium $1,900 RoboVac and Mop Worth Your Investment? My One-Month Hands-On Experience | SmartHomeGuide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/silent-black-screen-after-driver-install/"><u>Silent Black Screen After Driver Install</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/star-wars-disneyland-and-droids/"><u>Star Wars, Disneyland, and Droids.</u></a></li>
 </ul></div>
 

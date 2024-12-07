@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Spotlight: Find Your Next Laptop Deal at Walmart! Only $250 for a New Asus 15-Incher with All Essential Ports Included"
-date: 2024-11-22T19:38:13.665Z
-updated: 2024-11-27T19:40:35.753Z
+date: 2024-12-05T18:16:13.128Z
+updated: 2024-12-06T21:07:32.434Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,21 +87,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-perfect-your-stories-top-6-apps-for-android-and-iphone-snap-editing/"><u>[New] In 2024, Perfect Your Stories Top 6 Apps for Android and iPhone Snap Editing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/5-best-e-learning-platforms-for-aspiring-developers-2024-edition/"><u>5 Best E-Learning Platforms for Aspiring Developers - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-the-ordinary-discovering-the-ultimate-blend-of-resilience-and-customizability-in-a-top-non-getac-workstation/"><u>Beyond the Ordinary: Discovering the Ultimate Blend of Resilience and Customizability in a Top Non-Getac Workstation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/college-students-guide-to-choosing-the-perfect-laptop-top-4-factors-and-10-recommended-models-insights/"><u>College Students' Guide to Choosing the Perfect Laptop: Top 4 Factors and 10 Recommended Models – Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-the-best-in-conversational-agents-gemini-advance-vs-chatgpt-plus-reviewed/"><u>Deciphering the Best in Conversational Agents: Gemini Advance Vs. ChatGPT Plus Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-identify-and-select-an-ideal-cover-for-your-mobile-device/"><u>How to Identify and Select an Ideal Cover for Your Mobile Device</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-use-video-titles-and-youtube-tags/"><u>How to Use Video Titles and YouTube Tags?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-oppo-a18-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo A18 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-narzo-n55-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme Narzo N55 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-revolutionary-upgrade-lenovo-enhances-essential-functionality-in-latest-2-in-1-thinkpad-for-professionals-insights-from-zdnet/"><u>Introducing the Revolutionary Upgrade: Lenovo Enhances Essential Functionality in Latest 2-in-1 ThinkPad for Professionals - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-desk-setup-with-our-latest-12-in-1-thunderbolt-dock-now-with-a-game-changing-power-feature-perfectly-tailored-for-windows-users/"><u>Revolutionize Your Desk Setup with Our Latest 12-in-1 Thunderbolt Dock, Now With a Game-Changing Power Feature Perfectly Tailored for Windows Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-notch-laptop-bargains-in-july-2024-your-ultimate-guide-featuring-insights-from-zdnet/"><u>Top Notch Laptop Bargains in July 2024: Your Ultimate Guide - Featuring Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-october-game-discounts-for-black-friday-2024/"><u>Unlock Exclusive October Game Discounts for Black Friday 2024 !</u></a></li>
-<li><a href="https://driver-install.techidaily.com/winxpradeonhd5770drivers/"><u>WinXP_RadeonHD5770Drivers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-explores-the-impact-of-a-single-ergonomic-upgrade-life-changing-after-using-a-split-keyboard-for-7-days/"><u>ZDNet Explores the Impact of a Single Ergonomic Upgrade: Life-Changing After Using a Split Keyboard for 7 Days</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/month-the-ultimate-list-of-apple-products-you-need-to-skip-including-these-iphones-digital-trends/"><u>[Month]: The Ultimate List of Apple Products You Need to Skip, Including These iPhones! | Digital Trends</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-comparing-ig-reels-and-ig-stories-a-comprehensive-guide/"><u>[Updated] In 2024, Comparing IG Reels & IG Stories A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-of-the-best-discover-22-leading-video-shrinkers-that-wont-cost-you-a-dime-for-pc-and-mac-users/"><u>Best of the Best: Discover 22 Leading Video Shrinkers That Won't Cost You a Dime for PC and Mac Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-ideal-ipad-options-for-digital-sketching-as-recommended-by-zdnet/"><u>Expert Picks: Ideal iPad Options for Digital Sketching as Recommended by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-the-ultimate-list-of-ipad-display-guards-cnet/"><u>Expert Picks: The Ultimate List of iPad Display Guards | CNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-new-horizons-with-these-6-amazing-ways-to-utilize-chatgpts-code-companion/"><u>Explore New Horizons with These 6 Amazing Ways to Utilize ChatGPT's Code Companion</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-clips-to-masterpiece-essential-video-editing-techniques-for-2024/"><u>From Clips to Masterpiece Essential Video Editing Techniques for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-an-amazing-android-tablet-took-over-my-kindle-and-ipad-uncover-the-story-at-zdnet/"><u>How an Amazing Android Tablet Took Over My Kindle and iPad - Uncover the Story at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-rating-for-xiaomis-affordable-book-s-a-game-changing-windows-on-arm-convertible-laptop/"><u>In-Depth Analysis and Rating for Xiaomi's Affordable Book S: A Game-Changing Windows on ARM Convertible Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/making-the-switch-to-an-ipad-pro-find-out-how-the-m1-model-stacks-up-against-the-new-m2-techadvisor/"><u>Making The Switch to an iPad Pro? Find Out How The M1 Model Stacks Up Against The New M2! | TechAdvisor</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/non-flagship-standout-discovering-the-top-affordable-samsung-tablet-that-outperforms-in-sales-a-deep-dive-by-zdnet/"><u>Non-Flagship Standout: Discovering the Top Affordable Samsung Tablet That Outperforms in Sales - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-lenovos-ideapad-duet-masterfully-combines-top-notch-chromebook-functionality-with-robust-tablet-performance/"><u>Review: Lenovo's IdeaPad Duet Masterfully Combines Top-Notch Chromebook Functionality with Robust Tablet Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/spooler-revival-instruction-for-win/"><u>Spooler Revival Instruction for Win</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-secure-fee-less-datpiff-upload-of-your-custom-mixtape/"><u>Step-by-Step Tutorial: Secure, Fee-Less DatPiff Upload of Your Custom Mixtape</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-6s-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 6s Passcode without a Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vr-tech-pioneers-selecting-pc-vr-headsets/"><u>VR Tech Pioneers Selecting PC VR Headsets</u></a></li>
 </ul></div>
 

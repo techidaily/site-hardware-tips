@@ -1,7 +1,7 @@
 ---
 title: Microsoft Silently Ends Hopes for Windows 10 Lifeline, Users Disappointed | ZDNet
-date: 2024-09-17 20:54:52
-updated: 2024-09-20 11:34:36
+date: 2024-11-30T23:55:57.947Z
+updated: 2024-12-06T22:36:39.605Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,31 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-effortless-conversion-youtube-videos-to-mac-ratio/"><u>[New] 2024 Approved Effortless Conversion Youtube Videos to Mac Ratio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gigglygraphics-mememakers-haven/"><u>[New] GigglyGraphics MemeMaker's Haven</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-guide-to-essential-youtube-equipment/"><u>[New] In 2024, Step-by-Step Guide to Essential YouTube Equipment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capture-your-ride-top-5-action-camera-headsets-reviewed-for-23-motorcyclists/"><u>[Updated] Capture Your Ride – Top 5 Action Camera Headsets Reviewed for '23 Motorcyclists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/college-life-made-easy-discover-the-all-in-one-laptop-that-masterfully-handles-studies-and-leisure-gadgetguru/"><u>College Life Made Easy: Discover the All-in-One Laptop That Masterfully Handles Studies and Leisure | GadgetGuru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-ai-boost-for-apple-macs-with-the-latest-m4-chip-expected-launch-dates-revealed/"><u>Comprehensive AI Boost for Apple Macs with the Latest M4 Chip - Expected Launch Dates Revealed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-a-complete-guide-to-downloading-youtube-videos-to-iphone-or-ipad/"><u>In 2024, A Complete Guide to Downloading YouTube Videos to iPhone or iPad</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-sky-high-improvement-ultimate-video-rescale/"><u>In 2024, Sky-High Improvement Ultimate Video Rescale</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-groundbreaking-yoga-book-e9i-by-lenovo-a-first-of-its-kind-two-oled-display-laptop-covered-in-latest-tech-review-at-zdnet/"><u>Introducing the Groundbreaking Yoga Book E9i by Lenovo: A First-of-Its-Kind, Two OLED Display Laptop Covered in Latest Tech Review at ZDNET</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1121424--los-seres-de-luz/"><u>Los seres de luz | Free Book</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/phone-warmth-woes-identifying-causes-of-heat-build-up-and-solutions-to-keep-it-cool-insights-from-malwarefox/"><u>Phone Warmth Woes: Identifying Causes of Heat Build-Up & Solutions to Keep It Cool | Insights From MalwareFox</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/power-all-your-gadgets-simultaneously-with-our-revolutionary-miniature-car-power-bank-innovative-charging-solutions-at-zdnet/"><u>Power All Your Gadgets Simultaneously with Our Revolutionary Miniature Car Power Bank | Innovative Charging Solutions at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-checklist-for-assembling-an-unbeatable-gaming-rig-insights/"><u>The Complete Checklist for Assembling an Unbeatable Gaming Rig - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-gaming-mice-find-your-match-below-60/"><u>Top Affordable Gaming Mice - Find Your Match Below $60!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-13-inch-business-travel-laptops-alternatives-to-dell-xps-and-macbooks-insights-from-zdnet/"><u>Top Recommended 13-Inch Business Travel Laptops: Alternatives to Dell XPS and MacBooks - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transitioning-visuals-from-android-to-apple-gear/"><u>Transitioning Visuals From Android to Apple Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-prime-day-bonanza-discover-the-ultimate-best-deals-on-walmart-target-and-more/"><u>Upcoming Prime Day Bonanza: Discover the Ultimate Best Deals on Walmart, Target & More!</u></a></li>
+</ul></div>
+

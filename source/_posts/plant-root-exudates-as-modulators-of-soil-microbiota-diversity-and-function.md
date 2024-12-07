@@ -1,7 +1,7 @@
 ---
 title: Plant Root Exudates as Modulators of Soil Microbiota Diversity and Function
-date: 2024-11-22T16:17:55.988Z
-updated: 2024-11-27T17:54:57.665Z
+date: 2024-12-01T03:21:18.512Z
+updated: 2024-12-06T19:44:44.048Z
 tags:
   - laptops
 categories:
@@ -70,7 +70,7 @@ Cons
 ## FlexiSpot E7 Pro Plus Electric Standing Desk
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best large standing desk
@@ -96,6 +96,10 @@ Cons
 * Lower quality electronics
 * Complicated installation
 * Cross support system lacking
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Uplift V2 Standing Desk
 
@@ -125,6 +129,10 @@ Cons
 * Can feel wobbly at high settings
 * A lower-quality electronic system
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fully Jarvis Bamboo standing desk
 
 ### Best eco-friendly standing desk
@@ -150,10 +158,6 @@ Cons
 * Not for prolonged use
 * No frills or extras
 * Minimal weight capacity
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Seville Classics Mobile Desk Cart
 
@@ -181,10 +185,6 @@ Cons
 * Unspecified load capacity
 * Basic design
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SHW Height Adjustable Mobile Laptop Standing Desk
 
 ### Best budget standing desk
@@ -211,11 +211,11 @@ Cons
 * Considerable weight
 * Takes up desk space
 
-## Uplift E7 Electric Standing Desk Converter
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Uplift E7 Electric Standing Desk Converter
 
 ### Best standing desk converter
 
@@ -228,10 +228,6 @@ The E7 also offers single or dual mounts for your monitors. It's capable of lift
 The desk surface comes in four colors (black, white, bamboo, and rubberwood), while the base and monitor mounts are only available in black and white. 
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best standing desk?
 
@@ -248,7 +244,7 @@ The best standing desk is the Vari Electric Standing Desk, based on our analysis
 | Uplift E7 Electric Standing Desk Converter        | Best convertible desk           | Electric      | $745      | 110 lbs             | 21 inches, plus desk height |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right standing desk for you?
@@ -281,7 +277,7 @@ There are several factors to consider when choosing the best standing desk for y
 A standing desk has many names. It's also known as a stand-up desk, height-adjustable desk, and sit-stand desk. Whatever you call it, a standing desk is one that allows its user to stand rather than sit when the desk is in use. Many of these desks are adjustable to allow users of all shapes and sizes to find a customized and comfortable fit for use. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How often should you stand up from your desk?
@@ -289,7 +285,7 @@ A standing desk has many names. It's also known as a stand-up desk, height-adjus
 It's recommended to stand up from your desk once every hour if you have a regular sitting desk. If you have a standing desk, it's recommended to stand for four-six hours of your eight-hour workday.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much does a standing desk cost?
@@ -299,6 +295,10 @@ The cost of a standing desk ranges from less than $100 to more than $1,000, depe
 ## What are the benefits of a standing desk?
 
 According to Healthline, standing can [lower your risk](https://www.healthline.com/nutrition/7-benefits-of-a-standing-desk#TOC%5FTITLE%5FHDR%5F6) of heart disease and obesity and improve back pain. It can even reduce blood sugar levels.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative standing desks worth considering?
 
@@ -340,22 +340,24 @@ In our search for the best standing desks, we came across many great options. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-chatcast-collector-fb-groups/"><u>2024 Approved ChatCast Collector - FB Groups</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/accessible-gamers-soundtrack-without-restrictions-for-2024/"><u>Accessible Gamers' Soundtrack Without Restrictions for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipate-apples-revolutionary-integration-of-ai-with-new-m4-processors-across-all-mac-models-release-timeline-revealed/"><u>Anticipate Apple's Revolutionary Integration of AI with New M4 Processors Across All Mac Models - Release Timeline Revealed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-ultimate-docking-solution-discover-our-high-tech-13-in-1-dual-4k-hdmi-dock-at-just-49-review-and-buy-now/"><u>Budget-Friendly Ultimate Docking Solution: Discover Our High-Tech 13-in-1 Dual 4K HDMI Dock at Just $49, Review & Buy Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ces-2023-first-day-unveils-hits-and-misses-in-technology-innovationhub/"><u>CES 2023 - First Day Unveils Hits and Misses in Technology | InnovationHub</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comprehensive-guide-easily-setting-up-and-controlling-fonts-on-macos/"><u>Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-iphone-and-ipad-keyboard-issues-top-6-solutions/"><u>Fix iPhone & iPad Keyboard Issues: Top 6 Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-lenovo-thinkphone-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Lenovo ThinkPhone to iPod | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/last-call-top-october-prime-day-game-discounts-of-2024-score-up-to-1k-in-savings-now/"><u>Last Call: Top October Prime Day Game Discounts of 2024 - Score Up to $1K in Savings Now!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/patterned-pixels-looms-guide-to-screen-casting/"><u>Patterned Pixels Loom's Guide to Screen Casting</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-xiaomi-redmi-k70-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Xiaomi Redmi K70, is it possible?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/repeatedly-drained-unveiling-the-6-key-factors-for-persistent-car-battery-issues/"><u>Repeatedly Drained?: Unveiling the 6 Key Factors for Persistent Car Battery Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/smart-value-meets-performance-in-dells-hidden-gem-laptop-reviewed-by-zdnet-ingenious-tech-without-the-hefty-price-tag/"><u>Smart Value Meets Performance in Dell's Hidden Gem Laptop Reviewed by ZDNet: Ingenious Tech without the Hefty Price Tag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-cool-on-savings-top-laptop-coolers-at-unbeatable-prices-this-cyber-monday-exclusive-offers-from-zdnet/"><u>Stay Cool on Savings! Top Laptop Coolers at Unbeatable Prices This Cyber Monday - Exclusive Offers From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secret-downgrading-from-windows-11-to-windows-10-safely-with-a-twist-expert-tips-from-zdnet/"><u>Unveiling the Secret: Downgrading From Windows 11 to Windows 10 Safely (With a Twist) | Expert Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/what-you-need-to-know-about-microsofts-copilot-and-its-new-features-on-surface-products-targeting-enterprise-customers-zdnet-insights/"><u>What You Need To Know About Microsoft's Copilot and Its New Features on Surface Products Targeting Enterprise Customers | ZDNet Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/your-guide-to-preordering-latest-tech-ipad-pro-ipad-air-and-enhanced-apple-pencil-hottest-deals-inside/"><u>Your Guide to Preordering Latest Tech: IPad Pro, iPad Air & Enhanced Apple Pencil - Hottest Deals Inside!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-innovative-methods-to-subtly-soften-audible-output-via-lumafusion-for-2024/"><u>[New] Innovative Methods to Subtly Soften Audible Output via Lumafusion for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-listeners-crossroads-podcasts-versus-youtube-for-your-favorite-content/"><u>[New] Listeners' Crossroads Podcasts versus YouTube for Your Favorite Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-immediate-account-suspension-due-to-copyright-violations/"><u>[New] Navigating Immediate Account Suspension Due to Copyright Violations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-art-of-recording-expert-strategies-for-vr-gameplay-preservation-for-2024/"><u>[New] The Art of Recording Expert Strategies for VR Gameplay Preservation for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streaming-to-profit-youtube-policy-changes-for-2024/"><u>[Updated] Streaming to Profit YouTube Policy Changes for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-guide-to-window-recording-on-spring-screens/"><u>2024 Approved The Ultimate Guide to Window Recording on Spring Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-look-at-the-most-effective-irobot-vacuum-cleaners-of-2024-tested-for-you-by-wirecutter/"><u>Exclusive Look at the Most Effective iRobot Vacuum Cleaners of 2024 - Tested for You by Wirecutter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-apples-vision-introducing-an-advanced-robot-assistant-into-everyday-homes-tech-insights-by-zdnet/"><u>Exploring Apple's Vision: Introducing an Advanced Robot Assistant Into Everyday Homes | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-markets-elite-a-comprehensive-guide-to-the-best-roborock-vacuums-of-2024-professional-insights-and-scrutiny-zdnet/"><u>Exploring the Market's Elite: A Comprehensive Guide to the Best Roborock Vacuums of 2024 - Professional Insights and Scrutiny | ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keep-your-printer-running-smoothly-update-or-download-epson-wf-352-driver-for-windows-computers/"><u>Keep Your Printer Running Smoothly - Update or Download Epson WF 352# Driver for Windows Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lost-your-keys-again-discover-how-ai-outperforms-human-memory-insights-from-zdnet/"><u>Lost Your Keys Again? Discover How AI Outperforms Human Memory: Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/r-the-art-of-youtube-thumbnails-in-minutes-for-2024/"><u>Master the Art of YouTube Thumbnails in Minutes for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/multifunctional-home-maintenance-combining-robotic-and-manual-cleaners-in-one-device-gizmodo/"><u>Multifunctional Home Maintenance: Combining Robotic and Manual Cleaners in One Device | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-human-like-automata-how-openai-and-emerging-tech-firm-unite-to-engineer-sophisticated-artificial-intelligence-models-for-futuristic-humanoid180/"><u>Revolutionizing Human-Like Automata: How OpenAI and Emerging Tech Firm Unite to Engineer Sophisticated Artificial Intelligence Models for Futuristic Humanoid Machines | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/successful-experience-with-automated-window-cleaner-a-testimonial-from-zdnet/"><u>Successful Experience with Automated Window Cleaner: A Testimonial From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-robot-cleaners-comprehensive-reviews-and-comparisons-by-industry-experts-zdnet/"><u>Top-Rated Robot Cleaners: Comprehensive Reviews & Comparisons by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-robot-vacuums-for-pet-owners-comprehensive-reviews-and-comparisons-by-industry-experts-techradar/"><u>Top-Rated Robot Vacuums for Pet Owners - Comprehensive Reviews & Comparisons by Industry Experts | TechRadar</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-the-arduino-uno-drive-problem-in-windows-environments/"><u>Troubleshooting the Arduino Uno Drive Problem in Windows Environments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-wonders-the-10-list-of-exceptional-4k-for-macs/"><u>Visual Wonders The #10 List of Exceptional 4K for Macs</u></a></li>
 </ul></div>
 

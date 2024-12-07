@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Game-Changer: The Portable Powerhouse for Gamers and Professionals Alike - Insights From ZDNet"
-date: 2024-11-22T16:58:35.884Z
-updated: 2024-11-27T19:05:56.860Z
+date: 2024-12-05T20:49:18.993Z
+updated: 2024-12-07T01:28:15.692Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,20 +114,20 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-perfecting-sound-with-ideal-cam-mics-list/"><u>[New] Perfecting Sound with Ideal Cam Mics List</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-c51-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 Without iTunes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects/"><u>Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diy-laptop-enhancement-the-ultimate-guide-to-installing-more-ram/"><u>DIY Laptop Enhancement: The Ultimate Guide to Installing More RAM</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-best-buy-wraps-up-its-spectacular-four-day-discount-bonanza-top-picks-for-savvy-shoppers/"><u>Don't Miss Out! Best Buy Wraps Up Its Spectacular Four-Day Discount Bonanza - Top Picks for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-score-apple-m2-macbook-air-at-just-749-this-prime-day-dont-miss-out/"><u>Exclusive Deal Alert: Score Apple M2 MacBook Air at Just $749 This Prime Day – Don't Miss Out!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/from-pictures-to-prose-photo-text-alteration-techniques-for-2024/"><u>From Pictures to Prose Photo Text Alteration Techniques for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/meta-revolutionizes-vr-with-stellar-deal-on-512gb-quest-3-the-ultimate-choice-for-enthusiasts-according-to-zdnets-latest-analysis/"><u>Meta Revolutionizes VR with Stellar Deal on 512GB Quest 3: The Ultimate Choice for Enthusiasts According to ZDNet’s Latest Analysis</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-optimizing-pitch-alteration-in-audacity-a-guide-to-quality-retention/"><u>New 2024 Approved Optimizing Pitch Alteration in Audacity A Guide to Quality Retention</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/post-prime-day-extravaganza-continues-with-8tb-samsung-t5-ssd-offers-enjoy-a-steep-36-discount-now-on-amazon-insights-from-zdnet/"><u>Post-Prime Day Extravaganza Continues with 8TB Samsung T5 SSD Offers: Enjoy a Steep 36% Discount Now on Amazon | Insights From ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharge-pc-finder-power-with-everythingapp/"><u>Supercharge PC Finder Power with EverythingApp</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-portable-power-a-compact-car-charger-for-all-devices-laptops-tablets-and-phones/"><u>Ultimate Portable Power: A Compact Car Charger for All Devices - Laptops, Tablets & Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-extravagant-perks-of-dells-3k-high-end-gamer-an-in-depth-review-from-zdnet/"><u>Unveiling the Extravagant Perks of Dell's $3K High-End Gamer: An In-Depth Review From ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-expert-insights-crafting-perfect-vimeo-closures/"><u>[New] In 2024, Expert Insights Crafting Perfect Vimeo Closures</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/cutting-edge-tactics-for-creating-engaging-testimonial-videos-for-2024/"><u>Cutting-Edge Tactics for Creating Engaging Testimonial Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-using-windows-11-snap-features/"><u>Essential Tips for Using Windows 11 Snap Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flagship-face-off-comparing-the-samsung-galaxy-tab-s9-ultra-and-apple-ipad-pro-for-your-tech-needs-zdnet/"><u>Flagship Face-Off: Comparing the Samsung Galaxy Tab S9 Ultra and Apple iPad Pro for Your Tech Needs | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-casting-functionality-on-windows-10-a-step-by-step-solution/"><u>How to Restore Casting Functionality on Windows 10 - A Step-by-Step Solution</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-xs-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone XS Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-air-2020-vs-ipad-air-is-it-time-to-consider-an-upgrade/"><u>IPad Air (2020) vs iPad Air : Is It Time to Consider an Upgrade?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-pro-unveiled-embracing-its-unique-strengths-despite-not-being-a-macbook-insights-from-zdnet/"><u>IPad Pro Unveiled: Embracing Its Unique Strengths, Despite Not Being a MacBook | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-becoming-a-runaway-train-for-openai/"><u>Is ChatGPT Becoming a Runaway Train for OpenAI?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/july-2024-exclusive-apple-discounts-find-the-best-deals-for-iphones-apple-watches-and-ipads-with-our-in-depth-analysis-zdnet/"><u>July 2024 Exclusive Apple Discounts: Find the Best Deals for iPhones, Apple Watches & iPads with Our In-Depth Analysis | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-alert-upgrade-to-an-amazon-fire-tablet-for-only-50-with-our-exclusive-trade-in-deal-featured-by-zdnet/"><u>Labor Day Sale Alert! Upgrade to an Amazon Fire Tablet for Only $50 With Our Exclusive Trade-In Deal, Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-grab-a-4tb-samsung-t5-external-ssd-on-amazon-save-almost-half-its-price-spotted-by-zdnet/"><u>Massive Discount: Grab a 4TB Samsung T5 External SSD on Amazon - Save Almost Half Its Price, Spotted by ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-classroom-prep-expert-tips-on-organizing-school-supplies-for-success-advice-from-zdnet-experts/"><u>Mastering Classroom Prep: Expert Tips on Organizing School Supplies for Success - Advice From ZDNet Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-device-unavailable-error-error-code-24-on-windows-1187/"><u>Resolved: 'Device Unavailable' Error (Error Code 24) on Windows 11/8/7</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unleashing-the-power-of-obs-macos-install-and-usage-tips-for-2024/"><u>Unleashing the Power of OBS MacOS Install & Usage Tips for 2024</u></a></li>
 </ul></div>
 

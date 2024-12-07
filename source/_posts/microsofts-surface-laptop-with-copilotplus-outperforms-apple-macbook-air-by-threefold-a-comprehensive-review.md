@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Surface Laptop with Copilot+ Outperforms Apple MacBook Air by Threefold - A Comprehensive Review
-date: 2024-11-25T17:08:07.955Z
-updated: 2024-11-27T19:31:21.359Z
+date: 2024-12-02T22:58:10.471Z
+updated: 2024-12-06T21:17:41.000Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc9919522-685b-4aa9-983b-c7ff321ae869%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,20 +125,18 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-virtual-conversations-unleashed-with-pc-based-whatsapp-web-chat/"><u>[Updated] In 2024, Virtual Conversations Unleashed with PC-Based WhatsApp Web Chat</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-disappearing-display-on-sony-a6400/"><u>2024 Approved The Disappearing Display on Sony A6400</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/acer-laptop-impresses-with-stunning-oled-display-and-top-notch-webcam-quality-latest-reviews-on-zdnet/"><u>Acer Laptop Impresses with Stunning OLED Display & Top-Notch Webcam Quality - Latest Reviews on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-acer-swift-x-top-3-stunning-performance-revelations-in-my-testing-experience/"><u>Discover the Acer Swift X: Top 3 Stunning Performance Revelations in My Testing Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-why-im-still-enamored-with-lgs-featherlight-gram-pro-17-and-its-companion-model-during-prime-day-savings-event-zdnet-insights/"><u>Discover Why I'm Still Enamored with LG's Featherlight Gram Pro 17 & Its Companion Model During Prime Day Savings Event | ZDNET Insights</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-itel-p40plus-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Itel P40+</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-powerful-and-portable-lenovo-thinkpad-x1-with-5g-capability-expert-evaluation-by-tech-guru-at-zdnet/"><u>In-Depth Review of the Powerful and Portable Lenovo ThinkPad X1 💪 with 5G Capability | Expert Evaluation by Tech Guru at ZDNET</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720669553067-quick-and-effective-mac-hd-configuration-learn-from-us/"><u>Quick & Effective Mac HD Configuration – Learn From Us</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-a-bargain-on-the-new-apple-m3-macbook-air-with-amazons-prime-sale-cut-of-250-bucks-exclusive/"><u>Snag a Bargain on the New Apple M3 MacBook Air with Amazon's Prime Sale Cut of 250 Bucks Exclusive</u></a></li>
-<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-realme-c55-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Realme C55</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-gaming-audio-top-rated-speakers-now-up-to-30-discounted-on-amazon-tech-review/"><u>Unbeatable Gaming Audio: Top-Rated Speakers Now Up to 30% Discounted on Amazon Tech Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-latent-gems-the-lenovo-ultraportables-hidden-features-including-a-stealthy-trackpoint-detailed-review/"><u>Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-vlog-like-a-pro-10-essential-editing-apps-for-mobile-devices-for-2024/"><u>Updated Vlog Like a Pro 10 Essential Editing Apps for Mobile Devices for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-your-virtual-sessions-with-these-top-10-tools-for-2024/"><u>[Updated] Streamline Your Virtual Sessions with These Top 10 Tools for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-blunders-essential-tips-for-effective-use-of-generative-ai/"><u>Avoiding Blunders: Essential Tips for Effective Use of Generative AI</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-update-and-download-sata-driver-software-on-windows-a-step-by-step-guide/"><u>How to Easily Update and Download SATA Driver Software on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-tecno-spark-go-2024-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Tecno Spark Go (2024) FRP Locks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-play-7t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor Play 7T Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-professional-recordings-at-home-10-key-strategies-for-excellence/"><u>In 2024, Professional Recordings at Home 10 Key Strategies for Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/roomba-robotic-vacuums-ranking-of-2eepy-2024-thoroughly-tested-and-expert-opinions-cnet/"><u>Roomba Robotic Vacuums Ranking of 2Eepy 2024: Thoroughly Tested and Expert Opinions | CNET</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/seamless-online-video-sharing-via-vimeo/"><u>Seamless Online Video Sharing via Vimeo</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/she-shares-we-watch-top-female-content-creators-on-youtube-for-2024/"><u>She Shares, We Watch Top Female Content Creators on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tipsy-circuits-how-my-robo-sommeliers-wine-blunder-turned-into-an-odd-tip-request-adventure-zdnet/"><u>Tipsy Circuits! How My Robo-Sommelier's Wine Blunder Turned Into an Odd Tip Request Adventure | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-telepresence-bots-comprehensive-review-and-ranking/"><u>Top 5 Telepresence Bots : Comprehensive Review & Ranking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-robot-floor-cleaners-comprehensive-reviews-and-testing-insights-techradar/"><u>Top-Rated Robot Floor Cleaners : Comprehensive Reviews & Testing Insights | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-get-the-high-performance-eufy-twin-turbine-vac-for-only-360-before-labor-day-ends-gadget-bargains/"><u>Unbeatable Deal Alert: Get the High-Performance Eufy Twin Turbine Vac for Only $360 Before Labor Day Ends | Gadget Bargains</u></a></li>
 </ul></div>
 

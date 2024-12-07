@@ -1,7 +1,7 @@
 ---
 title: Last-Minute Opportunity! Snag Amazing October Deals & Save Big on Games - $1,00# Cutbacks | ZDNET
-date: 2024-11-26T18:46:19.384Z
-updated: 2024-11-27T16:05:46.868Z
+date: 2024-12-05T22:37:26.761Z
+updated: 2024-12-06T22:38:27.152Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
 
@@ -105,6 +101,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals still available
 
 ZDNET
@@ -121,6 +121,10 @@ ZDNET
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals still available
 
@@ -148,6 +152,10 @@ ZDNET
 * [Razer Wolverine V2 Chroma for $60 (save $90)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Wolverine-Chroma-Gaming-Controller-x%2Fdp%2FB09CKFSRK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A wired, pro-style controller for the Xbox Series X|S console featuring RGB lighting, programmable buttons, and an ergonomic design for marathon gaming.
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day Nintendo deals still available
 
 Nintendo/ZDNET
@@ -164,10 +172,6 @@ Nintendo/ZDNET
 * [Bayonetta 3 for $44 (save $16 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBayonetta-3-Nintendo-Switch%2F838016510%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Bayonetta returns to take on an invading host of bioweapons called the Homunculi. She'll use her signature pistols, magic abilities, and new companion, Viola, to take down monsters and save reality from destruction.
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals still available
 
@@ -191,7 +195,7 @@ Lenovo
 * [Alienware m18 for $1,750 (save $800 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m18-fhd-480hz-gaming-laptop-amd-ryzen-9-32gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6543535.p%3FskuId%3D6543535&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's high-end gaming laptop has an 18-inch display with an impressive 480Hz refresh rate. It's built with an AMD Ryzen 9 7000 series CPU, 32GB of RAM, a 1TB SSD, and Nvidia RTX 4070.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals still available
@@ -211,7 +215,7 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
@@ -230,10 +234,6 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ra
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -304,19 +304,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-streamlining-and-maximizing-your-ad-reach-a-compree-guide-to-fb-instream-ad-setup/"><u>[New] 2024 Approved Streamlining & Maximizing Your Ad Reach A Compree Guide to FB Instream Ad Setup</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-expertise-unlocked-converting-text-formats-to-voice-ready-srt-for-2024/"><u>[New] Expertise Unlocked Converting Text Formats to Voice-Ready SRT for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-top-win11-videographers-choices-roundup-for-2024/"><u>[New] Top Win11 Videographers' Choices Roundup for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-conveniently-share-your-videos-youtube-shorts-mobilecomputer-tips/"><u>2024 Approved Conveniently Share Your Videos YouTube Shorts Mobile/Computer Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-clear-view-ahead-how-to-pick-your-ideal-4k-monitor-wisely-for-2024/"><u>A Clear View Ahead How to Pick Your Ideal 4K Monitor Wisely for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/charge-all-your-gadgets-on-the-go-with-this-140w-multi-device-companion-lasts-until-next-charge/"><u>Charge All Your Gadgets on the Go with This 140W Multi-Device Companion - Lasts Until Next Charge</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cross-operating-system-device-manager-tools/"><u>Cross-Operating System Device Manager Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-long-lasting-laptop-of-the-year-featuring-sleek-portability-and-extended-battery-life-zdnet/"><u>Discover the Best Long-Lasting Laptop of the Year - Featuring Sleek Portability and Extended Battery Life | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-score-the-ultimate-immersive-sound-with-discounted-premium-gaming-speakers-at-amazon-review/"><u>Huge Savings Alert! Score the Ultimate Immersive Sound with Discounted Premium Gaming Speakers at Amazon Review</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/"><u>In 2024, How to Download, Process, and Save YouTube-Hosted Tweet Videos as MP3s</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-bokeh-magic-the-best-ios-and-android-apps-for-creative-blur-effects/"><u>New Bokeh Magic The Best iOS and Android Apps for Creative Blur Effects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-discounted-hp-victus-15-gaming-laptop-at-just-515-during-amazon-prime-day-exclusive-best-buy-offer-featured-on-zdnet/"><u>Secure Your Discounted HP Victus 15 Gaming Laptop at Just $515 During Amazon Prime Day - Exclusive Best Buy Offer Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-cluttered-desk-into-a-tech-haven-explore-the-ultimate-11-in-1-docking-station-at-44-off-featured/"><u>Transform Your Cluttered Desk Into a Tech Haven: Explore the Ultimate 11-in-1 Docking Station at 44% Off | Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-review-dell-unveils-compact-gaming-laptop-ideal-for-office-use-and-home-battles/"><u>ZDNet Review: Dell Unveils Compact Gaming Laptop Ideal for Office Use and Home Battles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/voiding-illegal-content-youtube-to-mp4-transfer-safely/"><u>[New] Avoiding Illegal Content YouTube to MP4 Transfer Safely</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-overcoming-non-detectable-obs-camera-link/"><u>[Updated] In 2024, Overcoming Non-Detectable OBS Camera Link</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ringtone-renaissance-websites-worth-visiting/"><u>[Updated] Ringtone Renaissance Websites Worth Visiting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-deal-on-your-top-pick-for-ai-robot-vacuums-unbeatable-prices-now-available/"><u>Discover the Best Deal on Your Top Pick for AI Robot Vacuums - Unbeatable Prices Now Available</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortlessly-manage-your-yard-with-the-latest-wireless-lawnmower-technology-discover-how-zdnet/"><u>Effortlessly Manage Your Yard with the Latest Wireless Lawnmower Technology - Discover How | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-chatgpt-masterfully-shifts-from-spooky-to-ingeniously-cryptic-exploring-ais-artistic-twist-zdnet/"><u>How ChatGPT Masterfully Shifts From Spooky to Ingeniously Cryptic: Exploring AI's Artistic Twist | ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-add-chapters-to-vimeo-video/"><u>How to Add Chapters to Vimeo Video?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-7-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 7 Plus?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-samsung-camera-toolkit-review-2023-edition/"><u>In 2024, Samsung Camera Toolkit Review – 2023 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-audio-experience-with-effective-bass-management-techniques/"><u>Mastering Your Audio Experience with Effective Bass Management Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-gen-anker-charger-compatible-with-your-upcoming-iphone-essential-buys-unveiled-on-zdnet/"><u>Next-Gen Anker Charger Compatible with Your Upcoming iPhone - Essential Buys Unveiled on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-roomba-j7-combination-bot-the-almost-perfect-dual-purpose-cleaner-zdnet-insights/"><u>Review of the Roomba J7 Combination Bot: The Almost Perfect Dual-Purpose Cleaner | ZDNet Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/reviewing-the-pinnacle-of-tv-tech-lg-27ud88-uhd-oled-hdtv/"><u>Reviewing the Pinnacle of TV Tech - LG 27UD88-UHD OLED HDTV</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/roborock-s7-maxv-now-under-1000-on-prime-day-exclusive-deal-coverage-by-zdnet/"><u>Roborock S7 MaxV Now Under $1,000 on Prime Day: Exclusive Deal Coverage by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-rise-of-self-governed-machines-identifying-genuine-autonomous-robots-amidst-technological-progress/"><u>The Rise of Self-Governed Machines: Identifying Genuine Autonomous Robots Amidst Technological Progress</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-ranking-of-2024s-elite-irobot-suction-devices-in-depth-testing-and-insights-pcmag/"><u>Ultimate Ranking of 2024'S Elite iRobot Suction Devices: In-Depth Testing and Insights - PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-on-the-eufy-turbo-robovac-save-big-at-just-360-before-labor-day-ends-shopping-guide-by-techadvisor/"><u>Unbeatable Deal on the Eufy Turbo RoboVac: Save Big At Just $360 Before Labor Day Ends – Shopping Guide by TechAdvisor</u></a></li>
 </ul></div>
 

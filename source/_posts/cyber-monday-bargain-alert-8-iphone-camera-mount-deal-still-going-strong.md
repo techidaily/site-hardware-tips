@@ -1,7 +1,7 @@
 ---
 title: "Cyber Monday Bargain Alert: $8 iPhone Camera Mount Deal Still Going Strong !"
-date: 2024-11-26T19:21:12.044Z
-updated: 2024-11-27T18:06:05.672Z
+date: 2024-11-29T19:41:05.128Z
+updated: 2024-12-07T02:46:27.005Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,19 +81,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-laptop-editing-beyond-inshot-tools-for-2024/"><u>[New] Laptop Editing Beyond Inshot Tools for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-zooms-audio-tailored-settings-for-immersive-listening/"><u>[Updated] Elevate Zoom's Audio Tailored Settings for Immersive Listening</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-recording-device-feedback-guide-for-2024/"><u>[Updated] Recording Device Feedback Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-social-media-fusion-tweet-facebook-connectivity/"><u>[Updated] Social Media Fusion Tweet-Facebook Connectivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-concerns-about-automated-messaging-ai/"><u>7 Concerns About Automated Messaging AI</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-buy-now-selling-high-definition-sound-systems-for-100-less-the-clear-winner-in-my-testing/"><u>Best Buy Now Selling High-Definition Sound Systems for $100 Less - The Clear Winner in My Testing!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-extraordinary-how-lenovos-innovative-thinkpad-x1-fold-redefines-laptops-a-unique-review/"><u>Exploring the Extraordinary: How Lenovo's Innovative ThinkPad X1 Fold Redefines Laptops - A Unique Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-key-discoveries-at-ces-2023-day-two-a-comprehensive-review-by-zdnet/"><u>Exploring the Key Discoveries at CES 2023 Day Two: A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-elevate-your-videography-with-top-seo-gadgets/"><u>In 2024, Elevate Your Videography with Top SEO Gadgets</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-lenovo-thinkphone-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Lenovo ThinkPhone Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/superior-performance-why-this-asus-laptop-outshines-your-macbook-and-heres-how-a-comprehensive-review-by-techguru/"><u>Superior Performance: Why This ASUS Laptop Outshines Your MacBook (And Here's How!) - A Comprehensive Review by TechGuru</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transitioning-to-a-new-laptop-life-my-30-day-journey-using-the-dell-xps-15-instead-of-a-macbook-zdnet/"><u>Transitioning to a New Laptop Life: My 30-Day Journey Using the Dell XPS 15 Instead of a MacBook | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-portability-meets-endurance-discover-our-favorite-laptop-of-the-year/"><u>Ultimate Portability Meets Endurance: Discover Our Favorite Laptop of the Year</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728503694531-windows-10-usb/"><u>Windows 10 データ移行とリカバリ: USB メモリ上でのバックアップ手順</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-self-designed-instagram-ringtone-creation-steps/"><u>[New] 2024 Approved Self-Designed Instagram Ringtone Creation Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-the-world-of-youtube-where-are-my-comments/"><u>[Updated] Exploring the World of YouTube Where Are My Comments?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-8-android-apps-to-change-slow-motion-videos-to-regular-speed-vide/"><u>[Updated] In 2024, Top 8 Android Apps to Change Slow-Motion Videos to Regular-Speed Vide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/accelerate-any-video-or-audio-with-winxvideo-ai-using-gpu-power/"><u>Accelerate Any Video or Audio with WinxVideo AI Using GPU Power</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/effiziente-methoden-zur-automatischen-verzahnung-von-mac-ordnern/"><u>Effiziente Methoden Zur Automatischen Verzahnung Von Mac-Ordnern</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-15-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 15 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-fm2n0dll-file-absent-message/"><u>Resolving the 'fm2n0.dll File Absent' Message</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-a-massive-discount-up-to-66-off-amazon-fire-hd-8-plus-tablet-exclusive-offer-from-zdnet/"><u>Secure a Massive Discount: Up To 66% Off Amazon Fire HD 8 Plus Tablet - Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sky-high-savings-alert-secure-your-4tb-samsung-usb-drive-for-less-than-half-price-on-amazon-this-labor-day-zdnet/"><u>Sky-High Savings Alert! Secure Your 4TB Samsung USB Drive for Less Than Half Price on Amazon This Labor Day | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-enhancing-your-surface-pro-x-with-an-ssd-upgrade-a-detailed-walkthrough/"><u>Step-by-Step Guide: Enhancing Your Surface Pro X with an SSD Upgrade - A Detailed Walkthrough</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-instructions-for-downloading-the-first-android-13-beta-is-immediate-installation-advised-zdnet/"><u>Step-by-Step Instructions for Downloading the First Android 13 Beta: Is Immediate Installation Advised? | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/storage-solution-a-4tb-samsung-portable-ssd-available-only-at-amazon/"><u>Storage Solution – A 4TB Samsung Portable SSD Available Only at Amazon!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-guide-to-apples-intelligent-ipad-mini-vs-new-iphone-16-models-thought-leadership-by-zdnet-analyst/"><u>The Comprehensive Guide to Apple's Intelligent iPad Mini Vs. New iPhone 16 Models | Thought Leadership by ZDNet Analyst</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-10-internet-coffee-shops-the-leading-hotspots-of-2024-insights-from-zdnet/"><u>Top 10 Internet Coffee Shops: The Leading Hotspots of 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premier-hotel-applications-in-2e-24-a-comprehensive-review-by-zdnet/"><u>Top 5 Premier Hotel Applications in 2E-24: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-durable-windows-tablet-with-active-pen-in-depth-review-and-testing-insights/"><u>Top-Tier Durable Windows Tablet with Active Pen: In-Depth Review and Testing Insights</u></a></li>
 </ul></div>
 

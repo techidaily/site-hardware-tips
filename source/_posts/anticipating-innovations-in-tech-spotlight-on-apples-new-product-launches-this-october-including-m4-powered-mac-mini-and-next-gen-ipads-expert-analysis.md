@@ -1,7 +1,7 @@
 ---
 title: "Anticipating Innovations in Tech: Spotlight on Apple's New Product Launches This October – Including M4 Powered Mac Mini and Next-Gen iPads | Expert Analysis"
-date: 2024-11-21T16:46:00.826Z
-updated: 2024-11-27T18:18:51.727Z
+date: 2024-12-05T19:50:16.961Z
+updated: 2024-12-06T18:08:50.040Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,21 +118,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-comical-connections-top-websites-for-funny-phone-sounds/"><u>[New] In 2024, Comical Connections Top Websites for Funny Phone Sounds</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-beat-weavers-treasury-high-res-dj-visual-samples-for-2024/"><u>[New] The Beat Weaver's Treasury High-Res DJ Visual Samples for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-examining-youtubes-copyright-stance-versus-cc-approach/"><u>[Updated] 2024 Approved Examining Youtube's Copyright Stance Versus CC Approach</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-crafting-your-dream-minecraft-house-with-ease-for-2024/"><u>[Updated] Crafting Your Dream Minecraft House with Ease for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-total-data-for-uninterrupted-viewer-experience/"><u>2024 Approved Total Data for Uninterrupted Viewer Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-and-high-speed-the-compact-sandisk-usb-drive-reviewed-by-tech-experts-at-zdnet/"><u>Affordable & High-Speed: The Compact SanDisk USB Drive Reviewed by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-the-mavix-m9-gaming-chair-unparalleled-adjustability-and-design-a-detailed-insight-from-zdnet/"><u>Comprehensive Analysis of the Mavix M9 Gaming Chair: Unparalleled Adjustability and Design - A Detailed Insight From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-byo-ai-empowers-user-freedom-and-fuels-creativity-the-risks-of-model-lock-in-techanalysis/"><u>How BYO AI Empowers User Freedom and Fuels Creativity: The Risks of Model Lock-In | TechAnalysis</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-magic-6-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor Magic 6 Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-excellence-in-efficiency-top-5-chromes-for-vids-from-fb/"><u>In 2024, Excellence in Efficiency Top 5 Chromes for Vids From FB</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-microsoft-build-2023-key-announcements-await-how-to-catch-the-action-online-and-expert-insights-from-zdnet/"><u>Inside Microsoft Build 2023: Key Announcements Await, How to Catch the Action Online, and Expert Insights From ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-essential-hidden-tools-on-your-mac-unlock-them-for-free/"><u>Ultimate Guide: Essential, Hidden Tools on Your Mac - Unlock Them for Free!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-speed-and-precision-with-the-latest-gaming-mice-and-clutch-gladiator-xbox-controller/"><u>Unleash Speed and Precision with the Latest Gaming Mice & Clutch Gladiator Xbox Controller</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-the-full-potential-of-obs-on-mac/"><u>Unlocking the Full Potential of OBS on Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-handy-quick-reference-for-the-most-innovative-on-the-go-picture-makers-of-202n4-insights-from-zdnet/"><u>Your Handy Quick Reference for the Most Innovative On-The-Go Picture Makers of 202N4 - Insights From ZDNET</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-beginners-guide-to-inconspicuous-image-tinkering-for-2024/"><u>[Updated] Beginner's Guide to Inconspicuous Image Tinkering for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-10-download-snapchat-ringtones-websites-for-2024/"><u>[Updated] Top 10 Download Snapchat Ringtones Websites for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-ultimate-farming-tactics-in-valheim/"><u>[Updated] Unveiling the Ultimate Farming Tactics in Valheim</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-realme-narzo-60-5g-frp-bypass-by-drfone-android/"><u>About Realme Narzo 60 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apple-m1-demystified-the-tech-leap-forward-for-2024/"><u>Apple M1 Demystified The Tech Leap Forward for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/class-action-targeting-canon-usa-for-allegedly-defective-printers-lacking-ink-and-scan-functions-zdnet-exclusive/"><u>Class Action Targeting Canon USA for Allegedly Defective Printers Lacking Ink and Scan Functions | ZDNET Exclusive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-budget-friendly-canon-wireless-inkjet-printer-for-49-expert-insights-from-pcmag/"><u>Discover the Budget-Friendly Canon Wireless Inkjet Printer for $49 - Expert Insights From PCMag</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-a-non-responsive-laptop-mouse/"><u>Easy Solutions for a Non-Responsive Laptop Mouse</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-launches-revolutionary-portable-all-in-one-pc-a-look-at-their-latest-surprising-releases-on-zdnet/"><u>HP Launches Revolutionary Portable All-In-One PC: A Look at Their Latest Surprising Releases on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-unveils-future-growth-tactics-amidst-hybrid-office-boom-driving-up-demand-for-computers-and-quick-start-ink-program/"><u>HP Unveils Future Growth Tactics Amidst Hybrid Office Boom Driving Up Demand for Computers & Quick-Start Ink Program</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-photography-at-your-fingertips-best-phones-with-image-stabilization/"><u>In 2024, Expert Photography at Your Fingertips Best Phones with Image Stabilization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-labor-day-savings-comprehensive-guide-and-top-deals-for-the-long-weekend-zdnet/"><u>Maximize Your Labor Day Savings: Comprehensive Guide & Top Deals for the Long Weekend | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/predicted-rise-of-stratasys-navigating-the-expansion-in-3d-printing-and-additive-manufacturing-am-sector-and-beyond-insights-from-zdnet/"><u>Predicted Rise of Stratasys: Navigating the Expansion in 3D Printing & Additive Manufacturing (AM) Sector and Beyond - Insights From ZDNet</u></a></li>
 </ul></div>
 

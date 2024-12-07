@@ -1,7 +1,7 @@
 ---
 title: Score Big Savings with Up to 50%% Discounted 4TB Portable Samsung SSD From ZDNet's Top Pick!
-date: 2024-09-18 18:20:14
-updated: 2024-09-20 12:28:40
+date: 2024-12-02T19:59:39.181Z
+updated: 2024-12-07T02:59:18.853Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,31 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-basic-to-exceptional-a-step-by-step-thumbnail-guide-for-2024/"><u>[New] From Basic to Exceptional A Step-by-Step Thumbnail Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dominate-youtube-with-these-strategic-freefire-video-hashtags/"><u>[Updated] In 2024, Dominate YouTube with These Strategic FreeFire Video Hashtags</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-portable-monitors-ranked-and-examined-zdnet-in-depth-analysis/"><u>2024'S Leading Portable Monitors Ranked & Examined | ZDNet In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-these-macbook-releases-expert-advice-by-zdnet-unveiled/"><u>Avoid These MacBook Releases – Expert Advice by ZDNet Unveiled</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-xiaomi-redmi-k70e-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Xiaomi Redmi K70E.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-nine-essential-live-gaming-services/"><u>Best Nine Essential Live Gaming Services</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-online-through-key-platforms-facebook-twitter-instagram-youtube/"><u>Connecting the World Online Through Key Platforms: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-y100i-power-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo Y100i Power 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15l-desktop-laptop-top-of-the-line-gaming-computer-now-at-a-steal-for-520-up-to-40-discounted/"><u>HP Victus 15L Desktop Laptop: Top-of-the-Line Gaming Computer Now at a Steal for $520 - Up to 40% Discounted!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y55s-5g-2023-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y55s 5G (2023) to iPhone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-12-pro-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 12 Pro 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-insights-into-the-art-of-srt-file-creation/"><u>In 2024, Ultimate Insights Into the Art of SRT File Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/low-on-laptop-space-discover-these-3-effective-remedies-insights-from-zdnet/"><u>Low on Laptop Space? Discover These 3 Effective Remedies! - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-adjusting-speaker-and-microphone-preferences-on-windows-pcs/"><u>Step-by-Step Guide: Adjusting Speaker & Microphone Preferences on Windows PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-39-unbeatable-laptop-bargains-this-season-including-brands-like-apple-dell-and-hp-find-out-now-at-zdnet/"><u>Top 39 Unbeatable Laptop Bargains This Season Including Brands Like Apple, Dell & HP – Find Out Now at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-headsets-comprehensive-reviews-and-testing-by-tech-experts-zdnet/"><u>Top-Rated Gaming Headsets - Comprehensive Reviews & Testing by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-and-save-on-your-surface-pro-with-our-quick-7-step-storage-expansion-guide-cut-costs-by-hundreds/"><u>Upgrade & Save on Your Surface Pro with Our Quick 7-Step Storage Expansion Guide – Cut Costs by Hundreds!</u></a></li>
+</ul></div>
+

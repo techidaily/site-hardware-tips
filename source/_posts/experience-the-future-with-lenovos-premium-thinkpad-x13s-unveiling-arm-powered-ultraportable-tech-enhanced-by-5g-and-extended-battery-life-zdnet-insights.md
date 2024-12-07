@@ -1,7 +1,7 @@
 ---
 title: Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life | ZDNet Insights
-date: 2024-11-22T16:52:30.859Z
-updated: 2024-11-27T19:54:10.410Z
+date: 2024-12-03T00:56:25.308Z
+updated: 2024-12-06T19:31:34.191Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,16 +218,17 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebooks-inverse-image-labyrinth-navigate-with-these-3-methods/"><u>[New] 2024 Approved Facebook's Inverse Image Labyrinth - Navigate with These 3 Methods</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-building-blocks-to-brilliance-crafting-circles-and-spheres-in-mc/"><u>[New] Building Blocks to Brilliance Crafting Circles and Spheres in MC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-easy-steps-for-perfect-screen-capture-with-mobizen-for-2024/"><u>[New] Easy Steps for Perfect Screen Capture with Mobizen for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-list-free-best-ios-video-editor-tools-for-2024/"><u>[New] Ultimate List Free, Best iOS Video Editor Tools for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-blueprint-for-successful-discord-live-streams/"><u>2024 Approved The Ultimate Blueprint for Successful Discord Live Streams</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-transformed-my-tech-experience/"><u>A Week with an Ergonomic Split Keyboard: How One Change Transformed My Tech Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-bargains-for-ultrabooks-and-notebooks-during-octobers-mega-sales-events-insider-tips/"><u>Best Bargains for Ultrabooks & Notebooks During October's Mega Sales Events - Insider Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-chatgpt-the-key-to-unlocking-healthy-meal-preparation-secrets/"><u>Is ChatGPT the Key to Unlocking Healthy Meal Preparation Secrets?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-desk-efficiency-the-ultimate-deal-on-an-11-in-1-docking-station-now-available-at-up-to-44-off-zdnet-insights/"><u>Maximize Desk Efficiency: The Ultimate Deal on an 11-in-1 Docking Station, Now Available at Up to 44% Off! (ZDNet Insights)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-installing-latest-corsair-k55-keyboardmouse-drivers/"><u>Step-by-Step Guide to Installing Latest Corsair K55 Keyboard/Mouse Drivers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-black-friday-laptop-savings-guide-premier-deals-awaiting-in-oct-24-on-zdnet/"><u>Ultimate Black Friday Laptop Savings Guide: Premier Deals Awaiting in Oct '24 on ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-static-to-dynamic-a-comprehensive-look-at-the-new-polaroid-xs-100i-action-camera/"><u>[New] From Static to Dynamic A Comprehensive Look at the New Polaroid XS 100I Action Camera</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-complete-guide-to-automating-ppt-captures-for-2024/"><u>[New] The Complete Guide to Automating PPT Captures for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expert-gaming-techniques-mastering-switch-pro-controller-on-steam/"><u>[Updated] 2024 Approved Expert Gaming Techniques Mastering Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ecovacs-unveils-cutting-edge-robotic-vacuum-ready-to-challenge-rivals-insights-from-tech-blog/"><u>EcoVacs Unveils Cutting-Edge Robotic Vacuum, Ready to Challenge Rivals - Insights From Tech Blog</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-unmatched-signal-quality-with-the-streamlined-and-effective-clearstream-eclipse-antenna/"><u>Experience Unmatched Signal Quality with the Streamlined and Effective ClearStream Eclipse Antenna</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-top-15-ai-and-robot-tech-breakthroughs-unveiled-at-ces-2024-according-to-zdnet-coverage/"><u>Exploring the Future: Top 15 AI and Robot Tech Breakthroughs Unveiled at CES 2024, According to ZDNET Coverage</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-subscriber-chart-the-5-most-subscribed-youtube-channels/"><u>In 2024, YouTube Subscriber Chart - The 5 Most Subscribed YouTube Channels</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/optimierte-kundenkommunikation-im-aussenhandel-durch-die-clients-guide-app-mit-integrierter-abbey-visitenkarte-erfassung/"><u>Optimierte Kundenkommunikation Im Außenhandel Durch Die Clients-Guide App Mit Integrierter ABBEY Visitenkarte Erfassung</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-smart-home-gadgets-in-depth-analysis-by-tech-experts-zdnet-reviews/"><u>Top Ranking Smart Home Gadgets : In-Depth Analysis by Tech Experts - ZDNet Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-lawn-care-routine-into-an-exciting-adventure-with-this-remote-controlled-mower-featured-on-zdnet/"><u>Transform Your Lawn Care Routine Into an Exciting Adventure with This Remote-Controlled Mower, Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zoom-across-your-yard-the-racing-inspired-robotic-lawnmower-that-delivers-a-picture-perfect-green/"><u>Zoom Across Your Yard: The Racing-Inspired Robotic Lawnmower That Delivers a Picture-Perfect Green</u></a></li>
 </ul></div>
 

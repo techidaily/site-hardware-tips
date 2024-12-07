@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Addition: An Honest Look at the Surface Laptop 5 - Expectations vs Reality"
-date: 2024-11-25T18:58:02.914Z
-updated: 2024-11-27T18:05:40.207Z
+date: 2024-12-02T18:17:16.515Z
+updated: 2024-12-06T20:11:52.352Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -56,10 +56,6 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Connectivity    | Wi-Fi 6, Bluetooth 5.1                                                                     |
 | Ports           | 1 x USB-C 4.0/Thunderbolt 4, 1 x USB-A 3.1, 3.5mm headphone jack, 1 x Surface Connect Port |
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How's the build quality?
 
@@ -88,7 +84,7 @@ Michael Gariffo/ZDNET
 Microsoft's port selection on the Surface Laptop 5 is very middle-of-the-road. That's a good thing. It acknowledges that plenty of USB-A peripherals still exist, so it includes a single USB-A port. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -143,6 +139,10 @@ This might be forgivable in a budget model. But even the base config [Surface La
 
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance and battery life
 
 Unlike on many other laptops I've tested recently, the keyboard deck remained entirely cool, no matter how hard I pushed the laptop.
@@ -166,7 +166,7 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -176,7 +176,7 @@ I may seem like I had high standards for this review, and I did. This is a flags
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -227,22 +227,18 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-step-into-the-shoes-of-a-pro-screen-capture-techniques-for-mac-enthusiasts/"><u>[New] Step Into the Shoes of a Pro Screen Capture Techniques for Mac Enthusiasts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/hat-is-parody-and-how-to-make-a-parody-video-for-2024/"><u>[New] What Is Parody and How to Make a Parody Video for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-rising-stars-of-online-videos-top-subscription-hits/"><u>[Updated] Rising Stars of Online Videos Top Subscription Hits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-leading-10-competitors-to-zoom-for-pc-and-phone-for-2024/"><u>[Updated] The Leading 10 Competitors to Zoom for PC & Phone for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341659635-approach-consider-the-role-of-local-regulations-in-determining-land-use/"><u>Approach: Consider the Role of Local Regulations in Determining Land Use.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-apple-laptop-comparing-macbook-air-and-macbook-pro-insights/"><u>Choosing the Right Apple Laptop: Comparing MacBook Air and MacBook Pro - Insights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-apple-musics-role-in-professional-video-production/"><u>In 2024, Apple Music's Role in Professional Video Production</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y78t? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-why-is-my-photobooth-video-stopping/"><u>In 2024, Why Is My Photobooth Video Stopping?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-asus-zenbook-pro/"><u>In-Depth Analysis of the Asus Zenbook Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-discount-on-8tb-samsung-t5-portable-ssd-up-to-36-off-post-prime-day-deals-now-at-amazon/"><u>Massive Discount on 8TB Samsung T5 Portable SSD - Up to 36% Off Post-Prime Day Deals, Now at Amazon!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/meta-quest-3-the-ultimate-vr-steal-at-512gb-on-prime-day-according-to-zdnet-octobers-unbeatable-deals/"><u>Meta Quest 3: The Ultimate VR Steal at 512GB on Prime Day, According to ZDNET | October's Unbeatable Deals!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/octobers-ultimate-virtual-reality-bargain-unmissable-meta-quest-3-with-512gb-storage-on-prime-day-exclusive-insights/"><u>October's Ultimate Virtual Reality Bargain: Unmissable Meta Quest 3 with 512GB Storage on Prime Day | Exclusive Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsungs-new-copilotplus-pc-shines-as-a-must-have-deal-for-windows-users-in-depth-analysis-zdnet/"><u>Samsung's New Copilot+ PC Shines as a Must-Have Deal for Windows Users – In-Depth Analysis | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-16-hp-laptop-offers-on-holidays-techradar/"><u>Top 16 HP Laptop Offers on Holidays | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-unbeatable-laptop-promotions-in-july-2024-discovered-on-zdnet/"><u>Top Picks: Unbeatable Laptop Promotions in July 2024 - Discovered on ZDNet</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/your-youtube-tracks-into-mp3-with-macos/"><u>Turn Your YouTube Tracks Into MP3 with MacOS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlocking-the-power-of-social-medias-fb-covers/"><u>[New] 2024 Approved Unlocking the Power of Social Media's FB Covers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-tricks-and-secrets-for-gaining-more-likes-in-tiktok-unboxings/"><u>[New] In 2024, Tricks & Secrets for Gaining More 'Likes' In TikTok Unboxings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/wma-webm-movavi/"><u>在線 WMA 自由格式改變為 WebM 進行編解碼 - 利用 Movavi 轉換器</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/behind-the-screens-a-closer-look-at-zdnets-rigorous-tablet-testing-procedures/"><u>Behind the Screens: A Closer Look at ZDNet’s Rigorous Tablet Testing Procedures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/black-friday-2022-countdown-find-the-hottest-bargains-and-best-sale-destinations-on-zdnet/"><u>Black Friday 2022 Countdown: Find The Hottest Bargains and Best Sale Destinations On ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-android-tablet-reviews-surprising-non-tcl-non-samsung-brands-featured-by-zdnet/"><u>Budget-Friendly Android Tablet Reviews: Surprising Non-TCL, Non-Samsung Brands Featured by ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Nokia G22 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-ce-3-lite-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Nord CE 3 Lite 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-compress-videos-instantly-10-top-free-online-tools/"><u>New 2024 Approved Compress Videos Instantly 10 Top Free Online Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1726809383759-top-recommended-non-samsung-non-tcl-android-tablets-discover-the-best-alternatives/"><u>Top-Recommended Non-Samsung, Non-TCL Android Tablets: Discover the Best Alternatives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/uncomplicated-walkthrough-of-easy-iphone-screen-capture-for-2024/"><u>Uncomplicated Walkthrough of Easy iPhone Screen Capture for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/understanding-the-factors-behind-the-wii-us-popularity-surge/"><u>Understanding the Factors Behind the Wii U's Popularity Surge</u></a></li>
 </ul></div>
 

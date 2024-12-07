@@ -1,7 +1,7 @@
 ---
 title: "Affordable Powerhouses: Top Lenovo Models for the Hybrid Workforce, Available at a Whopping Discount | ZDNet"
-date: 2024-11-26T19:32:41.470Z
-updated: 2024-11-27T17:12:01.340Z
+date: 2024-12-02T17:49:45.943Z
+updated: 2024-12-06T21:02:04.447Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C84c53c5f-f96c-4610-b720-0889991981e4%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C84c53c5f-f96c-4610-b720-0889991981e4%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,24 +77,24 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-windows-movie-maker-6-downloading-made-easy/"><u>[New] In 2024, Windows Movie Maker 6 Downloading Made Easy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-inside-the-new-windows-11-innovations/"><u>[New] Inside the New Windows 11 Innovations</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/wiftly-producing-high-quality-thumbnails-for-valorant-screenshots-for-2024/"><u>[New] Swiftly Producing High-Quality Thumbnails for Valorant Screenshots for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-to-top-unboxing-videos-2024-edition/"><u>[New] Ultimate Guide to Top Unboxing Videos - 2024 Edition</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-perfecting-ps3-recorded-content-expert-insights/"><u>[Updated] 2024 Approved Perfecting PS3 Recorded Content Expert Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/150-value-exploring-the-all-in-one-capabilities-of-satechis-universal-docking-station/"><u>$150 Value: Exploring the All-in-One Capabilities of Satechi's Universal Docking Station</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-expert-tips-for-harnessing-the-power-of-top-9-free-youtube-makers/"><u>2024 Approved Expert Tips for Harnessing the Power of Top 9 Free YouTube Makers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/breaking-into-design-your-strategy-for-career-success/"><u>Breaking Into Design Your Strategy for Career Success</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-amazing-deal-on-asus-vivobook-pro-save-300-now-on-amazon-exclusive-sale-covered/"><u>Discover the Amazing Deal on Asus VivoBook Pro - Save $300 Now on Amazon! Exclusive Sale Covered</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/grab-the-deal-walmart-offers-a-high-quality-15-asus-notebook-with-essential-connectivity-at-only-250-insights-by-zdnet/"><u>Grab the Deal: Walmart Offers a High-Quality 15 ASUS Notebook with Essential Connectivity at Only $250 - Insights by ZDNet!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-on-the-go-charging-capacity-our-top-pick-for-a-140w-multi-device-power-bank-revealed-zdnet/"><u>Maximize On-The-Go Charging Capacity! Our Top Pick for a 140W Multi-Device Power Bank Revealed | ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-y100i-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y100i Black and White | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/tips-for-gaining-attention-via-snapchat-star/"><u>Tips for Gaining Attention via Snapchat Star</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-49-unmissable-newegg-cyber-monday-offers-find-out-how-to-save-big-on-tech/"><u>Top 49 Unmissable Newegg Cyber Monday Offers - Find Out How to Save Big on Tech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-lenovo-laptop-picks-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Lenovo Laptop Picks - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-student-chromebooks-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top-Ranking Student Chromebooks: In-Depth Analysis and Reviews by Tech Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tune-into-microsofts-surface-and-windows-ai-showcase-key-insights-and-anticipated-reveals-for-today-techspotted/"><u>Tune Into Microsoft's Surface & Windows AI Showcase: Key Insights & Anticipated Reveals for Today | TechSpotted</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-ultimate-gaming-audio-bliss-top-rated-sound-systems-now-discounted-at-best-buy-zdnet/"><u>Unleash Ultimate Gaming Audio Bliss: Top-Rated Sound Systems Now Discounted at Best Buy! - ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-picks-the-best-8-free-video-editors-online/"><u>[Updated] Top Picks The Best 8 Free Video Editors Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-edge-screen-time-youtubes-top-movies-list-for-2024/"><u>Cutting Edge Screen Time YouTube's Top Movies List for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-gt-5-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme GT 5 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-swift-journey-to-using-ez-grabber-like-a-pro/"><u>In 2024, A Swift Journey to Using EZ Grabber Like a Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lock-in-the-win-snag-your-dream-machine-with-the-hp-victus-n15-gaming-laptop-for-a-steal-at-515-your-next-big-save-with-this-best-buy-deal/"><u>Lock in the Win: Snag Your Dream Machine with the HP Victus N15 Gaming Laptop for a Steal at $515 - Your Next Big Save With This Best Buy Deal.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/overwatch-video-capture-quick-simple-and-effective/"><u>Overwatch Video Capture – Quick, Simple, and Effective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-content-sharing-how-apple-enhances-airplay-experience-in-your-living-space-hotel-stays-and-commutes-digital-innovations/"><u>Revolutionizing Content Sharing: How Apple Enhances AirPlay Experience in Your Living Space, Hotel Stays, and Commutes | Digital Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/safeguarding-against-gps-interference-effective-measures-to-secure-trucks-and-drones-from-hijackers-zdnet-insights/"><u>Safeguarding Against GPS Interference: Effective Measures to Secure Trucks and Drones From Hijackers | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-sdi-partners-with-general-motors-for-a-3b-us-investment-in-new-electric-vehicle-battery-facility/"><u>Samsung SDI Partners with General Motors for a $3B U.S. Investment in New Electric Vehicle Battery Facility</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-resolving-complete-lack-of-sound-in-roblox-for-windows-users/"><u>Solved: Resolving Complete Lack of Sound in Roblox for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/southwest-airlines-bold-strategy-revamping-customer-care-services/"><u>Southwest Airlines' Bold Strategy: Revamping Customer Care Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-model-y-dominates-european-car-safety-ratings-achieves-unprecedented-score-analyzed-by-zdnet-experts/"><u>Tesla Model Y Dominates European Car Safety Ratings, Achieves Unprecedented Score | Analyzed by ZDNet Experts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-fundamentals-of-sports-video-editing/"><u>The Fundamentals of Sports Video Editing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-southwests-premier-credit-cards-rankings-and-reviews-by-zdnet/"><u>The Ultimate Guide to Southwest's Premier Credit Cards : Rankings and Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-budget-friendly-electric-vehicles-a-comprehensive-guide-zdnet/"><u>Top Budget-Friendly Electric Vehicles : A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-business-travel-credit-cards-with-rewards-explore-options-on-zdnet/"><u>Top-Ranked Business Travel Credit Cards with Rewards | Explore Options on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-premium-ev-charger-models-for-homes-in-224-as-recommended-by-tech-authorities-zdnet-insights/"><u>Ultimate Guide to Premium EV Charger Models for Homes in 2ˈ/@24 as Recommended by Tech Authorities | ZDNET Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unearthing-excellent-seeds-the-valheim-way/"><u>Unearthing Excellent Seeds The Valheim Way</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-over-windows-11-gaming-glitches-with-steam-solutions/"><u>Winning Over Windows 11 Gaming Glitches with Steam Solutions</u></a></li>
 </ul></div>
 

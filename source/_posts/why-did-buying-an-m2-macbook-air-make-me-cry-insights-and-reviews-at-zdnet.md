@@ -1,7 +1,7 @@
 ---
 title: Why Did Buying an M2 MacBook Air Make Me Cry? Insights & Reviews at ZDNet
-date: 2024-11-24T16:16:24.183Z
-updated: 2024-11-27T17:19:07.983Z
+date: 2024-12-06T00:04:34.349Z
+updated: 2024-12-06T19:10:36.734Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,24 +132,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-content-visibility-discover-6-thumbnail-designers-best-tools-for-2024/"><u>[New] Elevate Your Content Visibility - Discover 6 Thumbnail Designers' Best Tools for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-audience-market-leaders-in-youtubes-short-clips-downloads/"><u>[New] In 2024, Audience’ Market Leaders in YouTube's Short Clips Downloads</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-youtube-live-streaming-software-and-hardware-you-should-know-for-2024/"><u>[Updated] Best YouTube Live Streaming Software and Hardware You Should Know for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-digital-filmmaking-6-key-color-techniques/"><u>2024 Approved Digital Filmmaking 6 Key Color Techniques</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/apples-spotlight-shines-on-mondly-as-10-in-education-tech/"><u>Apple's Spotlight Shines on Mondly as #10 in Education Tech</u></a></li>
-<li><a href="https://solve-news.techidaily.com/free-mac-dvd-converter-effortlessly-convert-dvds-to-mp4movh264-for-ios-devices/"><u>Free Mac DVD Converter: Effortlessly Convert DVDs to MP4/MOV/H264 for iOS Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-the-scoop-on-savings-ultimate-chromebook-deals-for-february-2023-digital-world-news/"><u>Get the Scoop on Savings: Ultimate Chromebook Deals for February 2023 | Digital World News</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-y78plus-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo Y78+ to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reveal-invisible-hdd-solving-windows-11-problem/"><u>Reveal Invisible HDD: Solving Windows 11 Problem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-lenovo-hybrid-device-combines-windows-and-android-in-one-portable-package/"><u>Revolutionary Lenovo Hybrid Device Combines Windows & Android in One Portable Package</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-deal-top-pick-magsafe-charger-at-60-discounted-perfect-for-your-iphone-and-macbook-zdnet/"><u>Score a Deal: Top-Pick MagSafe Charger at $60 Discounted - Perfect for Your iPhone and MacBook! (ZDNet)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/survival-of-the-toughest-laptops-how-this-rugged-4n00-model-challenges-dell-latitude-in-depth-testing-expert/"><u>Survival of the Toughest Laptops: How This Rugged $4,N00 Model Challenges Dell Latitude | In-Depth Testing Expert</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-8-strategies-in-digital-sound-logging-techniques/"><u>Top 8 Strategies in Digital Sound Logging Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-alternative-to-dell-and-lenovo-thinkpads-for-business-explore-our-suggested-2-in-1-laptops/"><u>Top Alternative to Dell & Lenovo ThinkPads for Business: Explore Our Suggested 2-In-1 Laptops</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-storm-monitoring-mobile-applications/"><u>Top Rated Storm Monitoring Mobile Applications</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-score-unbeatable-bargains-on-laptops-during-sales-events-in-november-2024-techradar/"><u>Ultimate Guide: Score Unbeatable Bargains on Laptops During Sales Events in November 2024 | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-top-podcasts-and-youtubers-analyzing-apples-latest-gadgets-and-software-updates-cnet/"><u>Ultimate Guide: Top Podcasts & YouTubers Analyzing Apple's Latest Gadgets and Software Updates | CNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unwrapping-creative-diy-holiday-surprises-perfect-tools-that-hit-the-spot-handcrafted-recommendations-by-zdnet/"><u>Unwrapping Creative DIY Holiday Surprises: Perfect Tools That Hit The Spot | Handcrafted Recommendations by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/up-to-550-discount-on-samsung-odyssey-neo-g8-32-shop-now-before-black-friday-at-best-buy/"><u>Up to $550 Discount on Samsung Odyssey Neo G8, 32 - Shop Now Before Black Friday at Best Buy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-s24plus-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy S24+ Phone When You Forget the Password</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/celebrating-innovation-in-email-automation-2011s-top-honoree-atomic-mail-sender-by-massmail-software-unveiled/"><u>Celebrating Innovation in Email Automation: 2011'S Top Honoree, Atomic Mail Sender by Massmail Software Unveiled!</u></a></li>
+<li><a href="https://windows11.techidaily.com/exclusive-guide-to-forgotten-windows-11-themes/"><u>Exclusive Guide to Forgotten Windows 11 Themes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-open-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Open lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-t2-pro-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo T2 Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-ideal-5k-tactile-gaming-sets-8/"><u>In 2024, Ideal 5K Tactile Gaming Sets (#8)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-13-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 13 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/qr-code-your-way-through-the-border-a-new-no-passport-entry-method-revealed-zdnet/"><u>QR Code Your Way Through the Border: A New No-Passport Entry Method Revealed | ZDnet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ready-for-takeoff-revolutionary-airborne-cars-hit-the-market-secure-your-model-with-a-preorder/"><u>Ready for Takeoff: Revolutionary Airborne Cars Hit the Market – Secure Your Model with a Preorder!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-travel-with-tesla-and-zoom-future-of-car-connectivity-unveiled/"><u>Revolutionize Travel with Tesla and Zoom - Future of Car Connectivity Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-vehicle-maintenance-using-our-cutting-edge-bluetooth-diagnostic-gadget/"><u>Revolutionize Your Vehicle Maintenance Using Our Cutting-Edge Bluetooth Diagnostic Gadget</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-high-quality-e-bikes-find-options-below-900-now/"><u>Save Big on High-Quality E-Bikes: Find Options Below $900 - Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-spooky-snapshot-hero-snag-evo-nanoplus-drones-for-halloween-with-savings-of-190-off-exclusive-offer-by-zdnet/"><u>Secure Your Spooky Snapshot Hero: Snag EVO NANO+ Drones for Halloween with Savings of $190 Off | Exclusive Offer by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-vacation-expenses-with-incredible-deals-on-accommodations-vehicle-rentals-and-entertainment-tickets-discover-how-zdnets-travelers-club-unlocks-co227/"><u>Slash Your Vacation Expenses with Incredible Deals on Accommodations, Vehicle Rentals & Entertainment Tickets: Discover How ZDNET's Travelers Club Unlocks Cost-Effective Wanderlust Dreams!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-your-potential-with-our-picks-for-the-best-8-learner-friendly-apps-of-2024/"><u>Unlock Your Potential with Our Picks for the Best 8 Learner-Friendly Apps of 2024</u></a></li>
 </ul></div>
 

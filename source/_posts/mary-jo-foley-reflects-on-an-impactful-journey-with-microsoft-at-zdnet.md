@@ -1,7 +1,7 @@
 ---
 title: Mary Jo Foley Reflects on an Impactful Journey with Microsoft at ZDNet
-date: 2024-09-19 10:35:19
-updated: 2024-09-20 11:39:36
+date: 2024-12-01T18:37:28.295Z
+updated: 2024-12-07T02:17:29.938Z
 tags:
   - pc
 categories:
@@ -64,11 +64,35 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-poll-power-play-best-election-strategy-games/"><u>[Updated] Poll Power Play Best Election Strategy Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-ai-and-creativity-collide-the-best-podcast-renaming-solutions/"><u>2024 Approved AI & Creativity Collide The Best Podcast Renaming Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-reviews-and-ratings-digital-trends/"><u>Comprehensive Reviews and Ratings | Digital Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-long-lasting-ultraportable-laptop-tested-in-2er-year-exclusive-insights-zdnet-tech-news/"><u>Discover the Best Long-Lasting Ultraportable Laptop Tested in 2Er Year - Exclusive Insights | ZDNET Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ideal-work-travel-companion-the-ultimate-non-mslenovo-tablet-ranking-insights/"><u>Discover the Ideal Work Travel Companion: The Ultimate Non-MS/Lenovo Tablet Ranking - Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/diving-deep-into-gopro-variants-comprehensive-guide/"><u>Diving Deep Into Gopro Variants Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-final-hours-for-epic-gaming-bargains-in-october-prime-day-2024-save-big/"><u>Don't Miss Out! Final Hours for Epic Gaming Bargains in October Prime Day 2024, Save Big</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-for-asus-14-inch-156-inch-rog-zephyrus-laptop-slash-rs-55000-from-the-original-price/"><u>Huge Discount Alert for Asus 14-Inch 15.6 Inch ROG Zephyrus Laptop – Slash Rs. 55,000 From the Original Price!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 15 Plus?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-uncovering-the-best-unnoticed-speech-to-text-on-mac/"><u>In 2024, Uncovering the Best Unnoticed Speech to Text on Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-itel-p40plus-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Itel P40+ Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/tips-to-rectify-broken-airdrop-connectivity-across-apple-gadgets-for-2024/"><u>Tips to Rectify Broken AirDrop Connectivity Across Apple Gadgets for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-top-ranked-gaming-audio-systems-now-30-cheaper-on-amazon-insider-review-by-zdnet/"><u>Unbeatable Deal Alert: Top-Ranked Gaming Audio Systems Now 30% Cheaper on Amazon - Insider Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-offer-discover-how-to-get-200-off-on-best-buys-acer-chromebook-516-ge-in-depth-analysis-by-zdnet/"><u>Unbeatable Offer: Discover How to Get $200 Off on Best Buy's Acer Chromebook 516 GE | In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-charm-of-dell-xps-13-aesthetics-meet-performance-ranked-2-in-our-review-by-zdnet/"><u>Unveiling the Charm of Dell XPS 13: Aesthetics Meet Performance - Ranked #2 in Our Review by ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

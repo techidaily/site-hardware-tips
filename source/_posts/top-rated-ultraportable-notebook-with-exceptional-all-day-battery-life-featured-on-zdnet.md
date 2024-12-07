@@ -1,7 +1,7 @@
 ---
 title: Top Rated Ultraportable Notebook with Exceptional All-Day Battery Life Featured on ZDNet
-date: 2024-11-21T17:23:46.906Z
-updated: 2024-11-27T18:58:34.841Z
+date: 2024-12-02T18:21:27.672Z
+updated: 2024-12-06T21:16:29.400Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,22 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>[New] 2024 Approved Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-pro-iphone-tricks-for-stunning-reflection-shots/"><u>[New] Pro iPhone Tricks for Stunning Reflection Shots</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-iphone-video-editor-comparison-cameo-or-filmorago-for-2024/"><u>[New] Ultimate iPhone Video Editor Comparison Cameo or FilmoraGo for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024-ultimate-guide-to-the-best-linux-laptops-in-depth-analysis-and-ratings-from-professionals-zdnet/"><u>2024 Ultimate Guide to the Best Linux Laptops: In-Depth Analysis and Ratings From Professionals | ZDNET</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/definitive-guide-comparing-all-ipad-models/"><u>Definitive Guide: Comparing All iPad Models</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-final-opportunity-for-top-tier-gaming-bargains-on-oct-24-black-friday-slice-your-costs-by-up-to-1k/"><u>Don't Miss Out! Final Opportunity for Top-Tier Gaming Bargains on Oct '24 Black Friday - Slice Your Costs by Up To $1K!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ergonomics-revolutionized-a-week-of-typing-on-a-split-keyboard-and-its-impact-on-other-devices-gadgetreview/"><u>Ergonomics Revolutionized: A Week of Typing on a Split Keyboard & Its Impact on Other Devices | GadgetReview</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-ready-for-savings-your-go-to-msi-laptop-for-hardcore-gamers-now-drops-by-a-steep-550/"><u>Get Ready for Savings! Your Go-To MSI Laptop for Hardcore Gamers Now Drops by a Steep $550.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/head-to-head-showdown-how-the-dell-xps-1-crushes-competition-against-macbook-pro-cnet-review/"><u>Head-to-Head Showdown: How the Dell XPS 1# Crushes Competition Against MacBook Pro | CNET Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-15-plus-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 15 Plus and iPad Without Apple ID | Stellar</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-c65-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco C65 to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/page-unavailable-encountered-error-404-during-your-online-quest/"><u>Page Unavailable – Encountered Error 404 During Your Online Quest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-ultimate-bargain-prime-days-finest-laptop-deals-in-advance-october-2pect-expert-tips/"><u>Secure Your Ultimate Bargain: Prime Day's Finest Laptop Deals in Advance, October 2Pect | Expert Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-exclusive-offers-macbook-pros-and-mini-deals-of-the-month-for-january-2022-insider-tips/"><u>Snag Exclusive Offers: MacBook Pros and Mini Deals of the Month for January 2022 | Insider Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-essential-fitness-tracker-apps-for-your-routine-in-2eby/"><u>Top 10 Essential Fitness Tracker Apps for Your Routine in 2Eby</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-2-in-1-laptop-review-surprising-non-hp-non-lenovo-contender-unveiled-on-zdnet/"><u>Top 2-in-1 Laptop Review: Surprising Non-HP, Non-Lenovo Contender Unveiled on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-laptop-supports-comprehensive-guide-insights-from-zdnet/"><u>Top Rated Laptop Supports - Comprehensive Guide : Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/king-youtube-melodies-safe-free-extraction-methods-for-2024/"><u>Unlocking YouTube Melodies Safe, Free Extraction Methods for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/vrchat-problems-solutions-for-when-loading-fails-completely/"><u>VRChat Problems: Solutions for When Loading Fails Completely</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-echo-podcast-content-to-followers-instantly/"><u>[New] 2024 Approved Echo Podcast Content to Followers Instantly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-preventive-measures-for-smooth-streaming-with-obs-for-2024/"><u>[New] Preventive Measures for Smooth Streaming with OBS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-motorcycle-video-magic-best-cam-hats-of-2023-selection/"><u>2024 Approved Motorcycle Video Magic Best Cam Hats of 2023 Selection</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/content-hub-hierarchy-stand-out-amongst-titans-vimeo-youtube-and-dailymotion-for-2024/"><u>Content Hub Hierarchy Stand Out Amongst Titans – Vimeo, YouTube & Dailymotion for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmin-unveils-the-ultimate-bpm-monitor-youve-been-yearning-for-exclusive-insights-from-zdnet/"><u>Garmin Unveils the Ultimate BPM Monitor You've Been Yearning For – Exclusive Insights From ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-7-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-amazfit-gtr-3-smartwatch-features-and-performance-review/"><u>In-Depth Analysis: Amazfit GTR 3 Smartwatch - Features & Performance Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/inverted-indexing-flipping-your-iphones-videos/"><u>Inverted Indexing Flipping Your iPhone's Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lifesaving-hidden-function-in-the-pixel-watch-3-revealed-by-zdnet/"><u>Lifesaving Hidden Function in the Pixel Watch 3 Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-communication-a-step-by-step-guide-to-activating-and-using-your-apple-watchs-in-built-walkie-talkie-insights-from-zdnet/"><u>Mastering the Art of Communication: A Step-by-Step Guide to Activating and Using Your Apple Watch's In-Built Walkie Talkie - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-training-results-how-the-whoop-band-and-apple-watch-can-benefit-pro-athletes-zdnet/"><u>Maximizing Training Results: How the Whoop Band & Apple Watch Can Benefit Pro Athletes | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrading-your-google-pixel-watch-in-a-flash-a-comprehensive-guide-on-forcing-the-latest-software-update/"><u>Upgrading Your Google Pixel Watch in a Flash: A Comprehensive Guide on Forcing the Latest Software Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/use-a-narrative-style-that-incorporates-mythological-analogies-to-describe-their-actions-or-stances-eg-athenas-shield-representing-protective-measures/"><u>Use a Narrative Style that Incorporates Mythological Analogies to Describe Their Actions or Stances (E.g., Athena's Shield Representing Protective Measures).</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-stopped-looking-elsewhere-and-chose-a-pixel-smartwatch-as-the-ultimate-android-companion/"><u>Why I Stopped Looking Elsewhere and Chose a Pixel Smartwatch as the Ultimate Android Companion</u></a></li>
 </ul></div>
 

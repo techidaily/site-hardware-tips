@@ -1,7 +1,7 @@
 ---
 title: Budget-Friendly Surface Pro 11 Insights From a Seasoned Microsoft Guru - ZDNet
-date: 2024-11-24T16:07:26.822Z
-updated: 2024-11-27T17:33:03.717Z
+date: 2024-12-05T18:18:25.490Z
+updated: 2024-12-07T03:20:22.063Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,7 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,24 +192,24 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-more-than-just-likes-and-watch-time-the-complexity-of-youtubes-view-tally/"><u>[New] More than Just Likes and Watch Time The Complexity of YouTube's View Tally</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-obs-timer-mastery-building-a-custom-countdown-timer-for-2024/"><u>[New] OBS Timer Mastery Building a Custom Countdown Timer for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-titanfall-2-fps-drops-quickly-and-easily/"><u>[SOLVED] Titanfall 2 FPS Drops | Quickly & Easily</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-voice-changer-tools-for-youtubers-find-the-best-option-for-your-videos/"><u>[Updated] 2024 Approved Top Voice Changer Tools for YouTubers Find the Best Option for Your Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-5-video-editors-for-macos-sierra/"><u>[Updated] Top 5 Video Editors for macOS Sierra</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-exclusive-deal-alert-apple-m2-powered-macbook-air-at-a-steal-just-749-during-amazons-biggest-shopping-event-of-the-year/"><u>1. Exclusive Deal Alert: Apple M2-Powered MacBook Air at a Steal - Just $749 During Amazon’s Biggest Shopping Event of the Year!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-journey-to-audio-excellence-mastering-ios-based-recording-techniques/"><u>2024 Approved Journey to Audio Excellence Mastering iOS-Based Recording Techniques</u></a></li>
-<li><a href="https://win-bits.techidaily.com/bildgenerierung-fur-computer-und-laptops-unter-windows-11-10-8-oder-7-tipps-and-tricks/"><u>Bildgenerierung Für Computer Und Laptops Unter Windows 11, 10, 8 Oder 7 - Tipps & Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/crafting-the-perfect-gaming-haven-essential-tips-and-secrets-from-zdnet/"><u>Crafting The Perfect Gaming Haven: Essential Tips and Secrets From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/epic-deals-alert-snag-the-hp-victus-15-gaming-laptop-for-just-515-exclusively-on-prime-day-at-best-buy-s-inside-look/"><u>Epic Deals Alert! Snag the HP Victus 15 Gaming Laptop for Just $515 - Exclusively on Prime Day at Best Buy 'S Inside Look</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-on-windows-10-by-drivereasy-guide/"><u>How to install hardware device drivers manually on Windows 10</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-share-videos-on-twitter-on-your-phone-without-retweeting-in-2024/"><u>How to Share Videos on Twitter on Your Phone Without Retweeting, In 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/mastering-unboxing-expert-tips-and-tricks/"><u>Mastering Unboxing Expert Tips and Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-the-hp-victus-15-gaming-laptop-for-just-450-during-best-buys-prime-day-anti-prime-deal-dont-miss-out-s-top-pick/"><u>Score the HP Victus 15 Gaming Laptop for Just $450 During Best Buy's Prime Day Anti-Prime Deal – Don’t Miss Out ’S Top Pick!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/shop-smart-this-black-friday-unbeatable-price-on-touchscreen-hp-envy-x360-now-just-499-zdnet-shop/"><u>Shop Smart This Black Friday: Unbeatable Price on Touchscreen HP Envy X360 - Now Just $499 | ZDNET Shop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tangle-troubles-no-more-the-revolutionary-usb-c-cord-that-transformed-my-backpack-adventures-zdnet-insights/"><u>Tangle Troubles No More: The Revolutionary USB-C Cord that Transformed My Backpack Adventures | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-october-prime-day-offer-get-metas-512gb-quest-3-for-a-steal-exclusive-details-on-enduring-virtual-reality-bargains-technews/"><u>Top October Prime Day Offer: Get Meta's 512GB Quest 3 for a Steal – Exclusive Details on Enduring Virtual Reality Bargains | TechNews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-portability-meets-power-discovering-the-worlds-compact-and-multifunctional-chromebook-insights-from-zdnet/"><u>Ultimate Portability Meets Power: Discovering The World's Compact and Multifunctional ChromeBook - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-amazon-prime-day-offers-in-october-2024-exclusive-deals-you-cant-miss-zdnet/"><u>Unbeatable Amazon Prime Day Offers in October 2024 – Exclusive Deals You Can't Miss! | ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-fix-getting-snapchat-installed-on-mac/"><u>[Updated] 2024 Approved Quick Fix Getting Snapchat Installed on Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-essential-apps-for-annotating-mobile-images/"><u>2024 Approved Essential Apps for Annotating Mobile Images</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-journey-through-lut-based-color-enhancement-methods/"><u>2024 Approved Journey Through LUT-Based Color Enhancement Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-secret-weapon-unveiling-the-strategy-behind-transfer-learning/"><u>AI's Secret Weapon: Unveiling the Strategy Behind Transfer Learning</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-using-an-in-car-charger-damage-your-iphone-unveiling-the-truth-with-rigorous-tests-zdnet/"><u>Can Using an In-Car Charger Damage Your iPhone? Unveiling the Truth with Rigorous Tests | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-believe-it-southwests-new-strategy-prompts-customers-to-try-something-funny-zdnet-insider/"><u>Can You Believe It? Southwest's New Strategy Prompts Customers to Try Something Funny | ZDNet Insider</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-trust-car-adapters-for-iphone-charging-unveiling-the-truth-after-thorough-tests-and-analysis-zdnet/"><u>Can You Trust Car Adapters for iPhone Charging? Unveiling the Truth After Thorough Tests and Analysis | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choose-teslas-future-supercharger-site-cast-your-vote-in-our-exclusive-twitter-poll-insights-from-zdnet/"><u>Choose Tesla's Future Supercharger Site: Cast Your Vote in Our Exclusive Twitter Poll - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-to-ride-in-style-and-comfort-score-a-high-performance-segway-max-g2-electric-scooter-for-just-400-less-this-memorial-day-experts-weigh-in/"><u>Discover How to Ride in Style and Comfort – Score a High-Performance Segway Max G2 Electric Scooter for Just $400 Less This Memorial Day! Experts Weigh In.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/does-using-a-car-charger-damage-your-iphone-find-out-as-we-put-over-30-devices-to-the-test-zdnet/"><u>Does Using a Car Charger Damage Your iPhone? Find Out as We Put Over 30 Devices to the Test (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dynamic-car-insurance-adjusted-to-your-driving-habits-find-out-how-it-works/"><u>Dynamic Car Insurance Adjusted to Your Driving Habits - Find Out How It Works!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-96-car-tech-upgrade-add-a-lane-departure-and-reverse-camera-without-breaking-the-bank-zdnets-guide/"><u>Easy $96 Car Tech Upgrade: Add a Lane Departure and Reverse Camera Without Breaking the Bank - ZDNET's Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/effortless-techniques-for-streamlined-ipad-video-recording-for-2024/"><u>Effortless Techniques for Streamlined iPad Video Recording for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevating-e-commerce-how-walmart-continues-to-expand-its-innovative-drone-delivery-service/"><u>Elevating E-Commerce: How Walmart Continues to Expand Its Innovative Drone Delivery Service</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-effective-ways-to-capture-and-save-snapchat-media-on-phone/"><u>In 2024, Effective Ways to Capture and Save Snapchat Media on Phone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-iphone-photography-mastery-of-macro-and-close-up-details/"><u>Perfecting iPhone Photography Mastery of Macro and Close-Up Details</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sustainable-food-choices/"><u>Sustainable Food Choices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-top-10-free-webm-video-editors-you-need-to-try/"><u>Updated The Ultimate List Top 10 Free WebM Video Editors You Need to Try</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-compatible-m2-ssd-guide/"><u>Win Compatible M.2 SSD Guide</u></a></li>
 </ul></div>
 

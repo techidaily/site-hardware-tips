@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Microsoft Surface Pro 8 Evaluation: Tailored for the Enterprise – Insights From ZDNet"
-date: 2024-11-21T18:02:01.536Z
-updated: 2024-11-27T18:18:03.227Z
+date: 2024-12-01T02:41:12.557Z
+updated: 2024-12-06T17:47:30.470Z
 tags:
   - laptops
 categories:
@@ -64,7 +64,7 @@ While Framework previously sold models with Windows 11 and BYOOS (bring your own
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How's the design?
@@ -78,7 +78,7 @@ Not a lot to complain about with the Framework laptop's look. Maybe a matte blac
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured reviews
@@ -105,10 +105,6 @@ June Wan/ZDNET
 Lastly, the 3:2, 2256x1504 display on the Framework Chromebook is color-vibrant, remarkably bright, and pixel sharp, which I was pleased to see given all the other aspects that were on my product checklist going into this particular review. The viewing angles on the glossy panel are surprisingly adequate, too. I'd compare the color reproduction on the Framework display to that of the [HP Elite Dragonfly](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elite-dragonfly-135-inch-chromebook-p-6k057ut-aba-1%3F), another Chromebook that I reviewed just a few months ago, and one that I praised very highly. The only thing that keeps the former a tier below is the lack of touchscreen support.
 
 **Review: [The HP Elite Dragonfly Chromebook has no business being this good](https://www.zdnet.com/article/hp-elite-dragonfly-chromebook-review/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Customizing the Framework
 
@@ -137,7 +133,7 @@ The company makes it easy to find the exact component that you need by labeling 
 **Also: [With Samsung's Self-Repair program, you can fix your broken screen at will](https://www.zdnet.com/article/samsung-launches-self-repair-program-so-you-can-fix-that-broken-screen-at-will/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it handle daily tasks?
@@ -159,7 +155,7 @@ A singular cooling fan is found inside. It's audible under strenuous workloads b
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery and charging
@@ -171,6 +167,10 @@ Framework bundles a modular (surprise, surprise) 60W charger in the box that use
 **Also: [This fast-charger is a USB and HDMI hub, too](https://www.zdnet.com/home-and-office/this-fast-charger-is-a-usb-and-hdmi-hub-too/)**
 
 [Buy the Framework Chromebook $963 at Frame](https://frame.work/products/laptop-chromebook-12-gen-intel/configuration/edit)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -216,16 +216,14 @@ With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/amazons-samsung-8tb-t5-nvme-ssd-steals-the-show-36-discount-post-prime-day-tech-insights/"><u>Amazon's Samsung 8TB T5 NVMe SSD Steals the Show: 36% Discount Post-Prime Day | Tech Insights</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/easy-guide-safely-restore-windows-10-while-preserving-your-files/"><u>Easy Guide: Safely Restore Windows 10 While Preserving Your Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-updating-your-intel-iris-plus-graphics-to-the-newest-version/"><u>Easy Installation Guide: Updating Your Intel Iris Plus Graphics to the Newest Version</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-6-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 6 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/leading-voice-assistants-and-smart-speaker-picks-for-the-year-2ebrity-2024/"><u>Leading Voice Assistants and Smart Speaker Picks for the Year 2Ebrity 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-power-of-personal-branding-in-making-money-on-snapchat-for-2024/"><u>The Power of Personal Branding in Making Money on Snapchat for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-savings-unbeatable-amazon-prime-day-sneak-peeks-find-your-perfect-products/"><u>Ultimate Savings: Unbeatable Amazon Prime Day Sneak Peeks - Find Your Perfect Products</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-apples-13-inch-macbook-air-m2-cheapest-ever-on-cyber-monday-zdnet-coverage/"><u>Unbeatable Bargain Alert: Apple's 13-Inch MacBook Air M2 - Cheapest Ever on Cyber Monday | ZDNET Coverage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-more-space-on-macos-a-comprehensive-guide-to-smart-storage-solutions/"><u>Unlocking More Space on macOS: A Comprehensive Guide to Smart Storage Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-long-lasting-power-and-eye-catching-design-in-a-13-laptop-an-experts-roundup-insights/"><u>Unveiling Long-Lasting Power and Eye-Catching Design in a 13 Laptop – An Expert's Roundup | Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-upgrades-in-samsungs-copilotplus-pc-how-artificial-intelligence-enhances-performance-zdnet/"><u>Unveiling the Latest Upgrades in Samsung's Copilot+ PC: How Artificial Intelligence Enhances Performance | ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-adventure-companion-a-garmin-ultra-30-analysis-for-2024/"><u>[New] The Ultimate Adventure Companion - A Garmin Ultra 30 Analysis for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nokia-c12-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nokia C12 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-is-here-magix-vpx-unveiled-and-tested/"><u>2024 Approved The Future Is Here Magix VPX Unveiled and Tested</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/combatting-auto-theft-trends-how-kia-and-hyundai-use-innovative-tech-against-viral-tiktok-hacks/"><u>Combatting Auto-Theft Trends: How Kia & Hyundai Use Innovative Tech Against Viral TikTok Hacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/counteracting-drone-interference-tackling-the-rise-of-gps-jammers-in-aerial-security-measures/"><u>Counteracting Drone Interference: Tackling the Rise of GPS Jammers in Aerial Security Measures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creative-12-gift-list-for-jetsetters-unique-finds-and-ideas-zdnet/"><u>Creative 12-Gift List for Jetsetters: Unique Finds and Ideas | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/critical-notice-for-air-travelers-pilots-at-american-airlines-issue-serious-cautionary-message-as-reported-by-zdnet/"><u>Critical Notice for Air Travelers: Pilots at American Airlines Issue Serious Cautionary Message, as Reported by ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/outro-essentials-made-simple-top-6-free-edition/"><u>Outro Essentials Made Simple, Top 6 Free Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-tech-determining-devices-birthdate/"><u>Windows Tech: Determining Device's Birthdate</u></a></li>
 </ul></div>
 

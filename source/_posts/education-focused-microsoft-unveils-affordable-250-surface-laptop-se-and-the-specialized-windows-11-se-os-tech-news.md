@@ -1,7 +1,7 @@
 ---
 title: Education-Focused Microsoft Unveils Affordable $250 Surface Laptop SE and the Specialized Windows 11 SE OS | Tech News
-date: 2024-09-17 23:53:50
-updated: 2024-09-20 10:18:59
+date: 2024-12-01T19:23:30.627Z
+updated: 2024-12-07T02:24:17.297Z
 tags:
   - pc
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/58db86d001cd80f0895e170c6743ef55f9
 The Crucial T705 PCIe Gen5 NVMe M.2 SSD features a monster heatsink.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -36,6 +40,10 @@ This means that storage is now a key component to consider when you're exploring
 Over the past couple of weeks I've been testing Crucial's new [T705 PCIe Gen5 NVMe M.2 SSD](https://www.crucial.com/ssd/t705/CT1000T705SSD3), which the company touts as the world's fastest SSD. And yes, it _is_ blazingly fast -- if you have the hardware to handle it.
 
 [ZDNET RECOMMENDS Crucial T705 PCIe Gen5 NVMe M.2 SSD The T705 is a follow-on to the T700, and brings the following improvements: 18% higher sequential reads, 8% higher sequential writes, 4% higher random reads, and 20% higher random writes. View at Crucial](https://www.crucial.com/ssd/t705/CT1000T705SSD3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Crucial T705 Gen5 SSD specifications and highlights
 
@@ -103,6 +111,10 @@ Another key difference between the T700 and the T705 is that this new drive is c
 
 The Crucial T705 is slated for global release on March 12, 2024\. Pricing begins at $240 for the 1TB bare drive version, with the cost rising to $730 for the 4TB model equipped with a heatsink. The special limited edition, featuring a white heatsink and available only in a 2TB capacity, will be priced at $484.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 There are two types of people who will be looking at the Crucial T705\. 
@@ -138,11 +150,29 @@ If speed is your top priority, this drive is the ultimate choice. It also offers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-envisioning-with-vr-technology/"><u>[Updated] In 2024, Envisioning with VR Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-blending-realms-a-guide-to-photomosaic-creation/"><u>2024 Approved Blending Realms A Guide to PhotoMosaic Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-unleashes-exceptional-oled-display-in-latest-laptop-a-top-contender-among-thousands-tested/"><u>Asus Unleashes Exceptional OLED Display in Latest Laptop - A Top Contender Among Thousands Tested</u></a></li>
+<li><a href="https://fox-links.techidaily.com/capture-times-essence-a-comprehensive-guide-to-making-slow-motion-video-from-still-images-online-for-2024/"><u>Capture Time's Essence A Comprehensive Guide to Making Slow-Motion Video From Still Images Online for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/deferring-windows-edge-tabs-on-windows-11/"><u>Deferring Windows Edge Tabs on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-why-samsungs-new-copilotplus-is-dominating-the-market-as-the-premier-windows-laptop-bargain-of-the-year-tech-insight-by-zdnet/"><u>Discover Why Samsung's New Copilot+ Is Dominating the Market as the Premier Windows Laptop Bargain of the Year | Tech Insight by ZDNet.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-eight-powerful-devices-for-prospective-filmora-alternatives/"><u>In 2024, Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-save-big-on-macbooks-for-costco-members-exclusive-discount-secrets-revealed-zdnet/"><u>Maximize Savings: Save Big on MacBooks for Costco Members - Exclusive Discount Secrets Revealed | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-your-experience-ultimate-guide-to-enhancing-apple-tv/"><u>Maximizing Your Experience: Ultimate Guide to Enhancing Apple TV</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/microsoft-surface-laptop-4-evaluation-a-top-tier-device-unveiled/"><u>Microsoft Surface Laptop 4 Evaluation: A Top-Tier Device Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-dell-non-lenovo-thinkpad-alternative-best-business-2-in-1-laptops-reviewed-and-ranked/"><u>Top Non-Dell, Non-Lenovo ThinkPad Alternative: Best Business 2-in-1 Laptops Reviewed and Ranked</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-prime-day-tech-bargains-exclusive-october-2024-shopping-guide/"><u>Top Prime Day Tech Bargains: Exclusive October 2024 Shopping Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-bargains-on-high-performance-laptops-this-fall-season-october-2-cuyote-exclusives/"><u>Ultimate Guide: Bargains on High-Performance Laptops This Fall Season (October 2 Cuyote) Exclusives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmatched-performance-meets-user-satisfaction-experts-rave-about-the-all-around-laptop-with-exceptional-hardware-zdnet-insights/"><u>Unmatched Performance Meets User Satisfaction: Experts Rave About the All-Around Laptop with Exceptional Hardware | ZDNET Insights</u></a></li>
+</ul></div>
+
