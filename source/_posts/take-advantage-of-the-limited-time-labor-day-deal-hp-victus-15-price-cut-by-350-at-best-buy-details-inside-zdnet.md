@@ -1,7 +1,7 @@
 ---
 title: "Take Advantage of the Limited-Time Labor Day Deal: HP Victus 15 Price Cut by $350 at Best Buy - Details Inside | ZDNET"
-date: 2024-09-17 15:23:34
-updated: 2024-09-20 12:43:59
+date: 2024-12-08T00:55:31.784Z
+updated: 2024-12-12T22:39:20.091Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,25 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-tech-savvy-tips-for-recording-video-calls/"><u>[New] 2024 Approved Tech-Savvy Tips for Recording Video Calls</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-meme-making-made-simple-without-cost-for-2024/"><u>[New] Meme-Making Made Simple, Without Cost for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-eliminating-unwanted-bloatware-from-your-windows-10-or-windows-11-pc/"><u>Complete Guide: Eliminating Unwanted Bloatware From Your Windows 10 or Windows 11 PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crystal-clear-capture-amping-up-your-home-studio-recordings-for-2024/"><u>Crystal Clear Capture Amping Up Your Home Studio Recordings for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nasas-next-endeavor-shattering-speed-boundaries-in-upcoming-space-exploration-insights-from-zdnet/"><u>NASA's Next Endeavor: Shattering Speed Boundaries in Upcoming Space Exploration - Insights From ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-iphone-how-safe-are-in-car-chargers-expert-reviews-and-findings-from-zdnets-comprehensive-tests/"><u>Protect Your iPhone: How Safe Are In-Car Chargers? Expert Reviews & Findings From ZDNet's Comprehensive Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-approach-how-southwest-airlines-seeks-improved-service-experience-according-to-zdnet/"><u>Revolutionary Approach: How Southwest Airlines Seeks Improved Service Experience, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-vehicle-safety-tesla-upgrades-car-sensor-technology-discover-what-it-means-for-consumers-techzine/"><u>Revolutionizing Vehicle Safety: Tesla Upgrades Car Sensor Technology - Discover What It Means for Consumers | TechZine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-money-save-the-planet-with-google-maps-new-eco-routing-more-routes-offer-fuel-savings-and-environmental-benefits-zdnet-insights/"><u>Save Money, Save the Planet with Google Maps' New 'Eco-Routing': More Routes Offer Fuel Savings & Environmental Benefits | ZDNET Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-into-the-realm-of-3d-graffiti-a-guide-to-10-exceptional-websites-for-2024/"><u>Step Into the Realm of 3D Graffiti A Guide to 10 Exceptional Websites for 2024</u></a></li>
+</ul></div>
+

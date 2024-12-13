@@ -1,7 +1,7 @@
 ---
 title: "Unleash Productivity: A Comprehensive Review of the Innovative 12-in-1 Docking Station Tailored for Windows - Plus a Battery Charging Twist! | CNET"
-date: 2024-12-02T22:29:25.330Z
-updated: 2024-12-06T19:40:01.954Z
+date: 2024-12-12T00:26:34.716Z
+updated: 2024-12-12T21:05:04.578Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72eddc09-80c8-4720-a635-4117a708ed92%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,20 +149,19 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-a-detailed-review-of-the-top-10-gopro-protectors/"><u>[Updated] A Detailed Review of the Top 10 GoPro Protectors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-exclusive-free-player-list-for-windowsmac-users/"><u>[Updated] In 2024, Exclusive Free Player List for Windows/Mac Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-setting-up-ai-agent-functionality-in-your-browser-using-agentgpt/"><u>Comprehensive Guide: Setting Up AI Agent Functionality in Your Browser Using AgentGPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-tiktok-content-with-our-choice-of-best-ring-lights-on-the-market-digital-trends/"><u>Elevate Your TikTok Content with Our Choice of Best Ring Lights on the Market | Digital Trends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-secure-your-blink-outdoor-surveillance-system-w-floodlights-for-80-before-labor-day-find-it-on-zdnet/"><u>Exclusive Deal Alert: Secure Your Blink Outdoor Surveillance System W/ Floodlights for $80 Before Labor Day | Find It on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-alert-rings-floodlight-cam-slashed-to-just-139-save-now-with-zdnet/"><u>Exclusive Offer Alert: Ring's Floodlight Cam Slashed to Just $139 - Save Now with ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-latest-updates-in-matter-13-comprehensive-support-for-new-devices-zdnet-insights/"><u>Explore The Latest Updates in Matter 1.3 - Comprehensive Support for New Devices | ZDNet Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-poco-x5-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Poco X5 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/immediate-resolution-for-persistent-issues-in-ghost-recon-breaking-point-crashes/"><u>Immediate Resolution for Persistent Issues in Ghost Recon: Breaking Point Crashes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-tips-for-saving-the-world-with-a-smile/"><u>In 2024, Quick Tips for Saving the World with a Smile</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-nanoleafs-revolutionary-eco-friendly-festive-lights-with-matter-certification-see-them-on-zdnet/"><u>Introducing Nanoleaf's Revolutionary Eco-Friendly Festive Lights with Matter Certification - See Them on ZDNET!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-lighting-solutions-optimized-for-video-streaming-proven-techniques-by-experts-featured-on-zdnet/"><u>Top Lighting Solutions Optimized for Video Streaming - Proven Techniques by Experts, Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-book-lighting-solutions-for-enhanced-reading-insights-by-zdnet/"><u>Top Recommended Book Lighting Solutions for Enhanced Reading - Insights by ZDNet</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>Updated 2024 Approved Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-10-best-youtube-music-reaction-videos-2023/"><u>[Updated] 2024 Approved 10 Best YouTube Music Reaction Videos 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ending-quicktime-capture-immediate-steps/"><u>[Updated] In 2024, Ending QuickTime Capture Immediate Steps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/chart-your-course-in-crypto-selecting-the-best-7-art-converters-for-2024/"><u>Chart Your Course in Crypto - Selecting the Best 7 Art Converters for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/discover-the-benefits-of-using-virtualization-for-streamlined-disaster-recovery-solutions/"><u>Discover the Benefits of Using Virtualization for Streamlined Disaster Recovery Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-cost-effective-gaming-laptops-in-depth-testing-results-from-authorities-in-tech-zdnet/"><u>Discover the Ultimate Guide to Cost-Effective Gaming Laptops: In-Depth Testing Results From Authorities in Tech | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ifa-2024-spotlight-my-immersive-experience-with-lenovos-game-changing-swivelling-laptop-insights-from-zdnet/"><u>IFA 2024 Spotlight: My Immersive Experience with Lenovo's Game-Changing Swivelling Laptop - Insights From ZDNET</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-annotating-emotions-through-trailer-tunes/"><u>In 2024, Annotating Emotions Through Trailer Tunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-choosing-the-best-mac-mkv-players-guide/"><u>In 2024, Choosing the Best Mac MKV Players Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-tips-for-mov-saving-on-windows-10/"><u>In 2024, Essential Tips for MOV Saving on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steep-discount-secure-your-asus-rog-strix-g115-for-just-600-less-hot-deal-alert/"><u>Score a Steep Discount: Secure Your Asus ROG Strix G1^15 for Just $600 Less | Hot Deal Alert</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-inverted-screen-problem-in-windows-10/"><u>Solving Inverted Screen Problem in Windows 10</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-to-repairing-bootmgr-issues-in-windows-11/"><u>Step-by-Step Guide to Repairing BOOTMGR Issues in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-metas-unbeatable-offer-the-512gb-oculus-quest-2023-sale-top-choice-for-virtual-reality-enthusiasts/"><u>Unveiling Meta's Unbeatable Offer: The 512GB Oculus Quest 2023 Sale - Top Choice for Virtual Reality Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-lenovo-thinkpad-x13s-a-high-end-arm-equipped-ultraportable-with-cutting-edge-5g-features-and-robust-battery-performance/"><u>Unveiling the Lenovo ThinkPad X13s: A High-End Arm-Equipped Ultraportable with Cutting-Edge 5G Features and Robust Battery Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cloud Gaming on Lenovo IdeaPad Gaming Chromebook: A Comprehensive Overview of Performance and Capabilities"
-date: 2024-12-02T00:32:00.582Z
-updated: 2024-12-06T21:01:13.141Z
+date: 2024-12-09T22:50:42.393Z
+updated: 2024-12-13T00:12:49.317Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -58,7 +58,7 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 | Dimensions and weight | 19.95mm (H) x 356.5mm (W) x 253mm (D) (0.79 x 14.03 x 9.96 inches) \| 4.01lbs                                              |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -94,7 +94,7 @@ Unusually, for a Lenovo device, I didn't love the keyboard. The individual keys 
 Of course, you'll eventually get used to this layout, but I'm not certain it was necessary to begin with. Very few gamers make use of a full numpad for anything short of custom real-time strategy layouts or unusual MMORPG control schemes. Even then, they'd likely be better served by something like the [SteelSeries Aerox 9 Wireless](https://www.zdnet.com/home-and-office/home-entertainment/steelseries-aerox-9-wireless-review/), or another MMO/MOBA mouse that does the same job as a numpad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance
@@ -120,7 +120,7 @@ As a last note, I should mention that the battery life of the IdeaPad Gaming Chr
 [Lenovo IdeaPad Gaming Chromebook $600 at Lenovo](https://lenovo.vzew.net/c/5597632/218864/3808?sharedId=zdnet&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-gaming-laptops%2Fideapad-5i-gaming-chromebook-gen-7-%2816-inch-intel%29%2F82v8000hux&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -136,7 +136,7 @@ This Chromebook and others like it are already more than capable enough to handl
 Thankfully, progress is constantly being made. In the short few weeks between the Acer review and this one, Xbox Cloud Gaming has seen noticeable performance enhancements. But then again, it also continues to stop me dead when trying to play some games. I believe cloud gaming really will fulfill its potential...eventually. If you want an excellent way of joining in what will surely be a wild ride on the way there, Lenovo's take on a gaming Chromebook is one of the best options available. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -187,16 +187,24 @@ Would you rather dabble in cloud gaming, but maintain the ability to locally ins
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-expert-strategies-for-engaging-live-audiences-on-facebook/"><u>[New] In 2024, Expert Strategies for Engaging Live Audiences on Facebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-royale-royalty-leading-gaming-showdowns-for-2024/"><u>[New] Royale Royalty Leading Gaming Showdowns for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-architects-of-online-marvel-adventures/"><u>2024 Approved Architects of Online Marvel Adventures</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-online-spots-4-skype-ringtones/"><u>Essential Online Spots 4 Skype Ringtones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-gentle-volume-declines-using-logic-pro/"><u>In 2024, Crafting Gentle Volume Declines Using Logic Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-gen-neon-evolution-with-ge-cync-a-deep-dive-into-smart-lighting-solutions-by-zdnet/"><u>Next-Gen Neon Evolution with GE Cync: A Deep Dive Into Smart Lighting Solutions by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-a-blink-security-system-with-4-cameras-and-lighting-at-a-steal-for-just-80-in-honor-of-labor-day-insights-from-zdnet/"><u>Snag a Blink Security System with 4 Cameras and Lighting at a Steal for Just $80 in Honor of Labor Day | Insights From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-troubleshooting-for-dbghelpdll-errors-not-found/"><u>Step-by-Step Troubleshooting for 'dbghelp.dll' Errors Not Found</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-sunrise-simulators-in-2er-the-ultimate-guide-for-waking-up-naturally/"><u>Top-Rated Sunrise Simulators in 2Er: The Ultimate Guide for Waking Up Naturally!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-office-ambiance-with-a-premier-amazon-deal-for-ideal-fish-tank-lighting/"><u>Transform Office Ambiance with a Premier Amazon Deal for Ideal Fish Tank Lighting</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-culinary-space-how-smart-under-cabinet-lights-enhance-aesthetics-with-a-unique-twist-zdnet/"><u>Upgrade Your Culinary Space: How Smart Under-Cabinet Lights Enhance Aesthetics with a Unique Twist | ZDNET</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>[New] 2024 Approved The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-cutting-edge-desktops-for-modern-workspaces/"><u>[New] Cutting-Edge Desktops for Modern Workspaces</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-noticing-lack-of-friend-requests/"><u>[New] In 2024, Noticing Lack of Friend Requests</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-reigniting-creativity-a-comprehensive-look-at-windows-10-for-editors/"><u>[New] Reigniting Creativity A Comprehensive Look at Windows 10 for Editors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-yesteryears-visions-with-reverse-scans-in-social-media-world-facebook/"><u>[Updated] In 2024, Unlocking Yesteryear's Visions with Reverse Scans in Social Media World (Facebook)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-workplace-data-safekeepers/"><u>[Updated] Leading Workplace Data Safekeepers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/college-life-made-easier-with-the-ultimate-2-in-1-laptop-work-and-play-unified-by-tech-expert-at-zdnet/"><u>College Life Made Easier with the Ultimate 2-in-1 Laptop | Work and Play Unified by Tech Expert at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-hps-spectacular-new-spectre-x360-top-picks-for-laptops-a-deep-dive-into-its-features/"><u>Discovering HP's Spectacular New Spectre X360: Top Picks for Laptops - A Deep Dive Into Its Features</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effortless-guide-converting-videos-for-your-apple-devices-ipad-iphone-and-ipod/"><u>Effortless Guide: Converting Videos for Your Apple Devices (iPad, iPhone & iPod)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-chatgpts-impact-on-personal-data-safety/"><u>Evaluating ChatGPT's Impact on Personal Data Safety</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-lightweight-power-with-acer-swift-edges-revolutionary-4k-oled-display-in-depth-review/"><u>Experience Lightweight Power with Acer Swift Edge's Revolutionary 4K OLED Display | In-Depth Review</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-check-tiktok-video-copyright-before-uploading-in-2024/"><u>How to Check Tiktok Video Copyright Before Uploading, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-on-asus-vivobook-pro-save-300-shopping-at-amazon-exclusive-deal/"><u>Huge Discount on Asus VivoBook Pro: Save $300 Shopping at Amazon - Exclusive Deal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-surface-pro-9-showdown-the-ultimate-challenge-against-macbooks-awaited-by-windows-enthusiasts-insights/"><u>Microsoft Surface Pro 9 Showdown: The Ultimate Challenge Against MacBooks Awaited by Windows Enthusiasts - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-a-steal-on-tech-how-you-can-get-your-hands-on-an-affordable-macbook-air-m1-for-under-800-during-the-special-october-prime-day-sale-zdnet-coverage/"><u>Snag a Steal on Tech: How You Can Get Your Hands on an Affordable MacBook Air M1 for Under $800 During the Special October Prime Day Sale (ZDNet Coverage)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-deal-of-the-year-exceptional-screen-on-todays-discounted-ultra-light-laptops/"><u>Snag the Deal of the Year: Exceptional Screen on Today's Discounted Ultra-Light Laptops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-mac-computers-a-comprehensive-guide-by-zdnet/"><u>Top-Ranked Mac Computers : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transferring-your-nook-library-a-comprehensive-guide-to-accessing-ebooks-on-amazon-kindle/"><u>Transferring Your Nook Library: A Comprehensive Guide to Accessing eBooks on Amazon Kindle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-hidden-gems-of-dells-affordable-powerhouse-a-deep-dive-into-a-lesser-known-gem/"><u>Unveiling the Hidden Gems of Dell's Affordable Powerhouse - A Deep Dive Into a Lesser-Known Gem</u></a></li>
 </ul></div>
 

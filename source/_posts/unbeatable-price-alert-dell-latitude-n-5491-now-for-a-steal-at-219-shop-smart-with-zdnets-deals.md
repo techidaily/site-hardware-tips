@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!"
-date: 2024-12-02T17:52:38.820Z
-updated: 2024-12-06T22:01:12.777Z
+date: 2024-12-07T04:36:35.987Z
+updated: 2024-12-13T00:46:08.408Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,17 +87,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-top-picks-scrutinizing-active-and-leading-recorders-feats/"><u>[New] Top Picks Scrutinizing Active and Leading Recorder's Feats</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-campaigns-selecting-the-best-7-total-war-victories-for-2024/"><u>[Updated] Ultimate Campaigns Selecting the Best 7 Total War Victories for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-thorough-examination-of-hero5-video-content/"><u>2024 Approved A Thorough Examination of Hero5 Video Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ai-powered-robot-the-new-assistant-replacing-canes-and-guide-dogs-for-those-with-visual-challenges-featured-on-zdnet/"><u>AI-Powered Robot: The New Assistant Replacing Canes & Guide Dogs for Those with Visual Challenges - Featured on ZDNet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/crimson-update-kit/"><u>Crimson Update Kit</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-smart-8-hd-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Smart 8 HD Phones? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-xcover-7-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy XCover 7 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-construct-your-dreams-with-dynamic-time-lapses-on-a-hero5/"><u>In 2024, Construct Your Dreams with Dynamic Time-Lapses on a Hero5</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/reclaiming-one-headphone-harmony/"><u>Reclaiming One-Headphone Harmony</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsungs-ballie-a-reliable-companion-revealed-at-ces-insights-from-zdnet/"><u>Samsung's Ballie: A Reliable Companion Revealed at CES - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-all-rounder-cleanser-evaluation-discover-the-exceptional-capabilities-of-roborocks-2-in-1-vacuum-on-zdnet/"><u>The All-Rounder Cleanser Evaluation: Discover the Exceptional Capabilities of Roborock's 2-in-1 Vacuum on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-review-of-sharks-latest-innovation-the-hands-free-cleaning-masterpiece-featured-on-zdnet/"><u>Ultimate Review of Shark’s Latest Innovation: The Hands-Free Cleaning Masterpiece - Featured on ZDNet!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-guide-to-youtubes-latest-income-strategies/"><u>[Updated] 2024 Approved Guide to YouTube's Latest Income Strategies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhancing-your-syma-x8c-experience/"><u>2024 Approved Enhancing Your Syma X8C Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-editing-workflow-elite-picks-for-video-production-laptops-cnet-tests-and-verdicts/"><u>Ace Your Editing Workflow: Elite Picks for Video Production Laptops – CNET Tests and Verdicts</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/best-5-hevc-video-players-for-streaming-4k-content-on-your-computer-or-mac/"><u>Best 5 HEVC Video Players for Streaming 4K Content on Your Computer or Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrate-memorial-day-with-incredible-savings-get-your-hands-on-the-durable-playful-lenovo-laptop-at-an-unbeatable-price-exclusive-tips-by-zdnet/"><u>Celebrate Memorial Day with Incredible Savings: Get Your Hands on the Durable, Playful Lenovo Laptop at an Unbeatable Price | Exclusive Tips by ZDNET</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-long-term-youtube-success-with-creative-commons-mainteninas/"><u>Ensuring Long-Term YouTube Success with Creative Commons Mainteninas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-money-saving-offers-before-prime-day-2024-insights/"><u>Essential Money-Saving Offers Before Prime Day 2024: Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-x-fold-2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo X Fold 2 Without Password | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-how-much-will-it-cost-to-shoot-a-music-video/"><u>In 2024, How Much Will It Cost To Shoot A Music Video</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-chromeos-upgrade-introduces-windows-11-features-into-your-chromebook-what-you-need-to-know-zdnet/"><u>Latest ChromeOS Upgrade Introduces Windows 11 Features Into Your Chromebook: What You Need to Know (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-high-quality-15-inch-asus-notebook-with-all-the-essential-ports-now-available-from-walmart-for-an-unbeatable-price-of-250-zdnet-coverage/"><u>Score a High-Quality 15-Inch Asus Notebook with All the Essential Ports - Now Available From Walmart for an Unbeatable Price of $250 | ZDNet Coverage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surface-devices-gain-advanced-copilotplus-features-catered-to-business-users-discover-the-latest-enhancements-zdnet/"><u>Surface Devices Gain Advanced Copilot+ Features Catered to Business Users - Discover the Latest Enhancements | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-quintessential-list-of-11-empowering-films-to-transform-your-perspective/"><u>The Quintessential List of 11 Empowering Films to Transform Your Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-gaming-notebooks-reviewed-and-compared-featuring-razer-acer-msi-and-others-insights/"><u>Top Gaming Notebooks Reviewed & Compared: Featuring Razer, Acer, MSI & Others - Insights</u></a></li>
 </ul></div>
 

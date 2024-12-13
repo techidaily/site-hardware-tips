@@ -1,7 +1,7 @@
 ---
 title: "Apple's WWDC 2023 Highlights: Discover the Revolutionary Features of the New Mac Pro, Mac Studio and Power-Packed M2 Ultra Exclusive"
-date: 2024-12-04T18:27:44.979Z
-updated: 2024-12-06T18:06:49.060Z
+date: 2024-12-06T02:17:10.182Z
+updated: 2024-12-12T22:09:05.444Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,22 +142,24 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-instantaneous-google-collage-a-speedy-diy-method/"><u>[New] In 2024, Instantaneous Google Collage A Speedy DIY Method</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-beyond-the-surface-what-you-dont-know-about-stories/"><u>[Updated] Beyond the Surface What You Don't Know About Stories</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-linkedin-luminaries-chatting-with-snapchat/"><u>2024 Approved LinkedIn Luminaries Chatting with Snapchat</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-high-end-weave-collection-in-favor-of-partnering-with-beats-for-new-case-series/"><u>Apple Discontinues High-End Weave Collection in Favor of Partnering with Beats for New Case Series</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-quick-guide-bypassing-edgenuity-courses-seamlessly/"><u>In 2024, Quick Guide Bypassing Edgenuity Courses Seamlessly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oppo-reno-10-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Oppo Reno 10 Pro 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-best-free-streaming-options-on-roku/"><u>Top 8 Best Free Streaming Options on Roku</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-value-gear-affordable-cameras-for-dynamic-sports/"><u>Top Value Gear Affordable Cameras for Dynamic Sports</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-tablet-reviews-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Tablet Reviews - Comprehensive Analysis by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-samsung-tablet-deal-uncovered-non-flagship-model-at-steep-discount-this-labor-day-insights-from-zdnet/"><u>Top-Rated Affordable Samsung Tablet Deal Uncovered: Non-Flagship Model at Steep Discount This Labor Day - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-ipad-models-comprehensive-testing-and-reviews-by-pros-zdnet/"><u>Top-Rated iPad Models - Comprehensive Testing & Reviews by Pros | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-miniature-tablets-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Miniature Tablets - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-tablets-thorough-reviews-by-tech-experts-zdnet/"><u>Top-Rated Tablets : Thorough Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tier-audio-experience-exploring-the-best-non-bosenon-sonos-speakers-that-defy-expectations/"><u>Top-Tier Audio Experience: Exploring the Best Non-Bose/Non-Sonos Speakers That Defy Expectations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transitioning-from-traditional-to-digital-my-remarkable-experience-with-a-colored-e-ink-tablet-over-two-weeks/"><u>Transitioning From Traditional to Digital: My Remarkable Experience with a Colored E-Ink Tablet Over Two Weeks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-student-tablets-in-depth-testing-and-comparisons-from-industry-insiders-zdnet/"><u>Ultimate Guide to Student Tablets: In-Depth Testing & Comparisons From Industry Insiders | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleashing-intelligence-at-home-how-home-assistant-elevates-smart-living/"><u>Unleashing Intelligence at Home: How Home Assistant Elevates Smart Living</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-disrupt-unbidden-youtube-content-feeds/"><u>[New] 2024 Approved Disrupt Unbidden YouTube Content Feeds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-innovative-picture-mosaic-concepts-illuminate-your-world/"><u>[New] 2024 Approved Innovative Picture Mosaic Concepts Illuminate Your World</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-language-free-top-8-srt-translation-websites-for-2024/"><u>[New] Mastering Language Free, Top 8 SRT Translation Websites for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hat-lies-behind-the-unlisted-tag-on-youtube-in-2024/"><u>[New] What Lies Behind the 'Unlisted' Tag on YouTube, In 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apples-iphone-12-pro-max-reviewed-does-a-bigger-screen-enhance-your-experience/"><u>Apple's iPhone 12 Pro Max Reviewed: Does a Bigger Screen Enhance Your Experience?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cost-effective-filmmaking-how-these-compact-mini-ssds-outshine-pricey-memory-cards-insights-from-zdnet/"><u>Cost-Effective Filmmaking: How These Compact Mini SSDs Outshine Pricey Memory Cards - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/declutter-and-disinfect-the-surprising-benefits-of-refreshing-your-5-year-old-keyboard/"><u>Declutter and Disinfect: The Surprising Benefits of Refreshing Your 5-Year-Old Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-overcoming-the-driverpowerstatefailure-problem/"><u>Effective Remedies for Overcoming the DRIVER_POWER_STATE_FAILURE Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elite-dangerous-stability-fixes-handling-sudden-shutdowns-on-pc/"><u>Elite Dangerous Stability Fixes: Handling Sudden Shutdowns on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eufy-homevac-vacuum-up-for-grabs-just-49-on-amazon-plus-extra-10-off-with-prime-coupon-tips-from-zdnet/"><u>Eufy HomeVac Vacuum Up for Grabs – Just $49 on Amazon, Plus Extra $10 Off with Prime Coupon | Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultimate-efficiency-with-the-new-lightest-lg-gram-model-hits-shelves-latest-innovations/"><u>Experience Ultimate Efficiency with the New Lightest LG Gram Model Hits Shelves - Latest Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-reveals-superior-alternatives-to-yeti-and-rode-for-podcasters-mics-zdnet-insights/"><u>Expert Review Reveals Superior Alternatives to Yeti & Rode for Podcasters' Mics | ZDNet Insights</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-easily-save-online-content-on-your-mac-unlimited-conversions-and-free-downloads-in-multiple-formats-mp4-mov-avi/"><u>How To Easily Save Online Content on Your Mac - Unlimited Conversions and Free Downloads in Multiple Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-video-conferencing-a-guide-to-zipping-up-zoom-and-gmail-integration-for-2024/"><u>Leveraging Video Conferencing A Guide to Zipping Up Zoom and Gmail Integration for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-latest-super-sleek-lg-gram-the-lightest-and-leanest-laptop-ever-by-techexpert-at-zdnet/"><u>Meet the Latest Super Sleek LG Gram: The Lightest & Leanest Laptop Ever by TechExpert at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/metapopulations-consist-of-separated-populations-that-interact-through-migration/"><u>Metapopulations Consist of Separated Populations that Interact Through Migration.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/non-gaming-enthusiast-scoops-up-unbelievable-deal-32-curved-screen-for-just-230-aztechreview-breakdown/"><u>Non-Gaming Enthusiast Scoops Up Unbelievable Deal: 32 Curved Screen for Just $230 – AZTechReview Breakdown</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-pickups-for-novice-gopro-owners/"><u>Prime Pickups for Novice GoPro Owners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-innocn-27c1u-4k-monitor-stunning-display-quality-and-fast-setup-tech-analysis-on-zdnet/"><u>Review of Innocn 27C1U 4K Monitor: Stunning Display Quality & Fast Setup | Tech Analysis on ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Did Buying an M2 MacBook Air Make Me Cry? Insights & Reviews at ZDNet
-date: 2024-12-06T00:04:34.349Z
-updated: 2024-12-06T19:10:36.734Z
+date: 2024-12-12T02:26:14.891Z
+updated: 2024-12-13T01:54:22.318Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,20 +132,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-s24plus-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy S24+ Phone When You Forget the Password</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/celebrating-innovation-in-email-automation-2011s-top-honoree-atomic-mail-sender-by-massmail-software-unveiled/"><u>Celebrating Innovation in Email Automation: 2011'S Top Honoree, Atomic Mail Sender by Massmail Software Unveiled!</u></a></li>
-<li><a href="https://windows11.techidaily.com/exclusive-guide-to-forgotten-windows-11-themes/"><u>Exclusive Guide to Forgotten Windows 11 Themes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-open-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Open lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-t2-pro-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo T2 Pro 5G Phone that is Locked?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-ideal-5k-tactile-gaming-sets-8/"><u>In 2024, Ideal 5K Tactile Gaming Sets (#8)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-13-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 13 Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/qr-code-your-way-through-the-border-a-new-no-passport-entry-method-revealed-zdnet/"><u>QR Code Your Way Through the Border: A New No-Passport Entry Method Revealed | ZDnet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ready-for-takeoff-revolutionary-airborne-cars-hit-the-market-secure-your-model-with-a-preorder/"><u>Ready for Takeoff: Revolutionary Airborne Cars Hit the Market – Secure Your Model with a Preorder!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-travel-with-tesla-and-zoom-future-of-car-connectivity-unveiled/"><u>Revolutionize Travel with Tesla and Zoom - Future of Car Connectivity Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-vehicle-maintenance-using-our-cutting-edge-bluetooth-diagnostic-gadget/"><u>Revolutionize Your Vehicle Maintenance Using Our Cutting-Edge Bluetooth Diagnostic Gadget</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-high-quality-e-bikes-find-options-below-900-now/"><u>Save Big on High-Quality E-Bikes: Find Options Below $900 - Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-spooky-snapshot-hero-snag-evo-nanoplus-drones-for-halloween-with-savings-of-190-off-exclusive-offer-by-zdnet/"><u>Secure Your Spooky Snapshot Hero: Snag EVO NANO+ Drones for Halloween with Savings of $190 Off | Exclusive Offer by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-vacation-expenses-with-incredible-deals-on-accommodations-vehicle-rentals-and-entertainment-tickets-discover-how-zdnets-travelers-club-unlocks-co227/"><u>Slash Your Vacation Expenses with Incredible Deals on Accommodations, Vehicle Rentals & Entertainment Tickets: Discover How ZDNET's Travelers Club Unlocks Cost-Effective Wanderlust Dreams!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-your-potential-with-our-picks-for-the-best-8-learner-friendly-apps-of-2024/"><u>Unlock Your Potential with Our Picks for the Best 8 Learner-Friendly Apps of 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-precision-in-production-5-advanced-methods-for-trimming-on-vimeo-platform/"><u>[New] 2024 Approved Precision in Production 5 Advanced Methods for Trimming on Vimeo Platform</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-combining-images-with-flair-your-ultimate-guide-to-instagram-stories/"><u>[New] In 2024, Combining Images with Flair Your Ultimate Guide to Instagram Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-of-the-best-top-12-tycoon-games-for-epic-victories/"><u>[Updated] 2024 Approved Best of the Best Top 12 Tycoon Games for Epic Victories</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-harness-the-potential-of-obs-studio-by-mastering-lut-application-techniques/"><u>[Updated] 2024 Approved Harness the Potential of OBS Studio by Mastering LUT Application Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-hiring-heroes-the-most-motivating-vids-of-the-year-1-10/"><u>[Updated] 2024 Approved Hiring Heroes The Most Motivating Vids of the Year #1-10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipating-microsoft-build-events-schedule-and-live-streaming-guide-a-tech-enthusiasts-overview/"><u>Anticipating Microsoft Build: Events Schedule & Live Streaming Guide – A Tech Enthusiast's Overview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/arm-vs-intel-for-your-next-surface-pro-purchase-insights-from-an-in-depth-zdnet-analysis/"><u>ARM Vs. Intel for Your Next Surface Pro Purchase - Insights From an In-Depth ZDNet Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chromebook-screen-clip-techniques-unveiled-your-step-by-step-handbook-to-perfect-pics-on-chrome-devices/"><u>Chromebook Screen Clip Techniques Unveiled! Your Step-by-Step Handbook to Perfect Pics on Chrome Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-nvidia-opengl-issue-in-windows-11/"><u>Comprehensive Guide to Fixing NVIDIA OpenGL Issue in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-hp-laserjet-5200-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download the HP LaserJet 5200 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-new-features-of-the-2022-nacon-revolution-x-pro-controller-an-in-depth-zdnet-review/"><u>Exploring the New Features of the 2022 Nacon Revolution X Pro Controller: An In-Depth ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/free-windows-11-upgrade-ended-what-you-need-to-know-now-zdnet-insights/"><u>Free Windows 11 Upgrade Ended: What You Need to Know Now - ZDNet Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-x100-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo X100 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-your-pc-eligible-for-future-windows-11-updates-understanding-microsofts-new-policy-analysis-by-zdnet/"><u>Is Your PC Eligible for Future Windows 11 Updates? Understanding Microsoft's New Policy | Analysis by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-keys-best-offers/"><u>Mastering Windows 11 Keys: Best Offers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/purchase-the-latest-ar-laptop-featuring-a-stunning-100-inch-screen-eliminating-the-need-for-separate-monitors/"><u>Purchase the Latest AR Laptop Featuring a Stunning 100-Inch Screen, Eliminating the Need for Separate Monitors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-s24-ultra-first-impressions/"><u>Samsung Galaxy S24 Ultra First Impressions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-potential-with-linux-mint-212-the-ultimate-choice-in-reliable-and-advanced-linux-systems/"><u>Unleash Potential with Linux Mint 21.2 - The Ultimate Choice in Reliable and Advanced Linux Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-review-unleashing-power-in-a-compact-form-with-morefires-s5n-plus-mini-pc-1tb-storage-and-turbo-graphics/"><u>ZDNet Review: Unleashing Power in a Compact Form with Morefire's S5n Plus Mini PC, 1TB Storage & Turbo Graphics!</u></a></li>
 </ul></div>
 

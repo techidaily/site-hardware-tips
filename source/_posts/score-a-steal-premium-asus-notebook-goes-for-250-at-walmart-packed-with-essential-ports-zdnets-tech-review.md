@@ -1,7 +1,7 @@
 ---
 title: "Score a Steal: Premium ASUS Notebook Goes for $250 at Walmart, Packed with Essential Ports | ZDNet's Tech Review"
-date: 2024-12-05T19:20:38.896Z
-updated: 2024-12-06T21:44:42.749Z
+date: 2024-12-08T23:54:54.158Z
+updated: 2024-12-12T20:02:45.406Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,20 +87,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-going-from-end-to-start-the-instagram-video-technique/"><u>[New] Going From End to Start The Instagram Video Technique</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-elevate-every-moment-mastering-snapchat-photo-edits/"><u>[New] In 2024, Elevate Every Moment Mastering Snapchat Photo Edits</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-8-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 8 to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-makeup-trends-to-try-now/"><u>In 2024, Makeup Trends to Try Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rethink-kids-tech-with-our-advanced-tablet-exceptional-performance-meets-limited-time-sale-discover-now-on-zdnet/"><u>Rethink Kids' Tech with Our Advanced Tablet: Exceptional Performance Meets Limited Time Sale - Discover Now on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reviewing-the-ultimate-sturdy-windows-tablet-for-creative-professionals-with-built-in-pen-support-cnet/"><u>Reviewing the Ultimate Sturdy Windows Tablet for Creative Professionals with Built-In Pen Support | CNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsungs-hidden-gem-a-top-tier-affordable-tablet-for-labor-day-specials-zdnets-inside-look/"><u>Samsung’s Hidden Gem: A Top-Tier, Affordable Tablet for Labor Day Specials - ZDNet's Inside Look</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/scoring-a-bargain-snag-your-own-amazon-fire-tablet-at-just-50-after-labor-day-insider-details-on-the-incredible-trade-in-offer/"><u>Scoring a Bargain: Snag Your Own Amazon Fire Tablet at Just $50 After Labor Day - Insider Details on the Incredible Trade-In Offer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-childs-next-big-toy-grab-the-amazon-kids-fire-tablet-at-just-90-in-our-exclusive-offer/"><u>Secure Your Child's Next Big Toy: Grab the Amazon Kids Fire Tablet at Just $90 in Our Exclusive Offer!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-ultimate-bargain-ipads-on-sale-for-only-199-this-amazon-labor-day-event/"><u>Snag the Ultimate Bargain: IPads on Sale for Only $199 This Amazon Labor Day Event</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-your-new-ipad-at-a-steal-only-199-at-the-exclusive-amazon-labor-day-event-insights-from-zdnet/"><u>Snag Your New iPad at a Steal: Only $199 at the Exclusive Amazon Labor Day Event - Insights From ZDNet!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/symptomatic-vs-asymptomatic/"><u>Symptomatic vs Asymptomatic</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722683417521-top-ranking-evaluation-of-microsoft-surface-laptop-4-exceptional-quality/"><u>Top Ranking Evaluation of Microsoft Surface Laptop 4 - Exceptional Quality</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/transformar-tu-particion-mbr-al-formato-mas-moderno-gpt-con-windows-11-guia-sencilla/"><u>Transformar Tu Partición MBR Al Formato Más Moderno GPT Con Windows 11 - Guía Sencilla</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-start-menu-issues-discover-quick-solutions/"><u>Windows 11 Start Menu Issues? Discover Quick Solutions!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-sony-s6700-revised-whats-new/"><u>[New] 2024 Approved Sony S6700 Revised - What's New?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-pictorial-mosaic-construction-with-digital-photography/"><u>[New] Pictorial Mosaic Construction with Digital Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-6-essential-tips-to-create-instas-most-attractive-unboxings/"><u>[Updated] 6 Essential Tips to Create Insta's Most Attractive Unboxings</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apples-new-27-inch-imac-with-m3-chip-fails-to-impress-hardcore-enthusiasts-is-bigger-always-better/"><u>Apple’s New 27-Inch iMac with M3 Chip Fails to Impress Hardcore Enthusiasts - Is Bigger Always Better?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-install-latest-driver-for-your-intel-centrino-advanced-n-6235-wifi-card/"><u>Easy Steps to Install Latest Driver for Your Intel Centrino Advanced-N 6235 WiFi Card</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-podcasting-game-with-the-focusrite-scarlet-2i2-a-top-audio-interface-reviewed-on-zdnet/"><u>Enhance Your Podcasting Game with the Focusrite Scarlet 2I2: A Top Audio Interface Reviewed on ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-bing-chat-how-to-utilize-ai-and-gpt-n-technology-for-enhanced-conversations/"><u>Exploring Bing Chat: How to Utilize AI and GPT-N Technology for Enhanced Conversations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/game-changer-in-comfort-secretlabs-titan-evo-softweave-plus-xl-gaming-chair-exclusive-review/"><u>Game Changer in Comfort: SecretLab's TITAN Evo Softweave Plus XL Gaming Chair - Exclusive Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-c210-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia C210 Phone that is Locked?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-unveils-new-printing-plan-could-this-be-the-solution-to-stop-disliking-your-printer-discover-more-on-zdnet/"><u>HP Unveils New Printing Plan: Could This Be the Solution to Stop Disliking Your Printer? Discover More on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-x-chair-a-tech-editors-expert-review/"><u>In-Depth Analysis of the X-Chair: A Tech Editor's Expert Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/perfectly-sized-input-solutions-explore-the-best-fit-keyboards-for-raspberry-pi-and-connected-tvs-according-to-zdnet/"><u>Perfectly Sized Input Solutions: Explore the Best Fit Keyboards for Raspberry Pi and Connected TVs, According to ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-strategies-to-avoid-ear-damage-from-headphone-use-insights-from-zdnet/"><u>Top Strategies to Avoid Ear Damage From Headphone Use: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-get-the-anker-er-757-for-half-price-at-just-600-off-zdnet/"><u>Unbeatable Deal Alert: Get the Anker Er 757 for HALF PRICE at Just $600 Off | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-potential-of-your-new-m1-mac-how-to-install-fedora-linux-on-all-but-one-model-expert-guide-gizmodo/"><u>Unlock the Potential of Your New M1 Mac: How to Install Fedora Linux on All But One Model - Expert Guide | Gizmodo</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-motion-monitoring-made-easy-best-apps-for-android-and-ios/"><u>Updated In 2024, Motion Monitoring Made Easy Best Apps for Android and iOS</u></a></li>
 </ul></div>
 

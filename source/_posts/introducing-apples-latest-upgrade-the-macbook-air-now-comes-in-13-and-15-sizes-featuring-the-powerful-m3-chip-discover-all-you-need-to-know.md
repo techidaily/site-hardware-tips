@@ -1,7 +1,7 @@
 ---
 title: "Introducing Apple's Latest Upgrade: The MacBook Air Now Comes in 13 & 15 Sizes Featuring the Powerful M3 Chip - Discover All You Need to Know"
-date: 2024-12-01T20:32:30.964Z
-updated: 2024-12-06T19:20:08.058Z
+date: 2024-12-05T16:39:51.679Z
+updated: 2024-12-12T18:17:33.871Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-laughs-in-a-click-building-hilarious-memes/"><u>[New] In 2024, Laughs in a Click Building Hilarious Memes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sonic-shadows-the-art-of-sound-and-image-blending/"><u>2024 Approved Sonic Shadows The Art of Sound and Image Blending</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-seamless-shift-to-workspace-with-windows-1011/"><u>A Seamless Shift to Workspace with Windows 10/11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/astounding-deal-alert-snag-the-rtx-4080-gpu-at-a-jaw-dropping-discount-of-270-this-black-friday-exclusive-on-zdnet/"><u>Astounding Deal Alert: Snag the RTX 4080 GPU at a Jaw-Dropping Discount of $270 This Black Friday - Exclusive on ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-horizon-of-ubuntu-preview-of-ubuntu-2310-and-its-vision-for-linux/"><u>Discovering the Horizon of Ubuntu: Preview of Ubuntu 23.10 and Its Vision for Linux</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/end-of-the-road-say-goodbye-to-complimentary-windows-11-transfers-tech-insights/"><u>End of the Road: Say Goodbye to Complimentary Windows 11 Transfers | Tech Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-links-for-high-quality-pixel-ringtones/"><u>Essential Links for High-Quality Pixel Ringtones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-microsoft-recall-fears-why-this-isnt-a-privacy-catastrophe-insights-and-facts/"><u>Evaluating Microsoft Recall Fears: Why This Isn't a Privacy Catastrophe - Insights and Facts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-frontier-from-crashing-on-your-computer-a-step-by-step-solution/"><u>How to Stop 'Frontier' From Crashing on Your Computer – A Step-by-Step Solution</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-save-350-on-the-hp-victus-15-laptop-exclusive-deal-from-best-buy-this-labor-day/"><u>Limited Time Offer: Save $350 on the HP Victus 15 Laptop - Exclusive Deal From Best Buy This Labor Day</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-redefines-tech-landscape-with-revolutionary-approach-to-cloud-services-and-advertising-platforms/"><u>Microsoft Redefines Tech Landscape with Revolutionary Approach to Cloud Services and Advertising Platforms</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/sketch-masters-on-ipados-top-8-artistic-apps-for-2024/"><u>Sketch Masters on iPadOS Top 8 Artistic Apps for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-method-to-personalize-iphone-ringtones-for-2024/"><u>Step-By-Step Method to Personalize iPhone Ringtones for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlined-existence-with-these-9-ai-life-hacks/"><u>Streamlined Existence with These 9 AI Life Hacks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-powerful-instagram-hashtags-in-year/"><u>The Ultimate Guide to Powerful Instagram Hashtags in [Year]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-the-power-of-recall-in-windows-find-lost-files-using-ai-but-note-device-specific-functionality-only-zdnet-insights/"><u>Unlock the Power of Recall in Windows: Find Lost Files Using AI, but Note: Device-Specific Functionality Only | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-hidden-power-saving-enhancements-a-comprehensive-guide-to-google-chromes-new-battery-life-and-memory-features/"><u>Unveiling Hidden Power Saving Enhancements: A Comprehensive Guide to Google Chrome's New Battery Life & Memory Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/winning-over-incompatibility-real-stories-of-upgrading-legacy-systems-to-run-windows-11-insights-from-zdnet/"><u>Winning Over Incompatibility: Real Stories of Upgrading Legacy Systems to Run Windows 11 | Insights From ZDNET</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-guide-optimal-sub-to-srt-conversion-with-top-8-tools-for-2024/"><u>[Updated] Ultimate Guide Optimal Sub to Srt Conversion with Top 8 Tools for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-reverse-rotation-riddle-on-social-media-platforms/"><u>2024 Approved The Reverse Rotation Riddle on Social Media Platforms</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/gratis-converting-pcx-naar-jpg-professioneel-online-tool-via-movavi/"><u>Gratis Converting PCX Naar JPG: Professioneel Online-Tool via Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immediate-purchase-options-for-apples-new-releases-post-wwdc-discover-locations-and-preorder-steps-zdnet/"><u>Immediate Purchase Options for Apple's New Releases Post-WWDC - Discover Locations & Preorder Steps | ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-performance-a-detailed-tutorial-on-installing-more-ram-in-your-laptop-by-experts-at-zdnet/"><u>Maximize Performance: A Detailed Tutorial on Installing More RAM in Your Laptop by Experts at ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pro-streamers-compendium-essential-livestream-software-and-hardware-for-success-for-2024/"><u>Pro Streamer's Compendium Essential Livestream Software and Hardware for Success for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-deal-on-the-hp-victus-15-gaming-laptop-for-an-unbeatable-price-of-450-limited-time-offer-at-best-buy-prime-day-insights/"><u>Secure Your Deal on the HP Victus 15 Gaming Laptop for an Unbeatable Price of $450 - Limited Time Offer at Best Buy Prime Day | Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/struggling-with-your-macbooks-energy-efficiency-boost-performance-and-extend-life-of-your-charge/"><u>Struggling with Your MacBook's Energy Efficiency? Boost Performance & Extend Life of Your Charge</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tips-to-quicken-instagram-content-engagement/"><u>Tips to Quicken Instagram Content Engagement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-48-unmissable-gaming-discounts-on-cyber-monday-save-big-on-consoles-computers-and-more-technews/"><u>Top 48 Unmissable Gaming Discounts on Cyber Monday - Save Big on Consoles, Computers & More | TechNews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-non-mac-non-lenovo-laptop-for-students-save-200-expert-review/"><u>Top-Performing Non-Mac, Non-Lenovo Laptop for Students: Save $200 - Expert Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workflow-the-essential-lenovo-laptop-traits-that-amazed-us-zdnet/"><u>Transform Your Workflow: The Essential Lenovo Laptop Traits That Amazed Us [ZDNet]</u></a></li>
 </ul></div>
 

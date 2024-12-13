@@ -1,7 +1,7 @@
 ---
 title: "Revamped Dell XPS Series: Elevating Portability Meets Cutting-Edge Artificer Intelligence, Retaining Timeless Design | ZDNet"
-date: 2024-11-30T23:59:43.140Z
-updated: 2024-12-07T00:38:08.303Z
+date: 2024-12-11T19:18:58.045Z
+updated: 2024-12-13T03:52:16.617Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,24 +85,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/outubes-monetization-a-deep-dive-for-2024/"><u>[New] YouTube's Monetization A Deep Dive for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unveil-your-world-in-wide-angle-iosandroid-photo-integration-on-social-media/"><u>[Updated] 2024 Approved Unveil Your World in Wide Angle IOS/Android Photo Integration on Social Media</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-guide-to-mastering-zoom-in-windows-10/"><u>2024 Approved The Ultimate Guide to Mastering Zoom in Windows 10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-about-sony-2024-announcements-cutting-edge-news-and-inside-scoop-uncovered/"><u>All About Sony 2024: Announcements, Cutting-Edge News & Inside Scoop Uncovered</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-discover-the-ultimate-audio-experience-with-the-top-rated-speakers/"><u>Beyond Bose & Sonos: Discover the Ultimate Audio Experience with the Top-Rated Speakers!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-discovering-the-ultimate-speaker-system-for-a-transcendent-sound-journey-expert-insights-from-zdnet/"><u>Beyond Bose & Sonos: Discovering the Ultimate Speaker System for a Transcendent Sound Journey | Expert Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-the-ultimate-immersive-audio-experience-you-need-to-hear/"><u>Beyond Bose and Sonos: The Ultimate Immersive Audio Experience You Need to Hear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/breach-exposed-over-15000-roku-accounts-vulnerable-immediate-action-advised-by-zdnet/"><u>Breach Exposed! Over 15,000 Roku Accounts Vulnerable | Immediate Action Advised by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-streaming-essentials-a-comprehensive-review-of-the-logitec-litra-beam-key-lights-pcmag/"><u>Budget-Friendly Streaming Essentials: A Comprehensive Review of the Logitec Litra Beam Key Lights | PCMag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-why-this-samsung-projector-outshines-traditional-consoles-in-gaming-insights-by-zdnet/"><u>Discover Why This Samsung Projector Outshines Traditional Consoles in Gaming - Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-superior-qled-technology-outside-the-samsung-and-lg-domains-a-comprehensive-review/"><u>Discovering Superior QLED Technology Outside the Samsung and LG Domains - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-listening-experience-how-this-non-bosenon-polk-speaker-set-is-revolutionizing-sound-quality/"><u>Elevate Your Listening Experience: How This Non-Bose/Non-Polk Speaker Set Is Revolutionizing Sound Quality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-images-leaked-discover-google-tv-streamer-a-revolutionary-step-up-from-the-classic-chromecast-digital-gadgets-buzz/"><u>Exclusive Images Leaked: Discover Google TV Streamer - A Revolutionary Step Up From the Classic Chromecast | Digital Gadgets Buzz</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-enable-end-task-option-in-windows-11-settings/"><u>Guide to Enable End Task Option in Windows 11 Settings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-itel-a60-by-fonelab-android-recover-video/"><u>How to recover old videos from your Itel A60</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-seamless-stories-from-the-past-accessing-older-fb-content-on-pcmobile/"><u>In 2024, Seamless Stories From The Past Accessing Older FB Content on PC/Mobile</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-simplified-mac-solution-audioplusscreen-capture/"><u>In 2024, Simplified Mac Solution Audio+Screen Capture</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-for-transforming-fragments-into-lasting-memories-for-2024/"><u>The Ultimate Guide for Transforming Fragments Into Lasting Memories for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfect-your-content-with-vimeo-on-instagram/"><u>[New] Perfect Your Content with Vimeo on Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-complete-guide-to-upgrading-mp4-with-premium-srt-sound-for-2024/"><u>[Updated] The Complete Guide to Upgrading MP4 With Premium SRT Sound for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-orchestrate-an-engaging-statement-with-tunes/"><u>2024 Approved Orchestrate an Engaging Statement with Tunes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-v30-lite-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo V30 Lite 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-live-streaming-apps-manycam-top-virtual-camera-solution/"><u>Best Live Streaming Apps: ManyCam - Top Virtual Camera Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bulk-up-your-storage-with-a-steep-discount-get-the-8tb-samsung-t5-at-amazon-for-36-less-after-prime-day/"><u>Bulk Up Your Storage with a Steep Discount: Get the 8TB Samsung T5 at Amazon for 36% Less After Prime Day</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-dialogue-w-chatgpt-today/"><u>Dive Into Dialogue W/ ChatGPT Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-access-to-the-revolutionary-lenovo-yoga-book-e9i-a-breakthrough-in-laptop-design-explored-by-experts-at-znet/"><u>Early Access to the Revolutionary Lenovo Yoga Book E9i: A Breakthrough in Laptop Design, Explored by Experts at Znet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-scoop-on-elite-laptops-professional-insights-and-assessments/"><u>Exclusive Scoop on Elite Laptops : Professional Insights and Assessments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-14-pro-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 14 Pro from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impacts-of-external-factors-such-as-climate-change-land-management-practices-and-agrochemical-use-on-soil-microbes/"><u>Impacts of External Factors Such as Climate Change, Land Management Practices, and Agrochemical Use on Soil Microbes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-ideapad-duet-(80-discount-get-chromebook-savings-exclusive/"><u>Lenovo IdeaPad Duet <$80 Discount - Get Chromebook Savings Exclusive!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/macx-pro-top-rated-mkv-to-mp4-converter-advanced-features-and-free-download/"><u>MacX Pro: Top-Rated MKV to MP4 Converter - Advanced Features and Free Download</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-prime-day-offers-metas-exclusive-51/"><u>October Prime Day Offers: Meta's Exclusive 51</u></a></li>
+<li><a href="https://fox-http.techidaily.com/prime-animation-options-for-text-graphics-for-2024/"><u>Prime Animation Options for Text Graphics for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-stuttering-and-lag-issues-in-the-pc-version-of-black-myth-wukong-game/"><u>Resolve Stuttering and Lag Issues in the PC Version of Black Myth Wukong Game</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-16-unbeatable-holiday-sales-on-hp-products-exclusive-pick-by-zdnet/"><u>Top 16 Unbeatable Holiday Sales on HP Products - Exclusive Pick by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-you-should-choose-this-affordable-alternative-to-macbook-air-instead-top-rated-windows-laptop-now-on-sale/"><u>Why You Should Choose This Affordable Alternative to MacBook Air Instead: Top-Rated Windows Laptop Now On Sale</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-spotlight-find-your-next-laptop-deal-at-walmart-only-250-for-a-new-asus-15-incher-with-all-essential-ports-included/"><u>ZDNet Spotlight: Find Your Next Laptop Deal at Walmart! Only $250 for a New Asus 15-Incher with All Essential Ports Included</u></a></li>
 </ul></div>
 

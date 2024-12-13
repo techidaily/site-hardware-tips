@@ -1,7 +1,7 @@
 ---
 title: HP Victus 15 - Top-Notch Gamer Laptop for Under $500 During Best Buy Anti-Prime Event!
-date: 2024-12-02T18:23:09.052Z
-updated: 2024-12-07T01:50:01.006Z
+date: 2024-12-11T21:51:31.571Z
+updated: 2024-12-13T02:00:30.464Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 GPU and a screen capable of a 144Hz refre
 With 8GB of RAM, a 512GB SSD, and a 12th-gen Intel Core i5 processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,24 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/best-picture-repository-platforms-for-2024/"><u>Best Picture Repository Platforms for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/crafting-compelling-online-livestreams-from-a-single-source-for-2024/"><u>Crafting Compelling Online Livestreams From a Single Source for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-power-of-intova-x-for-2024/"><u>Exploring The Power of Intova X for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-7-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 7</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-15-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 15 Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-virality-vortex-mastering-content-circulation-on-social-media/"><u>In 2024, The Virality Vortex Mastering Content Circulation on Social Media</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-understanding-control-over-sound-attenuation-within-audacity/"><u>In 2024, Understanding Control Over Sound Attenuation Within Audacity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovating-green-pioneering-tech-strategies-for-a-sustainable-future-zdnet/"><u>Innovating Green: Pioneering Tech Strategies for a Sustainable Future | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-green-giant-of-telecom-how-the-galaxy-s23-takes-sustainability-to-new-heights-zdnet-insider/"><u>Introducing the Green Giant of Telecom: How the Galaxy S23 Takes Sustainability to New Heights | ZDNet Insider</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-e-bike-innovation-potent-enough-to-dethrone-traditional-cars-uncovering-a-startling-truth-zdnet/"><u>Is the E-Bike Innovation Potent Enough to Dethrone Traditional Cars? Uncovering a Startling Truth | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-portable-photovoltaic-charge-stations-the-ultimate-guide-techradar-comparison/"><u>Leading Portable Photovoltaic Charge Stations: The Ultimate Guide - TechRadar Comparison</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-gardening-top-resources-and-advice-by-zdnet/"><u>Master the Art of Gardening: Top Resources & Advice by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-tech-demands-with-the-zendure-superbase-pro-200-cu-ft-complete-hands-on-evaluation-by-zdnet-experts/"><u>Master Your Tech Demands with the Zendure SuperBase Pro 200 Cu. Ft., Complete Hands-On Evaluation by ZDNet Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/memorial-day-exclusive-save-400-on-the-powerful-segway-max-2-electric-scooter-shop-now/"><u>Memorial Day Exclusive: Save $400 on the Powerful Segway MAX 2 Electric Scooter - Shop Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/modular-android-devices-durability-triumph-over-flagship-iphones-and-pixel-phones-a-closer-look/"><u>Modular Android Devices: Durability Triumph Over Flagship iPhones & Pixel Phones - A Closer Look</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-repair-rights-for-electronics-importance-and-insights-for-consumers-cyberguardian/"><u>Navigating Repair Rights for Electronics: Importance & Insights for Consumers | CyberGuardian</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/protect-your-privacy-identifying-whether-someone-is-using-an-airtag-for-surveillance/"><u>Protect Your Privacy: Identifying Whether Someone Is Using an AirTag for Surveillance</u></a></li>
-<li><a href="https://discover-help.techidaily.com/ultimate-tutorial-for-sharing-your-dvds-vob-and-videots-content-on-youtube/"><u>Ultimate Tutorial for Sharing Your DVD's VOB & Video_TS Content on YouTube</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/undo-disaster-rebooting-deleted-phone-shots/"><u>Undo Disaster: Rebooting Deleted Phone Shots</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-4-effective-methods-for-slide-embedding-from-youtube/"><u>[New] In 2024, 4 Effective Methods for Slide Embedding From YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-step-into-stardom-building-starry-eyed-tiktok-dances-on-macos-for-2024/"><u>[New] Step Into Stardom Building Starry-Eyed TikTok Dances on MacOS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pristine-20-uncopyrighted-pubg-visual-sequences/"><u>2024 Approved Pristine 20 Uncopyrighted PUBG Visual Sequences</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-quality-monitors-showdown-best-4k-edition-ranked-1-10/"><u>2024 Approved Quality Monitors Showdown Best 4K Edition, Ranked #1-10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-premier-wide-display-monitors-reviewed-and-ranked-on-zdnet/"><u>2024'S Premier Wide-Display Monitors Reviewed and Ranked on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-perfect-keyboard-how-key-switches-impact-health-and-work-efficiency-techsavvy/"><u>Choosing the Perfect Keyboard: How Key Switches Impact Health & Work Efficiency | TechSavvy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-ergonomic-mouse-picks-for-2ebeck23-2024-by-zdnet-your-ultimate-guide/"><u>Discover the Leading Ergonomic Mouse Picks for 2Ebeck23 2024 by ZDNET: Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-non-apple-keyboards-compatible-with-your-mac-expert-picks/"><u>Discover the Top Non-Apple Keyboards Compatible with Your Mac: Expert Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-performing-levoit-air-purifiers-with-exclusive-post-prime-day-savings-insider-review/"><u>Discover Top-Performing Levoit Air Purifiers With Exclusive Post-Prime Day Savings – Insider Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-samsungs-latest-innovations-a-detailed-review-of-the-neo-qled-and-oled-models-for-2n23-unlocking-features-and-purchase-info/"><u>Exploring Samsung's Latest Innovations: A Detailed Review of the Neo QLED & OLED Models for 2N23 - Unlocking Features & Purchase Info</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/finding-the-ultimate-productivity-companion-does-logitechs-mx-master-ebyte-excel-in-business-settings-zdnet-reviews/"><u>Finding the Ultimate Productivity Companion: Does Logitech's MX Master Ebyte Excel in Business Settings - ZDNET Reviews</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-oppo-k11-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Oppo K11 5G?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ranking-the-ideal-alternative-keyboards-for-mac-users-a-comprehensive-guide-by-tech-experts/"><u>Ranking the Ideal Alternative Keyboards for Mac Users - A Comprehensive Guide by Tech Experts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-guide-for-earning-from-every-youtube-short-for-2024/"><u>Step-by-Step Guide for Earning From Every YouTube Short for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-pc-functions-mtk-usb-for-windows/"><u>Streamline PC Functions - MTK USB for Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-culinary-combat-of-overcooked-2-reviewed-a-flavorful-adventure/"><u>The Culinary Combat of Overcooked! 2 Reviewed: A Flavorful Adventure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-value-the-near-perfect-17-headlamp-reviewed-on-zdnet/"><u>Ultimate Value: The Near-Perfect $17 Headlamp Reviewed on ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-most-prominent-large-scale-linguistic-ai-models/"><u>Unveiling the Most Prominent Large Scale Linguistic AI Models</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-your-creativity-top-10-free-and-paid-android-video-editing-apps/"><u>Updated 2024 Approved Unleash Your Creativity Top 10 Free and Paid Android Video Editing Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "President’s Day Savings Alert: Snag a Discounted New MacBook Pro Featuring M3 Pro Chip for $200 Less | TechDeals on ZDNET"
-date: 2024-11-25T16:10:22.194Z
-updated: 2024-11-27T16:29:33.755Z
+date: 2024-12-09T19:28:42.817Z
+updated: 2024-12-13T04:35:34.905Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7fd7aa2-fd5b-4e0f-99f9-015031e8f201%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7fd7aa2-fd5b-4e0f-99f9-015031e8f201%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,16 +77,21 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flip-page-film-narrative-guide/"><u>[New] Flip Page Film Narrative Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-viewership-victors-the-worlds-top-10-video-content-makers-for-2024/"><u>[Updated] Viewership Victors The World's Top 10 Video Content Makers for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-and-eye-catching-discover-why-this-budget-laptop-boasts-an-impressive-display-quality/"><u>Affordable & Eye-Catching: Discover Why This Budget Laptop Boasts an Impressive Display Quality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-roundup-choosing-the-finest-chromebooks-for-business-use-a-comparative-analysis/"><u>Expert Roundup: Choosing the Finest Chromebooks for Business Use - A Comparative Analysis</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/fast-track-turning-zip-into-professional-quality-srt-files-for-2024/"><u>Fast Track Turning ZIP Into Professional-Quality Srt Files for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-battlefield-comprehensive-solutions-for-modern-warfare-3-mw3-not-functioning-properly/"><u>Master the Battlefield: Comprehensive Solutions for 'Modern Warfare 3' (MW3) Not Functioning Properly</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/scent-of-jake-paul-in-online-video-fame-for-2024/"><u>The Ascent of Jake Paul in Online Video Fame for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-meizu-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Meizu Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-3-pc-manufacturers-revolutionize-gaming-on-chromebooks-insights/"><u>Top 3 PC Manufacturers Revolutionize Gaming on Chromebooks - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-hp-victus-15-laptop-price-slashed-to-530-by-best-buy-exclusive/"><u>Unbeatable Deal Alert: HP Victus 15 Laptop Price Slashed to $530 by Best Buy Exclusive!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-this-asus-laptop-beats-the-macbook-features-and-performance-youll-love/"><u>Why This Asus Laptop Beats the MacBook: Features and Performance You'll Love</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-piecing-together-a-unique-tiktok-outro-elements-for-2024/"><u>[New] Piecing Together A Unique TikTok Outro Elements for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-join-the-fortune-changing-club-free-50-banners-await-for-2024/"><u>[Updated] Join The Fortune-Changing Club Free 50 Banners Await for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-to-no-cost-and-risk-free-vlc-player-download-for-macos/"><u>[Updated] Navigating to No-Cost & Risk-Free VLC Player Download for macOS</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comment-exporter-automatiquement-un-fichier-excel-vers-un-nouveau-repertoire/"><u>Comment Exporter Automatiquement Un Fichier Excel Vers Un Nouveau Répertoire</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-nacon-revolution-x-professional-gaming-controller-2022-zdnet-evaluation/"><u>Expert Analysis: Nacon Revolution X Professional Gaming Controller - 2022 ZDNet Evaluation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15l-desktop-laptop-now-at-an-unbelievable-price-of-520-over-38-discounted-dont-miss-out/"><u>HP Victus 15L Desktop Laptop Now at an Unbelievable Price of $520: Over 38% Discounted! Don't Miss Out!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-2-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Lava Yuva 2 Phone Without Password?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp42023/"><u>MP4ビデオコーデック基準に合ったレベル詳細とプロファイルの適用方法2023年度版</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/paving-a-path-to-prominence-instagrams-power-brokers-in-your-sphere-for-2024/"><u>Paving a Path to Prominence Instagram's Power Brokers in Your Sphere for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-newest-gaming-marvel-the-odyssey-neo-hits-1300-on-amazon-and-beyond/"><u>Samsung's Newest Gaming Marvel: The Odyssey Neo Hits $1,300 on Amazon & Beyond!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-5g-notebooks-expert-reviews-from-zdnet/"><u>Top 5 Premium 5G Notebooks : Expert Reviews From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ubuntu-2304-lobster-moon-launched-by-canonical-a-comprehensive-guide-to-the-latest-linux-os-for-work-and-entertainment-insights-from-zdnet/"><u>Ubuntu 23.04 'Lobster Moon' Launched by Canonical: A Comprehensive Guide to the Latest Linux OS for Work and Entertainment | Insights From ZDNET</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-how-musicians-get-paid-on-facebook-now/"><u>Understanding How Musicians Get Paid on Facebook Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-immediate-savings-purchase-high-performance-msi-gaming-notebooks-at-500-discounted-price-today-only/"><u>Unlock Immediate Savings: Purchase High-Performance MSI Gaming Notebooks at $500 Discounted Price - Today Only!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-get-an-incredible-gaming-rig-with-the-newly-discounted-hp-victus-15l-at-just-520-offers-today/"><u>Unmissable Deal Alert: Get an Incredible Gaming Rig with the Newly-Discounted HP Victus 15L at Just $520 Offers Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-didnt-your-imessages-get-sent-yesterday-uncovering-the-reason-with-help/"><u>Why Didn't Your iMessages Get Sent Yesterday? Uncovering the Reason with Help</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reliable Power Bank That's Lasted Decades – Get It for Less Than Half Price Today with ZDNET Exclusive Deal!
-date: 2024-12-06T00:43:37.831Z
-updated: 2024-12-06T23:55:12.362Z
+date: 2024-12-10T00:59:35.861Z
+updated: 2024-12-12T22:45:54.496Z
 tags:
   - laptops
 categories:
@@ -44,7 +44,7 @@ AI-powered laptops are the future, and right now, manufacturers are putting thei
 Most people don't need top-of-the-line AI integration just yet. The reality is that day-to-day workflows for most people are still reliant on powerful, reliable laptops that can tackle whatever you throw at it, and the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3CDZLTB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf29cede6-eeee-4096-89ad-3712e08c3e11%7Cdtp&dtb=1) is a machine that fulfills exactly that need, while being light as air. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,21 +81,14 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-bidfarewelltomycam-the-quest-for-improved-options-for-2024/"><u>[New] BidFarewellToMyCam The Quest for Improved Options for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elevate-your-reddit-presence-with-these-essentials/"><u>[Updated] Elevate Your Reddit Presence with These Essentials</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-direct-link-between-twitter-and-tumblr-videos/"><u>[Updated] In 2024, Direct Link Between Twitter and Tumblr Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-complete-obs-playback-handbook-for-2024/"><u>[Updated] The Complete OBS Playback Handbook for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-unleash-the-full-potential-of-youtube-videos-with-srt-download-tutorial/"><u>2024 Approved Unleash the Full Potential of YouTube Videos With SRT Download Tutorial</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-duel-of-viewers-google-cardboard-vs-samsung-vr/"><u>In 2024, A Duel of Viewers Google Cardboard Vs. Samsung VR</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/speeding-matters-an-inquiry-into-the-decreased-velocity-of-chatgpt-nternals-4-compared-to-version-35/"><u>Speeding Matters: An Inquiry Into the Decreased Velocity of ChatGPT-Nternals 4 Compared to Version 3.5</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-best-3d-animation-apps-for-android-and-ios-devices/"><u>The Ultimate List Best 3D Animation Apps for Android and iOS Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unconventional-journey-my-experience-with-the-polestar-2-on-a-test-drive-zdnet/"><u>Unconventional Journey: My Experience with the Polestar 2 on a Test Drive | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-teslas-latest-sensor-enhancement-key-reasons-explained-by-zdnet/"><u>Understanding Tesla's Latest Sensor Enhancement – Key Reasons Explained by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-ubers-package-return-feature-with-major-shipping-services-an-in-depth-guide-for-google-searchers/"><u>Understanding Uber's Package Return Feature with Major Shipping Services: An In-Depth Guide for Google Searchers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unrestricted-aerial-innovation-how-a-pioneering-drone-venture-achieved-comprehensive-faa-endorsement-according-to-zdnet/"><u>Unrestricted Aerial Innovation: How a Pioneering Drone Venture Achieved Comprehensive FAA Endorsement, According to ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-teslas-latest-sensor-upgrade-matters-insights-from-zdnet/"><u>Why Tesla's Latest Sensor Upgrade Matters: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-new-qol-improvements-for-android-auto-now-supports-bluetooth-audio-devices/"><u>ZDNet Exclusive: New QOL Improvements for Android Auto Now Supports Bluetooth Audio Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-review-how-this-innovative-bluetooth-adapter-solves-check-engine-warning-issues/"><u>ZDNET Review: How This Innovative Bluetooth Adapter Solves Check Engine Warning Issues</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-effective-captioning-techniques-for-video-files-in-windows-photos/"><u>[New] 2024 Approved Effective Captioning Techniques for Video Files in Windows Photos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-landscape-of-augmented-reality-stickers-spotlight-on-google/"><u>[Updated] 2024 Approved The Landscape of Augmented Reality Stickers Spotlight on Google</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-your-dream-gaming-station-the-ultimate-guide-insights-from-zdnet/"><u>Building Your Dream Gaming Station: The Ultimate Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-downloading-and-updating-hp-officejet-pro-6968-drivers/"><u>Complete Guide to Downloading & Updating HP OfficeJet Pro 6968 Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-unzipping-rar-archives-on-your-mac-computer/"><u>Easy Steps to Unzipping RAR Archives on Your Mac Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-securely-wipe-personal-data-from-your-windows-laptop-a-step-by-step-guide-free-method-zdnet/"><u>How to Securely Wipe Personal Data From Your Windows Laptop - A Step-by-Step Guide (Free Method) | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalize-your-emails-with-unique-sounds-in-gmail-step-by-step-guide/"><u>Personalize Your Emails with Unique Sounds in Gmail – Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reflecting-on-sixteen-years-mary-jo-foleys-journey-reporting-on-microsoft-at-zdnet/"><u>Reflecting on Sixteen Years: Mary Jo Foley's Journey Reporting on Microsoft at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-miniature-laptop-expansion-unit-turns-it-into-an-all-in-one-workstation-zdnet/"><u>Ultimate Miniature Laptop Expansion Unit Turns It Into an All-in-One Workstation | ZDNet</u></a></li>
 </ul></div>
 

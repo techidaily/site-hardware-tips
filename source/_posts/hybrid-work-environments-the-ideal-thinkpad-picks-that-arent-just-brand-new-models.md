@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models
-date: 2024-12-03T19:46:47.970Z
-updated: 2024-12-06T18:32:47.352Z
+date: 2024-12-09T20:44:07.925Z
+updated: 2024-12-12T17:04:00.360Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,19 +112,22 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-mobile-video-capture/"><u>[New] In 2024, The Ultimate Guide to Mobile Video Capture</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-breaking-down-instagrams-timeframe-per-video/"><u>2024 Approved Breaking Down Instagram's Timeframe Per-Video</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-13-mini-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 13 mini to Samsung | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazing-2023-holiday-savings-neweggs-ultimate-deal-roundup-for-festive-shopping-spree-zdnet-insights/"><u>Amazing 2023 Holiday Savings: Newegg's Ultimate Deal Roundup for Festive Shopping Spree | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/canon-usa-faces-lawsuit-over-print-devices-that-dont-use-ink-or-scanning-features-tech-news/"><u>Canon USA Faces Lawsuit Over Print Devices That Don't Use Ink or Scanning Features - Tech News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862837146-elevate-your-pc-experience-with-a-budget-friendly-acer-nitro-gaming-display-27-screen-170hz/"><u>Elevate Your PC Experience with a Budget-Friendly Acer Nitro Gaming Display – 27 Screen, 170Hz.</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-70-lite-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Honor 70 Lite 5G FRP</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hewlett-packard-launches-revolutionary-portable-all-in-one-pc-surprising-revelations-from-hp-tech-news-by-zdnet/"><u>Hewlett-Packard Launches Revolutionary Portable All-In-One PC: Surprising Revelations From HP | Tech News by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-stratasys-latest-carbon-fiber-development-could-revolutionize-industry-usage-insights-from-zdnet/"><u>How Stratasys' Latest Carbon Fiber Development Could Revolutionize Industry Usage - Insights From ZDNet</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-xiaomi-civi-3-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Xiaomi Civi 3 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-end-of-an-era-epson-discontinues-laser-printing-line-details-by-zdnet/"><u>The End of an Era: Epson Discontinues Laser Printing Line - Details by ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-6s-plus-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 6s Plus Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-color-correction-for-youtube-beauty/"><u>Video Color Correction for YouTube Beauty</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-guide-to-make-your-shorts-thumbnail-pop-up/"><u>[New] 2024 Approved Guide to Make Your Shorts' Thumbnail Pop Up</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>[Updated] In 2024, Unveiling Mastery The Ultimate Animoji Guide for iPhone X</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-obs-configuration-for-budget-pcs-for-2024/"><u>[Updated] Optimal OBS Configuration for Budget PCs for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-outro-designs-ending-credits-for-every-budget-for-2024/"><u>[Updated] Outro Designs Ending Credits for Every Budget for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazing-display-low-price-uncover-the-secrets-of-our-top-pick-for-best-value-lightweight-laptops-zdnet/"><u>Amazing Display, Low Price: Uncover the Secrets of Our Top Pick for Best Value Lightweight Laptops | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-samsung-8tb-t5-nvme-ssd-steals-the-show-36-discount-post-prime-day-tech-insights-by-zdnet/"><u>Amazon's Samsung 8TB T5 NVMe SSD Steals the Show: 36% Discount Post-Prime Day | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/approaches-to-compress-media-files-effectively-without-loss-of-quality/"><u>Approaches to Compress Media Files Effectively Without Loss of Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-current-meta-vr-bargain-unbeatable-price-on-the-512gb-quest-3-insider-tips/"><u>Best Current Meta VR Bargain: Unbeatable Price on the 512GB Quest 3 - Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-selected-leading-security-devices-for-202e-comprehensive-analysis-by-zdnet/"><u>Expertly Selected Leading Security Devices for 202E: Comprehensive Analysis by ZDNet</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-key-elements-that-drive-fluctuations-in-cryptocurrency-markets-a-guide-by-yl-technologies/"><u>Exploring Key Elements that Drive Fluctuations in Cryptocurrency Markets – A Guide by YL Technologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-expand-connectivity-ultimate-guide-to-adding-more-ports-on-your-macbook-and-ipad-pro/"><u>How to Expand Connectivity: Ultimate Guide to Adding More Ports on Your MacBook and iPad Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-troubleshoot-non-stop-cpu-fans-insights-and-tips-pros/"><u>How to Troubleshoot Non-Stop CPU Fans? Insights and Tips Pros</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-premier-macos-sierra-tools-for-video-changeovers/"><u>In 2024, Premier macOS Sierra Tools for Video Changeovers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-sailing-with-left-4-dead-2-fix-the-game-crash-problems-once-and-for-all/"><u>Smooth Sailing with Left 4 Dead 2 - Fix the Game Crash Problems Once and For All</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-at-rocking-prices-during-octobers-prime-shopping-month-insights-from-zdnet/"><u>Top-Rated Laptops at Rocking Prices During October's Prime Shopping Month - Insights From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tips-for-fast-and-efficient-avchd-to-avi-video-transformation/"><u>Ultimate Tips for Fast and Efficient AVCHD to AVI Video Transformation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-charm-of-dell-xps-13-aesthetics-meet-performance-ranked-2-in-our-review/"><u>Unveiling the Charm of Dell XPS 13: Aesthetics Meet Performance - Ranked #2 in Our Review</u></a></li>
 </ul></div>
 

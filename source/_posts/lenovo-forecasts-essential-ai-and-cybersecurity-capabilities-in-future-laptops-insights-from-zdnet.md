@@ -1,7 +1,7 @@
 ---
 title: Lenovo Forecasts Essential AI and Cybersecurity Capabilities in Future Laptops - Insights From ZDNet
-date: 2024-11-30T16:45:30.174Z
-updated: 2024-12-06T16:56:11.070Z
+date: 2024-12-07T19:32:01.987Z
+updated: 2024-12-13T04:16:22.333Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,18 +77,21 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-elite-text-enhancement-tools-and-techniques/"><u>[New] Elite Text Enhancement Tools & Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-prime-6-sleek-designs-in-virtual-houses-for-2024/"><u>[New] Prime 6 Sleek Designs in Virtual Houses for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/clear-sighted-making-your-windows-11-taskbar-glossy/"><u>Clear-Sighted: Making Your Windows 11 Taskbar Glossy</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-resolve-the-hulu-hd-network-issue-error-code-p-dev320-on-your-television/"><u>How to Resolve the Hulu HD Network Issue (Error Code: P-DEV320) on Your Television</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-g42-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia G42 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-start-utilizing-zoom-in-windows-10-systems/"><u>In 2024, Quick Start Utilizing Zoom in Windows 10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g933-mic-issues-resolved-a-step-by-step-fixing-guide/"><u>Logitech G933 Mic Issues Resolved - A Step-by-Step Fixing Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-projector-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Projector Models : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-old-tv-to-high-definition-wonderland-for-just-50-with-our-top-pick-of-4k-sticks-insights-from-zdnet/"><u>Transform Old TV to High-Definition Wonderland for Just $50 with Our Top Pick of 4K Sticks | Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-premier-streaming-deals-for-the-festive-season-from-apple-music-to-amazon-discounts-zdnets-exclusive-insights/"><u>Ultimate List of Premier Streaming Deals for the Festive Season: From Apple Music to Amazon Discounts | ZDNET's Exclusive Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-premium-tv-antennas-a-comprehensive-review-by-tech-savvy-experts/"><u>Ultimate Selection of Premium TV Antennas - A Comprehensive Review by Tech Savvy Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-33-savings-snag-your-free-xbox-game-pass-and-fire-tv-combo-in-post-prime-day-blowout-featured-by-zdnet/"><u>Unbeatable 33% Savings: Snag Your Free Xbox Game Pass & Fire TV Combo in Post-Prime Day Blowout Featured by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-free-galaxy-buds-premium-for-your-new-samsung-galaxy-a35-phone-exclusive-offer-inside/"><u>Unlock Free Galaxy Buds Premium for Your New Samsung Galaxy A35 Phone – Exclusive Offer Inside!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-multimedia-iptv-networking/"><u>[New] In 2024, Multimedia IPTV Networking</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-path-to-effective-marketing-best-practices-for-health-promos-for-2024/"><u>[New] The Path to Effective Marketing Best Practices for Health Promos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtube-view-bots-and-other-easy-hacks-to-increase-views-for-2024/"><u>[Updated] YouTube View Bots and Other Easy Hacks to Increase Views for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-video-anonymity-tips-for-blurring-private-data/"><u>2024 Approved Video Anonymity Tips for Blurring Private Data</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-black-friday-offer-grab-the-last-of-our-discounted-79-lenovo-chromebooks-before-cyber-monday-ends/"><u>Exclusive Black Friday Offer: Grab the Last of Our Discounted $79 Lenovo Chromebooks Before Cyber Monday Ends!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-creme-de-la-creme-of-macbooks-insider-tips-and-reviews/"><u>Exploring the Crème De La Crème of MacBooks - Insider Tips and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-best-deal-top-rated-macbook-usb-c-chargers-under-70-available-on-amazon-insights/"><u>Get the Best Deal: Top-Rated MacBook USB-C Chargers Under $70 Available on Amazon - Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-online-transformador-de-videos-para-convertir-wmv-en-webm-moviwizard/"><u>Gratuito Online: Transformador De Vídeos Para Convertir WMV en WebM - MoviWizard</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/high-definition-open-source-e-ink-display-revealed-the-modos-paper-shatters-expectations-with-1200p-on-133-screen/"><u>High-Definition Open-Source E-Ink Display Revealed: The Modos Paper Shatters Expectations with 1200P on 13.3 Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-11-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 11 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-method-for-integrating-gopro-footage-into-360-degree-films-for-2024/"><u>Optimal Method for Integrating GoPro Footage Into 360-Degree Films for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-prime-day-offer-meta-unveils-exceptional-512gb-quest-3-virtual-reality-bundle-exclusive-sale-on-zdnet/"><u>Top October Prime Day Offer: Meta Unveils Exceptional 512GB Quest 3 Virtual Reality Bundle - Exclusive Sale on ZDNet!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-huawei-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Huawei FRP Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-top-rated-ultralight-laptop-perfect-for-telecommuters-zdnet-insights/"><u>Ultimate Guide: Top Rated Ultralight Laptop Perfect for Telecommuters | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-lost-memories-a-step-by-step-guide-to-restoring-files-from-your-outdated-laptop-without-knowing-the-passcode/"><u>Unlocking Lost Memories: A Step-by-Step Guide to Restoring Files From Your Outdated Laptop Without Knowing the Passcode</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-and-how-to-customize-your-chromebooks-dns-servers-for-enhanced-online-security-expert-tips/"><u>Why and How to Customize Your Chromebook's DNS Servers for Enhanced Online Security - Expert Tips</u></a></li>
 </ul></div>
 

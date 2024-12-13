@@ -1,7 +1,7 @@
 ---
 title: "How to Score the Best Laptop Bargains During Amazon's Prime Day in Oct '24: Insider Tips & Tricks - ZDNet"
-date: 2024-12-05T20:47:30.307Z
-updated: 2024-12-06T16:26:59.571Z
+date: 2024-12-10T20:54:00.046Z
+updated: 2024-12-12T17:33:21.530Z
 tags:
   - laptops
 categories:
@@ -95,7 +95,7 @@ Asus/ZDNET
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd106ae88-f9e3-4fd1-8a3d-6caf26ae2aca%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for photo editing
@@ -105,7 +105,7 @@ Asus/ZDNET
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd106ae88-f9e3-4fd1-8a3d-6caf26ae2aca%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
@@ -131,13 +131,13 @@ Kyle Kucharski/ZDNET
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
@@ -149,7 +149,7 @@ Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -230,14 +230,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/1723006462885-solved-obs-crashing-on-windows-1110-2024/"><u>[SOLVED] OBS Crashing on Windows 11/10 - 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-prompt-mastery-using-online-platforms-top-7-picks/"><u>Boost Your Prompt Mastery Using Online Platforms: Top 7 Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-screen-capture-solutions-for-your-hp-portable-computer/"><u>Easy Screen Capture Solutions for Your HP Portable Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-overcoming-the-errcachemiss-challenge-in-chrome/"><u>The Ultimate Guide to Overcoming the ERR_CACHE_MISS Challenge in Chrome</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tired-of-snowy-struggles-in-cleveland-experience-the-power-of-an-electric-snow-thrower/"><u>Tired of Snowy Struggles in Cleveland? Experience the Power of an Electric Snow Thrower</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-features-and-reviews-by-techradar/"><u>Top 5 Eco-Friendly Smartphones - Features and Reviews by TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-recommended-solar-lanterns-expert-picks-reviewed-by-tech-enthusiasts/"><u>Top 5 Recommended Solar Lanterns : Expert Picks Reviewed by Tech Enthusiasts!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-recommended-solar-torches-a-comprehensive-review-by-zdnet/"><u>Top 5 Recommended Solar Torches : A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlocking-the-potential-of-monetized-vlogs-for-2024/"><u>Unlocking the Potential of Monetized Vlogs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-accelerating-powerpoint-video-streams/"><u>[New] Accelerating PowerPoint Video Streams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-metaverse-musings-with-a-twist-of-augmented-reality-for-2024/"><u>[New] Metaverse Musings with a Twist of Augmented Reality for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-optimized-tag-management-the-best-7-free-online-extractor-tools-for-youtube/"><u>[Updated] In 2024, Optimized Tag Management The Best 7 Free Online Extractor Tools for YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-14-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-post-prime-day-blowout-get-a-whopping-36-discount-on-the-high-capacity-8tb-samsung-t5-ssd-exclusive-insights/"><u>Amazon's Post-Prime Day Blowout: Get a Whopping 36% Discount on the High-Capacity 8TB Samsung T5 SSD - Exclusive Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discover-everything-in-stardews-hidden-gem-ginger-isle-for-2024/"><u>Discover Everything in Stardew's Hidden Gem, Ginger Isle for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-find-the-4tb-samsung-portable-ssd-t5-now-50-discounted-on-amazon-limited-stock-available/"><u>Exclusive Deal: Find the 4TB Samsung Portable SSD (T5) Now 50% Discounted on Amazon – Limited Stock Available</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/extract-and-save-fb-videos-on-pcmac-anywhere/"><u>Extract & Save FB Videos on PC/Mac, Anywhere</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-metas-premium-vr-deals-limited-time-offer-save-big-on-the-512gb-quest-lineup-this-october-prime-day/"><u>Get Your Hands on Meta's Premium VR Deals: Limited Time Offer – Save Big on the 512GB Quest Lineup This October Prime Day</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-lgs-cutting-edge-gram-pro-laptops-outshine-apples-macbook-air-in-performance-portability-and-battery-life-insights/"><u>How LG's Cutting-Edge Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Portability, and Battery Life Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-7-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 7 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-14-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi 14 Phone Network-Ready</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-deciphering-your-laptops-energy-consumption-with-windows-10s-battery-insights/"><u>The Ultimate Guide to Deciphering Your Laptop's Energy Consumption with Windows 10'S Battery Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-best-m2-ssds-of-2024-comprehensive-testing-and-expert-insights-toms-hardware/"><u>The Ultimate Guide to the Best M.2 SSDs of 2024: Comprehensive Testing & Expert Insights | Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-mac-software-picks-expert-reviews-and-insights/"><u>Top-Ranked Mac Software Picks - Expert Reviews & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-most-overlooked-gem-in-your-asus-laptop-a-hidden-treasure-exposed/"><u>Unveiling the Most Overlooked Gem in Your Asus Laptop: A Hidden Treasure Exposed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-play-top-5-new-ai-capabilities-debuted-by-google-on-chromebooks-shifting-gears-from-copilot/"><u>Unveiling the Power Play: Top 5 New AI Capabilities Debuted by Google on Chromebooks, Shifting Gears From Copilot</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal: Find the 4TB Samsung Portable SSD (T5) Now 50%% Discounted on Amazon – Limited Stock Available"
-date: 2024-12-05T02:22:20.104Z
-updated: 2024-12-06T22:37:33.339Z
+date: 2024-12-09T03:19:20.610Z
+updated: 2024-12-12T22:49:10.554Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -75,7 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -87,7 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -124,24 +124,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-origami-inspired-miniature-asian-abodes-in-mc/"><u>[New] 2024 Approved Origami-Inspired, Miniature Asian Abodes in MC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-to-the-best-game-editing-apps/"><u>[New] Step-by-Step Guide to the Best Game Editing Apps</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-send-smiles-wide-step-by-step-for-sharing-gifs-on-snapchat/"><u>[Updated] 2024 Approved Send Smiles Wide Step-by-Step for Sharing Gifs on Snapchat</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-community-shared-music-collections-copyright-free/"><u>[Updated] Community-Shared Music Collections (Copyright-Free)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2023s-premier-philips-hue-lights-reviewed-and-compared-by-professionals-zdnet/"><u>2023'S Premier Philips Hue Lights Reviewed & Compared by Professionals | ZDNET</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-speed-up-techniques-locating-deleted-reddit-posts/"><u>2024 Approved Speed-Up Techniques Locating Deleted Reddit Posts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/create-ambiance-on-a-budget-discover-our-sub-70-colorful-rgb-lamp-feature-zdnets-pick/"><u>Create Ambiance on a Budget: Discover Our Sub-$70 Colorful RGB Lamp Feature - ZDNet's Pick!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-streaming-experience-with-the-affordable-nanoleaf-cu43i-for-only-80-during-cyber-monday-sale-zdnets-top-recommendation/"><u>Elevate Your Streaming Experience with the Affordable Nanoleaf Cu43i for Only $80 During Cyber Monday Sale - ZDNet's Top Recommendation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-camon-20-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Camon 20 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/illuminate-and-upgrade-your-space-with-the-smart-govee-cube-wall-sconces-enhance-ambiance-at-home-zdnet/"><u>Illuminate and Upgrade Your Space with the Smart Govee Cube Wall Sconces: Enhance Ambiance at Home | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/illuminate-your-garden-with-intensity-discover-the-latest-govee-permanent-lights-now-superior-and-ready-for-this-weeks-setup/"><u>Illuminate Your Garden with Intensity: Discover the Latest Govee Permanent Lights, Now Superior and Ready for This Week's Setup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-tecno-camon-20-pro-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Tecno Camon 20 Pro 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-t2-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo T2 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-era-of-convenience-apples-latest-update-introduces-game-changing-home-app-feature-techinnovate/"><u>New Era of Convenience: Apple's Latest Update Introduces Game-Changing Home App Feature | TechInnovate</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sale-alert-get-a-massive-36-discount-on-the-8tb-samsung-t5-external-ssd-available-now-on-amazon-tech-news/"><u>Sale Alert: Get a Massive 36% Discount on the 8TB Samsung T5 External SSD Available Now on Amazon - Tech News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-smart-plug-devices-you-cant-miss-a-comprehensive-review/"><u>Top 5 Smart Plug Devices You Can't Miss : A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-unbeatable-best-buy-promotions-in-june-2024-the-ultimate-savings-guide-zdnet/"><u>Top 5 Unbeatable Best Buy Promotions in June 2024: The Ultimate Savings Guide - ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/underestimating-metas-social-tyranny/"><u>Underestimating Meta’s Social Tyranny</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-enchantment-with-economy-smart-light-strips-vs-philips-hue-luxury/"><u>Unleash Enchantment with Economy Smart Light Strips Vs. Philips Hue Luxury</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-leveraging-horizontal-footage-in-igtvs-vertical-space/"><u>[New] 2024 Approved Leveraging Horizontal Footage in IGTV's Vertical Space</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-breathtaking-review-and-different-directions/"><u>[New] Breathtaking Review & Different Directions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ritical-clip-climbers-ranking-video-hours-from-1-to-10/"><u>[New] Critical Clip Climbers Ranking Video Hours From #1 to #10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-quick-video-recorder-download-and-record-video-for-2024/"><u>[New] Quick Video Recorder Download and Record Video for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-secrets-to-successful-twitpicingvideos-included-for-2024/"><u>[Updated] Secrets to Successful Twitpicing—Videos Included for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-post-prime-day-deals-save-36-on-the-mighty-8tb-samsung-t5-ssd-insights-from-zdnet/"><u>Amazon's Post-Prime Day Deals: Save 36% on the Mighty 8TB Samsung T5 SSD - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-laptop-showdown-deciding-if-a-macbook-pro-or-macbook-air-suits-you-best-expert-insights/"><u>Apple Laptop Showdown: Deciding If a MacBook Pro or MacBook Air Suits You Best | Expert Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-obvious-discovering-an-exceptional-productivity-powerhouse-thats-neither-lenovo-nor-macbook-insights/"><u>Beyond the Obvious: Discovering an Exceptional Productivity Powerhouse That's Neither Lenovo nor MacBook | Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-apple-laptop-macbook-air-vs-macbook-pro-comparison-guide/"><u>Choosing the Right Apple Laptop: MacBook Air Vs. MacBook Pro Comparison Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/enhance-real-time-broadcasts-our-picks-for-9-prime-filters/"><u>Enhance Real-Time Broadcasts Our Picks for 9 Prime Filters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/game-on-get-the-ultimate-sound-quality-with-best-buys-cutting-edge-gaming-speakers-recommended/"><u>Game On! Get the Ultimate Sound Quality with Best Buy’s Cutting-Edge Gaming Speakers, Recommended</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-huawei-nova-y71-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-logitech-g733-headset-resolving-non-functional-mic-problems/"><u>Troubleshoot Your Logitech G733 Headset: Resolving Non-Functional Mic Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmatched-endurance-the-most-durable-chromebook-battery-on-test-a-comprehensive-review/"><u>Unmatched Endurance: The Most Durable Chromebook Battery on Test – A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-ranking-leading-tech-gadgets-devices-and-tools-of-the-year-2ptransformative-technology-trends-insider-selection/"><u>ZDNet's Ultimate Ranking: Leading Tech Gadgets, Devices, and Tools of the Year 2Ptransformative Technology Trends | Insider Selection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Addition: An Honest Look at the Surface Laptop 5 - Expectations vs Reality"
-date: 2024-12-02T18:17:16.515Z
-updated: 2024-12-06T20:11:52.352Z
+date: 2024-12-11T20:25:29.976Z
+updated: 2024-12-13T03:00:53.596Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,6 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Processor       | 12th-Gen Intel Core i5 or Core i7                                                          |
@@ -75,6 +71,10 @@ Michael Gariffo/ZDNET
 
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Features and ports
 
 That one on the top is the Surface Connect Port, not an SD card reader slot, which it so closely resembles.
@@ -84,7 +84,7 @@ Michael Gariffo/ZDNET
 Microsoft's port selection on the Surface Laptop 5 is very middle-of-the-road. That's a good thing. It acknowledges that plenty of USB-A peripherals still exist, so it includes a single USB-A port. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -140,7 +140,7 @@ This might be forgivable in a budget model. But even the base config [Surface La
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -166,7 +166,7 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -176,7 +176,7 @@ I may seem like I had high standards for this review, and I did. This is a flags
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -227,18 +227,24 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlocking-the-power-of-social-medias-fb-covers/"><u>[New] 2024 Approved Unlocking the Power of Social Media's FB Covers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-tricks-and-secrets-for-gaining-more-likes-in-tiktok-unboxings/"><u>[New] In 2024, Tricks & Secrets for Gaining More 'Likes' In TikTok Unboxings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/wma-webm-movavi/"><u>在線 WMA 自由格式改變為 WebM 進行編解碼 - 利用 Movavi 轉換器</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/behind-the-screens-a-closer-look-at-zdnets-rigorous-tablet-testing-procedures/"><u>Behind the Screens: A Closer Look at ZDNet’s Rigorous Tablet Testing Procedures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/black-friday-2022-countdown-find-the-hottest-bargains-and-best-sale-destinations-on-zdnet/"><u>Black Friday 2022 Countdown: Find The Hottest Bargains and Best Sale Destinations On ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-android-tablet-reviews-surprising-non-tcl-non-samsung-brands-featured-by-zdnet/"><u>Budget-Friendly Android Tablet Reviews: Surprising Non-TCL, Non-Samsung Brands Featured by ZDNET</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Nokia G22 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-ce-3-lite-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Nord CE 3 Lite 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-compress-videos-instantly-10-top-free-online-tools/"><u>New 2024 Approved Compress Videos Instantly 10 Top Free Online Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1726809383759-top-recommended-non-samsung-non-tcl-android-tablets-discover-the-best-alternatives/"><u>Top-Recommended Non-Samsung, Non-TCL Android Tablets: Discover the Best Alternatives</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/uncomplicated-walkthrough-of-easy-iphone-screen-capture-for-2024/"><u>Uncomplicated Walkthrough of Easy iPhone Screen Capture for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/understanding-the-factors-behind-the-wii-us-popularity-surge/"><u>Understanding the Factors Behind the Wii U's Popularity Surge</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-quintessential-scores-in-8-distinct-movie-spheres-for-2024/"><u>[New] Quintessential Scores in 8 Distinct Movie Spheres for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-step-by-step-process-for-perfecting-screencast-video-quality/"><u>[New] The Step-by-Step Process for Perfecting Screencast Video Quality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-voiceover-dynamics-for-stellar-ppt-presentations-for-2024/"><u>[New] Voiceover Dynamics for Stellar PPT Presentations for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-choosing-your-soundtrack-the-podcast-vs-youtube-showdown/"><u>[Updated] Choosing Your Soundtrack The Podcast Vs. YouTube Showdown</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-building-blocks-of-a-well-structured-youtube-video/"><u>[Updated] In 2024, Building Blocks of a Well-Structured YouTube Video</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-the-ipad-serve-as-a-suitable-replacement-for-traditional-computers-insights-from-zdnet/"><u>Can the iPad Serve as a Suitable Replacement for Traditional Computers? | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/compact-keyboard-optimized-for-raspberry-pi-and-modern-smart-tvs-the-ultimate-guide-by-zdnet/"><u>Compact Keyboard Optimized for Raspberry Pi & Modern Smart TVs: The Ultimate Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-irobots-latest-game-changer-the-most-advanced-roomba-with-unbeatable-price-point/"><u>Discover IRobot's Latest Game-Changer: The Most Advanced Roomba with Unbeatable Price Point!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-selection-of-holiday-deals-for-dell-electronics-across-leading-stores-best-buy-amazon-newegg-zdnets-guide-to-savings/"><u>Discover the Ultimate Selection of Holiday Deals for Dell Electronics Across Leading Stores: Best Buy, Amazon, Newegg – ZDNET's Guide to Savings!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/earn-income-with-this-top-rated-space-heater-discover-the-financial-gain/"><u>Earn Income with This Top-Rated Space Heater - Discover the Financial Gain!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/efficient-tactics-for-viewing-subscribers-on-yt/"><u>Efficient Tactics for Viewing Subscribers on YT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-test-of-the-innocn-27c1u-monitor-4k-mastery-with-blinding-brilliance-and-rapid-setup-zdnet-insights/"><u>Exclusive Test of the Innocn 27C1U Monitor - 4K Mastery with Blinding Brilliance & Rapid Setup | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-evaluation-unveiling-the-performance-of-the-neato-d10-by-zdnet/"><u>Expert Evaluation: Unveiling the Performance of the Neato D10 by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Life360 on Windows PC For Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-latest-most-advanced-irobot-roombas-packed-with-cutting-edge-innovations-and-costing-less-than-expected-read-all-in-one-place-engadget/"><u>Introducing the Latest, Most Advanced iRobot Roombas - Packed With Cutting-Edge Innovations and Costing Less Than Expected! Read All in One Place | Engadget</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lg-innovative-steam-powered-wardrobe-enjoy-a-200-discount-todayzdnet-exclusive/"><u>LG Innovative Steam-Powered Wardrobe - Enjoy a $200 Discount Today![ZDNet Exclusive]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g-stylus-5g-2023-wont-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Motorola Moto G Stylus 5G (2023) won’t play MP4 files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-approaches-to-ai-assistance-in-professional-writing-services/"><u>Strategic Approaches to AI Assistance in Professional Writing Services</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-11-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 11 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
 

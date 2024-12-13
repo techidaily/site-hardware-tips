@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights on ZDNet"
-date: 2024-12-02T22:41:39.451Z
-updated: 2024-12-06T20:18:04.244Z
+date: 2024-12-10T18:38:36.318Z
+updated: 2024-12-12T19:26:26.218Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,18 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-become-a-tiktok-fanatic-setup-guide-for-macbook/"><u>[New] 2024 Approved Become a TikTok Fanatic Setup Guide for MacBook</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-exclusive-insight-into-low-cost-footage-websites/"><u>[New] 2024 Approved Exclusive Insight Into Low-Cost Footage Websites</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-digital-editing-made-easy-convert-avis-to-sharp-shareable-gifs-with-filmora-pcmac/"><u>2024 Approved Digital Editing Made Easy Convert AVIs to Sharp, Shareable GIFs with Filmora (PC/Mac)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-why-choosing-a-lenovo-aio-over-an-imac-is-worth-reconsidering-insights-from-zdnet/"><u>Discover Why Choosing a Lenovo AIO Over an iMac Is Worth Reconsidering: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-2024-laptop-selection-indepth-evaluation-and-ratings-by-experts-at-zdnet/"><u>Elite 2024 Laptop Selection: InDepth Evaluation and Ratings | By Experts at ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-with-a-touchscreen-macbook-benefits-and-drawbacks-analyzed-by-experts/"><u>Exploring the Future with a Touchscreen MacBook: Benefits and Drawbacks Analyzed by Experts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-fatal-dev-error-in-modern-warfare-and-warzone/"><u>Fix: Fatal (Dev) Error in Modern Warfare & Warzone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-sonys-x1000v-hd-recorder-for-2024/"><u>In-Depth Look at Sony's X1000V HD Recorder for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-expenses-by-500plus-essential-cost-saving-strategies-for-entrepreneurs-insights-from-zdnet/"><u>Slash Expenses by $500+: Essential Cost-Saving Strategies for Entrepreneurs - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-restoring-default-sound-settings-on-windows-os-digital-trends/"><u>Step-by-Step Tutorial: Restoring Default Sound Settings on Windows OS | Digital Trends</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-mystique-of-a-blue-icon-on-facebook-decoding-its-purpose-and-meaning-for-2024/"><u>The Mystique of a Blue Icon on Facebook Decoding Its Purpose and Meaning for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-budget-friendly-gaming-pcs-for-202eby-expert-selections-from-zdnet/"><u>Ultimate Guide to Budget-Friendly Gaming PCs for 202Eby: Expert Selections From ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-meizu-by-drfone-android/"><u>Universal Unlock Pattern for Meizu</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-comprehensively-addressed-best-tools-for-efficient-unfollowing/"><u>[New] Comprehensively Addressed Best Tools for Efficient Unfollowing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-exploring-the-finest-8-no-cost-open-source-video-communication-apps/"><u>[New] In 2024, Exploring the Finest 8 No-Cost, Open Source Video Communication Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-art-of-transferring-tunes-between-platforms/"><u>2024 Approved The Art of Transferring Tunes Between Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-15-inch-laptop-at-an-unbeatable-price-only-250-at-walmart-complete-with-necessary-ports/"><u>Asus 15-Inch Laptop at an Unbeatable Price: Only $250 at Walmart - Complete with Necessary Ports</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boosting-chrome-os-a-step-by-step-guide-on-providing-valuable-feedback-to-developers-insights/"><u>Boosting Chrome OS: A Step-by-Step Guide on Providing Valuable Feedback to Developers - Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-audio-data-flow-separation-by-windows/"><u>Demystifying Audio Data Flow Separation by Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceptional-display-premium-quality-laptop-at-a-steep-sale-discover-top-picks-featured/"><u>Exceptional Display: Premium Quality Laptop at a Steep Sale - Discover Top Picks Featured !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-the-perfect-portable-laptop-companion-for-efficient-work-from-home-productivity-zdnet-insights/"><u>Expert Review: The Perfect Portable Laptop Companion for Efficient Work-From-Home Productivity | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-leading-antivirus-solutions-for-2e4-a-comprehensive-review-by-zdnet-experts/"><u>Explore the Leading Antivirus Solutions for 2E4: A Comprehensive Review by ZDNET Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-ultimate-list-of-2023s-best-laptops-for-extended-battery-performance-insights/"><u>Exploring the Ultimate List of 2023'S Best Laptops for Extended Battery Performance - Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y78t-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y78t Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Hot 40 Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synchronized-success-audio-meets-visual-in-films/"><u>In 2024, Synchronized Success Audio Meets Visual in Films</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-creators-pick-top-5-video-editing-programs-for-stunning-visual-content/"><u>The Creator's Pick: Top 5 Video Editing Programs for Stunning Visual Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-10-christmas-themed-chromebook-bargains-find-your-perfect-device-on-zdnet/"><u>Top 10 Christmas-Themed Chromebook Bargains - Find Your Perfect Device on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-oled-laptop-picks-thoroughly-analyzed-and-endorsed-by-professionals-techradar/"><u>Top-Ranking OLED Laptop Picks : Thoroughly Analyzed & Endorsed by Professionals | TechRadar</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-8-digital-audio-workstations-daws-revolutionizing-contemporary-rap-and-randb-creation/"><u>Updated In 2024, Top 8 Digital Audio Workstations (DAWs) Revolutionizing Contemporary Rap and R&B Creation</u></a></li>
 </ul></div>
 

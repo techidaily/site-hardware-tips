@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights From ZDNet"
-date: 2024-12-04T19:37:32.201Z
-updated: 2024-12-07T02:42:12.138Z
+date: 2024-12-11T23:05:52.602Z
+updated: 2024-12-12T17:05:10.320Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,20 +116,14 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-boxing-battlegrounds-live-vs-virtual-warriors/"><u>[Updated] In 2024, Boxing Battlegrounds Live VS Virtual Warriors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-checklist-for-video-quality-boost-version-22/"><u>2024 Approved The Ultimate Checklist for Video Quality Boost Version 2.2</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-10-free-video-sharing-platforms-for-personal-and-commercial-use/"><u>2024 Approved Top 10 Free Video Sharing Platforms for Personal and Commercial Use</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-oneplus-nord-ce-3-lite-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your OnePlus Nord CE 3 Lite 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/cutting-edge-techniques-for-music-in-canva-videos/"><u>Cutting-Edge Techniques for Music in Canva Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-unmatched-benefit-of-the-garmin-golf-watch-a-game-changing-feature-thats-essential-in-improving-your-play-insights-from-zdnet/"><u>Discover the Unmatched Benefit of the Garmin Golf Watch: A Game-Changing Feature That's Essential in Improving Your Play - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-smartwatch-functionality-discover-top-watchos-11-improvements-on-your-apple-watch-with-zdnet/"><u>Experience Enhanced Smartwatch Functionality: Discover Top WatchOS 11 Improvements on Your Apple Watch with ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/garmins-latest-updates-transform-my-top-pick-beyond-the-apple-watch-ultra/"><u>Garmin's Latest Updates Transform My Top Pick - Beyond the Apple Watch Ultra</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-three-key-functions-won-me-over-to-the-apple-watch-series-10-insights-from-zdnet/"><u>How Three Key Functions Won Me Over to the Apple Watch Series 10 - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-moto-watch-100-a-wise-investment-uncovering-disappointments-beneath-the-surface-insights-from-zdnet/"><u>Is the Moto Watch 100 a Wise Investment? Uncovering Disappointments Beneath the Surface | Insights From ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/setting-up-your-youtube-standings-from-beginner-to-beneficial-businesses-for-2024/"><u>Setting Up Your YouTube Standings From Beginner to Beneficial Businesses for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tactics-for-successfully-fighting-the-powerful-lynels-in-breath-of-the-wild/"><u>The Ultimate Tactics for Successfully Fighting the Powerful Lynels in Breath of the Wild</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-13-ultra-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi 13 Ultra Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-athletic-timepieces-professional-testing-and-reviews-by-zdnet/"><u>Top-Ranking Athletic Timepieces : Professional Testing & Reviews by ZDNet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ite-sized-video-knowledge-now-for-2024/"><u>[New] Bite-Sized Video Knowledge Now for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-get-ready-to-download-best-ios-apps-transforming-fb-videos/"><u>[New] Get Ready to Download Best iOS Apps Transforming FB Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-top-contender-in-versatility-the-highly-praised-laptop-that-impresses-with-its-robust-hardware-techspot/"><u>A Top Contender in Versatility: The Highly Praised Laptop That Impresses With Its Robust Hardware | TechSpot</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-techniques-for-overcoming-directx-errors-in-battlefield-2042-gaming/"><u>Effective Techniques for Overcoming DirectX Errors in Battlefield 2042 Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-android-phone-not-powering-up-despite-being-connected-to-charger/"><u>Fixing Android Phone Not Powering Up Despite Being Connected to Charger</u></a></li>
+<li><a href="https://win-data.techidaily.com/guide-to-reversing-flipbook-orientation-mastering-rtl-display-using-flipbuilder-tutorials/"><u>Guide to Reversing Flipbook Orientation: Mastering RTL Display Using FlipBuilder Tutorials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/power-all-your-gadgets-with-this-high-capacity-140w-portable-battery-always-charged-and-ready/"><u>Power All Your Gadgets with This High-Capacity 140W Portable Battery - Always Charged and Ready!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/still-a-steal-the-top-lenovo-notebook-ideal-for-the-modern-mix-of-remote-and-office-work-save-thousands/"><u>Still a Steal: The Top Lenovo Notebook Ideal for the Modern Mix of Remote and Office Work - Save Thousands!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-surprising-quality-and-smart-features-in-dells-most-affordable-laptop-an-expert-review-by-zdnet/"><u>Unveiling the Surprising Quality and Smart Features in Dell's Most Affordable Laptop - An Expert Review by ZDNET</u></a></li>
 </ul></div>
 

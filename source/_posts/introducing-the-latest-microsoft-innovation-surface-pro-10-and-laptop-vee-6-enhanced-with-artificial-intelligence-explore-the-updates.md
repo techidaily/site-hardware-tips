@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Latest Microsoft Innovation: Surface Pro 10 & Laptop Vee 6 Enhanced with Artificial Intelligence – Explore the Updates!"
-date: 2024-11-23T16:04:45.111Z
-updated: 2024-11-27T18:18:25.378Z
+date: 2024-12-07T21:16:28.650Z
+updated: 2024-12-12T16:50:40.544Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,18 +85,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-integrated-camera-use-photos-and-videos-on-one-phone/"><u>[New] In 2024, Integrated Camera Use Photos and Videos on One Phone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hdr-video-power-windows-edition-explained/"><u>[Updated] HDR Video Power Windows Edition Explained</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-gaming-laptops-in-depth-analysis-and-comparisons-from-industry-leaders-like-razer-acer-and-msi-zdnet-insights/"><u>Best of the Best Gaming Laptops : In-Depth Analysis and Comparisons From Industry Leaders Like Razer, Acer, and MSI | ZDNET Insights</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/conquering-export-errors-for-srt-in-premiere-pro/"><u>Conquering Export Errors for SRT in Premiere Pro</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/essential-gear-for-your-macbook-pro-13-unboxing-and-evaluating-the-cost-effective-procase-case/"><u>Essential Gear for Your MacBook Pro 13: Unboxing & Evaluating The Cost-Effective ProCase Case</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-scoop-on-the-ultimate-15-inch-notebooks-of-2024-authoritative-assessments-and-rankings-zdnet/"><u>Exclusive Scoop on the Ultimate 15-Inch Notebooks of 2024: Authoritative Assessments & Rankings | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-versatility-of-lenovos-new-dual-mode-windows-and-android-laptop-a-promising-innovation/"><u>Exploring the Versatility of Lenovo's New Dual-Mode Windows & Android Laptop - A Promising Innovation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-reno-10-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo Reno 10 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/our-favourite-selection-of-five-superior-international-voice-apps-at-zero-cost/"><u>Our Favourite Selection of Five Superior International Voice Apps at Zero Cost!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-presidents-day-snag-the-latest-m2-macbook-air-at-300-less-exclusive-offer/"><u>Score Big Savings on Presidents' Day: Snag the Latest M2 MacBook Air at $300 Less - Exclusive Offer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-power-banks-for-macbook-pro-find-your-best-match-today/"><u>Top Recommended Power Banks for MacBook Pro: Find Your Best Match Today!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-potential-of-cloud-gaming-on-lenovo-ideapad-chromebooks-a-comprehensive-review-focusing-on-hardware-efficacy-by-tech-expert-at-zdnet/"><u>Unveiling the Potential of Cloud Gaming on Lenovo IdeaPad Chromebooks: A Comprehensive Review Focusing on Hardware Efficacy by Tech Expert at ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-top-tweet-talent-social-medias-10-gems-for-2024/"><u>[New] Top Tweet Talent Social Media’s 10 Gems for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-preserve-and-organize-transforming-snaps-into-gallery-photos/"><u>2024 Approved Preserve and Organize Transforming Snaps Into Gallery Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-these-iphone-models-and-key-apple-devices-in-month-top-picks-not-to-purchase-insights-from-zdnet/"><u>Avoid These iPhone Models & Key Apple Devices in [Month]: Top Picks Not To Purchase - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-pcs-performance-by-clearing-clutter-using-bleachbit-zdnet-recommended/"><u>Boost Your PC's Performance by Clearing Clutter Using BleachBit (ZDNet Recommended)</u></a></li>
+<li><a href="https://facebook.techidaily.com/decision-time-for-fb-on-trump-ban/"><u>Decision Time for FB on Trump Ban</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/engaging-entrances-crafting-captivating-conversations-for-2024/"><u>Engaging Entrances Crafting Captivating Conversations for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-out-which-graphics-processor-you-own-tips-for-detecting-gpus-and-installing-the-latest-driver-software-wired/"><u>Find Out Which Graphics Processor You Own! Tips for Detecting GPUs and Installing the Latest Driver Software | Wired</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-trusted-platform-module-tpm-became-a-prerequisite-for-windows-11-installation-digitalguardian/"><u>How the Trusted Platform Module (TPM) Became a Prerequisite for Windows 11 Installation | DigitalGuardian</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-curve-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Lava Blaze Curve 5G Phone without PIN</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mega-deal-alert-samsung-4tb-external-ssd-on-a-steep-discount-over-50-off-prime-your-digital-storage-this-labor-day/"><u>Mega Deal Alert: Samsung 4TB External SSD on a Steep Discount Over 50% Off - Prime Your Digital Storage This Labor Day!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-huge-discount-hps-powerful-gaming-pc-the-victus-15l-down-to-480-this-labor-day-insider-tips-from-zdnet/"><u>Score a Huge Discount: HP's Powerful Gaming PC, the Victus 15L, Down to $480 This Labor Day - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-inside-youtube-master-one-frame-no-money-spent/"><u>Step Inside YouTube Master One Frame, No Money Spent</u></a></li>
 </ul></div>
 

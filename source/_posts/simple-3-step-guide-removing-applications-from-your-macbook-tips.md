@@ -1,7 +1,7 @@
 ---
 title: "Simple 3-Step Guide: Removing Applications From Your MacBook - Tips"
-date: 2024-12-06T01:26:45.796Z
-updated: 2024-12-07T02:33:46.122Z
+date: 2024-12-09T00:28:31.804Z
+updated: 2024-12-13T01:06:26.163Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ Image: Tamilisa Miller via iStock/Getty Images
 
 [![dull.png](https://www.zdnet.com/a/img/resize/46440aeab6134c6c72e7fac79ce7789f38626eb9/2021/04/22/d3d18a7c-20db-4a54-aefb-401cea844d6c/dull.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Macs Apple's Mac lineup can be confusing as the company transitions from Intel processors to its own Apple Silicon processors. But we're here to help.  Read now](https://www.zdnet.com/article/best-mac/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Out with the old, in with the new. If you've recently decided to [clear out some extra space](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/) or you finally went through your credit card statement and [canceled those subscriptions](https://www.zdnet.com/home-and-office/home-entertainment/how-to-cancel-apple-music-without-itunes/) you'd forgotten about, then you may be wondering how to delete those apps from your MacBook. 
 
 The truth is that deleting apps in MacOS is as easy as 1, 2, 3, literally. Just three steps separate you from more disk space on your computer. Here's how you can delete those unwanted apps from your MacBook. 
@@ -31,7 +35,7 @@ The truth is that deleting apps in MacOS is as easy as 1, 2, 3, literally. Just 
 **Also:** [**I put the Apple Watch Ultra through a Tough Mudder. Here's how it held up**](https://www.zdnet.com/article/apple-watch-ultra-review/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to delete apps on a MacBook
@@ -41,6 +45,10 @@ The truth is that deleting apps in MacOS is as easy as 1, 2, 3, literally. Just 
 Go to the dock and click on the Launchpad icon or access Launchpad via the Applications folder. 
 
 Image: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Click and hold app
 
@@ -53,7 +61,7 @@ Image: Maria Diaz/ZDNET
 You can also press Option (the ⌥ key) to make the apps jiggle. When you do this, you have to keep the key pressed while you click on the delete button. The apps will only jiggle while the Option key is pressed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Click on the Delete button
@@ -68,14 +76,10 @@ Once you click on the X or Delete button at the top left corner, a message will 
 
 Image: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why can't I delete apps from my MacBook?
@@ -89,10 +93,6 @@ If you can't delete an app from the Launchpad, you can try using Finder to remov
 5. Empty **Trash**.
 
 **Also:** [**Here's how to delete apps on an iPhone**](https://www.zdnet.com/article/how-to-delete-apps-on-iphone/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How can I find an app on my Mac?
 
@@ -140,20 +140,24 @@ Simply deleting an app will not cancel any membership or subscription you may ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-a-primer-on-using-azures-voice-to-text-service-for-2024/"><u>[New] A Primer on Using Azure's Voice-to-Text Service for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2023-ultimate-guide-to-optimal-ram-selection-essential-memory-boosts-for-professionals-and-gamers-by-zdnet/"><u>2023 Ultimate Guide to Optimal RAM Selection: Essential Memory Boosts for Professionals & Gamers by ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-itel-s23-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Itel S23 Phone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoiding-wait-times-a-guide-to-purchasing-the-latest-macbook-pro-and-mac-mini-from-apple/"><u>Avoiding Wait Times: A Guide to Purchasing the Latest MacBook Pro & Mac Mini From Apple</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comparing-apple-innovations-mac-mini-versus-mac-studio-how-does-the-new-m2-stack-up-against-its-predecessor-the-m1/"><u>Comparing Apple Innovations: Mac Mini versus Mac Studio – How Does the New M2 Stack Up Against Its Predecessor, the M1?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/free-end-in-sight-windows-10-upgrade-offer-concludes/"><u>Free End in Sight: Windows 10 Upgrade Offer Concludes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-androids-ear-4-easy-unrooted-ways/"><u>In 2024, Capture Android's Ear 4 Easy, Unrooted Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-c51-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme C51 Phone?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-create-a-green-screen-video-in-after-effects/"><u>New In 2024, How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/novatech-series-unified-4k-all-in-one-workstations/"><u>NovaTech Series Unified 4K, All-in-One Workstations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-with-up-to-50-off-premium-4tb-samsung-portable-ssd-available-at-amazon-zdnet-exclusive-deal/"><u>Save Big with Up to 50% Off: Premium 4TB Samsung Portable SSD Available at Amazon – ZDNET Exclusive Deal</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-sonys-xbr65x850f-a-high-end-economically-priced-65-oled-display/"><u>The Ultimate Guide to Sony's XBR65X850F - A High-End, Economically Priced 65 OLED Display.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-microphones-reviews-and-buyers-guide-by-zdnet/"><u>Top-Rated Streaming Microphones - Reviews & Buyer's Guide by ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transcoding-ttml-and-ssa-into-easy-to-use-srt-format-for-2024/"><u>Transcoding TTML & SSA Into Easy-to-Use SRT Format for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-tpms-essential-for-windows-11-security-features-techguide/"><u>Understanding TPMs - Essential for Windows 11 Security Features | TechGuide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2023-how-to-autoplay-facebook-videos-in-2024/"><u>[New] 2023 | How to Autoplay Facebook Videos, In 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-a-quick-walkthrough-of-new-user-registration-on-twitter/"><u>[New] In 2024, A Quick Walkthrough of New User Registration on Twitter</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unmatched-hd-capture-selecting-the-best-recorder-brands-for-2024/"><u>[New] Unmatched HD Capture Selecting the Best Recorder Brands for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-searching-for-non-existent-wireless-adapter-in-windows-10/"><u>[RESOLVED] Searching for Non-Existent Wireless Adapter in Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-prime-selection-of-affordable-online-video-recorders/"><u>[Updated] In 2024, The Prime Selection of Affordable Online Video Recorders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-action-vision-top-7-4k-camera-selections/"><u>[Updated] In 2024, Ultimate Action Vision Top 7 4K Camera Selections</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlock-the-full-potential-of-pixiz-in-video-making/"><u>[Updated] In 2024, Unlock the Full Potential of Pixiz in Video Making</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-lasting-way-to-disconnect-from-youtube-shorts/"><u>[Updated] The Lasting Way to Disconnect From YouTube Shorts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024-thoroughly-assessed-by-tech-gurus-compulist/"><u>2024 - Thoroughly Assessed by Tech Gurus | Compulist</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-complete-guide-to-saving-live-periscope-broadcasts/"><u>2024 Approved The Complete Guide to Saving Live Periscope Broadcasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-quality-display-on-a-portable-laptop-a-surprising-gem-discovered-by-zdnet/"><u>Affordable High-Quality Display on a Portable Laptop: A Surprising Gem Discovered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-apple-macbook-air-with-m2-chip-now-available-at-749-on-amazons-prime-day-deals-insights/"><u>Exclusive: Apple MacBook Air with M2 Chip Now Available at $749 on Amazon's Prime Day Deals - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-virtual-reality-like-never-before-with-metas-premium-quest-ebody-in-512gb-the-unrivaled-deal-of-the-moment-nextgenvr-review/"><u>Experience Virtual Reality Like Never Before with Meta’s Premium Quest Ebody in 512GB – The Unrivaled Deal of the Moment | NextGenVR Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-enhancements-for-dells-elite-laptops-discover-the-updated-xps-15-and-xps-17-on-zdnet/"><u>Next-Gen Enhancements for Dell's Elite Laptops: Discover the Updated XPS 15 and XPS 17 on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-book-3-ultra-unveiled-why-its-a-game-changer-for-samsung-loyalists-comprehensive-review-on-zdnet/"><u>Samsung Galaxy Book 3 Ultra Unveiled: Why It's a Game Changer for Samsung Loyalists | Comprehensive Review on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-gaming-discounts-on-prime-day-sale-october-2024-edition/"><u>Top Gaming Discounts on Prime Day Sale - October 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-prime-day-bargain-metas-limited-time-offer-on-512gb-quest-2-exclusive-insight/"><u>Top October Prime Day Bargain: Meta's Limited-Time Offer on 512GB Quest 2 - Exclusive Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-vpn-providers-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Ranked VPN Providers : Comprehensive Testing & Reviews by Tech Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-edge-less-design-tips/"><u>Windows 11 Edge-Less Design Tips</u></a></li>
 </ul></div>
 

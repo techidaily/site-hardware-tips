@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deals of The Day: Discover Our Ultimate List of Gaming Savings for Cyber Monday's Last Hours - Console, PC & More"
-date: 2024-12-01T00:26:36.560Z
-updated: 2024-12-06T16:02:56.239Z
+date: 2024-12-07T21:14:03.610Z
+updated: 2024-12-12T16:20:25.820Z
 tags:
   - laptops
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/91f7f58741561326931ca324590beadc475f32b45
 ## Score Big Savings: Cyber Monday's Exclusive Discount of $400 Off for the Ultra-Thin, High-Resolution LG Gram Ebook | Shop Smart
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/91f7f58741561326931ca324590beadc475f32b45
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Most 17-inch laptops tip the scales at well over 4 pounds, which makes LG's 2.98lb [Gram 17](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-Lightweight-Display-Processor-Thunderbolt%2Fdp%2FB09XGXTXRB%3Fref%3Ddlx%5Fcyber%5Fgd%5Fdcl%5Fimg%5F4%5F48651b7e%5Fdt%5Fsl7%5Fba%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0067eb1b-c2c1-410d-9fdd-a8d0f65e5726%7Cdtp&dtb=1) a remarkable device that will give it particularly appeal for creators, knowledge workers and undemanding gamers who want to maximise screen real estate without sacrificing too much portability. 
@@ -69,20 +69,21 @@ This lightweight 17-inch laptop performs well enough under mainstream productivi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-smart-strategies-to-modify-user-numbers-on-tiktok/"><u>[Updated] In 2024, Smart Strategies to Modify User Numbers on TikTok</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-whats-the-maximum-fps-for-exceptional-slow-motion-vids/"><u>[Updated] What's the Maximum FPS for Exceptional Slow Motion Vids?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/customizing-your-watch-the-art-of-altering-youtube-video-pace-for-2024/"><u>Customizing Your Watch The Art of Altering YouTube Video Pace for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-storytelling-abilities-with-strategic-chatgpt-implementation-tips/"><u>Enhance Your Storytelling Abilities with Strategic ChatGPT Implementation Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovating-the-future-of-driving-renault-and-googles-collaboration-on-a-digital-vehicle-platform-explored-by-zdnet/"><u>Innovating the Future of Driving: Renault and Google's Collaboration on a Digital Vehicle Platform, Explored by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-partnership-hyundai-motors-enhances-in-car-entertainment-with-qualcomms-tech-latest-developments/"><u>Innovative Partnership: Hyundai Motors Enhances In-Car Entertainment with Qualcomm's Tech | Latest Developments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/join-conference-calls-from-your-tesla-zoom-meets-electric-the-next-big-thing-in-vehicle-connectivity/"><u>Join Conference Calls From Your Tesla: Zoom Meets Electric - The Next Big Thing in Vehicle Connectivity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-skies-how-djis-avata-2-outperforms-in-speed-and-immersion-according-to-zdnets-test-flights/"><u>Mastering the Skies: How DJI's Avata 2 Outperforms in Speed and Immersion, According to ZDNet's Test Flights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/no-need-for-passports-cross-borders-easily-using-just-your-mobiles-qr-code/"><u>No Need for Passports! Cross Borders Easily Using Just Your Mobile's QR Code</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/overhauling-in-flight-internet-promising-solutions-emerge-to-address-connectivity-woes-zdnet/"><u>Overhauling In-Flight Internet: Promising Solutions Emerge to Address Connectivity Woes | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/power-up-anywhere-zendures-superbase-v-all-in-one-charger-for-residential-and-electric-vehicle-use/"><u>Power Up Anywhere: Zendure's SuperBase V - All-in-One Charger for Residential & Electric Vehicle Use</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/reviving-the-past-flipping-iphone-video-streams/"><u>Reviving the Past Flipping iPhone Video Streams</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/surviving-the-block-top-houses-for-2024/"><u>Surviving the Block Top Houses for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-user-friendly-routines-preserving-google-voice-communications/"><u>[Updated] 2024 Approved User-Friendly Routines Preserving Google Voice Communications</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-game-plan-for-thriving-as-a-livestreamer-on-youtube/"><u>2024 Approved The Game Plan for Thriving as a Livestreamer on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-unveils-the-upgraded-mac-studio-a-matured-version-of-the-mac-mini-according-to-zdnet/"><u>Apple Unveils the Upgraded Mac Studio - A Matured Version of the Mac Mini, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buyable-innovations-from-ces-202n-exciting-gadgets-unveiled/"><u>Buyable Innovations From CES 202N - Exciting Gadgets Unveiled!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/connect-with-ease-integrating-internal-solid-state-drives-into-usb-c-systems-for-pcs-and-macbooks-digitaltechadvice/"><u>Connect with Ease: Integrating Internal Solid State Drives Into USB-C Systems for PCs & MacBooks | DigitalTechAdvice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-gpu-a-comprehensive-guide-to-identifying-and-updating-graphics-cards-and-drivers-techradar/"><u>Discover Your GPU: A Comprehensive Guide to Identifying & Updating Graphics Cards and Drivers | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-high-speed-2-tb-samsung-990-pro-m2-nvme-ssd-available-for-only-179-shop-today/"><u>Exclusive Offer! High-Speed 2 TB Samsung 990 Pro M.2 NVMe SSD Available for Only $179 – Shop Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-stuck-pages-loading-again-in-your-google-chrome-browser/"><u>How to Get Stuck Pages Loading Again in Your Google Chrome Browser</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-s23-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy S23 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/qualified-macbook-buyers-awarded-by-apple-under-new-class-action-agreement-tech-news-update/"><u>Qualified MacBook Buyers Awarded by Apple Under New Class Action Agreement | Tech News Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/renewable-resources-can-be-replenished-more-quickly-than-they-are-used-up/"><u>Renewable Resources Can Be Replenished More Quickly than They Are Used Up.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-the-functional-marvel-that-is-lamicalls-superbly-designed-tablet-stand-why-you-need-it-now/"><u>Review: The Functional Marvel That Is Lamicall's Superbly Designed Tablet Stand - Why You Need It Now!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-creme-de-la-cream-of-online-tv-services-for-2024/"><u>The Crème De La Cream of Online TV Services for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-video-resume-builder-showdown-4-best-options-free-templates/"><u>Updated Video Resume Builder Showdown 4 Best Options Free Templates</u></a></li>
 </ul></div>
 

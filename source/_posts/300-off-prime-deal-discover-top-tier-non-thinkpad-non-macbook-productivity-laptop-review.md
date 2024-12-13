@@ -1,7 +1,7 @@
 ---
 title: "$300 Off Prime Deal: Discover Top-Tier Non-ThinkPad, Non-MacBook Productivity Laptop Review"
-date: 2024-12-02T19:22:43.678Z
-updated: 2024-12-06T22:42:03.994Z
+date: 2024-12-11T19:00:32.076Z
+updated: 2024-12-12T18:33:22.638Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Amazon's October Prime Day event has officially ended, but many laptops are stil
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,21 +146,19 @@ All things considered, the [sale price of $989](https://www.awin1.com/awclick.ph
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-quick-youtube-revenue-assessments-available/"><u>[New] In 2024, Quick YouTube Revenue Assessments Available</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-mastery-of-memes-how-to-download-twitters-animated-images-for-2024/"><u>[New] Mastery of Memes How to Download Twitter's Animated Images for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-discover-snapchats-artistic-side-with-anime-inspired-effects/"><u>[Updated] 2024 Approved Discover Snapchat’s Artistic Side with Anime-Inspired Effects</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-monetize-your-youtube-shorts-simple-steps/"><u>[Updated] 2024 Approved How to Monetize Your YouTube Shorts Simple Steps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unleash-creativity-on-screen-discover-the-best-reactions-for-2024/"><u>[Updated] Unleash Creativity on Screen Discover the Best Reactions for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-modern-motion-perception-technologies/"><u>2024 Approved Understanding Modern Motion Perception Technologies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-guide-syncing-and-watching-films-with-subtitles-directly-from-your-television/"><u>Easy Guide: Syncing and Watching Films with Subtitles Directly From Your Television</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-itel-p55plus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Itel P55+ to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-aid-to-recover-googles-nonresponsive-windows-share-app/"><u>Quick Aid to Recover Google's Nonresponsive Windows Share App</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-great-reshuffle-on-linkedin-a-deep-dive-into-green-skills-sustainable-jobs-and-overlooked-pitfalls-expert-commentary-from-zdnet/"><u>The 'Great Reshuffle' On LinkedIn: A Deep Dive Into Green Skills, Sustainable Jobs and Overlooked Pitfalls | Expert Commentary From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-case-for-backing-ai-and-clean-energy-in-singapore-funding-the-path-to-decarbonization/"><u>The Case for Backing AI & Clean Energy in Singapore: Funding the Path to Decarbonization</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-essentials-of-right-to-repair-laws-and-their-significance-for-everyday-users-digitalwise-blog/"><u>The Essentials of Right-to-Repair Laws & Their Significance for Everyday Users | DigitalWise Blog</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-essentials-of-the-right-to-repair-movement-how-it-affects-consumers-and-why-its-crucial/"><u>The Essentials of the Right-to-Repair Movement: How It Affects Consumers and Why It's Crucial.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tired-of-battling-snowstorms-in-cleveland-discover-the-ultimate-solution-with-an-innovative-electric-snow-blower/"><u>Tired of Battling Snowstorms in Cleveland? Discover the Ultimate Solution with an Innovative Electric Snow Blower</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-a-comprehensive-guide-by-zdnet/"><u>Top 5 Eco-Friendly Smartphones : A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-solar-power-banks-comprehensive-review-techradar/"><u>Top-Rated Portable Solar Power Banks : Comprehensive Review - TechRadar</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-essential-insights-for-crafting-youtube-intros-aplusb-methods/"><u>[New] In 2024, Essential Insights for Crafting YouTube Intros A+B Methods</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing-for-2024/"><u>[New] Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-new-wave-of-coding-excellence-av1-vs-vp9-face-off/"><u>[Updated] In 2024, The New Wave of Coding Excellence AV1 vs VP9 Face-Off</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-ultimate-review-why-dells-newest-xps-lineup-excels-in-performance-and-style-insights-from-a-tech-guru/"><u>1. Ultimate Review: Why Dell's Newest XPS Lineup Excels in Performance & Style - Insights From a Tech Guru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/15-gaming-laptop-at-just-515-best-sale-at-best-buy-techspot/"><u>15 Gaming Laptop at Just $515 - Best Sale at Best Buy | TechSpot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-unbeatable-cyber-monday-discounts-for-202-expert-picks-by-zdnet/"><u>Discover the Most Unbeatable Cyber Monday Discounts for 202#: Expert Picks by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-2024-bargains-at-best-buy-top-picks-and-last-minute-savings/"><u>Exclusive October Prime Day 2024 Bargains at Best Buy: Top Picks & Last-Minute Savings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/harnessing-the-power-of-video-the-most-effective-fb-ad-practices-for-2024/"><u>Harnessing the Power of Video The Most Effective FB Ad Practices for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-5-remote-video-capture-gadgets/"><u>In 2024, The Ultimate 5 Remote Video Capture Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-chance-for-savings-top-picks-from-best-buys-end-of-season-gift-extravaganza/"><u>Last Chance for Savings! Top Picks From Best Buy's End-of-Season Gift Extravaganza</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-drivers-available-connect-your-epson-xp-245-with-windows-7-8-and-10-systems/"><u>Latest Drivers Available: Connect Your Epson XP-245 with Windows 7, 8 & 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/startech-usb-video-capture-card-driver-get-your-free-version-now/"><u>StarTech USB Video Capture Card Driver - Get Your Free Version Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-prime-day-bargain-metas-51er-new-quest-vr-headset-with-512gb-capacity-on-special-offer-limited-availability-now-zdnet/"><u>Top October Prime Day Bargain: Meta's 51Er New Quest VR Headset with 512GB Capacity on Special Offer - Limited Availability Now | ZDNet</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mastering-face-blurring-essential-apps-tips-and-tricks-for-beginners/"><u>Updated In 2024, Mastering Face Blurring Essential Apps, Tips, and Tricks for Beginners</u></a></li>
 </ul></div>
 

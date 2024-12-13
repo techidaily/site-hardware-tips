@@ -1,7 +1,7 @@
 ---
 title: Top 5 Premium Mech-Keyboards for Gamers - Expert Picks by ZDNet
-date: 2024-12-03T19:34:38.575Z
-updated: 2024-12-07T03:49:27.105Z
+date: 2024-12-08T16:06:17.314Z
+updated: 2024-12-12T18:00:14.676Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ Our pick for the overall best 15-inch laptop is the [MacBook Air M3](https://app
 
 However, I get that the MacBook Air isn't for everyone, so I've included four other great 15-inch laptops on this list for some common use cases: best for the office, best budget, best for creators, and best for gaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best 15-inch laptops of 2024
 
 Show less 
@@ -44,6 +48,10 @@ Cons
 * Thin body means weak speakers
 
 ## Apple MacBook Air M3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best 15-inch laptop overall
 
@@ -106,13 +114,13 @@ Cons
 * Mediocre display
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Aspire Go 15
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best budget 15-inch laptop
@@ -144,10 +152,6 @@ Cons
 
 ## Asus Vivobook Pro 15
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best 15-inch laptop for creators
 
 Armed with an impressive arsenal of hardware, the Vivobook S 15 is a powerful laptop with a gorgeous OLED screen that creators will love. Its solid processor and video card combination can easily handle demanding tasks such as photo and video editing.   
@@ -176,14 +180,10 @@ Cons
 * Bulky
 * Power hungry
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Razer Blade 15
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best 15-inch gaming laptop
@@ -197,10 +197,6 @@ The 15.6-inch display is equally impressive, featuring a 360Hz refresh rate and 
 **Razer Blade 15 tech specs: CPU:** Intel Core i7-12700K | **GPU:** Nvidia GeForce RTX 3070Ti with 8GB | **RAM:** 16GB | **Storage:** 1TB | **Display:** FHD, 360Hz refresh rate, 400 nits | **Battery:** Up to 8 hours | **Weight:** 4.43 lbs.
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best 15-inch laptop?
 
@@ -228,6 +224,10 @@ More well-rounded machines like the Dell XPS 15 or the MacBook Air M3 are better
 | Acer Aspire Go 15               | A budget laptop that is capable enough for everyday tasks.                                         |
 | Asus Vivobook Pro 15            | A laptop for creators with powerful photo and video editing capabilities.                          |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test laptops
 
 Kyle Kucharski/ZDNET
@@ -245,6 +245,10 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 **Also: [The best laptop docking stations you can buy: Expert tested](https://www.zdnet.com/home-and-office/best-laptop-docking-station/)** 
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing a 15-inch laptop
 
@@ -273,10 +277,6 @@ While every computing platform has its loyal supporters, most people use a parti
 **Also: [5 Linux commands I use to keep my device running smoothly](https://www.zdnet.com/article/5-linux-commands-i-use-to-keep-my-device-running-smoothly/)**
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you can upgrade to Windows 11\. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative 15-inch laptops worth considering?
 
@@ -324,18 +324,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-art-of-connection-4-ways-to-tie-in-your-fb-story/"><u>[New] 2024 Approved The Art of Connection 4 Ways to Tie in Your Fb Story</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-harnessing-your-creative-power-with-ipad-for-time-lapses-for-2024/"><u>[New] Harnessing Your Creative Power with iPad for Time-Lapses for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/aster-your-first-impressions-best-free-intro-makers/"><u>[New] Master Your First Impressions Best Free Intro Makers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-optimizing-visuals-editing-videos-with-storyremix-and-windows-11-photos/"><u>[Updated] Optimizing Visuals Editing Videos with StoryRemix and Windows 11 Photos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-11x-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme 11X 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-13-pro-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 13 Pro to MacBook without Hindrance | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-video-setup-starter-kit-for-excursion-documentation/"><u>In 2024, Video Setup Starter Kit for Excursion Documentation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-vacation-budget-access-cut-price-hotels-car-hires-and-theme-park-admission-through-our-member-deals-zdnets-tips/"><u>Maximize Your Vacation Budget: Access Cut-Price Hotels, Car Hires & Theme Park Admission Through Our Member Deals | ZDNet's Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximizing-lifespan-and-performance-expert-tips-on-maintaining-high-end-electric-bike-batteries/"><u>Maximizing Lifespan & Performance: Expert Tips on Maintaining High-End Electric Bike Batteries</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-away-from-worker-monitoring-strategies-for-the-transport-sector-insights-by-zdnet/"><u>Navigating Away From Worker Monitoring: Strategies for the Transport Sector - Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-without-technology-embracing-the-old-school-road-atlas-in-light-of-cognitive-health-awareness-zdnet-insights/"><u>Navigating Without Technology: Embracing the Old-School Road Atlas in Light of Cognitive Health Awareness | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/potential-risks-of-bmws-inductive-charge-technology-on-future-iphones-according-to-zdnet/"><u>Potential Risks of BMW's Inductive Charge Technology on Future iPhones, According to ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-power-ais-effect-on-media-making/"><u>Transformative Power: AI’s Effect on Media Making</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-tickle-treasure-trove-uncovering-best-apps-for-memes/"><u>[New] 2024 Approved Tickle Treasure Trove Uncovering Best Apps for Memes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-customize-video-epilogues-with-our-premium-sound-samples/"><u>[New] Customize Video Epilogues with Our Premium Sound Samples</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images/"><u>[Updated] In 2024, From Novice to Pro Your Step-by-Step Guide to YouTube Live Images</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-inside-window-11s-power-saving-secrets-for-2024/"><u>[Updated] Inside Window 11'S Power-Saving Secrets for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-harmony-with-googles-cross-platform-tool/"><u>Achieving Harmony with Google's Cross-Platform Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-flash-sale-alert-premium-thunderbolt-ports-unleashed-high-performance-users-can-save-70-now-insightful-coverage-from-zdnet/"><u>Amazon Flash Sale Alert! Premium Thunderbolt Ports Unleashed – High-Performance Users Can Save $70 Now | Insightful Coverage From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apples-class-action-payout-begins-eligible-macbook-users-to-receive-compensation/"><u>Apple's Class Action Payout Begins: Eligible MacBook Users to Receive Compensation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-outriders-games-audio-malfunctions-successfully/"><u>Diagnosing & Repairing Your Outriders Game's Audio Malfunctions Successfully</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-trusted-platform-module-tpm-becomes-mandatory-for-windows-11-compatibility/"><u>How the Trusted Platform Module (TPM) Becomes Mandatory for Windows 11 Compatibility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-deal-alert-hp-victus-15l-laptop-now-at-unbeatable-price-of-480/"><u>Labor Day Deal Alert: HP Victus 15L Laptop Now at Unbeatable Price of $480!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mary-jo-foley-reflects-on-an-impactful-journey-with-microsoft-at-zdnet/"><u>Mary Jo Foley Reflects on an Impactful Journey with Microsoft at ZDNet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-leading-resources-for-collecting-lofi-playlists-and-designs/"><u>New In 2024, Leading Resources for Collecting Lofi Playlists and Designs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1576837-9781459725577-the-ufo-files/"><u>The UFO Files | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-top-ranked-ram-mods-of-2023-optimizing-performance-for-professionals-and-gamers-zdnet/"><u>Ultimate Guide to the Top-Ranked RAM Mods of 2023: Optimizing Performance for Professionals & Gamers | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-review-the-ultimate-mini-pc-alternative-for-windows-fans-meet-the-new-mac-mini-contender/"><u>ZDNet Review: The Ultimate Mini PC Alternative for Windows Fans - Meet the New 'Mac Mini' Contender!</u></a></li>
 </ul></div>
 

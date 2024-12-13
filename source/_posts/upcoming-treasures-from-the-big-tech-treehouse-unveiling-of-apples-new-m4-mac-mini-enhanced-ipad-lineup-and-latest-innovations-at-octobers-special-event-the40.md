@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Treasures From the Big Tech Treehouse: Unveiling of Apple’s New M4 Mac Mini, Enhanced iPad Lineup, and Latest Innovations at October's Special Event - The Insightful Guide"
-date: 2024-12-02T03:33:57.046Z
-updated: 2024-12-06T22:14:46.528Z
+date: 2024-12-07T00:50:56.772Z
+updated: 2024-12-12T19:10:13.340Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,22 +118,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-exclusive-list-of-best-video-chat-apps-for-iphone-and-android/"><u>[New] 2024 Approved Exclusive List of Best Video Chat Apps for iPhone and Android</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mastering-mobile-asmr-must-have-apps/"><u>[Updated] 2024 Approved Mastering Mobile ASMR Must-Have Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-distinguishing-between-youtube-content-control-and-creative-commons-flexibility/"><u>[Updated] Distinguishing Between YouTube Content Control and Creative Commons Flexibility</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-elevating-engagement-top-discord-bots-you-must-try-for-2024/"><u>[Updated] Elevating Engagement Top Discord Bots You Must Try for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-reels-harnessing-tiktok-secrets-for-popularity-surge/"><u>[Updated] In 2024, Instagram Reels Harnessing TikTok Secrets for Popularity Surge</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-polishing-job-experience-descriptions/"><u>[Updated] Polishing Job Experience Descriptions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-vs-high-end-robot-cleaners-a-cost-efficiency-showdown-and-purchase-guide-for-savvy-consumers-zdnet/"><u>Affordable vs High-End Robot Cleaners: A Cost-Efficiency Showdown and Purchase Guide for Savvy Consumers | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-the-top-overlooked-dual-function-robot-cleaner-from-an-unknown-brand-featured-on-zdnet/"><u>Discover the Hidden Gem: The Top Overlooked Dual-Function Robot Cleaner From an Unknown Brand - Featured on ZDNet!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to others devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-ultimate-smartphone-filmmakers-handbook-for-youtube-thumbnails/"><u>In 2024, The Ultimate Smartphone Filmmaker's Handbook for YouTube Thumbnails</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-approach-in-robotics-learning-from-animal-models-over-human-analogues-insights-from-the-new-breed-book/"><u>Innovative Approach in Robotics: Learning From Animal Models Over Human Analogues - Insights From The New Breed Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-chatgpt-with-our-expert-guide-to-ultimate-custom-instructions/"><u>Master ChatGPT with Our Expert Guide to Ultimate Custom Instructions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-yard-work-unveiling-the-most-enjoyable-remote-controlled-lawnmower-on-zdnets-latest-test-drive/"><u>Revolutionize Yard Work! Unveiling the Most Enjoyable Remote-Controlled Lawnmower on ZDNet's Latest Test Drive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-roborock-vacuum-cleaners-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Roborock Vacuum Cleaners : In-Depth Analysis & Reviews by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncovering-the-best-kept-secret-in-robot-vacuums-a-stunning-find-from-a-newcomer-to-market-zdnet-exclusive-review/"><u>Uncovering the Best Kept Secret in Robot Vacuums: A Stunning Find From a Newcomer to Market | ZDNET Exclusive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-full-potential-top-10-tweaks-for-extending-your-robovacs-battery-efficiency/"><u>Unlocking Full Potential: Top 10 Tweaks for Extending Your RoboVac’s Battery Efficiency</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-top-benefits-of-roborocks-high-end-robot-cleaner-an-expert-evaluation-zdnet/"><u>Unveiling the Top Benefits of Roborock's High-End Robot Cleaner - An Expert Evaluation | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-exclusive-apples-m2-macbook-air-available-at-a-steal-for-749-dont-miss-out/"><u>Amazon Prime Day Exclusive: Apple's M2 MacBook Air Available at a Steal for $749 - Don't Miss Out!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clearer-viewing-experience-fix-a-purple-blue-distortion-on-your-television-in-8-easy-ways/"><u>Clearer Viewing Experience: Fix a Purple-Blue Distortion on Your Television in 8 Easy Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-vetted-leading-digital-journals-for-purchase-comprehensive-analysis-pcmag/"><u>Expertly Vetted Leading Digital Journals for Purchase - Comprehensive Analysis | PCMag</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-11-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 11 and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-windows-10s-sound-driver-landscape/"><u>Navigating Windows 10'S Sound Driver Landscape</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-oct-2024s-greatest-bargains-still-on-offer-top-picks-from-best-buy/"><u>Prime Day Oct 2024'S Greatest Bargains Still on Offer! - Top Picks From Best Buy</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-window-10-shutdown-lags-with-ease/"><u>Resolve Your Window 10 Shutdown Lags with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-hp-cyber-week-blowout-sale-70-75-off-top-tech-find-your-dream-monitor-or-laptop-at-unbeatable-prices-featured-on-zdnet/"><u>Save Big with HP Cyber Week Blowout Sale: 70-75% Off Top Tech - Find Your Dream Monitor or Laptop at Unbeatable Prices, Featured on ZDNet.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-starter-linux-os-options-comprehensive-analysis-and-reviews-by-professionals/"><u>Top-Rated Starter Linux OS Options: Comprehensive Analysis & Reviews by Professionals</u></a></li>
 </ul></div>
 

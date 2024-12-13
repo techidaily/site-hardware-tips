@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Laptops Unveiled at CES 2024 - Insights From ZDNet
-date: 2024-12-03T18:38:49.723Z
-updated: 2024-12-06T20:54:31.920Z
+date: 2024-12-06T02:04:40.285Z
+updated: 2024-12-12T23:11:46.496Z
 tags:
   - laptops
 categories:
@@ -95,15 +95,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64b42205-96dc-4b01-a7c5-12f41ce673a9%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Amazon laptop deals
 
@@ -120,7 +112,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64b42205-96dc-4b01-a7c5-12f41ce673a9%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Walmart laptop deals
@@ -157,6 +149,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -169,10 +165,6 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -182,9 +174,17 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -193,7 +193,7 @@ When you're considering your budget for a new laptop, you have to consider what 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -257,22 +257,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-conquer-the-metaverse-top-7-devices-that-matter/"><u>[Updated] Conquer the Metaverse Top 7 Devices That Matter</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-t5-thievery-full-review-of-the-action-gem/"><u>[Updated] T5 Thievery - Full Review of the Action Gem</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-creating-fluid-edits/"><u>[Updated] The Ultimate Guide to Creating Fluid Edits</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-vocal-variety-ventures-in-free-fire-play/"><u>[Updated] Vocal Variety Ventures in Free Fire Play</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-record-whole-page-visuals/"><u>2024 Approved Record Whole Page Visuals</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-steps-to-secure-unmarked-stock-photos-for-business/"><u>2024 Approved Steps to Secure Unmarked Stock Photos for Business</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easily-change-ape-audio-to-m4a-online-at-no-cost-using-movavis-service/"><u>Easily Change APE Audio to M4A Online at No Cost - Using Movavi's Service</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-embracing-constructive-feedback-ignoring-the-rest/"><u>In 2024, Embracing Constructive Feedback, Ignoring the Rest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-hybrid-vehicles-comprehensive-review-by-zdnet/"><u>Top 5 Hybrid Vehicles : Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premium-wireless-phone-charger-picks-az-central/"><u>Top 5 Premium Wireless Phone Charger Picks - AZ Central</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-southwest-airlines-rewards-credit-cards-choose-wisely-zdnet/"><u>Top 5 Southwest Airlines Rewards Credit Cards : Choose Wisely - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-essential-drone-gadgets-of-2022-you-cant-miss-expert-picks-by-zdnet/"><u>Top Essential Drone Gadgets of 2022 You Can't Miss - Expert Picks by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-automotive-battery-charger-reviews-for-2n4-professional-testing-insights-techcrunch/"><u>Top-Rated Automotive Battery Charger Reviews for 2N4 - Professional Testing Insights | TechCrunch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unfair-charges-how-southwest-airlines-struck-a-blow-to-customer-trust-during-critical-moments-insights-from-zdnet/"><u>Unfair Charges: How Southwest Airlines Struck a Blow to Customer Trust During Critical Moments - Insights From ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-vehicle-insights-the-ultimate-guide-to-using-a-bluetooth-enabled-code-reader-for-your-check-engine-light-issues-zdnet/"><u>Unlock Vehicle Insights: The Ultimate Guide to Using a Bluetooth-Enabled Code Reader for Your Check Engine Light Issues | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-mystery-of-the-zenith-polestar-2s-unexpected-journey-insights-from-an-expert-review/"><u>Unraveling the Mystery of the Zenith Polestar 2'S Unexpected Journey | Insights From an Expert Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-generate-individual-meme-crafts-today/"><u>[New] 2024 Approved Generate Individual Meme Crafts Today</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-instantly-access-fb-videos-on-your-apple-entertainment-center/"><u>[Updated] In 2024, Instantly Access FB Videos on Your Apple Entertainment Center</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-free-mobile-screen-snatching-androids-leading-eight/"><u>2024 Approved Free Mobile Screen Snatching - Android's Leading Eight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-crowd-strategies-for-buying-new-macbook-and-mac-mini-models-without-waiting-in-line-tech-insights/"><u>Beat the Crowd: Strategies for Buying New MacBook and Mac Mini Models Without Waiting in Line | Tech Insights</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diy-mpeg-recovery-guide-expert-tips-for-correcting-corrupted-video-files/"><u>DIY MPEG Recovery Guide: Expert Tips for Correcting Corrupted Video Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-with-windows-10-not-identifying-hdmi-tv-step-by-step-solution/"><u>Fixing Issues with Windows 10 Not Identifying HDMI TV - Step by Step Solution</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211107461-9781667460208-gestion-du-stress/"><u>Gestion du stress | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-save-350-on-the-hp-victus-15-laptop-at-best-buy-this-labor-day-exclusive-deals/"><u>Limited Time Offer: Save $350 on the HP Victus 15 Laptop at Best Buy This Labor Day – Exclusive Deals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/m-powered-mac-users-rejoice-upcoming-support-for-fedora-linux-confirmed-by-zdnet-insights/"><u>M-Powered Mac Users Rejoice! Upcoming Support for Fedora Linux Confirmed by ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/running-multiple-artificial-intelligence-models-locally-techniques-and-tools-without-relying-on-external-cloud-services/"><u>Running Multiple Artificial Intelligence Models Locally: Techniques and Tools Without Relying on External Cloud Services</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speed-up-your-understanding-of-numerical-japan/"><u>Speed-Up Your Understanding of Numerical Japan</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-importance-of-tpm-for-windows-11-installation-and-how-it-enhances-your-pcs-safety/"><u>The Importance of TPM for Windows 11 Installation and How It Enhances Your PC’s Safety</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ultimate-guide-steps-to-clone-a-windows-server-2008-r2-disk/"><u>Ultimate Guide: Steps to Clone a Windows Server 2008 R2 Disk</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-wish-for-an-extended-windows-10-support-era-goes-unfulfilled-microsofts-quiet-move-zdnet/"><u>Your Wish for an Extended Windows 10 Support Era Goes Unfulfilled - Microsoft's Quiet Move | ZDNet</u></a></li>
 </ul></div>
 

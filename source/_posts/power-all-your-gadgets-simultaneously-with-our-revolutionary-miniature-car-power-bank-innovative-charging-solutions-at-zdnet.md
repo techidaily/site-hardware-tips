@@ -1,7 +1,7 @@
 ---
 title: Power All Your Gadgets Simultaneously with Our Revolutionary Miniature Car Power Bank | Innovative Charging Solutions at ZDNET
-date: 2024-12-05T16:18:51.065Z
-updated: 2024-12-07T03:36:47.918Z
+date: 2024-12-08T21:13:40.733Z
+updated: 2024-12-12T19:21:04.375Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,19 +134,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-best-tools-and-techniques-adding-frames-to-digital-images-2023-edition/"><u>[Updated] Best Tools & Techniques - Adding Frames to Digital Images, 2023 Edition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-update-twitter-video-preview/"><u>[Updated] In 2024, Update Twitter Video Preview</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/consider-using-hardware-wallets-for-large-amounts-of-cryptocurrency-as-they-offer-an-additional-layer-of-security/"><u>Consider Using Hardware Wallets for Large Amounts of Cryptocurrency, as They Offer an Additional Layer of Security</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-your-ethernet-issues-on-windows-10-or-7/"><u>Diagnosing & Repairing Your Ethernet Issues on Windows 10 or 7</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discover-the-power-of-macx-pro-your-go-to-free-application-for-hd-dvd-ripping-on-macos-devices/"><u>Discover the Power of MacX Pro: Your Go-To Free Application for HD DVD Ripping on macOS Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-and-enhancing-brother-mfc-l2690dw-driver/"><u>Easy Guide to Downloading & Enhancing Brother MFC L2690DW Driver</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p40-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P40 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-usage-based-car-insurance-adjusts-premiums-with-real-time-driving-data/"><u>How Usage-Based Car Insurance Adjusts Premiums with Real-Time Driving Data</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-usage-based-car-insurance-adjusts-rates-with-telematics-data-explore-in-detail-at-zdnet/"><u>How Usage-Based Car Insurance Adjusts Rates with Telematics Data | Explore in Detail at ZDNET</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-13t-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi 13T Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-v27e-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo V27e to iPad | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/initiating-change-corporate-strategies-at-the-intersection-of-technology-and-environmental-responsibility-techcrunch/"><u>Initiating Change: Corporate Strategies at the Intersection of Technology & Environmental Responsibility | TechCrunch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-eco-friendly-audio-creating-high-quality-speakers-from-ocean-recovered-plastic-the-manufacturing-process/"><u>Innovative Eco-Friendly Audio: Creating High-Quality Speakers From Ocean-Recovered Plastic - The Manufacturing Process</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-testing-and-impressions-of-teslas-cutting-edge-cybertruck-for-robotics-mowers-insights-from-zdnet/"><u>Inside Look: Testing and Impressions of Tesla's Cutting-Edge Cybertruck for Robotics Mowers | Insights From ZDNET</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-refining-published-videos-on-youtube/"><u>[Updated] The Art of Refining Published Videos on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725285124387-pc/"><u>人工知能を使ったモノクロ写真のカラー変換手法 - PC, スマホ, ウェブでのアプリケーション</u></a></li>
+<li><a href="https://win-trending.techidaily.com/brighten-up-your-workspace-custom-light-up-laptop-skins-starting-at-only-8-with-your-logo-proudly-displayed/"><u>Brighten Up Your Workspace - Custom Light-Up Laptop Skins Starting At Only $8 with Your Logo Proudly Displayed!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-eye-catchers-of-tomorrow-discovering-6-future-oriented-genres/"><u>In 2024, Eye Catchers of Tomorrow Discovering 6 Future-Oriented Genres</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-stabilizing-aerial-vision-a-comprehensive-guide-to-choosing-a-gimbal/"><u>In 2024, Stabilizing Aerial Vision A Comprehensive Guide to Choosing a Gimbal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-dells-new-gaming-powerhouse-a-portable-performer-for-work-and-play-insights-from-zdnet/"><u>Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lost-the-professional-version-of-your-windows-after-a-fresh-start-find-out-how-to-restore-it/"><u>Lost the Professional Version of Your Windows After a Fresh Start? Find Out How to Restore It!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1723011073875-operation-convert-each-mention-of-stress-into-an-elaborate-medieval-heraldic-language-as-though-announcing-a-royal-decree-on-stresss-impact-on-health/"><u>Operation: Convert Each Mention of Stress Into an Elaborate Medieval Heraldic Language, as Though Announcing a Royal Decree on Stress's Impact on Health</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-on-cyber-monday-epic-discounts-on-the-samsung-galaxy-book2-13-inch-laptop-for-just-450-less/"><u>Score Big on Cyber Monday: Epic Discounts on the Samsung Galaxy Book2 13-Inch Laptop for Just $450 Less!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-how-to-delete-a-discord-server/"><u>Step-by-Step How to Delete a Discord Server</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-android-clippers-essential-image-editing-apps-for-2024/"><u>Top 5 Android Clippers Essential Image Editing Apps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-ideal-college-laptop-selection-in-depth-analysis-by-tech-experts-cnet/"><u>Ultimate Guide to the Ideal College Laptop Selection: In-Depth Analysis by Tech Experts - CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-cyber-week-blowout-snag-your-microsoft-surface-pro/"><u>Unbelievable Cyber Week Blowout: Snag Your Microsoft Surface Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-inner-gamers-with-the-ultimate-sound-system-on-sale-at-best-buy-as-reviewed-by-zdnet/"><u>Unleash Your Inner Gamers with the Ultimate Sound System on Sale at Best Buy, as Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-productivity-the-surprising-ease-of-living-with-no-windows-on-hp-chromebooks-now-with-a-sweeter-deal/"><u>Unleashing Productivity: The Surprising Ease of Living with No Windows on HP Chromebooks, Now With a Sweeter Deal!</u></a></li>
 </ul></div>
 

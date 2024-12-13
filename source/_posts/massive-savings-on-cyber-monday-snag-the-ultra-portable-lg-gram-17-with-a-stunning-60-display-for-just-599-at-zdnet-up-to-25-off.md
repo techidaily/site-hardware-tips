@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings on Cyber Monday: Snag the Ultra Portable LG Gram 17 with a Stunning 60 Display for Just $599 at ZDNet - Up to 25%% Off!"
-date: 2024-12-04T20:09:08.626Z
-updated: 2024-12-06T21:15:32.300Z
+date: 2024-12-05T19:36:13.600Z
+updated: 2024-12-12T23:18:58.750Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9df070ed-bda2-4543-9019-9a0e1f642df9%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,22 +65,20 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-capturing-chronos-mastering-phantoms-time-extension-feature/"><u>[New] Capturing Chronos Mastering Phantom's Time Extension Feature</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-overcoming-limitation-invisible-video-recommendations/"><u>[New] Overcoming Limitation Invisible Video Recommendations</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-illusions-spatial-and-temporal-shifts/"><u>2024 Approved Crafting Illusions Spatial and Temporal Shifts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-for-lengthening-gopros-electric-life/"><u>2024 Approved Strategies for Lengthening GoPro's Electric Life</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-powerhouse-compact-pc-boasts-multiple-ports-and-strong-performance-for-less-than-150-insights-from-zdnet/"><u>Affordable Powerhouse: Compact PC Boasts Multiple Ports & Strong Performance for Less Than $150 - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-get-the-ultimate-powerhouse-gaming-laptop-for-250-less-this-memorial-day-exclusive-deals-on-zdnet/"><u>Don't Miss Out! Get the Ultimate Powerhouse Gaming Laptop for $250 Less This Memorial Day | Exclusive Deals on ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-handling-platform-not-supported-during-intel-serial-io-driver-implementation/"><u>Expert Advice on Handling 'Platform Not Supported' During Intel Serial IO Driver Implementation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities/"><u>Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-dx11-version-compatibility-glitches-on-wwe-2k-battlegrounds-game-console/"><u>Fix DX11 Version Compatibility Glitches on WWE 2K Battlegrounds Game Console</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/google-find-your-perfect-game-rig-exclusive-2023-holiday-deals/"><u>Google - Find Your Perfect Game Rig: Exclusive 2023 Holiday Deals</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-achieve-excellence-in-google-meet-hostparticipant-at-no-cost/"><u>In 2024, Achieve Excellence in Google Meet (Host/Participant) at No Cost</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-70-luxury-gaming-pc-bargains-for-seniors-cyberpowerpc/"><u>Top 70 Luxury Gaming PC Bargains for Seniors | CyberPowerPC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-design-displays-comprehensive-reviews-and-testing-by-professionals-techradar/"><u>Top-Rated Graphics Design Displays - Comprehensive Reviews & Testing by Professionals | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-2024s-high-performance-gaming-desktops-in-depth-test-results-digital-trends/"><u>Ultimate List of 2024'S High-Performance Gaming Desktops: In-Depth Test Results | Digital Trends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-microsofts-policy-will-windows-11-updates-continue-on-non-compatible-devices-zdnet/"><u>Understanding Microsoft’s Policy: Will Windows 11 Updates Continue on Non-Compatible Devices? | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-tpm-in-windows-11-a-crucial-security-feature-explained/"><u>Understanding TPM in Windows 11 - A Crucial Security Feature Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-direct-guide-to-modifying-macs-default-snapshots/"><u>[New] 2024 Approved Direct Guide to Modifying Mac's Default Snapshots</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-tips-embedding-moving-images-in-written-content/"><u>[New] 2024 Approved Free Tips Embedding Moving Images in Written Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-visualize-vitality-vent-laughter-kapwings-design-suite/"><u>[New] 2024 Approved Visualize Vitality, Vent Laughter - Kapwing’s Design Suite</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-channel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>[Updated] In 2024, Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-connected-platforms-sharing-videos-between-twitter-and-tumblr/"><u>2024 Approved Connected Platforms Sharing Videos Between Twitter & Tumblr</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/a-deep-dive-prodigious-polarrs-editing-capabilities/"><u>A Deep Dive Prodigious Polarr's Editing Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuite-convertisseur-video-online-pour-transformer-3gp-en-flac-et-wav-avec-movavi/"><u>Gratuité: Convertisseur Vidéo Online Pour Transformer 3GP en FLAC Et WAV Avec Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-x-flip-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo X Flip FRP Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-pro-or-macbook-air-deciding-the-superior-device-for-your-needs-gadgetadvisor/"><u>IPad Pro or MacBook Air: Deciding the Superior Device for Your Needs | GadgetAdvisor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsofts-groundbreaking-announcements-at-the-surface-and-artificial-intelligence-event-covered-by-zdnet-an-overview/"><u>Microsoft's Groundbreaking Announcements at the Surface & Artificial Intelligence Event Covered by ZDNET: An Overview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-a-limited-time-offer-get-the-hp-victus-15-gaming-laptop-for-only-515-this-cyber-monday-best-deal-alert/"><u>Save Big with a Limited-Time Offer: Get the HP Victus 15 Gaming Laptop for Only $515 This Cyber Monday – Best Deal Alert!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-tested-and-reviewed-digital-notepads-find-your-perfect-match/"><u>Top-Ranking Tested & Reviewed Digital Notepads: Find Your Perfect Match!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-top-underappreciated-dual-purpose-device-for-your-workspace-a-2023-review/"><u>Uncovering the Top Underappreciated Dual-Purpose Device for Your Workspace: A 2023 Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/weekend-upgrade-why-updating-your-google-chrome-now-is-a-must-do-infographic/"><u>Weekend Upgrade: Why Updating Your Google Chrome Now Is a Must-Do [Infographic]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-is-utorrent-unresponsive-explore-7-effective-remedies/"><u>Why Is Utorrent Unresponsive? Explore 7 Effective Remedies</u></a></li>
 </ul></div>
 

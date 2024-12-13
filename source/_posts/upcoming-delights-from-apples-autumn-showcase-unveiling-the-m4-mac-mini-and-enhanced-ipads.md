@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Delights From Apple's Autumn Showcase: Unveiling the M4 Mac Mini & Enhanced iPads!"
-date: 2024-12-05T02:59:01.740Z
-updated: 2024-12-06T20:37:27.356Z
+date: 2024-12-09T20:28:18.366Z
+updated: 2024-12-12T22:29:14.892Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,20 +118,14 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-boosting-your-competitive-edge-with-custom-vocalization-techniques-in-free-fire-gaming-free-solution-included/"><u>[New] 2024 Approved Boosting Your Competitive Edge with Custom Vocalization Techniques in Free Fire Gaming (Free Solution Included)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>[New] GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps/"><u>[Updated] 2024 Approved Swiftly Enhanced Facebook Videos Best Extensions, Hacks, and Apps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-13-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on 13 Ultra?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-15-plus-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 15 Plus With or Without Password</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-essentials-of-quality-tvs-top-5-with-peak-colors/"><u>The Essentials of Quality TVs Top 5 with Peak Colors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-solar-powered-lanterns-a-comprehensive-review-by-zdnet/"><u>Top 5 Solar-Powered Lanterns : A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-solar-powered-outdoor-lamps-your-ultimate-guide-gizmocentral/"><u>Top 5 Solar-Powered Outdoor Lamps : Your Ultimate Guide | GizmoCentral</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-compact-sunlight-power-banks-2023-edition-techradar/"><u>Top-Rated Compact Sunlight Power Banks - 2023 Edition | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-iphone-14-pro-and-pro-max-protectors-the-definitive-guide-techreview/"><u>Top-Rated iPhone 14 Pro & Pro Max Protectors: The Definitive Guide | TechReview</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-solar-power-banks-a-comprehensive-review-by-zdnet/"><u>Top-Rated Portable Solar Power Banks - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/track-your-carbon-footprint-reduction-with-ubers-latest-emission-tracker-feature-learn-more-about-the-impact-of-green-transportation-zdnet/"><u>Track Your Carbon Footprint Reduction with Uber's Latest Emission Tracker Feature - Learn More About the Impact of Green Transportation | ZDNet</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/troubleshooting-nonfunctional-mactubes-effective-solutions/"><u>Troubleshooting Nonfunctional MacTubes: Effective Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-note-12-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi Note 12 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-procedure-of-ending-linkedin-services-and-deletion-process-for-2024/"><u>[New] Procedure of Ending LinkedIn Services and Deletion Process for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-craft-memorable-content-explore-youtubes-top-10-creative-responses-for-2024/"><u>[Updated] Craft Memorable Content Explore YouTube's Top 10 Creative Responses for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-lenovo-notebook-ideal-for-blending-remote-and-office-tasks-at-a-1000-discounted-price-insights/"><u>Discover the Top Lenovo Notebook Ideal for Blending Remote & Office Tasks at a $1,000 Discounted Price - Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/full-scoop-deciphering-the-google-podcast-app/"><u>Full Scoop Deciphering the Google Podcast App</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-add-fonts-to-after-effects-for-2024/"><u>How to Add Fonts to After Effects for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-12-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 12 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hybrid-workers-get-ready-to-upgrade-exclusive-deal-alert-prime-days-1k-off-on-the-best-lenovo-laptop-picked-by-zdnet/"><u>Hybrid Workers, Get Ready to Upgrade! Exclusive Deal Alert: Prime Day's $1K Off on the Best Lenovo Laptop Picked by ZDNet.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/take-your-game-on-the-go-with-dells-latest-ultraportable-gaming-laptop-featured/"><u>Take Your Game On-The-Go with Dell’s Latest Ultraportable Gaming Laptop – Featured</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-new-era-of-productivity-on-the-go-how-hps-cutting-edge-chromebooks-elevate-work-and-study-experience-as-revealed/"><u>The New Era of Productivity on the Go: How HP's Cutting-Edge Chromebooks Elevate Work and Study Experience, as Revealed</u></a></li>
 </ul></div>
 

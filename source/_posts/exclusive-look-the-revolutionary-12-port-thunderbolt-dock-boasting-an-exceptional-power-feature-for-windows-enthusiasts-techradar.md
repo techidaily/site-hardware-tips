@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look: The Revolutionary 12-Port Thunderbolt Dock Boasting an Exceptional Power Feature for Windows Enthusiasts | TechRadar"
-date: 2024-12-02T03:36:46.189Z
-updated: 2024-12-07T01:35:39.837Z
+date: 2024-12-07T18:36:42.753Z
+updated: 2024-12-12T16:14:42.529Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cde8d55d1-86d7-400d-9731-1d1296ca9684%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,22 +149,21 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-streaming-saved-media-easy-igtv-downloads-on-pc-and-mac/"><u>[New] In 2024, The Art of Streaming Saved Media Easy IGTV Downloads on PC & Mac</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-affordable-camcorders-with-full-rotational-coverage/"><u>[Updated] In 2024, Top Affordable Camcorders with Full Rotational Coverage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/airpods-reset-ultimate-technique-revealed-know-when-its-time-to-do-so-zdnet-insights/"><u>AirPods Reset Ultimate Technique Revealed! Know When It's Time to Do So | ZDNET Insights.</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/balanced-photography-top-phones-and-cameras-tripod/"><u>Balanced Photography Top Phones & Cameras Tripod</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/compact-portable-docking-station-elevate-your-laptop-into-a-full-featured-desktop-setup-zdnet/"><u>Compact Portable Docking Station - Elevate Your Laptop Into a Full-Featured Desktop Setup | ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-latest-apple-iphone-12-why-its-a-game-changer/"><u>Comprehensive Analysis of the Latest Apple iPhone 12 - Why It's a Game-Changer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-gpt4all-operate-breakdown/"><u>How Does GPT4All Operate? Breakdown</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-overcome-launch-problems-with-tekken-8-on-your-computer/"><u>How To Successfully Overcome Launch Problems With Tekken 8 on Your Computer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>In 2024, Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-surfaces-key-to-triumph-lies-in-its-flexibility-discover-how-with-zdnet/"><u>Microsoft Surface's Key to Triumph Lies in Its Flexibility - Discover How with ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/safeguarding-windows-devices-comprehensive-guide-to-securing-personal-and-small-office-computers-insights-from-zdnet/"><u>Safeguarding Windows Devices: Comprehensive Guide to Securing Personal & Small Office Computers - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/scorching-deals-snag-samsung-odyssey-g7-at-a-whopping-50-discount-on-amazons-spring-fling-insights-from-zdnet/"><u>Scorching Deals: Snag Samsung Odyssey G7 at a Whopping 50% Discount on Amazon's Spring Fling - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-35-unbeatable-cyber-monday-offers-find-the-best-bargains-on-dell-products-at-retail-giants-like-best-buy-and-amazon/"><u>Top 35 Unbeatable Cyber Monday Offers: Find the Best Bargains on Dell Products at Retail Giants Like Best Buy & Amazon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-laptop-picks-for-2n4-professional-evaluations-and-comparisons-on-zdnet/"><u>Top-Ranking Laptop Picks for 2N4: Professional Evaluations & Comparisons on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-fastest-ram-on-the-market-boosting-productivity-and-gaming-rigs-techradar/"><u>Ultimate Guide to the Fastest RAM on the Market : Boosting Productivity & Gaming Rigs | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-confirms-the-era-of-fee-free-windows-10-upgrades-has-closed/"><u>ZDNet Confirms: The Era of Fee-Free Windows 10 Upgrades Has Closed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-apps-and-programs-for-image-video-integration/"><u>[New] Best Apps and Programs for Image Video Integration</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-ppt-recording-essential-tips/"><u>[New] In 2024, Mastering PPT Recording Essential Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transforming-your-video-content-making-square-format-footage-for-instagram/"><u>[Updated] In 2024, Transforming Your Video Content Making Square-Format Footage for Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exploring-the-dynamics-of-fb-video-speeds/"><u>2024 Approved Exploring the Dynamics of FB Video Speeds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-lenovo-laptops-ideal-for-remote-and-office-based-professionals-save-up-to-1k/"><u>Affordable Lenovo Laptops Ideal for Remote and Office-Based Professionals - Save Up To $1K</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-concealed-secrets-of-this-lightweight-lenovo-notebooks-trackpoint-and-more-techinsights/"><u>Discover the Concealed Secrets of This Lightweight Lenovo Notebook's TrackPoint & More | TechInsights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-convenience-how-the-buzzworthy-no-knot-usb-c-cord-transformed-into-a-must-have-for-my-journeys-insights/"><u>Discovering Convenience: How the Buzzworthy No-Knot USB-C Cord Transformed Into a Must-Have for My Journeys - Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssing-the-power-of-visual-appeal-in-your-youtube-advertising-for-2024/"><u>Harnessing the Power of Visual Appeal in Your YouTube Advertising for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-scrutinizing-active-presenters-record-quality/"><u>In 2024, Scrutinizing Active Presenter's Record Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-prime-gaming-deals-of-2024-save-big-now-before-theyre-gone-huge-discounts-up-to-1k-zdnet-exclusive/"><u>October Prime Gaming Deals of 2024: Save Big Now Before They're Gone! Huge Discounts up to $1K | ZDNET Exclusive</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protect-your-health-comprehensive-tips-on-cleaning-and-sanitizing-airpods-why-its-crucial/"><u>Protect Your Health: Comprehensive Tips on Cleaning and Sanitizing AirPods - Why It's Crucial!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/refining-zoom-image-precision-proactive-measures/"><u>Refining Zoom Image Precision Proactive Measures</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-play-40c-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor Play 40C</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-zdnets-1-choice-for-immersive-gaming-speakers-slashed-to-150-off-find-out-why-at-amazon/"><u>Score Big Savings! ZDNet's #1 Choice for Immersive Gaming Speakers Slashed to $150 Off - Find Out Why at Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tablet-or-laptop-showdown-in-depth-review-of-the-ipad-pro-vs-macbook-air-to-find-your-ideal-device/"><u>Tablet or Laptop Showdown: In-Depth Review of the iPad Pro vs MacBook Air to Find Your Ideal Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-49-unbeatable-newegg-christmas-savings-and-promotions-of-2023-find-your-bargains/"><u>Top 49 Unbeatable Newegg Christmas Savings & Promotions of 2023 - Find Your Bargains</u></a></li>
 </ul></div>
 

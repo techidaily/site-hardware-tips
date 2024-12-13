@@ -1,7 +1,7 @@
 ---
 title: Reliable Laptop Charger Goes on Sale - Great Deal for Durable Power Solutions Review
-date: 2024-12-03T03:55:17.079Z
-updated: 2024-12-06T18:15:48.574Z
+date: 2024-12-12T02:19:54.290Z
+updated: 2024-12-12T19:07:50.983Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ So what does HD stand for? High density. Put simply, Baseus used a different bat
 [ZDNET RECOMMENDS Baseus Blade HD The Baseus Blade HD is an upgraded version of the Blade, and makes use of silicon-carbon lithium polymer battery technology, making it 18% lighter and 20% smaller than the previous version. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Charging-Portable-Charger-20000mAh%2Fdp%2FB0BZP6R4MH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C90fe5b8b-3570-4fc9-8b14-15eef0ba69d2%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Baseus Blade HD tech specs
@@ -102,7 +102,7 @@ Recharge times are also very acceptable, at 1.2 hours when using the included US
 One thing that hasn't changed from the previous incarnation is that every surface of the Blade HD, just like the Blade before it, is a dust magnet, and will pick up and show every bit of dirt that gets on it. But the textured finish is nice in that the power bank isn't slippery like a lot of them are, so it's less likely to fall on the floor or into your laptop's keyboard!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -139,17 +139,16 @@ That aside, the [Baseus Blade HD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/-step-by-step-guide-to-youtube-comms-management-for-2024/"><u>[New] A Step-by-Step Guide to YouTube Comms Management for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-audio-preservation-for-academics-on-apple-systems/"><u>2024 Approved Audio Preservation for Academics on Apple Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/eco-impact-of-smartphones-assessing-harm-and-eco-friendly-solutions-insights-from-zdnet/"><u>Eco-Impact of Smartphones: Assessing Harm & Eco-Friendly Solutions - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-smartphones-environmental-impact-understanding-and-mitigation-tips/"><u>Evaluating Smartphone's Environmental Impact: Understanding & Mitigation Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-amazing-bbqs-with-webers-elite-electric-grills-save-50-today-on-premier-models-exclusive-deal/"><u>Experience Amazing BBQs with Weber's Elite Electric Grills: Save $50 Today on Premier Models - Exclusive Deal!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/green-energy-from-fungi-how-mycelium-chips-can-charge-gadgets-and-preserve-earth-insights-on-zdnet/"><u>Green Energy From Fungi: How Mycelium Chips Can Charge Gadgets & Preserve Earth - Insights on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/green-tech-innovations-the-journey-of-corporates-towards-sustainable-practices-insights-from-zdnet/"><u>Green Tech Innovations: The Journey of Corporates Towards Sustainable Practices - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/initiating-permanent-exclusion-from-facebook-services/"><u>Initiating Permanent Exclusion From Facebook Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/recover-lost-messages-and-notifications-on-your-apple-device/"><u>Recover Lost Messages and Notifications on Your Apple Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-conflicting-programs-in-win10-environment/"><u>Resolving Conflicting Programs in Win10 Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-windows-media-player-silence-problems-effective-fixes-revealed/"><u>Troubleshoot Windows Media Player Silence Problems - Effective Fixes Revealed</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-selection-of-mouse-alternatives-for-ios-devices/"><u>Ultimate Selection of Mouse Alternatives for iOS Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-techniques-to-elevate-your-screen-recordings-in-adobe-captive/"><u>[Updated] Cutting-Edge Techniques to Elevate Your Screen Recordings in Adobe Captive</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-influencer-wondershare-virbo-glossary/"><u>2024 Approved What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/create-at-least-three-distinct-characters-with-intertitles-displaying-their-names-commissioner-v-commissioner-v-operator-o-operator-o-and-greens-voice-green78/"><u>Create at Least Three Distinct Characters, with Intertitles Displaying Their Names: Commissioner V (Commissioner V), Operator O (Operator O), and Greens' Voice (Greens' Voice).</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-x50-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor X50</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huawei-matebook-x-pro-unveiled-a-matchup-against-the-leading-ultraportable-laptops-reviewed-by-zdnet/"><u>Huawei MateBook X Pro Unveiled - A Matchup Against the Leading Ultraportable Laptops Reviewed by ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-ultimate-guide-perfecting-pics-with-facetune/"><u>In 2024, Ultimate Guide Perfecting Pics with Facetune</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-on-cyber-monday-get-the-ultra-thin-and-sleek-lg-gram-17-for-a-steal-save-400-now-at-zdnets-exclusive-deals/"><u>Massive Discount on Cyber Monday: Get the Ultra-Thin and Sleek LG Gram 17 for a Steal - Save $400 Now at ZDNet's Exclusive Deals!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/semaphore-timeout-exceeded-correcting-the-problem-for-error-code-0x80070079/"><u>Semaphore Timeout Exceeded - Correcting the Problem for Error Code 0X80070079</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshoot-bcm2045a0-drivers-for-immediate-performance-boost/"><u>Troubleshoot BCM2045A0 Drivers for Immediate Performance Boost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-solution-30-usb-hub-saves-the-day-for-macbook-users-discover-more-on-zdnet/"><u>Ultimate Solution: $30 USB Hub Saves the Day for MacBook Users - Discover More on ZDNet!</u></a></li>
 </ul></div>
 

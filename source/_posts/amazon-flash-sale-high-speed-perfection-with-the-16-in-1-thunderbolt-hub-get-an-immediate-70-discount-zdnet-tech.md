@@ -1,7 +1,7 @@
 ---
 title: "Amazon Flash Sale: High-Speed Perfection with the 16-in-1 Thunderbolt Hub - Get an Immediate $70 Discount | ZDNet Tech"
-date: 2024-12-04T17:59:21.848Z
-updated: 2024-12-06T20:03:32.199Z
+date: 2024-12-11T20:45:16.058Z
+updated: 2024-12-12T19:38:47.484Z
 tags:
   - laptops
 categories:
@@ -20,7 +20,7 @@ And yes, that's _with_ the Nvidia RTX 3070 Ti graphics card.
 Aside from the amazing top-tier graphics card, the laptop offers so much more to keep your gaming running on the go. It offers a massive 2TB of storage for taking a literal library of games on the machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -28,7 +28,7 @@ Aside from the amazing top-tier graphics card, the laptop offers so much more to
 [![regular-gg-custom-hero-collection-door](https://www.zdnet.com/a/img/resize/0b0cc7d8ff9ce2dcc37545231a740e7b985d6824/2023/01/06/5432e6d1-6507-4feb-bcda-ebe426cbd068/regular-gg-custom-hero-collection-door.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET Gift Guides Looking for the perfect gift this year? Here's a great lineup of gift ideas and resources to get you started.  Read now](https://www.zdnet.com/collection/gift-guide/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The processor also clocks in at 2.3GHz, but can be boosted to up to 4.7GHz when you need it for gaming or even content. Also packed into this top-notch gaming machine is 16GB of RAM. Plus, one of the perks about this gaming laptop is that it doesn't look like a gaming laptop, so for those that don't want to advertise they have an expensive model while they're traveling, this is the perfect option.
@@ -69,24 +69,15 @@ Looking for other laptop options? No problem -- head over to our [dedicated gami
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup-for-2024/"><u>[New] Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-chatcast-collector-fb-groups-for-2024/"><u>[Updated] ChatCast Collector - FB Groups for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-tools-for-producing-road-trip-videos/"><u>[Updated] Tools for Producing Road Trip Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-how-to-accelerate-subscriber-count-on-your-channel/"><u>2024 Approved How to Accelerate Subscriber Count on Your Channel</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-maximizing-your-idevices-screen-record-functionality/"><u>2024 Approved Maximizing Your iDevice's Screen Record Functionality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoiding-costly-mistakes-preventing-damage-from-incompatible-usb-c-cables-tips-and-tricks/"><u>Avoiding Costly Mistakes: Preventing Damage From Incompatible USB-C Cables | Tips & Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoiding-tech-mishaps-with-the-right-usb-c-cable-selection-expert-guide/"><u>Avoiding Tech Mishaps with the Right USB-C Cable Selection: Expert Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-technology-must-haves-for-setting-up-a-home-recording-studio-zdnet/"><u>Essential Technology Must-Haves for Setting Up a Home Recording Studio | ZDNet</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fix-it-guide-no-more-distorted-screens/"><u>Fix-It Guide: No More Distorted Screens</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hps-latest-gamers-dream-the-victus-15l-laptop-slashed-to-a-steal-at-480-for-the-holiday-weekend-tech-analysis-by-zdnet/"><u>HP's Latest Gamers' Dream: The Victus 15L Laptop Slashed to a Steal at $480 for the Holiday Weekend | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-power-of-words-enhancing-viewer-count-with-impressive-description-templates/"><u>In 2024, The Power of Words Enhancing Viewer Count with Impressive Description Templates</u></a></li>
-<li><a href="https://video-capture.techidaily.com/shielding-identity-video-blur-and-privacy-preservation/"><u>Shielding Identity Video Blur and Privacy Preservation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-complete-cheat-sheet-constructing-an-unbeatable-gaming-station-as-recommended-by-zdnet-experts/"><u>The Complete Cheat Sheet: Constructing an Unbeatable Gaming Station as Recommended by ZDNet Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-is-now-how-enterprise-gadgets-are-changing-for-the-ai-revolution-tips-from-zdnet/"><u>The Future Is Now: How Enterprise Gadgets Are Changing for the AI Revolution - Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-premier-choices-in-memory-upgrades-for-enhanced-work-and-gaming-experience-best-ram-picks-of-2023-zdnet/"><u>The Premier Choices in Memory Upgrades for Enhanced Work and Gaming Experience – Best RAM Picks of 2023 | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-discover-the-mighty-power-of-affordable-micro-pcs-on-a-budget-insights-from-zdnet/"><u>Unbeatable Value: Discover the Mighty Power of Affordable Micro-PCs on a Budget - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-new-possibilities-in-laptops-with-hypers-cutting-edge-hubs-docks-and-ssd-enclosures-zdnet-insights/"><u>Unlocking New Possibilities in Laptops with Hyper's Cutting-Edge Hubs, Docks & SSD Enclosures | ZDNET Insights</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/d-ideas-for-daily-vlogging-talks-for-2024/"><u>Varied Ideas for Daily Vlogging Talks for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/youtube-tv-vs-hulu-with-live-tv-a-comprehensive-guide-to-selecting-your-ideal-streaming-experience/"><u>YouTube TV Vs. Hulu with Live TV: A Comprehensive Guide to Selecting Your Ideal Streaming Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-audacity-mastery-for-mac-users-audio-recording-essentials/"><u>[Updated] 2024 Approved Audacity Mastery for Mac Users Audio Recording Essentials</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-bifrost-betrayal-gods-at-war/"><u>[Updated] In 2024, Bifrost Betrayal Gods at War</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-innovative-approaches-to-documenting-gaming-on-ps4/"><u>[Updated] Innovative Approaches to Documenting Gaming on PS4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-glass-laptop-phenomenon-how-lenovo-defies-expectations-with-transparency-and-performance-report/"><u>Inside the Glass Laptop Phenomenon: How Lenovo Defies Expectations with Transparency and Performance - Report</u></a></li>
+<li><a href="https://video-capture.techidaily.com/invisible-listeners-guide-6-clandestine-recording-apps-androidios/"><u>Invisible Listeners Guide 6 Clandestine Recording Apps (Android/iOS)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-screen-clipping-techniques-for-delllenovomac-laptops-as-revealed-by-zdnet/"><u>Mastering Screen Clipping Techniques for Dell/Lenovo/Mac Laptops as Revealed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tech-brands-compared-apple-maintains-satisfaction-edge-over-pcs-with-samsung-catching-up-reveals-zdnet/"><u>Top Tech Brands Compared: Apple Maintains Satisfaction Edge Over PCs with Samsung Catching Up, Reveals ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/troubleshooting-your-non-booting-pc-insights-and-solutions-by-yl-software-experts/"><u>Troubleshooting Your Non-Booting PC: Insights & Solutions by YL Software Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-alert-top-tier-gaming-audio-experience-now-just-150-less-on-amazon-discovered/"><u>Unbelievable Deal Alert: Top-Tier Gaming Audio Experience Now Just $150 Less on Amazon - Discovered !</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-microsoft-copilot-takes-the-lead-over-chatgpt-discover-4-compelling-reasons/"><u>Why Microsoft Copilot Takes the Lead Over ChatGPT – Discover 4 Compelling Reasons</u></a></li>
 </ul></div>
 

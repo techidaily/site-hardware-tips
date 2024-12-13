@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Gems: Top Budget-Friendly Laptops Under $70Eighty Sold"
-date: 2024-12-03T03:40:08.254Z
-updated: 2024-12-07T03:43:01.180Z
+date: 2024-12-09T03:26:00.140Z
+updated: 2024-12-12T17:10:04.236Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,21 +166,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-xbox-power-up-with-these-top-hard-drives-rankings/"><u>[New] 2024 Approved Xbox Power-Up with These Top Hard Drives Rankings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-light-and-shadow-with-iphone-xs-new-lens-technology/"><u>[New] Mastering Light & Shadow with iPhone X's New Lens Technology</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-the-conversion-of-vids-to-mp3-on-insta/"><u>[New] Mastering the Conversion of Vids to MP3 on Insta</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-synchronize-speech-and-slide-show-the-voiceover-advantage/"><u>[Updated] Synchronize Speech and Slide Show The Voiceover Advantage</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-beneath-the-oceans-veil-tips-for-recording-top-notch-underwater-gopro-videos/"><u>2024 Approved Beneath the Ocean’s Veil Tips for Recording Top-Notch Underwater GoPro Videos</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-meizu-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Meizu FRP</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-tips-for-enhancing-photo-colors-effortlessly/"><u>5 Tips for Enhancing Photo Colors Effortlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-for-loss-of-pin-access-in-windows-11-post-update-fallout/"><u>Fix for Loss of PIN Access in Windows 11 Post-Update Fallout</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-emporias-affordable-ev-charging-solution-with-enhanced-performance-metrics-a-zdnet-perspective/"><u>In-Depth Analysis of Emporia's Affordable EV Charging Solution with Enhanced Performance Metrics - A ZDNet Perspective</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-collaboration-sony-plus-honda-reveal-stylish-ev-design-at-auto-showcase/"><u>Innovative Collaboration: Sony + Honda Reveal Stylish EV Design at Auto Showcase</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-features-coming-to-android-auto-utilizing-artificial-intelligence-for-streamlined-in-car-text-interaction/"><u>Innovative Features Coming to Android Auto: Utilizing Artificial Intelligence for Streamlined In-Car Text Interaction</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-integration-tesla-boosts-connectivity-with-apple-airplay-rejecting-carplay/"><u>Innovative Integration: Tesla Boosts Connectivity with Apple AirPlay - Rejecting CarPlay</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/kalk-and-cake-the-dual-purpose-utilitarian-e-bike-for-commuting-and-recreation-featured-on-zdnet/"><u>Kalk & Cake: The Dual-Purpose Utilitarian E-Bike for Commuting & Recreation - Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lectric-xp-lite-bike-800-an-in-depth-review-of-urban-electric-mobility-fun-and-functionality-gizmodo/"><u>Lectric XP Lite Bike ($800) - An In-Depth Review of Urban Electric Mobility Fun & Functionality | Gizmodo</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-drones-potential-with-these-indispensable-add-ons-for-the-dji-mini-3-pro-featured-by-zdnet/"><u>Maximize Your Drone's Potential with These Indispensable Add-Ons for the DJI Mini 3 Pro, Featured by ZDNET</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-data-retrieval-tool-restore-lost-data-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-data/"><u>Oppo Data Retrieval tool – restore lost data from Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ps4-live-recording-made-simple-with-obs-tutorial-for-2024/"><u>[New] PS4 Live Recording Made Simple with OBS Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-diy-tips-for-instant-custom-youtube-shorts-coverage/"><u>[Updated] In 2024, DIY Tips for Instant Custom YouTube Shorts Coverage</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-video-quality-debate-the-pros-of-30-vs-60-fps-for-2024/"><u>[Updated] Video Quality Debate The Pros of 30 Vs. 60 Fps for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/arw-jpeg/"><u>ARW 포지트를 사용한 원격 장소에서 JPEG이라는 다양한 형식의 화면 데이터를 무료로 변환하기</u></a></li>
+<li><a href="https://article-helps.techidaily.com/complete-analysis-triangulating-life-with-samsung-vr/"><u>Complete Analysis Triangulating Life with Samsung VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-essentials-decoded-for-easy-understanding/"><u>In 2024, SRT Essentials Decoded for Easy Understanding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-online-audio-converter-convertendo-midi-para-flac-aqui-sem-custo-algum/"><u>Movavi's Online Audio Converter - Convertendo Midi Para Flac Aqui Sem Custo Algum!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviving-retro-software-microsoft-and-ibm-release-open-source-ms-dos-40-techsavvy-insights/"><u>Reviving Retro Software: Microsoft and IBM Release Open Source MS-DOS 4.0 | TechSavvy Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/small-form-factor-with-big-impact-unveiling-the-cost-effective-high-performance-pc-featured-on-zdnet/"><u>Small Form Factor with Big Impact: Unveiling the Cost-Effective, High-Performance PC Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-upgrading-your-system-from-linux-mint-to-the-latest-version-mint-21-tips-and-tricks/"><u>Step-by-Step Guide: Upgrading Your System From Linux Mint to the Latest Version (Mint 21) - Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/take-advantage-of-the-limited-time-labor-day-deal-hp-victus-15-price-cut-by-350-at-best-buy-details-inside-zdnet/"><u>Take Advantage of the Limited-Time Labor Day Deal: HP Victus 15 Price Cut by $350 at Best Buy - Details Inside | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-office-gadgets-in-an-ai-driven-world-evolution-and-innovation-exploring-trends-with-zdnet/"><u>The Future of Office Gadgets in an AI-Driven World: Evolution & Innovation | Exploring Trends with ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-from-ces-202n-the-latest-gadgets-available-today/"><u>Top Picks From CES 202N: The Latest Gadgets Available Today</u></a></li>
 </ul></div>
 

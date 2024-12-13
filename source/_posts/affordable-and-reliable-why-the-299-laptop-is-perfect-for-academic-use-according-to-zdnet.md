@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Reliable: Why the $299 Laptop Is Perfect for Academic Use, According to ZDNET"
-date: 2024-12-05T20:09:28.289Z
-updated: 2024-12-06T17:28:53.285Z
+date: 2024-12-07T01:11:42.176Z
+updated: 2024-12-12T16:50:56.999Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,22 +77,22 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/the-revival-microsoft-and-ibm-reimagine-classic-ms-dos-as-an-open-source-project/"><u>- The Revival: Microsoft & IBM Reimagine Classic MS-DOS as an Open Source Project!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-webcam-innovation-cutting-edge-live-video-technology/"><u>[Updated] 2024 Approved Webcam Innovation Cutting-Edge Live Video Technology</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-visionary-8-tools-transforming-gameplay/"><u>[Updated] In 2024, Visionary 8 Tools Transforming Gameplay</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-snapseed-advanced-usage-insights/"><u>[Updated] Snapseed Advanced Usage Insights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/5asn6kap5qih44oh44k444k44or44ot44oh44kq44kz44ou44o844o744og44kv44ol44od44kv77ya5a656yep6laf44gi44ks6kej5rai44gz44kl44os44oz44oi/"><u>大規模デジタルビデオコピー・テクニック：容量超えを解消するヒント</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/crafting-an-affordable-high-performance-starfield-rig-below-1200-a-step-by-step-guide/"><u>Crafting an Affordable High-Performance Starfield Rig Below $1,200 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-hyperx-armada-27-an-in-depth-review-of-the-pioneering-gaming-display-from-hyperx/"><u>Exploring the HyperX Armada 27: An In-Depth Review of the Pioneering Gaming Display From HyperX</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-out-which-graphics-processor-you-own-tips-for-detecting-gpus-and-installing-the-latest-driver-software-wired/"><u>Find Out Which Graphics Processor You Own! Tips for Detecting GPUs and Installing the Latest Driver Software | Wired</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-completa-para-conversion-de-archivos-vob-protegidos-a-mp4-en-windows-11-y-mac/"><u>Guía Completa Para Conversión De Archivos VOB Protegidos a MP4 en Windows 11 Y Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-the-trusted-platform-module-tpm-became-a-prerequisite-for-windows-11-installation-digitalguardian/"><u>How the Trusted Platform Module (TPM) Became a Prerequisite for Windows 11 Installation | DigitalGuardian</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-restore-drag-and-drop-capabilities-in-windows-efficiently/"><u>How to Restore Drag & Drop Capabilities in Windows Efficiently</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-11-pro-by-drfone-ios/"><u>How To Unlock A Found iPhone 11 Pro?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mega-deal-alert-samsung-4tb-external-ssd-on-a-steep-discount-over-50-off-prime-your-digital-storage-this-labor-day/"><u>Mega Deal Alert: Samsung 4TB External SSD on a Steep Discount Over 50% Off - Prime Your Digital Storage This Labor Day!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210233075-9781612834689-prosperity-meditations/"><u>Prosperity Meditations | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-huge-discount-hps-powerful-gaming-pc-the-victus-15l-down-to-480-this-labor-day-insider-tips-from-zdnet/"><u>Score a Huge Discount: HP's Powerful Gaming PC, the Victus 15L, Down to $480 This Labor Day - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/successful-guide-resolving-amd-radeon-graphics-drivers-update-issues/"><u>Successful Guide: Resolving AMD Radeon Graphics Drivers Update Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/triple-display-setup-made-easy-on-m1-macs-using-ugreens-new-docking-station-insights-from-zdnet/"><u>Triple Display Setup Made Easy on M1 Macs Using Ugreen's New Docking Station - Insights From ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-saving-your-precious-obs-video-source-from-failure/"><u>[Updated] 2024 Approved Saving Your Precious OBS Video Source From Failure</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-complete-process-of-scheduling-google-meets/"><u>[Updated] In 2024, The Complete Process of Scheduling Google Meets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-solutions-when-chatgpt-stops-responding-on-ios-devices/"><u>9 Effective Solutions When ChatGPT Stops Responding on iOS Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/battleye-service-launch-error-corrected-fixing-driver-load-difficulty-code-1450/"><u>BattlEye Service Launch Error Corrected - Fixing Driver Load Difficulty (Code 1450)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-marvelous-world-of-an-origami-inspired-laptop-sleeve-a-game-changer-for-tech-enthusiasts-zdnet/"><u>Discover the Marvelous World of an Origami-Inspired Laptop Sleeve - A Game Changer for Tech Enthusiasts! | ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-google-pixel-8-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Google Pixel 8 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-picking-a-college-laptop-4-crucial-criteria-and-our-picks-top-10-expert-advice/"><u>Master the Art of Picking a College Laptop: 4 Crucial Criteria and Our Picks (Top 10) | Expert Advice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/schutzumgehende-dvds-in-avi-konvertieren-einfach-gemacht-vier-einfache-schritte/"><u>Schutzumgehende DVDs in AVI Konvertieren - Einfach Gemacht, Vier Einfache Schritte</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-of-the-bizarre-entertaining-and-premium-priced-thinkpad-x1-fold-by-zdnet/"><u>The Ultimate Review of the Bizarre, Entertaining & Premium-Priced ThinkPad X1 Fold by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-linux-laptop-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Ranking Linux Laptop Picks , Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-impact-of-artificial-intelligence-chatbot-moderation-on-users/"><u>Understanding the Impact of Artificial Intelligence Chatbot Moderation on Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-trend-of-purchasing-damaged-macbook-pros-insights-from-zdnet/"><u>Understanding the Trend of Purchasing Damaged MacBook Pros – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-versatility-and-portability-with-a-surprisingly-competent-8-in-1-charger-exclusive-review/"><u>Unlocking Versatility and Portability with a Surprisingly Competent 8-in-1 Charger - Exclusive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-features-of-the-microsoft-surface-laptop-5-a-closer-look-at-whats-familiar-and-new/"><u>Unveiling the Features of the Microsoft Surface Laptop 5: A Closer Look at What’s Familiar and New</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-unlocking-the-hidden-gem-of-dual-functionality-offices-ultimate-gadget/"><u>ZDNet Reviews: Unlocking the Hidden Gem of Dual Functionality - Office's Ultimate Gadget !</u></a></li>
 </ul></div>
 

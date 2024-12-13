@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Long-Forgotten Tech Trend: A Look Into Nostalgia and Innovation"
-date: 2024-12-04T18:17:06.397Z
-updated: 2024-12-07T03:41:29.703Z
+date: 2024-12-10T20:35:51.203Z
+updated: 2024-12-12T19:51:07.142Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Jack Wallen/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ This product is still on Kickstarter. I don't usually review products on Kicksta
 [ZDNET RECOMMENDS CrowView Note If you've always wanted to use your phone with a larger screen, a full keyboard, and a trackpad, the CrowView Note simplifies this task. View at Kickstarter](https://www.kickstarter.com/projects/elecrow/crowview-note-empowering-your-device-as-a-laptop/pledge/new?clicked%5Freward=false)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -72,7 +72,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My experience
@@ -117,7 +117,7 @@ The best thing about using the CrowView Note is that I don't have to worry about
 Is the CrowView Note for everyone? No. If, however, you regularly make use of single-board computers (such as the Raspberry Pi), have a mini PC that's not in use, or a phone/table that supports full-featured USB-C, this handy device is a real gem. At $140, it's certainly a lot cheaper than purchasing a monitor, a keyboard, and a mouse just for those devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -156,20 +156,22 @@ This could be $140 well spent if you're looking to make using certain devices co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-exploring-with-polaroid-camplus-ultimate-action-footage-for-2024/"><u>[New] Exploring with Polaroid Cam+ Ultimate Action Footage for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/op-screen-recorders-for-live-broadcasts-on-youtube/"><u>[New] Top Screen Recorders for Live Broadcasts on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-asmr-insights-understanding-its-health-benefits/"><u>[Updated] 2024 Approved ASMR Insights Understanding Its Health Benefits</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unveiling-the-power-of-screen-capture-showmores-review-breakdown/"><u>[Updated] 2024 Approved Unveiling the Power of Screen Capture ShowMore's Review Breakdown</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-great-gimbal-debate-hero-black-vs-km-170/"><u>[Updated] The Great Gimbal Debate HERO Black vs KM-170</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-images-top-5-android-tools/"><u>2024 Approved Transform Images Top 5 Android Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-harmony-in-vr-exploration/"><u>In 2024, Perfect Harmony in VR Exploration</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209996873-9781529054507-john-hudsons-how-to-survive-a-pandemic/"><u>John Hudson's How to Survive a Pandemic | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quality-retention-techniques-for-reducing-size-of-avi-video-clips-using-windows-10-tools/"><u>Quality Retention Techniques for Reducing Size of AVI Video Clips Using Windows 10 Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-the-power-of-adventure-thrilling-rides-on-a-high-performance-electric-bike/"><u>Unleashing the Power of Adventure: Thrilling Rides on a High-Performance Electric Bike</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-savings-hotel-discounts-and-more-with-our-travel-buyers-club-offer-insights-from-zdnet/"><u>Unlock Exclusive Savings: Hotel Discounts & More With Our Travel Buyers Club Offer - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-savings-get-300-off-the-atomi-alpha-electric-scooter-now-dont-miss-out-learn-how-at-zdnet/"><u>Unlock Savings: Get $300 Off the Atomi Alpha Electric Scooter Now! Don’t Miss Out – Learn How at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unsettling-recommendation-by-american-airlines-crews-that-may-alter-passengers-in-flight-journey-analysis-and-discussion-on-zdnet/"><u>Unsettling Recommendation by American Airlines Crews That May Alter Passenger's In-Flight Journey | Analysis & Discussion on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-lincolns-spectacular-insights-into-self-driving-cars-with-zdnet-a-deep-dive/"><u>Unveiling Lincoln's Spectacular Insights Into Self-Driving Cars with ZDNet - A Deep Dive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/velotrics-discover-electric-bike-unveiled-user-friendly-competitively-priced-ride-gadgetcentral/"><u>Velotric's Discover Electric Bike Unveiled: User-Friendly, Competitively Priced Ride | GadgetCentral</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-filmmakers-choice-leading-15-creative-gopro-luts/"><u>[New] Ultimate Filmmaker's Choice Leading 15 Creative GOPRO LUTs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-premium-video-starters-the-best-16-to-skyrocket-view-counts/"><u>[Updated] Premium Video Starters The Best 16 to Skyrocket View Counts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-driven-solutions-unveiled-your-guide-to-understanding-winxvideo-technologies-through-faqs-and-answers/"><u>AI-Driven Solutions Unveiled: Your Guide to Understanding Winxvideo Technologies Through FAQs and Answers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-bluetooth-software-upgrades-quick-download-process-explained/"><u>ASUS Bluetooth Software Upgrades - Quick Download Process Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-insight-top-29-bargains-at-best-buys-mid-year-sales-event-your-early-bird-checklist-before-prime-day/"><u>Exclusive Insight: Top 29 Bargains at Best Buy's Mid-Year Sales Event - Your Early Bird Checklist Before Prime Day!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2000-cannot-access-the-file-error-stellar-by-stellar-guide/"><u>Fixed Microsoft Excel 2000 Cannot Access the File Error | Stellar</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensively-curated-list-15-prime-gear-for-gopro/"><u>In 2024, Comprehensively Curated List 15 Prime Gear for GoPro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-inside-the-code-how-apeaksoft-outperforms-in-screen-capture/"><u>In 2024, Inside the Code How Apeaksoft Outperforms in Screen Capture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/make-any-macbook-tactile-the-ultimate-guide-to-using-this-portable-touchscreen-monitor-zdnet-review/"><u>Make Any MacBook Tactile: The Ultimate Guide to Using This Portable Touchscreen Monitor [ZDNet Review]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-monstrous-m1-ultra-by-apple-redefining-processor-power-and-efficiency/"><u>Meet the Monstrous M1 Ultra by Apple - Redefining Processor Power and Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mobile-workstation-enhancement-gmktec-xpanel-se-pocket-sized-display-unveiled-a-travelers-companion-for-seamless-productivity-tech-insights-by-zdnet/"><u>Mobile Workstation Enhancement: GMKtec XPanel SE Pocket-Sized Display Unveiled - A Traveler’s Companion for Seamless Productivity | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-504-gateway-timeouts-practical-solutions-for-website-downtime/"><u>Overcoming 504 Gateway Timeouts – Practical Solutions for Website Downtime</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/reviving-the-past-top-5-ps1-emulators-on-pc/"><u>Reviving the Past - Top 5 PS1 Emulators on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-laundry-experience-with-lgs-steam-closet-exclusive-200-off-inside-tech-news-at-zdnet/"><u>Revolutionize Your Laundry Experience with LG's Steam Closet - Exclusive $200 Off Inside | Tech News at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-setup-with-the-must-have-16-port-artist-dock-featured-on-zdnets-top-desk-gear/"><u>Revolutionize Your Setup with the Must-Have 16-Port Artist Dock, Featured on ZDNet's Top Desk Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-grab-the-eufy-homevac-for-just-49-on-amazonexclusive-10-off-with-prime-insider-deals-revealed-by-zdnet/"><u>Save Big: Grab the Eufy HomeVac for Just $49 on Amazon—Exclusive $10 Off With Prime, Insider Deals Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-upgrading-your-laptops-memory-ram-insights-from-zdnet/"><u>Step-by-Step Guide: Upgrading Your Laptop's Memory (RAM) - Insights From ZDNet</u></a></li>
 </ul></div>
 

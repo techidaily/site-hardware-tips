@@ -1,7 +1,7 @@
 ---
 title: "What You Should Look Forward to at the Apple Event This October: The Launch of M4 Mac Mini, Advanced iPads, and Latest Updates on Siri & More"
-date: 2024-11-30T18:38:58.674Z
-updated: 2024-12-06T20:36:51.663Z
+date: 2024-12-09T23:31:14.874Z
+updated: 2024-12-12T20:32:44.260Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ However, the new slimline design also came with a chunky price increase of $200/
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price & options
@@ -53,7 +53,7 @@ The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design & features
@@ -73,7 +73,7 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 Image: Cliff Joseph / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -89,7 +89,7 @@ You are paying for that extra performance, of course, so the M1 version of the M
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -132,7 +132,7 @@ Image: Apple
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,22 +176,20 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-focus-on-voice-not-background-with-skype-for-2024/"><u>[New] Focus on Voice, Not Background with Skype for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-preserving-your-online-reputation-amidst-faux-endorsements-for-2024/"><u>[New] Preserving Your Online Reputation Amidst Faux Endorsements for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastery-in-mapping-out-your-youtube-audience/"><u>[Updated] Mastery in Mapping Out Your YouTube Audience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-snapstream-app-rating-analysis/"><u>[Updated] SnapStream App Rating Analysis</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/essential-guide-utilizing-luts-in-ae/"><u>Essential Guide Utilizing LUTs in AE</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-emotion-to-entertainment-the-artisans-approach-to-making-memes-gifs-for-2024/"><u>From Emotion to Entertainment The Artisan’s Approach to Making Memes (GIFs) for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y77t-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y77t?</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/nutzung-von-sd-speicherkarten-als-interner-datenspeicher-unter-windows-11-anleitung-und-tipps/"><u>Nutzung Von SD-Speicherkarten Als Interner Datenspeicher Unter Windows 11 - Anleitung Und Tipps</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-msresourceappname-text-glitch-window11-edition/"><u>Resolving 'MsResource:AppName Text' Glitch, Window11 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-pharmacy-shopping-amazon-launches-complimentary-drone-based-delivery-of-prescriptions/"><u>Revolutionizing Pharmacy Shopping: Amazon Launches Complimentary Drone-Based Delivery of Prescriptions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revving-through-words-exploring-transportation-woes-in-road-to-nowhere-with-an-in-depth-book-review-on-zdnet/"><u>Revving Through Words: Exploring Transportation Woes in 'Road to Nowhere' With an In-Depth Book Review on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-prices-with-confidence-secure-the-atomi-alpha-electric-scooter-now-for-just-300-less-shop-smart-on-zdnet/"><u>Slash Prices with Confidence: Secure the Atomi Alpha Electric Scooter Now for Just $300 Less! Shop Smart on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-travel-costs-save-up-to-2k-on-airfare-using-dollar-flight-club-insider-tips-from-zdnet/"><u>Slash Your Travel Costs: Save Up to $2K on Airfare Using Dollar Flight Club - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/spooky-savings-alert-snag-a-discounted-evo-nanoplus-drone-for-halloween-and-slice-off-190-from-price-exclusive-offer/"><u>Spooky Savings Alert: Snag a Discounted Evo Nano+ Drone for Halloween & Slice Off $190 From Price! - Exclusive Offer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tesla-sets-new-norm-for-electric-vehicle-charging-in-us-after-landmark-pact-with-general-motors-and-ford-details-on-zdnet/"><u>Tesla Sets New Norm for Electric Vehicle Charging in US After Landmark Pact with General Motors and Ford, Details on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/teslas-long-awaited-arrival-the-launch-of-the-worlds-first-electric-semi-truck-line-zdnet/"><u>Tesla's Long-Awaited Arrival: The Launch of the World’s First Electric Semi Truck Line | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-reason-behind-united-airlines-push-for-higher-fees-insightful-analysis-by-zdnet/"><u>The Reason Behind United Airlines' Push for Higher Fees: Insightful Analysis by ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-quick-guide-capturing-your-ppt-slide-show/"><u>[New] In 2024, Quick Guide Capturing Your PPT Slide Show</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/our-first-youtubian-venture-building-a-brand-bringing-in-bucks-for-2024/"><u>[New] Your First Youtubian Venture Building a Brand, Bringing in Bucks for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-the-complete-audacity-guide-to-utilizing-autotune-effectively/"><u>2024 Approved The Complete Audacity Guide to Utilizing Autotune Effectively</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211364453-9798330205677-5-transformatieve-waargebeurde-verhalen-over-een-bezoek-aan-de-hemel-de-hel-en-het-donkere/"><u>5 transformatieve waargebeurde verhalen over een bezoek aan de hemel, de hel en het donkere.. | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-whats-new-in-matter-13-upgraded-features-and-wider-hardware-support-detailed-by-zdnet/"><u>Discover What's New in Matter 1.3 - Upgraded Features and Wider Hardware Support Detailed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortlessly-upgrade-to-extra-storage-space-for-just-12-how-i-converted-idle-ssds-into-external-backup-units/"><u>Effortlessly Upgrade to Extra Storage Space for Just $12 - How I Converted Idle SSDs Into External Backup Units</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-pro-level-text-templates-for-adobe-ae/"><u>In 2024, Pro-Level Text Templates for Adobe AE</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-visualeditormaster-reviews-complete-analysis/"><u>In 2024, VisualEditorMaster Reviews – Complete Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-tiles-new-scan-and-secure-a-revolutionary-solution-to-combat-stalking-discover-how-on-zdnet/"><u>Introducing Tile's New 'Scan & Secure': A Revolutionary Solution to Combat Stalking - Discover How on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/logitech-launches-budget-friendly-webcams-designed-for-remote-and-hybrid-work-environments-zdnet/"><u>Logitech Launches Budget-Friendly Webcams Designed for Remote & Hybrid Work Environments - ZDNet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-broken-pictures-for-free-top-rated-software-to-repair-corrupt-images/"><u>Revive Broken Pictures for Free - Top-Rated Software to Repair Corrupt Images</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-a53-freestyle-evaluation-insights-from-zdnet/"><u>Samsung Galaxy A53 Freestyle Evaluation - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211961468-the-definitive-guide-to-repairing-red-screen-malfunctions-solutions-that-work/"><u>The Definitive Guide to Repairing Red Screen Malfunctions: Solutions That Work!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-four-reasons-im-saying-no-to-the-iphone-16-pro-and-loving-my-iphone-14-an-in-depth-analysis/"><u>Top Four Reasons I'm Saying No to the iPhone 16 Pro and Loving My iPhone 14 | An In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-graphics-laptop-picks-comprehensive-reviews-by-pros-techradar/"><u>Top-Ranked Graphics Laptop Picks: Comprehensive Reviews by Pros | TechRadar</u></a></li>
 </ul></div>
 

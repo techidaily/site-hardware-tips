@@ -1,7 +1,7 @@
 ---
 title: "Contributing to Chrome's Future: The Essential Role of User Feedback and How It Shapes Development (Exclusive Tips) | ZDNet"
-date: 2024-11-20T16:07:49.158Z
-updated: 2024-11-27T17:03:59.903Z
+date: 2024-12-08T23:34:09.327Z
+updated: 2024-12-12T21:17:26.316Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the deal?
@@ -31,7 +31,7 @@ Dell's XPS 14 is seeing some big discounts at Best Buy right now for the higher-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Even with this upgraded card, this is not a [gaming laptop](https://www.zdnet.co
 The lack of an HDMI port and full-sized SD card reader is a strange design choice as both would further carve out an identity as a premium-looking laptop for visual creatives. Luckily, the XPS 14 does come with a USB-C dongle that helps get most creative jobs done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications comparison
@@ -104,7 +104,7 @@ I've talked a little about messing around with the [function keys in other machi
 On the Dell XPS 14, the function row is so minimal that it doesn't even have physical keys at all; there is no haptic feedback or physical indication of a key being pressed, you're just interacting with a little LED icon, and that is a design choice that certainly won't be for everyone. While working with the XPS 14, I never really got used to having the Home, End, and Delete keys associated with these "lights" and found myself preferring simply having these attached to physical inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,7 +116,7 @@ This is not a scrappy, unpretentious workhorse, but rather a premium, ultra-mode
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -153,18 +153,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-from-your-vantage-point-to-the-worlds-sharing-immersive-photos-online-for-2024/"><u>[New] From Your Vantage Point to the World's Sharing Immersive Photos Online for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smart-zooms-on-snapchat-enhance-photo-and-video-quality/"><u>[New] Smart Zooms on Snapchat Enhance Photo & Video Quality</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-achieve-crystal-clear-slack-discussions-with-these-10-tools-for-2024/"><u>[Updated] Achieve Crystal Clear Slack Discussions with These 10 Tools for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-basic-approach-adjust-sea-creature-tones-in-windows-os/"><u>[Updated] In 2024, Basic Approach Adjust Sea Creature Tones in Windows OS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-laptop-steal-deal-just-99-at-best-buys-hour-of-power-sale-see-the-listing-on-zdnet/"><u>ASUS Laptop Steal Deal - Just $99 at Best Buy's Hour of Power Sale! See the Listing on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-apples-affordable-m2-macbook-air-for-only-799-launched-ahead-of-prime-day-bargains-insider-news-coverage/"><u>Get Your Hands on Apple’s Affordable M2 MacBook Air for Only $799 - Launched Ahead of Prime Day Bargains! Insider News Coverage</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-path-to-effective-marketing-best-practices-for-health-promos/"><u>In 2024, The Path to Effective Marketing Best Practices for Health Promos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-copilotplus-pc-shines-as-a-top-contender-for-best-value-on-the-windows-platform-inside-look-by-zdnet/"><u>Samsung Copilot+ PC Shines as a Top Contender for Best Value on the Windows Platform – Inside Look by ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-easy-guide-to-taking-and-saving-twitters-gifs-for-2024/"><u>The Easy Guide to Taking and Saving Twitter's Gifs for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-multi-tasking-can-lenovos-yoga-book-9i-set-a-new-standard-for-dual-display-devices/"><u>The Future of Multi-Tasking: Can Lenovo's Yoga Book 9I Set a New Standard for Dual-Display Devices?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-dealing-with-mac-overheating-and-persistent-cooling-fan-noise/"><u>Ultimate Guide: Dealing with Mac Overheating & Persistent Cooling Fan Noise</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-list-of-7-exceptional-vids-on-mac-for-2024/"><u>Ultimate List of 7 Exceptional Vids on Mac for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premium-selection-of-portable-mp4s/"><u>[New] Premium Selection of Portable MP4s</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-bridging-platforms-the-instagram-and-tiktok-guide-for-2024/"><u>[Updated] Bridging Platforms The Instagram & TikTok Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-fable-creators-circle-a-list-eight/"><u>[Updated] In 2024, Fable Creators Circle - A-List Eight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-hyperdrive-storage-solutions-revolutionizing-laptop-performance-with-cutting-edge-hubs-docks-and-ssd-enclosures-discover-the-power-on-zdnet/"><u>1. Hyperdrive Storage Solutions: Revolutionizing Laptop Performance with Cutting-Edge Hubs, Docks, & SSD Enclosures - Discover the Power on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-swift-setup-expanding-your-raspberry-pi-model-bs-capabilities-with-m2-modules-a-step-by-step-guide/"><u>1) Swift Setup: Expanding Your Raspberry Pi Model B's Capabilities with M.2 Modules - A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oppo-reno-10-proplus-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Oppo Reno 10 Pro+ 5G Unlock Without Password</u></a></li>
+<li><a href="https://fox-info.techidaily.com/basic-strategy-revamping-fishy-windowspeak/"><u>Basic Strategy Revamping Fishy Windowspeak</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/building-authority-in-education-10-tips-for-youtube-channel-creation/"><u>Building Authority in Education 10 Tips for YouTube Channel Creation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/console-capturer-pro-report/"><u>Console Capturer Pro Report</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-systems-gpu-easy-steps-for-verifying-graphic-cards-and-updating-drivers-accordingly-zdnet-insights/"><u>Discover Your System's GPU: Easy Steps for Verifying Graphic Cards and Updating Drivers Accordingly | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-prospects-of-microsofts-latest-arm-edition-for-windows-will-it-reshape-tech/"><u>Exploring the Prospects of Microsoft's Latest ARM Edition for Windows: Will It Reshape Tech ?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-become-an-instagram-analytics-expert-with-this-ultimate-performance-guide/"><u>In 2024, Become an Instagram Analytics Expert with This Ultimate Performance Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/next-step-for-teens-rethinking-daily-instagram-interactions-with-facebook-insights/"><u>Next Step for Teens: Rethinking Daily Instagram Interactions with Facebook Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surprising-powerhouse-compact-computer-delivers-big-performance-on-a-small-budget/"><u>Surprising Powerhouse: Compact Computer Delivers Big Performance on a Small Budget!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-magic5-ultimate-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor Magic5 Ultimate Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-iphone-models-best-avoided-this-season-insights-from-zdnet/"><u>Top 4 iPhone Models Best Avoided This Season: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workspace-with-cleanliness-how-revitalizing-an-old-keyboard-can-be-surprisingly-soothing-and-productive-zdnet/"><u>Transform Your Workspace with Cleanliness: How Revitalizing an Old Keyboard Can Be Surprisingly Soothing and Productive | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-over-half-off-on-4tb-samsung-portable-ssds-prime-time-offer-on-amazon-for-labor-day/"><u>Unbelievable Deal: Over Half-Off on 4TB Samsung Portable SSDs - Prime Time Offer on Amazon for Labor Day</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-3-upcoming-ai-enhancements-for-copilot-equipped-desktops-why-your-macbook-is-falling-behind/"><u>Unveiling Top 3 Upcoming AI Enhancements for Copilot-Equipped Desktops: Why Your MacBook Is Falling Behind!</u></a></li>
 </ul></div>
 

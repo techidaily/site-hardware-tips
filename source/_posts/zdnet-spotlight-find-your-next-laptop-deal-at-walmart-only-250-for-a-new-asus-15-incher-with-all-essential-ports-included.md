@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Spotlight: Find Your Next Laptop Deal at Walmart! Only $250 for a New Asus 15-Incher with All Essential Ports Included"
-date: 2024-12-05T18:16:13.128Z
-updated: 2024-12-06T21:07:32.434Z
+date: 2024-12-08T01:47:24.666Z
+updated: 2024-12-13T00:34:38.320Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,22 +87,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/month-the-ultimate-list-of-apple-products-you-need-to-skip-including-these-iphones-digital-trends/"><u>[Month]: The Ultimate List of Apple Products You Need to Skip, Including These iPhones! | Digital Trends</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-comparing-ig-reels-and-ig-stories-a-comprehensive-guide/"><u>[Updated] In 2024, Comparing IG Reels & IG Stories A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-of-the-best-discover-22-leading-video-shrinkers-that-wont-cost-you-a-dime-for-pc-and-mac-users/"><u>Best of the Best: Discover 22 Leading Video Shrinkers That Won't Cost You a Dime for PC and Mac Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-picks-ideal-ipad-options-for-digital-sketching-as-recommended-by-zdnet/"><u>Expert Picks: Ideal iPad Options for Digital Sketching as Recommended by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-picks-the-ultimate-list-of-ipad-display-guards-cnet/"><u>Expert Picks: The Ultimate List of iPad Display Guards | CNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-new-horizons-with-these-6-amazing-ways-to-utilize-chatgpts-code-companion/"><u>Explore New Horizons with These 6 Amazing Ways to Utilize ChatGPT's Code Companion</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-clips-to-masterpiece-essential-video-editing-techniques-for-2024/"><u>From Clips to Masterpiece Essential Video Editing Techniques for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-an-amazing-android-tablet-took-over-my-kindle-and-ipad-uncover-the-story-at-zdnet/"><u>How an Amazing Android Tablet Took Over My Kindle and iPad - Uncover the Story at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-rating-for-xiaomis-affordable-book-s-a-game-changing-windows-on-arm-convertible-laptop/"><u>In-Depth Analysis and Rating for Xiaomi's Affordable Book S: A Game-Changing Windows on ARM Convertible Laptop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/making-the-switch-to-an-ipad-pro-find-out-how-the-m1-model-stacks-up-against-the-new-m2-techadvisor/"><u>Making The Switch to an iPad Pro? Find Out How The M1 Model Stacks Up Against The New M2! | TechAdvisor</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/non-flagship-standout-discovering-the-top-affordable-samsung-tablet-that-outperforms-in-sales-a-deep-dive-by-zdnet/"><u>Non-Flagship Standout: Discovering the Top Affordable Samsung Tablet That Outperforms in Sales - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-lenovos-ideapad-duet-masterfully-combines-top-notch-chromebook-functionality-with-robust-tablet-performance/"><u>Review: Lenovo's IdeaPad Duet Masterfully Combines Top-Notch Chromebook Functionality with Robust Tablet Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/spooler-revival-instruction-for-win/"><u>Spooler Revival Instruction for Win</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-secure-fee-less-datpiff-upload-of-your-custom-mixtape/"><u>Step-by-Step Tutorial: Secure, Fee-Less DatPiff Upload of Your Custom Mixtape</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-6s-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 6s Passcode without a Computer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vr-tech-pioneers-selecting-pc-vr-headsets/"><u>VR Tech Pioneers Selecting PC VR Headsets</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-elevating-vlogging-to-new-heights-yi-hero-reviewed-for-2024/"><u>[New] Elevating Vlogging to New Heights Yi Hero Reviewed for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-becoming-an-expert-in-igtv-a-complete-overview/"><u>[Updated] In 2024, Becoming an Expert in IGTV A Complete Overview</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-todays-drones-tomorrows-landscapes-an-overview-for-2024/"><u>[Updated] Today’s Drones, Tomorrow's Landscapes An Overview for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-strategic-use-of-hashtags-for-broader-audience-on-tiktok/"><u>2024 Approved Strategic Use of Hashtags for Broader Audience on TikTok</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-historic-milestone-lg-surpasses-samsungs-q1-operating-profits-ending-a-14-year-margin/"><u>A Historic Milestone: LG Surpasses Samsung's Q1 Operating Profits, Ending a 14-Year Margin</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boosting-work-from-home-efficiency-how-lenovos-latest-innovations-transform-home-offices-techtoday/"><u>Boosting Work-From-Home Efficiency: How Lenovo's Latest Innovations Transform Home Offices | TechToday</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-how-gmktec-xpanel-se-revolutionizes-mobile-monitoring-bytewise-insight/"><u>Expert Analysis: How GMKtec XPanel SE Revolutionizes Mobile Monitoring | ByteWise Insight</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-g54-5g-frp-by-drfone-android/"><u>How Can We Bypass Motorola G54 5G FRP?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-curiosity-with-a-personal-touch-anime-subscribe-buttons-for-filmmakers-filmora-for-2024/"><u>Ignite Curiosity with a Personal Touch - Anime Subscribe Buttons for Filmmakers (Filmora) for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newly-launched-asus-compact-17-inch-oled-monitor-with-half-fold-capability-tech-insights/"><u>Newly Launched Asus Compact 17-Inch OLED Monitor with Half-Fold Capability | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-insight-can-logitech-mx-master-3-revolutionize-your-workspace-a-comprehensive-evaluation-by-zdnet/"><u>Professional Insight: Can Logitech MX Master 3 Revolutionize Your Workspace? A Comprehensive Evaluation by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-playstation-exclusive-title-days-gone-pc-startup-problems-easily/"><u>Resolving PlayStation Exclusive Title Days Gone PC Startup Problems Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-integration-connect-your-airpods-to-iphone-and-other-gadgets-masterclass-by-zdnet-experts/"><u>Seamless Integration: Connect Your AirPods to iPhone and Other Gadgets - Masterclass by ZDNET Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tech-peacekeepers-guide-silencing-ipad-when-iphone-calls-inbound/"><u>Tech Peacekeepers Guide: Silencing iPad when iPhone Calls Inbound</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-mouse-pads-reviewed-comprehensive-ratings-by-zdnet/"><u>Top 5 Premium Mouse Pads Reviewed - Comprehensive Ratings by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-matter-v13-explore-enhanced-capabilities-and-expanded-device-compatibility-on-zdnet/"><u>Unveiling Matter v1.3: Explore Enhanced Capabilities & Expanded Device Compatibility on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pc-sound-without-breaking-the-bank-monoprices-affordable-dt-3bt-speakers/"><u>Upgrade Your PC Sound Without Breaking the Bank: Monoprice's Affordable DT-3BT Speakers</u></a></li>
 </ul></div>
 

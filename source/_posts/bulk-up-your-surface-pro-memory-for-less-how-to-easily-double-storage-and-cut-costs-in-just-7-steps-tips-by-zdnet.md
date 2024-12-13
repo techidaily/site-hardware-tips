@@ -1,7 +1,7 @@
 ---
 title: "Bulk Up Your Surface Pro Memory for Less: How to Easily Double Storage and Cut Costs in Just 7 Steps | Tips by ZDNET"
-date: 2024-09-18 11:42:52
-updated: 2024-09-20 12:31:11
+date: 2024-12-08T02:17:49.657Z
+updated: 2024-12-12T23:12:32.094Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-30-cameras-frontal-screen-for-convenience/"><u>[New] 2024 Approved Top 30 Cameras Frontal Screen for Convenience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-of-chatting-with-voices-on-whatsapp-for-2024/"><u>[New] The Art of Chatting with Voices on WhatsApp for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ransform-your-content-game-with-creator-studio-insight/"><u>[New] Transform Your Content Game with Creator Studio Insight</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elite-video-call-and-chat-service-selections/"><u>[Updated] Elite Video Call & Chat Service Selections</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unparalleled-quality-discover-the-best-8-streamer-cameras/"><u>[Updated] Unparalleled Quality Discover the Best 8 Streamer Cameras</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-premier-screenshot-applications-for-linux-users/"><u>2024 Approved The Premier Screenshot Applications for Linux Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accelerate-television-viewing-experience-with-these-top-6-tweaks-recommended-by-zdnet/"><u>Accelerate Television Viewing Experience with These Top 6 Tweaks, Recommended by ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/achieve-perfect-picture-clarity-essential-projector-configurations-revealed-by-experts-visualwizard/"><u>Achieve Perfect Picture Clarity: Essential Projector Configurations Revealed by Experts | VisualWizard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acr-disabling-secrets-for-any-television-slashing-advertisements-in-half-why-it-matters-digitalwatchdog/"><u>ACR Disabling Secrets for Any Television: Slashing Advertisements in Half - Why It Matters! | DigitalWatchdog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/answer-lets-denote-the-unknown-number-as-x-according-to-the-problem-we-have/"><u>Answer: Let's Denote the Unknown Number as ( X ). According to the Problem, We Have:</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-mid-year-bargain-bonanza-top-29-unbeatable-offers-for-julys-black-friday-event-vs-amazon-prime-day-tech-insights/"><u>Best Buy's Mid-Year Bargain Bonanza: Top 29 Unbeatable Offers for July's Black Friday Event vs Amazon Prime Day | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/connect-and-stream-from-iphone-to-samsung-tv-with-these-easy-mirroring-tips/"><u>Connect and Stream From iPhone to Samsung TV with These Easy Mirroring Tips!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciding-between-top-flagships-in-oled-tvs-an-analytical-battle-of-lg-g3-against-samsungs-s95c/"><u>Deciding Between Top Flagships in OLED TVs: An Analytical Battle of LG G3 Against Samsung's S95C</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-brilliance-of-samsung-65qn90b-the-ideal-tv-for-bright-spaces-revealed-cnet/"><u>Discover the Brilliance of Samsung 65QN90B: The Ideal TV for Bright Spaces Revealed | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-high-quality-85-tcl-tv-for-a-steal-only-900-available-this-weekend-in-the-holiday-sale-by-zdnet/"><u>Don't Miss Out: High-Quality, 85” TCL TV for a Steal - Only $900 Available This Weekend in the Holiday Sale by ZDNet!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-code-39-printer-issues-on-your-pc/"><u>Resolving Code 39 Printer Issues on Your PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieve-accidentally-erased-iphone-notetaking-a-step-by-step-guide/"><u>Retrieve Accidentally Erased iPhone Notetaking: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-cssource-startup-problems-a-comprehensive-guide/"><u>Solving CS:Source Startup Problems – A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stabilize-and-capture-find-the-best-tripods-for-gopro-for-2024/"><u>Stabilize and Capture Find the Best Tripods for GoPro for 2024</u></a></li>
+</ul></div>
+

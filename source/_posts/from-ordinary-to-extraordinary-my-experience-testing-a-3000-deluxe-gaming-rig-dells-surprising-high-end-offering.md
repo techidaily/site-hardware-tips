@@ -1,7 +1,7 @@
 ---
 title: "From Ordinary to Extraordinary: My Experience Testing a $3,000 Deluxe Gaming Rig - Dell's Surprising High-End Offering"
-date: 2024-12-04T02:14:00.242Z
-updated: 2024-12-06T18:22:47.779Z
+date: 2024-12-08T21:22:33.153Z
+updated: 2024-12-12T23:43:03.872Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,22 +138,18 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-aural-ascendancy-mastering-sound-integration-on-reels/"><u>[Updated] 2024 Approved Aural Ascendancy Mastering Sound Integration on Reels</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-sound-clarity-in-media-paid-vs-free-software-solutions-for-2024/"><u>[Updated] Sound Clarity in Media - Paid Vs. Free Software Solutions for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-infinix-note-30-vip-racing-edition-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Infinix Note 30 VIP Racing Edition to Another | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-lightning-timelapses-on-iphone-reducing-delay/"><u>In 2024, Lightning Timelapses on iPhone Reducing Delay</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/is-it-possible-to-generate-a-system-restore-disk-from-a-separate-laptop-or-desktop/"><u>Is It Possible to Generate a System Restore Disk From a Separate Laptop or Desktop?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-your-playthrough-dealing-with-lag-in-guilty-gear-strive/"><u>Optimizing Your Playthrough: Dealing with Lag in Guilty Gear -Strive-</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-roadmap-to-getting-your-account-verified-on-the-rebranded-network-of-x-previously-twitter/"><u>The Roadmap to Getting Your Account Verified on the Rebranded Network of X (Previously Twitter)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-note-taking-tablet-reviews-comprehensive-testing-by-zdnet/"><u>Top Rated Note-Taking Tablet Reviews : Comprehensive Testing by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-stylus-tablets-unveiled-comprehensive-reviews-and-testing-insights-by-tech-gurus-zdnet/"><u>Top-Rated Stylus Tablets Unveiled: Comprehensive Reviews & Testing Insights by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/two-weeks-with-remarkables-colorful-e-ink-why-i-wont-settle-for-bland-traditional-papers-anymore/"><u>Two Weeks with Remarkable's Colorful E-Ink: Why I Won’t Settle for Bland Traditional Papers Anymore</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-right-ipad-for-university-success-smarttechreviews/"><u>Ultimate Guide to Choosing the Right iPad for University Success | SmartTechReviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tablets-user-wishes-vs-actuality-for-microsoft-surface-analysis-by-zdnet/"><u>Unveiling the Future of Tablets: User Wishes Vs. Actuality for Microsoft Surface - Analysis by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-why-apples-ai-powered-ipad-mini-outshines-the-latest-iphone-16-series-insights-from-zdnet/"><u>Unveiling Why Apple's AI-Powered iPad Mini Outshines the Latest iPhone 16 Series - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-this-affordable-android-tablet-stands-out-exceptional-value-on-every-aspect/"><u>Why This Affordable Android Tablet Stands Out - Exceptional Value on Every Aspect!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-eco-film-hub-dive-into-green-screen-creativity/"><u>Youtube’s Eco-Film Hub Dive Into Green Screen Creativity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-an-unlikely-top-contender-the-ultimate-non-brand-tablet-for-film-lovers/"><u>ZDNet Reveals an Unlikely Top Contender: The Ultimate Non-Brand Tablet for Film Lovers!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-leading-edge-asmr-audio-gear-without-breaking-the-bank/"><u>[Updated] 2024 Approved Leading-Edge ASMR Audio Gear Without Breaking the Bank</u></a></li>
+<li><a href="https://win-blog.techidaily.com/achieve-smoother-gameplay-in-fall-guys-with-these-fps-enhancement-techniques-and-lag-fixes/"><u>Achieve Smoother Gameplay in Fall Guys with These FPS Enhancement Techniques and Lag Fixes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/avi-jpg-mp4-avi/"><u>AVI 파일을 JPG 및 MP4로 자유롭게 변환하는 가상화: 제한 없이 AVI 파일 변환기 다운로드</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-daily-routine-discover-5-key-uses-of-the-elgato-stream-deck-for-workflow-improvement-beyond-gaming-live-streams/"><u>Boost Your Daily Routine: Discover 5 Key Uses of the Elgato Stream Deck for Workflow Improvement Beyond Gaming Live Streams</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-instructions-on-installing-extra-ram-in-your-notebook-gadgetguru/"><u>Easy Instructions on Installing Extra RAM in Your Notebook | GadgetGuru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-audio-experience-top-tier-headphone-amplifier-for-an-unmatched-holiday-gift/"><u>Elevate Your Audio Experience: Top-Tier Headphone Amplifier for an Unmatched Holiday Gift</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-edgeplus-2023-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Edge+ (2023) is off? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-google-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Google? Try These Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-hot-40-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-pocketsized-skies-budget-large-data-haven/"><u>In 2024, PocketSized Skies - Budget Large Data Haven</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/passaggio-facile-e-veloce-convertire-le-immagini-iso-in-formato-mp4-completo-di-istruzioni-per-una-conversione-rapida-entro-5-minuti/"><u>Passaggio Facile E Veloce: Convertire Le Immagini ISO in Formato MP4, Completo Di Istruzioni per Una Conversione Rapida Entro 5 Minuti.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-curious-case-of-flawed-display-macbook-pro-sales-uncovered-by-zdnet/"><u>The Curious Case of Flawed Display MacBook Pro Sales Uncovered by ZDNet</u></a></li>
 </ul></div>
 

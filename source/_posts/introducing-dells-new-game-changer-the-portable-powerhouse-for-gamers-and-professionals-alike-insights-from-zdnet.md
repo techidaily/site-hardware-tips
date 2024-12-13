@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Game-Changer: The Portable Powerhouse for Gamers and Professionals Alike - Insights From ZDNet"
-date: 2024-12-05T20:49:18.993Z
-updated: 2024-12-07T01:28:15.692Z
+date: 2024-12-07T17:37:33.413Z
+updated: 2024-12-12T22:11:31.260Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,20 +114,18 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-expert-insights-crafting-perfect-vimeo-closures/"><u>[New] In 2024, Expert Insights Crafting Perfect Vimeo Closures</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/cutting-edge-tactics-for-creating-engaging-testimonial-videos-for-2024/"><u>Cutting-Edge Tactics for Creating Engaging Testimonial Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-using-windows-11-snap-features/"><u>Essential Tips for Using Windows 11 Snap Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/flagship-face-off-comparing-the-samsung-galaxy-tab-s9-ultra-and-apple-ipad-pro-for-your-tech-needs-zdnet/"><u>Flagship Face-Off: Comparing the Samsung Galaxy Tab S9 Ultra and Apple iPad Pro for Your Tech Needs | ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-casting-functionality-on-windows-10-a-step-by-step-solution/"><u>How to Restore Casting Functionality on Windows 10 - A Step-by-Step Solution</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-xs-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone XS Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ipad-air-2020-vs-ipad-air-is-it-time-to-consider-an-upgrade/"><u>IPad Air (2020) vs iPad Air : Is It Time to Consider an Upgrade?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ipad-pro-unveiled-embracing-its-unique-strengths-despite-not-being-a-macbook-insights-from-zdnet/"><u>IPad Pro Unveiled: Embracing Its Unique Strengths, Despite Not Being a MacBook | Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-chatgpt-becoming-a-runaway-train-for-openai/"><u>Is ChatGPT Becoming a Runaway Train for OpenAI?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/july-2024-exclusive-apple-discounts-find-the-best-deals-for-iphones-apple-watches-and-ipads-with-our-in-depth-analysis-zdnet/"><u>July 2024 Exclusive Apple Discounts: Find the Best Deals for iPhones, Apple Watches & iPads with Our In-Depth Analysis | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-alert-upgrade-to-an-amazon-fire-tablet-for-only-50-with-our-exclusive-trade-in-deal-featured-by-zdnet/"><u>Labor Day Sale Alert! Upgrade to an Amazon Fire Tablet for Only $50 With Our Exclusive Trade-In Deal, Featured by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-discount-grab-a-4tb-samsung-t5-external-ssd-on-amazon-save-almost-half-its-price-spotted-by-zdnet/"><u>Massive Discount: Grab a 4TB Samsung T5 External SSD on Amazon - Save Almost Half Its Price, Spotted by ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-classroom-prep-expert-tips-on-organizing-school-supplies-for-success-advice-from-zdnet-experts/"><u>Mastering Classroom Prep: Expert Tips on Organizing School Supplies for Success - Advice From ZDNet Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-device-unavailable-error-error-code-24-on-windows-1187/"><u>Resolved: 'Device Unavailable' Error (Error Code 24) on Windows 11/8/7</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unleashing-the-power-of-obs-macos-install-and-usage-tips-for-2024/"><u>Unleashing the Power of OBS MacOS Install & Usage Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-direct-interaction-enhancing-live-broadcasts-with-desktop-share/"><u>[Updated] In 2024, Direct Interaction Enhancing Live Broadcasts with Desktop Share</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-elevate-youtube-broadcasts-select-the-right-webcam/"><u>[Updated] In 2024, How to Elevate YouTube Broadcasts Select the Right Webcam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-free-powerhouse-utility-thats-absolutely-essential-for-every-mac-owner-not-shipped-but-available-now/"><u>Discover the Hidden Gem: Free Powerhouse Utility That's Absolutely Essential for Every Mac Owner, Not Shipped but Available Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-comfortable-and-efficient-ergonomic-mice-for-office-use-in-202-instruction-1-same-difficultyformatlength-solution/"><u>Discover the Most Comfortable & Efficient Ergonomic Mice for Office Use in 202# Instruction 1 (Same Difficulty/Format/Length) Solution:</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-batch-designs-how-to-harness-the-power-of-canva-and-chatgpt-for-your-content-needs/"><u>Effortless Batch Designs: How to Harness the Power of Canva and ChatGPT for Your Content Needs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-lava-blaze-curve-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Lava Blaze Curve 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/interspecific-competition/"><u>Interspecific Competition.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-tiles-new-scan-and-secure-function-your-solution-against-stalking-insights-from-zdnet/"><u>Introducing Tile's New 'Scan & Secure' Function: Your Solution Against Stalking - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-charging-experience-harness-the-power-of-a-200w-beast-that-fits-in-your-pocket-and-powers-six-devices-together-unveiling-the-future-of-po147/"><u>Revolutionize Your Charging Experience! Harness the Power of a 200W Beast That Fits in Your Pocket and Powers Six Devices Together – Unveiling the Future of Portable Energy Solutions | DigitalGearHub</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/tailoring-your-experience-a-step-by-step-guide-to-adjusting-control-panel-preferences-with-yl-computing/"><u>Tailoring Your Experience: A Step-by-Step Guide to Adjusting Control Panel Preferences with YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-xiaomi-redmi-a2-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Xiaomi Redmi A2 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-steps-to-thoroughly-cleanse-your-mech-board-zdnets-advice/"><u>Ultimate Guide: Steps to Thoroughly Cleanse Your Mech-Board [ZDNet's Advice]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/vimeo-vs-youtube-vs-dailymotion-which-video-platform-is-right-for-you-in-2024/"><u>Vimeo vs YouTube vs Dailymotion Which Video Platform Is Right for You, In 2024</u></a></li>
 </ul></div>
 

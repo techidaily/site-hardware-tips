@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet"
-date: 2024-11-29T18:25:53.835Z
-updated: 2024-12-07T01:45:28.932Z
+date: 2024-12-08T03:46:23.443Z
+updated: 2024-12-13T00:28:14.279Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,20 +134,19 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-apex-audio-streamer-androids-choice/"><u>[New] Apex Audio Streamer, Android's Choice</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-navigating-mov-saving-in-windows-11-top-six-methods-reviewed/"><u>[New] In 2024, Navigating .MOV Saving in Windows 11 - Top Six Methods Reviewed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-proven-methods-to-improve-macro-video-quality-and-aesthetics/"><u>[Updated] Proven Methods to Improve Macro Video Quality and Aesthetics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/breaking-apples-potential-ai-robots-for-smarter-homes-spotlight-on-two-innovative-products-techinsight-weekly/"><u>Breaking: Apple's Potential AI Robots for Smarter Homes - Spotlight on Two Innovative Products | TechInsight Weekly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-pc-bypassing-error-code-6-issues-with-expert-tips-and-tricks/"><u>Call of Duty (PC) - Bypassing Error Code #6 Issues with Expert Tips & Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-seamless-automated-cleaning-how-the-new-shark-vacuums-set-a-new-standard-for-effortless-upkeep-insights-by-zdnet/"><u>Discover Seamless, Automated Cleaning: How the New Shark Vacuums Set a New Standard for Effortless Upkeep - Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experts-choice-the-ultimate-list-of-leading-irobot-vacuums-reviewed-and-analyzed-zdnet/"><u>Experts' Choice: The Ultimate List of Leading iRobot Vacuums Reviewed & Analyzed | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-how-this-combo-robot-vacuum-and-mops-clever-self-cleaning-ability-transforms-your-cleaning-routine-gadget-reviews-zdnet/"><u>Explore How This Combo Robot Vacuum & Mop's Clever Self-Cleaning Ability Transforms Your Cleaning Routine | Gadget Reviews ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-skies-discovering-the-premier-aerial-photography-drones-of-2022-according-to-zdnet/"><u>Exploring the Skies: Discovering the Premier Aerial Photography Drones of 2022, According to ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-tecno-spark-go-2024-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/innovative-audio-enhancements-for-youtube-creators/"><u>Innovative Audio Enhancements for YouTube Creators</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-premium-1900-robovac-and-mop-worth-your-investment-my-one-month-hands-on-experience-smarthomeguide/"><u>Is the Premium $1,900 RoboVac and Mop Worth Your Investment? My One-Month Hands-On Experience | SmartHomeGuide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silent-black-screen-after-driver-install/"><u>Silent Black Screen After Driver Install</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/star-wars-disneyland-and-droids/"><u>Star Wars, Disneyland, and Droids.</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-gopro-hero5-premium-showdown-black-edition/"><u>[New] GoPro Hero5 Premium Showdown Black Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-the-top-webcams-for-windows-10/"><u>2024 Approved The Ultimate Guide to the Top Webcams for Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-pc-and/"><u>最適なビデオ編集ツール：5つのベスト PC 向けカットソフトウェア & サイト</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-octobers-mega-gaming-deals-for-the-2024-prime-day-last-call-to-save-big-with-up-to-1000-off/"><u>Don't Miss Out on October's Mega Gaming Deals for the 2024 Prime Day – Last Call to Save Big with Up to $1,000 Off!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-2630-printer-driver-for-windows-7-81-and-10/"><u>Download the Latest Epson WF-2630 Printer Driver for Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-alert-slash-your-gaming-rig-cost-by-350-with-the-alienware-aurora-r13-score-a-steal-at-zdnet/"><u>Exclusive Offer Alert: Slash Your Gaming Rig Cost by $350 with the Alienware Aurora R13 - Score a Steal at ZDNet!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-avi-to-wav-converter-movavi/"><u>Free Online AVI to WAV Converter - Movavi</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/march-unveiling-expected-for-the-latest-apple-innovations-macbook-air-ipad-pro-and-ipad-air-upcoming-tech-news-on-zdnet/"><u>March Unveiling Expected for the Latest Apple Innovations: MacBook Air, iPad Pro & iPad Air | Upcoming Tech News on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/my-heart-my-mind-and-the-flesh-of-my-body/"><u>My Heart, My Mind and the Flesh of My Body</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-assembling-a-top-tier-gaming-system-with-insights/"><u>The Complete Guide to Assembling a Top-Tier Gaming System with Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-12-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 12 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210969993-9781088239582-when-the-time-comes/"><u>WHEN THE TIME COMES | Free Book</u></a></li>
 </ul></div>
 

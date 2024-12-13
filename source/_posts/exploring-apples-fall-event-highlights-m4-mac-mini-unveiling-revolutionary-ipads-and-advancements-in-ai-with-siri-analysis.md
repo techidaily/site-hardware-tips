@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Fall Event Highlights: M4 Mac Mini Unveiling, Revolutionary iPads & Advancements in AI with Siri | Analysis"
-date: 2024-12-03T22:10:53.413Z
-updated: 2024-12-06T18:38:05.701Z
+date: 2024-12-10T22:54:24.356Z
+updated: 2024-12-12T18:11:25.908Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,17 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-ultimate-live-setting-picks/"><u>[New] In 2024, Ultimate Live Setting Picks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unlock-flawless-loops-on-youtube-with-these-tips/"><u>[New] In 2024, Unlock Flawless Loops on YouTube with These Tips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-tutorial-for-3d-lut-creators/"><u>[New] Ultimate Tutorial for 3D LUT Creators</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-efficient-video-downloading-vimeo-to-mp4-tutorial/"><u>[Updated] Efficient Video Downloading Vimeo to MP4 Tutorial</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-prime-biz-vault-services-for-data-for-2024/"><u>[Updated] Prime Biz Vault Services for Data for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1725290622926-dvdusb-type-csurface-hubmacbookchromebook-pixel/"><u>将DVD数据传输到支持USB Type-C接口的设备：Surface Hub、MacBook和Chromebook Pixel指南</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exceptional-power-for-gopro-hero5-official-sources-and-alternatives-for-2024/"><u>Exceptional Power for GoPro Hero5 Official Sources & Alternatives for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-sony-xperia-10-v-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Sony Xperia 10 V to Protect Your Individual Information</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ipad-video-editing-showdown-lumafusion-vs-davinci-resolve-choosing-the-right-app-for-your-needs/"><u>IPad Video Editing Showdown: LumaFusion Vs DaVinci Resolve - Choosing the Right App for Your Needs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/iphone-16-vs-ipad-mini-why-smart-tech-choices-spark-greater-enthusiasm/"><u>IPhone 16 Vs. IPad Mini: Why Smart Tech Choices Spark Greater Enthusiasm</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lenovo-ideapad-duet-a-fantastic-combination-of-chromebook-and-tablet-features-reviewed-by-zdnet/"><u>Lenovo IdeaPad Duet - A Fantastic Combination of Chromebook and Tablet Features Reviewed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-labor-day-discount-save-700-on-the-newest-2022-ipad-pro-exclusive-deal-inside/"><u>Massive Labor Day Discount: Save $700 on the Newest 2022 iPad Pro - Exclusive Deal Inside</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-note-taking-on-your-ipad-easy-methods-using-the-apple-pencil-discover-three-effective-techniques/"><u>Mastering Note-Taking on Your iPad: Easy Methods Using the Apple Pencil - Discover Three Effective Techniques!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nintendos-cost-effective-console-alternative-the-ultimate-guide-to-the-nintendo-switch-lite-review/"><u>Nintendo's Cost-Effective Console Alternative - The Ultimate Guide to the Nintendo Switch Lite Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revitalize-your-tech-a-zdnet-guide-to-essential-springtime-device-maintenance-tips-6-must-do-tasks/"><u>Revitalize Your Tech: A ZDNet Guide to Essential Springtime Device Maintenance Tips (6 Must-Do Tasks)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revitalize-your-vintage-kindle-book-loading-tips-and-crucial-no-nos-for-classic-readers/"><u>Revitalize Your Vintage Kindle: Book Loading Tips & Crucial No-Nos for Classic Readers!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-price-secure-a-discounted-amazon-fire-kids-tablet-at-just-90-before-time-runs-out-shop-now-on-zdnet/"><u>Slash Your Price: Secure a Discounted Amazon Fire Kids Tablet at Just $90 Before Time Runs Out – Shop Now on ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/surprising-revelation-top-quality-speaker-system-beyond-bose-and-polk-reviewed-on-zdnet/"><u>Surprising Revelation: Top Quality Speaker System Beyond Bose & Polk Reviewed on ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/transformar-imagenes-animadas-gif-en-videos-mov-sin-gastar-tutorial-paso-a-paso-y-opciones-gratuitas-online/"><u>Transformar Imágenes Animadas GIF en Videos MOV Sin Gastar: Tutorial Paso a Paso Y Opciones Gratuitas Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-astrological-flair-in-digital-self-portrayals-on-whatsapp/"><u>[New] Astrological Flair in Digital Self-Portrayals on WhatsApp</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-winning-with-spotify-promos-tactics-and-tricks/"><u>[New] Winning with Spotify Promos Tactics and Tricks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-clear-shots-for-youtube-filmmakers/"><u>[Updated] In 2024, Clear Shots for YouTube Filmmakers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-microsoft-shakes-up-tech-industry-with-easy-to-repair-laptops-a-game-changer-or-a-challenge-to-competitors-like-apple-insights-from-ifixit-zdnet/"><u>1. Microsoft Shakes Up Tech Industry with Easy-to-Repair Laptops: A Game Changer or a Challenge to Competitors Like Apple? - Insights From iFixit [ZDNet]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleash-creativity-without-breaking-the-bank-top-9-affordable-editors/"><u>2024 Approved Unleash Creativity Without Breaking the Bank - Top 9 Affordable Editors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tube-video-extraction-tools-for-android-reviewed-for-2024/"><u>9 YouTube Video Extraction Tools for Android Reviewed for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/competitive-exclusion-can-result-in-one-species-outcompeting-another-potentially-leading-to-extinction-cuadrado-de-cierre/"><u>Competitive Exclusion Can Result in One Species Outcompeting Another, Potentially Leading to Extinction. Cuadrado De Cierre</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-logitech-mx-master-3-ideal-choice-or-not-professional-insights-from-zdnet/"><u>Expert Analysis of Logitech MX Master 3 - Ideal Choice or Not? Professional Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-wi-fi-6e-a-glimpse-into-tomorrows-wireless-technology-benefits-and-limitations-zdnet/"><u>Exploring Wi-Fi 6E: A Glimpse Into Tomorrow's Wireless Technology - Benefits and Limitations | ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-k11-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo K11 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-most-effective-laptop-chillers-of-2n24-industry-experts-weigh-in-toms-hardware/"><u>Ultimate Guide to the Most Effective Laptop Chillers of 2N24: Industry Experts Weigh In | Tom's Hardware</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-strategies-for-stunning-iphone-nature-photography/"><u>Ultimate Strategies for Stunning iPhone Nature Photography</u></a></li>
 </ul></div>
 

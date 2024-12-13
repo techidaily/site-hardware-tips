@@ -1,7 +1,7 @@
 ---
 title: How Have We Outgrown the Era of Floppy Disks? Their Surprising Presence in Planes and Trains | Insights From ZDNET
-date: 2024-09-18 22:22:58
-updated: 2024-09-20 11:32:10
+date: 2024-12-07T20:44:55.134Z
+updated: 2024-12-12T17:02:08.051Z
 tags:
   - office-hardware-appliances
 categories:
@@ -32,6 +32,10 @@ You won't love your printer, but you can hate it less, the company promises, bec
 As millions of people who own HP inkjet printers know only too well, the company has built its vast printer empire on the razors-and-blades business model. **\[1\]** HP has offered an [Instant Ink subscription plan](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fcv%2Finstantink&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for more than a decade, but this new offering throws in the hardware too.
 
 Is it a good deal? If you're in the market for a new printer, you might be tempted to try the "risk-free" 30-day trial. My advice: Read the fine print carefully. After the trial period ends, you are on the hook for that monthly charge for two full years, with a hefty termination fee if you change your mind and try to cancel early.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does HP's All-In Plan subscription work?
 
@@ -67,6 +71,10 @@ Step 5: HP ships you a printer and enough ink to get you going. Your job: Instal
 
 You supply the paper.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will this subscription save you money?
 
 Normally, the way to evaluate any subscription plan is with some simple math. Does that monthly payment cost more or less than you would pay if you just bought the same products outright? Is there anything the subscription offers that you can't get on your own?
@@ -92,6 +100,10 @@ To print 100 pages per month, you'll probably need to buy a fresh two-pack of ca
 **Also: [My favorite thermal label maker is compact, cool-looking, and easy to use](https://www.zdnet.com/home-and-office/my-new-favorite-thermal-label-maker-is-compact-cool-looking-and-easy-to-use/)**
 
 But money isn't the only factor to consider. As HP's agency argued in its ad campaign, "HP's Print Solutions caters to the most common printer frustrations. You not only save time and money, but also your sanity."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it a good deal?
 
@@ -142,11 +154,28 @@ The one thing you can't do with a low-cost monochrome laser printer is print pic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-easy-peasy-guide-to-crafting-and-tweaking-multiple-snaps-in-snapchat-for-2024/"><u>[New] Easy-Peasy Guide to Crafting and Tweaking Multiple Snaps in Snapchat for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-visualize-and-save-premium-free-screen-capture-software-on-pcmac/"><u>[New] Visualize and Save - Premium Free Screen Capture Software on PC/Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-analyzing-why-your-facebook-doesnt-suggest-movies/"><u>[Updated] 2024 Approved Analyzing Why Your Facebook Doesn't Suggest Movies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fundamental-codex-for-online-video-communities/"><u>[Updated] 2024 Approved Fundamental Codex for Online Video Communities</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-star-clusters-in-social-media-landscape/"><u>[Updated] 2024 Approved Star Clusters in Social Media Landscape</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-mondays-best-kept-secret-save-big-with-our-affordable-iphone-webcam-mount-for-just-8-still-available/"><u>Cyber Monday's Best-Kept Secret: Save Big with Our Affordable iPhone Webcam Mount for Just $8 – Still Available!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-in-on-it-exclusive-spotlight-on-metas-premier-vr-deal-for-the-512gb-quest-best-value-alert/"><u>Get in On It! Exclusive Spotlight on Meta's Premier VR Deal for the 512GB Quest | Best Value Alert</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-football-game-analysis-premier-insights-in-graphs/"><u>In 2024, Football Game Analysis Premier Insights in Graphs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-mastering-iphone-macro-photography-detailed-images-at-your-fingertips/"><u>In 2024, Mastering iPhone Macro Photography Detailed Images at Your Fingertips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-tech-expenses-the-remarkable-50-gadget-that-saves-big-bucks-insights/"><u>Slash Your Tech Expenses: The Remarkable $50 Gadget That Saves Big Bucks – Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-infographic-yearbook-of-2017s-youtube-insights-and-trends-for-2024/"><u>The Infographic Yearbook of 2017'S Youtube Insights & Trends for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-motorola-moto-g73-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Motorola Moto G73 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-academic-laptops-thoroughly-tested-and-evaluated-by-professionals-techdigest/"><u>Top-Ranking Academic Laptops: Thoroughly Tested & Evaluated by Professionals | TechDigest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-offer-get-a-second-display-with-your-laptop-and-save-120-using-teamgee-shop-now/"><u>Unbeatable Offer: Get a Second Display with Your Laptop & Save $120 Using TeamGee - Shop Now!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.
-date: 2024-12-01T23:22:38.839Z
-updated: 2024-12-06T18:06:35.365Z
+date: 2024-12-05T23:17:24.527Z
+updated: 2024-12-13T00:10:49.317Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,16 +128,18 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-master-your-youtube-thumbnail-size-and-ratio/"><u>[Updated] Master Your YouTube Thumbnail Size & Ratio</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-video-wins-essential-ideas-for-vloggers/"><u>[Updated] Quick Video Wins Essential Ideas for Vloggers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-concept-to-creation-in-seconds-the-astonishing-capabilities-of-ai-in-modern-robotics-design-zdnet/"><u>From Concept to Creation in Seconds: The Astonishing Capabilities of AI in Modern Robotics Design | ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-your-trusty-old-ipad-falling-short-in-the-modern-tech-world/"><u>Is Your Trusty Old iPad Falling Short in the Modern Tech World?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/justification-why-choosing-an-ipad-makes-sense-financially/"><u>Justification: Why Choosing an iPad Makes Sense Financially</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-self-cleaning-robot-vacuum-now-equipped-with-baseboard-wiping-feature-zdnet/"><u>Revolutionary Self-Cleaning Robot Vacuum: Now Equipped with Baseboard Wiping Feature | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-8-essential-concerns-surrounding-the-use-of-chatgpt-by-openai/"><u>The 8 Essential Concerns Surrounding the Use of ChatGPT by OpenAI</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-split-between-panoramic-and-virtual-realities/"><u>The Split Between Panoramic & Virtual Realities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-smart-home-gadgets-comprehensive-testing-and-reviews-by-experts-techradar/"><u>Top Rated Smart Home Gadgets : Comprehensive Testing & Reviews by Experts | TechRadar</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/trust-trail-witnessed-by-true-buyers/"><u>Trust Trail: Witnessed by True Buyers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-upgrade-how-the-new-two-in-one-robot-vacuum-outperforms-its-predecessor-a-comprehensive-review-by-zdnet/"><u>Unveiling the Latest Upgrade: How the New Two-in-One Robot Vacuum Outperforms Its Predecessor – A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-a-beginners-guide-to-recording-sims-4-sessions/"><u>[New] 2024 Approved A Beginner's Guide to Recording Sims 4 Sessions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-distinguished-directory-top-ranked-websites-for-snatching-snapalert-melodies/"><u>[Updated] 2024 Approved Distinguished Directory Top-Ranked Websites for Snatching SnapAlert Melodies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-asus-mg28uq-a-gateway-to-unprecedented-4k-gaming-and-more/"><u>[Updated] ASUS MG28UQ - A Gateway to Unprecedented 4K Gaming and More</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/erate-your-youtube-channels-growth-to-1kplus/"><u>Accelerate Your YouTube Channel's Growth to 1K+</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-and-bargains-pre-prime-day-2024-top-savings-sources-highlighted-by-zdnet/"><u>Best Buys & Bargains Pre-Prime Day 2024: Top Savings Sources Highlighted by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-the-lenovo-yoga-book-t-revolutionize-dual-display-computers-with-its-latest-release-zdnet/"><u>Can the Lenovo Yoga Book T Revolutionize Dual-Display Computers with Its Latest Release? | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-to-picking-the-ideal-apple-laptop/"><u>Choosing Between MacBook Pro & MacBook Air: A Comprehensive Guide to Picking the Ideal Apple Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discount-alert-score-30-less-on-the-portable-energy-source-anker-737-power-unit-tech-bargains-roundup/"><u>Discount Alert! Score $30 Less on the Portable Energy Source Anker 737 Power Unit | Tech Bargains Roundup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-desktop-systems-for-quality-use/"><u>In 2024, Prime Desktop Systems for Quality Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-reasons-why-claude-outshines-chatgpt-in-conversational-intelligence/"><u>Top 4 Reasons Why Claude Outshines ChatGPT in Conversational Intelligence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-digital-notepads-in-depth-expert-reviews-and-purchasing-guide-insights/"><u>Top-Rated Digital Notepads: In-Depth Expert Reviews & Purchasing Guide - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-prime-day-deal-top-performing-non-thinkpad-non-macbook-laptop-steals-the-show-with-30-discount/"><u>Unbeatable Prime Day Deal: Top-Performing Non-ThinkPad, Non-MacBook Laptop Steals the Show with 30% Discount!</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g73-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G73 5G fingerprint</u></a></li>
 </ul></div>
 

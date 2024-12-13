@@ -1,7 +1,7 @@
 ---
 title: Amazon's Prime Day Deals Continue! Score the Latest Offers with 36%% Off on a High-Capacity 8TB Samsung T5 SSD - Featured
-date: 2024-11-22T18:00:39.926Z
-updated: 2024-11-27T16:22:55.175Z
+date: 2024-12-06T18:27:03.232Z
+updated: 2024-12-12T16:18:29.372Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca827103e-59c8-4e87-b075-9b7ec6fe5257%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,24 +65,22 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-enhancing-streaming-quality-using-obs-plus-zoom-for-2024/"><u>[New] Enhancing Streaming Quality Using OBS + Zoom for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-essential-enhancements-for-a-superstar-stardew-fan/"><u>[Updated] 2024 Approved The Essential Enhancements for a Superstar Stardew Fan</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-masterful-iphone-images-through-strategic-leading-lines/"><u>[Updated] Masterful iPhone Images Through Strategic Leading Lines</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-one-minute-mastery-of-fades/"><u>[Updated] One-Minute Mastery of Fades</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-guide-to-essential-youtube-equipment/"><u>[Updated] Step-by-Step Guide to Essential YouTube Equipment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anker-737-mini-power-bank-sale-shop-now-and-get-30-off-exclusive-offer-for-zdnet-readers/"><u>Anker 737 Mini Power Bank Sale - Shop Now & Get $30 Off, Exclusive Offer for ZDNet Readers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-october-prime-day-offer-meta-unveils-incredible-512gb-quest-3-sale-top-picks-for-vr-enthusiasts/"><u>Best October Prime Day Offer: Meta Unveils Incredible 512GB Quest 3 Sale - Top Picks for VR Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-extravagance-of-dells-premium-3k-gaming-laptop-innovative-perks-you-need-to-try/"><u>Experience the Extravagance of Dell's Premium $3K Gaming Laptop - Innovative Perks You Need to Try!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877326-9781632659361-fact-fiction-and-flying-saucers/"><u>Fact, Fiction, and Flying Saucers | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/freshly-released-chrome-os-upgrade-introduces-windows-11-features-to-your-chromebook-the-latest-news/"><u>Freshly Released Chrome OS Upgrade Introduces Windows 11 Features to Your Chromebook: The Latest News</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-handle-changing-phone-number-displays-in-your-messaging-app/"><u>How to Handle Changing Phone Number Displays in Your Messaging App</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-easily-downgrade-system-sound-on-macwindows-devices/"><u>In 2024, Easily Downgrade System Sound on Mac/Windows Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-add-auto-captions-to-instagram/"><u>In 2024, How to Add Auto Captions to Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/strategic-alliances-with-abbyy-signature-mastering-process-intelligence/"><u>Strategic Alliances with ABBYY Signature: Mastering Process Intelligence</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-walmart-savings-and-offers-unveiling-the-hottest-deals-of-july-2024-insights/"><u>Top Walmart Savings & Offers: Unveiling the Hottest Deals of July 2024 - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-notch-screen-quality-in-a-featherlight-laptop-now-on-discount-dont-miss-out-read-more-here-digitaltechinsights/"><u>Top-Notch Screen Quality in a Featherlight Laptop Now on Discount – Don’t Miss Out, Read More Here | DigitalTechInsights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-ultra-fast-storage-grab-the-massive-8tb-samsung-t5-ssd-for-36-less-on-amazon-featured/"><u>Unleash Ultra-Fast Storage: Grab the Massive 8TB Samsung T5 SSD for 36% Less on Amazon, Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-full-desktop-power-for-your-notebook-using-an-advanced-discreet-docking-solution-featured-on-zdnet/"><u>Unlock Full Desktop Power for Your Notebook Using an Advanced Discreet Docking Solution, Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-value-on-a-budget-my-experience-with-the-affordable-surface-pro-11-insights-from-a-seasoned-microsoft-enthusiast/"><u>Unlocking Value on a Budget: My Experience with the Affordable Surface Pro 11 - Insights From a Seasoned Microsoft Enthusiast</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instaboomtown-building-community-with-loop-videos/"><u>[Updated] In 2024, InstaBoomtown Building Community with Loop Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-navigating-whatsapps-depths-tricks-you-need-to-know/"><u>[Updated] In 2024, Navigating WhatsApp's Depths Tricks You Need to Know</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-dash-cams-in-depth-review-of-the-pruveeo-f5-1080p-camera/"><u>Budget-Friendly Dash Cams: In-Depth Review of the Pruveeo F5 1080P Camera</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-pova-5-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Pova 5 Pro Is Unlocked</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-bonanza-shop-for-top-tier-gaming-systems-up-to-250-cheaper-featured-by-zdnet/"><u>Memorial Day Bonanza: Shop for Top-Tier Gaming Systems Up to $250 Cheaper, Featured by ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-surfaces-key-to-triumph-lies-in-its-flexibility-discover-how-with-zdnet/"><u>Microsoft Surface's Key to Triumph Lies in Its Flexibility - Discover How with ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/origami-and-samurai-inspirations-for-minecraft-homes/"><u>Origami & Samurai Inspirations for Minecraft Homes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-the-learning-process-best-student-driven-uses-for-chatgpt/"><u>Revolutionizing the Learning Process: Best Student-Driven Uses for ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/safeguarding-windows-devices-comprehensive-guide-to-securing-personal-and-small-office-computers-insights-from-zdnet/"><u>Safeguarding Windows Devices: Comprehensive Guide to Securing Personal & Small Office Computers - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scorching-deals-snag-samsung-odyssey-g7-at-a-whopping-50-discount-on-amazons-spring-fling-insights-from-zdnet/"><u>Scorching Deals: Snag Samsung Odyssey G7 at a Whopping 50% Discount on Amazon's Spring Fling - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/send-local-videos-to-chromecast-a-beginners-guide-for-all-platforms/"><u>Send Local Videos to Chromecast A Beginners Guide for All Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-windows-10-picture-and-media-importer-for-2024/"><u>The Ultimate Guide to Windows 10 Picture & Media Importer for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-35-unbeatable-cyber-monday-offers-find-the-best-bargains-on-dell-products-at-retail-giants-like-best-buy-and-amazon/"><u>Top 35 Unbeatable Cyber Monday Offers: Find the Best Bargains on Dell Products at Retail Giants Like Best Buy & Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-laptop-picks-for-2n4-professional-evaluations-and-comparisons-on-zdnet/"><u>Top-Ranking Laptop Picks for 2N4: Professional Evaluations & Comparisons on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-fastest-ram-on-the-market-boosting-productivity-and-gaming-rigs-techradar/"><u>Ultimate Guide to the Fastest RAM on the Market : Boosting Productivity & Gaming Rigs | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-confirms-the-era-of-fee-free-windows-10-upgrades-has-closed/"><u>ZDNet Confirms: The Era of Fee-Free Windows 10 Upgrades Has Closed</u></a></li>
 </ul></div>
 

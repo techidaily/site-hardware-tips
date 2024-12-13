@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Understanding the National Labor Relations Act (NLRA)"
-date: 2024-12-04T23:34:16.772Z
-updated: 2024-12-07T02:19:31.561Z
+date: 2024-12-11T23:55:02.956Z
+updated: 2024-12-13T00:07:55.843Z
 tags:
   - laptops
 categories:
@@ -22,13 +22,13 @@ As a hybrid option for those who want the best of both worlds, a smart notebook 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best digital notebook right now?
 
 To help you decide which smart notebooks are worth the investment, we tested and researched the best ones on the market, considering notebook feel, storage capabilities and options, special features, and price. Based on our hands-on experience, our pick for the best smart notebook overall is the [Boox Note Air 3 C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBOOX-Tablet-Note-Air-ePaper%2Fdp%2FB0CHF423CP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C37eb808e-b6bc-4c72-a221-821638e5d27e%7Cdtp&dtb=1) thanks to its note-taking and productivity features and smooth color display. We also included notebooks from brands like Kindle, Rocketbook, and others that ZDNET staff use and recommend. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best smart notebooks of 2024
 
@@ -43,6 +43,10 @@ Pros
 
 Cons 
 * Screen can lag when browsing web or watching videos
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Boox Note Air 3 C
 
@@ -75,7 +79,7 @@ Cons
 * No hardcover option
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rocketbook Fusion Smart Notebook
@@ -138,11 +142,11 @@ Cons
 * Pages can stick together
 * Sometimes slow transcription
 
-## Moleskine Pen+ Smart Writing Set
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Moleskine Pen+ Smart Writing Set
 
 ### Best stylish smart notebook
 
@@ -173,15 +177,7 @@ Cons
 * Expensive option
 * Have to buy the marker separately
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## reMarkable 2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best smart notebook splurge
 
@@ -211,10 +207,6 @@ The best smart notebook is the Boox Note Air 3 C. I made this pick based on its 
 
 \*MSRP at the time of writing. Please note that actual prices may vary depending on available sales, deals, discounts, and coupons. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is a smart notebook just a fancy way of saying tablet?
 
 If you're on the fence about buying your first tablet:
@@ -225,6 +217,10 @@ The sole purpose of a smart notebook is exactly that, to digitize a normal noteb
 A tablet, usually runs on a mobile operating system and offers a wider range of functions such as browsing the web, multimedia, gaming, and other tasks. A digital notebook is more niche and designed specifically for note-taking and digital writing tasks.
 3. **Is a digital notebook worth it?**  
 You can find a digital notebook for well under $20, making it a pretty budget-friendly option for students or anyone looking to organize their notes without breaking the bank. But, if you like for all your devices to be consistent in terms of software, then you might be better off spending a little more for a tablet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which smart notebook is right for you?
 
@@ -268,7 +264,7 @@ Our best pick for smart pens would have to be the [Apple Pencil](https://www.zdn
 [Wacom Bamboo Ink $41.6 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB081LKC91V%2Fref%3Dasc%5Fdf%5FB081LKC91V1727694000000%3Fcreative%3D395261%26creativeASIN%3DB081LKC91V%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C37eb808e-b6bc-4c72-a221-821638e5d27e%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do they come with a smart pen or are those sold separate?
@@ -282,7 +278,7 @@ Keeping your notes and reminders organized on a single device for school is the 
 **Also: [The best tablets for students](https://www.zdnet.com/article/best-tablets-for-students/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do smart notebooks feel like paper?
@@ -292,6 +288,10 @@ That depends on the specific product. For example, Rocketbook's lineup of smart 
 ## Can you use an iPad as a smart notebook?
 
 While you won't get the "feel" of real paper with an iPad, you can use an iPad as a way to take notes digitally, especially if you have a quality stylus like the Apple Pencil. iOS apps like Noteflow allow you to take notes, annotate PDFs, sketch and doodle, and more while syncing to the cloud.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative smart notebooks to consider?
 
@@ -339,22 +339,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-final-cut-pro-x-achieving-perfect-vertical-video-for-instagram/"><u>[New] In 2024, Final Cut Pro X Achieving Perfect Vertical Video for Instagram</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>[Updated] In 2024, 360 Degree Cameras Vs 3D Cameras What Are the Differences?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-iphoneipad-apps-to-enjoy-your-favorite-psp-games/"><u>[Updated] In 2024, Best iPhone/iPad Apps to Enjoy Your Favorite PSP Games</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-illuminate-your-aquarium-with-this-top-rated-amazon-prime-lighting-solution-enhance-serenity-in-your-workspace/"><u>1. Illuminate Your Aquarium with This Top-Rated Amazon Prime Lighting Solution: Enhance Serenity in Your Workspace!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amaze-your-guests-with-the-bargain-of-a-lifetime-get-google-nest-hub-from-walmart-for-just-55-big-tech-deal-spotted-by-zdnet/"><u>Amaze Your Guests with the Bargain of a Lifetime: Get Google Nest Hub From Walmart For Just $55 - Big Tech Deal Spotted by ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-premier-choices-in-strip-lights-for-2e2024-insider-review-and-rankings-from-zdnet/"><u>Discover the Premier Choices in Strip Lights for 2E:2024 – Insider Review & Rankings From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-top-book-lighting-solutions-for-2eo-readers-expert-reviews-by-zdnet/"><u>Discover the Top Book Lighting Solutions for 2Eo Readers: Expert Reviews by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-tiktok-creations-with-the-premier-ring-light-selection-of-2-tech-insights-from-zdnet/"><u>Elevate Your TikTok Creations with the Premier Ring Light Selection of 2지금 | Tech Insights From ZDNET</u></a></li>
-<li><a href="https://windows11.techidaily.com/ensuring-a-smooth-transfer-of-your-windows-qbittorrent-settings/"><u>Ensuring a Smooth Transfer of Your Windows qBittorrent Settings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unparalleled-brightness-with-new-permanent-govee-outdoor-lighting-install-this-weekendzdnet-review/"><u>Experience Unparalleled Brightness with New Permanent Govee Outdoor Lighting - Install This Weekend![ZDNet Review]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ge-introduces-advanced-smart-hexagon-panel-lamps-latest-innovation-reviewed-by-zdnet/"><u>GE Introduces Advanced Smart Hexagon Panel Lamps - Latest Innovation Reviewed by ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guideline-on-budgeting-for-music-video-filming/"><u>In 2024, Guideline on Budgeting for Music Video Filming</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-infinix-smart-8-hd-by-fonelab-android-recover-data/"><u>Recover lost data from Infinix Smart 8 HD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-inactive-windows-firewall-defense/"><u>Steps to Reactivate Inactive Windows Firewall Defense</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-youtube-studio-editing-handbook-for-2024/"><u>The Ultimate YouTube Studio Editing Handbook for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-free-special-effects-software-programs-les-plus-performants/"><u>Top Free Special Effects Software Programs - Les Plus Performants</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-new-smart-home-innovations-of-2cuary-2024-featuring-expert-opinions-zdnet/"><u>Ultimate Guide to the Best New Smart Home Innovations of 2Cuary 2024, Featuring Expert Opinions | ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-complete-analysis-of-gecatas-play-recorder/"><u>[New] 2024 Approved Complete Analysis of Gecata's Play Recorder</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-aurora-vs-traditional-hdr-the-battle-for-best-quality/"><u>[Updated] 2024 Approved Aurora vs Traditional HDR The Battle for Best Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-listings-easy-purchases-of-startup-youtube-revenue-streams/"><u>[Updated] 2024 Approved Elite Listings Easy Purchases of Startup YouTube Revenue Streams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-6-video-tactics-for-captivating-audiences-for-2024/"><u>[Updated] Top 6 Video Tactics for Captivating Audiences for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-hidden-techniques-for-clear-ppt-transcriptions-for-2024/"><u>[Updated] Unveiling Hidden Techniques for Clear PPT Transcriptions for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-game-discovering-unmatched-perks-in-dells-high-end-thousand-dollar-laptop-zdnet/"><u>Beyond the Game: Discovering Unmatched Perks in Dell's High-End, Thousand-Dollar Laptop | ZDNet</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/guide-pratique-restaurer-des-donnees-perdues-a-laide-dautopsy-forensic-tool/"><u>Guide Pratique : Restaurer Des Données Perdues À L'aide D’Autopsy Forensic Tool.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-introduces-laptops-and-chromebooks-tailored-for-the-modern-hybrid-workforce-discover-their-innovative-all-in-one-desktops/"><u>HP Introduces Laptops and Chromebooks Tailored for the Modern Hybrid Workforce - Discover Their Innovative All-in-One Desktops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-black-friday-computing-bargains-find-the-best-laptops-in-october-2024-ultimate-guide/"><u>Top-Rated Black Friday Computing Bargains: Find the Best Laptops in October 2024 Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-breakdown-of-features-and-performance-for-the-latest-apple-m2-cpu/"><u>ZDNet's Ultimate Breakdown of Features and Performance for the Latest Apple M2 CPU</u></a></li>
 </ul></div>
 

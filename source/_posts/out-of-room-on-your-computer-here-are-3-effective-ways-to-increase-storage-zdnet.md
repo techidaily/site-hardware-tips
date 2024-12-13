@@ -1,7 +1,7 @@
 ---
 title: Out of Room on Your Computer? Here Are 3 Effective Ways to Increase Storage | ZDNet
-date: 2024-09-17 22:19:50
-updated: 2024-09-20 10:54:50
+date: 2024-12-05T20:52:06.042Z
+updated: 2024-12-13T01:07:37.884Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,29 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-make-a-group-chat-on-skype-for-windows-and-mac/"><u>[New] How to Make a Group Chat on Skype [For Windows and Mac]</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-transforming-gaming-logs-alternatives-to-fbx-recording-for-2024/"><u>[Updated] Transforming Gaming Logs Alternatives to FBX Recording for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-farm-tastic-gaming-best-trio-of-agricultural-games/"><u>2024 Approved Farm-Tastic Gaming Best Trio of Agricultural Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/capture-stunning-aerial-photos-with-the-affordable-holy-stone-foldable-drone-offer-from-zdnet/"><u>Capture Stunning Aerial Photos with the Affordable Holy Stone Foldable Drone Offer From ZDNET.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chatgpt-plus-to-the-rescue-my-journey-from-needing-a-mechanic-to-making-an-informed-choice-without-reading-online-reviews-zdnet-insights/"><u>ChatGPT Plus to the Rescue: My Journey From Needing a Mechanic to Making an Informed Choice Without Reading Online Reviews | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/combatting-the-rise-of-gps-interference-in-transport-and-aerial-vehicles-expert-tips-from-zdnet/"><u>Combatting the Rise of GPS Interference in Transport and Aerial Vehicles | Expert Tips From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-the-top-electric-cars-model-s-vs-model-3-vs-model-x-vs-model-y-expert-analysis-by-zdnet/"><u>Comparing the Top Electric Cars : Model S Vs. Model 3 Vs. Model X Vs. Model Y – Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/critical-challenges-at-southwest-airlines-hidden-concerns-that-could-impact-travelers/"><u>Critical Challenges at Southwest Airlines: Hidden Concerns That Could Impact Travelers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delta-airlines-recent-customer-and-employee-dissatisfaction-exposed-by-zdnet/"><u>Delta Airlines' Recent Customer & Employee Dissatisfaction Exposed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-platinum-visa-and-infinite-atm-cards-for-vip-lounge-entry-ranked-by-zdnet/"><u>Discover the Finest Platinum Visa and Infinite ATM Cards for VIP Lounge Entry | Ranked by ZDNET</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y78plus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y78+ Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-your-lenovo-pc-a-comprehensive-walkthrough-for-fresh-start/"><u>Resetting Your Lenovo PC: A Comprehensive Walkthrough for Fresh Start</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-htc-u23-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 HTC U23 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-2024s-android-in-the-cloud-innovators/"><u>Top 2024'S Android in the Cloud Innovators</u></a></li>
+</ul></div>
+

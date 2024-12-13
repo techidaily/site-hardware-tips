@@ -1,7 +1,7 @@
 ---
 title: "Best 5G Notebooks : Ultimate Guide and Rankings on CNet"
-date: 2024-12-02T00:40:21.410Z
-updated: 2024-12-06T20:28:04.103Z
+date: 2024-12-09T22:11:33.027Z
+updated: 2024-12-12T22:07:39.521Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,14 @@ And with a snafu like no sound, there are a few ways to troubleshoot the issue, 
 Here's how to pull this off in both Windows 10 and 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reset your audio settings in Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check your audio and sound source
 
@@ -55,10 +59,6 @@ You've probably already checked the usual suspects. But let's review anyway. Mak
 Check the volume.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Go to sound settings
 
@@ -73,10 +73,6 @@ After choosing your output device, try playing audio again.
 Check the audio sources.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check external speakers
 
@@ -120,6 +116,10 @@ Use the Get Help app.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. In the sound settings screen, check the Volume mixer
 
 In Windows 10, right-click the System Tray Audio icon and select **Open sound settings**. Scroll to the bottom of the sound settings screen and click the setting for **App volume and device preferences**.
@@ -143,7 +143,7 @@ Reset the devices and apps.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Check the sound control panel
@@ -174,6 +174,10 @@ Open Device Manager.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Click Update driver
 
 First, try updating the driver. Click the **Update driver** button. Permit it to search your computer for drivers and then search Windows Update.
@@ -183,7 +187,7 @@ Update the driver.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 12\. If this doesn't work, try uninstalling the driver
@@ -201,10 +205,6 @@ To bring back the driver, either reboot your PC or right-click on the entry for 
 Reinstall the audio driver.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 14\. Try stopping and restarting the Windows Audio service
 
@@ -259,19 +259,24 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-through-the-noise-optimal-thumbnail-sizes/"><u>[Updated] In 2024, Cutting Through the Noise Optimal Thumbnail Sizes</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-the-art-of-captivating-vimeo-staff-picks/"><u>[Updated] In 2024, Mastering the Art of Captivating Vimeo Staff Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024-ultimate-projector-guide-expertly-tested-and-comprehensive-reviews-on-zdnet/"><u>2024 Ultimate Projector Guide: Expertly Tested and Comprehensive Reviews on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-viewing-experience-with-the-premier-tv-antenna-picks-from-zdnets-expert-roundup/"><u>Ace Your Viewing Experience with the Premier TV Antenna Picks From ZDNet's Expert Roundup</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/vering-video-opportunities-with-google-trend-analysis/"><u>Discovering Video Opportunities with Google Trend Analysis</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/essential-guide-for-newbies-visual-fidelity-in-videos/"><u>Essential Guide for Newbies Visual Fidelity in Videos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-new-apple-iphone-se-balancing-functionality-with-affordability/"><u>Evaluating the New Apple iPhone SE - Balancing Functionality with Affordability</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigate-high-speed-stories-on-instagram-effectively/"><u>In 2024, Navigate High-Speed Stories on Instagram Effectively</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-xiaomi-redmi-12-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Xiaomi Redmi 12 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-unconventional-chat-services-excellence-list-security-functionality-and-pleasure/"><u>New Unconventional Chat Services Excellence List Security, Functionality, and Pleasure</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-4k-projection-displays-ultimate-guide-2024-edition/"><u>Top-Rated 4K Projection Displays: Ultimate Guide - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-gaming-potential-from-samsungs-discounted-projector-device-revealed-by-zdnet-save-an-extra-200/"><u>Unlock Gaming Potential From Samsung's Discounted Projector Device Revealed by ZDNET, Save an Extra $200!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-thrilling-savings-secure-your-free-xbox-game-pass-for-only-21-less-exclusive-prime-day-deal-on-the-newest-fire-tv-stick-bundlezdnet/"><u>Unlock Thrilling Savings: Secure Your Free Xbox Game Pass for Only $21 Less - Exclusive Prime Day Deal on the Newest Fire TV Stick Bundle![ZDNET]</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-recording-tips-to-record-audio-in-high-quality-for-2024/"><u>[New] 10 Recording Tips to Record Audio in High Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-capture-music-from-facebook-streams-for-2024/"><u>[Updated] Capture Music From Facebook Streams for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-detailed-guide-to-using-firefoxs-picture-in-picture-mode/"><u>2024 Approved Detailed Guide to Using Firefox's Picture-in-Picture Mode</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-stream-capture-software-unraveler/"><u>2024 Approved Stream Capture Software Unraveler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-powerhouses-our-experts-picks-for-the-ultimate-under-1k-laptops-of-2024-zdnet/"><u>Affordable Powerhouses: Our Experts' Picks for the Ultimate Under-$1K Laptops of 2024 | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-bargain-alert-8-iphone-camera-mount-deal-still-going-strong/"><u>Cyber Monday Bargain Alert: $8 iPhone Camera Mount Deal Still Going Strong !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discount-alert-get-your-hands-on-a-pair-of-portable-monitors-for-less-with-teamgee-save-120-nowzdnet-deal/"><u>Discount Alert: Get Your Hands on a Pair of Portable Monitors for Less with TeamGee, Save $120 Now![ZDNET Deal]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-troubleshooting-guide-restoring-power-to-my-macbook-pro-without-spending-a-dime-digital-life-hacks/"><u>DIY Troubleshooting Guide: Restoring Power to My MacBook Pro Without Spending a Dime | Digital Life Hacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-revolutionary-3d-art-on-asus-latest-laptops-no-vr-or-ar-glasses-required-detailed-analysis-for-tech-enthusiasts/"><u>Experience Revolutionary 3D Art on Asus Latest Laptops: No VR or AR Glasses Required - Detailed Analysis for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-sound-quality-in-gaming-with-these-discounted-speakers-at-amazon-spotted/"><u>Experience Unmatched Sound Quality in Gaming with These Discounted Speakers at Amazon, Spotted !</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-honor-magic-6-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Honor Magic 6 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-bandicam-reference-unpacking-2023-features/"><u>In 2024, The Ultimate Bandicam Reference – Unpacking 2023 Features</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mastering-the-art-of-adding-marks-to-your-ebook-pages-with-flipbuilder-tools-and-techniques/"><u>Mastering the Art of Adding Marks to Your eBook Pages with FlipBuilder Tools and Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-a-steal-on-samsung-t5-ssd-before-october-prime-day-exclusive-deals-dropping-early-at-amazon/"><u>Snag a Steal on Samsung T5 SSD Before October Prime Day: Exclusive Deals Dropping Early at Amazon</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-acceleration-of-telegram-post-facebook-disruption/"><u>The Acceleration of Telegram Post-Facebook Disruption</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-guide-to-softening-volume-levels-on-lumafusion/"><u>The Guide to Softening Volume Levels on Lumafusion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-11-professional-tools-for-video-editing-in-2er-2024-leading-the-way/"><u>Top 11 Professional Tools for Video Editing in 2Er 2024 - Leading the Way</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-charged-selections-optimal-power-banks-for-macbook-pro-reviewed-by-zdnet/"><u>Top Charged Selections: Optimal Power Banks for MacBook Pro Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-the-power-of-alienware-m18-top-tier-gaming-performance-at-an-unbeatable-discount-post-labor-day-exclusive-insights-from-zdnet/"><u>Unleash the Power of Alienware M18: Top-Tier Gaming Performance at an Unbeatable Discount Post-Labor Day - Exclusive Insights From ZDNet</u></a></li>
 </ul></div>
 

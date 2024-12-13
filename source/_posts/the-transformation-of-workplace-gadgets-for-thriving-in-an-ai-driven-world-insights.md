@@ -1,7 +1,7 @@
 ---
 title: The Transformation of Workplace Gadgets for Thriving in an AI-Driven World | Insights
-date: 2024-12-04T20:00:42.362Z
-updated: 2024-12-07T03:19:28.033Z
+date: 2024-12-06T23:39:58.909Z
+updated: 2024-12-13T01:02:32.698Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,22 +134,15 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-master-the-art-of-technological-advancement-with-this-guide-for-2024/"><u>[New] Master the Art of Technological Advancement with This Guide for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streaming-wars-the-ultimate-twitch-vs-youtube-battle/"><u>[Updated] Streaming Wars The Ultimate Twitch Vs. YouTube Battle</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-easily-change-avchd-videos-to-mp4-for-free-under-windows-10/"><u>How to Easily Change AVCHD Videos to MP4 for Free Under Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/important-questions-answered-is-chatgpt-suitable-for-your-mental-health-needs/"><u>Important Questions Answered: Is ChatGPT Suitable for Your Mental Health Needs?</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-call-of-duty-ww2-in-depth-analysis-and-fixes-for-error-4220/"><u>Mastering Call of Duty WW2: In-Depth Analysis and Fixes for Error 4220</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-steps-to-convert-macs-image-file-types-for-2024/"><u>Quick Steps to Convert Mac's Image File Types for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-8-sites-with-easy-access-to-free-3d-text-psd-images/"><u>Top 8 Sites with Easy Access to Free 3D Text PSD Images</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-non-samsung-non-tcl-android-tablets-discover-the-best-alternatives/"><u>Top Recommended Non-Samsung, Non-TCL Android Tablets: Discover the Best Alternatives!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-six-strategies-for-refreshing-and-optimizing-your-gadgets-this-spring-insights-from-zdnet/"><u>Top Six Strategies for Refreshing and Optimizing Your Gadgets This Spring - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-tablet-addons-expert-picks-by-techadvisor/"><u>Top-Rated Tablet Addons : Expert Picks by TechAdvisor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-buying-a-notetaking-tablet-in-depth-analysis-and-ratings-pcmag/"><u>Ultimate Guide to Buying a Notetaking Tablet : In-Depth Analysis and Ratings | PCMag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbelievable-sound-quality-discover-the-top-speaker-setup-that-outperforms-bose-and-polk/"><u>Unbelievable Sound Quality - Discover the Top Speaker Setup That Outperforms Bose and Polk</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unexpected-contender-the-top-tablet-for-movie-enthusiasts-from-an-unlikely-brand-zdnet-insights/"><u>Unexpected Contender: The Top Tablet for Movie Enthusiasts From an Unlikely Brand | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-fun-and-education-save-big-on-amazon-fire-kids-tablet-for-only-90-special-deal-alert-zdnet/"><u>Unlock Fun & Education: Save Big on Amazon Fire Kids Tablet for Only $90 – Special Deal Alert | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-at-apples-latest-product-launch-the-new-m4-ipad-pro-and-updated-ipad-air-with-enhanced-features-and-the-innovative-apple-pencil-pro/"><u>Unveiling at Apple’s Latest Product Launch: The New M4 iPad Pro & Updated iPad Air with Enhanced Features and the Innovative Apple Pencil Pro</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-compatible-nvme-driver-installation-free-download-and-guide-for-users/"><u>Windows-Compatible NVMe Driver Installation - Free Download & Guide for Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722089553304-worth-investing-in-auto-gpt-before-gpt-4-arrives-lets-compare/"><u>Worth Investing in Auto-GPT Before GPT-4 Arrives? Let's Compare</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevating-video-appeal-for-profiles/"><u>[Updated] Elevating Video Appeal for Profiles</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210968369-9781088232088-beyond-the-veil/"><u>Beyond the veil | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-have-we-outgrown-the-era-of-floppy-disks-their-surprising-presence-in-planes-and-trains-insights-from-zdnet/"><u>How Have We Outgrown the Era of Floppy Disks? Their Surprising Presence in Planes and Trains | Insights From ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-y100i-power-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y100i Power 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-apple-studio-display-is-it-worth-your-creativity-insights-from-zdnet/"><u>In-Depth Analysis of the Apple Studio Display: Is It Worth Your Creativity? Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/iphone-15-and-m2-mac-gain-new-support-with-apples-enhanced-self-service-repair-featuring-remote-diagnostics/"><u>IPhone 15 & M2 Mac Gain New Support with Apple's Enhanced Self-Service Repair: Featuring Remote Diagnostics</u></a></li>
+<li><a href="https://howto.techidaily.com/oneplus-ace-3-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 3 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-tutorial-for-generating-bootable-recovery-media-on-windows-n-using-three-effective-techniques/"><u>Step-by-Step Tutorial for Generating Bootable Recovery Media on Windows N, Using Three Effective Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-claude-3-capabilities-functions-and-uses-explained/"><u>Unveiling Claude 3 Capabilities: Functions & Uses Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-you-need-an-ergonomic-mouse-today-essential-tips-by-zdnet/"><u>Why You Need an Ergonomic Mouse Today - Essential Tips by ZDNet</u></a></li>
 </ul></div>
 

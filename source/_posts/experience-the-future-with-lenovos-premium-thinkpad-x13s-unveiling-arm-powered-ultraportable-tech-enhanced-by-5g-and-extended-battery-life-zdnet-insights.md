@@ -1,7 +1,7 @@
 ---
 title: Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life | ZDNet Insights
-date: 2024-12-03T00:56:25.308Z
-updated: 2024-12-06T19:31:34.191Z
+date: 2024-12-10T03:50:54.045Z
+updated: 2024-12-13T01:57:24.671Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,17 +218,21 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-static-to-dynamic-a-comprehensive-look-at-the-new-polaroid-xs-100i-action-camera/"><u>[New] From Static to Dynamic A Comprehensive Look at the New Polaroid XS 100I Action Camera</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-complete-guide-to-automating-ppt-captures-for-2024/"><u>[New] The Complete Guide to Automating PPT Captures for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expert-gaming-techniques-mastering-switch-pro-controller-on-steam/"><u>[Updated] 2024 Approved Expert Gaming Techniques Mastering Switch Pro Controller on Steam</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ecovacs-unveils-cutting-edge-robotic-vacuum-ready-to-challenge-rivals-insights-from-tech-blog/"><u>EcoVacs Unveils Cutting-Edge Robotic Vacuum, Ready to Challenge Rivals - Insights From Tech Blog</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-unmatched-signal-quality-with-the-streamlined-and-effective-clearstream-eclipse-antenna/"><u>Experience Unmatched Signal Quality with the Streamlined and Effective ClearStream Eclipse Antenna</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-top-15-ai-and-robot-tech-breakthroughs-unveiled-at-ces-2024-according-to-zdnet-coverage/"><u>Exploring the Future: Top 15 AI and Robot Tech Breakthroughs Unveiled at CES 2024, According to ZDNET Coverage</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtube-subscriber-chart-the-5-most-subscribed-youtube-channels/"><u>In 2024, YouTube Subscriber Chart - The 5 Most Subscribed YouTube Channels</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/optimierte-kundenkommunikation-im-aussenhandel-durch-die-clients-guide-app-mit-integrierter-abbey-visitenkarte-erfassung/"><u>Optimierte Kundenkommunikation Im Außenhandel Durch Die Clients-Guide App Mit Integrierter ABBEY Visitenkarte Erfassung</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-smart-home-gadgets-in-depth-analysis-by-tech-experts-zdnet-reviews/"><u>Top Ranking Smart Home Gadgets : In-Depth Analysis by Tech Experts - ZDNet Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-lawn-care-routine-into-an-exciting-adventure-with-this-remote-controlled-mower-featured-on-zdnet/"><u>Transform Your Lawn Care Routine Into an Exciting Adventure with This Remote-Controlled Mower, Featured on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zoom-across-your-yard-the-racing-inspired-robotic-lawnmower-that-delivers-a-picture-perfect-green/"><u>Zoom Across Your Yard: The Racing-Inspired Robotic Lawnmower That Delivers a Picture-Perfect Green</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-facebook-live-step-by-step-downloads-guide/"><u>[New] 2024 Approved Mastering Facebook Live Step-by-Step Downloads Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-logitechs-4k-pro-webcam-a-complete-exploration/"><u>[New] Logitech's 4K Pro Webcam A Complete Exploration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-influencers-blueprint-rapidly-amass-a-million-fans-with-our-top-15-instagram-tips/"><u>[Updated] In 2024, The Influencer's Blueprint Rapidly Amass a Million Fans with Our Top 15 Instagram Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-unveils-innovations-at-october-showcase-the-new-m4-mac-mini-upgraded-ipads-and-advancements-in-apple-ai/"><u>Apple Unveils Innovations at October Showcase: The New M4 Mac Mini, Upgraded iPads & Advancements in Apple AI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-perfect-lightweight-companion-for-telecommuters-in-depth-analysis-on-a-standout-model-zdnet-insights/"><u>Discover the Perfect Lightweight Companion for Telecommuters – In-Depth Analysis on a Standout Model | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/four-key-factors-and-top-ten-picks-choosing-the-ideal-college-laptop-zdnets-guide/"><u>Four Key Factors & Top Ten Picks: Choosing the Ideal College Laptop | ZDNet's Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/glide-over-and-adjust-vertical-lines-on-monitors/"><u>Glide Over and Adjust Vertical Lines on Monitors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-12-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi 12 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-secrets-to-creating-instagram-hits-with-engaging-unboxing-videos/"><u>In 2024, Unlock the Secrets to Creating Instagram Hits with Engaging Unboxing Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pazeras-path-to-sound-freedom-extraction-techniques/"><u>Pazera's Path to Sound Freedom Extraction Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-student-laptops-comprehensive-reviews-and-experts-picks/"><u>Top-Ranking Student Laptops: Comprehensive Reviews & Experts' Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-tutorial-mastering-video-editing-techniques-cropping-content-on-wmp-windows-media-player/"><u>Ultimate Tutorial: Mastering Video Editing Techniques – Cropping Content on WMP (Windows Media Player)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-efficiency-activating-energy-saving-features-in-google-chrome-a-comprehensive-guide/"><u>Unlocking Efficiency: Activating Energy Saving Features in Google Chrome - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-arm-compatible-windows-applications-a-game-changer-in-tech-insights/"><u>Upcoming ARM-Compatible Windows Applications: A Game Changer in Tech - Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/where-windows-hides-shot-files/"><u>Where Windows Hides Shot Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/windows-vs-apple-can-microsofts-arm-strategy-triumph-over-mac-soc/"><u>Windows Vs. Apple: Can Microsoft's ARM Strategy Triumph Over Mac SoC?</u></a></li>
 </ul></div>
 

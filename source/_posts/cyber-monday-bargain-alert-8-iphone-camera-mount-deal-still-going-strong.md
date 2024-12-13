@@ -1,7 +1,7 @@
 ---
 title: "Cyber Monday Bargain Alert: $8 iPhone Camera Mount Deal Still Going Strong !"
-date: 2024-11-29T19:41:05.128Z
-updated: 2024-12-07T02:46:27.005Z
+date: 2024-12-07T18:05:18.225Z
+updated: 2024-12-12T22:41:02.106Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,24 +81,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-self-designed-instagram-ringtone-creation-steps/"><u>[New] 2024 Approved Self-Designed Instagram Ringtone Creation Steps</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-the-world-of-youtube-where-are-my-comments/"><u>[Updated] Exploring the World of YouTube Where Are My Comments?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-8-android-apps-to-change-slow-motion-videos-to-regular-speed-vide/"><u>[Updated] In 2024, Top 8 Android Apps to Change Slow-Motion Videos to Regular-Speed Vide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/accelerate-any-video-or-audio-with-winxvideo-ai-using-gpu-power/"><u>Accelerate Any Video or Audio with WinxVideo AI Using GPU Power</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effiziente-methoden-zur-automatischen-verzahnung-von-mac-ordnern/"><u>Effiziente Methoden Zur Automatischen Verzahnung Von Mac-Ordnern</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-15-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 15 Pro Max without Security Questions?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-fm2n0dll-file-absent-message/"><u>Resolving the 'fm2n0.dll File Absent' Message</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-a-massive-discount-up-to-66-off-amazon-fire-hd-8-plus-tablet-exclusive-offer-from-zdnet/"><u>Secure a Massive Discount: Up To 66% Off Amazon Fire HD 8 Plus Tablet - Exclusive Offer From ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sky-high-savings-alert-secure-your-4tb-samsung-usb-drive-for-less-than-half-price-on-amazon-this-labor-day-zdnet/"><u>Sky-High Savings Alert! Secure Your 4TB Samsung USB Drive for Less Than Half Price on Amazon This Labor Day | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-enhancing-your-surface-pro-x-with-an-ssd-upgrade-a-detailed-walkthrough/"><u>Step-by-Step Guide: Enhancing Your Surface Pro X with an SSD Upgrade - A Detailed Walkthrough</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-instructions-for-downloading-the-first-android-13-beta-is-immediate-installation-advised-zdnet/"><u>Step-by-Step Instructions for Downloading the First Android 13 Beta: Is Immediate Installation Advised? | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/storage-solution-a-4tb-samsung-portable-ssd-available-only-at-amazon/"><u>Storage Solution – A 4TB Samsung Portable SSD Available Only at Amazon!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-guide-to-apples-intelligent-ipad-mini-vs-new-iphone-16-models-thought-leadership-by-zdnet-analyst/"><u>The Comprehensive Guide to Apple's Intelligent iPad Mini Vs. New iPhone 16 Models | Thought Leadership by ZDNet Analyst</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-10-internet-coffee-shops-the-leading-hotspots-of-2024-insights-from-zdnet/"><u>Top 10 Internet Coffee Shops: The Leading Hotspots of 2024 - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premier-hotel-applications-in-2e-24-a-comprehensive-review-by-zdnet/"><u>Top 5 Premier Hotel Applications in 2E-24: A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tier-durable-windows-tablet-with-active-pen-in-depth-review-and-testing-insights/"><u>Top-Tier Durable Windows Tablet with Active Pen: In-Depth Review and Testing Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-bring-sound-effects-into-premiere-pro/"><u>[New] In 2024, Bring Sound Effects Into Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-authenticity-audit-filtering-out-pretend-facebook-fans/"><u>[Updated] 2024 Approved Authenticity Audit Filtering Out Pretend Facebook Fans</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capturing-your-iphoneipad-display-now/"><u>[Updated] In 2024, Capturing Your iPhone/iPad Display Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-mituting-overworked-processor-in-the-newest-cyrodiil-encounter/"><u>Diagnosing and Mituting Overworked Processor in the Newest Cyrodiil Encounter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-achieve-professional-results-access-to-10-basic-free-and-paid-luts-for-canon-cams/"><u>In 2024, Achieve Professional Results Access to 10 Basic Free and Paid LUTs for Canon Cams</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-a60s-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel A60s Phones with/without a PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-vitas-editing-world-complete-review-and-tutorial-for-2024/"><u>Navigating Vita's Editing World Complete Review & Tutorial for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-upgrading-your-laptops-memory-techadvice/"><u>Step-by-Step Guide: Upgrading Your Laptop's Memory | TechAdvice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-widescreen-displays-the-ultimate-list-featured-on-zdnet/"><u>Top-Ranking Widescreen Displays: The Ultimate List - Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-monitors-at-unbeatable-prices-june-2023s-must-have-picks-from-zdnet/"><u>Top-Rated Monitors at Unbeatable Prices: June 2023'S Must-Have Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-productivity-gains-using-a-swivel-monitor-now-at-a-sweet-93-discount-for-amazons-prime-day-insights-by-zdnet/"><u>Unlock Productivity Gains Using a Swivel Monitor, Now at a Sweet $93 Discount for Amazon's Prime Day | Insights by ZDNET</u></a></li>
 </ul></div>
 

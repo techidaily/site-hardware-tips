@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Cyber Week Blowout: Snag Your Microsoft Surface Pro"
-date: 2024-11-29T18:47:58.413Z
-updated: 2024-12-06T20:49:59.973Z
+date: 2024-12-05T18:23:11.911Z
+updated: 2024-12-12T17:54:36.194Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb333cb2-55bd-4be8-b483-37eb33b9452e%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,24 +125,18 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-become-a-streaming-sensation-on-twitter-platform/"><u>[Updated] Become a Streaming Sensation on Twitter Platform</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ice-chase-top-moments-captured-s-olympic-snowboard-race-events/"><u>[Updated] Ice Chase Top Moments Captured 'S Olympic Snowboard Race Events</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exquisite-innovations-in-desktop-tech/"><u>2024 Approved Exquisite Innovations in Desktop Tech</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-insightful-names-in-virtual-reality-ventures/"><u>2024 Approved Insightful Names in Virtual Reality Ventures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bringing-more-to-the-table-reimagining-windows-11s-widget-framework/"><u>Bringing More to the Table: Reimagining Windows 11'S Widget Framework</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-code-explained-fortnite-permission-issues-and-steps-to-regain-access/"><u>Error Code Explained: Fortnite Permission Issues & Steps to Regain Access</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unparalleled-flexibility-with-our-best-reviewed-light-strips-now-reduced-by-30-shop-on-zdnet/"><u>Experience Unparalleled Flexibility with Our Best Reviewed Light Strips Now Reduced by 30% - Shop on ZDNET!</u></a></li>
-<li><a href="https://games-able.techidaily.com/five-keys-to-a-child-oriented-ps5-security/"><u>Five Keys to a Child-Oriented PS5 Security</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/holiday-savings-alert-save-big-on-ges-innovative-cync-light-strip-during-the-black-friday-extravaganza-only-27-off-at-zdnet/"><u>Holiday Savings Alert! Save Big on GE's Innovative CYNC Light Strip During the Black Friday Extravaganza - Only $27 Off at ZDNET!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>In 2024, Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/matter-update-unveils-new-device-support-and-surprising-features-in-version-12-insights-from-zdnet/"><u>Matter Update Unveils New Device Support and Surprising Features in Version 1.2 | Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-features-of-the-latest-lutron-pico-remote-a-game-changer-reviewed-by-zdnet/"><u>Revolutionary Features of the Latest Lutron Pico Remote - A Game-Changer Reviewed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-home-lighting-discover-the-latest-innovative-lutron-pico-remote-a-game-changer-for-smart-homes/"><u>Revolutionizing Home Lighting: Discover the Latest Innovative Lutron Pico Remote - A Game Changer for Smart Homes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-money-with-everlasting-smart-string-light-solutions-outshining-others-on-zdnet/"><u>Save Money with Everlasting Smart String Light Solutions Outshining Others on ZDNet.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-complete-guide-to-switching-from-gsm-to-wav-best-software-for-pcs-and-online-solutions/"><u>The Complete Guide to Switching From GSM to WAV: Best Software for PCs and Online Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-home-office-light-fixtures-insights-and-reviews-zdnet/"><u>Top Rated Home Office Light Fixtures - Insights & Reviews (ZDNet)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-ring-light-picks-of-2024-boosting-your-tiktok-creations-zdnet/"><u>Top Rated Ring Light Picks of 2024: Boosting Your TikTok Creations | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-lighting-dynamics-for-any-occasion-with-our-lamp-offering-16-million-hues-plus-enjoy-an-exclusive-50-discount-detailed-insights-on-zdnet/"><u>Transform Lighting Dynamics for Any Occasion with Our Lamp Offering 16 Million Hues + Enjoy an Exclusive 50% Discount – Detailed Insights on ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-windows-for-videographers-hdr-insights-for-2024/"><u>[Updated] Windows for Videographers HDR Insights for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-exclusive-top-ranked-laptops-from-zdnet-now-available-with-a-staggering-500-discount-before-the-upcoming-prime-day/"><u>Amazon Exclusive: Top-Ranked Laptops From ZDNet Now Available with a Staggering $500 Discount Before the Upcoming Prime Day</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/handbrake-2024-windows-and-mac/"><u>HandBrake 日本語対応バージョン 2024年ダウンロード・インストールガイド: Windows & Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y27-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y27 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/492962-9781439123850-leaving-the-body/"><u>Leaving the Body | Free Book</u></a></li>
+<li><a href="https://fox-links.techidaily.com/tailor-your-tweets-exceptional-video-to-twitch-tools-for-2024/"><u>Tailor Your Tweets Exceptional Video to Twitch Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-dual-function-device-with-hidden-workplace-perk-tested-insider-review/"><u>Top Recommended Dual-Function Device with Hidden Workplace Perk Tested - Insider Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ranscription-services-for-video-content/"><u>Top Transcription Services for Video Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-demand-why-consumers-choose-damaged-macbook-pro-screens-insights-from-zdnet/"><u>Understanding the Demand: Why Consumers Choose Damaged MacBook Pro Screens - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-alienwares-m18-exclusive-post-labor-day-discounts-await-on-this-incredible-gaming-machine/"><u>Unleash the Power of Alienware's M18: Exclusive Post-Labor Day Discounts Await on This Incredible Gaming Machine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-your-laptops-hidden-potential-the-overlooked-peripheral-that-boosts-performance-like-never-before-zdnet/"><u>Unlocking Your Laptop's Hidden Potential: The Overlooked Peripheral That Boosts Performance Like Never Before | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-essential-guide-to-the-greatest-prime-day-bargains-of-october-2024-exclusive-deals-on-tech-zdnet/"><u>Your Essential Guide to the Greatest Prime Day Bargains of October 2024 - Exclusive Deals on Tech | ZDNET</u></a></li>
 </ul></div>
 

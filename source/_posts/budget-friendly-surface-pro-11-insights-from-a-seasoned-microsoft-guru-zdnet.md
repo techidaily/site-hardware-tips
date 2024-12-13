@@ -1,7 +1,7 @@
 ---
 title: Budget-Friendly Surface Pro 11 Insights From a Seasoned Microsoft Guru - ZDNet
-date: 2024-12-05T18:18:25.490Z
-updated: 2024-12-07T03:20:22.063Z
+date: 2024-12-11T04:31:39.107Z
+updated: 2024-12-12T19:37:35.989Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -48,10 +48,6 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -65,7 +61,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,7 +81,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -124,6 +120,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,24 +192,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-fix-getting-snapchat-installed-on-mac/"><u>[Updated] 2024 Approved Quick Fix Getting Snapchat Installed on Mac</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-essential-apps-for-annotating-mobile-images/"><u>2024 Approved Essential Apps for Annotating Mobile Images</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-journey-through-lut-based-color-enhancement-methods/"><u>2024 Approved Journey Through LUT-Based Color Enhancement Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-secret-weapon-unveiling-the-strategy-behind-transfer-learning/"><u>AI's Secret Weapon: Unveiling the Strategy Behind Transfer Learning</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-using-an-in-car-charger-damage-your-iphone-unveiling-the-truth-with-rigorous-tests-zdnet/"><u>Can Using an In-Car Charger Damage Your iPhone? Unveiling the Truth with Rigorous Tests | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-you-believe-it-southwests-new-strategy-prompts-customers-to-try-something-funny-zdnet-insider/"><u>Can You Believe It? Southwest's New Strategy Prompts Customers to Try Something Funny | ZDNet Insider</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-you-trust-car-adapters-for-iphone-charging-unveiling-the-truth-after-thorough-tests-and-analysis-zdnet/"><u>Can You Trust Car Adapters for iPhone Charging? Unveiling the Truth After Thorough Tests and Analysis | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choose-teslas-future-supercharger-site-cast-your-vote-in-our-exclusive-twitter-poll-insights-from-zdnet/"><u>Choose Tesla's Future Supercharger Site: Cast Your Vote in Our Exclusive Twitter Poll - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-how-to-ride-in-style-and-comfort-score-a-high-performance-segway-max-g2-electric-scooter-for-just-400-less-this-memorial-day-experts-weigh-in/"><u>Discover How to Ride in Style and Comfort – Score a High-Performance Segway Max G2 Electric Scooter for Just $400 Less This Memorial Day! Experts Weigh In.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/does-using-a-car-charger-damage-your-iphone-find-out-as-we-put-over-30-devices-to-the-test-zdnet/"><u>Does Using a Car Charger Damage Your iPhone? Find Out as We Put Over 30 Devices to the Test (ZDNet)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dynamic-car-insurance-adjusted-to-your-driving-habits-find-out-how-it-works/"><u>Dynamic Car Insurance Adjusted to Your Driving Habits - Find Out How It Works!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/easy-96-car-tech-upgrade-add-a-lane-departure-and-reverse-camera-without-breaking-the-bank-zdnets-guide/"><u>Easy $96 Car Tech Upgrade: Add a Lane Departure and Reverse Camera Without Breaking the Bank - ZDNET's Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/effortless-techniques-for-streamlined-ipad-video-recording-for-2024/"><u>Effortless Techniques for Streamlined iPad Video Recording for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevating-e-commerce-how-walmart-continues-to-expand-its-innovative-drone-delivery-service/"><u>Elevating E-Commerce: How Walmart Continues to Expand Its Innovative Drone Delivery Service</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-effective-ways-to-capture-and-save-snapchat-media-on-phone/"><u>In 2024, Effective Ways to Capture and Save Snapchat Media on Phone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfecting-iphone-photography-mastery-of-macro-and-close-up-details/"><u>Perfecting iPhone Photography Mastery of Macro and Close-Up Details</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sustainable-food-choices/"><u>Sustainable Food Choices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-top-10-free-webm-video-editors-you-need-to-try/"><u>Updated The Ultimate List Top 10 Free WebM Video Editors You Need to Try</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-compatible-m2-ssd-guide/"><u>Win Compatible M.2 SSD Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-demystifying-instagram-story-sections-for-2024/"><u>[New] Demystifying Instagram Story Sections for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dissecting-youtube-copyright-vs-creative-commons-ethos/"><u>[New] In 2024, Dissecting YouTube Copyright Vs. Creative Commons Ethos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-a-beginners-guide-to-youtube-seo-keywords-for-2024/"><u>[Updated] A Beginner's Guide to YouTube SEO Keywords for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-share-the-moment-effortlessly-push-photos-to-social-networks/"><u>2024 Approved Share the Moment Effortlessly Push Photos to Social Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/5-routes-to-enter-startup-repair-on-a-pc/"><u>5 Routes to Enter Startup Repair on a PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-ultra-adjustable-mavix-m-cuisine-m9-gaming-chair-a-revolution-in-ergonomics-zdnet-tech-insights/"><u>Comprehensive Review of the Ultra-Adjustable Mavix M Cuisine M9 Gaming Chair: A Revolution in Ergonomics | ZDNET Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhanced-security-protocols-implemented-by-tile-to-combat-theft-and-harassment-company-condemns-apples-airtag-strategy/"><u>Enhanced Security Protocols Implemented by Tile to Combat Theft & Harassment; Company Condemns Apple's AirTag Strategy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-hp-laserjet-pro-mfp-a-top-tier-multifunction-laser-printer-for-professionals-gadgetguru-reviews/"><u>Evaluating the HP LaserJet Pro MFP: A Top-Tier Multifunction Laser Printer for Professionals | GadgetGuru Reviews</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-12-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 12?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oneplus-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to OnePlus FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-the-pros-and-cons-of-choosing-pidgin-for-your-chat-needs/"><u>In-Depth Analysis: The Pros and Cons of Choosing Pidgin for Your Chat Needs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/e-the-art-of-youtube-video-earnings-for-2024/"><u>Inside the Art of YouTube Video Earnings for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-digital-workflows-why-every-creative-professional-needs-a-16-port-usb-hub-insights-from-zdnet/"><u>Transforming Digital Workflows: Why Every Creative Professional Needs a 16-Port USB Hub | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-these-ecological-interactions-is-vital-for-biodiversity-conservation-predicting-ecosystem-changes-and-managing-wildlife-populations/"><u>Understanding These Ecological Interactions Is Vital for Biodiversity Conservation, Predicting Ecosystem Changes, and Managing Wildlife Populations.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-features-of-mavix-m9-gaming-chair-the-epitome-of-ergonomic-design-and-personalization-zdnet-review/"><u>Unraveling the Features of Mavix M9 Gaming Chair: The Epitome of Ergonomic Design & Personalization | ZDNET Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-a-budget-friendly-marvel-the-miniaturized-speedster-flash-drive-by-sandisk-on-zdnet/"><u>Unveiling a Budget-Friendly Marvel: The Miniaturized Speedster Flash Drive by SanDisk on ZDNet</u></a></li>
 </ul></div>
 

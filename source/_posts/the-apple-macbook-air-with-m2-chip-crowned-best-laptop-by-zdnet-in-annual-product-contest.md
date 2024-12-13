@@ -1,7 +1,7 @@
 ---
 title: The Apple MacBook Air with M2 Chip Crowned Best Laptop by ZDNET in Annual Product Contest!
-date: 2024-11-29T21:58:06.408Z
-updated: 2024-12-06T18:13:14.851Z
+date: 2024-12-12T00:03:44.066Z
+updated: 2024-12-12T18:30:54.521Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ Getty/MacLife Magazine
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why it's the top product of 2022
@@ -43,7 +43,7 @@ Getty/MacLife Magazine
 One of the other common criticisms of this product when it was first released was that it's now a bit of a tweener in the Mac product line -- with the very-capable [M1 MacBook Air](https://go.shopyourlikes.com/pi/244cb3ab772a00eb37169c21806273bf37215920?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) still on sale and now serving as the entry-level, under-$1,000 Mac laptop and the robust [MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C57XLR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd4f3244e-a7a4-4576-bbf5-65d2a79d96d2%7Cdtp&dtb=1) line being the go-to option for professionals and creators who need more oomph. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -65,7 +65,7 @@ My conclusion: The M2 MacBook Air can now handle about 75% of what you used to n
 That can potentially save you $500-$1,000\. The M2 MacBook Air I tested included the 10-core GPU and 16 GB of RAM and retails for $1,700\. But, a comparable MacBook Pro is going to run you at least $2,000-$2,500.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -95,7 +95,7 @@ While no Apple product ever really flies under the radar, the accomplishments of
 You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Product of the Year as a [YouTube Short](https://www.youtube.com/shorts/SlyOpp2rlKk) (embedded below), [Instagram Reel](https://www.instagram.com/reel/CmtsrSzqrrb/?hl=en), or on [TikTok](https://www.tiktok.com/@zdnet%5Fofficial/video/7182202897806019886).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -142,18 +142,18 @@ You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-understanding-instagrams-video-restriction/"><u>2024 Approved Understanding Instagram's Video Restriction</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversione-gratuita-dei-file-audio-mpeg-a-formato-aiff-online-usando-movavi-ottenere-la-massima-qualita-senza-costi-aggiuntivi/"><u>Conversione Gratuita Dei File Audio MPEG a Formato AIFF Online Usando Movavi - Ottenere La Massima Qualità Senza Costi Aggiuntivi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/dell-2330d-and-2330dn-monochrome-laser-printer-firmware-upgrade/"><u>Dell 2330D & 2330DN Monochrome Laser Printer Firmware Upgrade</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oneplus-open-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On OnePlus Open</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-game-continuity-fixing-frequent-pc-crashes-in-manor-lords/"><u>Mastering Game Continuity: Fixing Frequent PC Crashes in Manor Lords</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-cleaning-with-roomba-combo-j7plus-the-nearly-perfect-hybrid-robotic-vacuum-assessment-zdnet-review/"><u>Revolutionizing Cleaning with Roomba Combo J7+: The Nearly Perfect Hybrid Robotic Vacuum Assessment - ZDNet Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-home-cleaning-my-experience-with-dual-function-robotic-and-handheld-vacuums-tech-insights/"><u>Revolutionizing Home Cleaning: My Experience with Dual-Function Robotic & Handheld Vacuums | Tech Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revolutionizing-online-content-the-power-of-time-stamps/"><u>Revolutionizing Online Content The Power of Time-Stamps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-irobot-automatic-cleaners-comprehensive-analysis-and-reviews-techradar/"><u>Top-Rated iRobot Automatic Cleaners : Comprehensive Analysis & Reviews - TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-roborock-vacuum-models-of-2024-comprehensive-expert-reviews-by-zdnet/"><u>Top-Rated Roborock Vacuum Models of 2024 - Comprehensive Expert Reviews by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-finest-automatic-vacuum-mops-of-2024-features-and-comparisons-toms-hardware/"><u>Ultimate Guide to the Finest Automatic Vacuum Mops of 2024 - Features & Comparisons | Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-savings-alert-handsfree-vacuum-prices-slashed-to-record-lows-dive-into-details-on-zdnet/"><u>Ultimate Savings Alert: Handsfree Vacuum Prices Slashed to Record Lows - Dive Into Details on ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-ultimate-selection-of-free-slide-show-designs/"><u>[New] Explore the Ultimate Selection of Free Slide Show Designs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-travel-bloggers-blueprint-strategies-for-professional-growth/"><u>2024 Approved The Travel Blogger's Blueprint Strategies for Professional Growth</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/8-most-popular-instagram-after-effects-packs-for-2024/"><u>8 Most Popular Instagram After Effects Packs for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-laptop-gadget-every-tech-aficionado-must-own-for-ultimate-cooling-performance-insights/"><u>Essential Laptop Gadget Every Tech Aficionado Must Own For Ultimate Cooling Performance - Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-blur-facesbackgroundimages-in-photoshop/"><u>How to Blur Faces/Background/Images in Photoshop</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-building-your-brand-making-money-with-vids/"><u>In 2024, Building Your Brand Making Money with Vids</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/laptop-lifesaver-cost-effective-fixes-to-restore-macbook-charging-power-learn-how-here-insights-by-zdnet/"><u>Laptop Lifesaver: Cost-Effective Fixes to Restore MacBook Charging Power, Learn How Here | Insights by ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-pova-5-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Tecno Pova 5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/swipe-150-off-your-favorite-immersive-game-audio-system-available-exclusively-at-amazon-check-out-the-review-from-zdnet/"><u>Swipe $150 Off Your Favorite Immersive Game Audio System Available Exclusively at Amazon – Check Out the Review From ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-39-unbeatable-christmas-laptop-bargains-on-offer-from-brands-like-apple-dell-and-hp-featuring-exclusive-insights-by-zdnet/"><u>Top 39 Unbeatable Christmas Laptop Bargains on Offer From Brands Like Apple, Dell & HP - Featuring Exclusive Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-discover-why-metas-latest-512gb-quest-3-package-is-currently-tops-in-virtual-reality/"><u>Unbeatable Value: Discover Why Meta's Latest 512GB Quest 3 Package Is Currently Tops in Virtual Reality</u></a></li>
 </ul></div>
 

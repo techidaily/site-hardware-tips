@@ -1,7 +1,7 @@
 ---
 title: Ultimate Miniature Laptop Expansion Unit Turns It Into an All-in-One Workstation | ZDNet
-date: 2024-09-18 23:59:55
-updated: 2024-09-20 12:26:32
+date: 2024-12-06T23:42:14.617Z
+updated: 2024-12-13T00:04:18.924Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,31 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-upgrade-your-video-playback-activating-av1-on-youtube/"><u>[New] Upgrade Your Video Playback Activating AV1 on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-diy-guide-screen-capture-and-sound-from-youtube-for-2024/"><u>[Updated] DIY Guide Screen Capture & Sound From YouTube for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-mobile-marketers-blueprint-simple-pathway-to-youtube-success/"><u>[Updated] In 2024, The Mobile Marketer's Blueprint Simple Pathway to YouTube Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-ai-interactions-with-top-5-techniques-for-superior-chatgpt-prompts/"><u>Elevate AI Interactions with Top 5 Techniques for Superior ChatGPT Prompts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-nokia-g22-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Nokia G22 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turning-tidal-wave-of-tiktoks-into-manageable-drafts-through-editing/"><u>In 2024, Turning Tidal Wave of TikToks Into Manageable Drafts Through Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-living-spaces-with-gpt-home-control-tech/"><u>Innovating Living Spaces with GPT Home Control Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-progress-in-driverless-cars-with-machine-learning-dive-into-the-latest-breakthroughs-that-could-accelerate-their-arrival/"><u>Pioneering Progress in Driverless Cars with Machine Learning - Dive Into the Latest Breakthroughs That Could Accelerate Their Arrival</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rethinking-personnel-oversight-tactics-in-the-movement-industry-a-deep-dive-by-zdnet/"><u>Rethinking Personnel Oversight Tactics in the Movement Industry: A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-the-road-how-modern-electric-vehicles-outshine-classic-priuses/"><u>Revolutionizing the Road: How Modern Electric Vehicles Outshine Classic Priuses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-on-budget-friendly-electric-bikes-below-900-grab-yours-today/"><u>Save on Budget-Friendly Electric Bikes Below $900 - Grab Yours Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-over-2k-in-airfare-savings-join-the-dollar-flight-club-exclusive-offer-insider-info-by-zdnet/"><u>Score Over $2K in Airfare Savings: Join the Dollar Flight Club Exclusive Offer - Insider Info by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/singapore-airlines-launches-free-all-cabin-wi-fi-service-travelers-can-enjoy-continuous-connectivity-onboard-across-economy-to-first-class/"><u>Singapore Airlines Launches Free All-Cabin Wi-Fi Service - Travelers Can Enjoy Continuous Connectivity Onboard Across Economy to First Class.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-airfare-by-2k-using-the-dollar-flight-club-strategy-insights-from-zdnet/"><u>Slash Your Airfare by $2K Using the Dollar Flight Club Strategy - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-cost-by-300-snag-the-ultimate-deal-on-atomi-alpha-e-scooters-techadvantage/"><u>Slash Your Cost by $300 – Snag the Ultimate Deal on Atomi Alpha E-Scooters | TechAdvantage</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-ranked-intelligent-audio-devices/"><u>Top-Ranked Intelligent Audio Devices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-auditory-delights-in-cinema-celebrating-the-best-8-film-soundscapes/"><u>Updated In 2024, Auditory Delights in Cinema - Celebrating the Best 8 Film Soundscapes</u></a></li>
+</ul></div>
+

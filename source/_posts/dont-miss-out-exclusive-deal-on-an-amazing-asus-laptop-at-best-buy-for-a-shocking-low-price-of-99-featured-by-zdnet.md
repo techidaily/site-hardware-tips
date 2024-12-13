@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! Exclusive Deal on an Amazing ASUS Laptop at Best Buy for a Shocking Low Price of $99 - Featured by ZDNet
-date: 2024-12-04T17:26:09.354Z
-updated: 2024-12-06T21:57:18.363Z
+date: 2024-12-10T19:15:06.825Z
+updated: 2024-12-12T17:40:56.460Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ecording-youtube-videos-effortlessly-the-free-way-to-screencasts/"><u>[New] Recording YouTube Videos Effortlessly - The Free Way to Screencasts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-fabric-of-future-cutting-edge-vr-technology/"><u>[Updated] 2024 Approved The Fabric of Future Cutting-Edge VR Technology</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-cut-the-cost-not-your-content-quality-try-these-top-8-free-tools-for-2024/"><u>[Updated] Cut The Cost, Not Your Content Quality - Try These Top 8 Free Tools for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-idevice-screenshots-latest-techniques/"><u>[Updated] Mastering iDevice Screenshots Latest Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-ideal-debit-cards-for-newbies-a-comprehensive-guide/"><u>1. Ideal Debit Cards for Newbies: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-cutting-edge-chapter-tactics-to-complement-your-youtube-presentations/"><u>2024 Approved Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-discover-top-tier-ps3-games-on-your-pc-today/"><u>2024 Approved Discover Top-Tier PS3 Games on Your PC Today</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-m1s-potential-in-streamlining-editing-tasks/"><u>2024 Approved Exploring M1’s Potential in Streamlining Editing Tasks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-hp-printer-driver-software-update-available-for-windows-10-and-11-operating-systems/"><u>Latest HP Printer Driver Software Update Available for Windows 10 and 11 Operating Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/undisclosed-issues-plague-southwest-airlines-what-passengers-should-be-aware-of/"><u>Undisclosed Issues Plague Southwest Airlines: What Passengers Should Be Aware Of</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/united-states-flight-operations-grounded-due-to-federal-aviation-authority-glitch-comprehensive-overview-technews-today/"><u>United States Flight Operations Grounded Due To Federal Aviation Authority Glitch: Comprehensive Overview | TechNews Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unpacking-deltas-recent-controversy-how-it-alienated-core-patrons-and-why-zdnet/"><u>Unpacking Delta's Recent Controversy: How It Alienated Core Patrons and Why? | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultimate-tech-toolkit-indispensable-devices-for-todays-work-traveler-expert-tips-by-zdnet/"><u>Unveiling the Ultimate Tech Toolkit: Indispensable Devices for Today's Work Traveler - Expert Tips by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-hyundai-and-qualcomms-strategic-alliance-for-next-gen-vehicle-infotainment-technology/"><u>ZDNet Exclusive: Hyundai and Qualcomm's Strategic Alliance for Next-Gen Vehicle Infotainment Technology</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-starting-off-determining-your-creative-passion/"><u>[New] In 2024, Starting Off Determining Your Creative Passion</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-tailored-techniques-for-dynamic-gifs-for-2024/"><u>[New] Tailored Techniques for Dynamic GIFs for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ace-video-editing-with-kinemaster-skills-plus-10-leading-online-competitors/"><u>[Updated] Ace Video Editing with KineMaster Skills + 10 Leading Online Competitors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-speed-media-manipulation-a-practical-approach/"><u>[Updated] High-Speed Media Manipulation A Practical Approach</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-seamless-strategies-to-record-and-archive-gotomeetings/"><u>[Updated] In 2024, Seamless Strategies to Record and Archive GoToMeetings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-portable-monitors-ranked-and-examined-zdnet-in-depth-analysis/"><u>2024'S Leading Portable Monitors Ranked & Examined | ZDNet In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-these-macbook-releases-expert-advice-by-zdnet-unveiled/"><u>Avoid These MacBook Releases – Expert Advice by ZDNet Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-usb-hub-picks-for-2-new-seo-titles/"><u>Discover the Ultimate USB Hub Picks for 2# New SEO Titles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-artificebotics-in-computing-is-an-ai-pc-right-for-you-gadgetguide/"><u>Exploring Artificebotics in Computing: Is an AI PC Right for You? | GadgetGuide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-xr21withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia XR21with/without a PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-learn-the-art-of-video-to-animation-stepwise-guide-for-efficient-gif-creation/"><u>In 2024, Learn The Art Of Video to Animation Stepwise Guide for Efficient Gif Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-hps-powerhouse-of-a-pc-the-victus-15l-with-nearly-half-the-price-now-only-520-zdnet-exclusive/"><u>Score HP's Powerhouse of a PC – The Victus 15L with Nearly Half the Price, Now Only $520! | ZDNET Exclusive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-adjusting-speaker-and-microphone-preferences-on-windows-pcs/"><u>Step-by-Step Guide: Adjusting Speaker & Microphone Preferences on Windows PCs</u></a></li>
+<li><a href="https://article-files.techidaily.com/ultimate-collection-10-excellent-photo-background-alternators/"><u>Ultimate Collection 10 Excellent Photo-Background Alternators</u></a></li>
 </ul></div>
 

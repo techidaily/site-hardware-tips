@@ -1,7 +1,7 @@
 ---
 title: Discover the Best Long-Lasting Ultraportable Laptop Tested in 2Er Year - Exclusive Insights | ZDNET Tech News
-date: 2024-12-02T18:15:34.256Z
-updated: 2024-12-06T17:51:50.891Z
+date: 2024-12-06T01:39:17.599Z
+updated: 2024-12-13T03:39:22.335Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Of course, I can't forget the speaker system. Dell's Inspiron 14 2-in-1 has a ni
 For the battery, I performed ZDNET's usual test of running a medium load on the laptop. This consists of playing a YouTube livestream nonstop at 720p and 50% brightness. I clocked the Inspiron 2-in-1 at about eight hours max while on Best Power Efficiency mode. Not too shabby; that's enough to last you a whole day, although it would've been nice if it lasted 10 or 12 hours. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,17 @@ I also recommend picking Midnight Blue as your laptop color. The Ice Blue option
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-footage-imovie-videos-for-youtube-enthusiasts-for-2024/"><u>[New] Elevating Your Footage IMovie Videos for YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-vanguard-visions-ultimate-laptop-choices-for-uhd-content-creators/"><u>[New] Vanguard Visions Ultimate Laptop Choices for UHD Content Creators</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-capturing-breathtaking-photos-with-iphone-hdr-for-2024/"><u>[Updated] Capturing Breathtaking Photos with iPhone HDR for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-understanding-sns-hdr-pros-role-in-hdr-editing/"><u>[Updated] Understanding SNS HDR Pro's Role in HDR Editing</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-productivity-enable-a-search-bar-on-win11s-taskbar/"><u>Elevate Your Productivity: Enable a Search Bar on Win11's Taskbar</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-gaming-on-a-dell-g3-step-by-step-guide-to-updating-drivers/"><u>Enhance Your Gaming on a Dell G3: Step-by-Step Guide to Updating Drivers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/s15b-upgrade-how-singtel-is-pioneering-sustainable-office-spaces-zdnet/"><u>S$1.5B Upgrade: How Singtel Is Pioneering Sustainable Office Spaces | ZDNET</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/scriptwriting-secrets-for-a-captivating-and-authentic-storyline-for-2024/"><u>Scriptwriting Secrets for a Captivating and Authentic Storyline for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/singapores-strategic-leap-pioneering-artificial-intelligence-through-quantum-computing-and-state-of-the-art-data-centers/"><u>Singapore's Strategic Leap: Pioneering Artificial Intelligence Through Quantum Computing and State-of-the-Art Data Centers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tesla-cybertruck-meets-advanced-lawn-care-my-unexpected-favorite-zdnet-insights/"><u>Tesla Cybertruck Meets Advanced Lawn Care - My Unexpected Favorite | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-4-affordable-residential-generator-offers-decembers-picks-by-zdnet/"><u>Top 4 Affordable Residential Generator Offers - December's Picks by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-strategies-to-enhance-device-efficiency-and-cut-costs-insights-from-zdnet/"><u>Top 6 Eco-Friendly Strategies to Enhance Device Efficiency and Cut Costs: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-iphone-14-pro-and-pro-max-protective-cases-reviews-by-zdnet/"><u>Top Rated iPhone 14 Pro & Pro Max Protective Cases - Reviews by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-compact-solar-power-banks-2023-edition-featured-by-techradar/"><u>Top-Rated Compact Solar Power Banks - 2023 Edition Featured by TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/towards-a-greener-horizon-ensuring-sustainable-growth-amidst-rising-ai-energy-consumption/"><u>Towards a Greener Horizon: Ensuring Sustainable Growth Amidst Rising AI Energy Consumption</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unreachable-windows-hello-error/"><u>Troubleshooting Unreachable Windows Hello Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-thawing-your-frozen-macbook-air/"><u>Ultimate Guide: Thawing Your Frozen MacBook Air</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastery-of-mobile-and-desktop-calendar-integration-with-zoom/"><u>[New] 2024 Approved Mastery of Mobile and Desktop Calendar Integration with Zoom</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhancing-video-presence-editing-and-changing-facebook-covers/"><u>[New] Enhancing Video Presence Editing and Changing Facebook Covers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-behind-the-scenes-top-7-tiktok-charms-and-their-mysterious-counterparts-for-2024/"><u>[Updated] Behind the Scenes Top 7 TikTok Charms and Their Mysterious Counterparts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pathways-to-accumulate-free-photo-frame-media/"><u>2024 Approved Pathways to Accumulate Free Photo Frame Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beginners-guide-configuring-your-initial-raspberry-pi-project-tips-from-zdnet/"><u>Beginner's Guide: Configuring Your Initial Raspberry Pi Project - Tips From ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/engaging-and-safe-toy-racing-experience-reviewed-the-holy-stone-cartoon-rc-car-unveiled/"><u>Engaging and Safe Toy Racing Experience Reviewed: The Holy Stone Cartoon RC Car Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-enhanced-self-service-repair-functionality-by-apple-integrating-remote-diagnostic-tools-for-new-models-like-iphone-15-and-m2-mac-insights-on-zdn154/"><u>Explore the Enhanced Self Service Repair Functionality by Apple, Integrating Remote Diagnostic Tools for New Models Like iPhone 15 and M2 Mac - Insights on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-prevent-logofail-hacking-incidents-and-safeguard-your-computers-cybersecurityhub/"><u>How to Prevent LogoFAIL Hacking Incidents and Safeguard Your Computers | CyberSecurityHub</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-proplus-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 Pro+ 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g733-mic-failure-heres-how-you-can-fix-it/"><u>Logitech G733 Mic Failure? Here's How You Can Fix It</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/uniting-sight-and-sound-perfecting-videography-voiceovers/"><u>Uniting Sight & Sound Perfecting Videography Voiceovers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-repairability-revolution-in-microsofts-latest-laptop-lineup-outshining-rivals-and-puzzling-apple-the-verdict-by-ifixit-zdnet/"><u>Unveiling the Repairability Revolution in Microsoft's Latest Laptop Lineup, Outshining Rivals and Puzzling Apple – The Verdict by iFixit | ZDNet</u></a></li>
 </ul></div>
 

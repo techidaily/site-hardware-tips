@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Productivity: How the HP Laptop with Copilot Technology Transforms You Into a Super-Efficient Telecommuter - A Comprehensive Review"
-date: 2024-11-29T17:57:01.581Z
-updated: 2024-12-06T21:22:44.404Z
+date: 2024-12-09T04:12:09.594Z
+updated: 2024-12-12T21:40:55.256Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -45,7 +41,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -63,7 +59,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -106,6 +102,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -127,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,16 +182,21 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easy-steps-capture-screen-with-macos-tools-and-software/"><u>[Updated] Easy Steps Capture Screen with macOS Tools & Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-revamps-fire-tv-with-cutting-edge-generative-ai-capabilities-discover-the-new-features-zdnet-insight/"><u>Amazon Revamps Fire TV with Cutting-Edge Generative AI Capabilities – Discover the New Features | ZDNET Insight</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquering-instability-expert-tips-and-fixes-to-prevent-red-dead-redemption-2-from-crashing-your-gaming-session/"><u>Conquering Instability: Expert Tips and Fixes to Prevent Red Dead Redemption 2 From Crashing Your Gaming Session</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-evaluation-why-ring-video-doorbell-2-reigns-supreme-in-home-safety/"><u>Expert Evaluation: Why Ring Video Doorbell 2 Reigns Supreme in Home Safety</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-mastering-zoom-video-quality-a-step-by-step-guide/"><u>In 2024, Mastering Zoom Video Quality A Step-by-Step Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-15-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 15 Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-hidden-gaming-power-with-this-top-ranked-samsung-projector-tech-insights/"><u>Unlock Hidden Gaming Power with This Top-Ranked Samsung Projector | Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-top-rated-qled-television-now-at-a-striking-discount-for-labor-day-save-big-on-tech/"><u>Unmissable Deal Alert: Top-Rated QLED Television Now at a Striking Discount for Labor Day - Save Big on Tech!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-true-chromecast-heir-the-amazing-features-of-the-99-google-tv-streamer-insights-from-zdnet/"><u>Unveiling the True Chromecast Heir: The Amazing Features of the $99 Google TV Streamer | Insights From ZDNET</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-start-to-finish-how-to-record-your-desktop-with-filmora-scrn/"><u>Updated In 2024, From Start to Finish How to Record Your Desktop with Filmora Scrn</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-to-the-most-innovative-mp3-devices/"><u>ZDNet's Ultimate Guide to the Most Innovative MP3 Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-creative-uses-for-unwanted-or-supplementary-shots-for-2024/"><u>[Updated] Creative Uses for Unwanted or Supplementary Shots for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-focusing-attention-with-eye-catching-intros-in-imovie/"><u>2024 Approved Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-resolution-of-system-resource-shortages-to-ensure-seamless-service-delivery/"><u>Complete Resolution of System Resource Shortages to Ensure Seamless Service Delivery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-reviews-and-ratings-digital-trends/"><u>Comprehensive Reviews and Ratings | Digital Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-long-lasting-ultraportable-laptop-tested-in-2er-year-exclusive-insights-zdnet-tech-news/"><u>Discover the Best Long-Lasting Ultraportable Laptop Tested in 2Er Year - Exclusive Insights | ZDNET Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-final-hours-for-epic-gaming-bargains-in-october-prime-day-2024-save-big/"><u>Don't Miss Out! Final Hours for Epic Gaming Bargains in October Prime Day 2024, Save Big</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-for-asus-14-inch-156-inch-rog-zephyrus-laptop-slash-rs-55000-from-the-original-price/"><u>Huge Discount Alert for Asus 14-Inch 15.6 Inch ROG Zephyrus Laptop – Slash Rs. 55,000 From the Original Price!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-bite-sized-video-specialist/"><u>In 2024, Bite-Sized Video Specialist</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-embracing-the-night-sky-with-iphone-lengthy-exposures/"><u>In 2024, Embracing the Night Sky with iPhone Lengthy Exposures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oneplus-open-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your OnePlus Open Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-secrets-to-exposing-videos-in-the-news-feed/"><u>In 2024, Secrets to Exposing Videos in the News Feed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11s-operation-elevation-issue-740/"><u>Troubleshooting Windows 11'S Operation Elevation Issue #740</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-top-ranked-gaming-audio-systems-now-30-cheaper-on-amazon-insider-review-by-zdnet/"><u>Unbeatable Deal Alert: Top-Ranked Gaming Audio Systems Now 30% Cheaper on Amazon - Insider Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-offer-discover-how-to-get-200-off-on-best-buys-acer-chromebook-516-ge-in-depth-analysis-by-zdnet/"><u>Unbeatable Offer: Discover How to Get $200 Off on Best Buy's Acer Chromebook 516 GE | In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-charm-of-dell-xps-13-aesthetics-meet-performance-ranked-2-in-our-review-by-zdnet/"><u>Unveiling the Charm of Dell XPS 13: Aesthetics Meet Performance - Ranked #2 in Our Review by ZDNet</u></a></li>
 </ul></div>
 

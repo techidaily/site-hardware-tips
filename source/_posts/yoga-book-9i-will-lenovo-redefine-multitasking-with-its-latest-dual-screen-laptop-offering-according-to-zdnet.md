@@ -1,7 +1,7 @@
 ---
 title: "Yoga Book ^9I: Will Lenovo Redefine Multitasking with Its Latest Dual-Screen Laptop Offering, According to ZDNet?"
-date: 2024-12-04T20:51:00.710Z
-updated: 2024-12-07T03:10:05.727Z
+date: 2024-12-10T00:22:31.984Z
+updated: 2024-12-12T16:31:59.705Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take screenshots on any laptop
 
 ## Requirements
@@ -39,6 +35,10 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
 
@@ -52,10 +52,6 @@ The button can be just about anywhere, so just look for something that looks as 
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Paste your screenshot
 
 Once you've captured your display, the easiest way to edit and save it is by pasting it into an image editing app. If you've got Photoshop, that'll work, but since most people don't have access to such pro software, a much easier, free option works, too: Microsoft Paint.
@@ -67,10 +63,6 @@ From here, you can edit the image, resize it, crop it, and save it. You've now g
 An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
@@ -86,9 +78,17 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
 
@@ -100,22 +100,22 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
@@ -157,18 +157,18 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fusing-youtube-beats-into-film-scenes/"><u>[New] Fusing YouTube Beats Into Film Scenes</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-viral-victory-your-kinemaster-journey/"><u>[New] Viral Victory Your KineMaster Journey</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-initial-cinematic-composition-review/"><u>2024 Approved Initial Cinematic Composition Review</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/cookiebot-the-secret-ingredient-behind-tailored-user-experiences/"><u>Cookiebot: The Secret Ingredient Behind Tailored User Experiences</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-enhanced-features-of-apple-watch/"><u>Exploring the Enhanced Features of Apple Watch</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-huawei-watch-gt-runner-the-ideal-sports-companion-expert-insights-from-zdnet/"><u>In-Depth Review of Huawei Watch GT Runner: The Ideal Sports Companion - Expert Insights From ZDNet</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/navigating-the-art-of-live-stream-archiving-for-tv-series/"><u>Navigating the Art of Live Stream Archiving for TV Series</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/overcoming-the-challenge-of-startup-failure-in-cities-skylines-2/"><u>Overcoming the Challenge of Startup Failure in Cities: Skylines 2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/shokz-openrun-pro-assessed-by-zdnet-premiere-bone-conduction-audio-for-secure-exercise-experiences-reviewed/"><u>Shokz OpenRun Pro Assessed by ZDNet: Premiere Bone Conduction Audio for Secure Exercise Experiences Reviewed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/twitch-replay-magic-stream-control-secrets-for-2024/"><u>Twitch Replay Magic Stream Control Secrets for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-smartphone-potential-as-windows-microphone/"><u>Unlocking Smartphone Potential as Windows Microphone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-full-potential-of-your-wear-os-watch-with-5-proven-tips-by-zdnet-experts/"><u>Unlocking the Full Potential of Your Wear OS Watch with 5 Proven Tips by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-my-entire-setup-changed-insights/"><u>A Week with an Ergonomic Split Keyboard: How My Entire Setup Changed - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cephalopods-such-as-squids-using-dynamic-color-changing-displays-for-camouflage-or-signaling-to-potential-mates-or-rivals-demonstrating-a-complex-visual-lan113/"><u>Cephalopods Such as Squids Using Dynamic Color-Changing Displays for Camouflage or Signaling to Potential Mates or Rivals, Demonstrating a Complex Visual Language.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-plotting-pioneering-partings/"><u>In 2024, Plotting Pioneering Partings</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/kostenlos-formatieren-einer-festplatte-unter-windows-11-schritt-fur-schritt-anleitung/"><u>Kostenlos Formatieren Einer Festplatte Unter Windows 11 - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/methods-for-smooth-volume-diminishment-in-lumafusion-for-2024/"><u>Methods for Smooth Volume Diminishment in Lumafusion for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728468436396-ssd/"><u>SSD セルフバックアップで重要データ保護ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-why-does-my-mouse-keep-losing-connection/"><u>Step-by-Step Solution: Why Does My Mouse Keep Losing Connection?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-2024-must-have-travel-accessories-expert-picks-from-zdnet/"><u>Top 2024 Must-Have Travel Accessories: Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-priced-lenovo-notebooks-ideal-for-hybrid-professionals-save-1k-on-our-picks-zdnet/"><u>Top-Priced Lenovo Notebooks Ideal for Hybrid Professionals - Save $1K on Our Picks | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-black-friday-laptop-savings-guide-premier-deals-awaiting-in-oct-24/"><u>Ultimate Black Friday Laptop Savings Guide: Premier Deals Awaiting in Oct '24</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-iphone-16-pro-isnt-worth-it-when-you-have-a-trusty-iphone-14-insights-from-zdnet/"><u>Why the iPhone 16 Pro Isn't Worth It When You Have a Trusty iPhone 14 - Insights From ZDNet</u></a></li>
 </ul></div>
 

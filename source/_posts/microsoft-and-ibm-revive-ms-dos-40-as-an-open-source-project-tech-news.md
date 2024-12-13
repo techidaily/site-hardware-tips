@@ -1,7 +1,7 @@
 ---
 title: Microsoft & IBM Revive MS-DOS 4.0 as an Open Source Project | Tech News
-date: 2024-09-19 16:53:21
-updated: 2024-09-20 12:16:24
+date: 2024-12-07T18:33:34.360Z
+updated: 2024-12-12T16:00:10.296Z
 tags:
   - pc
 categories:
@@ -64,11 +64,30 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-pc-stops-without-reason-w11/"><u>[FIXED] PC Stops Without Reason: W11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-step-by-step-share-video-to-instagram/"><u>[Updated] 2024 Approved Step-by-Step Share Video to Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-simply-turn-off-your-insta-tv/"><u>[Updated] Simply Turn Off Your Insta TV</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hp-stream-11-your-perfect-small-sized-partner-for-core-computing-needs/"><u>HP Stream 11: Your Perfect Small-Sized Partner for Core Computing Needs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-meizu-21-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Meizu 21 Pro?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ces-2023-innovations-to-track-exploring-the-metaverse-futuristic-healthcare-and-beyond/"><u>Top CES 2023 Innovations to Track: Exploring the Metaverse, Futuristic Healthcare & Beyond</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-credit-cards-perfect-for-beginner-spenders-expert-reviews/"><u>Top Credit Cards Perfect for Beginner Spenders | Expert Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-essential-drone-gear-of-2022-unmissable-add-ons-every-pilot-needs-techradar/"><u>Top Essential Drone Gear of 2022: Unmissable Add-Ons Every Pilot Needs | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-electric-vehicles-expert-reviews-and-comparison-zdnet/"><u>Top Rated Electric Vehicles : Expert Reviews & Comparison - ZDNET</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-frame-drops-and-latency-issues-in-guilty-gear-strive/"><u>Troubleshooting and Fixing Frame Drops and Latency Issues in Guilty Gear Strive</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-why-isnt-your-chat-history-syncing-with-icloud-and-what-you-can-do/"><u>Troubleshooting WhatsApp: Why Isn't Your Chat History Syncing with iCloud and What You Can Do</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-top-credit-cards-for-newcomers-learn-from-experts/"><u>Ultimate Guide: Top Credit Cards for Newcomers - Learn From Experts</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

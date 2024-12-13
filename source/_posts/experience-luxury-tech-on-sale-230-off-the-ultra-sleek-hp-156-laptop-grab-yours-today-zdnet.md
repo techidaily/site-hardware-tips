@@ -1,7 +1,7 @@
 ---
 title: "Experience Luxury Tech on Sale: $230 Off the Ultra-Sleek HP 15.6” Laptop - Grab Yours Today @ ZDNET!"
-date: 2024-12-01T18:10:24.871Z
-updated: 2024-12-06T20:20:45.743Z
+date: 2024-12-11T01:55:27.325Z
+updated: 2024-12-12T23:32:45.646Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,24 +138,18 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-linking-your-favorite-tiktoks-seamlessly-to-facebook/"><u>[New] In 2024, Linking Your Favorite TikToks Seamlessly to Facebook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/archivos-ogg-explicados-todo-lo-que-necesitas-saber-sobre-este-codec-multimedia-y-sus-funciones-basicas/"><u>Archivos Ogg Explicados: Todo Lo Que Necesitas Saber Sobre Este Códec Multimedia Y Sus Funciones Básicas</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-between-google-and-samsungs-finest-the-ultimate-guide-to-selecting-an-android-watch-zdnet/"><u>Choosing Between Google and Samsung's Finest: The Ultimate Guide to Selecting an Android Watch | ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ct-priceless-imagery-from-trusted-4-youtube-directories/"><u>Collect Priceless Imagery From Trusted 4 YouTube Directories</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/considering-an-apple-watch-upgrade-comparing-series-8-ultra-and-potential-benefits-of-waiting-for-series-ninth-edition-zdnet-insights/"><u>Considering an Apple Watch Upgrade? Comparing Series 8, Ultra and Potential Benefits of Waiting for Series Ninth Edition | ZDNET Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-the-red-x-meaning-in-file-organization/"><u>Dissecting the Red “X” Meaning in File Organization</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-the-apple-watch-se-steal-for-memorial-day-its-my-top-gadget-purchase-and-a-must-have/"><u>Don't Miss Out on the Apple Watch SE Steal for Memorial Day! It's My Top Gadget Purchase and a Must-Have !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-the-apple-watch-ultra-2-became-my-ideal-wearable-sidekick-save-100-during-labor-day-sale-zdnet/"><u>How the Apple Watch Ultra 2 Became My Ideal Wearable Sidekick (Save $100 During Labor Day Sale!) | ZDNET</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-best-mp4-player-you-should-know/"><u>In 2024, Best MP4 Player You Should Know</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-boosting-windows-file-audit-with-precision/"><u>In 2024, Boosting Windows File Audit with Precision</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-exploration-of-the-revolutionary-amazfit-gtr-4-with-pioneering-gps-tech-at-just-199-a-comprehensive-assessment/"><u>In-Depth Exploration of the Revolutionary Amazfit GTR 4 with Pioneering GPS Tech at Just $199 – A Comprehensive Assessment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/iphone-15-pro-vs-pro-max-which-ultimate-model-should-you-buy/"><u>IPhone 15 Pro Vs. Pro Max: Which Ultimate Model Should You Buy?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-savings-with-the-latest-99-samsung-galaxy-smartwatch-eligibility-check-and-tips-inside/"><u>Maximize Savings with the Latest $99 Samsung Galaxy Smartwatch - Eligibility Check and Tips Inside!</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>New 2024 Approved Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-android-smartwatches-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Android Smartwatches: In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/wear-os-update-brings-offline-map-feature-is-your-smartwatch-upgraded-techspot/"><u>Wear OS Update Brings Offline Map Feature – Is Your Smartwatch Upgraded? | TechSpot</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-the-google-pixel-watch-stole-the-show-among-android-smartwatches-ive-tested-a-zdnet-review/"><u>Why the Google Pixel Watch Stole the Show Among Android Smartwatches I've Tested - A ZDNet Review</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/windows-10-kanal-acimak-icin-sesle-kaydetme-yolu-4-tane-algilanabilir-temel-baslar/"><u>Windows 10, Kanal Açımak Için Sesle Kaydetme Yolu 4 Tane Algılanabilir: Temel Başlar</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ne-youtube-feed-how-to-merge-multiple-videos/"><u>[New] One YouTube Feed How to Merge Multiple Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-discord-message-pinning-essentials/"><u>2024 Approved Mastering Discord Message Pinning Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-down-the-latest-from-apples-wwdc-202n-unveiling-of-mac-pro-mac-studio-and-innovative-m2-ultra-insights-for-tech-enthusiasts/"><u>Breaking Down the Latest From Apple's WWDC 202N: Unveiling of Mac Pro, Mac Studio & Innovative M2 Ultra - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/design-your-perfect-gamers-paradise-expert-tips-and-essentials-inspired-by-zdnet/"><u>Design Your Perfect Gamer's Paradise: Expert Tips & Essentials - Inspired by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-the-top-october-game-sales-of-2n24-huge-discounts-save-up-to-a-grand/"><u>Don't Miss Out on the Top October Game Sales of 2N24 - Huge Discounts, Save up to a Grand</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-90-gt-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor 90 GT to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-fresh-footage-feature-film-reviews/"><u>In 2024, Fresh Footage Feature Film Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/merging-windows-expertise-into-macos-strategy/"><u>Merging Windows Expertise Into macOS Strategy</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-compressor-in-fcpx-expert-techniques-for-professional-results/"><u>New In 2024, Compressor in FCPX Expert Techniques for Professional Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/premier-touchscreen-computers-unveiled-by-tech-experts-comprehensive-reviews/"><u>Premier Touchscreen Computers Unveiled by Tech Experts - Comprehensive Reviews</u></a></li>
+<li><a href="https://fox-that.techidaily.com/qr-code-scanning-problems-on-iphones-solved-find-your-way-with-our-8-tips/"><u>QR Code Scanning Problems on iPhones Solved: Find Your Way with Our 8 Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reliable-laptop-battery-backup-long-lasting-service-and-huge-savings-up-to-50-discount-available-today/"><u>Reliable Laptop Battery Backup: Long-Lasting Service & Huge Savings - Up To 50% Discount Available Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/savings-alert-secure-8tb-samsung-t5-nvme-ssd-36-off-on-amazon-post-prime-read-more-from-zdnet/"><u>Savings Alert! Secure 8TB Samsung T5 NVMe SSD 36% Off on Amazon Post-Prime - Read More From ZDNet</u></a></li>
 </ul></div>
 

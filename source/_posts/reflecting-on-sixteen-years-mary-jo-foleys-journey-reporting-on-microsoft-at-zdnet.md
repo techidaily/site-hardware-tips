@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on Sixteen Years: Mary Jo Foley's Journey Reporting on Microsoft at ZDNet"
-date: 2024-09-19 20:11:48
-updated: 2024-09-20 10:27:24
+date: 2024-12-06T16:37:58.068Z
+updated: 2024-12-12T18:08:10.310Z
 tags:
   - pc
 categories:
@@ -64,11 +64,32 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-bringing-rhythm-to-instagrams-visual-narratives/"><u>[Updated] Bringing Rhythm to Instagram's Visual Narratives</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-insider-guide-to-intensified-minecraft-views/"><u>[Updated] In 2024, The Insider Guide to Intensified Minecraft Views</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-magix-vst-transform-your-home-studio-setup/"><u>[Updated] Magix VST Transform Your Home Studio Setup</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-8-viral-vids-capturing-social-medias-attention/"><u>2024 Approved Top 8 Viral Vids Capturing Social Media's Attention</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-itel-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Itel</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-xs-max-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone XS Max with iTunes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-and-fabulous-the-best-fcpx-plugins-you-need/"><u>In 2024, Free and Fabulous The Best FCPX Plugins You Need</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lyfts-cutting-edge-maneuver-to-lead-autonomous-vehicle-innovation-insights-from-zdnet/"><u>Introducing Lyft's Cutting-Edge Maneuver to Lead Autonomous Vehicle Innovation | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-kalk-cake-e-bike-a-versatile-eco-friendly-motorcycle-ideal-for-work-and-leisure-travels-zdnet/"><u>Introducing the Kalk Cake E-Bike: A Versatile, Eco-Friendly Motorcycle Ideal for Work and Leisure Travels | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-android-automotive-update-enhances-user-experience-with-added-bluetooth-headphone-compatibility-tech-news-by-zdnet/"><u>Latest Android Automotive Update Enhances User Experience with Added Bluetooth Headphone Compatibility - Tech News by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discounts-await-at-dollar-flight-club-secure-94-off-flights-today/"><u>Massive Discounts Await at Dollar Flight Club - Secure 94% Off Flights Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-longevity-expert-tips-for-maintaining-your-high-end-e-bikes-premium-battery-zdnet/"><u>Maximizing Longevity: Expert Tips for Maintaining Your High-End E-Bike's Premium Battery (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newly-unveiled-the-arrival-of-the-first-generation-4th-gen-tesla-supercharger-in-arizona-insights-and-specs/"><u>Newly Unveiled: The Arrival of the First Generation 4Th Gen Tesla Supercharger in Arizona - Insights and Specs</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

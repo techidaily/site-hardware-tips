@@ -1,7 +1,7 @@
 ---
 title: "Microsoft & IBM Rediscover the Classic: Unveiling MS-DOS Version"
-date: 2024-09-17 21:14:41
-updated: 2024-09-20 12:15:25
+date: 2024-12-10T18:18:12.092Z
+updated: 2024-12-13T02:37:38.167Z
 tags:
   - pc
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 The Crucial T705 PCIe Gen5 NVMe M.2 SSD features a monster heatsink.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -36,6 +40,10 @@ This means that storage is now a key component to consider when you're exploring
 Over the past couple of weeks I've been testing Crucial's new [T705 PCIe Gen5 NVMe M.2 SSD](https://www.crucial.com/ssd/t705/CT1000T705SSD3), which the company touts as the world's fastest SSD. And yes, it _is_ blazingly fast -- if you have the hardware to handle it.
 
 [ZDNET RECOMMENDS Crucial T705 PCIe Gen5 NVMe M.2 SSD The T705 is a follow-on to the T700, and brings the following improvements: 18% higher sequential reads, 8% higher sequential writes, 4% higher random reads, and 20% higher random writes. View at Crucial](https://www.crucial.com/ssd/t705/CT1000T705SSD3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Crucial T705 Gen5 SSD specifications and highlights
 
@@ -103,6 +111,10 @@ Another key difference between the T700 and the T705 is that this new drive is c
 
 The Crucial T705 is slated for global release on March 12, 2024\. Pricing begins at $240 for the 1TB bare drive version, with the cost rising to $730 for the 4TB model equipped with a heatsink. The special limited edition, featuring a white heatsink and available only in a 2TB capacity, will be priced at $484.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 There are two types of people who will be looking at the Crucial T705\. 
@@ -138,11 +150,27 @@ If speed is your top priority, this drive is the ultimate choice. It also offers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-shot-solidity-choose-the-right-mobile-tripod/"><u>[Updated] 2024 Approved Shot Solidity Choose the Right Mobile Tripod</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-neptune-display-premium-4k-all-in-one-screens/"><u>2024 Approved Neptune Display Premium 4K All-in-One Screens</u></a></li>
+<li><a href="https://win-web.techidaily.com/effortless-iphone-data-removal-tool-complete-icloud-cleanup-at-no-cost/"><u>Effortless iPhone Data Removal Tool - Complete iCloud Cleanup at No Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-to-active-labor-day-202n-tv-promotions-ideal-deals-for-the-golden-age-community/"><u>Exclusive Guide to Active Labor Day 202N TV Promotions - Ideal Deals for the Golden Age Community</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-for-maintaining-crystal-clear-displays-on-your-flatscreen-tvs-and-monitors/"><u>Expert Advice for Maintaining Crystal Clear Displays on Your Flatscreen TVs & Monitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-more-bang-for-your-buck-with-the-most-affordable-high-quality-sony-bravia-regularly-discounted-options-unveiled-by-zdnet/"><u>Get More Bang for Your Buck with the Most Affordable, High-Quality Sony Bravia - Regularly Discounted Options Unveiled by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/immersive-viewing-experience-with-the-samsung-114-inch-micro-led-tv-is-it-a-visionary-purchase-techspectrum/"><u>Immersive Viewing Experience with the Samsung 114-Inch Micro LED TV - Is It a Visionary Purchase? | TechSpectrum</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-guide-mastering-color-correction-and-grading/"><u>In 2024, Ultimate Guide Mastering Color Correction & Grading</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/julys-exclusive-shopping-event-by-best-buy-vs-amazon-prime-day-discover-the-ultimate-deals-list-of-29-items/"><u>July's Exclusive Shopping Event by Best Buy Vs. Amazon Prime Day: Discover the Ultimate Deals List of 29 Items!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-create-cinematic-magic-top-slow-motion-video-editors/"><u>New In 2024, Create Cinematic Magic Top Slow Motion Video Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-solved-final-cut-pro-x-keeps-crashing/"><u>New Solved Final Cut Pro X Keeps Crashing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-escape-artists-manual-to-disguised-youtube-archives-for-2024/"><u>The Escape Artist's Manual to Disguised YouTube Archives for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformation-sans-frais-filetage-ts-a-mkv-via-web-solutions-de-conversion-video-rapide-par-movavi/"><u>Transformation Sans Frais : Filetage TS À MKV Via Web - Solutions De Conversion Vidéo Rapide Par Movavi</u></a></li>
+</ul></div>
+

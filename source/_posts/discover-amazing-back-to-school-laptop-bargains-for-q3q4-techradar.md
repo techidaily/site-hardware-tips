@@ -1,7 +1,7 @@
 ---
 title: Discover Amazing Back-to-School Laptop Bargains for Q3/Q4 | TechRadar
-date: 2024-12-02T18:21:40.296Z
-updated: 2024-12-07T00:14:05.036Z
+date: 2024-12-08T16:44:28.064Z
+updated: 2024-12-12T16:17:27.591Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -98,7 +102,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 ## Alternative laptop deals
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Amazon laptop deals
@@ -114,10 +118,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -142,7 +142,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple MacBook deals
@@ -156,6 +156,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Pro, refurbished, 15-inch, 16GB RAM deal for $800 (save $2,000) $800 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-refurbished-macbook-pro-15-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-560x-512gb-ssd-space-gray%2F6515403.p%3FskuId%3D6515403&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
 
@@ -182,6 +186,10 @@ The right specs depend on your needs and how you intend to use your new laptop -
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much should I pay for a good laptop?
 
 When you're considering your budget for a new laptop, you have to consider what you want to use the device for. 
@@ -192,20 +200,12 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 
 ZDNET experts split out the latest and greatest deals for you below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best deals by retailer
 
 * [The best Amazon deals](https://www.zdnet.com/article/amazon-deals/)
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,22 +257,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/xplore-the-top-10-youtube-to-mp3-services/"><u>[New] Explore the Top 10 YouTube-to-MP3 Services</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-resolve-instagram-video-glitches-today/"><u>[Updated] 2024 Approved Resolve Instagram Video Glitches Today</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-time-lapse-tiktoks-capturing-anime-elements-and-styles-for-2024/"><u>[Updated] Time-Lapse TikToks Capturing Anime Elements and Styles for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-luts-into-film-colorwork/"><u>2024 Approved Integrating Luts Into Film Colorwork</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-laughloop-app-a-hub-for-humor-enthusiasts/"><u>2024 Approved LaughLoop App - A Hub for Humor Enthusiasts</u></a></li>
-<li><a href="https://facebook.techidaily.com/are-you-safe-from-personal-data-leakage-via-fb-apps/"><u>Are You Safe From Personal Data Leakage Via FB Apps?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ces-showcase-meet-roborocks-new-generation-of-smart-home-vacuums-powered-by-ai-zdnet-innovations-update/"><u>CES Showcase: Meet Roborock's New Generation of Smart Home Vacuums Powered by AI | ZDNET Innovations Update</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-rated-smart-vacuum-bots-at-unbeatable-low-costs-insights-from-zdnet/"><u>Discover Top-Rated Smart Vacuum Bots at Unbeatable Low Costs | Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edge-40-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge 40 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-self-sanitizing-smart-vac-zdnet-unveils-a-cleaner-that-wipes-surfaces-too/"><u>Introducing the Self-Sanitizing Smart Vac: ZDNet Unveils a Cleaner That Wipes Surfaces Too!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-m-audio-fast-track-driver-installation-files-for-windows-users-win-10-7-8-and-81/"><u>Latest M-Audio Fast Track Driver Installation Files for Windows Users (Win 10, 7, 8 & 8.1)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/learning-from-horses-pioneering-advances-in-human-automaton-dynamics-zdnet/"><u>Learning From Horses: Pioneering Advances in Human-Automaton Dynamics | ZDNET</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-comprehensive-blueprint-for-youtube-earnings-enhancement-for-2024/"><u>The Comprehensive Blueprint for YouTube Earnings Enhancement for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-roborock-vacuum-models-featuring-in-depth-analysis-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Roborock Vacuum Models , Featuring In-Depth Analysis & Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-on-top-rated-pet-hair-vacuums-save-400-now-with-limited-offer-at-zdnet/"><u>Unbeatable Deal on Top-Rated Pet Hair Vacuums - Save $400 Now with Limited Offer at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/when-bots-take-orders-exploring-the-impact-of-machines-supporting-human-wait-staff-shortages-insights-from-zdnet/"><u>When Bots Take Orders: Exploring the Impact of Machines Supporting Human Wait Staff Shortages | Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-picks-the-ultimate-selection-of-the-best-remote-presence-robots/"><u>ZDNet's Picks: The Ultimate Selection of the Best Remote Presence Robots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-powerhouses-of-vr-engine-technology-for-2024/"><u>[New] Unveiling the Powerhouses of VR Engine Technology for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-preparing-for-twitter-know-the-required-aspect-ratio/"><u>2024 Approved Preparing for Twitter Know the Required Aspect Ratio</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success-for-2024/"><u>Crafting Compelling Narratives in Instagram Ads Top 10 Tips for Success for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-unmatched-performance-of-dells-newest-xps-models-why-you-absolutely-must-have-one/"><u>Experience the Unmatched Performance of Dell's Newest XPS Models - Why You Absolutely Must Have One!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-top-tier-benefits-why-samsungs-latest-copilotplus-is-the-ideal-bargain-for-windows-users-insights-from-a-firsthand-review-techradar/"><u>Exploring the Top-Tier Benefits: Why Samsung's Latest Copilot+ Is The Ideal Bargain for Windows Users - Insights From a Firsthand Review | TechRadar</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-strategies-for-vocal-identity-on-instagram/"><u>In 2024, Expert Strategies for Vocal Identity on Instagram</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/master-your-computers-sound-options-tips-and-tricks-in-the-windows-settings-insights-from-yl-software/"><u>Master Your Computer's Sound Options: Tips & Tricks in the Windows Settings - Insights From YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-laptops-battery-life-with-our-prime-day-offer-get-20-off-premium-power-banks-for-windows-and-macbook-users/"><u>Maximize Your Laptop's Battery Life with Our Prime Day Offer: Get 20% Off Premium Power Banks for Windows & MacBook Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/resolving-javascript-bugs-a-step-by-step-guide-for-discord-users/"><u>Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-the-sleek-powerful-m2-macbook-air-from-apple-for-only-749-during-amazons-exclusive-october-prime-day-event-news/"><u>Score the Sleek, Powerful M2 MacBook Air From Apple for Only $749 During Amazon's Exclusive October Prime Day Event News</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-bose-quiet-control-30-review-perfect-in-progressions/"><u>The Bose Quiet Control 30 Review: Perfect in Progressions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-discounts-on-apples-macbook-and-mac-mini-in-january-2n-exclusive-offers-revealed/"><u>Top-Rated Discounts on Apple's MacBook & Mac Mini in January 2N - Exclusive Offers Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-snag-a-premium-hp-touch-laptop-ergonomic-wireless-mouse-and-complimentary-ms365-access-at-only-99-cents-per-day-400-total-exclusive96/"><u>Unbeatable Bargain Alert: Snag a Premium HP Touch Laptop, Ergonomic Wireless Mouse, and Complimentary MS365 Access at Only 99 Cents Per Day ($400 Total) - Exclusive Offer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-top-performing-non-thinkpad-non-macbook-found-on-prime-day-with-300-savingszdnet/"><u>Unbeatable Deals: Top-Performing Non-ThinkPad, Non-MacBook Found on Prime Day with $300 Savings![ZDNet]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-cyber-monday-savings-score-a-high-performance-lg-gram-17-for-only-400-off-tech-news/"><u>Unmissable Cyber Monday Savings: Score a High-Performance LG Gram 17 for Only $400 Off | Tech News</u></a></li>
 </ul></div>
 

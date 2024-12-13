@@ -1,7 +1,7 @@
 ---
 title: Premium Performance Explored - My Experience Testing a $3K Deluxe Gaming Machine by DELL | TechReviewed
-date: 2024-11-22T19:30:10.930Z
-updated: 2024-11-27T19:03:02.989Z
+date: 2024-12-11T03:59:13.726Z
+updated: 2024-12-12T23:33:57.136Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ A total of five vents on the m18 R2 allow for maximum internal airflow. Addition
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,24 +138,17 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fundamentals-of-e-narrative-creation/"><u>[New] Fundamentals of E-Narrative Creation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/crafting-the-perfect-gamers-paradise-insider-secrets-for-an-unbeatable-setup-zdnet/"><u>Crafting The Perfect Gamer's Paradise: Insider Secrets for an Unbeatable Setup | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-ai-enhancements-tech-news-on-zdnet/"><u>Discover the Latest AI Enhancements | Tech News on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-mini-multiport-adapter-that-packs-big-performance-at-low-cost-exclusive-review-by-zdnet/"><u>Discover the Ultimate Mini Multiport Adapter That Packs Big Performance at Low Cost | Exclusive Review by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-next-level-game-audio-for-less-get-the-best-bargain-on-a-premium-speaker-system-at-amazon-as-revealed-by-zdnet/"><u>Experience Next-Level Game Audio for Less! Get the Best Bargain on a Premium Speaker System at Amazon, as Revealed by ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-advice-on-fixing-recurrerent-graphics-driver-glitches/"><u>Expert Advice on Fixing Recurrerent Graphics Driver Glitches</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-essentials-skip-the-high-end-monitors-save-your-money/"><u>Gaming Essentials - Skip the High-End Monitors, Save Your Money</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-the-latest-deal-from-microsoft-cheaper-surface-go-at-250-off-and-exclusive-lifetime-offer-on-xbox-series-s-zdnet/"><u>Get the Latest Deal From Microsoft: Cheaper Surface Go at $250 Off & Exclusive Lifetime Offer on Xbox Series S - ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-redmi-a2-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi Redmi A2 Phone | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-microsoft-copilot-and-surface-the-latest-upgrades-for-enterprise-professionals-technews/"><u>Introducing Microsoft Copilot & Surface: The Latest Upgrades for Enterprise Professionals | TechNews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-slashes-surface-pro-9-price-by-250-and-gives-away-free-xbox-series-s-exclusive-deal/"><u>Microsoft Slashes Surface Pro 9 Price by $250 & Gives Away Free Xbox Series S - Exclusive Deal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-computing-trustworthy-insights-from-toms-hardware-professionals/"><u>Navigating the World of Computing: Trustworthy Insights From Tom's Hardware Professionals</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-countdown-video/"><u>New In 2024, Make A Countdown Video</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pcie-lone-gpu-in-system-logs-cleared/"><u>PCIe Lone GPU in System Logs Cleared</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/professional-growth-with-efficient-google-meet-design-tweaks/"><u>Professional Growth with Efficient Google Meet Design Tweaks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-discover-the-top-rated-featherlight-laptop-ideal-for-remote-professionals-reviews-by-your-name/"><u>Ultimate Guide: Discover the Top-Rated Featherlight Laptop Ideal for Remote Professionals - Reviews by [Your Name]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-hidden-potential-top-rated-2-in-1-devices-with-surprising-office-perks-uncovered-tech-insights/"><u>Unlocking Hidden Potential: Top Rated 2-in-1 Devices with Surprising Office Perks Uncovered | Tech Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-terminal-and-powershell-understanding-their-unique-features/"><u>Windows Terminal and PowerShell: Understanding Their Unique Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/iuocquodquodkoodvoodgoocpuodiuodvoockuatjes9noobmeocizrjgqtjg7pjgrnjg4jjg7zjg6vjg7vml6xmnkzoqp7ljjboqbpntldmiyvpoiyi/"><u>オリバーダウナーを操作する:インストール・日本語化詳細手順</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-digital-canvas-delight-premier-apps-for-ipados-artistry/"><u>[New] Digital Canvas Delight Premier Apps for iPadOS Artistry</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-navigating-mobility-in-film-crafting-youtubes-best-thumbnails/"><u>[New] In 2024, Navigating Mobility in Film Crafting YouTubes' Best Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-revenue-streaming-star-across-the-globe-for-2024/"><u>[Updated] High Revenue Streaming Star Across the Globe for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-low-end-pc-screen-recorder-guide/"><u>[Updated] Top Low-End PC Screen Recorder Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/15l-gaming-desktop-at-only-520-save-almost-40-technews/"><u>15L Gaming Desktop at Only $520 - Save Almost 40% | TechNews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/going-back-to-basics-the-surprising-benefits-of-sticking-with-a-2019-budget-smartphone-into-the-new-year/"><u>Going Back to Basics: The Surprising Benefits of Sticking with a 2019 Budget Smartphone Into the New Year</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-does-the-trusted-platform-module-tpm-work-with-windows-11-understanding-its-role-and-necessity/"><u>How Does the Trusted Platform Module (TPM) Work with Windows 11: Understanding Its Role and Necessity</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 13 mini</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-targets-classrooms-new-low-cost-laptop-se-and-tailored-windows-11-se-operating-system-released-discover-more-on-zdnet/"><u>Microsoft Targets Classrooms: New Low-Cost Laptop SE & Tailored Windows 11 SE Operating System Released, Discover More on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-instructions-for-quickly-installing-m2-modules-on-the-new-raspberry-pi-5-zdnets-expert-advice/"><u>Step-by-Step Instructions for Quickly Installing M.2 Modules on the New Raspberry Pi 5 - ZDNET's Expert Advice</u></a></li>
 </ul></div>
 

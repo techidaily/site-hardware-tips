@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2024-11-30T00:55:41.438Z
-updated: 2024-12-06T23:00:54.136Z
+date: 2024-12-08T19:33:58.652Z
+updated: 2024-12-12T17:43:07.619Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,24 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-future-is-now-how-vida-transforms-video-editing/"><u>[New] 2024 Approved The Future Is Now How Vida Transforms Video Editing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-spark-dialogue-with-personalized-and-creative-story-inquiries-for-2024/"><u>[New] Spark Dialogue with Personalized and Creative Story Inquiries for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-5-internet-viewing-units-for-2024/"><u>[Updated] Advanced 5 Internet Viewing Units for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-converting-horizontals-for-igtv-tips-and-techniques-explored/"><u>[Updated] In 2024, Converting Horizontals for IGTV Tips & Techniques Explored</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-get-your-samsung-tv-upgraded-with-philips-hue-integration-for-just-3month-insights-from-zdnet/"><u>1. Get Your Samsung TV Upgraded with Philips Hue Integration for Just $3/Month: Insights From ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-guide-to-fixing-the-bluetoothwireless-interface-issue-on-your-260ci-vehicles-usb-port/"><u>Expert Guide to Fixing the Bluetooth/Wireless Interface Issue on Your 260Ci Vehicle's USB Port</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-value-of-rokus-latest-budget-friendly-smart-gadgets-with-just-one-complaint-tech-analysis/"><u>Exploring the Value of Roku's Latest Budget-Friendly Smart Gadgets with Just One Complaint | Tech Analysis</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-lava-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Lava</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-under-cabinet-lighting-upgrades-your-kitchen-charm-the-smart-touch-unveiled-by-techradar/"><u>Innovative Under-Cabinet Lighting Upgrades Your Kitchen Charm - The Smart Touch Unveiled by TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intelligent-illumination-govee-reveals-smart-lighting-that-syncs-with-your-screen-for-enhanced-ambiance-spotlighted-by-zdnet/"><u>Intelligent Illumination: Govee Reveals Smart Lighting That Syncs with Your Screen for Enhanced Ambiance, Spotlighted by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intelligent-illumination-how-ge-cync-enhances-led-neon-lighting-insights-from-zdnet/"><u>Intelligent Illumination: How GE Cync Enhances LED Neon Lighting - Insights From ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/oppo-k11-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo K11 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/rapid-routines-transferring-iphone-content-for-2024/"><u>Rapid Routines Transferring iPhone Content for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-your-smart-home-discover-how-a-unified-connectivity-standard-transforms-interactions/"><u>Revolutionizing Your Smart Home: Discover How a Unified Connectivity Standard Transforms Interactions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-led-ring-lights-enhance-your-tiktok-videos-with-style-techreview/"><u>Top Rated LED Ring Lights - Enhance Your TikTok Videos with Style | TechReview</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-security-floodlighting-solutions-for-your-home-expert-reviews-and-picks/"><u>Top-Rated Security Floodlighting Solutions for Your Home - Expert Reviews and Picks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unlock-your-account-5-proven-fixes-for-the-cs-go-no-user-problem/"><u>Unlock Your Account: 5 Proven Fixes for the CS GO 'No User' Problem</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-video-content-for-a-fanbase-boom-for-2024/"><u>[New] Elevating Your Video Content for a Fanbase Boom for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-shutter-societys-top-six-elite-4k-dslr-picks-for-2024/"><u>[Updated] Shutter Society's Top Six Elite 4K DSLR Picks for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos/"><u>[Updated] Your Video, Their Feast How to Craft GIFs From Vimeo Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-zoom-image-quality-professional-insights/"><u>Boosting Zoom Image Quality Professional Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-joy-of-a-windows-free-life-with-this-budget-friendly-hp-chromebook-now-just-136-cheaper/"><u>Discover the Joy of a Windows-Free Life with This Budget-Friendly HP Chromebook - Now Just $136 Cheaper!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elevate-your-visual-content-mastery-of-image-backdrop-removal-in-canva-for-2024/"><u>Elevate Your Visual Content Mastery of Image Backdrop Removal in Canva for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/full-day-battery-endurance-for-your-macbook-expert-strategies-and-techniques-from-zdnet/"><u>Full-Day Battery Endurance for Your MacBook: Expert Strategies and Techniques From ZDNET</u></a></li>
+<li><a href="https://techidaily.com/guide-to-uninterrupted-gaming-accessing-and-playing-steam-titles-off-the-grid/"><u>Guide to Uninterrupted Gaming: Accessing and Playing Steam Titles Off the Grid</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-15-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone 15 Plus Smoothly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/1716271992809-how-to-reverse-videos-on-android/"><u>How to Reverse Videos on Android?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-filmmakers-guide-to-professional-gopro-cinematography/"><u>In 2024, The Filmmaker’s Guide to Professional Gopro Cinematography</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lifetime-access-to-premium-mondly-zero-price/"><u>Lifetime Access to Premium Mondly: Zero Price</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-pc-connectivity-with-this-unique-12-in-1-docking-stations-hidden-charge-perk-tailored-for-windows-users-insights-from-zdnet/"><u>Maximize Your PC Connectivity with This Unique 12-in-1 Docking Station's Hidden Charge Perk, Tailored for Windows Users | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/move-beyond-the-macbook-air-with-this-compact-feature-packed-windows-laptop-top-picks-by-tech-experts/"><u>Move Beyond the MacBook Air with This Compact, Feature-Packed Windows Laptop - Top Picks by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-discounted-hp-victus-15-for-just-515-exclusive-black-friday-at-best-buy-revealed/"><u>Secure Your Discounted HP Victus 15 for Just $515 – Exclusive Black Friday at Best Buy Revealed !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-asus-zenbook-pro-14-duo-oled-ux8402-explored-dual-screens-shine-amidst-usability-and-battery-hurdles-tech-review/"><u>The Asus Zenbook Pro 14 Duo OLED UX8402 Explored: Dual Screens Shine Amidst Usability and Battery Hurdles | Tech Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-black-friday-offer-snag-lenovo-thinkpad-x1-extreme-gen-4-at-just-a-fraction-of-its-cost-exclusive-zdnet-insider-deal/"><u>Unbeatable Black Friday Offer: Snag Lenovo ThinkPad X1 Extreme Gen 4 at Just a Fraction of Its Cost - Exclusive ZDNET Insider Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-hps-latest-innovation-the-portable-all-in-one-pc-shocker-and-more-zdnet/"><u>Unboxing HP's Latest Innovation: The Portable All-in-One PC Shocker & More | Zdnet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-creative-potential-with-asuss-stealthy-high-powered-laptop-review/"><u>Unlocking Creative Potential with ASUS's Stealthy High-Powered Laptop Review</u></a></li>
 </ul></div>
 

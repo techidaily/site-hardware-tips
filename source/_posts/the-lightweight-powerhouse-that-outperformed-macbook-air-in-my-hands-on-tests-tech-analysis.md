@@ -1,7 +1,7 @@
 ---
 title: The Lightweight Powerhouse That Outperformed MacBook Air in My Hands-On Tests | Tech Analysis
-date: 2024-12-02T00:26:54.069Z
-updated: 2024-12-06T22:09:16.053Z
+date: 2024-12-09T23:30:13.612Z
+updated: 2024-12-12T23:55:19.730Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -87,7 +87,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -126,18 +126,19 @@ The Surface Laptop is a flagship mid-range device that's well-rounded enough to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/eading-tech-review-the-top-10-screen-recorders-for-2024/"><u>[New] Leading Tech Review The Top 10 Screen Recorders for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-uniting-voices-and-visions-the-top-mics-for-educational-gaming-and-lifestyle-yt-screens/"><u>[New] Uniting Voices & Visions The Top Mics For Educational, Gaming, and Lifestyle YT Screens</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoid-these-iphone-models-and-key-apple-devices-in-month-top-picks-not-to-purchase-insights-from-zdnet/"><u>Avoid These iPhone Models & Key Apple Devices in [Month]: Top Picks Not To Purchase - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-your-pcs-performance-by-clearing-clutter-using-bleachbit-zdnet-recommended/"><u>Boost Your PC's Performance by Clearing Clutter Using BleachBit (ZDNet Recommended)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/embracing-the-future-how-artificial-intelligence-is-redefining-computing-speeds-insights-from-zdnet/"><u>Embracing the Future: How Artificial Intelligence Is Redefining Computing Speeds - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-100-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor 100 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>In 2024, Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-syncopating-songs-implementing-fades-in-logic-pro-x/"><u>In 2024, Syncopating Songs Implementing Fades in Logic Pro X</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leveraging-local-computing-power-for-ai-model-deployment-managing-dozens-of-models-on-mac-or-pc-without-third-party-clouds-zdnet-insights/"><u>Leveraging Local Computing Power for AI Model Deployment: Managing Dozens of Models on Mac or PC Without Third-Party Clouds | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-prices-snag-the-ultimate-deal-on-an-acer-gamers-dream-computer-under-650-shop-now/"><u>Slash Prices: Snag the Ultimate Deal on an Acer Gamer's Dream Computer Under $650 - Shop Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-macos-stage-manager-a-comprehensive-guide-on-activation-and-features/"><u>Unlocking macOS Stage Manager: A Comprehensive Guide on Activation & Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-techniques-in-documenting-real-time-sporting-broadcasts/"><u>[New] In 2024, Top Techniques in Documenting Real-Time Sporting Broadcasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-10-ultimate-immersive-vr-video-hits/"><u>[Updated] In 2024, 10 Ultimate Immersive VR Video Hits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-leading-vr-devices-ranked-in-depth-analysis-and-expert-assessments-from-zdnet/"><u>2024'S Leading VR Devices Ranked: In-Depth Analysis and Expert Assessments From ZDNET</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/bcdboot3/"><u>BCDBootで失敗するブートファイルコピーエラーの解決方法3つ</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-90-gt-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor 90 GT Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968981480-enhance-your-display-downloadingupdating-asus-vg2-48qe-graphics-card-drivers-for-windows-effortlessly/"><u>Enhance Your Display: Downloading/Updating Asus VG2 48QE Graphics Card Drivers for Windows Effortlessly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-create-a-funny-meme-for-2024/"><u>How To Create A Funny Meme for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/improving-video-quality-during-iphone-shoots-for-2024/"><u>Improving Video Quality During iPhone Shoots for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-copilotplus-pc-shines-as-a-top-contender-for-best-value-on-the-windows-platform-inside-look/"><u>Samsung Copilot+ PC Shines as a Top Contender for Best Value on the Windows Platform – Inside Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-workhorse-laptop-unveiled-surpasses-thoughtpad-and-macbook-in-tests-insights/"><u>Top-Performing Workhorse Laptop Unveiled, Surpasses Thoughtpad & Macbook in Tests - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-streaming-microphones-featured-on-zdnet/"><u>Top-Ranked Streaming Microphones - Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-workspaces-one-week-on-a-split-ergonomic-keyboard-and-its-impact-zdnet-explored/"><u>Transforming Workspaces: One Week on a Split Ergonomic Keyboard & Its Impact - ZDNet Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unparalleled-performance-discovering-top-notch-ultraportable-devices-ideal-for-telecommuters-a-comprehensive-review/"><u>Unparalleled Performance: Discovering Top-Notch Ultraportable Devices Ideal for Telecommuters - A Comprehensive Review</u></a></li>
 </ul></div>
 

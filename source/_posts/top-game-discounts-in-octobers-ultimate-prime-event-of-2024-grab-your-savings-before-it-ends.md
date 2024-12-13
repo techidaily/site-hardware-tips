@@ -1,7 +1,7 @@
 ---
 title: Top Game Discounts in October's Ultimate Prime Event of 2024 - Grab Your Savings Before It Ends!
-date: 2024-12-01T17:05:30.377Z
-updated: 2024-12-06T18:20:43.532Z
+date: 2024-12-10T03:47:41.559Z
+updated: 2024-12-13T04:15:49.318Z
 tags:
   - laptops
 categories:
@@ -150,7 +150,7 @@ ZDNET
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea375ddd-14c9-4ebb-8422-ded7d0c12c60%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
@@ -174,6 +174,10 @@ Nintendo/ZDNET
 * [Super Mario RPG for $40 (save $20)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSuper-Mario-RPG-Nintendo-Switch-U-S-Edition%2F1349013407%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This fan-favorite title has been remastered with updated graphics and combat systems as Mario and friends search for the crystal stars to stop the Smithy Gang.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $66 (save $14 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
 
@@ -202,6 +206,10 @@ Lenovo
 * [HP Victus 16 laptop for $850 (save $450 at HP)](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r100-161-91c59av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade gamign laptop with a 16-inch 1080p IPS display, 144Hz refresh rate, 14th gen Intel Core i5 CPU, 16GB of RAM, GeForce RTX 4050 GPU, and a 512GB SSD.
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming monitor deals
 
 Samsung/ZDNET
@@ -227,35 +235,27 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $810 (save $114 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -322,24 +322,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-selecting-superior-webcams-on-windows-10/"><u>[New] 2024 Approved Selecting Superior Webcams on Windows 10</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-masterclass-crafting-cinematic-youtube-videos-with-adobe-premiere/"><u>[Updated] 2024 Approved Masterclass Crafting Cinematic YouTube Videos with Adobe Premiere</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/essential-guide-to-downloading-and-installing-usb-c-drivers-on-windows-11-systems/"><u>Essential Guide to Downloading and Installing USB-C Drivers on Windows 11 Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-13c-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 13C in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-50plus-overlays-for-engaging-media-content/"><u>In 2024, Top 50+ Overlays for Engaging Media Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/screenflix-recorder-insider-report-for-2024/"><u>ScreenFlix Recorder Insider Report for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-newest-ipad-deal-at-just-199-exclusive-amazon-labor-day-discount/"><u>Secure Your Newest iPad Deal at Just $199 - Exclusive Amazon Labor Day Discount!</u></a></li>
-<li><a href="https://win-help.techidaily.com/stunning-deathstroke-vs-deadpool-wallpapers-and-background-graphics-by-yl-computing-unleash-your-geeky-side/"><u>Stunning Deathstroke Vs. Deadpool Wallpapers & Background Graphics by YL Computing: Unleash Your Geeky Side!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-cutting-edge-smart-display-picks-unveiled-by-zdnet/"><u>Top 5 Cutting-Edge Smart Display Picks Unveiled by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-intelligent-display-models-find-your-perfect-choice-insights-from-zdnet/"><u>Top 5 Intelligent Display Models : Find Your Perfect Choice - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2019-file-not-opening-error-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2019 File Not Opening Error</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-affordable-tablets-of-2024-expertly-evaluated-and-comprehensive-reviews-techradar/"><u>Top Affordable Tablets of 2024: Expertly Evaluated & Comprehensive Reviews | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-apple-gadgets-to-avoid-purchasing-in-month-spotlight-on-certain-iphone-models-tech-insight/"><u>Top Apple Gadgets to Avoid Purchasing in [Month] - Spotlight on Certain iPhone Models | Tech Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-gaming-tablets-of-2022-experience-ultimate-portable-playstation-power-techradar/"><u>Top Gaming Tablets of 2022: Experience Ultimate Portable PlayStation Power | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-for-ultimate-portable-gaming-best-slate-tablets-of-2022-features-reviews-and-more-techradar/"><u>Top Picks for Ultimate Portable Gaming: Best Slate Tablets of 2022 - Features, Reviews & More | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-kindle-devices-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Kindle Devices : Comprehensive Reviews by Tech Gurus - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-android-tablets-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Android Tablets : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/troubleshooting-obs-frame-loss/"><u>Troubleshooting OBS Frame Loss</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/visionary-film-techniques-top-15-cine-look-ups-empowering-action-cam-for-2024/"><u>Visionary Film Techniques Top 15 Cine Look-Ups Empowering Action Cam for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-performance-7-cameras-for-cutting-edge-vlogging-tech-for-2024/"><u>[New] High-Performance 7 Cameras For Cutting-Edge Vlogging Tech for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-5-book-trailers-that-will-captivate-you-for-2024/"><u>[Updated] Top 5 Book Trailers That Will Captivate You for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-15-video-processing-suites-for-gopro/"><u>2024 Approved Top 15 Video Processing Suites for GoPro</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-preventing-hell-let-loose-game-crashes-on-your-desktop-computer/"><u>Expert Tips for Preventing Hell Let Loose Game Crashes on Your Desktop Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-markets-finest-2022s-elite-selection-of-mouse-mats-by-zdnet/"><u>Exploring the Market's Finest: 2022'S Elite Selection of Mouse Mats by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hands-on-review-of-poly-sync-10-on-zdnet-promising-sound-quality-with-missing-crucial-features/"><u>Hands-On Review of Poly Sync 10 on ZDNet: Promising Sound Quality with Missing Crucial Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/optimizing-control-switch-pro-for-steam-gaming/"><u>Optimizing Control Switch Pro for Steam Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-innocn-27c1u-a-stunning-4k-display-with-fast-connection-time-insights-from-zdnet/"><u>Review of Innocn 27C1U: A Stunning 4K Display with Fast Connection Time - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cket-views-mastery-of-title-and-tag-optimization-for-2024/"><u>Skyrocket Views Mastery of Title and Tag Optimization for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-how-the-easy-to-use-anker-3d-printer-impressed-and-became-a-must-have-for-newbies-tech-insights/"><u>The Ultimate Guide: How the Easy-to-Use Anker 3D Printer Impressed & Became a Must-Have for Newbies | Tech Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211166420-9780760391327-the-wheel-of-the-year-companion/"><u>The Wheel of the Year Companion | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-workstation-laptops-analyzed-by-professionals-a-comprehensive-guide-zdnet/"><u>Top-Rated Graphics Workstation Laptops Analyzed by Professionals - A Comprehensive Guide | ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-problems-with-bloodhunt-end-stutters-and-crashes-for-smoother-gaming/"><u>Troubleshooting PC Problems with BloodHunt: End Stutters & Crashes for Smoother Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-20-savings-with-iscanner-limited-time-deal-now-live-on-zdnet/"><u>Unlock 20% Savings with iScanner: Limited-Time Deal Now Live on ZDNet!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-fast-track-to-voice-reduction-in-audacity/"><u>Updated The Fast Track to Voice Reduction in Audacity</u></a></li>
 </ul></div>
 

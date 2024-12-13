@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Security Keys - Industry Experts' Picks
-date: 2024-12-01T20:04:16.543Z
-updated: 2024-12-06T22:57:34.081Z
+date: 2024-12-09T19:44:13.995Z
+updated: 2024-12-12T20:47:49.954Z
 tags:
   - laptops
 categories:
@@ -24,11 +24,19 @@ Even if a cybercriminal has obtained your username and password or compromised y
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is the best security key right now?
 
 ZDNET's favorite security key is the [Yubico YubiKey 5 NFC](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FYubico-YubiKey-USB-Authentication-Security%2Fdp%2FB07HBD71HL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3dfb97d6-5889-4cfc-a760-9726b59d6fad%7Cdtp&dtb=1). It offers excellent security and convenience, making it a worthwhile investment for anyone looking to safeguard their online accounts. 
 
 ZDNET has tested many security keys throughout the years and frequently tracks market developments and changes. We often use security keys ourselves and lean upon our personal experience to shape our recommendations. Below, you will find our top picks for security keys today. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Best security keys of 2024
 
@@ -44,15 +52,7 @@ Cons
 * Expensive, especially if you need two
 * Technical knowledge may be required
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Yubico YubiKey 5 NFC
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best security key overall
 
@@ -82,10 +82,6 @@ Cons
 * Doesn't support macOS logins
 
 ## Thetis Fido U2F Security Key
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best security key for durability
 
@@ -141,6 +137,10 @@ Pros
 
 Cons 
 * Only supports FIDO protocols
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Yubico Security Key C NFC
 
@@ -199,15 +199,7 @@ Pros
 Cons 
 * No biometrics
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Google Titan security key
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The best multi-platform security key
 
@@ -223,6 +215,10 @@ Titan security keys are compatible with Google's Advanced Protection Program, a 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best security key?
 
 As testers of security keys over the years, we recommend the Yubico YubiKey 5 NFC as the best security key available on the market today. It offers unbeatable security and convenience, making it a worthwhile investment for anyone looking to safeguard their online accounts. However, if this one doesn't suit you, the key features of our other favorites are listed below.
@@ -237,6 +233,10 @@ As testers of security keys over the years, we recommend the Yubico YubiKey 5 NF
 | Google Titan security key           | $30   | USB-C, NFC, and Bluetooth | Yes         | Yes               | No official IP rating          | FIDO, Google Chrome services, various apps | Windows, macOS, Android, Google Chome compatible devices |
 
 Note: Prices and compatibility information may vary based on location and specific devices. This table is based on the information provided in the given descriptions and is subject to change.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's the right security key for you?
 
@@ -254,7 +254,7 @@ However, investing in a higher-end brand may be wise if you already use security
 | Google Titan security key           | An affordable, multi-platform key suitable for Chrome-supporting services, Android, and iOS apps that can store up to 250 passkeys.                              |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing a security key
@@ -268,6 +268,10 @@ Security keys are an investment in time and money and so it is best to select th
 * **Hardware**: You might need hardware that complies with particular standards or has specific ports for connecting to your devices, so check on your key's specifications prior to purchase.
 * **Price**: Choose a security key that matches your budget.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How were these security keys chosen?
 
 Extensive research has been conducted on every security key that is listed here across a wide range of devices and services. In some cases, this includes testing the keys on different operating systems, web browsers, and services to ensure they work smoothly and efficiently.
@@ -280,10 +284,6 @@ Our main criteria for selecting these security keys are:
 * **Durability**: As a physical device securing the keys to your digital kingdom, it is crucial that the products we recommend won't easily break. After all, they should be reliable enough to be a long-term security measure.
 * **Security features**: Naturally, the security features of a security key are paramount. We considered each device's support for different authentication protocols alongside security measures including passwordless authentication.
 * **Price point**: The cost of your next security key is an important factor to consider. As they are physical, we recommend that you pick up two, just in case one ends up lost. As a result, we wanted to ensure this was affordable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are security keys and how do they work?
 
@@ -299,13 +299,13 @@ Devices that are FIDO certified allow users to quickly sign into their accounts 
 
 SMS is open to SIM hijacking, while a physical key cannot be copied or the data intercepted. Think about it this way: 2FA verification codes sent via SMS messaging may be intercepted if your smartphone has been infected with malware, including spyware, but unless an attacker has your physical security key in their hand, they cannot grab the code required to access your account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How many security keys do I need?
 
 We recommend purchasing at least two -- one that you use day-to-day and one to keep as a backup. For example, you can keep one in your home office or attached to a keychain if you're on the road, while one is stashed safely away to cover you if you lose your primary key. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can security keys be hacked?
 
@@ -316,7 +316,7 @@ Security keys are one of the best authentication methods on the market today and
 In layman's terms, security keys use encryption and security tokens that only work on genuine websites rather than fake phishing domains. Public and private keys work together to authenticate a user session, but the private key is held on the physical device, reducing the attack surface. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative security keys worth considering?
@@ -367,20 +367,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-essential-offline-android-games-for-uninterrupted-fun/"><u>[New] 2024 Approved Essential Offline Android Games for Uninterrupted Fun</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unveiling-the-best-tools-to-download-your-favorite-fb-videos-on-firefox-updated/"><u>[New] 2024 Approved Unveiling the Best Tools to Download Your Favorite FB Videos on FireFox, Updated</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unbeatable-mac-video-grabber-options-listed/"><u>[New] Unbeatable Mac Video Grabber Options Listed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tunetrekker-venturing-past-dacast/"><u>[Updated] TuneTrekker Venturing Past DaCast</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unrestricted-gaming-beats-digital-download-for-2024/"><u>[Updated] Unrestricted Gaming Beats Digital Download for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dive-into-interactive-entertainment-with-these-amazing-games-in-chatgpt/"><u>Dive Into Interactive Entertainment with These Amazing Games in ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-critical-dll-errors-a-comprehensive-look-at-msxml4dll-issues/"><u>Fixing Critical DLL Errors: A Comprehensive Look at Msxml4.dll Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fly-smart-save-big-with-a-zdnet-sponsored-subscription-to-dollar-flight-club-for-lifetime-access-to-reduced-fares/"><u>Fly Smart, Save Big with a ZDNet-Sponsored Subscription to Dollar Flight Club for Lifetime Access to Reduced Fares</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/free-drone-delivery-of-prescriptions-now-available-from-amazon-a-revolutionary-step-in-online-shopping-techcrunch/"><u>Free Drone Delivery of Prescriptions Now Available From Amazon: A Revolutionary Step in Online Shopping | TechCrunch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-your-first-electrifying-tesla-journey-today-using-ubers-cozy-electric-service-explore-more-at-zdnet/"><u>Get Your First Electrifying Tesla Journey Today Using Uber's Cozy Electric Service | Explore More at ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-does-the-new-service-enable-uber-to-deliver-your-shipments-via-ups-fedex-and-usps/"><u>How Does the New Service Enable Uber to Deliver Your Shipments via UPS, FedEx & USPS?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-southwest-airlines-is-adding-a-fun-twist-for-passengers-surprise-or-giggle/"><u>How Southwest Airlines Is Adding a Fun Twist for Passengers - Surprise or Giggle?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-uber-facilitates-package-delivery-with-ups-fedex-and-usps-insights-into-the-process/"><u>How Uber Facilitates Package Delivery with UPS, FedEx & USPS: Insights Into the Process</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/lossless-dvd-ripping-how-to-convert-your-dvds-with-perfect-quality-retention/"><u>Lossless DVD Ripping - How To Convert Your DVDs with Perfect Quality Retention</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-directing-content-destination-from-imovie-files-to-youtube-platform-for-2024/"><u>[New] Directing Content Destination From iMovie Files To YouTube Platform for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transform-the-virtual-arena-engage-with-ease-during-live-streaming-for-2024/"><u>[Updated] Transform the Virtual Arena Engage with Ease During Live Streaming for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pro-video-enthusiasts-essential-laptop-models-you-need/"><u>2024 Approved Pro Video Enthusiasts Essential Laptop Models You Need</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decision-time-which-mac-desktop-fits-your-needs-best-mini-studio-imac-or-pro-insights/"><u>Decision Time: Which Mac Desktop Fits Your Needs Best – Mini, Studio, iMac, or Pro Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-advancements-in-affordable-tech-the-power-and-potential-of-raspberry-pi-zero-s-upgraded-processor-zdnet-review/"><u>Exploring the Latest Advancements in Affordable Tech: The Power and Potential of Raspberry Pi Zero Ⅱ's Upgraded Processor | ZDNET Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-bing-your-go-to-microsoft-search-platform/"><u>Exploring the World of Bing - Your Go-To Microsoft Search Platform</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-choose-the-best-free-introduction-maker-for-2024/"><u>How to Choose the Best Free Introduction Maker for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-14-plus-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 14 Plus Smoothly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-reversing-time-retracing-your-steps-for-lost-snaps/"><u>In 2024, Reversing Time Retracing Your Steps for Lost Snaps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-windows-11-microsofts-controversial-release-or-a-step-forward-exploring-public-sentiment-and-features/"><u>Is Windows 11 Microsoft's Controversial Release or a Step Forward?: Exploring Public Sentiment and Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/out-of-room-on-your-computer-here-are-3-effective-ways-to-increase-storage-zdnet/"><u>Out of Room on Your Computer? Here Are 3 Effective Ways to Increase Storage | ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/quick-methods-to-retrieve-lost-publisher-files-a-step-by-step-guide/"><u>Quick Methods to Retrieve Lost Publisher Files: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-microsoft-exploring-the-comprehensive-cloud-advertising-and-device-integration-plan/"><u>The Future of Microsoft: Exploring the Comprehensive Cloud, Advertising, and Device Integration Plan</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tpm-explained-how-it-affects-your-upgrade-to-windows-11-digital-gearbox/"><u>TPM Explained: How It Affects Your Upgrade to Windows 11 | Digital Gearbox</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-assembling-your-dream-gaming-rig-with-nvidias-rtx-3080-tips-from-zdnet/"><u>Ultimate Guide: Assembling Your Dream Gaming Rig with NVIDIA's RTX 3080 - Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/where-to-get-your-hands-on-the-latest-raspberry-pi-model-plus-best-alternatives-revealed-zdnet/"><u>Where to Get Your Hands on the Latest Raspberry Pi Model + Best Alternatives Revealed | ZDNet</u></a></li>
 </ul></div>
 
