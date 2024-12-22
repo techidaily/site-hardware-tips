@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look: The Revolutionary 12-Port Thunderbolt Dock Boasting an Exceptional Power Feature for Windows Enthusiasts | TechRadar"
-date: 2024-12-07T18:36:42.753Z
-updated: 2024-12-12T16:14:42.529Z
+date: 2024-12-18T21:56:37.347Z
+updated: 2024-12-22T10:16:30.629Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cde8d55d1-86d7-400d-9731-1d1296ca9684%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,21 +149,20 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-apps-and-programs-for-image-video-integration/"><u>[New] Best Apps and Programs for Image Video Integration</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-ppt-recording-essential-tips/"><u>[New] In 2024, Mastering PPT Recording Essential Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transforming-your-video-content-making-square-format-footage-for-instagram/"><u>[Updated] In 2024, Transforming Your Video Content Making Square-Format Footage for Instagram</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-exploring-the-dynamics-of-fb-video-speeds/"><u>2024 Approved Exploring the Dynamics of FB Video Speeds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-lenovo-laptops-ideal-for-remote-and-office-based-professionals-save-up-to-1k/"><u>Affordable Lenovo Laptops Ideal for Remote and Office-Based Professionals - Save Up To $1K</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-concealed-secrets-of-this-lightweight-lenovo-notebooks-trackpoint-and-more-techinsights/"><u>Discover the Concealed Secrets of This Lightweight Lenovo Notebook's TrackPoint & More | TechInsights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-convenience-how-the-buzzworthy-no-knot-usb-c-cord-transformed-into-a-must-have-for-my-journeys-insights/"><u>Discovering Convenience: How the Buzzworthy No-Knot USB-C Cord Transformed Into a Must-Have for My Journeys - Insights</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ssing-the-power-of-visual-appeal-in-your-youtube-advertising-for-2024/"><u>Harnessing the Power of Visual Appeal in Your YouTube Advertising for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-scrutinizing-active-presenters-record-quality/"><u>In 2024, Scrutinizing Active Presenter's Record Quality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-prime-gaming-deals-of-2024-save-big-now-before-theyre-gone-huge-discounts-up-to-1k-zdnet-exclusive/"><u>October Prime Gaming Deals of 2024: Save Big Now Before They're Gone! Huge Discounts up to $1K | ZDNET Exclusive</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/protect-your-health-comprehensive-tips-on-cleaning-and-sanitizing-airpods-why-its-crucial/"><u>Protect Your Health: Comprehensive Tips on Cleaning and Sanitizing AirPods - Why It's Crucial!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/refining-zoom-image-precision-proactive-measures/"><u>Refining Zoom Image Precision Proactive Measures</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-play-40c-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor Play 40C</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-zdnets-1-choice-for-immersive-gaming-speakers-slashed-to-150-off-find-out-why-at-amazon/"><u>Score Big Savings! ZDNet's #1 Choice for Immersive Gaming Speakers Slashed to $150 Off - Find Out Why at Amazon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tablet-or-laptop-showdown-in-depth-review-of-the-ipad-pro-vs-macbook-air-to-find-your-ideal-device/"><u>Tablet or Laptop Showdown: In-Depth Review of the iPad Pro vs MacBook Air to Find Your Ideal Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-49-unbeatable-newegg-christmas-savings-and-promotions-of-2023-find-your-bargains/"><u>Top 49 Unbeatable Newegg Christmas Savings & Promotions of 2023 - Find Your Bargains</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-direct-pathway-streamlined-capturing-techniques-dell/"><u>[New] 2024 Approved Direct Pathway Streamlined Capturing Techniques (Dell)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-az-capture-extraordinaire-thorough-app-reviews-for-2024/"><u>[New] AZ Capture Extraordinaire Thorough App Reviews for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-premier-hashtag-analysis-apps-on-popular-platforms-like-fb-twt-and-ig/"><u>[Updated] Premier Hashtag Analysis Apps on Popular Platforms Like FB, Twt & IG</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-troubleshooting-techniques-for-correcting-oculus-gear-issues-in-the-new-year/"><u>DIY Troubleshooting Techniques for Correcting Oculus Gear Issues in the New Year</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-errcachemiss-hurdle-in-your-chrome-web-browser/"><u>How to Overcome the ERR_CACHE_MISS Hurdle in Your Chrome Web Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-troubleshoot-and-correct-coredll-not-found-problems-in-windows/"><u>How To Troubleshoot and Correct Core.dll Not Found Problems in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-the-absence-of-x3daudiodll-on-your-pc/"><u>Step-by-Step Guide: Correcting the Absence of X3DAudio.dll on Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-power-of-adventure-thrilling-rides-on-a-high-performance-electric-bike/"><u>Unleashing the Power of Adventure: Thrilling Rides on a High-Performance Electric Bike</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-savings-hotel-discounts-and-more-with-our-travel-buyers-club-offer-insights-from-zdnet/"><u>Unlock Exclusive Savings: Hotel Discounts & More With Our Travel Buyers Club Offer - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-savings-get-300-off-the-atomi-alpha-electric-scooter-now-dont-miss-out-learn-how-at-zdnet/"><u>Unlock Savings: Get $300 Off the Atomi Alpha Electric Scooter Now! Don’t Miss Out – Learn How at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unsettling-recommendation-by-american-airlines-crews-that-may-alter-passengers-in-flight-journey-analysis-and-discussion-on-zdnet/"><u>Unsettling Recommendation by American Airlines Crews That May Alter Passenger's In-Flight Journey | Analysis & Discussion on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-lincolns-spectacular-insights-into-self-driving-cars-with-zdnet-a-deep-dive/"><u>Unveiling Lincoln's Spectacular Insights Into Self-Driving Cars with ZDNet - A Deep Dive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/velotrics-discover-electric-bike-unveiled-user-friendly-competitively-priced-ride-gadgetcentral/"><u>Velotric's Discover Electric Bike Unveiled: User-Friendly, Competitively Priced Ride | GadgetCentral</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-did-delta-alienate-its-core-audience-insights-from-zdnet/"><u>Why Did Delta Alienate Its Core Audience? Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209841278-9788460679677-your-magnificent-self-a-journey-to-freedom/"><u>Your Magnificent Self... A Journey to Freedom | Free Book</u></a></li>
 </ul></div>
 

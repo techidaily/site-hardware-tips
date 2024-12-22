@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Features & Benefits of Onyx Boox Note Air3: A Comprehensive Color E-Reader Review"
-date: 2024-09-18T22:08:56.373Z
-updated: 2024-09-21T23:03:14.311Z
+date: 2024-12-14T21:09:47.842Z
+updated: 2024-12-22T04:30:09.386Z
 tags:
   - hardware
 categories:
@@ -105,6 +105,10 @@ Expand
 
 ![Close up of the Boox Note Air3 C magnetic pen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/close-up-of-the-boox-note-air3-c-magnetic-pen_53567676880_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  For any tablet or eReader, form is almost as important as function. You want a tablet to feel comfortable in your hand and easily portable, no matter if you're traveling or making a quick trip to a coffee shop. I was pleased with the heft of the Boox Note Air3 C, which feels solid enough to take some accidental spills without being overtly clunky. Its weight is just 15.2 ounces (minus the cover and digital stylus), which means storing it in my purse or backpack never felt uncomfortably heavy for me. It also has a slim profile of just 0.23 inches, so it easily slid into zippered pockets like any notebook wood.
@@ -119,6 +123,10 @@ Close
 
 ![Settings page open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/settings-page-open-on-the-boox-note-air3-c_53567555564_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  With an Android 12 operating system, this tablet offers the best of both worlds. It makes an excellent alternative to a Kindle or Nook, for example, if you're looking for something with extra features. However, because I found one of the best features to be ebook annotation and the notebook capabilities of the Boox Air3 C, I would compare it more readily to the [Amazon Kindle Scribe](https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-f54-5g-phone-by-drfone-android/).
@@ -130,13 +138,6 @@ Jerome Thomas / How-To Geek
  My main gripe with the Boox Note AirC was its slowness. Although ghosting wasn't distracting, it did get in the way of my note-taking on some occasions when I would erase a good chunk of handwritten text. Mainly, the transitional time it took to switch between pages or load a new notebook was (even in "Fast" mode) a bit too slow. If you're used to eReaders, this may be something you're accustomed to. If you expect a speedier tablet-like experience, though, I'd curb your expectations.
 
  Meanwhile, one of the pros of the Note Air3 C was its storage. The 64GB of space was plenty of space to import documents, download ebooks, and maintain a healthy library of files at my fingertips, and I appreciated that Onyx included a microSD slot for memory expansion.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Notebook Mode: Annotation and Digital Scribing
 
@@ -156,6 +157,10 @@ Jerome Thomas / How-To Geek
 
 ![The text recognition on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-text-recognition-on-the-boox-note-air3-c_53567432338_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  And exporting my notepads (or single pages) was a game-changer, since I could convert them to PDFs and send them to my computer or Google Drive. I also synced a notebook to the Kindle app (which I downloaded via Google Play) and used Quick Share and Bluetooth to transfer files from the device.
@@ -164,16 +169,13 @@ Jerome Thomas / How-To Geek
 
  But I digress. The speaker system's sound was not only quiet (even at full volume), but it also sounded quite compressed. The volume was unsatisfying for me. I chose, instead, to listen to those recordings via my Bluetooth headphones, which was far easier than craning to hear the low-volume speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Reading With The Boox Note Air3 C
 
 ![A book open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/a-book-open-on-the-boox-note-air3-c_53567676895_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -183,18 +185,15 @@ Jerome Thomas / How-To Geek
 
 ![The book store on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-book-store-on-the-boox-note-air3-c_53567234536_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Despite the low stock in the Boox Book Store, I downloaded other eReader apps through the Google Play App, including the Kindle app and Play Books, plus Audible for audiobook listening. All of these apps performed well on the Note Air3 C, whether I was reading H.G. Wells' "The Invisible Man" via Play Books, looking for recipes in one of my cookbook ebooks on Kindle, or listening to one of my in-progress audiobooks. As noted before, however, audiobook listening (or any listening) works best on the Note Air3 C if you use [wireless earbuds](https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-xs-max-5-ways-to-get-into-a-locked-apple-iphone-xs-max-by-drfone-ios/) or a pair of wired earbuds plugged into the USB-C port—otherwise, the speaker system is too low and squashy.
 
  Perhaps the most useful feature for reading, especially for students or avid annotators, was the ability to highlight passages, add annotations, and write on the ebook. I did so as I pleased, but some features weren't compatible with the Kindle app (specifically, writing on ebooks). All features seemed to work on other ebooks through Play Books, and anything through the Boox Book Store.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Good Battery Life, Standard Charging
 
@@ -206,13 +205,6 @@ Jerome Thomas / How-To Geek
 
  The charging time was not long. On average, the battery gained about 0.34% per minute, or 20% per hour. Consistently, it took about 3 to 4 hours to charge.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Buy the Boox Air3 C Tablet?
 
  The [Onyx Boox Note Air3 C](https://www.amazon.com/BOOX-Tablet-Note-Air-ePaper/dp/B0CHF423CP/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002777&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fonyx-boox-note-air3-c-review%2F&asc%5Fcampaign=Authority) is one of the most interesting options for someone who wants an eReader that allows for note-taking, importing and exporting notebooks and files, and annotating ebooks. With other helpful features, like a built-in recorder tool, a colorful display, and a lightweight, sturdy build, it makes a brilliant work companion for students and professionals who need to keep track of passages in books or create notes that stay in one place.
@@ -222,6 +214,10 @@ Jerome Thomas / How-To Geek
 ![The Onyx Boox Note Air3 C tablet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1_0ced3fc3-c566-4ea8-a731-d3ce83eef481.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Onyx Boox Note Air3 C 
 
@@ -244,5 +240,16 @@ The Onyx Boox Note Air3 C features a 10.3-inch display with a gorgeous blend of 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-secure-seamless-youtube-watching-across-devices-and-browsers/"><u>[New] In 2024, Secure Seamless YouTube Watching Across Devices and Browsers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-optimize-your-social-media-presence-with-mobile-based-live-videos/"><u>[Updated] 2024 Approved Optimize Your Social Media Presence with Mobile-Based Live Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-cost-effective-brilliance-why-this-android-tablet-stands-out-zdnet-review/"><u>Discovering Cost-Effective Brilliance: Why This Android Tablet Stands Out (ZDNet Review)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-ideal-ipad-options-for-digital-sketching-as-recommended-by-zdnet/"><u>Expert Picks: Ideal iPad Options for Digital Sketching as Recommended by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-the-ultimate-list-of-ipad-display-guards-cnet/"><u>Expert Picks: The Ultimate List of iPad Display Guards | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-an-amazing-android-tablet-took-over-my-kindle-and-ipad-uncover-the-story-at-zdnet/"><u>How an Amazing Android Tablet Took Over My Kindle and iPad - Uncover the Story at ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Google Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mettete-aiff-in-formato-aac-gratuitamente-online-guida-completa-di-movavi/"><u>Mettete AIFF in Formato AAC Gratuitamente Online - Guida Completa Di Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/schritt-fur-schritt-anleitung-zum-hochladen-einer-dvd-ins-itunes-mediathek/"><u>Schritt-Für-Schritt-Anleitung Zum Hochladen Einer DVD Ins iTunes Mediathek</u></a></li>
+</ul></div>
 

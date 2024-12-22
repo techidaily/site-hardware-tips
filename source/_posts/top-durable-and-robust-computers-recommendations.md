@@ -1,7 +1,7 @@
 ---
 title: Top Durable and Robust Computers - Recommendations
-date: 2024-12-09T00:32:22.331Z
-updated: 2024-12-12T17:21:18.940Z
+date: 2024-12-17T18:03:29.197Z
+updated: 2024-12-21T18:18:50.756Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ You can even find rugged laptops with enterprise-level security software, which 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best rugged laptop right now?
@@ -46,7 +46,15 @@ Cons
 * Very expensive
 * Not consumer grade
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getac S510
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best rugged laptop overall
 
@@ -73,11 +81,11 @@ Cons
 * Very expensive
 * No AMD option
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Panasonic ToughBook 40 Mk2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best rugged laptop for battery life
 
@@ -105,14 +113,10 @@ Cons
 * Can't upgrade RAM or storage
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Chromebook Spin 512
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best rugged laptop for students
 
@@ -139,10 +143,6 @@ Cons
 * Dual screen takes time to acclimate
 * Short battery life
 * On the heavy side
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Asus ZenBook Pro Duo 15 OLED
 
@@ -224,10 +224,6 @@ Laptop manufacturers helpfully label these systems as "semi-rugged" or "rugged,"
 
 The rugged laptops listed here are from major manufacturers in the space (Dell, Panasonic, Getac), including some with which ZDNET staff have had hands-on experience. For more on how we test laptops, check out our comprehensive [laptop testing methodology](https://www.zdnet.com/article/how-we-test-laptops/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does "rugged laptop" mean?
 
 A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that is built specifically to handle extreme situations and weather conditions. Many rugged laptops are water- and dirt-resistant, resistant to drops and shocks, and can operate in both very hot and very cold temperatures. 
@@ -235,7 +231,7 @@ A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that i
 These kinds of laptops are great for anyone who has to work outdoors for any length of time, such as people at construction sites, on geological surveys, and in the military.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does "military grade" mean?
@@ -268,6 +264,10 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getac B360
 
 I got the chance to test out the Getac B360 and saw first-hand just how tough it really is. Weighing in at a hefty 5.1 pounds, it's both MIL-STD-810H and MIL-STD-416G certified for shock and moisture resistance and can be customized for salt fog and Class I electrical hazard certification. 
@@ -281,7 +281,7 @@ Show less
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Panasonic Toughbook 55
@@ -330,24 +330,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-passive-to-active-a-3-step-framework-to-evaluate-your-youtube-financials-for-2024/"><u>[Updated] From Passive to Active A 3-Step Framework to Evaluate Your YouTube Financials for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-healing-power-of-asmr-explained-here/"><u>[Updated] The Healing Power of ASMR Explained Here</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-top-10-dynamic-picture-background-switchers/"><u>2024 Approved Explore Top 10 Dynamic Picture-Background Switchers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-premium-laptop-risers-expert-picks-by-zdnet/"><u>2024'S Ultimate Guide to Premium Laptop Risers: Expert Picks by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hybrid-professionals-discover-the-top-rated-lenovo-notebook-with-a-1000-discount-insights-from-zdnet/"><u>Hybrid Professionals: Discover the Top-Rated Lenovo Notebook with a $1,000 Discount - Insights From ZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-collection-of-sandbox-games/"><u>In 2024, The Ultimate Collection of Sandbox Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-list-of-top-5-videographer-software/"><u>In 2024, Ultimate List of Top 5 Videographer Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/metas-quest-3-innovative-october-prime-deal-at-an-all-time-low-get-your-512gb-unit-now-exclusive-insights-and-tips/"><u>Meta's Quest 3 Innovative October Prime Deal at an All-Time Low: Get Your 512GB Unit Now! Exclusive Insights and Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/my-one-month-journey-using-the-dell-xps-15-instead-of-a-macbook-an-unexpectedly-pleasant-experience-zdnet/"><u>My One-Month Journey Using the Dell XPS 15 Instead of a MacBook: An Unexpectedly Pleasant Experience | ZDNET</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-convert-and-download-4k-videos-in-mp4-format-a-beginners-guide-for-2024/"><u>New Convert and Download 4K Videos in MP4 Format A Beginners Guide for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-generation-gpt-will-we-see-a-gpt-5-soon-forecasting-its-release-window/"><u>Next Generation GPT: Will We See a GPT-5 Soon? Forecasting Its Release Window</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/section-2c-increasingly-complex-questions/"><u>Section 2C: Increasingly Complex Questions</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-samsung-galaxy-s24-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Samsung Galaxy S24 without backup.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-webcams-comprehensive-tests-and-reviews-by-tech-experts-digital-trends/"><u>Top Rated Streaming Webcams : Comprehensive Tests & Reviews by Tech Experts | Digital Trends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-processors-for-gamers-insights/"><u>Top-Ranking Processors for Gamers - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-household-routines-a-guide-to-6-productive-applications-for-chatgpt/"><u>Transforming Household Routines: A Guide to 6 Productive Applications for ChatGPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-secure-a-top-tier-acer-gaming-laptop-from-over-650-on-zdnets-preferred-retailer-newegg/"><u>Unbeatable Bargain Alert! Secure a Top-Tier Acer Gaming Laptop From Over $650 on ZDNET's Preferred Retailer, Newegg</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-save-300-on-the-asus-vivobook-pro-now-available-at-amazon-exclusive-offer-from-zdnet/"><u>Unbeatable Deal: Save $300 on the Asus VivoBook Pro Now Available at Amazon - Exclusive Offer From ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-25-essential-hashtags-for-increased-instagram-engagement-for-2024/"><u>[New] 25 Essential Hashtags for Increased Instagram Engagement for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-expert-advice-on-constructing-clear-concise-image-previews/"><u>[New] Expert Advice on Constructing Clear, Concise Image Previews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-quick-and-easy-skype-calls-to-mp3-files-free-for-2024/"><u>[New] Quick & Easy Skype Calls to MP3 Files (Free) for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-screencapturepro-review-expert-insights-and-comparisons-for-2024/"><u>[New] ScreenCapturePro Review Expert Insights and Comparisons for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/shattering-expectations-a-deep-dive-into-the-best-non-sony-non-bose-immersive-soundbar-revealed-tech-review/"><u>Shattering Expectations: A Deep Dive Into the Best Non-Sony, Non-Bose Immersive Soundbar Revealed | Tech Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-first-stanza-must-incorporate-the-exact-phrase-reconstruct-high-quality-images-from-low-resolution-ones/"><u>The First Stanza Must Incorporate the Exact Phrase Reconstruct High-Quality Images From Low-Resolution Ones.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-60-unbeatable-labor-day-tv-bargains-of-2024-find-the-hottest-offers-on-zdnet/"><u>Top 60 Unbeatable Labor Day TV Bargains of 2024 - Find the Hottest Offers on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-7-ultimate-television-pedestals-expert-reviews-by-zdnet/"><u>Top 7 Ultimate Television Pedestals - Expert Reviews by ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Find the Perfect Laptop at Unbeatable Prices During Oct '24 Prime Day Deals | Expert Picks and Tips | ZDNET
-date: 2024-12-06T00:46:13.020Z
-updated: 2024-12-12T18:18:35.922Z
+date: 2024-12-18T22:57:40.045Z
+updated: 2024-12-22T02:49:36.179Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,21 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-gamers-guide-to-high-quality-in-game-broadcasts/"><u>[New] 2024 Approved Gamers' Guide to High-Quality In-Game Broadcasts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-navigating-the-path-stream-your-google-meet-chats-to-youtube/"><u>[New] 2024 Approved Navigating the Path Stream Your Google Meet Chats to YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-camstudio-live-streaming-and-screen-capturing-review-for-2024/"><u>[New] CamStudio Live Streaming & Screen Capturing Review for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ai-boost-for-apple-macbooks-and-desktops-on-the-horizon-with-new-m4-chips-release-timeline-uncovered-tech-news-digest/"><u>AI Boost for Apple MacBooks and Desktops on the Horizon with New M4 Chips; Release Timeline Uncovered | Tech News Digest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-surprising-capabilities-for-designers-in-this-compact-asus-notebook-exclusive-features-revealed-on-zdnet/"><u>Discover the Surprising Capabilities for Designers in This Compact Asus Notebook | Exclusive Features Revealed on ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-critical-system-failsures-a-deep-dive-into-ntldr-error-troubleshooting/"><u>Fixing Critical System Failsures: A Deep Dive Into NTLDR Error Troubleshooting</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-metas-exceptional-512gb-quest-3-offer-top-virtual-reality-bargain-today/"><u>Get Meta's Exceptional 512GB Quest 3 Offer - Top Virtual Reality Bargain Today !</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-logitech-g920-ready-free-drivers-for-windows-versions-including-11-and-10/"><u>Get Your Logitech G920 Ready - Free Drivers for Windows Versions Including 11 and 10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-15-ways-to-make-most-of-your-podcast-time/"><u>In 2024, 15 Ways to Make Most of Your Podcast Time</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/redefining-durability-microsofts-new-lineup-outshines-competitors-in-repairability-ifixit-and-apple-on-alert-zdnet/"><u>Redefining Durability: Microsoft's New Lineup Outshines Competitors in Repairability - iFixit & Apple on Alert | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/strategies-for-leveraging-big-data-in-crisis-management-scenarios-to-maintain-brand-equity-during-challenging-times/"><u>Strategies for Leveraging Big Data in Crisis Management Scenarios to Maintain Brand Equity During Challenging Times.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-lenovo-notebooks-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Lenovo Notebooks : Comprehensive Analysis by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-peak-performance-while-working-from-home-with-hps-copilotplus-laptop-proven-results-by-zdnet/"><u>Unlocking Peak Performance While Working From Home with HP's Copilot+ Laptop | Proven Results by ZDNET</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-system-with-intel-hd520-driver/"><u>Update System with Intel HD520 Driver</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/user-reviews-and-insights-on-mapmyride-platform/"><u>User Reviews & Insights on MapMyRide Platform</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209762183-9781632658081-witchs-master-grimoire/"><u>Witch's Master Grimoire | Free Book</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-perfect-your-visuals-on-insta-with-these-borders/"><u>[New] In 2024, Perfect Your Visuals on Insta with These Borders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-10-enterprise-cloud-options/"><u>[New] Top 10 Enterprise Cloud Options</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-opening-doors-creating-an-account-on-youtube/"><u>[Updated] In 2024, Opening Doors Creating an Account on YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevating-your-teaching-toolkit-how-to-craft-exceptional-videos-for-learning/"><u>2024 Approved Elevating Your Teaching Toolkit How to Craft Exceptional Videos for Learning</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-video-editing-simplified-the-best-hacks-for-new-creators/"><u>2024 Approved Video Editing Simplified The Best Hacks for New Creators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-8-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 8 Plus Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/baidus-leap-into-the-future-with-launch-of-driverless-taxi-programme-across-two-major-cities-in-china-insights-from-zdnet/"><u>Baidu's Leap Into the Future with Launch of Driverless Taxi Programme Across Two Major Cities in China | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-2023-highlights-exclusive-updates-from-htc-and-google-revealed-on-day-3-plus-leading-tech-news-covered/"><u>CES 2023 Highlights: Exclusive Updates From HTC & Google Revealed on Day 3 + Leading Tech News Covered</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/charge-comfort-2-electric-bike-a-compact-and-seamless-urban-transport-solution-zdnet/"><u>Charge Comfort 2 Electric Bike: A Compact and Seamless Urban Transport Solution - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chinas-cutting-edge-sky-train-with-magnetic-levitation-and-artificial-intelligence-redefines-urban-mobility-zdnet/"><u>China's Cutting-Edge Sky Train with Magnetic Levitation and Artificial Intelligence Redefines Urban Mobility | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delta-airlines-reveals-disturbing-confession-that-could-annoy-passengers-insights-from-zdnet/"><u>Delta Airlines Reveals Disturbing Confession That Could Annoy Passengers - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deltas-new-policy-staff-equated-with-ordinary-flyers-sparking-workforce-unhappiness-insights-from-zdnet/"><u>Delta's New Policy: Staff Equated with Ordinary Flyers, Sparking Workforce Unhappiness - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-phantom-slow-motion-masterclass/"><u>In 2024, Phantom Slow Motion Masterclass</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-error-code-0xc00ce556/"><u>Navigating Windows Error Code: 0XC00CE556</u></a></li>
 </ul></div>
 

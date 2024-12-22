@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power Play: Top 5 New AI Capabilities Debuted by Google on Chromebooks, Shifting Gears From Copilot"
-date: 2024-12-08T00:16:24.674Z
-updated: 2024-12-12T16:53:50.025Z
+date: 2024-12-14T20:30:32.629Z
+updated: 2024-12-21T17:34:12.850Z
 tags:
   - laptops
 categories:
@@ -60,7 +60,7 @@ While the webcam houses most of the AI features, there is one AI-enabled feature
 I recommend using the Magic Eraser on small stuff in pictures. When you use the feature for objects that take up a large amount of space in photographs, the after-effect can make the image look warped. So, while the tool is good, it's no substitute for Adobe Photoshop. Besides Magic Eraser, Chromebook Plus models now have the nifty File Sync feature, which keeps a copy of Google Drive files on your computer at all times. It's a handy tool that I got a lot of use out of when I was outside away from a Wi-Fi connection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -103,18 +103,16 @@ It does appear there may be a third model down the line. Asus' official product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-mastering-spotifys-marketplace-for-ultimate-ad-success/"><u>[New] 2024 Approved Mastering Spotify's Marketplace for Ultimate Ad Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-engineering-eye-catching-film-openings/"><u>[New] In 2024, Engineering Eye-Catching Film Openings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-asmrists-praised-by-insomniacs/"><u>2024 Approved Expert ASMRists Praised by Insomniacs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-alternative-to-macbook-air-best-windows-laptops-of-2nce-available-at-a-bargain-exclusive-insights/"><u>Affordable Alternative to MacBook Air: Best Windows Laptops of 2Nce Available at a Bargain - Exclusive Insights !</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-ai-9-hx-370-inside-the-new-asus-zenbook-s16-gaming-and-productivity-performance-evaluated/"><u>AMD Ryzen AI 9 HX 370 Inside the New Asus Zenbook S16 - Gaming and Productivity Performance Evaluated</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chilly-prospects-in-the-pc-industry-may-bring-warm-deals-for-consumers-insights-from-zdnet/"><u>Chilly Prospects in the PC Industry May Bring Warm Deals for Consumers – Insights From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-nord-3-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-discount-save-nearly-300-on-the-latest-msi-gaming-monitor-from-newegg-featured-in-zdnet/"><u>Massive Discount: Save Nearly $300 on the Latest MSI Gaming Monitor From Newegg, Featured in ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-steam-and-xbox-hurdles-getting-starfield-game-to-start-smoothly/"><u>Overcoming Steam and Xbox Hurdles - Getting Starfield Game to Start Smoothly</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2198319-9781501135743-the-past-life-perspective/"><u>The Past Life Perspective | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tiny-yet-mighty-desk-gadget-converts-notebooks-to-full-fledged-pc-stations-cnet-news/"><u>Tiny Yet Mighty Desk Gadget Converts Notebooks to Full-Fledged PC Stations | CNet News</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-standby-issues-top-four-fixes-you-need/"><u>Troubleshoot iPhone Standby Issues: Top Four Fixes You Need</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-autofocus-on-iphone-a-step-by-step-approach/"><u>[New] Mastering Autofocus on iPhone A Step-by-Step Approach</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfect-360-videography-streaming-tips-for-youtube/"><u>2024 Approved Perfect 360 Videography Streaming Tips for YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-windows-11-update-problem-a-comprehensive-guide-to-fix-error-0x8024034/"><u>Addressing Windows 11 Update Problem: A Comprehensive Guide to Fix Error 0X80240#34</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-8-youtube-rankers-for-content-optimization-revealed/"><u>In 2024, Top 8 YouTube Rankers for Content Optimization Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-pertanyaan-model-model-terpopuler-dan-jumlah-waktu-menunggu-sebelum-dapatinya-pandangan-zdnet/"><u>IPhone Pertanyaan! Model-Model Terpopuler Dan Jumlah Waktu Menunggu Sebelum Dapatinya - Pandangan ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamp-your-viewing-experience-by-tweaking-these-5-tv-settings-enhanced-clarity-awaitsvideo/"><u>Revamp Your Viewing Experience by Tweaking These 5 TV Settings - Enhanced Clarity Awaits![Video]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-the-exclusive-amazon-offer-buy-fire-tv-omni-series-qled-now-at-a-staggering-150-discount-highlighted-by-zdnet/"><u>Score the Exclusive Amazon Offer: Buy Fire TV Omni Series QLED Now at a Staggering $150 Discount, Highlighted by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-is-bright-on-screen-exploring-the-unprecedented-clarity-of-samsungs-newest-8k-tv-tech-insights-by-zdnet/"><u>The Future Is Bright on Screen: Exploring the Unprecedented Clarity of Samsung's Newest 8K TV | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-living-discounts-on-tv-exclusive-offers-over-55-for-labor-day-weekend-september-24-comprehensive-guide-by-zdnet/"><u>Top Living Discounts on TV: Exclusive Offers Over 55 for Labor Day Weekend, September '24 - Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-x100-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo X100 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Cyber Week Blowout: Snag Your Microsoft Surface Pro"
-date: 2024-12-05T18:23:11.911Z
-updated: 2024-12-12T17:54:36.194Z
+date: 2024-12-15T10:33:03.631Z
+updated: 2024-12-22T07:12:12.937Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb333cb2-55bd-4be8-b483-37eb33b9452e%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,18 +125,19 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-windows-for-videographers-hdr-insights-for-2024/"><u>[Updated] Windows for Videographers HDR Insights for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-exclusive-top-ranked-laptops-from-zdnet-now-available-with-a-staggering-500-discount-before-the-upcoming-prime-day/"><u>Amazon Exclusive: Top-Ranked Laptops From ZDNet Now Available with a Staggering $500 Discount Before the Upcoming Prime Day</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/handbrake-2024-windows-and-mac/"><u>HandBrake 日本語対応バージョン 2024年ダウンロード・インストールガイド: Windows & Mac</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y27-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y27 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/492962-9781439123850-leaving-the-body/"><u>Leaving the Body | Free Book</u></a></li>
-<li><a href="https://fox-links.techidaily.com/tailor-your-tweets-exceptional-video-to-twitch-tools-for-2024/"><u>Tailor Your Tweets Exceptional Video to Twitch Tools for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-dual-function-device-with-hidden-workplace-perk-tested-insider-review/"><u>Top Recommended Dual-Function Device with Hidden Workplace Perk Tested - Insider Review</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ranscription-services-for-video-content/"><u>Top Transcription Services for Video Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-demand-why-consumers-choose-damaged-macbook-pro-screens-insights-from-zdnet/"><u>Understanding the Demand: Why Consumers Choose Damaged MacBook Pro Screens - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-alienwares-m18-exclusive-post-labor-day-discounts-await-on-this-incredible-gaming-machine/"><u>Unleash the Power of Alienware's M18: Exclusive Post-Labor Day Discounts Await on This Incredible Gaming Machine</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-your-laptops-hidden-potential-the-overlooked-peripheral-that-boosts-performance-like-never-before-zdnet/"><u>Unlocking Your Laptop's Hidden Potential: The Overlooked Peripheral That Boosts Performance Like Never Before | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-essential-guide-to-the-greatest-prime-day-bargains-of-october-2024-exclusive-deals-on-tech-zdnet/"><u>Your Essential Guide to the Greatest Prime Day Bargains of October 2024 - Exclusive Deals on Tech | ZDNET</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-free-secure-stylish-discover-the-top-10-premium-feeling-video-call-apps-for-smartphones-for-2024/"><u>[New] Free, Secure, Stylish Discover the Top 10 Premium-Feeling Video Call Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-guide-to-digital-audio-streaming-and-recording/"><u>[New] The Ultimate Guide to Digital Audio Streaming & Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-prime-screen-snaps-on-apple-devices-max-length-156-for-2024/"><u>[Updated] Prime Screen Snaps on Apple Devices (Max Length 156) for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/easy-tips-on-how-to-retrieve-access-to-your-lost-email-account/"><u>Easy Tips on How to Retrieve Access to Your Lost Email Account</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-fixed-youtubes-missing-minute-media/"><u>In 2024, Fixed YouTube's Missing Minute Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-performance-a-step-by-step-guide-to-upgrading-your-affordable-98-inch-tv-for-stunning-picture-and-sound-quality-zdnet-insights/"><u>Maximizing Performance: A Step-by-Step Guide to Upgrading Your Affordable 98-Inch TV for Stunning Picture and Sound Quality | ZDNET Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-huawei-nova-y71-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Huawei Nova Y71 Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-future-of-virtual-showrooms/"><u>The Future of Virtual Showrooms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-55-unbeatable-television-bargains-for-seniors-on-labor-day-2024-exclusive-offers-from-zdnet/"><u>Top 55 Unbeatable Television Bargains for Seniors on Labor Day 2024 - Exclusive Offers From ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-65-unbeatable-prime-day-offers-on-televisions-active-savings-you-cant-miss/"><u>Top 65 Unbeatable Prime Day Offers on Televisions: Active Savings You Can't Miss!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-the-ultimate-guide-to-the-finest-50/"><u>Top Picks: The Ultimate Guide to the Finest 50</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-65-televisions-comprehensive-reviews-and-ratings-by-professionals-techradar/"><u>Top Rated 65 Televisions : Comprehensive Reviews and Ratings by Professionals | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-notch-audio-experience-the-ultimate-speaker-system-beyond-bose-and-polk-reviews-on-zdnet/"><u>Top-Notch Audio Experience: The Ultimate Speaker System Beyond Bose and Polk Reviews on ZDNet</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro/"><u>Updated 2024 Approved How to Find Free Sites for Sound Effect and Add Them in Final Cut Pro</u></a></li>
 </ul></div>
 

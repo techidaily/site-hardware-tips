@@ -1,7 +1,7 @@
 ---
 title: Boost Your Storage with a $12 Trick to Upgrade Extra SSDs as Externals | ZDNet
-date: 2024-09-18 12:53:57
-updated: 2024-09-20 12:32:32
+date: 2024-12-19T23:04:48.433Z
+updated: 2024-12-22T01:54:23.205Z
 tags:
   - office-hardware-appliances
 categories:
@@ -32,6 +32,10 @@ You won't love your printer, but you can hate it less, the company promises, bec
 As millions of people who own HP inkjet printers know only too well, the company has built its vast printer empire on the razors-and-blades business model. **\[1\]** HP has offered an [Instant Ink subscription plan](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fcv%2Finstantink&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for more than a decade, but this new offering throws in the hardware too.
 
 Is it a good deal? If you're in the market for a new printer, you might be tempted to try the "risk-free" 30-day trial. My advice: Read the fine print carefully. After the trial period ends, you are on the hook for that monthly charge for two full years, with a hefty termination fee if you change your mind and try to cancel early.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does HP's All-In Plan subscription work?
 
@@ -67,6 +71,10 @@ Step 5: HP ships you a printer and enough ink to get you going. Your job: Instal
 
 You supply the paper.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will this subscription save you money?
 
 Normally, the way to evaluate any subscription plan is with some simple math. Does that monthly payment cost more or less than you would pay if you just bought the same products outright? Is there anything the subscription offers that you can't get on your own?
@@ -92,6 +100,10 @@ To print 100 pages per month, you'll probably need to buy a fresh two-pack of ca
 **Also: [My favorite thermal label maker is compact, cool-looking, and easy to use](https://www.zdnet.com/home-and-office/my-new-favorite-thermal-label-maker-is-compact-cool-looking-and-easy-to-use/)**
 
 But money isn't the only factor to consider. As HP's agency argued in its ad campaign, "HP's Print Solutions caters to the most common printer frustrations. You not only save time and money, but also your sanity."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it a good deal?
 
@@ -142,11 +154,24 @@ The one thing you can't do with a low-cost monochrome laser printer is print pic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-content-the-leading-online-television-recordings-for-2024/"><u>[New] Capturing Content The Leading Online Television Recordings for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/potlight-on-10-youtube-channels-with-swift-popularity-boosts/"><u>[New] Spotlight on 10 YouTube Channels With Swift Popularity Boosts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ard-playmanship-a-guide-to-reversed-youtube-videos-for-2024/"><u>Backward Playmanship A Guide to Reversed YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cisco-unveils-environmental-impact-of-collaboration-tools-insights-for-a-greener-future-zdnet/"><u>Cisco Unveils Environmental Impact of Collaboration Tools: Insights for a Greener Future | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-green-mobile-devices-of-202c-insights-from-zdnets-expert-picks/"><u>Discover the Ultimate Guide to Green Mobile Devices of 202C | Insights From ZDNET's Expert Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-irrigation-made-smarter-with-ai-and-inkjet-technology-discover-how-it-cuts-down-on-water-waste/"><u>Eco-Friendly Irrigation Made Smarter with AI & Inkjet Technology - Discover How It Cuts Down on Water Waste</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-eco-friendly-technology-a-look-into-companes-steps-towards-sustainability-as-featured-by-zdnet/"><u>Embracing Eco-Friendly Technology: A Look Into Compane's Steps Towards Sustainability as Featured by ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/grasping-the-basics-of-telegram-marketing-strategies/"><u>Grasping the Basics of Telegram Marketing Strategies</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guide-complet-comment-activer-et-gerer-la-sauvegarde-automatique-de-fichiers-word-sur-windows-1/"><u>Guide Complet : Comment Activer Et Gérer La Sauvegarde Automatique De Fichiers Word Sur Windows 1</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-optimize-your-channels-with-youtubes-featured-spotlight-for-2024/"><u>How to Optimize Your Channels with YouTube’s Featured Spotlight for 2024</u></a></li>
+</ul></div>
+

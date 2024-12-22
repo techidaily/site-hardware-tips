@@ -1,7 +1,7 @@
 ---
 title: How These Featherlight Computers Blew My Mind and Outshined the Iconic MacBook Air | ZDNet Review
-date: 2024-12-11T23:36:23.039Z
-updated: 2024-12-13T02:44:48.055Z
+date: 2024-12-14T19:28:02.627Z
+updated: 2024-12-21T16:23:51.496Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -132,24 +132,19 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-building-the-ultimate-youtube-musical-collection/"><u>[New] 2024 Approved Building the Ultimate YouTube Musical Collection</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-how-to-zoom-in-and-zoom-out-video-on-iphone-easily-for-2024/"><u>[New] How to Zoom in and Zoom Out Video on iPhone Easily for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-scrutinizing-vlc-for-video-capturing/"><u>[New] Scrutinizing VLC for Video Capturing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/370-cut-on-asus-zenbook-at-best-buy-dive-into-the-details-and-promo-code-tips-over/"><u>$370 Cut on Asus Zenbook at Best Buy? Dive Into the Details and Promo Code Tips Over</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-top-pick-the-best-non-lenovo-non-dell-2-in-1-laptop-before-prime-day-deals-hit/"><u>Affordable Top Pick: The Best Non-Lenovo, Non-Dell 2-in-1 Laptop Before Prime Day Deals Hit!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-the-enhanced-artificial-intelligence-of-googles-chromebook-plus-outshine-microsoft-windows-copilot-insights-from-zdnet/"><u>Can the Enhanced Artificial Intelligence of Google's Chromebook Plus Outshine Microsoft Windows Copilot? Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exceptional-display-on-a-budget-discovering-the-most-affordable-high-quality-laptop-screen-zdnet/"><u>Exceptional Display on a Budget: Discovering the Most Affordable High-Quality Laptop Screen | ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/function-key-issues-solved-how-to-restore-button-responsiveness/"><u>Function Key Issues Solved: How to Restore Button Responsiveness</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/insiders-look-at-the-speedster-dolly-electric-scooter-by-glion-luxury-meets-velocity-with-a-hefty-price-tag/"><u>Insider's Look at the Speedster Dolly Electric Scooter by Glion - Luxury Meets Velocity with a Hefty Price Tag</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastering-obs-for-live-skype-recording/"><u>Mastering OBS for Live Skype Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/peeling-back-the-layers-of-visual-past-a-guide-to-fb-image-searching-reversed-for-2024/"><u>Peeling Back the Layers of Visual Past A Guide to FB Image Searching (Reversed) for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-hp-victus-15-at-an-unbeatable-price-just-515-during-black-friday-events-get-your-game-on-with-a-top-deal-from-best-buy-detailed-guide-by-zdnet/"><u>Snag the HP Victus 15 at an Unbeatable Price: Just $515 During Black Friday Events! Get Your Game On With a Top Deal From Best Buy - Detailed Guide by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-step-by-step-process-for-acquiring-meta-vr-games-for-your-oculus-quest-2/"><u>The Complete Step-by-Step Process for Acquiring Meta VR Games for Your Oculus Quest ^2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptops-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Rated Touchscreen Laptops: Comprehensive Reviews & Ratings by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-choice-of-digital-journals-thoroughly-vetted-products-for-your-consideration-zdnets-analyst-review/"><u>Ultimate Choice of Digital Journals: Thoroughly Vetted Products for Your Consideration | ZDNET's Analyst Review</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unmatched-customer-experience-rating-at-245plus-stars/"><u>Unmatched Customer Experience, Rating at 245+ Stars</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-non-ipad-non-thinkpad-tablets-for-seamless-business-trips-recommendations-by-zdnet/"><u>Unveiling Top Non-iPad, Non-ThinkPad Tablets for Seamless Business Trips - Recommendations by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-picks-a-curated-list-of-the-12-most-innovative-and-ideal-gifts-for-tech-savvy-enthusiasts-hackers/"><u>ZDNet Picks: A Curated List of the 12 Most Innovative and Ideal Gifts for Tech-Savvy Enthusiasts (Hackers)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-chrome-video-errors-a-step-by-step-fix-guide/"><u>[Updated] In 2024, Chrome Video Errors A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unbeatable-deal-grab-your-atomi-alpha-e-scooter-at-a-300-discount-exclusive-offer-from-zdnet/"><u>1. Unbeatable Deal: Grab Your Atomi Alpha E-Scooter at a $300 Discount - Exclusive Offer From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-integration-in-android-auto-enhancing-communication-with-automated-text-conversation-summaries/"><u>AI Integration in Android Auto: Enhancing Communication with Automated Text Conversation Summaries</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-2023-highlights-and-breakthrough-reveals-from-the-first-day-techradar/"><u>CES 2023 - Highlights and Breakthrough Reveals From the First Day | TechRadar</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/constructing-unique-instagram-story-banners-for-2024/"><u>Constructing Unique Instagram Story Banners for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/big-on-youtube-strategies-for-successful-creators-for-2024/"><u>Earn Big on YouTube Strategies for Successful Creators for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-through-the-best-routers-for-safe-family-surfing-2024-edition/"><u>Navigating Through the Best Routers for Safe Family Surfing: 2024 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-functionality-resolving-non-responsive-alphabet-keys-in-microsoft-windows-1011/"><u>Restore Functionality: Resolving Non-Responsive Alphabet Keys in Microsoft Windows 10/11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-stylus-pens-reviewed-the-ultimate-guide-for-2eplus-years/"><u>Top-Rated Stylus Pens Reviewed: The Ultimate Guide for 2E+ Years</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-future-potential-how-to-jumpstart-your-iphone-with-ios-16-public-beta-thoughts-before-you-act/"><u>Unlocking Future Potential: How to Jumpstart Your iPhone with iOS 16 Public Beta (Thoughts Before You Act)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-of-the-jabbra-evolve2-75-a-game-changer-for-remote-teams-with-superior-anc-and-unmatched-talk-time-performance/"><u>ZDNet's In-Depth Analysis of the Jabbra Evolve2 75: A Game Changer for Remote Teams with Superior ANC and Unmatched Talk Time Performance</u></a></li>
 </ul></div>
 

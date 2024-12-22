@@ -1,7 +1,7 @@
 ---
 title: "Revamped Dell XPS Series: Elevating Portability Meets Cutting-Edge Artificer Intelligence, Retaining Timeless Design | ZDNet"
-date: 2024-12-11T19:18:58.045Z
-updated: 2024-12-13T03:52:16.617Z
+date: 2024-12-15T06:25:59.420Z
+updated: 2024-12-22T05:27:45.458Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,24 +85,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-perfect-your-content-with-vimeo-on-instagram/"><u>[New] Perfect Your Content with Vimeo on Instagram</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-complete-guide-to-upgrading-mp4-with-premium-srt-sound-for-2024/"><u>[Updated] The Complete Guide to Upgrading MP4 With Premium SRT Sound for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-orchestrate-an-engaging-statement-with-tunes/"><u>2024 Approved Orchestrate an Engaging Statement with Tunes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-v30-lite-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo V30 Lite 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-live-streaming-apps-manycam-top-virtual-camera-solution/"><u>Best Live Streaming Apps: ManyCam - Top Virtual Camera Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bulk-up-your-storage-with-a-steep-discount-get-the-8tb-samsung-t5-at-amazon-for-36-less-after-prime-day/"><u>Bulk Up Your Storage with a Steep Discount: Get the 8TB Samsung T5 at Amazon for 36% Less After Prime Day</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-dialogue-w-chatgpt-today/"><u>Dive Into Dialogue W/ ChatGPT Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/early-access-to-the-revolutionary-lenovo-yoga-book-e9i-a-breakthrough-in-laptop-design-explored-by-experts-at-znet/"><u>Early Access to the Revolutionary Lenovo Yoga Book E9i: A Breakthrough in Laptop Design, Explored by Experts at Znet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-scoop-on-elite-laptops-professional-insights-and-assessments/"><u>Exclusive Scoop on Elite Laptops : Professional Insights and Assessments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-14-pro-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 14 Pro from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/impacts-of-external-factors-such-as-climate-change-land-management-practices-and-agrochemical-use-on-soil-microbes/"><u>Impacts of External Factors Such as Climate Change, Land Management Practices, and Agrochemical Use on Soil Microbes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lenovo-ideapad-duet-(80-discount-get-chromebook-savings-exclusive/"><u>Lenovo IdeaPad Duet <$80 Discount - Get Chromebook Savings Exclusive!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/macx-pro-top-rated-mkv-to-mp4-converter-advanced-features-and-free-download/"><u>MacX Pro: Top-Rated MKV to MP4 Converter - Advanced Features and Free Download</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-prime-day-offers-metas-exclusive-51/"><u>October Prime Day Offers: Meta's Exclusive 51</u></a></li>
-<li><a href="https://fox-http.techidaily.com/prime-animation-options-for-text-graphics-for-2024/"><u>Prime Animation Options for Text Graphics for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-stuttering-and-lag-issues-in-the-pc-version-of-black-myth-wukong-game/"><u>Resolve Stuttering and Lag Issues in the PC Version of Black Myth Wukong Game</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-16-unbeatable-holiday-sales-on-hp-products-exclusive-pick-by-zdnet/"><u>Top 16 Unbeatable Holiday Sales on HP Products - Exclusive Pick by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-you-should-choose-this-affordable-alternative-to-macbook-air-instead-top-rated-windows-laptop-now-on-sale/"><u>Why You Should Choose This Affordable Alternative to MacBook Air Instead: Top-Rated Windows Laptop Now On Sale</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-spotlight-find-your-next-laptop-deal-at-walmart-only-250-for-a-new-asus-15-incher-with-all-essential-ports-included/"><u>ZDNet Spotlight: Find Your Next Laptop Deal at Walmart! Only $250 for a New Asus 15-Incher with All Essential Ports Included</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-pixel-perfect-playback-fixing-blurry-videos-on-smartphones/"><u>[Updated] 2024 Approved Pixel Perfect Playback Fixing Blurry Videos on Smartphones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exploring-sources-of-high-quality-insta-soundtracks-and-crafting-noteworthy-chimes-for-2024/"><u>[Updated] Exploring Sources of High-Quality Insta Soundtracks and Crafting Noteworthy Chimes for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/decoding-chatgpt-unlock-techniques-pros-cons-and-what-you-should-know/"><u>Decoding ChatGPT Unlock Techniques: Pros, Cons & What You Should Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-black-friday-and-holiday-promotions-at-newegg-zdnet-exclusive-list/"><u>Discover the Ultimate Black Friday & Holiday Promotions at Newegg | ZDNET Exclusive List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-list-of-best-laptop-deals-from-hp-to-razer-prime-day-savings-galore-zdnet-exclusive/"><u>Discover the Ultimate List of Best Laptop Deals From HP to Razer: Prime Day Savings Galore | ZDNET Exclusive!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-power-a-comprehensive-guide-to-using-the-baseus-100w-multi-device-power-bank-gizmogeek-blog/"><u>Experience the Power: A Comprehensive Guide to Using the Baseus 100W Multi-Device Power Bank | GizmoGeek Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-lenovo-thinkpad-x13s-an-in-depth-look-at-its-arm-power-advanced-5g-capabilities-and-extended-battery-performance-techreview/"><u>Exploring the Lenovo ThinkPad X13s: An In-Depth Look at Its ARM Power, Advanced 5G Capabilities, & Extended Battery Performance - TechReview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-best-value-computers-under-1k-cyber-monday-deals-at-amazon-costco-and-dell-zdnet-insights/"><u>Find the Best Value Computers: Under $1K Cyber Monday Deals at Amazon, Costco, and Dell | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-toshiba-driver-updates-for-your-windows-pc-heres-how/"><u>Get the Latest Toshiba Driver Updates for Your Windows PC - Here's How</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-upload-and-save-your-license-as-a-digital-id-in-iphones-wallet-app-tips-for-varying-jurisdictions/"><u>How to Upload and Save Your License as a Digital ID in iPhone's Wallet App - Tips for Varying Jurisdictions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssional-insights-crafting-youtube-trailers-using-filmora/"><u>Professional Insights Crafting YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-8-sites-to-get-free-green-screen-backgrounds-and-footage-for-2024/"><u>Top 8 Sites to Get Free Green Screen Backgrounds and Footage for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-potential-hypers-innovative-hubs-docks-and-ssd-cases-expand-laptop-capabilities-insights-from-zdnet/"><u>Unleashing Potential: Hyper's Innovative Hubs, Docks & SSD Cases Expand Laptop Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-exploration-of-the-outstanding-duo-traits-that-make-this-lenovo-notebook-a-powerhouse-for-enthusiasts/"><u>ZDNet's Exploration of the Outstanding Duo Traits that Make This Lenovo Notebook a Powerhouse for Enthusiasts</u></a></li>
 </ul></div>
 

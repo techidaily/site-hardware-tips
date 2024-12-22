@@ -1,7 +1,7 @@
 ---
 title: Plant Root Exudates as Modulators of Soil Microbiota Diversity and Function
-date: 2024-12-09T16:33:10.582Z
-updated: 2024-12-13T03:49:42.320Z
+date: 2024-12-19T07:44:14.443Z
+updated: 2024-12-21T23:15:19.454Z
 tags:
   - laptops
 categories:
@@ -21,6 +21,10 @@ If you're concerned about sitting for long periods during the workday, a standin
 ### **ZDNET** Recommends
 
 [![office-chair-lead.jpg](https://www.zdnet.com/a/img/resize/fbc12dc3d0eeb922d308020f0cae2a4161fa0a4b/2020/01/17/a56e275d-8200-4769-8963-bb2a4d1fa76c/office-chair-lead.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best office chairs These are the best office chairs for back pain, posture, gaming, and more.  Read now](https://www.zdnet.com/article/best-office-chair/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To help you figure out which standing desks are worth your money, we've handpicked seven top-rated options that satisfy a range of preferences and needs. We first looked at the top brands, then combed through dozens of standing desk listings at different price points across several retailers and considered what user reviews had to say. 
 
@@ -67,6 +71,10 @@ Cons
 * Can get pricey the more that you add
 * Installation process is a multi-person job
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FlexiSpot E7 Pro Plus Electric Standing Desk
 
 ### Best large standing desk
@@ -92,10 +100,6 @@ Cons
 * Lower quality electronics
 * Complicated installation
 * Cross support system lacking
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Uplift V2 Standing Desk
 
@@ -125,11 +129,11 @@ Cons
 * Can feel wobbly at high settings
 * A lower-quality electronic system
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fully Jarvis Bamboo standing desk
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best eco-friendly standing desk
 
@@ -155,11 +159,11 @@ Cons
 * No frills or extras
 * Minimal weight capacity
 
-## Seville Classics Mobile Desk Cart
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Seville Classics Mobile Desk Cart
 
 ### Best mobile standing desk
 
@@ -186,14 +190,10 @@ Cons
 * Basic design
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SHW Height Adjustable Mobile Laptop Standing Desk
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best budget standing desk
 
@@ -220,10 +220,6 @@ Cons
 * Takes up desk space
 
 ## Uplift E7 Electric Standing Desk Converter
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best standing desk converter
 
@@ -280,24 +276,28 @@ There are several factors to consider when choosing the best standing desk for y
 
 A standing desk has many names. It's also known as a stand-up desk, height-adjustable desk, and sit-stand desk. Whatever you call it, a standing desk is one that allows its user to stand rather than sit when the desk is in use. Many of these desks are adjustable to allow users of all shapes and sizes to find a customized and comfortable fit for use. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How often should you stand up from your desk?
 
 It's recommended to stand up from your desk once every hour if you have a regular sitting desk. If you have a standing desk, it's recommended to stand for four-six hours of your eight-hour workday.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How much does a standing desk cost?
 
 The cost of a standing desk ranges from less than $100 to more than $1,000, depending on the features you prefer. Our picks for the best standing desks range in price from less than $40 to around $750, combining affordability with convenience and reliability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the benefits of a standing desk?
 
 According to Healthline, standing can [lower your risk](https://www.healthline.com/nutrition/7-benefits-of-a-standing-desk#TOC%5FTITLE%5FHDR%5F6) of heart disease and obesity and improve back pain. It can even reduce blood sugar levels.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative standing desks worth considering?
@@ -340,20 +340,20 @@ In our search for the best standing desks, we came across many great options. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-exclusive-8-video-download-utilities-guide-for-2024/"><u>[Updated] Exclusive 8 Video Download Utilities Guide for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-from-zero-to-hero-on-ig-how-to-garner-a-million-fans-fast-track/"><u>[Updated] From Zero to Hero on IG How to Garner a Million Fans Fast-Track</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-steadicams-to-enhance-dslr-video-production-quality/"><u>[Updated] Ideal Steadicams to Enhance DSLR Video Production Quality</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-streamlining-the-process-of-iptv-video-recordings/"><u>2024 Approved Streamlining the Process of IPTV Video Recordings</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/decouvrez-la-conversion-gratuit-des-trp-de-movavi-une-ligne-complete/"><u>Découvrez La Conversion Gratuit Des TRP De Movavi : Une Ligne Complète</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-showdown-deciding-on-the-perfect-model-for-you-pro-vs-air-edition-techradar-insights/"><u>MacBook Showdown: Deciding on the Perfect Model for You - Pro Vs. Air Edition | TechRadar Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-game-essential-tips-and-tools-for-building-the-perfect-gamers-rig-from-zdnet/"><u>Master Your Game: Essential Tips & Tools for Building The Perfect Gamer's Rig From ZDNet</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-best-tiktok-watermark-removers-online/"><u>New Best TikTok Watermark Removers Online</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-prime-deals-alert-apples-latest-m3-macbook-air-now-available-for-250-less-on-amazon-insights-by-zdnet/"><u>October Prime Deals Alert: Apple’s Latest M3 MacBook Air Now Available for $250 Less on Amazon - Insights by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-the-ultimate-gaming-ride-hp-victus-grope-up-for-under-500-on-samsungs-galaxy-unpacked-event-full-breakdown/"><u>Score the Ultimate Gaming Ride: HP Victus Grope up for Under $500 on Samsung's Galaxy Unpacked Event - Full Breakdown</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/step-by-step-guide-to-moving-whatsapp-messages-between-two-iphone-devices-by-bypassing-the-icloud-route/"><u>Step-by-Step Guide to Moving WhatsApp Messages Between Two iPhone Devices by Bypassing the iCloud Route</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-70-unbeatable-christmas-gaming-pc-bargains-dive-into-the-festivities/"><u>Top 70 Unbeatable Christmas Gaming PC Bargains - Dive Into the Festivities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-for-professional-video-editors-in-depth-reviews-and-comparisons-techradar/"><u>Top-Rated Laptops for Professional Video Editors: In-Depth Reviews & Comparisons - TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-vetted-by-tech-gurus-techradar/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Vetted by Tech Gurus | TechRadar</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-horizon-the-rise-of-virtual-reality/"><u>[New] Immersive Horizon The Rise of Virtual Reality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-essential-guide-for-game-channels-banner-integration/"><u>[New] The Essential Guide for Game Channels Banner Integration</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-your-path-to-prominence-on-youtube-for-2024/"><u>[Updated] Decoding Your Path to Prominence on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-exclusive-ig-edits-for-apple-and-android-users-for-2024/"><u>[Updated] Exclusive IG Edits for Apple & Android Users for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-art-of-measuring-igtv-video-quality-for-2024/"><u>[Updated] Mastering the Art of Measuring IGTV Video Quality for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-android-automotive-update-enhances-user-experience-with-added-bluetooth-headphone-compatibility-tech-news-by-zdnet/"><u>Latest Android Automotive Update Enhances User Experience with Added Bluetooth Headphone Compatibility - Tech News by ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/from-the-couch-the-essential-dos-and-donts-of-home-streaming-for-2024/"><u>Live From the Couch The Essential Do's & Don'ts of Home Streaming for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discounts-await-at-dollar-flight-club-secure-94-off-flights-today/"><u>Massive Discounts Await at Dollar Flight Club - Secure 94% Off Flights Today!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-photo-frames-leading-software-reviews-for-2024/"><u>Mastering Photo Frames Leading Software Reviews for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-longevity-expert-tips-for-maintaining-your-high-end-e-bikes-premium-battery-zdnet/"><u>Maximizing Longevity: Expert Tips for Maintaining Your High-End E-Bike's Premium Battery (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newly-unveiled-the-arrival-of-the-first-generation-4th-gen-tesla-supercharger-in-arizona-insights-and-specs/"><u>Newly Unveiled: The Arrival of the First Generation 4Th Gen Tesla Supercharger in Arizona - Insights and Specs</u></a></li>
+<li><a href="https://common-error.techidaily.com/obtained-essential-component-msvcr71dll/"><u>Obtained Essential Component: MSVCR71.dll</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-progress-in-driverless-cars-with-machine-learning-dive-into-the-latest-breakthroughs-that-could-accelerate-their-arrival/"><u>Pioneering Progress in Driverless Cars with Machine Learning - Dive Into the Latest Breakthroughs That Could Accelerate Their Arrival</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rethinking-personnel-oversight-tactics-in-the-movement-industry-a-deep-dive-by-zdnet/"><u>Rethinking Personnel Oversight Tactics in the Movement Industry: A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-top-8-crowd-favorites-in-ae-templates-for-2024/"><u>Unveiling Top 8 Crowd Favorites in AE Templates for 2024</u></a></li>
 </ul></div>
 

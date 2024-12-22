@@ -1,7 +1,7 @@
 ---
 title: The Impact of Quality Key Switches on Health and Work Output – Essential Insights When Purchasing a New Keyboard | ZDNET
-date: 2024-09-19 16:26:15
-updated: 2024-09-20 12:58:40
+date: 2024-12-18T04:31:08.827Z
+updated: 2024-12-21T19:22:17.111Z
 tags:
   - office-hardware-appliances
 categories:
@@ -32,6 +32,10 @@ You won't love your printer, but you can hate it less, the company promises, bec
 As millions of people who own HP inkjet printers know only too well, the company has built its vast printer empire on the razors-and-blades business model. **\[1\]** HP has offered an [Instant Ink subscription plan](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fcv%2Finstantink&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for more than a decade, but this new offering throws in the hardware too.
 
 Is it a good deal? If you're in the market for a new printer, you might be tempted to try the "risk-free" 30-day trial. My advice: Read the fine print carefully. After the trial period ends, you are on the hook for that monthly charge for two full years, with a hefty termination fee if you change your mind and try to cancel early.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does HP's All-In Plan subscription work?
 
@@ -67,6 +71,10 @@ Step 5: HP ships you a printer and enough ink to get you going. Your job: Instal
 
 You supply the paper.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will this subscription save you money?
 
 Normally, the way to evaluate any subscription plan is with some simple math. Does that monthly payment cost more or less than you would pay if you just bought the same products outright? Is there anything the subscription offers that you can't get on your own?
@@ -92,6 +100,10 @@ To print 100 pages per month, you'll probably need to buy a fresh two-pack of ca
 **Also: [My favorite thermal label maker is compact, cool-looking, and easy to use](https://www.zdnet.com/home-and-office/my-new-favorite-thermal-label-maker-is-compact-cool-looking-and-easy-to-use/)**
 
 But money isn't the only factor to consider. As HP's agency argued in its ad campaign, "HP's Print Solutions caters to the most common printer frustrations. You not only save time and money, but also your sanity."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it a good deal?
 
@@ -142,11 +154,30 @@ The one thing you can't do with a low-cost monochrome laser printer is print pic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-techniques-for-dell-pc-screen-saving-for-2024/"><u>[New] Essential Techniques for Dell PC Screen Saving for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mobile-friendly-video-posts-on-twitter-excluding-retweets-for-2024/"><u>[New] Mobile-Friendly Video Posts on Twitter Excluding Retweets for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-master-the-art-of-speech-transformation-top-7-vocal-alteration-android-apps/"><u>[Updated] 2024 Approved Master the Art of Speech Transformation Top 7 Vocal Alteration Android Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-navigating-average-incomes-in-the-podcasting-industry/"><u>[Updated] Navigating Average Incomes in the Podcasting Industry</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-interaction-protocols-courtesy-matters-gpt-alexa/"><u>AI Interaction Protocols - Courtesy Matters (GPT, Alexa)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-showcase-meet-roborocks-new-generation-of-smart-home-vacuums-powered-by-ai-zdnet-innovations-update/"><u>CES Showcase: Meet Roborock's New Generation of Smart Home Vacuums Powered by AI | ZDNET Innovations Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-rated-smart-vacuum-bots-at-unbeatable-low-costs-insights-from-zdnet/"><u>Discover Top-Rated Smart Vacuum Bots at Unbeatable Low Costs | Insights From ZDNet</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nubia-red-magic-8s-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nubia Red Magic 8S Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-chilling-prowess-of-boston-dynamics-latest-creation-the-atlas-robot-an-in-depth-analysis-zdnet/"><u>Exploring the Chilling Prowess of Boston Dynamics' Latest Creation, The Atlas Robot: An In-Depth Analysis | ZDNET</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-note-30-vip-racing-edition-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix Note 30 VIP Racing Edition FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-exploring-skies-in-4k-with-mi-drone/"><u>In 2024, Exploring Skies in 4K with MI Drone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-reno-8t-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Reno 8T 5G Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-roomba-j7plus-dual-function-robotic-cleaner-an-in-depth-analysis-and-reveal-by-zdnet/"><u>Innovative Roomba J7+ Dual-Function Robotic Cleaner - An In-Depth Analysis and Reveal by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-next-gen-assistive-tech-an-innovative-ai-robot-to-empower-those-with-vision-loss/"><u>Introducing Next-Gen Assistive Tech: An Innovative AI Robot to Empower Those with Vision Loss</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-roborocks-latest-robotic-vacuum-collection-spotted-at-ces-zdnet-coverage/"><u>Introducing Roborock's Latest Robotic Vacuum Collection, Spotted at CES - ZDNet Coverage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-techs-furriest-frontier-find-an-innovative-robot-cat-at-any-given-moment-in-the-quiet-halls-of-a-library-zdnet-insights/"><u>Navigating Tech's Furriest Frontier: Find an Innovative Robot Cat at Any Given Moment in the Quiet Halls of a Library | ZDNET Insights</u></a></li>
+</ul></div>
+

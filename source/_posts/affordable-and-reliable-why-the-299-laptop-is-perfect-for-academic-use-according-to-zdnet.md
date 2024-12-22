@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Reliable: Why the $299 Laptop Is Perfect for Academic Use, According to ZDNET"
-date: 2024-12-07T01:11:42.176Z
-updated: 2024-12-12T16:50:56.999Z
+date: 2024-12-18T08:45:45.997Z
+updated: 2024-12-21T23:23:52.407Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,22 +77,21 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-saving-your-precious-obs-video-source-from-failure/"><u>[Updated] 2024 Approved Saving Your Precious OBS Video Source From Failure</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-complete-process-of-scheduling-google-meets/"><u>[Updated] In 2024, The Complete Process of Scheduling Google Meets</u></a></li>
-<li><a href="https://fox-that.techidaily.com/9-effective-solutions-when-chatgpt-stops-responding-on-ios-devices/"><u>9 Effective Solutions When ChatGPT Stops Responding on iOS Devices</u></a></li>
-<li><a href="https://driver-error.techidaily.com/battleye-service-launch-error-corrected-fixing-driver-load-difficulty-code-1450/"><u>BattlEye Service Launch Error Corrected - Fixing Driver Load Difficulty (Code 1450)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-marvelous-world-of-an-origami-inspired-laptop-sleeve-a-game-changer-for-tech-enthusiasts-zdnet/"><u>Discover the Marvelous World of an Origami-Inspired Laptop Sleeve - A Game Changer for Tech Enthusiasts! | ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-google-pixel-8-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Google Pixel 8 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-picking-a-college-laptop-4-crucial-criteria-and-our-picks-top-10-expert-advice/"><u>Master the Art of Picking a College Laptop: 4 Crucial Criteria and Our Picks (Top 10) | Expert Advice</u></a></li>
-<li><a href="https://blog-min.techidaily.com/schutzumgehende-dvds-in-avi-konvertieren-einfach-gemacht-vier-einfache-schritte/"><u>Schutzumgehende DVDs in AVI Konvertieren - Einfach Gemacht, Vier Einfache Schritte</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-of-the-bizarre-entertaining-and-premium-priced-thinkpad-x1-fold-by-zdnet/"><u>The Ultimate Review of the Bizarre, Entertaining & Premium-Priced ThinkPad X1 Fold by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-linux-laptop-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Ranking Linux Laptop Picks , Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-impact-of-artificial-intelligence-chatbot-moderation-on-users/"><u>Understanding the Impact of Artificial Intelligence Chatbot Moderation on Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-trend-of-purchasing-damaged-macbook-pros-insights-from-zdnet/"><u>Understanding the Trend of Purchasing Damaged MacBook Pros – Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-versatility-and-portability-with-a-surprisingly-competent-8-in-1-charger-exclusive-review/"><u>Unlocking Versatility and Portability with a Surprisingly Competent 8-in-1 Charger - Exclusive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-features-of-the-microsoft-surface-laptop-5-a-closer-look-at-whats-familiar-and-new/"><u>Unveiling the Features of the Microsoft Surface Laptop 5: A Closer Look at What’s Familiar and New</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-unlocking-the-hidden-gem-of-dual-functionality-offices-ultimate-gadget/"><u>ZDNet Reviews: Unlocking the Hidden Gem of Dual Functionality - Office's Ultimate Gadget !</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-methods-to-flip-video-content-in-android/"><u>[Updated] Methods to Flip Video Content in Android</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-virtual-worlds-reimagined-the-most-spectacular-sci-fi-films-of-the-metaverse-era/"><u>[Updated] Virtual Worlds Reimagined The Most Spectacular Sci-Fi Films of the Metaverse Era</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-14-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 14</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/expert-guide-navigating-the-aomei-customer-service-platform/"><u>Expert Guide: Navigating the AOMEI Customer Service Platform</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-poco-c65-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Poco C65 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-identify-premium-hassle-free-free-srt-translator-services/"><u>How to Identify Premium, Hassle-Free Free SRT Translator Services</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-15-best-gopro-alternatives-for-all-your-needs/"><u>In 2024, 15 Best GoPro Alternatives for All Your Needs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v29e-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V29e to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-classroom-prep-expert-tips-on-organizing-school-supplies-for-success-advice-from-zdnet-experts/"><u>Mastering Classroom Prep: Expert Tips on Organizing School Supplies for Success - Advice From ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-multi-tasking-a-comprehensive-guide-to-splitting-your-screen-on-an-ipad-tech-tips-by-zdnet/"><u>Mastering Multi-Tasking: A Comprehensive Guide to Splitting Your Screen on an iPad | Tech Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-tablets-potential-with-cost-effective-customization-tips-from-changethispixel-exclusive-insights-for-savvy-users/"><u>Maximize Your Tablet's Potential with Cost-Effective Customization Tips From ChangeThisPixel - Exclusive Insights for Savvy Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/netflix-updates-support-policies-old-iphone-and-ipad-versions-phased-out-see-which-are-impacted-on-zdnet/"><u>Netflix Updates Support Policies: Old iPhone and iPad Versions Phased Out - See Which Are Impacted on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviving-vintage-kindles-master-the-art-of-book-addition-avoid-this-critical-mistake/"><u>Reviving Vintage Kindles: Master the Art of Book Addition – Avoid This Critical Mistake!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-tablet-sale-alert-top-performing-non-flagship-model-available-this-labor-day-tech-insights/"><u>Samsung Tablet Sale Alert: Top-Performing Non-Flagship Model Available This Labor Day | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unboxed-preordering-process-for-galaxy-z-fold-tab-s9-and-watch-6-at-rock-bottom-prices/"><u>Samsung Unboxed: Preordering Process for Galaxy Z Fold, Tab S9 & Watch #6 at Rock-Bottom Prices!</u></a></li>
 </ul></div>
 

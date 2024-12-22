@@ -1,7 +1,7 @@
 ---
 title: What's on the Horizon for Apple in October? Spotlight on Next-Gen Mac Mini, Advanced iPads, Siri AI Upgrades & Exciting Reveals | Coverage From ZDNET
-date: 2024-12-08T23:32:18.621Z
-updated: 2024-12-13T02:52:03.231Z
+date: 2024-12-19T03:29:09.917Z
+updated: 2024-12-21T22:46:09.196Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,17 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-superior-psd-design-transformations/"><u>[Updated] Superior PSD Design Transformations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-buys-ultimate-prime-day-october-2024-guide-unlock-the-hottest-offers-and-products-still-on-sale-zdnet/"><u>Best Buy's Ultimate Prime Day October 2024 Guide: Unlock the Hottest Offers and Products Still on Sale! | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-windows-alert-for-unverified-adobe/"><u>Bypass Windows Alert for Unverified Adobe</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-productivity-laptop-beyond-lenovo-and-macbooks-expert-insights/"><u>Discover the Ultimate Productivity Laptop Beyond Lenovo and MacBooks - Expert Insights .</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y100-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y100 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-air-face-off-choosing-between-the-m3-and-m2-models-a-detailed-comparison-techradar/"><u>MacBook Air Face-Off: Choosing Between the M3 and M2 Models - A Detailed Comparison | TechRadar</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210053169-9780578665764-mismatched-luggage/"><u>Mismatched Luggage | Free Book</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pajama-plots-revisited-critique-and-analysis-for-kids-slumber-for-2024/"><u>Pajama Plots Revisited Critique and Analysis for Kids' Slumber for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-college-laptops-professional-testing-and-comprehensive-reviews-techadvisor/"><u>Top Rated College Laptops: Professional Testing & Comprehensive Reviews | TechAdvisor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-fall-tech-guide-exclusive-prime-day-like-savings-on-laptops-for-october-2024-zdnet-insights/"><u>Ultimate Fall Tech Guide: Exclusive Prime Day-Like Savings on Laptops for October 2024 | ZDNet Insights.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unlock-the-power-of-accessibility-discover-7-essential-mac-tools-for-every-user/"><u>Unlock the Power of Accessibility: Discover 7 Essential Mac Tools for Every User</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/est-mac-mp4-cutter-apps-enhance-video-editing-for-2024/"><u>[New] Best Mac MP4 Cutter Apps Enhance Video Editing for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-lava-blaze-pro-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Lava Blaze Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-s18e-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo S18e? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-your-perfect-tablet-a-detailed-comparison-between-the-m1-and-m2-ipad-pro-models/"><u>Choosing Your Perfect Tablet: A Detailed Comparison Between the M1 and M2 iPad Pro Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-microsoft-surface-pro-8-evaluation-insights-and-analysis-for-the-enterprise-zdnet/"><u>Comprehensive Microsoft Surface Pro 8 Evaluation: Insights and Analysis for the Enterprise - ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-the-versatile-samsung-gear-s3-frontier-an-array-of-advanced-functions/"><u>Comprehensive Review: The Versatile Samsung Gear S3 Frontier – An Array of Advanced Functions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-list-of-2024s-best-e-reader-devices-in-depth-analysis-and-ratings-recommended-by-zdnet/"><u>Discover the Ultimate List of 2024'S Best E-Reader Devices: In-Depth Analysis & Ratings | Recommended by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-value-in-android-tablets-the-best-budget-choices-apart-from-giants-samsung-and-tcl/"><u>Discovering Value in Android Tablets: The Best Budget Choices Apart From Giants Samsung & TCL</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-latest-evga-graphics-cards-drivers-for-windows/"><u>Download & Update Latest EVGA Graphics Cards Drivers for Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-new-microsoft-surface-laptop-(b)5(b)-high-hopes-moderate-satisfaction-insights-from-zdnet/"><u>Evaluating the New Microsoft Surface Laptop <B>5</B>: High Hopes, Moderate Satisfaction | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-guide-to-2023s-best-ipad-keyboards-as-featured-on-zdnet/"><u>Explore the Ultimate Guide to 2023'S Best iPad Keyboards, as Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flagship-face-off-comparing-the-samsung-galaxy-tab-s9-ultra-and-apple-ipad-pro-for-your-tech-needs-zdnet/"><u>Flagship Face-Off: Comparing the Samsung Galaxy Tab S9 Ultra and Apple iPad Pro for Your Tech Needs | ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-the-dynamics-of-ppt-sessions-across-devices-and-platforms-for-2024/"><u>Mastering the Dynamics of PPT Sessions Across Devices and Platforms for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-video-earnings-dailymotion-vs-youtube-showdown-for-2024/"><u>Navigating Video Earnings Dailymotion vs YouTube Showdown for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-academic-success-with-these-9-vital-tech-tools-for-schools/"><u>Unlock Academic Success with These 9 Vital Tech Tools for Schools</u></a></li>
 </ul></div>
 

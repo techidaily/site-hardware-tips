@@ -1,7 +1,7 @@
 ---
 title: Secure Your Exclusive $8 iPhone Shoot-Out Gear on Sale - Final Deals of Cyber Monday Event | ZDNET.
-date: 2024-12-11T20:40:15.498Z
-updated: 2024-12-12T18:11:38.718Z
+date: 2024-12-21T00:38:53.655Z
+updated: 2024-12-21T22:59:37.736Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,24 +81,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-steps-for-capturing-hd-content-on-fb/"><u>[New] Steps for Capturing HD Content on FB</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills/"><u>[Updated] Elevate Your YouTube Channel Perfecting Video Scriptwriting Skills</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-discover-the-hidden-gems-unveiling-the-secret-trackpoint-and-more-on-this-compact-lenovo-powerhouse-techdigest/"><u>1. Discover the Hidden Gems: Unveiling the Secret TrackPoint & More on This Compact Lenovo Powerhouse | TechDigest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-vivobook-pro-discounted-by-300-on-amazon-exclusive-deal-techradar/"><u>Asus VivoBook Pro Discounted by $300 on Amazon - Exclusive Deal! | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-vivobook-pro-(450/"><u>Asus VivoBook Pro 지오렙이드 가격 예상치 항해: 워마트에서 <$450</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cyber-mondays-hot-picks-top-deals-on-tvs-headphones-and-speakers-still-going-strong-zdnet/"><u>Cyber Mondays Hot Picks: Top Deals on TVs, Headphones, and Speakers Still Going Strong | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-2023-usb-hub-selection-expert-picks-from-pcmag/"><u>Discover the Ultimate 2023 USB Hub Selection - Expert Picks From PCMag</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Plus without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-your-corsair-k55-keyboard-with-fresh-drivers/"><u>How to Update Your Corsair K55 Keyboard with Fresh Drivers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-yakuza-6-gameplay-disruptions-for-a-smoother-experience-on-desktop/"><u>Overcoming Yakuza 6 Gameplay Disruptions for a Smoother Experience on Desktop</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/restabelecer-acesso-a-um-volume-desaparecido-em-windows-10-com-estrategias-faceis-de-seguir/"><u>Restabelecer Acesso a Um Volume Desaparecido Em Windows 10 Com Estratégias Fáceis De Seguir</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-printing-experience-with-canon-ip110-compatible-drivers-for-windows-11-10-8-and-7/"><u>Seamless Printing Experience with Canon iP110 - Compatible Drivers for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seize-the-bargains-premier-offers-on-black-friday-november-2024-deals-you-cant-miss/"><u>Seize the Bargains! Premier Offers on Black Friday, November 2024 – Deals You Can't Miss</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steps-to-solve-recurring-errors-and-crashes-in-video-games/"><u>Steps to Solve Recurring Errors and Crashes in Video Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-7-techniques-for-reducing-file-size-transforming-4k-videos-into-high-quality-1080p/"><u>Top 7 Techniques for Reducing File Size: Transforming 4K Videos Into High-Quality 1080P</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-mac-software-picks-explore-the-ultimate-list/"><u>Top-Ranked Mac Software Picks - Explore the Ultimate List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-under-700-surprisingly-exceptional-choices-revealed/"><u>Top-Rated Laptops Under $700: Surprisingly Exceptional Choices Revealed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-powerhouse-performance-with-the-hp-omen-gaming-pc-secure-up-to-550-off-in-this-exclusive-flash-sale-by-zdnet/"><u>Unleash Powerhouse Performance with the HP Omen Gaming PC | Secure Up to $550 Off in This Exclusive Flash Sale by ZDNET</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-cutting-edge-simulators-for-sonys-playstation-3-games-pc/"><u>[New] In 2024, Cutting-Edge Simulators for Sony's PlayStation 3 Games (PC)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-cross-platform-comedy-best-meme-contenders-for-2024/"><u>[Updated] Cross-Platform Comedy Best Meme Contenders for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quick-and-easy-fb-video-access-choose-from-these-5-chromium-tools/"><u>[Updated] Quick and Easy FB Video Access Choose From These 5 Chromium Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-most-attractive-game-ready-gaming-equipment-for-under-100-for-2024/"><u>[Updated] The Most Attractive Game-Ready Gaming Equipment for Under $100 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unveiling-the-ultimate-299-windows-laptop-your-top-choice-for-savvy-saving-shoppers/"><u>1. Unveiling the Ultimate $299 Windows Laptop: Your Top Choice for Savvy Saving Shoppers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/developing-loyalty-programs-to-reward-repeat-customers-and-incentivize-further-purchases/"><u>Developing Loyalty Programs to Reward Repeat Customers and Incentivize Further Purchases.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-secure-a-nearly-50-discount-on-samsung-t5-ssd-from-amazon-in-advance-of-prime-day-insights/"><u>Exclusive Deal Alert! Secure a Nearly 50% Discount on Samsung T5 SSD From Amazon in Advance of Prime Day - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-rigorous-laptop-evaluation-techniques-insights-from-zdnets-review-process/"><u>Exploring Rigorous Laptop Evaluation Techniques: Insights From ZDNet's Review Process</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/guide-facile-pour-recreer-le-fichier-utilisateur-corrompu-sur-serveur-windows-server-2012-r2/"><u>Guide Facile Pour Recréer Le Fichier Utilisateur Corrompu Sur Serveur Windows Server 2012 (R2)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lgs-latest-gram-pro-outperforms-apples-macbook-air-across-three-key-areas-a-comprehensive-review-techinsights/"><u>LG's Latest Gram Pro Outperforms Apple's MacBook Air Across Three Key Areas: A Comprehensive Review | TechInsights</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-replace-imovie-with-these-top-rated-windows-10-video-editors/"><u>New 2024 Approved Replace iMovie with These Top-Rated Windows 10 Video Editors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-tech-spend-by-300-with-these-macbook-pro-deals-at-costco-insider-tips/"><u>Slash Your Tech Spend by $300 with These MacBook Pro Deals at Costco - Insider Tips</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-how-to-save-your-favorite-the-daily-show-shows-as-mp4-mp3-avi-and-more/"><u>Step-by-Step Tutorial: How to Save Your Favorite 'The Daily Show' Shows as MP4, MP3, AVI, & More!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-top-ultraportable-laptop-with-unmatched-all-day-battery-a-must-read-review/"><u>The Top Ultraportable Laptop with Unmatched All-Day Battery: A Must-Read Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-discounted-laptops-for-black-friday-and-cyber-monday-2024-featured/"><u>Top-Rated Discounted Laptops for Black Friday & Cyber Monday 2024 - Featured</u></a></li>
+<li><a href="https://win-great.techidaily.com/wake-up-from-the-asus-dreamless-state-a-guide-to-restoring-sleep-functionality-on-laptops/"><u>Wake Up From the ASUS Dreamless State: A Guide to Restoring Sleep Functionality on Laptops</u></a></li>
 </ul></div>
 

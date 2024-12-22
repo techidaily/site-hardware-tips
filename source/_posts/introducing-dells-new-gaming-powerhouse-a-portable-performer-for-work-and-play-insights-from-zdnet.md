@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2024-12-08T19:33:58.652Z
-updated: 2024-12-12T17:43:07.619Z
+date: 2024-12-19T10:11:31.171Z
+updated: 2024-12-21T18:09:06.717Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,24 +114,18 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-video-content-for-a-fanbase-boom-for-2024/"><u>[New] Elevating Your Video Content for a Fanbase Boom for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-shutter-societys-top-six-elite-4k-dslr-picks-for-2024/"><u>[Updated] Shutter Society's Top Six Elite 4K DSLR Picks for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos/"><u>[Updated] Your Video, Their Feast How to Craft GIFs From Vimeo Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/boosting-zoom-image-quality-professional-insights/"><u>Boosting Zoom Image Quality Professional Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-joy-of-a-windows-free-life-with-this-budget-friendly-hp-chromebook-now-just-136-cheaper/"><u>Discover the Joy of a Windows-Free Life with This Budget-Friendly HP Chromebook - Now Just $136 Cheaper!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elevate-your-visual-content-mastery-of-image-backdrop-removal-in-canva-for-2024/"><u>Elevate Your Visual Content Mastery of Image Backdrop Removal in Canva for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/full-day-battery-endurance-for-your-macbook-expert-strategies-and-techniques-from-zdnet/"><u>Full-Day Battery Endurance for Your MacBook: Expert Strategies and Techniques From ZDNET</u></a></li>
-<li><a href="https://techidaily.com/guide-to-uninterrupted-gaming-accessing-and-playing-steam-titles-off-the-grid/"><u>Guide to Uninterrupted Gaming: Accessing and Playing Steam Titles Off the Grid</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-15-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone 15 Plus Smoothly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/1716271992809-how-to-reverse-videos-on-android/"><u>How to Reverse Videos on Android?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-filmmakers-guide-to-professional-gopro-cinematography/"><u>In 2024, The Filmmaker’s Guide to Professional Gopro Cinematography</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lifetime-access-to-premium-mondly-zero-price/"><u>Lifetime Access to Premium Mondly: Zero Price</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-pc-connectivity-with-this-unique-12-in-1-docking-stations-hidden-charge-perk-tailored-for-windows-users-insights-from-zdnet/"><u>Maximize Your PC Connectivity with This Unique 12-in-1 Docking Station's Hidden Charge Perk, Tailored for Windows Users | Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/move-beyond-the-macbook-air-with-this-compact-feature-packed-windows-laptop-top-picks-by-tech-experts/"><u>Move Beyond the MacBook Air with This Compact, Feature-Packed Windows Laptop - Top Picks by Tech Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-discounted-hp-victus-15-for-just-515-exclusive-black-friday-at-best-buy-revealed/"><u>Secure Your Discounted HP Victus 15 for Just $515 – Exclusive Black Friday at Best Buy Revealed !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-asus-zenbook-pro-14-duo-oled-ux8402-explored-dual-screens-shine-amidst-usability-and-battery-hurdles-tech-review/"><u>The Asus Zenbook Pro 14 Duo OLED UX8402 Explored: Dual Screens Shine Amidst Usability and Battery Hurdles | Tech Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-black-friday-offer-snag-lenovo-thinkpad-x1-extreme-gen-4-at-just-a-fraction-of-its-cost-exclusive-zdnet-insider-deal/"><u>Unbeatable Black Friday Offer: Snag Lenovo ThinkPad X1 Extreme Gen 4 at Just a Fraction of Its Cost - Exclusive ZDNET Insider Deal!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-hps-latest-innovation-the-portable-all-in-one-pc-shocker-and-more-zdnet/"><u>Unboxing HP's Latest Innovation: The Portable All-in-One PC Shocker & More | Zdnet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-creative-potential-with-asuss-stealthy-high-powered-laptop-review/"><u>Unlocking Creative Potential with ASUS's Stealthy High-Powered Laptop Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-joketileart-imagehumorhub/"><u>[New] 2024 Approved JokeTileArt ImageHumorHub</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elevate-your-display-with-these-8-macbook-backgrounds/"><u>[New] Elevate Your Display with These 8 MacBook Backgrounds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-empowering-communication-with-these-leading-mac-tts-programs-for-2024/"><u>[New] Empowering Communication with These Leading Mac TTS Programs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-arcadia-elite-seamless-full-hd-multi-touch-desktops/"><u>[Updated] 2024 Approved Arcadia Elite Seamless, Full HD Multi-Touch Desktops</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-supreme-storytelling-through-soundscape/"><u>[Updated] Supreme Storytelling Through Soundscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1724313308695-abbyy-flexicapture/"><u>「ABBYY FlexiCaptureを活用し、大量の書類検証プロセスを最適化する方法」</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-13t-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi 13T FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-lamicall-tablet-support-features-and-practical-insights/"><u>Evaluating the Lamicall Tablet Support - Features and Practical Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-register-now-for-invite-only-amazon-prime-day-savings-top-tips-revealed/"><u>Limited Time Offer: Register Now for Invite-Only Amazon Prime Day Savings - Top Tips Revealed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/live-streaming-nfl-matches-step-by-step-guide/"><u>Live Streaming NFL Matches - Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/live-streaming-nfl-matches-a-comprehensive-guide-techradar/"><u>Live Streaming NFL Matches: A Comprehensive Guide | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/longer-lifespan-with-samsung-exclusive-7-year-software-support-for-your-smart-tv-insights-from-zdnet/"><u>Longer Lifespan with Samsung: Exclusive 7-Year Software Support for Your Smart TV - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uncharted-territories-the-ultimate-guide-to-iphone-vr-games/"><u>Uncharted Territories The Ultimate Guide to iPhone VR Games</u></a></li>
 </ul></div>
 

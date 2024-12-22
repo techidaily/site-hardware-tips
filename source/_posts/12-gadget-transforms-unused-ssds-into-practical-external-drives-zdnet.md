@@ -1,7 +1,7 @@
 ---
 title: $12 Gadget Transforms Unused SSDs Into Practical External Drives - ZDNet
-date: 2024-09-17 14:38:38
-updated: 2024-09-20 10:25:40
+date: 2024-12-20T01:43:09.896Z
+updated: 2024-12-22T05:35:11.018Z
 tags:
   - office-hardware-appliances
 categories:
@@ -32,6 +32,10 @@ You won't love your printer, but you can hate it less, the company promises, bec
 As millions of people who own HP inkjet printers know only too well, the company has built its vast printer empire on the razors-and-blades business model. **\[1\]** HP has offered an [Instant Ink subscription plan](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fcv%2Finstantink&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for more than a decade, but this new offering throws in the hardware too.
 
 Is it a good deal? If you're in the market for a new printer, you might be tempted to try the "risk-free" 30-day trial. My advice: Read the fine print carefully. After the trial period ends, you are on the hook for that monthly charge for two full years, with a hefty termination fee if you change your mind and try to cancel early.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does HP's All-In Plan subscription work?
 
@@ -67,6 +71,10 @@ Step 5: HP ships you a printer and enough ink to get you going. Your job: Instal
 
 You supply the paper.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will this subscription save you money?
 
 Normally, the way to evaluate any subscription plan is with some simple math. Does that monthly payment cost more or less than you would pay if you just bought the same products outright? Is there anything the subscription offers that you can't get on your own?
@@ -92,6 +100,10 @@ To print 100 pages per month, you'll probably need to buy a fresh two-pack of ca
 **Also: [My favorite thermal label maker is compact, cool-looking, and easy to use](https://www.zdnet.com/home-and-office/my-new-favorite-thermal-label-maker-is-compact-cool-looking-and-easy-to-use/)**
 
 But money isn't the only factor to consider. As HP's agency argued in its ad campaign, "HP's Print Solutions caters to the most common printer frustrations. You not only save time and money, but also your sanity."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it a good deal?
 
@@ -142,11 +154,31 @@ The one thing you can't do with a low-cost monochrome laser printer is print pic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-gear-up-with-our-12-tycoon-titles-your-gaming-passport-to-success-for-2024/"><u>[Updated] Gear Up with Our #12 Tycoon Titles - Your Gaming Passport to Success for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-becoming-a-pro-at-using-igtv-for-business-and-personal-growth/"><u>[Updated] In 2024, Becoming a Pro at Using IGTV for Business and Personal Growth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-epitome-of-visual-perfection-top-10-monitors-for-mac-users/"><u>2024 Approved The Epitome of Visual Perfection - Top 10 Monitors for Mac Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/battling-the-climate-crisis-with-technology-discover-zdnets-top-five-tools-for-a-greener-future/"><u>Battling the Climate Crisis with Technology: Discover ZDNet's Top Five Tools for a Greener Future</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-sustainable-mobiles-green-techs-finest-phones-of-2e24-by-zdnet/"><u>Discover the Ultimate Guide to Sustainable Mobiles: Green Tech's Finest Phones of 2E|24 by ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabling-gmails-additional-layer-of-protection-through-2fa/"><u>Enabling Gmail's Additional Layer of Protection Through 2FA</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-your-iphone-14-pro-and-max-with-exclusive-case-picks-of-2024-reviews-on-zdnet/"><u>Futureproof Your iPhone 14 Pro & Max with Exclusive Case Picks of 2024 | Reviews on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-go-green-with-your-gadgets-6-tips-for-sustainability-and-savings-according-to-zdnet/"><u>How to Go Green with Your Gadgets: 6 Tips for Sustainability & Savings, According to ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-vivo-v27-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Vivo V27 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-solar-powered-outdoor-lanterns-reviews-and-buyers-guide/"><u>Top 5 Solar-Powered Outdoor Lanterns : Reviews and Buyer's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-solar-power-banks-features-and-reviews/"><u>Top Rated Portable Solar Power Banks - Features and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-protective-covers-for-iphone-14-promax-the-ultimate-guide-insights-by-zdnet/"><u>Top-Rated Protective Covers for iPhone 14 Pro/Max: The Ultimate Guide - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-ideal-tv-antenna-zdnet/"><u>Ultimate Guide to Choosing the Ideal TV Antenna | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-google-gathering-latest-insights-and-potential-reveals/"><u>Upcoming Google Gathering: Latest Insights & Potential Reveals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003169530-why-are-my-chrome-pages-not-loading-find-out-and-solve-the-problem-now/"><u>Why Are My Chrome Pages Not Loading? Find Out and Solve the Problem Now!</u></a></li>
+</ul></div>
+

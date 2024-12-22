@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Logitech Keys-To-Go 2: An Uncomplicated, Yet Effective Upgrade"
-date: 2024-09-17T23:33:54.312Z
-updated: 2024-09-21T21:42:21.433Z
+date: 2024-12-19T23:03:44.172Z
+updated: 2024-12-22T04:04:19.913Z
 tags:
   - hardware
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
  If you’re a sucker for ultra-portable gadgets, ones great for travel, then the [Logitech Keys-To-Go 2](http://www.logitech.com/keys-to-go2-universal) keyboard has your name all over it. I’m one of these people and I couldn’t resist its minimal frame with generous-sized responsive keys.
 
 ![Keys-To-Go 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-17-dslu3o7y-2x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Logitech Keys-To-Go 2
 
@@ -88,6 +92,10 @@ Expand
 
 ![Logitech Keys-To-Go 2 next to its packaging](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/53784746945_b8cef045aa_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  I bought the original Logitech Keys-To-Go keyboard almost a decade ago, around 2015, because I wanted the absolute thinnest, most minimal keyboard to throw in my backpack and type on my iPad better than I could with the on-screen keyboard.
@@ -112,13 +120,6 @@ Jerome Thomas / How-To Geek
 
  Ultimately, I did come to just accept the fact that the inside of the cover, the part that touches the keys, was also the part resting on dirty surfaces. The cover does prop up the keyboard ever-so-slightly, but not enough to make a difference. The design of the cover just doesn’t make much sense to me.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Figuring Out Which iPad Keyboard to Buy
 
  You can use the Keys-To-Go 2 with any Bluetooth device, especially with the universal layout, but I’m convinced it’s a product that was made for iPads.
@@ -135,15 +136,16 @@ Jerome Thomas / How-To Geek
 
  The one omission when giving up Apple’s option is forfeiting a trackpad. I had to keep reaching out and positioning my cursor within my text document. It’s less ideal for frequent, every single day, use. So again, if you use your iPad like a laptop, Apple’s Magic Keyboard for iPad is probably the way to go. But if you just need an infrequent Bluetooth keyboard, this is the solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Logitech Keys-To-Go 2?
 
 ![Logitech Keys-To-Go 2 with its cover open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/53784323756_0f5797ec81_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -155,6 +157,10 @@ Jerome Thomas / How-To Geek
  The keyboard’s $80 price tag is steep. But if you do need something like this, then it’s probably worth its cost. It’s a great ultra-portable solution.
 
 ![Keys-To-Go 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-17-dslu3o7y-2x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Logitech Keys-To-Go 2
 
@@ -177,5 +183,26 @@ Keys-To-Go 2 is Logitech’s most portable keyboard, designed to type on tablets
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-smartphone-skills-producing-engaging-youtube-thumbnails/"><u>[New] 2024 Approved Smartphone Skills Producing Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-achieving-perfect-synchronization-google-upload/"><u>2024 Approved Achieving Perfect Synchronization Google Upload</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/battling-global-warming-top-5-innovative-tech-solutions-to-combat-climate-crisis-zdnet/"><u>Battling Global Warming: Top 5 Innovative Tech Solutions to Combat Climate Crisis | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/combatting-global-warming-top-5-innovative-tech-solutions-revealed-by-zdnet/"><u>Combatting Global Warming: Top 5 Innovative Tech Solutions Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/conquer-the-chilly-cleveland-winters-with-an-effortless-electric-snow-blower-no-more-manual-shoveling/"><u>Conquer the Chilly Cleveland Winters with an Effortless Electric Snow Blower - No More Manual Shoveling!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-obtaining-new-drivers-for-your-asus-notebook-system/"><u>Easy Guide: Obtaining New Drivers for Your ASUS Notebook System</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-asus-rog-phone-8-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Asus ROG Phone 8 Pro.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensuring-functionality-with-msvcr71/"><u>Ensuring Functionality with MSVCR71</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/save-your-gameplay-moments-with-xbox-screen-recordings/"><u>Save Your Gameplay Moments with Xbox Screen Recordings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-real-value-of-selfie-verifications/"><u>The Real Value of Selfie Verifications?</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-a-slow-running-pc-essential-solutions-by-yl-computing-and-yl-software-experts/"><u>Troubleshooting a Slow-Running PC: Essential Solutions by YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-right-to-repair-movement-importance-and-impact-on-consumers-explore-with-zdnet/"><u>Understanding the Right to Repair Movement: Importance & Impact on Consumers - Explore with ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-ultimate-performance-a-comprehensive-review-of-zendure-superbase-pro-2000-for-tech-enthusiasts/"><u>Unleashing Ultimate Performance: A Comprehensive Review of Zendure SuperBase Pro 2000 for Tech Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unlock-personalized-ai-experiences-with-chatgpts-newly-available-free-generative-pre-trained-transformer-templates/"><u>Unlock Personalized AI Experiences with ChatGPT's Newly-Available Free Generative Pre-Trained Transformer Templates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-magic-of-lomi-indoor-composter-a-detailed-expert-review/"><u>Unveiling the Magic of Lomi Indoor Composter - A Detailed Expert Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/winning-the-war-on-climate-crisis-zdnets-selection-of-five-cutting-edge-tech-solutions/"><u>Winning the War on Climate Crisis: ZDNet's Selection of Five Cutting-Edge Tech Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-mobile-devices-carbon-footprint-strategies-for-reducing-ecological-harm/"><u>Your Mobile Device's Carbon Footprint - Strategies for Reducing Ecological Harm</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-pick-elite-list-of-premium-riding-mowers/"><u>ZDNet's Pick: Elite List of Premium Riding Mowers</u></a></li>
+</ul></div>
 

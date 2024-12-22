@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Workers, Get Ready to Upgrade! Exclusive Deal Alert: Prime Day's $1K Off on the Best Lenovo Laptop Picked by ZDNet."
-date: 2024-12-07T22:43:42.936Z
-updated: 2024-12-12T22:30:25.966Z
+date: 2024-12-16T07:38:39.323Z
+updated: 2024-12-22T03:42:18.267Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,20 +79,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevating-your-visual-storytelling-techniques-and-strategies-for-shooting-compelling-slow-motion-content-for-instagram-for-2024/"><u>[New] Elevating Your Visual Storytelling Techniques and Strategies for Shooting Compelling Slow Motion Content for Instagram for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-collaborative-video-creation-a-guide-to-youtube-partnering/"><u>[New] In 2024, Mastering Collaborative Video Creation A Guide to YouTube Partnering</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-elite-watchlist-top-10-advanced-video-capture-programs-for-2024/"><u>[Updated] Elite Watchlist Top 10 Advanced Video Capture Programs for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9-secrets-to-unlocking-the-full-potential-of-window-11-for-2024/"><u>9 Secrets to Unlocking the Full Potential of WINDOW 11 for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-stunning-visuals-with-our-lightweight-champion-premium-laptop-displays-on-special-offer-now-at-zdnet/"><u>Experience Stunning Visuals with Our Lightweight Champion: Premium Laptop Displays on Special Offer - Now at ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-elite-vpn-services-of-2024-in-depth-analysis-and-ratings/"><u>Exploring the Elite VPN Services of 2024: In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/film-visionarys-hub-the-definitive-15-luts-for-gopro-cinematic-use/"><u>Film Visionary's Hub The Definitive 15 LUTs for GOPRO Cinematic Use</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mega-cyber-monday-discounts-on-lg-gram-17-ultra-thin-and-powerful-laptops-now-just-260/"><u>Mega Cyber Monday Discounts on LG Gram 17 - Ultra Thin & Powerful Laptops Now Just $260!</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-up-strategies-maximizing-your-gaming-experience-on-docked-devices/"><u>Power-Up Strategies: Maximizing Your Gaming Experience on Docked Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-advent-of-intelligent-search-with-bing/"><u>The Advent of Intelligent Search with Bing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-premier-selection-2023s-best-programming-notebook-computers-pcmag/"><u>The Premier Selection: 2023'S Best Programming Notebook Computers | PCMag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-reviewed-2023-dual-function-devices-with-a-surprisingly-useful-office-perk-spotted-on-zdnet/"><u>Top Reviewed 2023 Dual-Function Devices with a Surprisingly Useful Office Perk - Spotted on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-laptops-in-2nndyear-comprehensive-experts-reviews-and-ratings-zdnet/"><u>Top-Rated Affordable Laptops in 2Nnd_year - Comprehensive Experts' Reviews & Ratings | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-educational-theme-features-in-win-11/"><u>Unlocking Educational Theme Features in Win 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-black-friday-offer-snag-the-highly-portable-lg-gram-notebook-now-just-400-cheaper-for-cyber-monday-bargains-gizmodo/"><u>Unmissable Black Friday Offer: Snag the Highly Portable LG Gram Notebook, Now Just $400 Cheaper for Cyber Monday Bargains | Gizmodo</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-speedy-stories-top-10-rapid-release-games-on-tablets-pcs/"><u>[New] 2024 Approved Speedy Stories Top 10 Rapid Release Games on Tablets, PCs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-ten-simple-steps-to-acquire-igtv-media/"><u>[New] 2024 Approved Ten Simple Steps to Acquire IGTV Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-winning-with-windows-11-mastering-video-conferencing-via-zoom/"><u>[New] Winning with Windows 11 Mastering Video Conferencing via Zoom</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-discover-the-best-no-cost-soundtracks-for-video-production-for-2024/"><u>[Updated] Discover the Best No-Cost Soundtracks for Video Production for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-sky-drones-their-genres/"><u>[Updated] In 2024, Sky Drones Their Genres</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-c210-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia C210 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quickly-resolve-your-windows-11s-bluetooth-connectivity-issues/"><u>Quickly Resolve Your Windows 11'S Bluetooth Connectivity Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-a-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Insights: A Comprehensive Guide by Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-ultimate-guide-to-the-finest-70-tvs-features-and-reviews/"><u>Top Picks: Ultimate Guide to the Finest 70 TVs - Features and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-gaming-displays-pcmag/"><u>Top Rated Affordable Gaming Displays - PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tips-and-tricks-for-an-unforgettable-labor-day-bash-a-comprehensive-guide/"><u>Top Tips & Tricks for an Unforgettable Labor Day Bash: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-technology-innovations-and-cutting-edge-electronics-unveiled-featured-by-zdnet/"><u>Top-Ranked Technology Innovations & Cutting-Edge Electronics Unveiled : Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-roku-streaming-devices-and-sticks-latest-reviews-by-zdnet/"><u>Top-Ranking Roku Streaming Devices & Sticks - Latest Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-televisions-expert-picks-by-techradar/"><u>Top-Rated Affordable Televisions : Expert Picks by TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-testers-choice-the-ultimate-non-vizio-non-jbl-soundbar-experience-revealed-on-zdnet/"><u>Top-Tester's Choice: The Ultimate Non-Vizio, Non-JBL Soundbar Experience Revealed on ZDNet</u></a></li>
 </ul></div>
 

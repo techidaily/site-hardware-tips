@@ -1,7 +1,7 @@
 ---
 title: Take Your Game On-The-Go with Dell’s Latest Ultraportable Gaming Laptop – Featured
-date: 2024-12-10T18:51:46.003Z
-updated: 2024-12-13T02:20:09.168Z
+date: 2024-12-20T17:15:48.035Z
+updated: 2024-12-21T19:06:56.295Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,18 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-recording-tips-to-record-audio-in-high-quality/"><u>[New] 2024 Approved 10 Recording Tips to Record Audio in High Quality</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unveiling-todays-hot-gems-a-guide-to-facebooks-favorites/"><u>[New] 2024 Approved Unveiling Today’s Hot Gems A Guide to Facebook's Favorites</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-essential-techniques-for-efficient-iphone-7-recording/"><u>[New] Essential Techniques for Efficient iPhone 7 Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-choosing-between-obs-and-fraps-for-capture/"><u>2024 Approved Choosing Between OBS and Fraps for Capture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-dominates-pc-user-satisfaction-index-in-new-report-narrow-margin-as-samsung-closes-in-insights-from-zdnet/"><u>Apple Dominates PC User Satisfaction Index in New Report; Narrow Margin as Samsung Closes In | Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-event-preview-anticipate-revolutionary-features-in-m4-mac-mini-enhanced-ipads-and-advanced-ai/"><u>Apple Event Preview: Anticipate Revolutionary Features in M4 Mac Mini, Enhanced iPads, and Advanced AI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722967586217-effortless-guide-to-swiftly-updating-your-synaptics-ps2-touchpad-drivers-successfully/"><u>Effortless Guide to Swiftly Updating Your Synaptics PS/2 Touchpad Drivers Successfully!</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-fix-a-blurry-scanner-output-expert-tips-from-yl-computings-yl-software/"><u>How to Fix a Blurry Scanner Output: Expert Tips From YL Computing's YL Software</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-collection-of-chuckle-inducing-stickers/"><u>In 2024, The Ultimate Collection of Chuckle-Inducing Stickers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/integrated-activity-evaluation-guide-for-2024/"><u>Integrated Activity Evaluation Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-a-deal-550-off-samsung-odyssey-neo-g8-32/"><u>Snag a Deal: $550 Off Samsung Odyssey Neo G8 32</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-top-8-limitations-of-using-ai-chatbots-in-content-writing/"><u>The Top 8 Limitations of Using AI Chatbots in Content Writing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-for-your-ipad-pro-a-users-guide-to-a-must-have-usb-c-hub-featured-by-zdnet/"><u>Top Pick for Your iPad Pro: A User's Guide to a Must-Have USB-C Hub | Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-ultraportable-laptop-ideal-for-remote-professionals-a-review-on-zdnet/"><u>Top-Performing Ultraportable Laptop Ideal for Remote Professionals - A Review on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-linux-based-laptop-picks-comprehensive-evaluation-by-tech-gurus-insights/"><u>Top-Ranking Linux-Based Laptop Picks : Comprehensive Evaluation by Tech Gurus - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-display-quality-at-a-bargain-premium-lightweight-laptop-sale-alert-zdnet/"><u>Unbeatable Display Quality at a Bargain - Premium Lightweight Laptop Sale Alert! | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-upgrades-on-the-apple-m3-macbook-air-a-hands-on-analysis-by-an-expert-reviews-zdnet/"><u>Unveiling the Latest Upgrades on the Apple M3 MacBook Air – A Hands-On Analysis by an Expert Reviews ZDNET.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-depth-guide-to-2023s-leading-web-capture-applications-for-2024/"><u>[New] In-Depth Guide to 2023’S Leading Web Capture Applications for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-scooping-strategies-review-rundown/"><u>[New] SCOOPING STRATEGIES Review Rundown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-basic-guide-to-modify-clown-voiceprint-in-windoze-pc/"><u>[Updated] Basic Guide to Modify Clown Voiceprint in Windoze PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-eternal-skies-leading-long-duration-flight-drones/"><u>[Updated] Eternal Skies Leading Long-Duration Flight Drones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-virtual-sound-devices/"><u>[Updated] In 2024, Ultimate Virtual Sound Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-professionals-selection-top-5-drones-ranked-for-2024/"><u>[Updated] The Professionals' Selection Top 5 Drones Ranked for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-impact-on-employment-what-positions-are-at-risk/"><u>ChatGPT's Impact on Employment: What Positions Are at Risk?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improved-microsoft-power-device-management-correcting-previous-acpi-compliance-driver-concerns/"><u>Improved Microsoft Power Device Management: Correcting Previous ACPI Compliance Driver Concerns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-value-sony-bravia-the-ultimate-affordable-option-for-top-quality-viewing-zdnet-reviews/"><u>Top Value Sony Bravia: The Ultimate Affordable Option for Top-Quality Viewing - ZDNet Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-premier-tv-display-sanitizers-in-202email-protected-by-techzednet/"><u>Ultimate Guide to the Premier TV Display Sanitizers in 202([Email Protected] by TechZedNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-connecting-your-devices-with-airplay-to-stream-on-television/"><u>Ultimate Guide: Connecting Your Devices with AirPlay to Stream on Television</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-viewing-experience-an-in-depth-analysis-of-lg-vs-samsung-televisions-for-your-next-purchase-decision/"><u>Ultimate Viewing Experience: An In-Depth Analysis of LG Vs. Samsung Televisions for Your Next Purchase Decision.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-labor-day-deals-top-rated-lg-oled-tvs-now-up-to-800-off-exclusive-insights-from-a-tech-reviewer-on-zdnet/"><u>Unbeatable Labor Day Deals: Top-Rated LG OLED TVs Now Up to $800 Off - Exclusive Insights From a Tech Reviewer on ZDNet</u></a></li>
 </ul></div>
 

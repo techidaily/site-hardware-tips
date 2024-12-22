@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet"
-date: 2024-12-08T03:46:23.443Z
-updated: 2024-12-13T00:28:14.279Z
+date: 2024-12-18T02:16:14.895Z
+updated: 2024-12-22T03:54:08.057Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,19 +134,18 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-gopro-hero5-premium-showdown-black-edition/"><u>[New] GoPro Hero5 Premium Showdown Black Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-the-top-webcams-for-windows-10/"><u>2024 Approved The Ultimate Guide to the Top Webcams for Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-pc-and/"><u>最適なビデオ編集ツール：5つのベスト PC 向けカットソフトウェア & サイト</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-octobers-mega-gaming-deals-for-the-2024-prime-day-last-call-to-save-big-with-up-to-1000-off/"><u>Don't Miss Out on October's Mega Gaming Deals for the 2024 Prime Day – Last Call to Save Big with Up to $1,000 Off!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-2630-printer-driver-for-windows-7-81-and-10/"><u>Download the Latest Epson WF-2630 Printer Driver for Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-alert-slash-your-gaming-rig-cost-by-350-with-the-alienware-aurora-r13-score-a-steal-at-zdnet/"><u>Exclusive Offer Alert: Slash Your Gaming Rig Cost by $350 with the Alienware Aurora R13 - Score a Steal at ZDNet!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-avi-to-wav-converter-movavi/"><u>Free Online AVI to WAV Converter - Movavi</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/march-unveiling-expected-for-the-latest-apple-innovations-macbook-air-ipad-pro-and-ipad-air-upcoming-tech-news-on-zdnet/"><u>March Unveiling Expected for the Latest Apple Innovations: MacBook Air, iPad Pro & iPad Air | Upcoming Tech News on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/my-heart-my-mind-and-the-flesh-of-my-body/"><u>My Heart, My Mind and the Flesh of My Body</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-assembling-a-top-tier-gaming-system-with-insights/"><u>The Complete Guide to Assembling a Top-Tier Gaming System with Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-12-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 12 Pro 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210969993-9781088239582-when-the-time-comes/"><u>WHEN THE TIME COMES | Free Book</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-leading-11-audio-recording-tools-guide/"><u>[New] In 2024, Leading 11 Audio Recording Tools Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-top-8-multiparty-android-conferencing-apps/"><u>2024 Approved The Top 8 Multiparty Android Conferencing Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-4k-display-selection-the-creme-de-la-creme-list-for-2024/"><u>Best 4K Display Selection The Crème De La Crème List for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/comparing-local-data-exchange-protocols-google-and-windows-showdown/"><u>Comparing Local Data Exchange Protocols: Google & Windows Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprendre-le-fichier-wav-guide-complet-pour-les-amateurs-de-sons/"><u>Comprendre Le Fichier WAV: Guide Complet Pour Les Amateurs De Sons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/electric-revolution-unveiled-live-stream-ces-202/"><u>Electric Revolution Unveiled: Live Stream CES 202</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/electric-vehicle-advancements-drive-auto-sectors-shift-towards-digital-innovation-insights-from-zdnet/"><u>Electric Vehicle Advancements Drive Auto Sector's Shift Towards Digital Innovation: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-airline-lounge-pass-the-top-5-credit-cards-for-premier-airport-experiences-zdnet/"><u>Elite Airline Lounge Pass: The Top 5 Credit Cards for Premier Airport Experiences | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elon-musks-tesla-embraces-apple-airplay-technology-declines-to-support-carplay-in-latest-announcement-autotech-daily/"><u>Elon Musk's Tesla Embraces Apple AirPlay Technology, Declines to Support CarPlay in Latest Announcement | AutoTech Daily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-future-today-with-pre-order-options-for-flying-cars-insights-from-zdnets-latest-feature/"><u>Experience the Future Today with Pre-Order Options for Flying Cars - Insights From ZDNet's Latest Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-car-battery-chargers-find-your-perfect-match-in-the-ultimate-list-of-2024-models-digital-trends/"><u>Expertly Reviewed Car Battery Chargers: Find Your Perfect Match in the Ultimate List of 2024 Models | Digital Trends</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-of-eufy-t8200-video-doorbell-no-subscription-required/"><u>Unboxing & Testing of Eufy T8200 Video Doorbell – No Subscription Required!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728492721666-windows-11/"><u>Windows 11上有效利用分区阴影复制功能的步骤</u></a></li>
 </ul></div>
 

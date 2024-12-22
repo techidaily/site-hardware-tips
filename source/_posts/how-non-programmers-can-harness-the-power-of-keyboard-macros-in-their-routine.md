@@ -1,7 +1,7 @@
 ---
 title: How Non-Programmers Can Harness the Power of Keyboard Macros in Their Routine
-date: 2024-09-16T20:41:12.202Z
-updated: 2024-09-21T20:47:04.994Z
+date: 2024-12-20T21:50:07.189Z
+updated: 2024-12-21T20:38:26.329Z
 tags:
   - hardware
 categories:
@@ -13,15 +13,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 Macros are essential to any efficient office setup. You don’t have to have a programming degree in order to create useful macros that can save you time throughout your workweek. Not sure where to get started with macros? Well, let me tell you about a few of my favorite shortcuts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Copy and Paste Macros Get Daily Usage
 
 ![Bazcore-Copy-Paste-Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bazcore-copy-paste-macro.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We’ll start off with my most used macro of all: copy and paste. You might say, “Patrick, copy and paste are simple keyboard shortcuts that everyone knows, why program it to a macro?” To which I would reply, “A single keypress is more efficient than hitting two keys awkwardly with your hand.”
 
 [Copy and paste are two keyboard shortcuts](https://mondly-stories.techidaily.com/1719580021467-master-multiple-languages-quickly-and-quietly-with-the-best-3-platforms/) probably every person knows, but it’s honestly a little cumbersome to hit with your left hand. While possible, it’s not always the easiest thing. And, if you switch between macOS and Windows often (like me), then you’re stuck with trying to program your body to do Ctrl+C on Windows, and Command+C on macOS. Well, with a macro, you don’t have to remember any of that.
 
  I use a pretty premium keyboard that has several keys where others only have one, but it’ll work just the same on any keyboard capable of using macros. I simply have one of the buttons below the left spacebar on my [Dygma Raise](https://dygma.com/pages/dygma-raise-2) programmed to copy, and then one on the right set to paste. I simply have to click a single button and my computer copies what's highlighted or pastes whatever is on the clipboard. This ties well into the next macro too, as it will paste more than just text. Whatever is in your clipboard will be inserted into the receiving program, just like if you were hitting Ctrl+V or Command+V.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Screenshots With a Single Keystroke
 
@@ -48,26 +60,20 @@ Macros are essential to any efficient office setup. You don’t have to have a p
  This alone saved me a _lot_ of time every week when I was processing dozens of pictures every day, and sometimes hundreds per week.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Copy a Link and Shorten It in One Move (on macOS)
 
 ![Short-Menu-Shortening-Shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/short-menu-shortening-shortcut.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re constantly shortening (or even affiliating) links on macOS, then this piece of software and macro are exactly what you should be leveraging. Using a piece of software called [Short Menu](https://shortmenu.com/mac/), you can program a keyboard shortcut that will shorten any URL you have in your clipboard.
 
  I used this often when I did deals writing, and had the keyboard shortcut programmed as a macro right next to my copy function. So, when I needed to affiliate or shorten a URL, I would start by using my copy macro, then click the button next to that to shorten or affiliate the URL, then click the next button to paste. I took something that would normally take about 6–10 keystrokes and shortened it to 3\. That doesn’t sound like a massive change, but it makes an astronomical difference in your daily workflow for sure.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Can You Macro?
 
@@ -90,5 +96,22 @@ Macros are essential to any efficient office setup. You don’t have to have a p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-the-art-of-instagrams-musical-emoji-use/"><u>[Updated] Mastering the Art of Instagram's Musical Emoji Use</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-vcs-vision-recorder-check-detailed-scrutiny-for-2024/"><u>[Updated] VCS Vision Recorder Check Detailed Scrutiny for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-youtube-snippets-get-high-quality-images-without-a-penny-paid/"><u>2024 Approved YouTube Snippets Get High-Quality Images Without a Penny Paid</u></a></li>
+<li><a href="https://fox-place.techidaily.com/aomei-onekey-recovery-web/"><u>AOMEI OneKey Recovery ソフトウェアの Web上での直接購入方法</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-mix-fold-3-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Mix Fold 3 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-epson-workforce-5690-drivers-for-windows-operating-systems-including-10-8-and-7/"><u>Installing Epson Workforce 5690 Drivers for Windows Operating Systems, Including 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-savings-alert-snag-the-ultra-speedy-4tb-samsung-portable-ssd-up-to-50-off-on-amazon-for-labor-day-dont-miss-out/"><u>Massive Savings Alert: Snag the Ultra-Speedy 4TB Samsung Portable SSD Up to 50% Off on Amazon for Labor Day - Don't Miss Out!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-surface-defining-desires-and-setting-realistic-anticipations-insights-from-zdnet/"><u>Microsoft Surface: Defining Desires & Setting Realistic Anticipations - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-trusted-childrens-tablets-reviewed-by-experts-and-parents-alike-on-zdnet/"><u>Most Trusted Children's Tablets Reviewed by Experts and Parents Alike on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-vs-ipad-showdown-detailed-specs-compared-side-by-side-tech-insights-on-zdnet/"><u>Pixel Vs. IPad Showdown: Detailed Specs Compared Side by Side - Tech Insights on ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/recording-roulette-top-strategies-for-tv-show-capture-for-2024/"><u>Recording Roulette Top Strategies for TV Show Capture for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-your-ipad-discover-how-this-innovative-kid-friendly-tablet-is-changing-the-game-now-available-at-discount-prices/"><u>Say Goodbye to Your iPad: Discover How This Innovative Kid-Friendly Tablet Is Changing the Game - Now Available at Discount Prices!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-a-massive-discount-up-to-66-off-amazon-fire-hd-8-plus-tablet-exclusive-offer-from-zdnet/"><u>Secure a Massive Discount: Up To 66% Off Amazon Fire HD 8 Plus Tablet - Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-changing-your-dns-settings-on-windows-techadvice/"><u>Step-by-Step Guide: Changing Your DNS Settings on Windows - TechAdvice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/threefold-strategies-in-the-conversational-realm-of-chatgpt-wolframlink/"><u>Threefold Strategies in the Conversational Realm of ChatGPT-WolframLink</u></a></li>
+</ul></div>
 

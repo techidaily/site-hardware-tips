@@ -1,7 +1,7 @@
 ---
 title: How LG's Cutting-Edge Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Portability, and Battery Life Insights
-date: 2024-12-09T04:21:20.584Z
-updated: 2024-12-13T00:33:50.426Z
+date: 2024-12-15T07:27:04.105Z
+updated: 2024-12-21T18:29:19.974Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,14 +114,20 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/affordable-high-quality-display-on-this-budget-friendly-laptop-reviewed-by-zdnet/"><u>Affordable High-Quality Display on This Budget-Friendly Laptop Reviewed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-2024-exclusive-guide-to-october-deals-for-top-tier-laptops-zdnet-reviews/"><u>Amazon Prime Day 2024: Exclusive Guide to October Deals for Top-Tier Laptops | ZDNET Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazons-october-prime-day-snag-apple-m2-macbook-air-at-unbeatable-price-of-749-latest-deals/"><u>Amazon's October Prime Day: Snag Apple M2 MacBook Air at Unbeatable Price of $749 - Latest Deals!</u></a></li>
-<li><a href="https://facebook.techidaily.com/bringing-ar-characters-into-your-social-chat-room/"><u>Bringing AR Characters Into Your Social Chat Room</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-x50i-by-drfone-android-unlock-android-unlock/"><u>Device unlock Honor X50i</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/direct-lineup-for-iphone-images-flawless-snapchat-backup/"><u>Direct Lineup for iPhone Images Flawless Snapchat Backup</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/download-setup-and-utilize-ez-grabber-in-no-time/"><u>Download, Setup & Utilize EZ Grabber in No Time</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-game-changing-workflow-with-lenovos-new-dual-display-laptop-a-firsthand-review/"><u>Experience Game-Changing Workflow with Lenovo's New Dual-Display Laptop - A Firsthand Review</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/leading-edge-top-tier-karaoke-devices-to-elevate-your-singing-experience/"><u>Leading Edge: Top-Tier Karaoke Devices to Elevate Your Singing Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-clear-the-clutter-blurring-backgrounds-for-engaging-yt-for-2024/"><u>[New] How to Clear the Clutter Blurring Backgrounds for Engaging YT for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-motion-assessment-2023/"><u>[Updated] Full Motion Assessment 2023</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-change-your-voice-on-instagram-for-2024/"><u>[Updated] How to Change Your Voice on Instagram for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-entertainment-selection-utilizing-chatgpt-to-decide-whats-on-tap-next/"><u>AI-Powered Entertainment Selection: Utilizing ChatGPT to Decide What's On Tap Next</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-43-sets-expert-ratings-and-comparison-of-leading-tvs/"><u>Discover the Top 43 Sets: Expert Ratings & Comparison of Leading TVs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-black-friday-promotions-of-2022-exclusive-insights-and-location-guide/"><u>Discover Top Black Friday Promotions of 2022 - Exclusive Insights & Location Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-audio-excellence-beyond-giants-how-a-new-soundbar-outshone-bose-and-sony-on-zdnet/"><u>Discovering Audio Excellence Beyond Giants: How a New Soundbar Outshone Bose & Sony on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exciting-upgrade-alert-unlock-your-roku-tvs-latest-complimentary-enhancement/"><u>Exciting Upgrade Alert: Unlock Your Roku TV's Latest Complimentary Enhancement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/extended-ai-enhanced-software-support-for-a-decade-samsungs-revolutionary-tv-upgrades/"><u>Extended AI-Enhanced Software Support for a Decade - Samsung's Revolutionary TV Upgrades</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flagship-face-off-in-depth-comparison-of-lg-g3-and-samsung-s-cuisine-s95c-for-cutting-edge-viewing-smart-home-hub/"><u>Flagship Face-Off: In-Depth Comparison of LG G3 and Samsung S Cuisine S95C for Cutting-Edge Viewing | Smart Home Hub</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-k70e-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi K70E Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lenovo-thinkphone-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Lenovo ThinkPhone Phone without Any Data Loss</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-secure-your-premium-amazon-fire-tv-omnia-qled-for-60-off-limited-time-only-zdnet/"><u>Huge Discount Alert: Secure Your Premium Amazon Fire TV Omnia QLED for 60% Off – Limited Time Only | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-9-key-video-file-types-advantages-limitations-and-when-to-use-them/"><u>The Ultimate Guide to 9 Key Video File Types - Advantages, Limitations & When to Use Them</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-samsungs-interconnected-universe-stands-tall-alongside-apples-a-comprehensive-review/"><u>Why Samsung's Interconnected Universe Stands Tall Alongside Apple's - A Comprehensive Review</u></a></li>
 </ul></div>
 

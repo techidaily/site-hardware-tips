@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: Navigating Device Innovations in the Age of Artificial Intelligence - Insights"
-date: 2024-12-07T04:12:32.977Z
-updated: 2024-12-12T19:47:58.799Z
+date: 2024-12-20T00:41:00.268Z
+updated: 2024-12-22T00:28:11.230Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,24 +134,22 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-quickcast-your-youtube-selection-playlists/"><u>[New] Quickcast Your Youtube Selection, Playlists!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-get-savvy-with-io-screener-a-primer/"><u>[Updated] In 2024, Get Savvy with IO Screener A Primer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazingly-clear-and-bright-the-highly-budget-friendly-laptop-with-top-notch-display-reviewed/"><u>Amazingly Clear & Bright: The Highly Budget-Friendly Laptop with Top-Notch Display - Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/analyzing-market-trends-the-surprising-prevalence-of-flawed-macbook-pro-displays-a-zdnet-perspective/"><u>Analyzing Market Trends: The Surprising Prevalence of Flawed MacBook Pro Displays – A ZDNet Perspective</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-of-mobile-computing-with-googles-flagship-laptop-lineup-introducing-chromebook-x-insights/"><u>Exploring the Future of Mobile Computing with Google's Flagship Laptop Lineup: Introducing Chromebook X Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-new-features-of-microsofts-latest-addition-the-laptop-5-familiar-yet-refined/"><u>Exploring the New Features of Microsoft's Latest Addition - The Laptop 5, Familiar Yet Refined.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-the-hp-chromebook-transformed-my-life-seamless-computing-without-microsofts-os/"><u>How the HP Chromebook Transformed My Life: Seamless Computing Without Microsoft's OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-it-takes-two-game-silent-playback-problems-on-your-computer/"><u>How to Resolve 'It Takes Two' Game Silent Playback Problems on Your Computer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-interweaving-art-and-science-in-colors/"><u>In 2024, Interweaving Art and Science in Colors</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-strategy-for-boosted-instagram-video-traffic/"><u>In 2024, The Ultimate Strategy for Boosted Instagram Video Traffic</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-6-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 6 Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-hp-savings-during-cyber-week-monitors-and-laptops-at-a-steep-71-reduction/"><u>Massive HP Savings During Cyber Week: Monitors and Laptops at a Steep 71% Reduction</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-video-editor-in-2024/"><u>New What Is an AI Video Editor, In 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-2024-ultimate-guide-to-snagging-the-best-prime-day-deals-for-high-performance-laptops-expert-tips-from-zdnet/"><u>October 2024 Ultimate Guide to Snagging the Best Prime Day Deals for High-Performance Laptops | Expert Tips From ZDNET</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/resolving-issues-with-non-identifiable-partition-tables-on-storage-devices/"><u>Resolving Issues with Non-Identifiable Partition Tables on Storage Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-tools-and-supplies-for-crafty-diy-enthusiasts-discover-the-perfect-apery-for-your-next-project-insights-from-zdnet/"><u>Top Pick Tools and Supplies for Crafty DIY Enthusiasts: Discover the Perfect Apery for Your Next Project - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-unveiled-at-ces-2024-insights-from-zdnet/"><u>Top-Rated Laptops Unveiled at CES 2024 - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/video-show-reviewed-detailed-analysis-of-the-2024-edition/"><u>Video Show Reviewed Detailed Analysis of the 2024 Edition</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/what-sets-360-and-vr-media-apart-in-2024/"><u>What Sets 360° and VR Media Apart, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-lullabies-for-your-mind-no-stress-pcs/"><u>[New] 2024 Approved Lullabies for Your Mind No-Stress PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-guide-to-installing-microsofts-movie-maker/"><u>[New] In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-moba-games-for-android-gamers-unveiled/"><u>[New] Top 10 MOBA Games for Android Gamers Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-new-dimensions-of-vegaspro-19/"><u>[Updated] Unraveling the New Dimensions of VegasPro '19</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-quality-display-on-this-compact-laptop-a-top-choice-reviewed-by-zdnet/"><u>Affordable High-Quality Display on This Compact Laptop: A Top Choice Reviewed by ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-15-pro-max-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 15 Pro Max IMEI Checker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-save-big-with-amazons-current-deal-on-an-8tb-samsung-t5-ssd-at-36-off-featured-by-zdnet/"><u>Don't Miss Out! Save Big with Amazon's Current Deal on an 8TB Samsung T5 SSD at 36% Off, Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-grab-hps-omen-egpu-and-40l-desktop-at-a-550-savings-shop-now/"><u>Huge Discount Alert: Grab HP's Omen eGPU & 40L Desktop at a $550 Savings - Shop Now !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discounts-alert-razer-blade-14-drops-to-unbeatable-prices-this-cyber-monday-tech-news/"><u>Huge Discounts Alert! Razer Blade 14 Drops to Unbeatable Prices This Cyber Monday | Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sale-alert-secure-up-to-50-discount-on-samsung-t5-ssds-ahead-of-amazons-prime-day/"><u>Sale Alert: Secure Up To 50% Discount On Samsung T5 SSDs Ahead Of Amazon's Prime Day</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-more-this-season-discover-the-ultimate-list-of-neweggs-best-holiday-offers-insights/"><u>Save More This Season: Discover the Ultimate List of Newegg's Best Holiday Offers | Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/solve-your-hdmi-sound-problems-when-linking-up-your-computer-display-and-television/"><u>Solve Your HDMI Sound Problems When Linking Up Your Computer, Display, and Television</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-2-5-things-id-like-to-see-more-than-just-power/"><u>Switch 2: 5 Things I’d Like to See More Than Just Power</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-chromebooks-for-academic-success-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Chromebooks for Academic Success: Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/tranquil-tracks-easy-volume-diminution-via-garageband-for-2024/"><u>Tranquil Tracks Easy Volume Diminution via Garageband for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-dells-elite-gamer-laptop-top-features-that-justify-the-thrill-at-3000-exclusive-insights-for-zdnet-readers/"><u>Unboxing Dell's Elite Gamer Laptop - Top Features That Justify the Thrill at $3,000 | Exclusive Insights for ZDNet Readers</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-script-generator-in-2024/"><u>What Is an AI Script Generator, In 2024</u></a></li>
 </ul></div>
 

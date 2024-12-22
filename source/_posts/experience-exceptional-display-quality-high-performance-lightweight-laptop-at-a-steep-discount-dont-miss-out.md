@@ -1,7 +1,7 @@
 ---
 title: "Experience Exceptional Display Quality: High-Performance Lightweight Laptop at a Steep Discount – Don’t Miss Out!"
-date: 2024-12-12T01:33:40.815Z
-updated: 2024-12-13T00:01:41.429Z
+date: 2024-12-17T00:40:13.027Z
+updated: 2024-12-22T02:05:41.641Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -101,7 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,16 +148,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/250-deal-walmart-offers-15-asus-laptop-with-full-connectivity-features-explore-now/"><u>$250 Deal: Walmart Offers 15 ASUS Laptop with Full Connectivity Features – Explore Now!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-12-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 12? | Stellar</u></a></li>
-<li><a href="https://fox-that.techidaily.com/immediate-action-needed-discover-the-compelling-advantages-of-ios-153-update/"><u>Immediate Action Needed: Discover the Compelling Advantages of iOS 15.3 Update</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lenovo-unveils-upgraded-2-in-1-thinkpad-with-superior-feature-for-power-users-expert-review-by-zdnet-awaits/"><u>Lenovo Unveils Upgraded 2-in-1 ThinkPad with Superior Feature for Power Users, Expert Review by ZDNet Awaits!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prime-day-alert-discover-a-highly-rated-alternative-to-thinkpads-and-macbooks-save-300-on-the-ideal-productivity-laptop-insider-tips-from-zdnet/"><u>Prime Day Alert! Discover a Highly Rated Alternative to ThinkPads and MacBooks - Save $300 on the Ideal Productivity Laptop (Insider Tips From ZDNet)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-essential-step-by-step-for-mac-file-formats/"><u>The Essential Step-by-Step for Mac File Formats</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-capturing-stunning-time-lapses-on-galaxys/"><u>The Ultimate Guide to Capturing Stunning Time-Lapses on Galaxys</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-potential-of-cloud-gaming-on-lenovo-ideapad-gaming-chromebook-a-comprehensive-analysis/"><u>Unlocking the Potential of Cloud Gaming on Lenovo IdeaPad Gaming Chromebook: A Comprehensive Analysis</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-the-best-youtube-thumbnail-size-for-2024/"><u>What's the Best YouTube Thumbnail Size for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/yoga-book-9i-will-lenovo-redefine-multitasking-with-its-latest-dual-screen-laptop-offering-according-to-zdnet/"><u>Yoga Book ^9I: Will Lenovo Redefine Multitasking with Its Latest Dual-Screen Laptop Offering, According to ZDNet?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-a-comprehensive-list-of-top-virtual-classrooms-not-inspired-by-udemy/"><u>[New] A Comprehensive List of Top Virtual Classrooms Not Inspired by Udemy</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-transform-your-youtube-channel-expert-tips-for-adding-chapter-sections/"><u>[New] In 2024, Transform Your YouTube Channel Expert Tips for Adding Chapter Sections</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-best-8-platforms-for-professional-linux-editing/"><u>[Updated] 2024 Approved Best 8 Platforms for Professional Linux Editing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-investigating-fb-video-shape-variance-for-2024/"><u>[Updated] Investigating FB Video Shape Variance for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-realme-gt-5-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme GT 5 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-innovative-swivel-design-a-firsthand-look-at-their-cutting-edge-laptop-unveiled-at-ifa-202/"><u>Experiencing Lenovo's Innovative Swivel Design: A Firsthand Look at Their Cutting-Edge Laptop Unveiled at IFA 202</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-tips-for-a-seamless-phone-screen-record/"><u>In 2024, Tips for a Seamless Phone Screen Record</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-apples-top-charging-station-picks-limited-time-60-off-deal-alert-trusted-tips/"><u>Score Big Savings on Apple's Top Charging Station Picks, Limited-Time $60 Off Deal Alert | Trusted Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-power-bank-for-your-laptop-at-a-steep-discount-quality-assurance-through-the-years/"><u>Top-Rated Power Bank for Your Laptop at a Steep Discount: Quality Assurance Through the Years</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-for-tech-lovers-save-a-whopping-250-on-the-sleek-dell-inspiron-16-inch-2-in-1-notebook-this-black-friday-zdnet/"><u>Unmissable Deal Alert for Tech Lovers! Save a Whopping $250 on the Sleek Dell Inspiron 16-Inch 2-in-1 Notebook This Black Friday | ZDNET</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unlock-pro-level-videos-top-free-online-video-editing-tools/"><u>Updated Unlock Pro-Level Videos Top Free Online Video Editing Tools</u></a></li>
 </ul></div>
 

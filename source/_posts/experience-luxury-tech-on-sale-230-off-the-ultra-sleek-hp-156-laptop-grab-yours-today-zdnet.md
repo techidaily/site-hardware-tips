@@ -1,7 +1,7 @@
 ---
 title: "Experience Luxury Tech on Sale: $230 Off the Ultra-Sleek HP 15.6” Laptop - Grab Yours Today @ ZDNET!"
-date: 2024-12-11T01:55:27.325Z
-updated: 2024-12-12T23:32:45.646Z
+date: 2024-12-17T06:07:28.776Z
+updated: 2024-12-22T06:23:57.946Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,18 +138,18 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ne-youtube-feed-how-to-merge-multiple-videos/"><u>[New] One YouTube Feed How to Merge Multiple Videos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-discord-message-pinning-essentials/"><u>2024 Approved Mastering Discord Message Pinning Essentials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/breaking-down-the-latest-from-apples-wwdc-202n-unveiling-of-mac-pro-mac-studio-and-innovative-m2-ultra-insights-for-tech-enthusiasts/"><u>Breaking Down the Latest From Apple's WWDC 202N: Unveiling of Mac Pro, Mac Studio & Innovative M2 Ultra - Insights for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/design-your-perfect-gamers-paradise-expert-tips-and-essentials-inspired-by-zdnet/"><u>Design Your Perfect Gamer's Paradise: Expert Tips & Essentials - Inspired by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-the-top-october-game-sales-of-2n24-huge-discounts-save-up-to-a-grand/"><u>Don't Miss Out on the Top October Game Sales of 2N24 - Huge Discounts, Save up to a Grand</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-90-gt-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor 90 GT to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-fresh-footage-feature-film-reviews/"><u>In 2024, Fresh Footage Feature Film Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/merging-windows-expertise-into-macos-strategy/"><u>Merging Windows Expertise Into macOS Strategy</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-compressor-in-fcpx-expert-techniques-for-professional-results/"><u>New In 2024, Compressor in FCPX Expert Techniques for Professional Results</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/premier-touchscreen-computers-unveiled-by-tech-experts-comprehensive-reviews/"><u>Premier Touchscreen Computers Unveiled by Tech Experts - Comprehensive Reviews</u></a></li>
-<li><a href="https://fox-that.techidaily.com/qr-code-scanning-problems-on-iphones-solved-find-your-way-with-our-8-tips/"><u>QR Code Scanning Problems on iPhones Solved: Find Your Way with Our 8 Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reliable-laptop-battery-backup-long-lasting-service-and-huge-savings-up-to-50-discount-available-today/"><u>Reliable Laptop Battery Backup: Long-Lasting Service & Huge Savings - Up To 50% Discount Available Today!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/savings-alert-secure-8tb-samsung-t5-nvme-ssd-36-off-on-amazon-post-prime-read-more-from-zdnet/"><u>Savings Alert! Secure 8TB Samsung T5 NVMe SSD 36% Off on Amazon Post-Prime - Read More From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-sneak-peek-at-prime-day-and-cyber-monday-laptop-deals-coming-in-october-2024-zdnet/"><u>Exclusive Sneak Peek at Prime Day & Cyber Monday Laptop Deals Coming in October 2024 | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-overcoming-lol-launch-lag/"><u>Guide to Overcoming LOL Launch Lag</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-successfully-install-and-tweak-pc-manager-w11/"><u>How to Successfully Install & Tweak PC Manager W11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-honor-magic-6-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Honor Magic 6 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-master-your-media-adhering-to-twitters-video-requirements/"><u>In 2024, Master Your Media Adhering to Twitter's Video Requirements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-air-with-apple-m1-chip-at-unbeatable-649-top-deal-on-zdnet/"><u>MacBook Air with Apple M1 Chip at Unbeatable $649: Top Deal on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-unbeatable-prime-day-blowouts-on-laptops-score-yours-before-halloween/"><u>Top Picks: Unbeatable Prime Day Blowouts on Laptops - Score Yours Before Halloween!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-student-friendly-chromebooks-comprehensive-reviews-and-insights-by-tech-experts/"><u>Top-Ranked Student-Friendly Chromebooks: Comprehensive Reviews & Insights by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-tablets-and-laptops-for-creative-professionals-in-depth-analysis-by-tech-experts/"><u>Top-Rated Graphics Tablets & Laptops for Creative Professionals - In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-presidents-sale-offer-score-300-discount-on-the-latest-m2-macbook-air-shop-now-at-zdnet/"><u>Unbeatable Presidents’ Sale Offer: Score $300 Discount on the Latest M2 MacBook Air - Shop Now at ZDNet!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-video-privacy-made-easy-top-blur-apps-for-face-and-background-for-2024/"><u>Updated Video Privacy Made Easy Top Blur Apps for Face and Background for 2024</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-motorola-edge-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Motorola Edge 40?</u></a></li>
 </ul></div>
 

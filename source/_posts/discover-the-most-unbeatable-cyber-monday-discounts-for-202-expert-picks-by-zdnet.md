@@ -1,7 +1,7 @@
 ---
 title: "Discover the Most Unbeatable Cyber Monday Discounts for 202#: Expert Picks by ZDNet"
-date: 2024-12-08T20:29:20.990Z
-updated: 2024-12-12T17:28:31.119Z
+date: 2024-12-16T18:40:05.642Z
+updated: 2024-12-22T11:01:03.312Z
 tags:
   - laptops
 categories:
@@ -131,7 +131,7 @@ ZDNET
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
@@ -154,7 +154,7 @@ ZDNET
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d6a7a4b-7078-4dcf-80e0-2c2bf8a0d6dd%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
@@ -216,20 +216,12 @@ Samsung/ZDNET
 * [AOC AG27 27-inch monitor for $600 (save $450 at B&H Photo, deal ends Oct 5)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1741859-REG%2Faoc%5Fag274qzm%5F27%5F16%5F9%5Fqhd.html): This 27-inch IPS monitor has 1440p resolution, a 240Hz refresh rate, a 1ms response time, and Nvidia G-Sync VRR support.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PC gaming accessories deals
 
 * [SanDisk Extreme Pro 4TB portable SSD for $340 (save $138 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-extreme-pro-portable-4tb-external-usb-c-nvme-ssd-black%2F6522095.p%3FskuId%3D6522095&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-05-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An ultra-tough portable SSD compatible with Windows and Mac computers and backed by a 5-year warranty.
 * [WD EasyStore 20TB external HDD for $330 (save $119)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-easystore-20tb-external-usb-3-0-hard-drive-black%2F6500985.p%3FskuId%3D6500985&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-05-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An external traditional HDD with 20TB of storage for backing up your entire desktop, storing raw video and picture files, and downloading large game files.
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $160 (save $60 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-05-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-05-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
 
@@ -239,23 +231,31 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $810 (save $114 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -322,17 +322,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-fonts-to-amplify-your-tiktok-presence-in-23/"><u>[New] In 2024, Top Fonts to Amplify Your TikTok Presence in '23</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unite-your-photos-cross-platform-instagram-collage-for-2024/"><u>[Updated] Unite Your Photos Cross-Platform Instagram Collage for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-bonanza-score-high-performance-nvidia-gpu-laptops-at-unbeatable-prices-in-202n-tech-news/"><u>Amazon Prime Day Bonanza: Score High-Performance Nvidia GPU Laptops at Unbeatable Prices in 202N - Tech News</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016358536-bluetnooth-audio-delay-beat-it-fast-with-our-simple-steps/"><u>Bluetnooth Audio Delay? Beat It Fast With Our Simple Steps!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-exclusive-october-prime-day-202n4-offers-on-games-save-up-to-1k-now/"><u>Don't Miss Out! Exclusive October Prime Day 202N4 Offers on Games - Save Up To $1K Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enjoy-the-ultra-portable-charm-of-lgs-gram-pro-17-special-deals-await-this-amazing-phone-during-amazon-prime-day-insights-from-a-hands-on-review/"><u>Enjoy the Ultra-Portable Charm of LG's Gram Pro 17: Special Deals Await This Amazing Phone During Amazon Prime Day – Insights From a Hands-On Review!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-simplified-steps-for-capturing-google-voice-calls/"><u>In 2024, Simplified Steps for Capturing Google Voice Calls</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-motorola-moto-g24-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Motorola Moto G24 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/inside-metaverse-how-to-build-memes-that-pop-online/"><u>Inside Metaverse How to Build Memes That Pop Online</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-add-emojisstickers-to-videos-on-pcmacmobileonline/"><u>New In 2024, How Add Emojis/Stickers to Videos on PC/Mac/Mobile/Online</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prime-day-extravaganza-top-bargains-from-amazons-biggest-sale-of-the-year-now-available-in-october/"><u>Prime Day Extravaganza - Top Bargains From Amazon's Biggest Sale of the Year, Now Available in October!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-versatile-notebooks-unveiled-exceptional-hardware-combined-with-popular-appeal-featured-in-zdnets-latest-tech-analysis/"><u>Top Versatile Notebooks Unveiled: Exceptional Hardware Combined with Popular Appeal, Featured in ZDNet's Latest Tech Analysis</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-adjusting-youtube-video-scale-effectively/"><u>[New] Adjusting YouTube Video Scale Effectively</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-essential-8-platforms-for-private-screenings/"><u>[New] In 2024, Essential 8 Platforms for Private Screenings</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-securely-amplifying-your-tiktok-presence-wisely/"><u>[New] Securely Amplifying Your TikTok Presence Wisely</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-discover-the-ultimate-30-list-of-free-vectr-and-illustration-sites-online/"><u>[Updated] Discover the Ultimate 30 List of Free Vectr and Illustration Sites Online</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-seamless-scenes-integrating-fade-inout-effects/"><u>2024 Approved Seamless Scenes Integrating Fade In/Out Effects</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-list-the-finest-fps-titles-in-gaming/"><u>In 2024, Ultimate List The Finest FPS Titles in Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-partnership-between-hyundai-motor-and-qualcomm-revolutionizes-in-car-entertainment-with-cutting-edge-pbv-technology/"><u>Innovative Partnership Between Hyundai Motor and Qualcomm Revolutionizes In-Car Entertainment with Cutting-Edge PBV Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-android-auto-enhancement-brings-bluetooth-headphone-compatibility-whats-inside-the-quality-of-life-upgrade-techdigest/"><u>Latest Android Auto Enhancement Brings Bluetooth Headphone Compatibility - What's Inside the Quality of Life Upgrade? | TechDigest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-journey-budget-with-steeply-discounted-lodging-vehicle-rentals-and-fun-filled-park-passes-via-our-elite-nomadic-bargainers-association-promo-z224/"><u>Maximize Your Journey Budget with Steeply Discounted Lodging, Vehicle Rentals, and Fun-Filled Park Passes via Our Elite Nomadic Bargainers' Association Promo - ZDNET's Gateway to Thrifty Wanderlust!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nasas-next-endeavor-shattering-speed-boundaries-in-upcoming-space-exploration-insights-from-zdnet/"><u>NASA's Next Endeavor: Shattering Speed Boundaries in Upcoming Space Exploration - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/premium-list-top-8-android-calls-with-multiple-users/"><u>Premium List Top 8 Android Calls with Multiple Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-iphone-how-safe-are-in-car-chargers-expert-reviews-and-findings-from-zdnets-comprehensive-tests/"><u>Protect Your iPhone: How Safe Are In-Car Chargers? Expert Reviews & Findings From ZDNet's Comprehensive Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-approach-how-southwest-airlines-seeks-improved-service-experience-according-to-zdnet/"><u>Revolutionary Approach: How Southwest Airlines Seeks Improved Service Experience, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-vehicle-safety-tesla-upgrades-car-sensor-technology-discover-what-it-means-for-consumers-techzine/"><u>Revolutionizing Vehicle Safety: Tesla Upgrades Car Sensor Technology - Discover What It Means for Consumers | TechZine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-money-save-the-planet-with-google-maps-new-eco-routing-more-routes-offer-fuel-savings-and-environmental-benefits-zdnet-insights/"><u>Save Money, Save the Planet with Google Maps' New 'Eco-Routing': More Routes Offer Fuel Savings & Environmental Benefits | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/singapore-airlines-enhances-inflight-experience-with-complimentary-limitless-internet-access-for-all-passengers/"><u>Singapore Airlines Enhances Inflight Experience with Complimentary Limitless Internet Access for All Passengers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/user-insights-on-the-imperfect-and-overpriced-microsoft-surface-duo-experience/"><u>User Insights on the Imperfect and Overpriced Microsoft Surface Duo Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/windows-11-dvdmp4aviwmvdvd/"><u>Windows 11 DVD转换工具专用于MP4/AVI/WMV格式转换，确保数据在DVD备份中安全存储</u></a></li>
 </ul></div>
 

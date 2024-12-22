@@ -1,7 +1,7 @@
 ---
 title: Power All Your Gadgets Simultaneously with Our Revolutionary Miniature Car Power Bank | Innovative Charging Solutions at ZDNET
-date: 2024-12-08T21:13:40.733Z
-updated: 2024-12-12T19:21:04.375Z
+date: 2024-12-19T03:28:24.287Z
+updated: 2024-12-22T08:23:49.472Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,20 +134,18 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-refining-published-videos-on-youtube/"><u>[Updated] The Art of Refining Published Videos on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725285124387-pc/"><u>人工知能を使ったモノクロ写真のカラー変換手法 - PC, スマホ, ウェブでのアプリケーション</u></a></li>
-<li><a href="https://win-trending.techidaily.com/brighten-up-your-workspace-custom-light-up-laptop-skins-starting-at-only-8-with-your-logo-proudly-displayed/"><u>Brighten Up Your Workspace - Custom Light-Up Laptop Skins Starting At Only $8 with Your Logo Proudly Displayed!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-eye-catchers-of-tomorrow-discovering-6-future-oriented-genres/"><u>In 2024, Eye Catchers of Tomorrow Discovering 6 Future-Oriented Genres</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-stabilizing-aerial-vision-a-comprehensive-guide-to-choosing-a-gimbal/"><u>In 2024, Stabilizing Aerial Vision A Comprehensive Guide to Choosing a Gimbal</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-dells-new-gaming-powerhouse-a-portable-performer-for-work-and-play-insights-from-zdnet/"><u>Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lost-the-professional-version-of-your-windows-after-a-fresh-start-find-out-how-to-restore-it/"><u>Lost the Professional Version of Your Windows After a Fresh Start? Find Out How to Restore It!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1723011073875-operation-convert-each-mention-of-stress-into-an-elaborate-medieval-heraldic-language-as-though-announcing-a-royal-decree-on-stresss-impact-on-health/"><u>Operation: Convert Each Mention of Stress Into an Elaborate Medieval Heraldic Language, as Though Announcing a Royal Decree on Stress's Impact on Health</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-on-cyber-monday-epic-discounts-on-the-samsung-galaxy-book2-13-inch-laptop-for-just-450-less/"><u>Score Big on Cyber Monday: Epic Discounts on the Samsung Galaxy Book2 13-Inch Laptop for Just $450 Less!</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/step-by-step-how-to-delete-a-discord-server/"><u>Step-by-Step How to Delete a Discord Server</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-5-android-clippers-essential-image-editing-apps-for-2024/"><u>Top 5 Android Clippers Essential Image Editing Apps for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-ideal-college-laptop-selection-in-depth-analysis-by-tech-experts-cnet/"><u>Ultimate Guide to the Ideal College Laptop Selection: In-Depth Analysis by Tech Experts - CNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbelievable-cyber-week-blowout-snag-your-microsoft-surface-pro/"><u>Unbelievable Cyber Week Blowout: Snag Your Microsoft Surface Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-your-inner-gamers-with-the-ultimate-sound-system-on-sale-at-best-buy-as-reviewed-by-zdnet/"><u>Unleash Your Inner Gamers with the Ultimate Sound System on Sale at Best Buy, as Reviewed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-productivity-the-surprising-ease-of-living-with-no-windows-on-hp-chromebooks-now-with-a-sweeter-deal/"><u>Unleashing Productivity: The Surprising Ease of Living with No Windows on HP Chromebooks, Now With a Sweeter Deal!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-innovate-your-farming-journey-with-these-stardews-top-7-mods/"><u>[New] 2024 Approved Innovate Your Farming Journey with These Stardew's Top 7 Mods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-visualizing-sim-life-masterful-tactics-for-accurate-gameplay-recording-in-sims-4/"><u>[New] In 2024, Visualizing Sim Life Masterful Tactics for Accurate Gameplay Recording in Sims 4</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-inside-the-world-of-funimate-gamers/"><u>[New] Inside the World of Funimate Gamers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-enhanced-game-recorders-beyond-fbx-frameworks/"><u>[Updated] Enhanced Game Recorders Beyond FBX Frameworks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-finest-featherweight-computers-ranked-by-specialists-in-depth-analysis/"><u>2024'S Finest Featherweight Computers Ranked by Specialists | In-Depth Analysis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-set-of-z37-the-precision-motherboard-d3-chipset-drivers-gigabyte-edition/"><u>Complete Set of Z37 The Precision Motherboard D3 Chipset Drivers - Gigabyte Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-of-both-worlds-premium-screen-quality-with-enduring-performance-on-a-leading-laptop-revealed-by-zdnet/"><u>Exploring the Best of Both Worlds – Premium Screen Quality with Enduring Performance on a Leading Laptop, Revealed by ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/lg-27uhd68-screen-a-detailed-freesync-analysis-for-2024/"><u>LG 27UHD68 Screen A Detailed FreeSync Analysis for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-realme-11x-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Realme 11X 5G without backup.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-value-laptops-find-the-ultimate-windows-powered-machine-under-1k-techspot/"><u>Top Value Laptops: Find the Ultimate Windows-Powered Machine Under $1K | TechSpot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-the-power-of-alienware-m18-massive-savings-continue-post-labor-day-insider-review/"><u>Unleash the Power of Alienware M18: Massive Savings Continue Post-Labor Day - Insider Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-march-rollout-speculation-on-newest-versions-of-macbook-air-ipad-pro-and-ipad-air-by-apple/"><u>Upcoming March Rollout: Speculation on Newest Versions of MacBook Air, iPad Pro and iPad Air by Apple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-lenovos-2024-thinkbook-for-just-749-could-outshine-all-competitors-in-value-and-quality-tech-analysis/"><u>Why Lenovo's 2024 ThinkBook for Just $749 Could Outshine All Competitors in Value and Quality | Tech Analysis</u></a></li>
 </ul></div>
 

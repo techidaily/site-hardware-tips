@@ -1,7 +1,7 @@
 ---
 title: "Best 5G Notebooks : Ultimate Guide and Rankings on CNet"
-date: 2024-12-09T22:11:33.027Z
-updated: 2024-12-12T22:07:39.521Z
+date: 2024-12-17T01:28:47.769Z
+updated: 2024-12-22T07:20:23.285Z
 tags:
   - laptops
 categories:
@@ -21,6 +21,10 @@ You're attempting to listen to music or watch a video on your computer.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -43,14 +47,10 @@ And with a snafu like no sound, there are a few ways to troubleshoot the issue, 
 Here's how to pull this off in both Windows 10 and 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reset your audio settings in Windows
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check your audio and sound source
 
@@ -59,6 +59,10 @@ You've probably already checked the usual suspects. But let's review anyway. Mak
 Check the volume.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Go to sound settings
 
@@ -106,6 +110,10 @@ Confirm the device.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Go to sound settings to run troubleshooter in another way
 
 Another way to run the troubleshooter in both versions of Windows is through sound settings. In either version, right-click the System Tray audio icon and select **Open Sound settings** or **Sound settings**. 
@@ -115,10 +123,6 @@ In Windows 10, click the **Troubleshoot** button under Master Volume. In Windows
 Use the Get Help app.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. In the sound settings screen, check the Volume mixer
 
@@ -134,6 +138,10 @@ Check the Volume mixer in Windows 11.
 
 Screenshot by Lance Whitney
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Click the Reset button
 
 Both versions of Windows show you the volume levels for different devices and applications. Review each level to make sure it's set properly. If all looks good and you're still unable to hear any sound, click the **Reset** button at the bottom. That will reset all the devices and apps to their recommended Microsoft defaults.
@@ -141,10 +149,6 @@ Both versions of Windows show you the volume levels for different devices and ap
 Reset the devices and apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Check the sound control panel
 
@@ -174,10 +178,6 @@ Open Device Manager.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Click Update driver
 
 First, try updating the driver. Click the **Update driver** button. Permit it to search your computer for drivers and then search Windows Update.
@@ -187,7 +187,7 @@ Update the driver.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 12\. If this doesn't work, try uninstalling the driver
@@ -259,24 +259,20 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/0-recording-tips-to-record-audio-in-high-quality-for-2024/"><u>[New] 10 Recording Tips to Record Audio in High Quality for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-capture-music-from-facebook-streams-for-2024/"><u>[Updated] Capture Music From Facebook Streams for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-detailed-guide-to-using-firefoxs-picture-in-picture-mode/"><u>2024 Approved Detailed Guide to Using Firefox's Picture-in-Picture Mode</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-stream-capture-software-unraveler/"><u>2024 Approved Stream Capture Software Unraveler</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-powerhouses-our-experts-picks-for-the-ultimate-under-1k-laptops-of-2024-zdnet/"><u>Affordable Powerhouses: Our Experts' Picks for the Ultimate Under-$1K Laptops of 2024 | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cyber-monday-bargain-alert-8-iphone-camera-mount-deal-still-going-strong/"><u>Cyber Monday Bargain Alert: $8 iPhone Camera Mount Deal Still Going Strong !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discount-alert-get-your-hands-on-a-pair-of-portable-monitors-for-less-with-teamgee-save-120-nowzdnet-deal/"><u>Discount Alert: Get Your Hands on a Pair of Portable Monitors for Less with TeamGee, Save $120 Now![ZDNET Deal]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diy-troubleshooting-guide-restoring-power-to-my-macbook-pro-without-spending-a-dime-digital-life-hacks/"><u>DIY Troubleshooting Guide: Restoring Power to My MacBook Pro Without Spending a Dime | Digital Life Hacks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-revolutionary-3d-art-on-asus-latest-laptops-no-vr-or-ar-glasses-required-detailed-analysis-for-tech-enthusiasts/"><u>Experience Revolutionary 3D Art on Asus Latest Laptops: No VR or AR Glasses Required - Detailed Analysis for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-sound-quality-in-gaming-with-these-discounted-speakers-at-amazon-spotted/"><u>Experience Unmatched Sound Quality in Gaming with These Discounted Speakers at Amazon, Spotted !</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-honor-magic-6-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Honor Magic 6 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-bandicam-reference-unpacking-2023-features/"><u>In 2024, The Ultimate Bandicam Reference – Unpacking 2023 Features</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mastering-the-art-of-adding-marks-to-your-ebook-pages-with-flipbuilder-tools-and-techniques/"><u>Mastering the Art of Adding Marks to Your eBook Pages with FlipBuilder Tools and Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-a-steal-on-samsung-t5-ssd-before-october-prime-day-exclusive-deals-dropping-early-at-amazon/"><u>Snag a Steal on Samsung T5 SSD Before October Prime Day: Exclusive Deals Dropping Early at Amazon</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-acceleration-of-telegram-post-facebook-disruption/"><u>The Acceleration of Telegram Post-Facebook Disruption</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-guide-to-softening-volume-levels-on-lumafusion/"><u>The Guide to Softening Volume Levels on Lumafusion</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-11-professional-tools-for-video-editing-in-2er-2024-leading-the-way/"><u>Top 11 Professional Tools for Video Editing in 2Er 2024 - Leading the Way</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-charged-selections-optimal-power-banks-for-macbook-pro-reviewed-by-zdnet/"><u>Top Charged Selections: Optimal Power Banks for MacBook Pro Reviewed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-the-power-of-alienware-m18-top-tier-gaming-performance-at-an-unbeatable-discount-post-labor-day-exclusive-insights-from-zdnet/"><u>Unleash the Power of Alienware M18: Top-Tier Gaming Performance at an Unbeatable Discount Post-Labor Day - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-snap-the-truth-your-manual-to-authenticity-on-instagram/"><u>[New] 2024 Approved Snap the Truth Your Manual to Authenticity on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-animated-bouncing-text-for-2024/"><u>[Updated] How to Create Animated Bouncing Text for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-starting-from-scratch-essential-gear-list-guide/"><u>[Updated] Starting From Scratch Essential Gear List Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-non-sport-spectacles-in-the-top-ten-front-rows/"><u>2024 Approved Non-Sport Spectacles in the Top Ten Front Rows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-hot-40i-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Hot 40i</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bulk-up-your-storage-for-less-save-36-off-amazons-8tb-samsung-t5-ssd-post-prime-day-featured-by-zdnet/"><u>Bulk up Your Storage for Less - Save 36% Off Amazon's 8TB Samsung T5 SSD Post Prime Day, Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-roundup-of-prime-day-savings-on-laptops-for-october-2024-tips-and-deals/"><u>Exclusive Roundup of Prime Day Savings on Laptops for October 2024 - Tips and Deals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15-gaming-laptop-now-available-for-a-steal-at-only-530-from-best-buy-tech-insights/"><u>HP Victus 15 Gaming Laptop Now Available for a Steal at Only $530 From Best Buy - Tech Insights</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-bring-your-clips-to-life-a-compreenased-way-to-post-on-youtube/"><u>In 2024, Bring Your Clips to Life A Compreenased Way to Post on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-into-mobile-gaming-streaming-steam-via-your-smartphone/"><u>Jump Into Mobile Gaming: Streaming Steam via Your Smartphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-on-hot-deals-pre-prime-day-2ebr-2024-expert-tips-by-zdnet/"><u>Maximize Savings on Hot Deals Pre-Prime Day 2Ebr 2024 | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-24-unbeatable-labor-day-sale-prices-on-laptops-find-the-best-offers-live/"><u>Top 24 Unbeatable Labor Day Sale Prices on Laptops - Find the Best Offers! [Live]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-usb-c-accessories-that-bridge-your-devices-to-ultra-hd-monitors-exclusive-tips-on-zdnet/"><u>Top Recommended USB-C Accessories That Bridge Your Devices to Ultra HD Monitors | Exclusive Tips on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transitioning-to-an-ergonomic-split-board-a-one-week-experience-that-changed-my-outlook-on-computer-accessories-insights-from-zdnet/"><u>Transitioning to an Ergonomic Split Board: A One-Week Experience that Changed My Outlook on Computer Accessories - Insights From ZDNet</u></a></li>
 </ul></div>
 

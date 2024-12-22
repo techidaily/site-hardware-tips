@@ -1,7 +1,7 @@
 ---
 title: Why and How to Customize Your Chromebook's DNS Servers for Enhanced Online Security - Expert Tips
-date: 2024-12-10T23:27:20.518Z
-updated: 2024-12-13T01:06:01.285Z
+date: 2024-12-18T02:51:14.888Z
+updated: 2024-12-21T16:20:25.941Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,20 +120,19 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-retro-tech-treasure/"><u>[New] Retro Tech Treasure</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-digital-audio-revolution-from-srt-to-xmlssattml/"><u>[Updated] In 2024, Digital Audio Revolution From SRT to XML/SSA/TTML</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210164741-9781645841838-abscission/"><u>Abscission | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazons-prime-day-deals-continue-score-the-latest-offers-with-36-off-on-a-high-capacity-8tb-samsung-t5-ssd-featured/"><u>Amazon's Prime Day Deals Continue! Score the Latest Offers with 36% Off on a High-Capacity 8TB Samsung T5 SSD - Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/contributing-to-chromes-future-the-essential-role-of-user-feedback-and-how-it-shapes-development-exclusive-tips-zdnet/"><u>Contributing to Chrome's Future: The Essential Role of User Feedback and How It Shapes Development (Exclusive Tips) | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-future-of-computing-with-dells-new-xps-14-laptop-exclusively-tested-and-reviewed-by-zdnet/"><u>Discover the Future of Computing with Dell's New XPS 14 Laptop, Exclusively Tested and Reviewed by ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-every-macos-release-from-mavericks-to-monterey-the-in-depth-journey/"><u>Exploring Every MacOS Release: From Mavericks to Monterey – The In-Depth Journey</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/futures-finest-macs-the-2024-ultimate-list-curated-by-zdnet/"><u>Future's Finest Macs - The 2024 Ultimate List Curated by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-honor-play-40c-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor Play 40C Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-mix-fold-3-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Mix Fold 3 Screen | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-microsofts-cutting-edge-ai-chip-strategy-for-superior-performance-over-macbook-exclusive-zdnet-preview/"><u>Inside Microsoft's Cutting-Edge AI Chip Strategy for Superior Performance Over MacBook - Exclusive ZDNet Preview</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-mac-studio-alternative-a-superior-windows-option-revealed/"><u>Introducing Lenovo's Mac Studio Alternative: A Superior Windows Option Revealed</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-sid-meiers-civ-vi-a-step-by-step-guide-to-resolving-game-crashes/"><u>Mastering Sid Meier's Civ VI: A Step-by-Step Guide to Resolving Game Crashes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-a-steep-bargain-on-lenovo-laptops-for-businesses-almost-1k-discount-pre-prime-day-exclusive-coverage/"><u>Unlock a Steep Bargain on Lenovo Laptops for Businesses - Almost 1K Discount Pre-Prime Day | Exclusive Coverage</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unpacking-the-performance-a-complete-guide-to-lg-bp350-monitors-for-2024/"><u>Unpacking the Performance A Complete Guide to LG BP350 Monitors for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-best-tiktok-video-editing-tips-for-2024/"><u>[New] Best Tiktok Video Editing Tips for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cam-titans-collide-sj6-and-yi-4k-showdown-for-2024/"><u>[Updated] Cam Titans Collide SJ6 and Yi 4K Showdown for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-explore-top-rated-image-transition-tools/"><u>[Updated] In 2024, Explore Top-Rated Image Transition Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-journey-through-high-definition-with-lgs-31mu97-b-screen-review-for-2024/"><u>[Updated] Journey Through High Definition with LG’s 31MU97-B Screen Review for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-video-showcase-the-best-15-youtube-sites-for-flawless-unboxing-2024/"><u>[Updated] Ultimate Video Showcase The Best 15 YouTube Sites for Flawless Unboxing, 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nikon-d500-a-revolution-in-4k-uhd-photography/"><u>2024 Approved Nikon D500 A Revolution in 4K UHD Photography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-nvidias-new-studio-laptops-home-to-the-quickest-and-strongest-graphics-cards-yet-techspot/"><u>Exploring Nvidia's New Studio Laptops: Home to the Quickest and Strongest Graphics Cards Yet | TechSpot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-perfect-hp-bargains-for-holidays-expert-roundup-of-16-picks/"><u>Find the Perfect HP Bargains for Holidays Expert Roundup of 16 Picks!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectify-android-video-malfunctions/"><u>Rectify Android Video Malfunctions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/redefining-efficiency-with-lenovos-new-dual-display-laptop-a-game-changer-in-computing-expert-review/"><u>Redefining Efficiency with Lenovo's New Dual-Display Laptop - A Game Changer in Computing | Expert Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reliable-portable-power-supply-for-laptops-trustworthy-performance-over-years-now-available-with-hefty-discount/"><u>Reliable Portable Power Supply for Laptops: Trustworthy Performance Over Years | Now Available with Hefty Discount !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steal-snag-the-hp-victus-15-gaming-laptop-at-just-515-during-best-buys-exclusive-anti-prime-day-event-insider-tips-from-zdnet/"><u>Score a Steal: Snag the HP Victus 15 Gaming Laptop at Just $515 During Best Buy's Exclusive Anti-Prime Day Event - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/traps-in-tokens-exposing-fake-bingpt-projects/"><u>Traps in Tokens: Exposing Fake BinGPT Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-value-windows-laptop-a-deep-dive-into-lenovos-newly-announced-749-thinkbook-gadgetexplorer/"><u>Unveiling the Best-Value Windows Laptop : A Deep Dive Into Lenovo's Newly Announced $749 ThinkBook | GadgetExplorer</u></a></li>
 </ul></div>
 

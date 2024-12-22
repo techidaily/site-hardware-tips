@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!"
-date: 2024-12-07T04:36:35.987Z
-updated: 2024-12-13T00:46:08.408Z
+date: 2024-12-16T20:14:55.808Z
+updated: 2024-12-21T19:17:03.636Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,21 +87,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-guide-to-youtubes-latest-income-strategies/"><u>[Updated] 2024 Approved Guide to YouTube's Latest Income Strategies</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhancing-your-syma-x8c-experience/"><u>2024 Approved Enhancing Your Syma X8C Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-editing-workflow-elite-picks-for-video-production-laptops-cnet-tests-and-verdicts/"><u>Ace Your Editing Workflow: Elite Picks for Video Production Laptops – CNET Tests and Verdicts</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/best-5-hevc-video-players-for-streaming-4k-content-on-your-computer-or-mac/"><u>Best 5 HEVC Video Players for Streaming 4K Content on Your Computer or Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/celebrate-memorial-day-with-incredible-savings-get-your-hands-on-the-durable-playful-lenovo-laptop-at-an-unbeatable-price-exclusive-tips-by-zdnet/"><u>Celebrate Memorial Day with Incredible Savings: Get Your Hands on the Durable, Playful Lenovo Laptop at an Unbeatable Price | Exclusive Tips by ZDNET</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-long-term-youtube-success-with-creative-commons-mainteninas/"><u>Ensuring Long-Term YouTube Success with Creative Commons Mainteninas</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-money-saving-offers-before-prime-day-2024-insights/"><u>Essential Money-Saving Offers Before Prime Day 2024: Insights</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-x-fold-2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo X Fold 2 Without Password | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-how-much-will-it-cost-to-shoot-a-music-video/"><u>In 2024, How Much Will It Cost To Shoot A Music Video</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/latest-chromeos-upgrade-introduces-windows-11-features-into-your-chromebook-what-you-need-to-know-zdnet/"><u>Latest ChromeOS Upgrade Introduces Windows 11 Features Into Your Chromebook: What You Need to Know (ZDNet)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-high-quality-15-inch-asus-notebook-with-all-the-essential-ports-now-available-from-walmart-for-an-unbeatable-price-of-250-zdnet-coverage/"><u>Score a High-Quality 15-Inch Asus Notebook with All the Essential Ports - Now Available From Walmart for an Unbeatable Price of $250 | ZDNet Coverage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/surface-devices-gain-advanced-copilotplus-features-catered-to-business-users-discover-the-latest-enhancements-zdnet/"><u>Surface Devices Gain Advanced Copilot+ Features Catered to Business Users - Discover the Latest Enhancements | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-quintessential-list-of-11-empowering-films-to-transform-your-perspective/"><u>The Quintessential List of 11 Empowering Films to Transform Your Perspective</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-gaming-notebooks-reviewed-and-compared-featuring-razer-acer-msi-and-others-insights/"><u>Top Gaming Notebooks Reviewed & Compared: Featuring Razer, Acer, MSI & Others - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-msi-gs65-drivers-for-windows/"><u>[Download] MSI GS65 Drivers for Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-ae-text-preset-collection-the-best-of-both-worlds/"><u>[Updated] AE Text Preset Collection The Best of Both Worlds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-crystal-uhd-and-qled-technology-in-samsungs-latest-televisions-insights-from-zdnet/"><u>Comparing Crystal UHD and QLED Technology in Samsung's Latest Televisions - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-oled-vs-led-technology-which-screen-is-superior/"><u>Comparing OLED Vs. LED Technology: Which Screen Is Superior?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/desai-c-760-ce-during-the-rule-of-rashtrakuta-emperor-krishna-i-r-753774/"><u>Desai: C. 760 CE During the Rule of Rashtrakuta Emperor Krishna I (R. 753–774)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhancing-your-viewing-experience-top-3-projector-settings-for-optimal-image-clarity/"><u>Enhancing Your Viewing Experience: Top 3 Projector Settings for Optimal Image Clarity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensure-that-each-stanza-alludes-to-one-of-the-four-elementsearth-water-air-firein-relation-to-taurus/"><u>Ensure that Each Stanza Alludes to One of the Four Elements—Earth, Water, Air, Fire—In Relation to Taurus.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-steps-to-uplift-gpts-integrated-plugin-platform/"><u>Essential Steps to Uplift GPT's Integrated Plugin Platform</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-elevate-your-videos-explore-the-10-best-online-backdrop-changers/"><u>In 2024, Elevate Your Videos Explore the 10 Best Online Backdrop Changers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-watch-3-overview-fusing-vintage-style-with-contemporary-technological-advances/"><u>Samsung Galaxy Watch 3 Overview: Fusing Vintage Style With Contemporary Technological Advances</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unstuck-your-iphones-focus-feature-handy-fixes-and-advice/"><u>Unstuck Your iPhone's Focus Feature: Handy Fixes & Advice</u></a></li>
 </ul></div>
 

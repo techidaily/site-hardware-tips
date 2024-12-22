@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Treasures From the Big Tech Treehouse: Unveiling of Apple’s New M4 Mac Mini, Enhanced iPad Lineup, and Latest Innovations at October's Special Event - The Insightful Guide"
-date: 2024-12-07T00:50:56.772Z
-updated: 2024-12-12T19:10:13.340Z
+date: 2024-12-21T01:58:02.246Z
+updated: 2024-12-22T02:18:45.806Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,16 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-exclusive-apples-m2-macbook-air-available-at-a-steal-for-749-dont-miss-out/"><u>Amazon Prime Day Exclusive: Apple's M2 MacBook Air Available at a Steal for $749 - Don't Miss Out!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/clearer-viewing-experience-fix-a-purple-blue-distortion-on-your-television-in-8-easy-ways/"><u>Clearer Viewing Experience: Fix a Purple-Blue Distortion on Your Television in 8 Easy Ways</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-vetted-leading-digital-journals-for-purchase-comprehensive-analysis-pcmag/"><u>Expertly Vetted Leading Digital Journals for Purchase - Comprehensive Analysis | PCMag</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-11-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 11 and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-windows-10s-sound-driver-landscape/"><u>Navigating Windows 10'S Sound Driver Landscape</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prime-day-oct-2024s-greatest-bargains-still-on-offer-top-picks-from-best-buy/"><u>Prime Day Oct 2024'S Greatest Bargains Still on Offer! - Top Picks From Best Buy</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-window-10-shutdown-lags-with-ease/"><u>Resolve Your Window 10 Shutdown Lags with Ease</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-with-hp-cyber-week-blowout-sale-70-75-off-top-tech-find-your-dream-monitor-or-laptop-at-unbeatable-prices-featured-on-zdnet/"><u>Save Big with HP Cyber Week Blowout Sale: 70-75% Off Top Tech - Find Your Dream Monitor or Laptop at Unbeatable Prices, Featured on ZDNet.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-starter-linux-os-options-comprehensive-analysis-and-reviews-by-professionals/"><u>Top-Rated Starter Linux OS Options: Comprehensive Analysis & Reviews by Professionals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-get-started-with-youtube-video-ad-building-without-spending/"><u>[Updated] In 2024, Get Started with YouTube Video Ad Building Without Spending</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-real-time-video-conversations-with-whatsapp-web-on-pcs/"><u>2024 Approved Mastering Real-Time Video Conversations with WhatsApp Web on PCs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192575-best-6-exceptional-contact-widget-apps-for-android-ranked/"><u>Best 6 Exceptional Contact Widget Apps for Android - Ranked</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-can-you-verify-your-computers-sound-card-performance-expert-tips-from-yl-computing/"><u>How Can You Verify Your Computer's Sound Card Performance? - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-screen-capture-device-for-effective-video-sharing/"><u>Ideal Screen Capture Device for Effective Video Sharing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-combining-rotating-and-fine-tuning-videos-with-android-tools/"><u>In 2024, Combining, Rotating & Fine-Tuning Videos with Android Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-audio-file-transformation-srt-to-xmlssattml/"><u>In 2024, Mastering Audio File Transformation SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-guide-to-motion-tracking-apps-on-mobile-for-2024/"><u>New The Ultimate Guide to Motion Tracking Apps on Mobile for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-e-bike-revolution-with-velotric-discover-1-sleek-design-meets-competitive-price-point/"><u>The E-Bike Revolution with Velotric Discover 1 – Sleek Design Meets Competitive Price Point</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-essential-gadgets-every-business-traveller-needs-today-insights-from-zdnet/"><u>Top 5 Essential Gadgets Every Business Traveller Needs Today - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-ideal-credit-cards-partnering-with-southwest-airlines-insights-from-zdnet/"><u>Top 5 Ideal Credit Cards Partnering with Southwest Airlines - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premier-rv-models-of-2022-exploring-the-finest-motorhomes-and-campers-insights-from-zdnet/"><u>Top 5 Premier RV Models of 2022: Exploring the Finest Motorhomes & Campers - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ces-2023-innovations-to-track-exploring-the-metaverse-futuristic-healthcare-and-beyond/"><u>Top CES 2023 Innovations to Track: Exploring the Metaverse, Futuristic Healthcare & Beyond</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-credit-cards-perfect-for-beginner-spenders-expert-reviews/"><u>Top Credit Cards Perfect for Beginner Spenders | Expert Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-essential-drone-gear-of-2022-unmissable-add-ons-every-pilot-needs-techradar/"><u>Top Essential Drone Gear of 2022: Unmissable Add-Ons Every Pilot Needs | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-electric-vehicles-expert-reviews-and-comparison-zdnet/"><u>Top Rated Electric Vehicles : Expert Reviews & Comparison - ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-iphones-best-vpn-options-thoroughly-tested-ratings-and-insights-cnet-analysis/"><u>Ultimate Guide to iPhone's Best VPN Options: Thoroughly Tested Ratings & Insights | CNET Analysis</u></a></li>
 </ul></div>
 

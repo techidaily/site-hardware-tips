@@ -1,7 +1,7 @@
 ---
 title: "Brydge SP Max Plus Case Reviewed: Boosting Durability for the Surface Pro 8 with Top-Grade Keyboard Protection | Tech Analysis by ZDNET"
-date: 2024-12-09T04:11:14.979Z
-updated: 2024-12-12T22:15:31.222Z
+date: 2024-12-21T03:41:54.180Z
+updated: 2024-12-21T16:42:17.009Z
 tags:
   - laptops
 categories:
@@ -45,7 +45,7 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -70,10 +70,6 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 The ability to run two external monitors with the lid closed is one of the M3 MacBook Air's biggest upgrades.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
 
@@ -109,6 +105,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cinebench CPU/GPU benchmark (higher is better)
 
 ---
@@ -137,6 +137,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -152,7 +156,7 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -172,7 +176,7 @@ Jason Hiner/ZDNET
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd8f9078-4e77-496d-a208-fe808b070d0c%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd8f9078-4e77-496d-a208-fe808b070d0c%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -184,10 +188,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,24 +235,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-audio-anomalies-essential-rhythm-altering-tools-for-2024/"><u>[Updated] Audio Anomalies Essential Rhythm Altering Tools for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-cutting-techniques-for-sports-entertainment-films-for-2024/"><u>[Updated] Cutting Techniques for Sports Entertainment Films for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/10-most-inspiring-yoga-channels-on-the-web-for-2024/"><u>10 Most Inspiring Yoga Channels on the Web for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-overcoming-fullscreen-malfunctions-in-obs/"><u>2024 Approved Overcoming Fullscreen Malfunctions in OBS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazons-october-prime-sale-shines-with-25-off-score-the-latest-apple-m3-macbook-air-for-less/"><u>Amazon's October Prime Sale Shines with 25% Off: Score the Latest Apple M3 MacBook Air for Less!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/braving-the-frost-why-computer-manufacturers-struggle-may-spell-opportunity-for-consumers-tech-analysis-on-zdnet/"><u>Braving the Frost: Why Computer Manufacturers' Struggle May Spell Opportunity for Consumers | Tech Analysis on ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-google-pixel-8-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Google Pixel 8 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/journey-to-the-ultimate-vr-cycling-spaces-for-2024/"><u>Journey to the Ultimate VR Cycling Spaces for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximizing-productivity-and-savings-a-windows-gurus-guide-to-owning-an-economy-surface-pro-11-model-zdnet/"><u>Maximizing Productivity and Savings: A Windows Guru's Guide to Owning an Economy Surface Pro ˈ11 Model | ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-hurdles-in-watching-amazon-prime-videos-a-comprehensive-guide/"><u>Overcoming Hurdles in Watching Amazon Prime Videos – A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prime-day-savings-alert-unveiling-an-exceptional-lenovo-and-dell-alternative-the-ultimate-guide-to-choosing-a-budget-friendly-2-in-1-laptop-experts/"><u>Prime Day Savings Alert! Unveiling an Exceptional, Lenovo & Dell Alternative: The Ultimate Guide to Choosing a Budget-Friendly 2-in-1 Laptop Experts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/prime-windows-10-photo-display/"><u>Prime Windows 10 Photo Display</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-apples-m2-macbook-air-for-an-unbelievable-price-of-749-on-amazons-prime-day-in-october-according-to-zdnet-reviews/"><u>Snag the Apple's M2 MacBook Air for an Unbelievable Price of $749 on Amazon’s Prime Day in October, According to ZDNET Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-hp-victus-15-for-just-515-unbeatable-prime-day-offer-at-best-buy-according-to-zdnet/"><u>Snag the HP Victus 15 for Just $515 – Unbeatable Prime Day Offer at Best Buy, According to ZDNet!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nail-insight-top-picks-for-maximizing-video-visibility/"><u>Thumbnail Insight Top Picks for Maximizing Video Visibility</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-laptops-reviewed-by-experts-at-zdnet-discover-the-solid-multi-purpose-machine-earning-accolades-among-users-and-critics-alike/"><u>Top-Performing Laptops Reviewed by Experts at ZDNet: Discover the Solid, Multi-Purpose Machine Earning Accolades Among Users and Critics Alike</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-tested-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Tested & Reviews by Tech Gurus - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/undiscovered-gem-the-top-2023-dual-function-device-with-a-surprising-office-perk-reviews-by-tech-experts/"><u>Undiscovered Gem: The Top 2023 Dual-Function Device with a Surprising Office Perk, Reviews by Tech Experts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-journey-to-origin-how-to-utilize-reverse-image-functionality-on-instagram-for-2024/"><u>[New] The Journey to Origin How to Utilize Reverse Image Functionality on Instagram for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-your-work-with-the-top-10-chatgpt-addons-for-quick-pdf-generation/"><u>Accelerate Your Work with the Top 10 ChatGPT Addons for Quick PDF Generation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bluetooth-obd-adapter-reveals-car-codes-the-smart-way-to-fix-your-check-engine-light/"><u>Bluetooth OBD Adapter Reveals Car Codes - The Smart Way to Fix Your Check Engine Light</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/braving-the-skies-how-8kplus-passengers-embraced-travel-with-southwest-airlines-insights-from-zdnet/"><u>Braving the Skies: How 8K+ Passengers Embraced Travel with Southwest Airlines | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-using-a-car-charger-damage-your-iphone-positive-results-from-extensive-tests-on-multiple-devices-zdnet/"><u>Can Using a Car Charger Damage Your iPhone? Positive Results From Extensive Tests on Multiple Devices - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/combatting-auto-theft-trends-how-kia-and-hyundai-use-innovative-tech-against-viral-tiktok-hacks/"><u>Combatting Auto-Theft Trends: How Kia & Hyundai Use Innovative Tech Against Viral TikTok Hacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/microsoft-prepares-to-discontinue-paint-3d-what-it-means-for-users-and-creators/"><u>Microsoft Prepares to Discontinue Paint 3D – What It Means for Users and Creators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-straightforward-path-to-windows-voice-transformation-for-fishy-sounds/"><u>The Straightforward Path to Windows Voice Transformation for Fishy Sounds</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-six-techniques-for-solving-terraria-disconnection-issues/"><u>Top Six Techniques for Solving Terraria Disconnection Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-finding-out-if-microsoft-teams-is-experiencing-issues/"><u>Troubleshooting: Finding Out If Microsoft Teams Is Experiencing Issues</u></a></li>
 </ul></div>
 

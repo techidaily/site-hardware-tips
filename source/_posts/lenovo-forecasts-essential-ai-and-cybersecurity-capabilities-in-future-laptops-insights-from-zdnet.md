@@ -1,7 +1,7 @@
 ---
 title: Lenovo Forecasts Essential AI and Cybersecurity Capabilities in Future Laptops - Insights From ZDNet
-date: 2024-12-07T19:32:01.987Z
-updated: 2024-12-13T04:16:22.333Z
+date: 2024-12-15T16:29:45.294Z
+updated: 2024-12-21T23:49:48.578Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,21 +77,24 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-multimedia-iptv-networking/"><u>[New] In 2024, Multimedia IPTV Networking</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-path-to-effective-marketing-best-practices-for-health-promos-for-2024/"><u>[New] The Path to Effective Marketing Best Practices for Health Promos for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-youtube-view-bots-and-other-easy-hacks-to-increase-views-for-2024/"><u>[Updated] YouTube View Bots and Other Easy Hacks to Increase Views for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-video-anonymity-tips-for-blurring-private-data/"><u>2024 Approved Video Anonymity Tips for Blurring Private Data</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-black-friday-offer-grab-the-last-of-our-discounted-79-lenovo-chromebooks-before-cyber-monday-ends/"><u>Exclusive Black Friday Offer: Grab the Last of Our Discounted $79 Lenovo Chromebooks Before Cyber Monday Ends!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-creme-de-la-creme-of-macbooks-insider-tips-and-reviews/"><u>Exploring the Crème De La Crème of MacBooks - Insider Tips and Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-the-best-deal-top-rated-macbook-usb-c-chargers-under-70-available-on-amazon-insights/"><u>Get the Best Deal: Top-Rated MacBook USB-C Chargers Under $70 Available on Amazon - Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuito-online-transformador-de-videos-para-convertir-wmv-en-webm-moviwizard/"><u>Gratuito Online: Transformador De Vídeos Para Convertir WMV en WebM - MoviWizard</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/high-definition-open-source-e-ink-display-revealed-the-modos-paper-shatters-expectations-with-1200p-on-133-screen/"><u>High-Definition Open-Source E-Ink Display Revealed: The Modos Paper Shatters Expectations with 1200P on 13.3 Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-11-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 11 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimal-method-for-integrating-gopro-footage-into-360-degree-films-for-2024/"><u>Optimal Method for Integrating GoPro Footage Into 360-Degree Films for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-october-prime-day-offer-meta-unveils-exceptional-512gb-quest-3-virtual-reality-bundle-exclusive-sale-on-zdnet/"><u>Top October Prime Day Offer: Meta Unveils Exceptional 512GB Quest 3 Virtual Reality Bundle - Exclusive Sale on ZDNet!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-huawei-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Huawei FRP Bypass</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-top-rated-ultralight-laptop-perfect-for-telecommuters-zdnet-insights/"><u>Ultimate Guide: Top Rated Ultralight Laptop Perfect for Telecommuters | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-lost-memories-a-step-by-step-guide-to-restoring-files-from-your-outdated-laptop-without-knowing-the-passcode/"><u>Unlocking Lost Memories: A Step-by-Step Guide to Restoring Files From Your Outdated Laptop Without Knowing the Passcode</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-and-how-to-customize-your-chromebooks-dns-servers-for-enhanced-online-security-expert-tips/"><u>Why and How to Customize Your Chromebook's DNS Servers for Enhanced Online Security - Expert Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-enhance-video-aesthetics-instagram-border-techniques/"><u>[New] 2024 Approved Enhance Video Aesthetics Instagram Border Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-expert-picks-of-premium-timelapse-capture-software-for-2024/"><u>[New] Expert Picks of Premium Timelapse Capture Software for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[New] Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-revenue-on-youtube-shorts/"><u>[Updated] Mastering Revenue on YouTube Shorts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-revolutionary-lenovo-yoga-book-9i-the-pioneering-laptop-with-dual-oled-screens-explore-more-on-zdnet/"><u>Experience the Revolutionary Lenovo Yoga Book 9I: The Pioneering Laptop with Dual OLED Screens - Explore More on ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-8-plus-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 8 Plus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-s23-fe-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy S23 FE Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-compatibility-problems-with-a-total-war-saga-troy-on-your-computer/"><u>How to Overcome Compatibility Problems with A Total War Saga: Troy on Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-lenovo-hybrid-laptopandroid-tablet-showdown-assessing-its-capabilities-and-envisioning-its-full-potential-techexplorers-review/"><u>The Lenovo Hybrid Laptop/Android Tablet Showdown: Assessing Its Capabilities & Envisioning Its Full Potential | TechExplorers Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-perfect-blend-how-i-found-my-ideal-fit-with-the-apple-watch-ultra-2-at-an-exceptional-labor-day-discount-insights-from-zdnet/"><u>The Perfect Blend: How I Found My Ideal Fit with the Apple Watch Ultra 2 at an Exceptional Labor Day Discount – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-premium-gaming-ssds-compatible-with-pc-playstation-5-and-xbox-expert-review/"><u>Top 6 Premium Gaming SSDs Compatible with PC, PlayStation 5 & Xbox: Expert Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-choice-lenovo-device-perfectly-tailored-for-remote-office-environments-now-at-a-whopping-60-discount-insider-info/"><u>Top Choice Lenovo Device Perfectly Tailored for Remote-Office Environments Now at a Whopping 60% Discount - Insider Info!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-residential-power-storage-solutions-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Residential Power Storage Solutions : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-computers-professional-insights-and-reviews-techadvisor/"><u>Top-Rated Touchscreen Computers: Professional Insights & Reviews - TechAdvisor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-alert-acer-porsche-design-notebooks-now-just-600-save-huge-on-tech-today/"><u>Unbelievable Deal Alert: Acer Porsche Design Notebooks Now Just $600 - Save Huge on Tech Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-ultimate-versatility-discover-the-powerful-yet-portable-8-in-1-charger-that-defies-price-point-expectations/"><u>Unlock Ultimate Versatility: Discover the Powerful Yet Portable 8-in-1 Charger that Defies Price Point Expectations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-acer-swift-edge-ultra-lightweight-4k-oled-laptop-revealed-in-our-comprehensive-review-techsavvy-journal/"><u>Unveiling the Acer Swift Edge: Ultra-Lightweight 4K OLED Laptop Revealed in Our Comprehensive Review | TechSavvy Journal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-anticipate-new-innovations-at-apples-october-showcase-m4-mac-mini-and-advanced-ipads-revealed/"><u>Unveiling the Future: Anticipate New Innovations at Apple's October Showcase - M4 Mac Mini & Advanced iPads Revealed!</u></a></li>
 </ul></div>
 

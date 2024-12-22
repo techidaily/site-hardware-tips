@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings on Cyber Monday: Snag the Ultra Portable LG Gram 17 with a Stunning 60 Display for Just $599 at ZDNet - Up to 25%% Off!"
-date: 2024-12-05T19:36:13.600Z
-updated: 2024-12-12T23:18:58.750Z
+date: 2024-12-20T18:09:44.237Z
+updated: 2024-12-21T18:59:43.855Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9df070ed-bda2-4543-9019-9a0e1f642df9%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,20 +65,22 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-direct-guide-to-modifying-macs-default-snapshots/"><u>[New] 2024 Approved Direct Guide to Modifying Mac's Default Snapshots</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-tips-embedding-moving-images-in-written-content/"><u>[New] 2024 Approved Free Tips Embedding Moving Images in Written Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-visualize-vitality-vent-laughter-kapwings-design-suite/"><u>[New] 2024 Approved Visualize Vitality, Vent Laughter - Kapwing’s Design Suite</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-channel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>[Updated] In 2024, Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-connected-platforms-sharing-videos-between-twitter-and-tumblr/"><u>2024 Approved Connected Platforms Sharing Videos Between Twitter & Tumblr</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/a-deep-dive-prodigious-polarrs-editing-capabilities/"><u>A Deep Dive Prodigious Polarr's Editing Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuite-convertisseur-video-online-pour-transformer-3gp-en-flac-et-wav-avec-movavi/"><u>Gratuité: Convertisseur Vidéo Online Pour Transformer 3GP en FLAC Et WAV Avec Movavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-x-flip-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo X Flip FRP Bypass</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ipad-pro-or-macbook-air-deciding-the-superior-device-for-your-needs-gadgetadvisor/"><u>IPad Pro or MacBook Air: Deciding the Superior Device for Your Needs | GadgetAdvisor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsofts-groundbreaking-announcements-at-the-surface-and-artificial-intelligence-event-covered-by-zdnet-an-overview/"><u>Microsoft's Groundbreaking Announcements at the Surface & Artificial Intelligence Event Covered by ZDNET: An Overview</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-with-a-limited-time-offer-get-the-hp-victus-15-gaming-laptop-for-only-515-this-cyber-monday-best-deal-alert/"><u>Save Big with a Limited-Time Offer: Get the HP Victus 15 Gaming Laptop for Only $515 This Cyber Monday – Best Deal Alert!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-tested-and-reviewed-digital-notepads-find-your-perfect-match/"><u>Top-Ranking Tested & Reviewed Digital Notepads: Find Your Perfect Match!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncovering-the-top-underappreciated-dual-purpose-device-for-your-workspace-a-2023-review/"><u>Uncovering the Top Underappreciated Dual-Purpose Device for Your Workspace: A 2023 Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/weekend-upgrade-why-updating-your-google-chrome-now-is-a-must-do-infographic/"><u>Weekend Upgrade: Why Updating Your Google Chrome Now Is a Must-Do [Infographic]</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/why-is-utorrent-unresponsive-explore-7-effective-remedies/"><u>Why Is Utorrent Unresponsive? Explore 7 Effective Remedies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-an-insiders-view-on-creating-effective-slug-lines/"><u>[New] 2024 Approved An Insider's View on Creating Effective Slug Lines</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-scholarly-selection-pinpointing-top-10-teaching-equipment-options/"><u>[New] Scholarly Selection Pinpointing Top 10 Teaching Equipment Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-screen-scribes-editing-edition-guide/"><u>[Updated] Screen Scribes Editing Edition Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-free-tools-top-5-screen-recorder-apps-for-chrome-devices/"><u>2024 Approved Free Tools Top 5 Screen Recorder Apps for Chrome Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-infinix-hot-40i-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Infinix Hot 40i by Name | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instaidentity-100-innovative-caption-examples-for-global-sharing/"><u>In 2024, InstaIdentity 100 Innovative Caption Examples for Global Sharing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oppo-f25-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Oppo F25 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-challenges-of-in-flight-internet-access-potential-solutions-in-the-horizon/"><u>Navigating the Challenges of In-Flight Internet Access: Potential Solutions in the Horizon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-literary-highway-a-comprehensive-analysis-of-the-road-to-nowhere-automotive-insights-on-zdnet/"><u>Navigating the Literary Highway: A Comprehensive Analysis of 'The Road to Nowhere' - Automotive Insights on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-ml-endeavor-propels-forward-motion-for-self-driving-car-advancements-viewpoint-by-zdnet/"><u>Pioneering ML Endeavor Propels Forward Motion for Self-Driving Car Advancements | Viewpoint by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protecting-commercial-vehicles-from-gps-spoofing-attacks-essential-strategies-for-prevention/"><u>Protecting Commercial Vehicles From GPS Spoofing Attacks - Essential Strategies for Prevention</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-efficiency-uncovered-in-emporia-energys-smart-ev-charging-solution-zdnet-review/"><u>Revolutionary Efficiency Uncovered in Emporia Energy's Smart EV Charging Solution | ZDNET Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-and-buy-an-affordable-e-bike-for-less-than-900-exclusive-deals-from-zdnet/"><u>Save Big and Buy an Affordable E-Bike for Less Than $900 - Exclusive Deals From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-the-hovranger-electric-bike-a-500-smarter-alternative-for-your-everyday-transit-explored-by-a-tech-enthusiast-on-zdnet/"><u>Save Big with the HovRanger Electric Bike: A $500 Smarter Alternative for Your Everyday Transit, Explored by a Tech Enthusiast on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-purchase-a-high-quality-electric-bike-below-900-today-only/"><u>Save Big: Purchase a High-Quality Electric Bike Below $900 - Today Only!</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-lava-yuva-3-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Lava Yuva 3 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

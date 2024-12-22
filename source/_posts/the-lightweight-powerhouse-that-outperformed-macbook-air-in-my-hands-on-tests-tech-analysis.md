@@ -1,7 +1,7 @@
 ---
 title: The Lightweight Powerhouse That Outperformed MacBook Air in My Hands-On Tests | Tech Analysis
-date: 2024-12-09T23:30:13.612Z
-updated: 2024-12-12T23:55:19.730Z
+date: 2024-12-17T17:59:21.895Z
+updated: 2024-12-21T18:34:20.948Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -87,7 +87,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -126,19 +126,16 @@ The Surface Laptop is a flagship mid-range device that's well-rounded enough to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-techniques-in-documenting-real-time-sporting-broadcasts/"><u>[New] In 2024, Top Techniques in Documenting Real-Time Sporting Broadcasts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-10-ultimate-immersive-vr-video-hits/"><u>[Updated] In 2024, 10 Ultimate Immersive VR Video Hits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-leading-vr-devices-ranked-in-depth-analysis-and-expert-assessments-from-zdnet/"><u>2024'S Leading VR Devices Ranked: In-Depth Analysis and Expert Assessments From ZDNET</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/bcdboot3/"><u>BCDBootで失敗するブートファイルコピーエラーの解決方法3つ</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-honor-90-gt-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor 90 GT Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722968981480-enhance-your-display-downloadingupdating-asus-vg2-48qe-graphics-card-drivers-for-windows-effortlessly/"><u>Enhance Your Display: Downloading/Updating Asus VG2 48QE Graphics Card Drivers for Windows Effortlessly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/how-to-create-a-funny-meme-for-2024/"><u>How To Create A Funny Meme for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/improving-video-quality-during-iphone-shoots-for-2024/"><u>Improving Video Quality During iPhone Shoots for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-copilotplus-pc-shines-as-a-top-contender-for-best-value-on-the-windows-platform-inside-look/"><u>Samsung Copilot+ PC Shines as a Top Contender for Best Value on the Windows Platform – Inside Look</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-workhorse-laptop-unveiled-surpasses-thoughtpad-and-macbook-in-tests-insights/"><u>Top-Performing Workhorse Laptop Unveiled, Surpasses Thoughtpad & Macbook in Tests - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-streaming-microphones-featured-on-zdnet/"><u>Top-Ranked Streaming Microphones - Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-workspaces-one-week-on-a-split-ergonomic-keyboard-and-its-impact-zdnet-explored/"><u>Transforming Workspaces: One Week on a Split Ergonomic Keyboard & Its Impact - ZDNet Explored</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unparalleled-performance-discovering-top-notch-ultraportable-devices-ideal-for-telecommuters-a-comprehensive-review/"><u>Unparalleled Performance: Discovering Top-Notch Ultraportable Devices Ideal for Telecommuters - A Comprehensive Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-social-media-savvy-key-hashtags-to-utilize-today/"><u>[New] In 2024, Social Media Savvy Key Hashtags to Utilize Today</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-joy-in-switchs-best-card-choices/"><u>[Updated] Capturing Joy in Switch's Best Card Choices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/enhanced-game-recorders-beyond-fbx-frameworks/"><u>Enhanced Game Recorders Beyond FBX Frameworks</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-casual-to-pro-unpacking-kinemaster-for-android-gamers-for-2024/"><u>From Casual to Pro Unpacking KineMaster for Android Gamers for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-defy-2withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Defy 2with/without a PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-air-2020-vs-ipad-air-is-it-time-to-consider-an-upgrade/"><u>IPad Air (2020) vs iPad Air : Is It Time to Consider an Upgrade?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-pro-unveiled-embracing-its-unique-strengths-despite-not-being-a-macbook-insights-from-zdnet/"><u>IPad Pro Unveiled: Embracing Its Unique Strengths, Despite Not Being a MacBook | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/july-2024-exclusive-apple-discounts-find-the-best-deals-for-iphones-apple-watches-and-ipads-with-our-in-depth-analysis-zdnet/"><u>July 2024 Exclusive Apple Discounts: Find the Best Deals for iPhones, Apple Watches & iPads with Our In-Depth Analysis | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-alert-upgrade-to-an-amazon-fire-tablet-for-only-50-with-our-exclusive-trade-in-deal-featured-by-zdnet/"><u>Labor Day Sale Alert! Upgrade to an Amazon Fire Tablet for Only $50 With Our Exclusive Trade-In Deal, Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-grab-a-4tb-samsung-t5-external-ssd-on-amazon-save-almost-half-its-price-spotted-by-zdnet/"><u>Massive Discount: Grab a 4TB Samsung T5 External SSD on Amazon - Save Almost Half Its Price, Spotted by ZDNet!</u></a></li>
 </ul></div>
 

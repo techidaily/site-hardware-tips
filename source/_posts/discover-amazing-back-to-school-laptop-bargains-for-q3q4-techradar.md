@@ -1,7 +1,7 @@
 ---
 title: Discover Amazing Back-to-School Laptop Bargains for Q3/Q4 | TechRadar
-date: 2024-12-08T16:44:28.064Z
-updated: 2024-12-12T16:17:27.591Z
+date: 2024-12-18T08:55:52.264Z
+updated: 2024-12-22T05:29:56.098Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -102,7 +98,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 ## Alternative laptop deals
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Amazon laptop deals
@@ -141,10 +137,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple MacBook deals
 
 [Apple MacBook Air, 15-inch, M2 chip, 1TB deal for $1,599 (save $300) $1,599 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-air-15-laptop-m2-chip-16gb-memory-1tb-ssd-midnight%2F6382794.p%3FskuId%3D6382794&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -156,10 +148,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Pro, refurbished, 15-inch, 16GB RAM deal for $800 (save $2,000) $800 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-refurbished-macbook-pro-15-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-560x-512gb-ssd-space-gray%2F6515403.p%3FskuId%3D6515403&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
 
@@ -173,6 +161,10 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -182,12 +174,16 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
@@ -206,6 +202,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,22 +257,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-powerhouses-of-vr-engine-technology-for-2024/"><u>[New] Unveiling the Powerhouses of VR Engine Technology for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-preparing-for-twitter-know-the-required-aspect-ratio/"><u>2024 Approved Preparing for Twitter Know the Required Aspect Ratio</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success-for-2024/"><u>Crafting Compelling Narratives in Instagram Ads Top 10 Tips for Success for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-unmatched-performance-of-dells-newest-xps-models-why-you-absolutely-must-have-one/"><u>Experience the Unmatched Performance of Dell's Newest XPS Models - Why You Absolutely Must Have One!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-top-tier-benefits-why-samsungs-latest-copilotplus-is-the-ideal-bargain-for-windows-users-insights-from-a-firsthand-review-techradar/"><u>Exploring the Top-Tier Benefits: Why Samsung's Latest Copilot+ Is The Ideal Bargain for Windows Users - Insights From a Firsthand Review | TechRadar</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-strategies-for-vocal-identity-on-instagram/"><u>In 2024, Expert Strategies for Vocal Identity on Instagram</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/master-your-computers-sound-options-tips-and-tricks-in-the-windows-settings-insights-from-yl-software/"><u>Master Your Computer's Sound Options: Tips & Tricks in the Windows Settings - Insights From YL Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-laptops-battery-life-with-our-prime-day-offer-get-20-off-premium-power-banks-for-windows-and-macbook-users/"><u>Maximize Your Laptop's Battery Life with Our Prime Day Offer: Get 20% Off Premium Power Banks for Windows & MacBook Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/resolving-javascript-bugs-a-step-by-step-guide-for-discord-users/"><u>Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-the-sleek-powerful-m2-macbook-air-from-apple-for-only-749-during-amazons-exclusive-october-prime-day-event-news/"><u>Score the Sleek, Powerful M2 MacBook Air From Apple for Only $749 During Amazon's Exclusive October Prime Day Event News</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-bose-quiet-control-30-review-perfect-in-progressions/"><u>The Bose Quiet Control 30 Review: Perfect in Progressions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-discounts-on-apples-macbook-and-mac-mini-in-january-2n-exclusive-offers-revealed/"><u>Top-Rated Discounts on Apple's MacBook & Mac Mini in January 2N - Exclusive Offers Revealed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-snag-a-premium-hp-touch-laptop-ergonomic-wireless-mouse-and-complimentary-ms365-access-at-only-99-cents-per-day-400-total-exclusive96/"><u>Unbeatable Bargain Alert: Snag a Premium HP Touch Laptop, Ergonomic Wireless Mouse, and Complimentary MS365 Access at Only 99 Cents Per Day ($400 Total) - Exclusive Offer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-top-performing-non-thinkpad-non-macbook-found-on-prime-day-with-300-savingszdnet/"><u>Unbeatable Deals: Top-Performing Non-ThinkPad, Non-MacBook Found on Prime Day with $300 Savings![ZDNet]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-cyber-monday-savings-score-a-high-performance-lg-gram-17-for-only-400-off-tech-news/"><u>Unmissable Cyber Monday Savings: Score a High-Performance LG Gram 17 for Only $400 Off | Tech News</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-nurturing-nature-in-valheim-top-seed-selection-tips/"><u>[New] 2024 Approved Nurturing Nature in Valheim Top Seed Selection Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ind-puzzling-stats-a-graphed-journey-through-yt-17/"><u>[New] Mind-Puzzling Stats A Graphed Journey Through YT '17</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pausecapture-stop-and-save-live-image-for-2024/"><u>[New] PauseCapture Stop & Save Live Image for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unlock-viewers-interest-with-these-10-yt-reaction-strategies-for-2024/"><u>[Updated] Unlock Viewers' Interest with These 10 YT Reaction Strategies for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-vives-ultimate-virtual-journey-unparalleled-immersion/"><u>2024 Approved Vive's Ultimate Virtual Journey Unparalleled Immersion</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/expert-advice-on-electronics-from-toms-digital-workshop/"><u>Expert Advice on Electronics From Tom's Digital Workshop</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x9a-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X9a to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-a78-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo A78 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-up-to-1700-in-savings-on-the-samsung-the-frame-smart-tv-exclusive-offer-inside/"><u>Score Up To $1,700 in Savings on the Samsung The Frame Smart TV – Exclusive Offer Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sony-bravia-the-top-value-for-money-tv-option-with-frequent-sales-expert-review-by-zdnet/"><u>Sony Bravia: The Top Value-For-Money TV Option with Frequent Sales - Expert Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-poem-must-rhyme-and-have-a-consistent-meter-echoing-the-structure-of-traditional-quatrains-four-line-stanzas-with-alternating-rhymes-abab-or-aabb/"><u>The Poem Must Rhyme and Have a Consistent Meter, Echoing the Structure of Traditional Quatrains (Four-Line Stanzas with Alternating Rhymes: ABAB or AABB).</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-8k-televisions-expert-picks-by-zdnet/"><u>Top 5 Premium 8K Televisions - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-the-ultimate-75-inch-smart-tv-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Picks for the Ultimate 75-Inch Smart TV - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-technology-essentials-2022s-must-have-gadgets-and-devices-according-to-zdnet/"><u>Top-Ranking Technology Essentials: 2022'S Must-Have Gadgets & Devices According To ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-lg-oled-tv-now-up-to-80-off-celebrate-labor-day-with-unbeatable-deals-find-out-why-on-zdnet/"><u>Top-Rated LG OLED TV Now Up To 80% Off! Celebrate Labor Day With Unbeatable Deals – Find Out Why on ZDNet</u></a></li>
 </ul></div>
 

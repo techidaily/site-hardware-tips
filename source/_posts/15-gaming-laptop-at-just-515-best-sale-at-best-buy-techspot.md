@@ -1,7 +1,7 @@
 ---
 title: 15 Gaming Laptop at Just $515 - Best Sale at Best Buy | TechSpot
-date: 2024-12-06T17:34:38.855Z
-updated: 2024-12-13T02:10:05.503Z
+date: 2024-12-20T16:54:34.792Z
+updated: 2024-12-22T01:40:14.034Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,18 +63,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-your-videos-reach-a-guide-to-legal-yield-boosting/"><u>[Updated] Maximizing Your Video's Reach A Guide to Legal Yield Boosting</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-the-pre-prime-day-savings-top-bargains-at-best-buy-before-prime-day-2024-insights-from-zdnet/"><u>Ace the Pre-Prime Day Savings: Top Bargains at Best Buy Before Prime Day 2024 - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-sale-alert-top-ranked-gaming-audio-experience-now-discounted-by-nearly-a-third-exclusive/"><u>Amazon Sale Alert: Top-Ranked Gaming Audio Experience Now Discounted by Nearly a Third Exclusive</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/backtrack-innovation-box/"><u>Backtrack Innovation Box</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-dell-and-lenovo-unveiling-our-favorite-laptop-picks-for-the-modern-workplace-your-ultimate-guide/"><u>Beyond Dell and Lenovo: Unveiling Our Favorite Laptop Picks for the Modern Workplace - Your Ultimate Guide!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-the-ultimate-laptop-picks-of-2er-expert-evaluations-and-reviews-zdnet-gadget-central/"><u>Comprehensive Guide to the Ultimate Laptop Picks of 2Er - Expert Evaluations & Reviews | ZDNet Gadget Central</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-your-new-favorite-powerhouse-the-hp-victus-15-for-only-515-on-best-buys-antidote-to-prime-day-featured/"><u>Discover Your New Favorite Powerhouse: The HP Victus 15 for Only $515 on Best Buy's Antidote to Prime Day – Featured</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a18-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A18 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/moveclip-beginners-guide-to-upload-and-edit-your-own-videos-with-moveavis/"><u>MoveClip - Beginner's Guide to Upload and Edit Your Own Videos with MoveAVIS</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-captioning-a-step-by-step-guide/"><u>New In 2024, Final Cut Pro X Captioning A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/outcomes-and-consequences-unraveling-the-impacts-of-the-chinese-opium-war/"><u>Outcomes and Consequences: Unraveling the Impacts of the Chinese Opium War</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-rtf-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .rtf file documents online</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-affordable-gaming-laptops-reviewed-by-professionals-insights/"><u>Top-Ranked Affordable Gaming Laptops Reviewed by Professionals - Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-vr-equipment-enhancing-flight-control/"><u>[New] Best VR Equipment Enhancing Flight Control</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unlocking-google-docs-transcription-your-complete-manual-for-2024/"><u>[New] Unlocking Google Docs Transcription Your Complete Manual for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-echoing-giggles-ultimate-ringtone-vaults/"><u>[Updated] In 2024, Echoing Giggles Ultimate Ringtone Vaults</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-road-safety-and-cut-costs-with-this-essential-device-insights-from-zdnet/"><u>Boost Your Road Safety & Cut Costs with This Essential Device - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-new-grounds-with-supersonic-speeds-nasas-latest-quest-launch-explained/"><u>Breaking New Grounds with Supersonic Speeds: NASA's Latest Quest Launch Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-rivian-electric-delivery-vans-mitigate-concerns-over-amazons-ecological-footprint-tech-insights/"><u>Can Rivian Electric Delivery Vans Mitigate Concerns Over Amazon’s Ecological Footprint? | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exciting-news-for-ev-enthusiasts-arizona-welcomes-the-inaugural-v4-tesla-supercharger-zdnet-analysis/"><u>Exciting News for EV Enthusiasts: Arizona Welcomes the Inaugural V4 Tesla Supercharger | ZDNET Analysis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a25-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A25 5G Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/ultimate-list-best-ios-friendly-free-video-editors-for-2024/"><u>Ultimate List Best iOS-Friendly, Free Video Editors for 2024</u></a></li>
 </ul></div>
 

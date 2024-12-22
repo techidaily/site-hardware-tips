@@ -1,7 +1,7 @@
 ---
 title: The Apple MacBook Air with M2 Chip Crowned Best Laptop by ZDNET in Annual Product Contest!
-date: 2024-12-12T00:03:44.066Z
-updated: 2024-12-12T18:30:54.521Z
+date: 2024-12-17T01:26:13.095Z
+updated: 2024-12-21T18:16:12.661Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ Getty/MacLife Magazine
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why it's the top product of 2022
@@ -43,7 +43,7 @@ Getty/MacLife Magazine
 One of the other common criticisms of this product when it was first released was that it's now a bit of a tweener in the Mac product line -- with the very-capable [M1 MacBook Air](https://go.shopyourlikes.com/pi/244cb3ab772a00eb37169c21806273bf37215920?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) still on sale and now serving as the entry-level, under-$1,000 Mac laptop and the robust [MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C57XLR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd4f3244e-a7a4-4576-bbf5-65d2a79d96d2%7Cdtp&dtb=1) line being the go-to option for professionals and creators who need more oomph. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -65,7 +65,7 @@ My conclusion: The M2 MacBook Air can now handle about 75% of what you used to n
 That can potentially save you $500-$1,000\. The M2 MacBook Air I tested included the 10-core GPU and 16 GB of RAM and retails for $1,700\. But, a comparable MacBook Pro is going to run you at least $2,000-$2,500.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -95,7 +95,7 @@ While no Apple product ever really flies under the radar, the accomplishments of
 You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Product of the Year as a [YouTube Short](https://www.youtube.com/shorts/SlyOpp2rlKk) (embedded below), [Instagram Reel](https://www.instagram.com/reel/CmtsrSzqrrb/?hl=en), or on [TikTok](https://www.tiktok.com/@zdnet%5Fofficial/video/7182202897806019886).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -142,18 +142,22 @@ You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-the-ultimate-selection-of-free-slide-show-designs/"><u>[New] Explore the Ultimate Selection of Free Slide Show Designs</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-travel-bloggers-blueprint-strategies-for-professional-growth/"><u>2024 Approved The Travel Blogger's Blueprint Strategies for Professional Growth</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/8-most-popular-instagram-after-effects-packs-for-2024/"><u>8 Most Popular Instagram After Effects Packs for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-laptop-gadget-every-tech-aficionado-must-own-for-ultimate-cooling-performance-insights/"><u>Essential Laptop Gadget Every Tech Aficionado Must Own For Ultimate Cooling Performance - Insights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-blur-facesbackgroundimages-in-photoshop/"><u>How to Blur Faces/Background/Images in Photoshop</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-building-your-brand-making-money-with-vids/"><u>In 2024, Building Your Brand Making Money with Vids</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/laptop-lifesaver-cost-effective-fixes-to-restore-macbook-charging-power-learn-how-here-insights-by-zdnet/"><u>Laptop Lifesaver: Cost-Effective Fixes to Restore MacBook Charging Power, Learn How Here | Insights by ZDNET</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-pova-5-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Tecno Pova 5</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/swipe-150-off-your-favorite-immersive-game-audio-system-available-exclusively-at-amazon-check-out-the-review-from-zdnet/"><u>Swipe $150 Off Your Favorite Immersive Game Audio System Available Exclusively at Amazon – Check Out the Review From ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-39-unbeatable-christmas-laptop-bargains-on-offer-from-brands-like-apple-dell-and-hp-featuring-exclusive-insights-by-zdnet/"><u>Top 39 Unbeatable Christmas Laptop Bargains on Offer From Brands Like Apple, Dell & HP - Featuring Exclusive Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-discover-why-metas-latest-512gb-quest-3-package-is-currently-tops-in-virtual-reality/"><u>Unbeatable Value: Discover Why Meta's Latest 512GB Quest 3 Package Is Currently Tops in Virtual Reality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-earnings-on-youtube-shorts-essentials-and-prospective-income/"><u>[New] Maximizing Earnings on YouTube Shorts Essentials & Prospective Income</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-verdict-on-inshot-master-editor/"><u>[New] The Verdict on InShot Master Editor?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-elevate-your-edits-pro-level-photo-color-techniques/"><u>[Updated] In 2024, Elevate Your Edits Pro-Level Photo Color Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/105-off-holy-stone-foldable-drone-unbeatable-deal-alert-for-tech-enthusiasts-featured-on-zdnet/"><u>$105 Off Holy Stone Foldable Drone! Unbeatable Deal Alert for Tech Enthusiasts | Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/96-universal-dashboard-and-rearview-backup-cam-kit-enhance-your-cars-safety-with-ease-zdnet/"><u>$96 Universal Dashboard & Rearview Backup Cam Kit: Enhance Your Car's Safety with Ease - ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-break-through-bot-barriers-rising-from-the-crowd/"><u>2024 Approved Break Through Bot Barriers Rising From the Crowd</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-streaming-gameplay-with-various-screen-recorder-tools/"><u>2024 Approved Streaming Gameplay with Various Screen Recorder Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accelerating-autonomous-vehicle-development-with-innovative-ml-techniques/"><u>Accelerating Autonomous Vehicle Development with Innovative ML Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accelerating-progress-in-self-driving-tech-with-groundbreaking-machine-learning-project-featured-on-zdnet/"><u>Accelerating Progress in Self-Driving Tech with Groundbreaking Machine Learning Project Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-chase-credit-card-options-ranked-and-analyzed-on-zdnet/"><u>Best Chase Credit Card Options Ranked & Analyzed on ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discovering-vr-a-concise-explanation-for-all-for-2024/"><u>Discovering VR A Concise Explanation for All for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unbeatable-savings-with-the-gotrax-g4-e-scooter-50-off-exclusive-deal-on-amazon-featured-in-zdnets-latest-review/"><u>Experience Unbeatable Savings with the GOTRAX G4 E-Scooter – 50% Off Exclusive Deal on Amazon, Featured in ZDNet's Latest Review</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-take-screenshots-with-precision-on-a-mac/"><u>In 2024, Take Screenshots with Precision on a Mac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-ultimate-guide-finalcut-pro-for-youtube-editing/"><u>In 2024, Ultimate Guide FinalCut Pro for YouTube Editing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/smart-car-insurance-how-driver-behavior-tracking-affects-your-policy-rates/"><u>Smart Car Insurance: How Driver Behavior Tracking Affects Your Policy Rates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-exclusive-e-bike-giveaway-featuring-complimentary-portable-grill/"><u>ZDNet's Exclusive E-Bike Giveaway Featuring Complimentary Portable Grill!</u></a></li>
 </ul></div>
 

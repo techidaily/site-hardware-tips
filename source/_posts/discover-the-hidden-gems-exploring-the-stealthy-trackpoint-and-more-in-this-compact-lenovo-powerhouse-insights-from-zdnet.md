@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights From ZDNet"
-date: 2024-12-11T23:05:52.602Z
-updated: 2024-12-12T17:05:10.320Z
+date: 2024-12-21T03:30:13.910Z
+updated: 2024-12-21T20:09:09.034Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,14 +116,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ite-sized-video-knowledge-now-for-2024/"><u>[New] Bite-Sized Video Knowledge Now for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-get-ready-to-download-best-ios-apps-transforming-fb-videos/"><u>[New] Get Ready to Download Best iOS Apps Transforming FB Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-top-contender-in-versatility-the-highly-praised-laptop-that-impresses-with-its-robust-hardware-techspot/"><u>A Top Contender in Versatility: The Highly Praised Laptop That Impresses With Its Robust Hardware | TechSpot</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-techniques-for-overcoming-directx-errors-in-battlefield-2042-gaming/"><u>Effective Techniques for Overcoming DirectX Errors in Battlefield 2042 Gaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-android-phone-not-powering-up-despite-being-connected-to-charger/"><u>Fixing Android Phone Not Powering Up Despite Being Connected to Charger</u></a></li>
-<li><a href="https://win-data.techidaily.com/guide-to-reversing-flipbook-orientation-mastering-rtl-display-using-flipbuilder-tutorials/"><u>Guide to Reversing Flipbook Orientation: Mastering RTL Display Using FlipBuilder Tutorials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/power-all-your-gadgets-with-this-high-capacity-140w-portable-battery-always-charged-and-ready/"><u>Power All Your Gadgets with This High-Capacity 140W Portable Battery - Always Charged and Ready!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/still-a-steal-the-top-lenovo-notebook-ideal-for-the-modern-mix-of-remote-and-office-work-save-thousands/"><u>Still a Steal: The Top Lenovo Notebook Ideal for the Modern Mix of Remote and Office Work - Save Thousands!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-surprising-quality-and-smart-features-in-dells-most-affordable-laptop-an-expert-review-by-zdnet/"><u>Unveiling the Surprising Quality and Smart Features in Dell's Most Affordable Laptop - An Expert Review by ZDNET</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unmasking-momentum-makers-seeking-out-niche-influencers/"><u>[New] In 2024, Unmasking Momentum Makers Seeking Out Niche Influencers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-complete-guide-to-tweeting-visual-content-in-form-of-customized-gifs/"><u>[New] The Complete Guide to Tweeting Visual Content in Form of Customized GIFS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-guide-to-instagrams-gold-standard-six-tactics-to-attract-more-followers-for-2024/"><u>[Updated] The Ultimate Guide to Instagram's Gold Standard Six Tactics to Attract More Followers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-all-about-whatsapp-voice-messages/"><u>2024 Approved All About Whatsapp Voice Messages</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-becoming-an-influencer-entrepreneur-creating-a-business-profile-on-ig/"><u>2024 Approved Becoming an Influencer Entrepreneur Creating a Business Profile on IG</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-htc-u23-pro-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from HTC U23 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-all-the-latest-from-apples-thrilling-october-reveal-and-hidden-surprises-a-closer-look/"><u>Comprehensive Breakdown: All the Latest From Apple's Thrilling October Reveal and Hidden Surprises - A Closer Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-the-affordable-hp-chromebook-revolutionizes-life-without-windows-unbeatable-savings-with-136-off-insights-from-zdnet/"><u>Discover How the Affordable HP Chromebook Revolutionizes Life Without Windows: Unbeatable Savings with $136 Off - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-ideal-moments-and-locations-unveiling-top-savings-on-black-friday-2022-tech-news-insights/"><u>Discovering the Ideal Moments & Locations: Unveiling Top Savings on Black Friday 2022 | Tech News Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-the-quality-and-functionality-with-the-uniden-r3-top-tier-long-range-radar-device/"><u>Experience the Quality and Functionality with the Uniden R3 – Top-Tier Long Range Radar Device</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/find-what-youve-lost-with-ease-leading-key-trackers-of-2024-revealed/"><u>Find What You’ve Lost with Ease: Leading Key Trackers of 2024 Revealed!</u></a></li>
+<li><a href="https://solve-info.techidaily.com/meinungsforschungsanalyse-mit-abbyy-wie-connexions-zur-optimierung-seiner-methoden-beitragt/"><u>Meinungsforschungsanalyse Mit ABBYY: Wie Connexions Zur Optimierung Seiner Methoden Beiträgt</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/octobers-must-have-bargains-for-the-2024-prime-day-sale-find-out-whats-still-on-offer-at-best-buy-tech-radar/"><u>October's Must-Have Bargains for the 2024 Prime Day Sale: Find Out What's Still on Offer at Best Buy | Tech Radar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/this-is-the-place-where-we-lost-our-shit/"><u>This Is the Place Where We Lost Our Shit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-s-ultimate-gaming-laptops-in-depth-comparison-of-razer-acer-msi-and-other-contenders-zdnet/"><u>Top Picks 'S Ultimate Gaming Laptops: In-Depth Comparison of Razer, Acer, MSI, and Other Contenders - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-grab-your-top-pick-apple-magsafe-charger-at-a-stunning-60-discount-exclusive-offer-on-zdnet/"><u>Unbeatable Deal Alert: Grab Your Top Pick Apple MagSafe Charger at a Stunning $60 Discount - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-productivity-with-lenovos-newly-released-ai-thinkpad-series-the-perfect-choice-for-business-users/"><u>Unleash Productivity with Lenovo's Newly Released AI ThinkPad Series – The Perfect Choice for Business Users</u></a></li>
 </ul></div>
 

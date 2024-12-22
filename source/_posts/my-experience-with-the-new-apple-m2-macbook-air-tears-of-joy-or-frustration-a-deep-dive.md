@@ -1,7 +1,7 @@
 ---
 title: My Experience with the New Apple M2 MacBook Air - Tears of Joy or Frustration? A Deep Dive
-date: 2024-12-12T02:20:09.967Z
-updated: 2024-12-12T20:14:29.603Z
+date: 2024-12-18T03:23:16.058Z
+updated: 2024-12-22T07:08:39.720Z
 tags:
   - laptops
 categories:
@@ -22,12 +22,16 @@ Cliff Joseph/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 How often can a gadget make you confront your own weaknesses, especially the lies you tell yourself?
@@ -39,10 +43,6 @@ I can usually resist the latest, greatest, most hyped-up piece of technology.
 Until I'm sure I don't just want it, but need it. 
 
 Oh, all right, I may occasionally have a flexible definition of _need_.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The weakness. I just can't bear the weakness
 
@@ -82,6 +82,10 @@ Resistance was futile. Actually, it was non-existent, even if I still wondered w
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured reviews
 
 * [3 features in Apple's new AirPods 4 that made me ditch my AirPods Pros](https://www.zdnet.com/article/3-features-in-apples-new-airpods-4-that-made-me-ditch-my-airpods-pros/)
@@ -105,10 +109,6 @@ Some (like ZDNET's [review of the M2 MacBook Air](https://www.zdnet.com/article/
 
 I've also noticed that MagSafe isn't quite what it used to be. Previously, it had flown out of its socket with minimal force. Now, you have to give it a perceptible tug before it detaches. I can't decide whether this is good or bad. I do like the sturdier feel of the cable, however. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## It's all ending in tears
 
 All right, you've had enough of me telling you that my head's been turned by the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2022-MacBook-24GB-Storage%2Fdp%2FB0BBYTHLX9%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17b7ab53-93ed-4c02-a67e-b2176e93420b%7Cdtp&dtb=1) \-- did I mention it's a gorgeous midnight color?
@@ -120,7 +120,7 @@ So, as I write this, I'm staring into space, blaring at myself for being so impu
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -169,16 +169,22 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-mobile-vr-headsets-showdown-the-top-10/"><u>[New] Mobile VR Headsets Showdown The Top 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-deals-revealed-save-up-to-900-on-high-performance-lenovo-workstations-pre-prime-day-exclusive-zdnet-report/"><u>Amazon Deals Revealed: Save Up to $900 on High-Performance Lenovo Workstations Pre-Prime Day | Exclusive ZDNET Report</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-innovative-travel-gizmos-for-2e25-featured-on-zdnet-expert-review/"><u>Discover the Most Innovative Travel Gizmos for 2E25 Featured on ZDNet | Expert Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-savings-where-to-find-the-hottest-dell-offers-this-holiday-season-at-leading-retailers-featuring-insider-info/"><u>Discover the Ultimate Guide to Savings: Where to Find The Hottest Dell Offers This Holiday Season at Leading Retailers - Featuring Insider Info</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-oled-laptops-expertly-tested-and-reviewed-insights-zdnet/"><u>Elite Selection of OLED Laptops : Expertly Tested and Reviewed Insights | ZDNET</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immerse-in-windows-11s-photo-quality-filter-options-and-music-playlists-for-2024/"><u>Immerse in Windows 11'S Photo Quality Filter Options and Music Playlists for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/mastering-personalization-in-yl-software-changing-your-account-preferences-with-ease/"><u>Mastering Personalization in YL Software: Changing Your Account Preferences with Ease</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-s18e-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo S18e ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-walmart-savings-in-july-2024-exclusive-finds-featured-on-zdnet/"><u>Top Walmart Savings in July 2024: Exclusive Finds Featured on ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-storytelling-through-scenery/"><u>Unveiling Storytelling Through Scenery</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-boost-engagement-with-a-countdown-a-step-by-step-fcpx-guide/"><u>Updated 2024 Approved Boost Engagement with a Countdown A Step-by-Step FCPX Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[Updated] From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-console-experience-with-the-asus-vg245h-screen/"><u>Elevate Your Console Experience With the Asus VG245H Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-release-delayed-what-fans-need-to-know/"><u>Guilty Gear Strive Release Delayed: What Fans Need to Know</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-s18-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S18 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-high-end-drone-and-camera-tech/"><u>In 2024, Comparing High-End Drone & Camera Tech</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-expert-insights-into-crafting-dynamic-youtube-shorts-templates/"><u>In 2024, Expert Insights Into Crafting Dynamic YouTube Shorts Templates</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-11-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme 11 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-cellphone-promotions-and-discounts-for-independence-day-insights/"><u>Top Cellphone Promotions & Discounts for Independence Day - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-artists-choice-drawing-tablets-featured-by-zdnet/"><u>Top-Rated Artists' Choice Drawing Tablets - Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-kids-tablets-in-depth-analysis-by-tech-gurus-and-parental-approval-zdnet/"><u>Top-Rated Kid's Tablets: In-Depth Analysis by Tech Gurus & Parental Approval | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-aged-fire-tablet-into-a-functional-echo-show-tips-and-tricks-techguide/"><u>Transform Your Aged Fire Tablet Into a Functional Echo Show - Tips & Tricks | TechGuide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-childs-tech-experience-with-our-revolutionary-tablet-on-sale-a-new-era-for-kids-devices-zdnet/"><u>Transform Your Child's Tech Experience with Our Revolutionary Tablet (On Sale) – A New Era for Kids’ Devices | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-high-quality-large-tablets-in-depth-analysis-and-ratings-gizmohive/"><u>Ultimate Selection of High-Quality Large Tablets : In-Depth Analysis and Ratings | GizmoHive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-alert-exclusive-test-of-best-non-flagship-samsung-tablets-now-at-a-bargain-price-gadgetguru-insights/"><u>Unbeatable Value Alert: Exclusive Test of Best Non-Flagship Samsung Tablets Now at a Bargain Price | GadgetGuru Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-netflixs-decision-latest-update-drops-compatibility-with-aging-ios-devices-find-out-which-are-no-longer-supported/"><u>Understanding Netflix's Decision: Latest Update Drops Compatibility with Aging iOS Devices – Find Out Which Are No Longer Supported</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-full-power-of-the-m4-ipad-pro-how-ai-innovations-at-apples-worldwide-developers-conference-will-revolutionize-your-experience/"><u>Unleashing the Full Power of the M4 iPad Pro: How AI Innovations at Apple’s Worldwide Developers Conference Will Revolutionize Your Experience</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-volume-controls-with-adobe-premiere-pro-on-windows-for-2024/"><u>Updated Mastering Volume Controls with Adobe Premiere Pro on Windows for 2024</u></a></li>
 </ul></div>
 

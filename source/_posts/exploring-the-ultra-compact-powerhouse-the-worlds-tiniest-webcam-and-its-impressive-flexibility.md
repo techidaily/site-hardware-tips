@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Ultra-Compact Powerhouse: The World’s Tiniest Webcam and Its Impressive Flexibility"
-date: 2024-12-10T23:24:13.298Z
-updated: 2024-12-12T20:29:01.062Z
+date: 2024-12-19T16:10:13.337Z
+updated: 2024-12-22T06:08:57.733Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Regarding the battery life on the ThinkBook 14 2-in-1, I found it to be acceptab
 I can get a full day's worth of work out of this laptop on one charge, but honestly, barely so. That being said, the fast charging capability does bring the laptop from nearly dead to 100% in less than an hour. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,22 +120,18 @@ If you're looking for a similarly-priced convertible with a better display, chec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-dive-into-webinar-world-a-noobs-guide-to-zoom/"><u>[New] Dive Into Webinar World A Noob’s Guide to Zoom</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-leveraging-visuals-easy-guide-to-integrating-snap-camera-on-teams-for-2024/"><u>[Updated] Leveraging Visuals Easy Guide to Integrating Snap Camera on Teams for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-secrets-of-successful-ps3-game-recording-tactics/"><u>[Updated] Secrets of Successful PS3 Game Recording Tactics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-squeezing-light-from-iphone-nocturnes-for-2024/"><u>[Updated] Squeezing Light From iPhone Nocturnes for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-premium-vr-with-metas-latest-steal-the-512gb-quest-3-deal-that-dominates-todays-market-insider-tips/"><u>Experience Premium VR with Meta's Latest Steal: The 512GB Quest 3 Deal That Dominates Today’s Market | Insider Tips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-vs-yi-4k-the-ultimate-battle-of-action-cam-innovation-in-23-for-2024/"><u>GoPro Vs. Yi 4K The Ultimate Battle of Action Cam Innovation in '23 for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-foundation-principles-of-tale-telling/"><u>In 2024, Foundation Principles of Tale-Telling</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-rdr2-out-of-memory-how-to-expand-your-page-file-size/"><u>Resolving 'RDR2 Out of Memory' - How to Expand Your Page File Size</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-x50-gt-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor X50 GT Phone Pattern Lock</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-christmas-presents-ideal-for-crafting-enthusiasts-master-the-art-of-nail-care-with-our-expert-tool-suggestions-insights/"><u>Top Christmas Presents Ideal for Crafting Enthusiasts: Master the Art of Nail Care With Our Expert Tool Suggestions - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-save-big-on-laptops-this-cyber-monday-find-quality-options-for-under-500/"><u>Top Pick: Save Big on Laptops This Cyber Monday - Find Quality Options for Under $500!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-ultraportable-notebook-with-exceptional-all-day-battery-life-featured-on-zdnet/"><u>Top Rated Ultraportable Notebook with Exceptional All-Day Battery Life Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-work-tablet-a-non-microsoft-non-lenovo-contender-that-exceeds-expectations-insights-from-a-seasoned-reviewer/"><u>Top-Performing Work Tablet: A Non-Microsoft, Non-Lenovo Contender That Exceeds Expectations - Insights From a Seasoned Reviewer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-linux-based-laptop-picks-comprehensive-evaluation-by-tech-gurus-insights-from-zdnet/"><u>Top-Ranking Linux-Based Laptop Picks : Comprehensive Evaluation by Tech Gurus - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-elite-15-notebooks-of-2ecivlfhtn-2024-in-depth-analysis-and-comparisons/"><u>Ultimate Guide to the Elite 15 Notebooks of 2E|civlfhtn 2024: In-Depth Analysis and Comparisons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-hps-latest-spectre-x360-triumphs-as-a-top-pick-for-best-laptops-this-year-exclusive-insights/"><u>Why HP's Latest Spectre X360 Triumphs as a Top Pick for Best Laptops This Year - Exclusive Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fixing-non-functional-airdrop-between-iphones-ipads-and-macs/"><u>[New] Fixing Non-Functional AirDrop Between iPhones, iPads & Macs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aximizing-clicks-ultimate-youtube-banner-guidebook-for-2024/"><u>[New] Maximizing Clicks Ultimate YouTube Banner Guidebook for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-strategies-for-maximizing-your-twitter-archive/"><u>[Updated] 2024 Approved Strategies for Maximizing Your Twitter Archive</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-visionaries-convergence-dissecting-virtual-reality-augmented-and-mixed-realms/"><u>[Updated] 2024 Approved Visionaries Convergence Dissecting Virtual Reality, Augmented & Mixed Realms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-melodies-for-millions-insta-music-secrets/"><u>[Updated] In 2024, Melodies for Millions Insta Music Secrets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-birds-guide-exclusive-bargains-before-prime-day-2024-insights/"><u>Early Bird's Guide: Exclusive Bargains Before Prime Day 2024 - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-touchscreen-laptops-unveiled-comprehensive-tests-and-expert-insights/"><u>Elite Touchscreen Laptops Unveiled: Comprehensive Tests & Expert Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-revolutionary-auto-swiveling-laptop-a-firsthand-look-from-ifa-202nce-techradar/"><u>Experiencing Lenovo’s Revolutionary Auto-Swiveling Laptop: A Firsthand Look From IFA 202Nce | TechRadar</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-14-ultra-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi 14 Ultra Phones? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-surface-laptop-5-evaluation-expectations-unmet-but-no-rage-quit-insights/"><u>Microsoft Surface Laptop 5 Evaluation: Expectations Unmet but No Rage Quit - Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80041015-on-windows-a-step-by-step-guide/"><u>Overcoming Error 0X80041015 on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-video-guidelines-and-step-by-step-uploading-guide/"><u>Twitter's Video Guidelines & Step-by-Step Uploading Guide</u></a></li>
 </ul></div>
 

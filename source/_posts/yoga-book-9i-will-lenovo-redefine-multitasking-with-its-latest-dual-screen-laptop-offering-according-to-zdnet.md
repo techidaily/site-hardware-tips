@@ -1,7 +1,7 @@
 ---
 title: "Yoga Book ^9I: Will Lenovo Redefine Multitasking with Its Latest Dual-Screen Laptop Offering, According to ZDNet?"
-date: 2024-12-10T00:22:31.984Z
-updated: 2024-12-12T16:31:59.705Z
+date: 2024-12-17T00:13:45.180Z
+updated: 2024-12-21T19:29:41.073Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
@@ -37,10 +41,14 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -51,6 +59,10 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -78,17 +90,9 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
 
@@ -107,16 +111,12 @@ Michael Gariffo/ZDNET
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,18 +157,15 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-my-entire-setup-changed-insights/"><u>A Week with an Ergonomic Split Keyboard: How My Entire Setup Changed - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cephalopods-such-as-squids-using-dynamic-color-changing-displays-for-camouflage-or-signaling-to-potential-mates-or-rivals-demonstrating-a-complex-visual-lan113/"><u>Cephalopods Such as Squids Using Dynamic Color-Changing Displays for Camouflage or Signaling to Potential Mates or Rivals, Demonstrating a Complex Visual Language.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-plotting-pioneering-partings/"><u>In 2024, Plotting Pioneering Partings</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/kostenlos-formatieren-einer-festplatte-unter-windows-11-schritt-fur-schritt-anleitung/"><u>Kostenlos Formatieren Einer Festplatte Unter Windows 11 - Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/methods-for-smooth-volume-diminishment-in-lumafusion-for-2024/"><u>Methods for Smooth Volume Diminishment in Lumafusion for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728468436396-ssd/"><u>SSD セルフバックアップで重要データ保護ガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-why-does-my-mouse-keep-losing-connection/"><u>Step-by-Step Solution: Why Does My Mouse Keep Losing Connection?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-2024-must-have-travel-accessories-expert-picks-from-zdnet/"><u>Top 2024 Must-Have Travel Accessories: Expert Picks From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-priced-lenovo-notebooks-ideal-for-hybrid-professionals-save-1k-on-our-picks-zdnet/"><u>Top-Priced Lenovo Notebooks Ideal for Hybrid Professionals - Save $1K on Our Picks | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-black-friday-laptop-savings-guide-premier-deals-awaiting-in-oct-24/"><u>Ultimate Black Friday Laptop Savings Guide: Premier Deals Awaiting in Oct '24</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-the-iphone-16-pro-isnt-worth-it-when-you-have-a-trusty-iphone-14-insights-from-zdnet/"><u>Why the iPhone 16 Pro Isn't Worth It When You Have a Trusty iPhone 14 - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-transform-your-iphone-into-a-content-powerhouse-with-best-fb-video-downloaders-for-ios/"><u>[New] In 2024, Transform Your iPhone Into a Content Powerhouse with Best FB Video Downloaders for iOS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-snapshots-of-life-compreenasive-guide-to-capturing-the-journey-of-playing-sims-4-for-2024/"><u>[New] Snapshots of Life Compreenasive Guide to Capturing the Journey of Playing Sims 4 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-pro-grade-mac-video-plus-audiophile-recorder-for-2024/"><u>[Updated] Pro-Grade Mac Video + Audiophile Recorder for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-score-an-unbeatable-price-on-the-hp-victus-15-gaming-laptop-at-just-515-during-amazon-prime-day-dont-miss-out/"><u>Exclusive: Score an Unbeatable Price on the HP Victus 15 Gaming Laptop at Just $515 During Amazon Prime Day – Don't Miss Out!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hands-on-with-samsung-galaxy-budsplus-a-detailed-product-review/"><u>Hands-On with Samsung Galaxy Buds+ - A Detailed Product Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-and-update-your-amd-radeon-hd-7870-graphics-card-on-windows-11-easy-guide/"><u>Install and Update Your AMD Radeon HD 7870 Graphics Card on Windows 11 – Easy Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-hp-victus-15-gaming-laptop-at-just-530-during-best-buys-prime-day-sale-the-top-tech-picks/"><u>Snag the HP Victus 15 Gaming Laptop at Just $530 During Best Buy's Prime Day Sale: The Top Tech Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-world-is-yours/"><u>The World Is Yours</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-users-hack-for-installing-and-enjoying-android-apps-natively/"><u>Windows 11 Users' Hack for Installing and Enjoying Android Apps Natively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-top-budget-laptops-uncover-the-one-with-exceptional-screen-performance-and-value-for-money/"><u>ZDNet Reviews Top Budget Laptops: Uncover the One With Exceptional Screen Performance and Value for Money!</u></a></li>
 </ul></div>
 

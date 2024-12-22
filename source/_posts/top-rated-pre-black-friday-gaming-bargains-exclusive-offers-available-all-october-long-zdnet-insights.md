@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Pre-Black Friday Gaming Bargains: Exclusive Offers Available All October Long - ZDNet Insights"
-date: 2024-12-06T04:23:44.805Z
-updated: 2024-12-13T01:42:52.572Z
+date: 2024-12-19T08:07:19.489Z
+updated: 2024-12-21T18:27:05.373Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
@@ -91,6 +91,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -122,6 +126,10 @@ ZDNET
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 * [Corsair Void RGB Elite wireless gaming headset for $80 (save $30 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07X8SJ8HM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc5d38d9c-5a11-4c52-9140-9dfe512747c8%7Cdtp&dtb=1): With 7.1CH surround sound, an omnidirectional mic, and up to a 40-foot range, the Void RGB Elite gives you immersive game music and sound cues, clear chat, and freedom of movement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -168,10 +176,6 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -199,10 +203,6 @@ Lenovo
 * [HP Victus 16 laptop for $850 (save $450 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r100-161-91c59av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade gamign laptop with a 16-inch 1080p IPS display, 144Hz refresh rate, 14th gen Intel Core i5 CPU, 16GB of RAM, GeForce RTX 4050 GPU, and a 512GB SSD.
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming monitor deals
 
 Samsung/ZDNET
@@ -212,10 +212,6 @@ Samsung/ZDNET
 * [Samsung Odyssey Neo G8 32-inch curved monitor for $800 (save $500 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-odyssey-neo-g8-32-curved-4k-uhd-freesync-premium-pro-g-sync-compatible-240hz-1ms-gaming-monitor-black%2F6507933.p%3FskuId%3D6507933&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This 32-inch display support both AMD FreeSync Premium Pro and Nvidia G-Sync VRR, a 240Hz refresh rate, a 1ms response time, and 4K resolution.
 * [AOC AG27 27-inch monitor for $600 (save $450 at B&H Photo, deal ends Oct 5)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1741859-REG%2Faoc%5Fag274qzm%5F27%5F16%5F9%5Fqhd.html): This 27-inch IPS monitor has 1440p resolution, a 240Hz refresh rate, a 1ms response time, and Nvidia G-Sync VRR support.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
 
@@ -233,7 +229,7 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -243,6 +239,10 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -313,22 +313,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-ipados-masterpieces-best-pencil-programs/"><u>[New] 2024 Approved IPadOS Masterpieces Best Pencil Programs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-iptv-screen-capture-techniques/"><u>[New] 2024 Approved Mastering IPTV Screen Capture Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-storyboard-to-screenplay-a-youtube-video-writers-journey/"><u>[New] In 2024, From Storyboard to Screenplay A YouTube Video Writer's Journey</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-save-fb-pages-with-a-click-top-8-tools-available-online-and-free/"><u>[New] In 2024, Save FB Pages with a Click Top 8 Tools Available Online & FREE</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-your-devices-speed-with-this-all-in-one-fast-charger-and-usbhdmi-hub-latest-review-by-zdnet/"><u>Boost Your Device's Speed with This All-in-One Fast Charger and USB/HDMI Hub - Latest Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-enduring-performance-and-stunning-visuals-with-one-of-the-most-durable-laptops-reviewed-on-zdnet/"><u>Experience Enduring Performance & Stunning Visuals with One of the Most Durable Laptops Reviewed on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experts-guide-how-this-multiport-travelling-dock-boosts-productivity-on-the-move-insights-and-analysis/"><u>Expert's Guide: How This Multiport Travelling Dock Boosts Productivity on The Move | Insights & Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/foremost-gaming-with-device-controllers/"><u>Foremost Gaming with Device Controllers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-science-of-quadcopters-understanding-their-flight-patterns/"><u>In 2024, The Science of Quadcopters Understanding Their Flight Patterns</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/outperforming-apple-how-lg-gram-pro-surpasses-the-macbook-air-across-three-key-areas-insights-from-a-comprehensive-review/"><u>Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/simplify-streaming-with-obs-studio-techniques-android-for-2024/"><u>Simplify Streaming with OBS Studio Techniques (Android) for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-12-unique-presents-ideal-for-tech-savvy-enthusiasts-a-guide/"><u>Top 12 Unique Presents Ideal for Tech-Savvy Enthusiasts: A Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-the-ultimate-verdict-on-lenovos-multifunctional-business-laptop-for-professionals-a-comprehensive-review/"><u>Top Rated: The Ultimate Verdict on Lenovo's Multifunctional Business Laptop for Professionals - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-walmart-savings-in-july-2024-exclusive-offers-spotted-by-zdnet/"><u>Top Walmart Savings in July 2024: Exclusive Offers Spotted by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-picks-for-the-most-innovative-touchpad-pcs-industry-insights-and-comparisons-digital-trends/"><u>Ultimate Picks for the Most Innovative Touchpad PCs - Industry Insights & Comparisons | Digital Trends</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/youtubes-best-music-video-reactions-2023-list/"><u>YouTube's Best Music Video Reactions, 2023 List</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-ig-tik-combined-expertise-for-smooth-integration/"><u>[New] 2024 Approved IG-Tik Combined Expertise for Smooth Integration</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-maximizing-your-investment-high-roi-tactics-for-fb-animatons/"><u>[Updated] 2024 Approved Maximizing Your Investment High-ROI Tactics for FB Animatons</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-outlook-unveiling-vrs-downfalls/"><u>2024 Approved Inside Outlook Unveiling VR's Downfalls</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-navigating-video-uploads-on-youtube-a-comprehensive-tutorial/"><u>2024 Approved Navigating Video Uploads on YouTube A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-audio-barriers-the-ultimate-speaker-system-that-beats-bose-and-sonos-zdnet-recommendation/"><u>Breaking Audio Barriers: The Ultimate Speaker System That Beats Bose and Sonos (ZDNet Recommendation)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/download-ios-16-early-access-tips-on-getting-your-iphone-updated-immediately-though-considering-a-delay/"><u>Download iOS 16 Early Access: Tips on Getting Your iPhone Updated Immediately (Though Considering a Delay)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-ideal-tablets-for-academic-success-in-depth-guide-zdnet/"><u>Expert Analysis of Ideal Tablets for Academic Success - In-Depth Guide | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-worlds-slimmest-ipads-at-the-apple-store-can-008-inch-beam-thin-enough-for-you/"><u>Exploring the World's Slimmest iPads at the Apple Store - Can 0.08-Inch Beam Thin Enough for You?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-the-future-of-android-a-step-by-step-guide-to-downloading-and-installing-android-13-beta-1-plus-tips-on-when-to-upgrade/"><u>Get Ready for the Future of Android: A Step-by-Step Guide to Downloading & Installing Android 13 Beta 1 - Plus, Tips on When to Upgrade!</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-huawei-nova-y71-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Huawei Nova Y71 Phone | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-grab-the-new-amazon-fire-hd-8-plus-tablet-at-over-50-off-shop-today/"><u>Huge Savings Alert! Grab the New Amazon Fire HD 8 Plus Tablet at Over 50% Off - Shop Today</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-sony-xperia-10-v-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Sony Xperia 10 V Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-amazons-fire-max-11-the-ultimate-fire-tablet-assessment-by-techexpert/"><u>In-Depth Analysis of Amazon's Fire Max 11 - The Ultimate Fire Tablet Assessment by TechExpert</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-the-new-microsoft-surface-laptop-studio-featured-on-zdnet-reviews/"><u>In-Depth Look at the New Microsoft Surface Laptop Studio - Featured on ZDNet Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-e-readers-of-2024-proven-performance-and-detailed-analysis-digital-trends/"><u>Innovative E-Readers of 2024: Proven Performance and Detailed Analysis | Digital Trends</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209920129-9781071508442-power-animals-shamanism/"><u>Power Animals & Shamanism | Free Book</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/twitch-content-integration-boosting-engagement-with-fb-sharing/"><u>Twitch Content Integration Boosting Engagement with FB Sharing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-to-tween-creating-free-animated-videos-for-2024/"><u>Twitter to Tween Creating FREE Animated Videos for 2024</u></a></li>
 </ul></div>
 

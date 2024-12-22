@@ -1,7 +1,7 @@
 ---
 title: "1. The Purpose of Mock Modules in Custom Computer Systems: Unveiling the Use of Dummy RAM"
-date: 2024-09-15T23:42:21.582Z
-updated: 2024-09-22T10:58:27.680Z
+date: 2024-12-15T19:42:17.292Z
+updated: 2024-12-22T08:03:37.594Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
  For many people, a desktop PC is more than just a functional device. PC building has become a fine art in some circles, and in the pursuit of the perfect PC build, some enthusiasts have resorted to a mild kind of fakery, in the form of "dummy" RAM.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Dummy RAM Anyway?
 
  Dummy RAM looks like regular [RAM sticks](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/). You can plug them into your RAM slots, power them all up, and they'll light up if it's the kind with RGB lighting. However, there aren't actually any memory chips on that stick. Your computer's RAM count won't go up, and you'll enjoy no practical benefit from it at all. These dummy RAM sticks are marketed under different names, the best known likely being "[Light Enhancement Kit](https://www.corsair.com/us/en/p/pc-components-accessories/cmwlekit2/vengeance-rgb-pro-light-enhancement-kit-aca-a-black-cmwlekit2)"
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 ![Corsair Vengeance Pro lighting enhancement kit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-16-19-49.png) 
 
 Corsair
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Empty RAM Slots Are Ugly
 
@@ -35,6 +43,10 @@ Corsair
 
  In the meantime, these empty slots make the computer look unfinished, and some people consider them an eyesore. Somewhat more cynically, using dummy sticks can also be a way to make a computer look more "tricked out" with hardware than it really is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Dummy RAM Can Still Do Stuff
 
  Although dummy RAM has no functional use from a performance standpoint, if you like [RGB lighting](https://eaxpv-info.techidaily.com/updated-getting-started-with-your-new-youtube-premium-account-for-2024/), it still functions as fully-featured components of your RGB setup. You can use them as part of the decorative lighting display, and program them to enhance your lighting, just as the name promises.
@@ -42,10 +54,7 @@ Corsair
  Apart from RGB, you could also think of them as protective placeholder, keeping dust and other gunk out of your empty RAM slots, but honestly, that's probably a stretch!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Not Just Buy Regular RAM?
@@ -55,10 +64,7 @@ Corsair
 ![Corsair Vengeance PRO RGB light enhancement kit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/corsairram.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Corsair Vengeance RGB PRO Light Enhancement Kit
@@ -86,5 +92,26 @@ This "dummy" RAM won't get you any additional memory, but pair it with a set of 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-techniques-for-more-extended-instagram-video-posts/"><u>[New] In 2024, Unveiling Techniques for More Extended Instagram Video Posts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-backwards-youtubes-way-to-rearrange-watch-queue/"><u>[New] Navigating Backwards YouTube’s Way to Rearrange Watch Queue</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-dos-and-donts-of-mixing-music-in-instagram-videos/"><u>[New] The Do's and Don'ts of Mixing Music in Instagram Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-6-budget-friendly-4k-sharp-projectors/"><u>[Updated] 2024 Approved Top 6 Budget-Friendly 4K Sharp Projectors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-essential-tips-for-hosting-a-successful-facebook-live-event/"><u>[Updated] In 2024, Essential Tips for Hosting a Successful Facebook Live Event</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-views-uncover-the-best-video-hacks-for-success/"><u>[Updated] Transforming Views Uncover the Best Video Hacks for Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/conquer-harsh-cleveland-winters-effortlessly-embrace-warmth-and-convenience-with-our-latest-electric-snow-blower-featured-on-zdnet/"><u>Conquer Harsh Cleveland Winters Effortlessly - Embrace Warmth & Convenience with Our Latest Electric Snow Blower Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cut-down-co2-a-revolutionary-application-for-real-time-tracking-of-personal-carbon-dioxide-emissions/"><u>Cut Down CO2: A Revolutionary Application for Real-Time Tracking of Personal Carbon Dioxide Emissions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-2022-eco-friendly-solar-gift-ideas-ranked-by-zdnet/"><u>Discover the Ultimate 2022 Eco-Friendly Solar Gift Ideas Ranked by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-energy-how-mushroom-chip-technology-is-revolutionizing-gadget-charge-and-sustainability-zdnet/"><u>Eco-Friendly Energy: How Mushroom Chip Technology Is Revolutionizing Gadget Charge & Sustainability - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-top-tier-bbq-with-savings-grab-your-ideal-weber-electric-grill-for-50-less-as-recommended-by-zdnet/"><u>Experience Top-Tier BBQ with Savings: Grab Your Ideal Weber Electric Grill for $50 Less, as Recommended by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-50-discount-off-top-rated-weber-electric-grill-exclusive-offer-inside/"><u>Get a $50 Discount Off Top-Rated Weber Electric Grill - Exclusive Offer Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-a-fixable-cordless-vac-reflects-long-term-value-a-deep-dive-by-zdnet/"><u>How a Fixable Cordless Vac Reflects Long-Term Value: A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-artificial-intelligence-is-revolutionizing-the-supermarket-experience-the-top-trend-techinsight/"><u>How Artificial Intelligence Is Revolutionizing the Supermarket Experience: The Top Trend | TechInsight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-ecoflow-portable-battery-kept-all-household-devices-running-amidst-power-failures-a-real-life-account/"><u>How the EcoFlow Portable Battery Kept All Household Devices Running Amidst Power Failures: A Real-Life Account</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-rapid-reclamation-of-elusive-videos/"><u>In 2024, Rapid Reclamation of Elusive Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-sid-meiers-civ-vi-a-step-by-step-guide-to-resolving-game-crashes/"><u>Mastering Sid Meier's Civ VI: A Step-by-Step Guide to Resolving Game Crashes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974976204-obtain-your-behringer-usb-sound-card-software-start-recording-today/"><u>Obtain Your Behringer USB Sound Card Software - Start Recording Today</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/using-buttons-for-easy-output-handling-in-flipbook-creation-a-guide-to-flipbuilders-features/"><u>Using Buttons for Easy Output Handling in Flipbook Creation - A Guide to FlipBuilder's Features</u></a></li>
+</ul></div>
 

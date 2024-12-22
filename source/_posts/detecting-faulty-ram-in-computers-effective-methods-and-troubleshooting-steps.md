@@ -1,7 +1,7 @@
 ---
 title: "Detecting Faulty RAM in Computers: Effective Methods and Troubleshooting Steps"
-date: 2024-09-15T00:57:50.011Z
-updated: 2024-09-22T10:54:59.218Z
+date: 2024-12-19T10:14:27.702Z
+updated: 2024-12-22T01:59:55.963Z
 tags:
   - hardware
 categories:
@@ -19,11 +19,19 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 * [Option 2: Boot and Run MemTest86](https://extra-support.techidaily.com/new-punpixel-digital-comedy-design-tool/)
 * [What to Do If a Memory Test Finds Errors](https://some-guidance.techidaily.com/new-swift-navigation-for-iphone-zooming-features/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Run "Windows Memory Diagnostic" from the Start Menu, and then restart your PC to check your RAM for problems. You can also download and install MemTest86 for a more thorough RAM test.
 
  Is your PC crashing, freezing, or just unstable? There may be a problem with its RAM. To check, you can use a hidden system tool included with Windows 11, 10, and 7—or download and boot a more advanced tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How RAM Testing Tools Work
 
@@ -34,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
  These tools function by writing data to each sector of your computer's RAM and then reading it back in turn. If the tool reads a different value, this indicates that your RAM is faulty.
 
  The best RAM testing tools require you to reboot your computer into a special bootable system. This gets Windows (or another operating system) out of the way and ensures the tool has full low-level access to your RAM. There are tools you can run from within Windows, like [HCI Design's MemTest,](https://hcidesign.com/memtest/download.html) but they just won't be as reliable. We don't recommend them.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Test Your RAM?
 
@@ -66,18 +67,15 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
 ![Windows Memory Diagnostic app interface in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2024-04-22_19h10_20.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your computer will restart and the Windows Memory Diagnostics Tool screen will appear. Just leave it be and let it perform the test. This may take several minutes. During this process, you'll see a progress bar and a "Status" message will inform you if any problems have been detected during the process.
 
  However, you don't need to watch the test—you can leave your computer alone and come back to see the results later.
 
 ![Windows Memory Diagnostics Tool running on a computer monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_20240422_133527_602.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
 
@@ -100,10 +98,7 @@ Jordan Gloor / How-To Geek
  The text doesn't wrap inside the window, so you can't see it in the screenshot above, but in our case Windows returned a message stating no errors were found in our RAM.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Option 2: Boot and Run MemTest86
@@ -118,19 +113,6 @@ Jordan Gloor / How-To Geek
 
 ![imageUSB interface for writing the Memtest86 image to a USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-152233.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you've created bootable media, restart your computer and [tell it to boot from the USB drive](https://extra-guidance.techidaily.com/2024-approved-navigating-through-gopros-burst-recording-options/) you copied the memory test tool to.
 
  The tool will boot and automatically start scanning your memory, running through test after test and informing you if it finds a problem. It will keep running tests until you choose to stop it, allowing you to test how the memory behaves over a longer period of time. Information about any errors will be displayed on your screen. When you're done, you can just press the "Esc" key to exit it and restart your computer.
@@ -138,6 +120,10 @@ Jordan Gloor / How-To Geek
 ![MemTest86 running a memory check on a computer monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_20240422_161655_906.jpg) 
 
 Jordan Gloor / How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What to Do If a Memory Test Finds Errors
 
@@ -162,5 +148,18 @@ Jordan Gloor / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-fast-forward-fame-insta-popularity-through-content/"><u>[New] 2024 Approved Fast Forward Fame Insta Popularity Through Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transform-your-reels-6-advanced-applications-for-instagram/"><u>[New] In 2024, Transform Your Reels 6 Advanced Applications for Instagram</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-top-6-facebook-lite-video-exporters-2023-edition-for-2024/"><u>[New] Top 6 Facebook Lite Video Exporters - 2023 Edition for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-countdown-configuration-guide-for-obs-enthusiasts-for-2024/"><u>[Updated] Countdown Configuration Guide for OBS Enthusiasts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-quick-guide-eliminating-photo-viewer-crashes-on-windows-10/"><u>2024 Approved Quick Guide Eliminating Photo Viewer Crashes on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/could-this-innovative-suv-of-bikes-overthrow-traditional-cars-for-urban-travelers-unveiling-its-surprising-potential-zdnet/"><u>Could This Innovative 'SUV of Bikes' Overthrow Traditional Cars for Urban Travelers? Unveiling Its Surprising Potential | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-the-significance-of-your-right-to-repair-a-comprehensive-guide-by-zdnet-how-it-influences-you/"><u>Decoding the Significance of Your Right to Repair: A Comprehensive Guide by ZDNet | How It Influences You</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-efficient-solar-gift-ideas-as-featured-on-zdnet/"><u>Discover the Most Efficient Solar Gift Ideas , as Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-energy-how-mushroom-infused-potato-chips-can-charge-gadgets-and-protect-earth-insights-from-zdnet/"><u>Eco-Friendly Energy: How Mushroom-Infused Potato Chips Can Charge Gadgets & Protect Earth - Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-gpt-4-amidst-verified-social-landscape/"><u>Exploring GPT-4 Amidst Verified Social Landscape</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-voice-changes-in-psgames/"><u>In 2024, Mastering Voice Changes in PSGames</u></a></li>
+</ul></div>
 

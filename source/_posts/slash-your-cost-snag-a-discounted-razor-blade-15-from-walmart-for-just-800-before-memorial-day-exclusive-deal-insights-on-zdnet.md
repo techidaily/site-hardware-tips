@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights on ZDNet"
-date: 2024-12-10T18:38:36.318Z
-updated: 2024-12-12T19:26:26.218Z
+date: 2024-12-16T10:20:00.858Z
+updated: 2024-12-21T18:36:36.751Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-comprehensively-addressed-best-tools-for-efficient-unfollowing/"><u>[New] Comprehensively Addressed Best Tools for Efficient Unfollowing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-exploring-the-finest-8-no-cost-open-source-video-communication-apps/"><u>[New] In 2024, Exploring the Finest 8 No-Cost, Open Source Video Communication Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-art-of-transferring-tunes-between-platforms/"><u>2024 Approved The Art of Transferring Tunes Between Platforms</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-15-inch-laptop-at-an-unbeatable-price-only-250-at-walmart-complete-with-necessary-ports/"><u>Asus 15-Inch Laptop at an Unbeatable Price: Only $250 at Walmart - Complete with Necessary Ports</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boosting-chrome-os-a-step-by-step-guide-on-providing-valuable-feedback-to-developers-insights/"><u>Boosting Chrome OS: A Step-by-Step Guide on Providing Valuable Feedback to Developers - Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-audio-data-flow-separation-by-windows/"><u>Demystifying Audio Data Flow Separation by Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exceptional-display-premium-quality-laptop-at-a-steep-sale-discover-top-picks-featured/"><u>Exceptional Display: Premium Quality Laptop at a Steep Sale - Discover Top Picks Featured !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-the-perfect-portable-laptop-companion-for-efficient-work-from-home-productivity-zdnet-insights/"><u>Expert Review: The Perfect Portable Laptop Companion for Efficient Work-From-Home Productivity | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-leading-antivirus-solutions-for-2e4-a-comprehensive-review-by-zdnet-experts/"><u>Explore the Leading Antivirus Solutions for 2E4: A Comprehensive Review by ZDNET Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-ultimate-list-of-2023s-best-laptops-for-extended-battery-performance-insights/"><u>Exploring the Ultimate List of 2023'S Best Laptops for Extended Battery Performance - Insights</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y78t-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y78t Phone?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Hot 40 Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-synchronized-success-audio-meets-visual-in-films/"><u>In 2024, Synchronized Success Audio Meets Visual in Films</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-creators-pick-top-5-video-editing-programs-for-stunning-visual-content/"><u>The Creator's Pick: Top 5 Video Editing Programs for Stunning Visual Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-10-christmas-themed-chromebook-bargains-find-your-perfect-device-on-zdnet/"><u>Top 10 Christmas-Themed Chromebook Bargains - Find Your Perfect Device on ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-oled-laptop-picks-thoroughly-analyzed-and-endorsed-by-professionals-techradar/"><u>Top-Ranking OLED Laptop Picks : Thoroughly Analyzed & Endorsed by Professionals | TechRadar</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-8-digital-audio-workstations-daws-revolutionizing-contemporary-rap-and-randb-creation/"><u>Updated In 2024, Top 8 Digital Audio Workstations (DAWs) Revolutionizing Contemporary Rap and R&B Creation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-best-tools-to-extract-and-save-facebook-lite-videos/"><u>[Updated] In 2024, Best Tools to Extract and Save Facebook Lite Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-online-destinations-featuring-3d-art-and-metallic-text/"><u>[Updated] Prime Online Destinations Featuring 3D Art & Metallic Text</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-ultimate-rv-guide-expert-rankings-of-top-motorhomes-and-campervans-zdnet/"><u>2022'S Ultimate RV Guide: Expert Rankings of Top Motorhomes and Campervans | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advancing-autonomous-vehicles-key-ml-breakthrough-spotted/"><u>Advancing Autonomous Vehicles: Key ML Breakthrough Spotted!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/free-online-raf-emp-converter-tool-by-movavi/"><u>Free Online RAF EMP Converter Tool by Movavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/mastering-online-broadcasts-with-manycam-the-best-live-video-software-and-fake-webcams/"><u>Mastering Online Broadcasts with ManyCam: The Best Live Video Software & Fake Webcams</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-restoring-audio-on-your-acer-notebook/"><u>Troubleshooting Steps: Restoring Audio on Your Acer Notebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-review-and-breakdown-of-emporia-energy-smart-charger-for-electric-vehicles-powerful-features-at-competitive-pricing/"><u>ZDNet Exclusive: Review & Breakdown of Emporia Energy Smart Charger for Electric Vehicles - Powerful Features at Competitive Pricing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-review-the-dual-rider-built-e-bike-lectric-xp-30-unveiled/"><u>ZDNet's Comprehensive Review: The Dual-Rider Built E-Bike, Lectric XP 3.0 Unveiled</u></a></li>
 </ul></div>
 

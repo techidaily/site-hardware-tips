@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Images with Your Chromebook's Built-In Camera"
-date: 2024-09-17T06:29:45.718Z
-updated: 2024-09-22T07:19:48.326Z
+date: 2024-12-21T04:12:37.676Z
+updated: 2024-12-21T20:32:24.882Z
 tags:
   - hardware
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
 ## Step-by-Step Guide: Capturing Images with Your Chromebook's Built-In Camera
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Use the Screen Capture Tool](https://youtube-stream.techidaily.com/in-2024-transform-your-videography-using-youtube-to-boost-visual-clarity/)
 * [Use a Keyboard Shortcut](https://extra-lessons.techidaily.com/unveiling-ms-edges-picture-in-picture-magic/)
 * [Where Are Screenshots Saved?](https://screen-video-capture.techidaily.com/updated-in-2024-freeze-time-on-mi-11-with-impeccable-screen-recording-features/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -37,9 +45,17 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
 ![Screen capture button in ChromeOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-23-3-02-57-pm.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will open the screenshot tool, with a switch for changing from screenshot mode (the camera icon) or screen recording mode (the video camera icon). There are three buttons for both modes: capturing the entire screen, capturing a region of the screen, or capturing a specific window.
 
 ![Screenshot of toolbar in ChromeOS with full screen, partial screen, and window capture buttons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screen.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Full Screen mode** allows you to click anywhere on the screen to take a screenshot or recording of the entire screen. In **Partial Screen mode**, you can click and drag your mouse or trackpad pointer to select an area of the screen, move it around if needed, and then click the 'Capture' button. Finally, the **Window mode** lets you click an application window to only capture that window.
 
@@ -55,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
 ![The Window key highlighted on a Chromebook keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/chromebookkey.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ASUS
 
  Below are the three keyboard shortcuts to screenshot on a Chromebook:
@@ -65,31 +85,11 @@ ASUS
 
  Unfortunately, there's not a keyboard shortcut to immediately start or stop a screen recording, like there is on Windows. You need to open the Screen Capture tool first before you can start a recording.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Where Are Screenshots Saved?
 
  Screenshots and screen recordings are saved to the Downloads folder by default. You can change the folder by opening the Screen Capture tool (either from the shelf or using the **Ctrl+Alt+Window** keyboard shortcut), then clicking the Settings gear button.
 
 ![Screenshot of settings menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/vlcsnap-2024-04-24-16h48m27s001.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The menu will have an option to switch between Downloads or another folder you select. You can view your screenshots and recordings later by opening the Files app on your Chromebook.
 
@@ -108,5 +108,20 @@ ASUS
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-navigating-screen-capture-across-pcs-and-mobile-devices/"><u>[New] 2024 Approved Navigating Screen Capture Across PCs and Mobile Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-video-downloader-winmacosmobile-power-up-for-2024/"><u>[New] Facebook Video Downloader Win/macOS/Mobile Power-Up for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-calculating-podcasters-annual-earnings/"><u>[Updated] In 2024, Calculating Podcasters' Annual Earnings</u></a></li>
+<li><a href="https://discover-data.techidaily.com/boost-your-pcs-performance-top-hardware-enhancements-recommended-by-yl-computing/"><u>Boost Your PC's Performance: Top Hardware Enhancements Recommended by YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/can-adobe-shake-control-enhance-creative-process-in-photoshop-in-2024/"><u>Can Adobe Shake Control Enhance Creative Process in Photoshop, In 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facetime-malfunctioning-here-are-15-quick-fixes-that-can-help-you-connect-easily/"><u>FaceTime Malfunctioning? Here Are 15 Quick Fixes That Can Help You Connect Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ideal-mothers-day-present-the-new-beginner-kindle-paperwhite-a-smart-choice-according-to-zdnet/"><u>Ideal Mother’s Day Present: The New Beginner Kindle Paperwhite - A Smart Choice According to ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-90-lite-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 90 Lite to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-zdnet-the-rigorous-process-of-assessing-modern-tablets/"><u>Inside ZDNet: The Rigorous Process of Assessing Modern Tablets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-pro-evolution-with-os-version-162-mastering-stage-managers-new-external-monitor-functionality-gadgetguru-insights/"><u>IPad Pro Evolution with OS Version 16.2: Mastering Stage Manager's New External Monitor Functionality | GadgetGuru Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-efficiency-in-your-remote-job-the-ultimate-guide-to-powering-up-with-an-ipad-pro-advice-by-zdnet/"><u>Maximizing Efficiency in Your Remote Job: The Ultimate Guide to Powering Up with an iPad Pro - Advice by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-tablet-for-children-surpasses-ipad-and-goes-on-discount-discover-how/"><u>Next-Gen Tablet for Children Surpasses iPad & Goes On Discount – Discover How!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seguridad-de-movavi-garantizando-la-proteccion-en-su-sitio-web-y-aplicaciones/"><u>Seguridad De Movavi: Garantizando La Protección en Su Sitio Web Y Aplicaciones</u></a></li>
+</ul></div>
 

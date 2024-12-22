@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models
-date: 2024-12-09T20:44:07.925Z
-updated: 2024-12-12T17:04:00.360Z
+date: 2024-12-19T08:36:50.754Z
+updated: 2024-12-22T09:27:12.231Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,21 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-guide-to-make-your-shorts-thumbnail-pop-up/"><u>[New] 2024 Approved Guide to Make Your Shorts' Thumbnail Pop Up</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>[Updated] In 2024, Unveiling Mastery The Ultimate Animoji Guide for iPhone X</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-obs-configuration-for-budget-pcs-for-2024/"><u>[Updated] Optimal OBS Configuration for Budget PCs for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-outro-designs-ending-credits-for-every-budget-for-2024/"><u>[Updated] Outro Designs Ending Credits for Every Budget for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazing-display-low-price-uncover-the-secrets-of-our-top-pick-for-best-value-lightweight-laptops-zdnet/"><u>Amazing Display, Low Price: Uncover the Secrets of Our Top Pick for Best Value Lightweight Laptops | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazons-samsung-8tb-t5-nvme-ssd-steals-the-show-36-discount-post-prime-day-tech-insights-by-zdnet/"><u>Amazon's Samsung 8TB T5 NVMe SSD Steals the Show: 36% Discount Post-Prime Day | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/approaches-to-compress-media-files-effectively-without-loss-of-quality/"><u>Approaches to Compress Media Files Effectively Without Loss of Quality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-current-meta-vr-bargain-unbeatable-price-on-the-512gb-quest-3-insider-tips/"><u>Best Current Meta VR Bargain: Unbeatable Price on the 512GB Quest 3 - Insider Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-selected-leading-security-devices-for-202e-comprehensive-analysis-by-zdnet/"><u>Expertly Selected Leading Security Devices for 202E: Comprehensive Analysis by ZDNet</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/exploring-key-elements-that-drive-fluctuations-in-cryptocurrency-markets-a-guide-by-yl-technologies/"><u>Exploring Key Elements that Drive Fluctuations in Cryptocurrency Markets – A Guide by YL Technologies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-expand-connectivity-ultimate-guide-to-adding-more-ports-on-your-macbook-and-ipad-pro/"><u>How to Expand Connectivity: Ultimate Guide to Adding More Ports on Your MacBook and iPad Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-troubleshoot-non-stop-cpu-fans-insights-and-tips-pros/"><u>How to Troubleshoot Non-Stop CPU Fans? Insights and Tips Pros</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-premier-macos-sierra-tools-for-video-changeovers/"><u>In 2024, Premier macOS Sierra Tools for Video Changeovers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-with-left-4-dead-2-fix-the-game-crash-problems-once-and-for-all/"><u>Smooth Sailing with Left 4 Dead 2 - Fix the Game Crash Problems Once and For All</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-at-rocking-prices-during-octobers-prime-shopping-month-insights-from-zdnet/"><u>Top-Rated Laptops at Rocking Prices During October's Prime Shopping Month - Insights From ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-tips-for-fast-and-efficient-avchd-to-avi-video-transformation/"><u>Ultimate Tips for Fast and Efficient AVCHD to AVI Video Transformation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-charm-of-dell-xps-13-aesthetics-meet-performance-ranked-2-in-our-review/"><u>Unveiling the Charm of Dell XPS 13: Aesthetics Meet Performance - Ranked #2 in Our Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-the-in-stream-ad-landscape-on-facebook/"><u>[New] In 2024, Navigating the In-Stream Ad Landscape on Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-premium-console-emulation-choosing-the-top-5-for-windows-for-2024/"><u>[New] Premium Console Emulation Choosing the Top 5 for Windows for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unleash-the-power-of-online-livestreams-with-us-today/"><u>[Updated] 2024 Approved Unleash the Power of Online Livestreams with Us Today</u></a></li>
+<li><a href="https://win-best.techidaily.com/boosting-computer-speed-in-windows-11-expert-advice-and-tweaks-by-yl-software/"><u>Boosting Computer Speed in Windows 11: Expert Advice and Tweaks by YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-11-pro-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 11 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-a05-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy A05? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inside-the-dji-phantom-3-pro-advantages/"><u>Inside the DJI Phantom 3 Pro Advantages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lessons-in-frustration-a-firsthand-look-at-southwest-airlines-disappointing-digital-services-as-revealed-by-zdnet/"><u>Lessons in Frustration: A Firsthand Look at Southwest Airlines' Disappointing Digital Services, as Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discounts-score-flights-at-94-off-with-dollar-flight-club-exclusive-deals-unveiled/"><u>Massive Discounts: Score Flights at 94% Off with Dollar Flight Club - Exclusive Deals Unveiled!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-disruption-alert-southwest-grounds-20k-flights-critical-update-on-passenger-impact/"><u>Massive Disruption Alert: Southwest Grounds 20K Flights - Critical Update on Passenger Impact</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-vacation-budget-access-cut-price-hotels-car-hires-and-theme-park-admission-through-our-member-deals-zdnets-tips/"><u>Maximize Your Vacation Budget: Access Cut-Price Hotels, Car Hires & Theme Park Admission Through Our Member Deals | ZDNet's Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-lifespan-and-performance-expert-tips-on-maintaining-high-end-electric-bike-batteries/"><u>Maximizing Lifespan & Performance: Expert Tips on Maintaining High-End Electric Bike Batteries</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-away-from-worker-monitoring-strategies-for-the-transport-sector-insights-by-zdnet/"><u>Navigating Away From Worker Monitoring: Strategies for the Transport Sector - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-without-technology-embracing-the-old-school-road-atlas-in-light-of-cognitive-health-awareness-zdnet-insights/"><u>Navigating Without Technology: Embracing the Old-School Road Atlas in Light of Cognitive Health Awareness | ZDNET Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-av2000-powerline-surge-protector-analysis-impressive-speed-performance-with-mediocre-aesthetics/"><u>TP-Link AV2000 Powerline Surge Protector Analysis: Impressive Speed Performance with Mediocre Aesthetics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unleash Productivity: A Comprehensive Review of the Innovative 12-in-1 Docking Station Tailored for Windows - Plus a Battery Charging Twist! | CNET"
-date: 2024-12-12T00:26:34.716Z
-updated: 2024-12-12T21:05:04.578Z
+date: 2024-12-18T20:23:26.563Z
+updated: 2024-12-21T23:53:58.301Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72eddc09-80c8-4720-a635-4117a708ed92%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,19 +149,20 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-10-best-youtube-music-reaction-videos-2023/"><u>[Updated] 2024 Approved 10 Best YouTube Music Reaction Videos 2023</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ending-quicktime-capture-immediate-steps/"><u>[Updated] In 2024, Ending QuickTime Capture Immediate Steps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/chart-your-course-in-crypto-selecting-the-best-7-art-converters-for-2024/"><u>Chart Your Course in Crypto - Selecting the Best 7 Art Converters for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/discover-the-benefits-of-using-virtualization-for-streamlined-disaster-recovery-solutions/"><u>Discover the Benefits of Using Virtualization for Streamlined Disaster Recovery Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-cost-effective-gaming-laptops-in-depth-testing-results-from-authorities-in-tech-zdnet/"><u>Discover the Ultimate Guide to Cost-Effective Gaming Laptops: In-Depth Testing Results From Authorities in Tech | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ifa-2024-spotlight-my-immersive-experience-with-lenovos-game-changing-swivelling-laptop-insights-from-zdnet/"><u>IFA 2024 Spotlight: My Immersive Experience with Lenovo's Game-Changing Swivelling Laptop - Insights From ZDNET</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-annotating-emotions-through-trailer-tunes/"><u>In 2024, Annotating Emotions Through Trailer Tunes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-choosing-the-best-mac-mkv-players-guide/"><u>In 2024, Choosing the Best Mac MKV Players Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-tips-for-mov-saving-on-windows-10/"><u>In 2024, Essential Tips for MOV Saving on Windows 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-steep-discount-secure-your-asus-rog-strix-g115-for-just-600-less-hot-deal-alert/"><u>Score a Steep Discount: Secure Your Asus ROG Strix G1^15 for Just $600 Less | Hot Deal Alert</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-inverted-screen-problem-in-windows-10/"><u>Solving Inverted Screen Problem in Windows 10</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-to-repairing-bootmgr-issues-in-windows-11/"><u>Step-by-Step Guide to Repairing BOOTMGR Issues in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-metas-unbeatable-offer-the-512gb-oculus-quest-2023-sale-top-choice-for-virtual-reality-enthusiasts/"><u>Unveiling Meta's Unbeatable Offer: The 512GB Oculus Quest 2023 Sale - Top Choice for Virtual Reality Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-lenovo-thinkpad-x13s-a-high-end-arm-equipped-ultraportable-with-cutting-edge-5g-features-and-robust-battery-performance/"><u>Unveiling the Lenovo ThinkPad X13s: A High-End Arm-Equipped Ultraportable with Cutting-Edge 5G Features and Robust Battery Performance</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes/"><u>[Updated] 2024 Approved Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-journey-camera-setup-for-aspiring-cinephiles-for-2024/"><u>[Updated] Journey Camera Setup for Aspiring Cinephiles for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-evaluating-ffmpegs-mastery-in-untouched-audio-extraction-techniques/"><u>2024 Approved Evaluating FFmpeg's Mastery in Untouched Audio Extraction Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-poco-f5-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco F5 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-6s-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-understanding-limits-to-instagram-videography/"><u>In 2024, Understanding Limits to Instagram Videography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-utility-bills-top-5-tv-tweaks-that-slashed-my-energy-costs-insights-and-how-to/"><u>Slash Your Utility Bills: Top 5 TV Tweaks That Slashed My Energy Costs - Insights & How-To!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/smart-savings-for-high-quality-tv-the-sony-bravia-a-great-investment-that-often-hits-sale-prices-insights-by-zdnets-senior-reviewer/"><u>Smart Savings for High-Quality TV: The Sony Bravia - A Great Investment that Often Hits Sale Prices | Insights by ZDNET's Senior Reviewer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/streaming-the-big-game-top-ways-to-tune-into-super-bowl-liv-tech-insights/"><u>Streaming the Big Game: Top Ways to Tune Into Super Bowl LIV - Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tcl-unveils-stunning-2024-collection-of-mini-led-televisions-showcasing-the-revolutionary-115-inch-giant-hdview-insights/"><u>TCL Unveils Stunning 2024 Collection of Mini LED Televisions, Showcasing the Revolutionary 115-Inch Giant | HDView Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-finest-selection-of-5-sd-cards-for-hero-gopros/"><u>The Finest Selection of 5 SD Cards for Hero GoPros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-legislative-process-allows-for-extensive-debate-ensuring-multiple-perspectives-are-considered-before-passing-laws/"><u>The Legislative Process Allows for Extensive Debate, Ensuring Multiple Perspectives Are Considered Before Passing Laws.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-misplacing-your-streaming-device-discover-the-ultimate-solution-for-roku-devotees-exclusive-update-from-zdnet/"><u>Tired of Misplacing Your Streaming Device? Discover the Ultimate Solution For Roku Devotees - Exclusive Update From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-4-controversial-apple-releases-how-initial-critiques-shaped-success/"><u>Top 4 Controversial Apple Releases: How Initial Critiques Shaped Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-55-television-models-recommended-by-zdnet/"><u>Top 5 Premium 55 Television Models - Recommended by ZDNet</u></a></li>
 </ul></div>
 

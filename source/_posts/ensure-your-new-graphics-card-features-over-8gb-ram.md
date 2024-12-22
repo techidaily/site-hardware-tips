@@ -1,7 +1,7 @@
 ---
 title: Ensure Your New Graphics Card Features Over 8GB RAM
-date: 2024-09-18T02:32:14.403Z
-updated: 2024-09-21T20:17:36.404Z
+date: 2024-12-21T06:40:47.649Z
+updated: 2024-12-21T16:20:10.588Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Ensure Your New Graphics Card Features Over 8GB RAM
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -25,9 +29,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This can lead to stutters and low frame rates, destroying game performance even if your GPU itself is technically powerful enough to do the work. GPU horsepower means nothing if the chip is twiddling its virtual thumbs, waiting for the data it needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8GB Is OK Right Now
 
  If you already have an 8GB GPU, it's far from the end of the world. Most current and past games will run just fine on 8GB of VRAM. You're most likely playing on a 1080p or 1440p display, in which case 8GB is likely still just fine as long as you're sensible with the game's settings. In particular, don't use the [highest texture quality](https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-meizu-21-drfone-by-drfone-virtual-android/) settings unless it all fits in VRAM with no performance issues. In current-generation games, the best texture quality setting is designed for 4K displays, so it's largely wasted on 1080p or 1440p screens anyway.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Games Will Need More Soon
 
@@ -36,10 +48,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It won't be that long before the minimum requirements for modern games call for 8GB of VRAM. With all the new visual technologies that make games look as amazing as they do, it's becoming harder to fit everything into an 8GB frame buffer. Even taking advantage of features such as [frame generation or AI upscaling](https://extra-resources.techidaily.com/digital-sensations-how-vr-enhances-pleasure/)can put additional load on VRAM, depending on the specific settings you use. No matter which way you look at it, going ahead 8GB of VRAM will be a squeeze, and paring the settings down to fit will result in a noticeably downgraded game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  AI Benefits From VRAM Too
@@ -47,10 +56,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you have any interest in [running AI locally](https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/), that's a whole extra reason to want more VRAM with your next GPU. Local AI models that use the GPU to run need to fit in VRAM entirely, and for use cases such as AI image generation, how complex or high-quality the results are directly corresponds to how much VRAM you have available. With more AI applications that run on your local computer on the way, it's probably a good idea to get a card with as much VRAM as you can afford.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  There’s No Rush
@@ -70,5 +76,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-high-quality-webcam-videos-with-best-editors-for-2024/"><u>[Updated] High-Quality Webcam Videos with Best Editors for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-boosting-vimeo-playback-speed/"><u>[Updated] In 2024, Boosting Vimeo Playback Speed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-splitting-vision-assessing-splitcams-camera-excellence/"><u>[Updated] Splitting Vision Assessing SplitCam's Camera Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-affordable-android-tablet-excellence-top-picks-beyond-samsung-and-tcl-insights-for-smart-shoppers/"><u>1. Affordable Android Tablet Excellence: Top Picks Beyond Samsung and TCL - Insights for Smart Shoppers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unbeatable-audio-experience-top-non-bose-non-sonos-speakers-that-dominate-the-market/"><u>1. Unbeatable Audio Experience: Top Non-Bose, Non-Sonos Speakers That Dominate the Market!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-highest-quality-ipad-pro-compatible-keyboards-expert-reviews-and-ratings-zdnet/"><u>2024'S Highest Quality iPad Pro Compatible Keyboards: Expert Reviews and Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adaptation-to-innovation-how-switching-to-remarkables-new-color-e-ink-device-changed-my-note-taking-for-good/"><u>Adaptation to Innovation: How Switching to Remarkable's New Color E-Ink Device Changed My Note-Taking for Good!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adapting-to-a-digital-transformation-my-two-week-journey-with-remarkables-colorful-e-ink-tablet/"><u>Adapting to a Digital Transformation: My Two-Week Journey with Remarkable's Colorful E-Ink Tablet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-in-a-slate-comprehensive-zdnet-review-of-the-capable-honor-pad-8-tablet-google-search-seo-best-practices/"><u>Affordable Excellence in a Slate: Comprehensive ZDNET Review of the Capable Honor Pad 8 Tablet | Google Search SEO Best Practices.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-in-tablets-the-in-depth-review-of-honor-pad-n-8-by-zdnet-for-savvy-tech-enthusiasts-seeking-quality-and-value/"><u>Affordable Excellence in Tablets - The In-Depth Review of Honor Pad N 8 by Zdnet for Savvy Tech Enthusiasts Seeking Quality and Value</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/continuous-playback-made-easy-resolving-kodis-buffering-for-flawless-streaming/"><u>Continuous Playback Made Easy: Resolving Kodi's Buffering for Flawless Streaming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-itel-s23plus-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Itel S23+ Lock Screen Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-fit-ideal-companion-for-health-buffs/"><u>In-Depth Analysis of the Samsung Galaxy Fit – Ideal Companion for Health Buffs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectify-broadcom-nic-problem-dell-pc/"><u>Rectify Broadcom NIC Problem, Dell PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-reviewing-the-line-communication-platform/"><u>The Complete Guide to Reviewing The Line Communication Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-thoughtful-insight-the-enigmatic-brilliance-of-apples-new-ipad-10th-gen-revealed-detailed-2022-tablet-assessment/"><u>ZDNet's Thoughtful Insight: The Enigmatic Brilliance of Apple's New iPad 10Th Gen Revealed | Detailed 2022 Tablet Assessment</u></a></li>
+</ul></div>
 

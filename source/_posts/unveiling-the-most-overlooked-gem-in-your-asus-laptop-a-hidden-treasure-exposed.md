@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Most Overlooked Gem in Your Asus Laptop: A Hidden Treasure Exposed"
-date: 2024-12-08T20:05:53.478Z
-updated: 2024-12-12T22:35:27.853Z
+date: 2024-12-16T07:30:42.315Z
+updated: 2024-12-21T21:57:12.552Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,14 +106,21 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-streamlined-playback-import-tunes-into-inshot-for-2024/"><u>[New] Streamlined Playback Import Tunes Into InShot for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-swiftrecordingtool-with-narrator-functionality/"><u>[Updated] SwiftRecordingTool with Narrator Functionality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-bargain-on-high-performance-computing-secure-your-new-gigabyte-aero-16-at-half-price-endorsed-for-gamers-and-professionals-alike/"><u>Discover the Best Bargain on High-Performance Computing: Secure Your New Gigabyte Aero 16 at Half Price, Endorsed for Gamers and Professionals Alike!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-budget-college-laptop-that-outshines-macbooks-and-thinkpads-for-students-now-with-a-sweet-200-off-deal-reviews/"><u>Discover the Ultimate Budget College Laptop That Outshines MacBooks and ThinkPads for Students - Now With a Sweet 200 Off Deal! Reviews</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/enhance-your-desktop-with-bonnie-from-the-vampire-diaries-high-res-graphics-by-yl-software/"><u>Enhance Your Desktop with Bonnie From The Vampire Diaries - High-Res Graphics by YL Software</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/simplify-multitasking-on-iphone-activatedeactivate-youtubes-pip-feature/"><u>Simplify Multitasking on iPhone Activate/Deactivate YouTube's PIP Feature</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-linux-laptop-picks-for-253-comprehensive-reviews-and-benchmarks-by-tech-experts-pcmag/"><u>Top-Rated Linux Laptop Picks for 2^53: Comprehensive Reviews & Benchmarks by Tech Experts - PCMag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-extra-usb-ports-for-macbookipad-pro-the-definitive-add-on-strategy-by-zdnet-experts/"><u>Unlock Extra USB Ports for MacBook/iPad Pro: The Definitive Add-On Strategy by ZDNet Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/x-15/"><u> [X = 15 </u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-embrace-the-vivid-world-editing-and-viewing-hd-with-windows-hdr/"><u>[New] 2024 Approved Embrace the Vivid World Editing & Viewing HD with Windows HDR</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-tools-and-strategies-for-capturing-streaming-audio-webwide-for-2024/"><u>[New] Top Tools & Strategies for Capturing Streaming Audio Webwide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-guide-to-50-creative-free-youtube-advertising-options/"><u>[New] Your Guide to 50 Creative, Free YouTube Advertising Options</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-breakdown-of-sharex-expert-opinions-and-alternatives/"><u>[Updated] In 2024, Breakdown of ShareX Expert Opinions & Alternatives</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-the-world-of-instagram-posts-large-imagevideo-uploads-for-2024/"><u>[Updated] Navigating the World of Instagram Posts Large Image/Video Uploads for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-techniques-for-ultimate-iphone-hdr/"><u>2024 Approved Advanced Techniques for Ultimate iPhone HDR</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-a-budget-friendly-laptop-with-stunning-display-quality-reviewed/"><u>Affordable Excellence: A Budget-Friendly Laptop with Stunning Display Quality Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fast-fixes-for-constantly-running-pc-fans-expert-advice/"><u>Fast Fixes for Constantly Running PC Fans - Expert Advice</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-media-errors-in-win11/"><u>Mastering the Art of Fixing Media Errors in Win11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-free-online-video-compressors-without-downloads/"><u>The Ultimate List 10 Free Online Video Compressors Without Downloads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-65plus-unmissable-holiday-promotions-on-gaming-laptops-explore-the-latest-offers/"><u>Top 65+ Unmissable Holiday Promotions on Gaming Laptops – Explore the Latest Offers!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-unveils-future-plans-for-apple-tv-improved-facetime-functionality-and-latest-tvos-innovations-to-watch-out-for/"><u>ZDNet Unveils Future Plans for Apple TV - Improved FaceTime Functionality and Latest tvOS Innovations to Watch Out For</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-expert-picks-leading-lg-tv-models-for-the-year-2024-unveiled/"><u>ZDNet's Expert Picks: Leading LG TV Models for the Year 2024 Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-selection-of-superior-32-inch-tvs-as-chosen-by-industry-experts/"><u>ZDNET's Ultimate Selection of Superior 32-Inch TVs , as Chosen by Industry Experts</u></a></li>
 </ul></div>
 
