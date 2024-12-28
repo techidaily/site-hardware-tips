@@ -1,7 +1,7 @@
 ---
 title: "Revamped Dell XPS Series: Elevating Portability Meets Cutting-Edge Artificer Intelligence, Retaining Timeless Design | ZDNet"
-date: 2024-12-15T06:25:59.420Z
-updated: 2024-12-22T05:27:45.458Z
+date: 2024-12-21T21:34:13.918Z
+updated: 2024-12-27T21:57:17.438Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,20 +85,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-pixel-perfect-playback-fixing-blurry-videos-on-smartphones/"><u>[Updated] 2024 Approved Pixel Perfect Playback Fixing Blurry Videos on Smartphones</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-exploring-sources-of-high-quality-insta-soundtracks-and-crafting-noteworthy-chimes-for-2024/"><u>[Updated] Exploring Sources of High-Quality Insta Soundtracks and Crafting Noteworthy Chimes for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/decoding-chatgpt-unlock-techniques-pros-cons-and-what-you-should-know/"><u>Decoding ChatGPT Unlock Techniques: Pros, Cons & What You Should Know</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-black-friday-and-holiday-promotions-at-newegg-zdnet-exclusive-list/"><u>Discover the Ultimate Black Friday & Holiday Promotions at Newegg | ZDNET Exclusive List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-list-of-best-laptop-deals-from-hp-to-razer-prime-day-savings-galore-zdnet-exclusive/"><u>Discover the Ultimate List of Best Laptop Deals From HP to Razer: Prime Day Savings Galore | ZDNET Exclusive!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-power-a-comprehensive-guide-to-using-the-baseus-100w-multi-device-power-bank-gizmogeek-blog/"><u>Experience the Power: A Comprehensive Guide to Using the Baseus 100W Multi-Device Power Bank | GizmoGeek Blog</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-lenovo-thinkpad-x13s-an-in-depth-look-at-its-arm-power-advanced-5g-capabilities-and-extended-battery-performance-techreview/"><u>Exploring the Lenovo ThinkPad X13s: An In-Depth Look at Its ARM Power, Advanced 5G Capabilities, & Extended Battery Performance - TechReview</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-the-best-value-computers-under-1k-cyber-monday-deals-at-amazon-costco-and-dell-zdnet-insights/"><u>Find the Best Value Computers: Under $1K Cyber Monday Deals at Amazon, Costco, and Dell | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-toshiba-driver-updates-for-your-windows-pc-heres-how/"><u>Get the Latest Toshiba Driver Updates for Your Windows PC - Here's How</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-upload-and-save-your-license-as-a-digital-id-in-iphones-wallet-app-tips-for-varying-jurisdictions/"><u>How to Upload and Save Your License as a Digital ID in iPhone's Wallet App - Tips for Varying Jurisdictions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ssional-insights-crafting-youtube-trailers-using-filmora/"><u>Professional Insights Crafting YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-8-sites-to-get-free-green-screen-backgrounds-and-footage-for-2024/"><u>Top 8 Sites to Get Free Green Screen Backgrounds and Footage for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-potential-hypers-innovative-hubs-docks-and-ssd-cases-expand-laptop-capabilities-insights-from-zdnet/"><u>Unleashing Potential: Hyper's Innovative Hubs, Docks & SSD Cases Expand Laptop Capabilities - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-exploration-of-the-outstanding-duo-traits-that-make-this-lenovo-notebook-a-powerhouse-for-enthusiasts/"><u>ZDNet's Exploration of the Outstanding Duo Traits that Make This Lenovo Notebook a Powerhouse for Enthusiasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-4-screen-recording-features-for-windows-8/"><u>[New] 2024 Approved Top 4 Screen Recording Features for Windows 8</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unleash-the-power-of-engaging-headline-crafting-for-2024/"><u>[New] Unleash the Power of Engaging Headline Crafting for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-no-cost-image-servers-always-preserve-your-pics/"><u>2024 Approved Top 10 No-Cost Image Servers, Always Preserve Your Pics</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-poco-m6-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Poco M6 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-robot-revolutionizes-navigation-for-the-visually-impaired-beyond-canes-and-guide-dogs/"><u>AI Robot Revolutionizes Navigation for the Visually Impaired - Beyond Canes & Guide Dogs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evolution-of-ai-identifying-truly-autonomous-robots-insights-from-zdnet/"><u>Evolution of AI: Identifying Truly Autonomous Robots - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-effortless-lawn-maintenance-with-our-new-cutting-edge-cordless-robotic-mower-featured-on-zdnet/"><u>Experience Effortless Lawn Maintenance with Our New Cutting-Edge Cordless Robotic Mower Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-advanced-hardware-insights-by-toms-experts/"><u>Exploring Advanced Hardware Insights by Tom’s Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-svd-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .svd file electronically</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-ace-2-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus Ace 2 to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-review-the-shark-ion-robovac-av751-exceptional-cleaning-performance-with-navigation-challenges-tech-insights/"><u>In-Depth Analysis and Review: The Shark iON RoboVac AV751 - Exceptional Cleaning Performance with Navigation Challenges | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ponyai-achieves-milestone-with-landmark-robo-taxi-license-issuance-in-china-the-technology-news/"><u>Pony.ai Achieves Milestone with Landmark Robo-Taxi License Issuance in China - The Technology News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-drop-the-eufy-twin-turbine-robovac-now-just-350-post-prime-day-smart-shopping-alert/"><u>Unbeatable Price Drop: The Eufy Twin-Turbine RoboVac Now Just $350 Post-Prime Day – Smart Shopping Alert!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-power-of-roborock-s8-pro-a-revolutionary-2-in-1-cleaning-solution-review-techinsights/"><u>Unleashing the Power of Roborock S8 Pro: A Revolutionary 2-in-1 Cleaning Solution Review | TechInsights</u></a></li>
 </ul></div>
 

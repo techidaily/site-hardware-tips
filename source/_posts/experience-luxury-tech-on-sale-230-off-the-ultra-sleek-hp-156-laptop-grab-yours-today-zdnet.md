@@ -1,7 +1,7 @@
 ---
 title: "Experience Luxury Tech on Sale: $230 Off the Ultra-Sleek HP 15.6” Laptop - Grab Yours Today @ ZDNET!"
-date: 2024-12-17T06:07:28.776Z
-updated: 2024-12-22T06:23:57.946Z
+date: 2024-12-26T17:38:51.158Z
+updated: 2024-12-27T20:13:01.402Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,18 +138,14 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-sneak-peek-at-prime-day-and-cyber-monday-laptop-deals-coming-in-october-2024-zdnet/"><u>Exclusive Sneak Peek at Prime Day & Cyber Monday Laptop Deals Coming in October 2024 | ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-overcoming-lol-launch-lag/"><u>Guide to Overcoming LOL Launch Lag</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-successfully-install-and-tweak-pc-manager-w11/"><u>How to Successfully Install & Tweak PC Manager W11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-honor-magic-6-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Honor Magic 6 Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-master-your-media-adhering-to-twitters-video-requirements/"><u>In 2024, Master Your Media Adhering to Twitter's Video Requirements</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-air-with-apple-m1-chip-at-unbeatable-649-top-deal-on-zdnet/"><u>MacBook Air with Apple M1 Chip at Unbeatable $649: Top Deal on ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-unbeatable-prime-day-blowouts-on-laptops-score-yours-before-halloween/"><u>Top Picks: Unbeatable Prime Day Blowouts on Laptops - Score Yours Before Halloween!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-student-friendly-chromebooks-comprehensive-reviews-and-insights-by-tech-experts/"><u>Top-Ranked Student-Friendly Chromebooks: Comprehensive Reviews & Insights by Tech Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-tablets-and-laptops-for-creative-professionals-in-depth-analysis-by-tech-experts/"><u>Top-Rated Graphics Tablets & Laptops for Creative Professionals - In-Depth Analysis by Tech Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-presidents-sale-offer-score-300-discount-on-the-latest-m2-macbook-air-shop-now-at-zdnet/"><u>Unbeatable Presidents’ Sale Offer: Score $300 Discount on the Latest M2 MacBook Air - Shop Now at ZDNet!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-video-privacy-made-easy-top-blur-apps-for-face-and-background-for-2024/"><u>Updated Video Privacy Made Easy Top Blur Apps for Face and Background for 2024</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-motorola-edge-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Motorola Edge 40?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-clips-to-classrooms-harnessing-youtubes-potential-for-teaching/"><u>[Updated] In 2024, From Clips to Classrooms Harnessing YouTube's Potential for Teaching</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-epic-launcher-backups/"><u>Essential Tips for Epic Launcher Backups</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-google-pixel-fold-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Google Pixel Fold to Another | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovation-in-dining-robots-filling-shifts-for-sparse-restaurant-crew-and-the-future-of-human-servers-explored-zdnet/"><u>Innovation in Dining: Robots Filling Shifts for Sparse Restaurant Crew, and the Future of Human Servers Explored | ZDNET</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211383487-9798330236978-selfish-healing/"><u>Selfish Healing | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/small-in-size-massive-in-cleaning-capability-discover-the-mighty-dinner-plate-sized-robot-vacuum-featured-on-zdnet/"><u>Small in Size, Massive in Cleaning Capability: Discover the Mighty Dinner Plate-Sized Robot Vacuum Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/smart-savings-guide-expert-review-compares-economy-to-luxury-robot-vacuums-for-cost-conscious-consumers/"><u>Smart Savings Guide: Expert Review Compares Economy to Luxury Robot Vacuums for Cost-Conscious Consumers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-kid-friendly-ipad-models-comprehensive-review-by-zdnet/"><u>Top 4 Kid-Friendly iPad Models - Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-feline-hygiene-with-innovation-how-our-cats-embrace-the-smart-litter-solution-zdnet/"><u>Transforming Feline Hygiene with Innovation: How Our Cats Embrace the Smart Litter Solution | ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2024-12-19T10:11:31.171Z
-updated: 2024-12-21T18:09:06.717Z
+date: 2024-12-24T16:50:49.327Z
+updated: 2024-12-27T16:19:32.351Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,18 +114,21 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-joketileart-imagehumorhub/"><u>[New] 2024 Approved JokeTileArt ImageHumorHub</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-elevate-your-display-with-these-8-macbook-backgrounds/"><u>[New] Elevate Your Display with These 8 MacBook Backgrounds</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-empowering-communication-with-these-leading-mac-tts-programs-for-2024/"><u>[New] Empowering Communication with These Leading Mac TTS Programs for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-arcadia-elite-seamless-full-hd-multi-touch-desktops/"><u>[Updated] 2024 Approved Arcadia Elite Seamless, Full HD Multi-Touch Desktops</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-supreme-storytelling-through-soundscape/"><u>[Updated] Supreme Storytelling Through Soundscape</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1724313308695-abbyy-flexicapture/"><u>「ABBYY FlexiCaptureを活用し、大量の書類検証プロセスを最適化する方法」</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-13t-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi 13T FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-lamicall-tablet-support-features-and-practical-insights/"><u>Evaluating the Lamicall Tablet Support - Features and Practical Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-register-now-for-invite-only-amazon-prime-day-savings-top-tips-revealed/"><u>Limited Time Offer: Register Now for Invite-Only Amazon Prime Day Savings - Top Tips Revealed!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/live-streaming-nfl-matches-step-by-step-guide/"><u>Live Streaming NFL Matches - Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/live-streaming-nfl-matches-a-comprehensive-guide-techradar/"><u>Live Streaming NFL Matches: A Comprehensive Guide | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/longer-lifespan-with-samsung-exclusive-7-year-software-support-for-your-smart-tv-insights-from-zdnet/"><u>Longer Lifespan with Samsung: Exclusive 7-Year Software Support for Your Smart TV - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/uncharted-territories-the-ultimate-guide-to-iphone-vr-games/"><u>Uncharted Territories The Ultimate Guide to iPhone VR Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-tale-of-two-platforms-youtube-and-dailymention/"><u>[New] 2024 Approved The Tale of Two Platforms YouTube and DailyMention</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-live-stream-on-youtube-gaming-for-2024/"><u>[New] How to Live Stream on YouTube Gaming for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-humor-hacks-simplifying-the-process-of-meme-creation/"><u>[New] Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-tiktok-bio-enhancement-with-direct-url-integration-for-2024/"><u>[New] TikTok Bio Enhancement with Direct URL Integration for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-master-your-mp3-ultimate-guide-to-youtube-converters/"><u>[Updated] 2024 Approved Master Your MP3 Ultimate Guide to YouTube Converters</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-effortlessly-integrate-your-apple-podcasts-collection-for-2024/"><u>[Updated] Effortlessly Integrate Your Apple Podcasts Collection for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-immersion-in-the-most-realistic-water-games/"><u>[Updated] In 2024, Immersion in the Most Realistic Water Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-dont-purchase-these-4-apple-devices-yet-a-zdnet-insight/"><u>1. Don't Purchase These 4 Apple Devices Yet: A ZDNet Insight</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-5-budget-action-camcorders-in-full-hd/"><u>2024 Approved Top 5 Budget Action Camcorders in Full HD</u></a></li>
+<li><a href="https://extra-information.techidaily.com/all-inclusive-list-of-prime-no-money-streaming-applications-and-software/"><u>All-Inclusive List of Prime No-Money Streaming Applications & Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-beast-explore-how-this-compact-computing-marvel-outperforms-giants-at-a-surprising-price-point-gadgetguru/"><u>Budget-Friendly Beast: Explore How This Compact Computing Marvel Outperforms Giants at a Surprising Price Point | GadgetGuru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buy-the-ultimate-deal-over-half-off-on-a-4tb-samsung-usb-c-external-ssd-at-amazon-tech-advice/"><u>Buy the Ultimate Deal: Over Half Off on a 4TB Samsung USB-C External SSD at Amazon - Tech Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-the-future-how-artificial-intelligence-is-redefining-computing-speeds-insights-from-zdnet/"><u>Embracing the Future: How Artificial Intelligence Is Redefining Computing Speeds - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leveraging-local-computing-power-for-ai-model-deployment-managing-dozens-of-models-on-mac-or-pc-without-third-party-clouds-zdnet-insights/"><u>Leveraging Local Computing Power for AI Model Deployment: Managing Dozens of Models on Mac or PC Without Third-Party Clouds | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-snag-the-ultimate-deal-on-an-acer-gamers-dream-computer-under-650-shop-now/"><u>Slash Prices: Snag the Ultimate Deal on an Acer Gamer's Dream Computer Under $650 - Shop Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-macos-stage-manager-a-comprehensive-guide-on-activation-and-features/"><u>Unlocking macOS Stage Manager: A Comprehensive Guide on Activation & Features</u></a></li>
 </ul></div>
 

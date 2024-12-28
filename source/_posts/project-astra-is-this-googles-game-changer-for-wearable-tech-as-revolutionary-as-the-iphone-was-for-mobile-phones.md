@@ -1,7 +1,7 @@
 ---
 title: "Project Astra: Is This Google's Game-Changer for Wearable Tech as Revolutionary as the iPhone Was for Mobile Phones?"
-date: 2024-09-14T21:09:35.688Z
-updated: 2024-09-21T20:44:40.092Z
+date: 2024-12-23T19:47:03.363Z
+updated: 2024-12-28T00:00:37.113Z
 tags:
   - hardware
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 ## Project Astra: Is This Google's Game-Changer for Wearable Tech as Revolutionary as the iPhone Was for Mobile Phones?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [With Project Astra, the Time Is Right for the Next Generation of Google Glass](https://extra-guidance.techidaily.com/photo-twisting-with-professional-tools-for-2024/)
 * [Smart Glasses Could One Day Be the Only Tech You Need](https://video-screen-grab.techidaily.com/updated-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/)
 * [Google Should Equip Future Smart Glasses With Certain Privacy Features](https://hardware-updates.techidaily.com/navigating-the-world-of-electronics-with-toms-insider-knowledge/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 * Potential privacy features like indicators for recording and driving restrictions are crucial for the next generation of smart glasses.
 
  Google recently shared its Project Astra, an early demo of what a future AI-powered universal assistant could look like. Near the end of the demo, the Google employee puts on a pair of glasses and seamlessly continues to converse with the assistant. I think smart glasses have just found their killer feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  With Project Astra, the Time Is Right for the Next Generation of Google Glass
 
@@ -36,16 +48,7 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  Just imagine wearing smart glasses equipped with a HUD advanced enough to show you messages, appointments, Google search results in textual form, the song you're listening to as well as the rest of the playlist, and other text-based information. This could be a shakeup the world of personal computing needs. Smartphones have turned into commodities anyway, so why not put them in our pockets and let them stay there?
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Smart Glasses Could One Day Be the Only Tech You Need
@@ -67,10 +70,7 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  Our phones could transform into a sort of “computing station” with our glasses taking the center stage. Smartphones will still be the engines powering all that computing, but they will do that behind the scenes.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Should Equip Future Smart Glasses With Certain Privacy Features
@@ -100,5 +100,26 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-elevate-video-conferencing-skills-google-meet-aesthetics-guide-for-2024/"><u>[New] Elevate Video Conferencing Skills Google Meet Aesthetics Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-into-the-humor-hub-of-the-world-wide-web-metaverse-memes-101/"><u>[Updated] 2024 Approved Into the Humor Hub of the World Wide Web - Metaverse Memes 101</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimize-your-channels-an-introduction-to-youtube-statistics/"><u>[Updated] Optimize Your Channels An Introduction to YouTube Statistics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-ultimate-compilation-top-6-downloader-apps-for-facebooks-lite-version-for-2024/"><u>[Updated] The Ultimate Compilation Top 6 Downloader Apps for Facebook's Lite Version for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-instagrams-secrets-for-powerful-video-chats-for-2024/"><u>[Updated] Unveiling Instagram's Secrets for Powerful Video Chats for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/comprehensive-winxdvd-user-manual-a-complete-walkthrough-for-successful-setup-and-operation/"><u>Comprehensive WinXDVD User Manual: A Complete Walkthrough for Successful Setup & Operation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-computing-exploring-the-most-robust-laptop-models-for-2eplus24-tech-insights/"><u>Future-Proof Computing: Exploring the Most Robust Laptop Models for 2E+24 | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hackers-delight-discover-the-top-12-must-have-gifts-curated-expert-picks/"><u>Hacker's Delight: Discover the Top 12 Must-Have Gifts Curated Expert Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-traverse-costs-watch-anywhere-gratis-video-player-pcmac/"><u>In 2024, Traverse Costs, Watch Anywhere - Gratis VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-hatsune-miku-ai-voice-generators-for-all-times-for-2024/"><u>New Best Hatsune Miku AI Voice Generators for All Times for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-vr-savings-alert-get-the-best-deal-on-metas-512gb-quest-3-this-october-insider-tips/"><u>Prime Day VR Savings Alert: Get the Best Deal on Meta’s 512GB Quest 3 This October – Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-your-hp-victus-15-pre-built-gaming-pc-at-just-530-during-prime-day-savings-top-off-with-a-best-buy-exclusive-deal-detailed-review/"><u>Snag Your HP Victus 15 Pre-Built Gaming PC at Just $530 During Prime Day Savings: Top Off With a Best Buy Exclusive Deal - Detailed Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-38-unbeatable-cyber-week-and-costco-deals-exclusive-discounts-on-tvs-laptops-and-tablets-find-them-before-theyre-gone/"><u>Top 38 Unbeatable Cyber Week & Costco Deals: Exclusive Discounts on TVs, Laptops, and Tablets - Find Them Before They're Gone!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-budget-friendly-laptops-including-models-from-lenovo-hp-asus-and-others-featured/"><u>Top Budget-Friendly Laptops : Including Models From Lenovo, HP, Asus & Others - Featured</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-undetected-sata-drives-during-boot-process/"><u>Troubleshooting Undetected SATA Drives During Boot Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-cyber-monday-sale-lenovo-thinkpad-l14-gen-3-laptops-now-just-23-each-still-in-stock-on-zdnet/"><u>Unbelievable Cyber Monday Sale: Lenovo ThinkPad L14 Gen 3 Laptops Now Just $23 Each – Still In Stock on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-meta-quest-3-offer-512gb-storage-at-great-value-exclusive-october-sale-and-prime-day-savings/"><u>Unmissable Meta Quest 3 Offer - 512GB Storage at Great Value! Exclusive October Sale & Prime Day Savings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-trend-the-stealthy-ascension-of-chromebooks-in-chromebookrevolution-powered-analysis/"><u>Unveiling the Trend: The Stealthy Ascension of Chromebooks in #ChromeBookRevolution | Powered Analysis</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-14-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 14 Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+</ul></div>
 

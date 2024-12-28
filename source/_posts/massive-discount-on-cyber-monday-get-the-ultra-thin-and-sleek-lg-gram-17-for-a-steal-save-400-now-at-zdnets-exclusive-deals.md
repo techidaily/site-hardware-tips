@@ -1,7 +1,7 @@
 ---
 title: "Massive Discount on Cyber Monday: Get the Ultra-Thin and Sleek LG Gram 17 for a Steal - Save $400 Now at ZDNet's Exclusive Deals!"
-date: 2024-12-20T20:36:06.860Z
-updated: 2024-12-22T07:08:50.882Z
+date: 2024-12-21T19:23:41.918Z
+updated: 2024-12-27T19:16:56.073Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,22 +128,18 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-harvest-hangouts-the-most-friendly-farm-gaming-experiences/"><u>[New] 2024 Approved Harvest Hangouts The Most Friendly Farm Gaming Experiences</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-demystifying-youtubes-keyword-power-play/"><u>[New] In 2024, Demystifying YouTube's Keyword Power Play</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-gamers-ultimate-guide-selecting-the-best-video-card-brands/"><u>[New] In 2024, Gamer’s Ultimate Guide Selecting the Best Video Card Brands</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-tech-deal-high-performance-hp-touch-laptop-with-mouse-and-free-microsoft-office-subscription-for-just-400-featured/"><u>Affordable Tech Deal: High-Performance HP Touch Laptop with Mouse & Free Microsoft Office Subscription for Just $400 - Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-buys-exclusive-offer-experience-the-ultimate-sound-with-their-discounted-top-tier-speakers-insider-review-on-zdnet/"><u>Best Buy's Exclusive Offer: Experience the Ultimate Sound with Their Discounted Top-Tier Speakers - Insider Review on ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-elan-smbus-driver-on-windows-complete-guide-with-troubleshooting-tips/"><u>Download & Update ELAN Smbus Driver on Windows: Complete Guide with Troubleshooting Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-smart-solutions-apply-apple-watch-open-mac/"><u>In 2024, Smart Solutions Apply Apple Watch, Open Mac</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-the-thermopro-tp67-worth-it-assessing-its-reliability-vs-price-point/"><u>Is the ThermoPro TP67 Worth It? Assessing Its Reliability Vs. Price Point</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-connectivity-with-the-ultimate-budget-friendly-8-in-1-adapter-a-game-changer-for-tech-enthusiasts-zdnet/"><u>Maximize Connectivity with the Ultimate Budget-Friendly 8-In-1 Adapter - A Game-Changer for Tech Enthusiasts (ZDNET)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reattaching-your-laptops-lost-keys-a-step-by-step-guide/"><u>Reattaching Your Laptop's Lost Keys: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-with-iogears-premium-laptop-accessories-hot-deals-featured-on-amazon-tips-and-reviews/"><u>Save Big with IOGEAR's Premium Laptop Accessories - Hot Deals Featured on Amazon | Tips & Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-on-prime-day-with-metas-splendid-deal-on-the-quest-3-headset-512gb-why-its-a-must-have-now/"><u>Score Big on Prime Day with Meta's Splendid Deal on the Quest 3 Headset (512GB) - Why It's a Must-Have Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-metas-exclusive-512gb-quest-3-at-half-price-the-premier-vr-deal-of-october-prime-days-featured-by-zdnet/"><u>Score Meta's Exclusive 512GB Quest 3 at Half-Price: The Premier VR Deal of October Prime Days, Featured by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-7-premium-adjustable-standing-desks-of-2023-insights-from-zdnet/"><u>Top 7 Premium Adjustable Standing Desks of 2023 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-windows-10-bluetooth-connectivity-problems-solutions-revealed/"><u>Troubleshooting Windows 10 Bluetooth Connectivity Problems - Solutions Revealed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-meta-launches-limited-time-offer-on-512gb-quest-3-top-vr-bargain-as-reviewed/"><u>Unbeatable Price: Meta Launches Limited-Time Offer on 512GB Quest 3 - Top VR Bargain as Reviewed</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-dx11-feature-level-100-is-required-to-run-the-engine/"><u>[Fixed] DX11 Feature Level 10.0 Is Required to Run the Engine</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boosting-your-instagram-aesthetics-implementing-borders-on-photos/"><u>[New] Boosting Your Instagram Aesthetics Implementing Borders on Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-to-mp4-safely-step-by-step-guide/"><u>[New] In 2024, How to Convert YouTube to MP4 Safely? [Step by Step Guide]</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-latest-pulse-of-facebooks-evolution/"><u>[Updated] In 2024, Latest Pulse of Facebook's Evolution</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-self-verification-on-instagram-does-it-serve-us-for-2024/"><u>[Updated] Self-Verification on Instagram Does It Serve Us for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-pova-5-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Pova 5 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-lava-blaze-2-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Lava Blaze 2 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-newly-unveiled-developer-edition-of-ubuntu-core-get-early-access-and-reviews-on-zdnet/"><u>Explore the Newly Unveiled Developer Edition of Ubuntu Core - Get Early Access and Reviews on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-deal-of-a-lifetime-hp-victus-laptop-slashed-by-350-for-labor-day-sale-at-best-buy-insights-and-tips-from-zdnet/"><u>Get a Deal of a Lifetime: HP Victus ˈlaptop Slashed by $350 for Labor Day Sale at Best Buy, Insights & Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-35-unbeatable-cyber-monday-offers-on-dell-products-from-retail-giants-like-best-buy-amazon-and-newegg-find-them-here/"><u>Top 35 Unbeatable Cyber Monday Offers on Dell Products From Retail Giants Like Best Buy, Amazon & Newegg - Find Them Here!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-essential-steps-before-installing-chrome-os-flex-save-time-and-troubleshoot-easily-tips-from-zdnet/"><u>Top 5 Essential Steps Before Installing Chrome OS Flex: Save Time and Troubleshoot Easily - Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-gaming-rig-reviews-2024-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Ranked Gaming Rig Reviews 2024: In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-ubuntu-2310-desktop-peering-into-the-next-chapter-of-ubuntu-evolution-geektimes/"><u>Unveiling Ubuntu 23.10 Desktop: Peering Into The Next Chapter of Ubuntu Evolution | GeekTimes</u></a></li>
 </ul></div>
 

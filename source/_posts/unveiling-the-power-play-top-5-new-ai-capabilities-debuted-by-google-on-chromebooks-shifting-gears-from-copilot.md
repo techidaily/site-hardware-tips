@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power Play: Top 5 New AI Capabilities Debuted by Google on Chromebooks, Shifting Gears From Copilot"
-date: 2024-12-14T20:30:32.629Z
-updated: 2024-12-21T17:34:12.850Z
+date: 2024-12-26T22:21:54.112Z
+updated: 2024-12-27T21:48:22.909Z
 tags:
   - laptops
 categories:
@@ -60,7 +60,7 @@ While the webcam houses most of the AI features, there is one AI-enabled feature
 I recommend using the Magic Eraser on small stuff in pictures. When you use the feature for objects that take up a large amount of space in photographs, the after-effect can make the image look warped. So, while the tool is good, it's no substitute for Adobe Photoshop. Besides Magic Eraser, Chromebook Plus models now have the nifty File Sync feature, which keeps a copy of Google Drive files on your computer at all times. It's a handy tool that I got a lot of use out of when I was outside away from a Wi-Fi connection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -103,16 +103,24 @@ It does appear there may be a third model down the line. Asus' official product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-autofocus-on-iphone-a-step-by-step-approach/"><u>[New] Mastering Autofocus on iPhone A Step-by-Step Approach</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfect-360-videography-streaming-tips-for-youtube/"><u>2024 Approved Perfect 360 Videography Streaming Tips for YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-windows-11-update-problem-a-comprehensive-guide-to-fix-error-0x8024034/"><u>Addressing Windows 11 Update Problem: A Comprehensive Guide to Fix Error 0X80240#34</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-8-youtube-rankers-for-content-optimization-revealed/"><u>In 2024, Top 8 YouTube Rankers for Content Optimization Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-pertanyaan-model-model-terpopuler-dan-jumlah-waktu-menunggu-sebelum-dapatinya-pandangan-zdnet/"><u>IPhone Pertanyaan! Model-Model Terpopuler Dan Jumlah Waktu Menunggu Sebelum Dapatinya - Pandangan ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revamp-your-viewing-experience-by-tweaking-these-5-tv-settings-enhanced-clarity-awaitsvideo/"><u>Revamp Your Viewing Experience by Tweaking These 5 TV Settings - Enhanced Clarity Awaits![Video]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-the-exclusive-amazon-offer-buy-fire-tv-omni-series-qled-now-at-a-staggering-150-discount-highlighted-by-zdnet/"><u>Score the Exclusive Amazon Offer: Buy Fire TV Omni Series QLED Now at a Staggering $150 Discount, Highlighted by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-is-bright-on-screen-exploring-the-unprecedented-clarity-of-samsungs-newest-8k-tv-tech-insights-by-zdnet/"><u>The Future Is Bright on Screen: Exploring the Unprecedented Clarity of Samsung's Newest 8K TV | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-living-discounts-on-tv-exclusive-offers-over-55-for-labor-day-weekend-september-24-comprehensive-guide-by-zdnet/"><u>Top Living Discounts on TV: Exclusive Offers Over 55 for Labor Day Weekend, September '24 - Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-vivo-x100-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo X100 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unleashing-your-ads-potential-maximizing-revenue-with-fb-animation-strategies/"><u>[Updated] 2024 Approved Unleashing Your Ad's Potential Maximizing Revenue with FB Animation Strategies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-earning-streaming-strategies-8-beginners-tips/"><u>2024 Approved Earning Streaming Strategies - 8 Beginners' Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-lava-yuva-3-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Lava Yuva 3? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/canon-eos-rebel-t6-review/"><u>Canon EOS Rebel T6 Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/defy-the-odds-how-enthusiasts-successfully-updated-their-aging-pcs-with-windows-11-despite-microsofts-warning-tech-wonders/"><u>Defy the Odds: How Enthusiasts Successfully Updated Their Aging PCs with Windows 11 Despite Microsoft's Warning | Tech Wonders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-guide-to-scooping-up-hot-deals-top-18-laptops-at-great-prices-during-prime-day-featuring-hp-apple-and-razer/"><u>Discover the Ultimate Guide to Scooping Up Hot Deals: Top 18 Laptops at Great Prices During Prime Day | Featuring HP, Apple, and Razer !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-the-ultimate-5-desktop-pcs-tailored-for-professionals-in-graphic-design-reviewed-by-tech-experts-at-zdnet/"><u>Expert Picks: The Ultimate 5 Desktop PCs Tailored for Professionals in Graphic Design - Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimized-text-designs-for-after-effects/"><u>In 2024, Optimized Text Designs for After Effects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/investing-in-value-my-choice-of-the-budget-friendly-surface-pro-and-why-it-promises-satisfaction/"><u>Investing in Value: My Choice of the Budget-Friendly Surface Pro and Why It Promises Satisfaction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-save-over-50-on-4tb-samsung-t5-external-ssd-shop-now-on-amazon-zdnet/"><u>Massive Discount: Save Over 50% on 4TB Samsung T5 External SSD - Shop Now on Amazon (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-and-efficient-pc-maintenance-boosting-performance-by-deleting-unnecessary-files-with-bleachbit-tips-from-zdnet/"><u>Quick & Efficient PC Maintenance: Boosting Performance by Deleting Unnecessary Files with BleachBit - Tips From ZDNet</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/single-slot-losungen-fur-schnelle-nvme-ssd-cloning/"><u>Single-Slot Lösungen Für Schnelle NVMe SSD-Cloning</u></a></li>
+<li><a href="https://fox-place.techidaily.com/transformez-votre-ordinateur-avec-une-sauvegarde-de-windows/"><u>Transformez Votre Ordinateur Avec Une Sauvegarde De Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ubuntu-2204-a-premier-choice-for-a-business-desktop-on-linux-itprotoday/"><u>Ubuntu 22.04: A Premier Choice for a Business Desktop on Linux | ITProToday</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-boosting-performance-selecting-premium-ram-for-enhanced-productivity-and-gaming-techradar/"><u>Ultimate Guide to Boosting Performance : Selecting Premium RAM for Enhanced Productivity and Gaming | TechRadar</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-guide-to-using-winx-mediatrans-top-app-for-seamless-iphone-and-ipad-data-syncing-with-your-pc/"><u>Ultimate Guide to Using WinX MediaTrans: Top App for Seamless iPhone and iPad Data Syncing with Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-windows-11-could-this-be-the-tipping-point-in-microsofts-history-of-mixed-reviews-find-out-now/"><u>Unveiling Windows 11: Could This Be the Tipping Point in Microsoft's History of Mixed Reviews? Find Out Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/what-happens-to-your-pc-when-windows-11-requires-compatible-hardware-insights-from-microsofts-update-policy-digital-trends/"><u>What Happens to Your PC When Windows 11 Requires Compatible Hardware – Insights From Microsoft's Update Policy | Digital Trends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-hacks-crafting-an-invisible-context-menu/"><u>Windows 11 Hacks: Crafting an Invisible Context Menu</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Steam Games On Demand: Stream Without Limits, Even If Your TV Lacks a Built-In Steam Portal"
-date: 2024-09-19T00:15:19.234Z
-updated: 2024-09-22T01:49:34.314Z
+date: 2024-12-23T18:24:24.921Z
+updated: 2024-12-27T21:08:11.502Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 ---
 
 ## Steam Games On Demand: Stream Without Limits, Even If Your TV Lacks a Built-In Steam Portal
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,9 +47,17 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 
  I'd also recommend connecting the Steam Remote Play host and client devices to your router via an Ethernet cable, if possible, for the best streaming performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use a Chromecast or Other Streaming Stick With Steam Link Support
 
 ![An Android TV with an Apple TV, Roku, Amazon Fire TV, and Chromecast positioned in front.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-android-tv-with-an-apple-tv-roku-amazon-fire-tv-and-chromecast-positioned-in-front.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | [UladzimirZuyeu](https://www.shutterstock.com/image-photo/tv-led-mock-screen-smart-on-2050476575)/Shutterstock
 
@@ -59,6 +71,10 @@ Lucas Gouveia / How-To Geek | [UladzimirZuyeu](https://www.shutterstock.com/imag
 
  If you don’t own a Google TV box but want one, your two best options are the regular [Chromecast with Google TV](https://www.amazon.com/dp/B0B9HS6DLZ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004008&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fyou-can-still-enjoy-steam-remote-play-even-if-your-tv-doesnt-have-steam-link%2F&asc%5Fcampaign=Evergreen) for $30 and [the 4K version](https://www.amazon.com/dp/B08KRV7S22?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004008&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fyou-can-still-enjoy-steam-remote-play-even-if-your-tv-doesnt-have-steam-link%2F&asc%5Fcampaign=Evergreen) that sells for $50\. The [onn. Google TV streaming stick](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-Resolution/2835618394) from Walmart is even cheaper at $20\. If you’ve opted for a Chromecast, I recommend getting an [Ethernet adapter for Chromecast with Google TV](https://store.google.com/us/product/chromecast%5Fethernet%5Fadapter%5Fgen%5F2?hl=en-US) for the best performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Enjoy Steam Remote Play on Apple TV
 
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
@@ -69,40 +85,13 @@ Lucas Gouveia / How-To Geek | [UladzimirZuyeu](https://www.shutterstock.com/imag
 
  Apple TV owners can stream Steam games to a TV in an instant. Just download the [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117) app on your Apple TV and follow our guide on [setting up Steam Link on Apple TV](https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-s23-ultra-pc-drfone-by-drfone-android/). You can then connect a [PS4](https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/), [PS5](https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-z-flip-5-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/), or an [Xbox controller](https://facebook-video-recording.techidaily.com/best-fb-video-extractors-for-ios-devices-ranked-1-for-2024/) to your Apple TV, and you’re golden.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use Your Old PC or Mac as a Steam Link Client
 
 ![Steam Link download page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-download-steam-link-from-steam.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you've got an old PC lying around doing nothing, there’s a good chance the thing’s powerful enough to use it as a Steam Link client. The rule of thumb is that if the machine can run Windows 10 without major issues, it should have enough life left in it to function as a Steam Link node.
 
  The good news is that you shouldn’t worry about the OS installed on it; the Steam Link app is available on Windows and Linux, and you can also use an old Mac. Simply download and install the appropriate Steam Link app [from Steam](https://store.steampowered.com/remoteplay/)—download links are listed just below the top of the page—set it up, and start streaming!
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Get a Cheap Mini PC and Hook It Up to Your TV
 
@@ -116,6 +105,10 @@ Mark LoProto / How-To Geek
 
  Need a mini PC recommendation? Check out our [best mini PCs](https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-a78-drfone-by-drfone-virtual-android/) buying guide. The guide features several quality options, but I recommend getting the budget pick. It’s the most affordable of the bunch yet powerful enough to be a Steam Link station.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Old Office PCs Can Be Perfect Steam Link Clients
 
  Have you heard about those cheap, old office PCs that get refurbished and end up on Amazon for cheap? Office machines such as Lenovo ThinkCentre workstations, Dell Optiplex desktops, or HP EliteDesk office stations?
@@ -125,13 +118,6 @@ Mark LoProto / How-To Geek
  If you decide to get one and turn it into your Steam Remote Play-on-TV client, make sure to find one for cheap (personally, I wouldn’t pay more than $150 for a refurbished office PC) that comes with a free return window in case you get a dud.
 
  This [Lenovo ThinkCentre M700](https://www.amazon.com/Lenovo-ThinkCentre-M700-Tiny-64-Multi-Language/dp/B083P5YCPR?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004008&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fyou-can-still-enjoy-steam-remote-play-even-if-your-tv-doesnt-have-steam-link%2F&asc%5Fcampaign=Evergreen) looks like a solid buy if you want a quick recommendation. For better streaming performance, don’t use its built-in Wi-Fi; instead, hook it to your router via an Ethernet cable.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use Steam Link on Single Board PCs Such as the Raspberry Pi
 
@@ -147,6 +133,10 @@ Jason Fitzpatrick / How-To Geek
 
  Raspberry Pi 5 owners should be aware that they cannot use Steam Link at the moment due to [a lot of issues](https://forums.raspberrypi.com/viewtopic.php?t=358812) that arise when trying to install Steam Link on a Raspberry Pi 5 running a 32-bit or 64-bit version of the Raspberry Pi Bookworm OS. That said, you can try installing Steam Link on another [OS compatible with the Raspberry Pi 5](https://www.xda-developers.com/best-operating-systems-for-raspberry-pi-5/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Your Steam Deck or Windows Handheld as a Steam Link Terminal
 
 ![Lenovo Legion Go, AYANEO 2021 Pro, Valve Steam Deck, GPD Win3, Logitech G Cloud, Asus ROG Ally, OneXPlayer 1 on a floor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/2023-12-08-14-38-39.jpg) 
@@ -158,6 +148,10 @@ From left to right: Lenovo Legion Go, AYANEO 2021 Pro, Valve Steam Deck, GPD Win
  If you’ve got a Steam Deck or any Windows gaming handheld and a dock for it, you can hook the handheld to your TV and [run Steam Remote Play off of it](https://extra-information.techidaily.com/in-2024-a-guide-to-the-best-headsets-and-goggles-in-metaverse/).
 
  The procedure is the same on Steam Deck and Windows gaming handhelds. Just ensure you’ve enabled Steam Remote Play on your primary PC and Steam Deck/Windows gaming handheld.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Buy a Used Steam Link Hardware Box
 
@@ -179,13 +173,6 @@ Bertel King / How-To Geek
 
  Note that you may find latency to be a bit high since your phone uses Wi-Fi and not a cable connection. That said, a quality Wi-Fi 5 router (or better) should allow for a relatively smooth experience, as long as the PC you’re streaming games from is hooked to your router via an Ethernet cable. One scenario where the latency can get high enough to impair your gaming experience is if you combine a Bluetooth controller with a wireless connection. Use a wired mobile controller, such as the [GameSir G8 Galileo](http://www.amazon.com/GameSir-G8-Galileo-Controller-Joysticks/dp/B0CM3C9HRG?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004008&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fyou-can-still-enjoy-steam-remote-play-even-if-your-tv-doesnt-have-steam-link%2F&asc%5Fcampaign=Evergreen), for the best experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don't Forget Moonlight and Sunshine
 
  I should also mention that you aren’t limited to Steam Link when it comes to locally streaming your games to your TV. You can also use the Moonlight and Sunshine combo, which works much better than Steam Remote Play in many cases.
@@ -205,5 +192,26 @@ Bertel King / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-jumpstarting-instagram-celebrity-status/"><u>[New] 2024 Approved Jumpstarting Instagram Celebrity Status</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-boosting-zoom-screen-sharpness-essential-tips/"><u>[New] In 2024, Boosting Zoom Screen Sharpness Essential Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-asmrs-upside-exploring-its-health-impacts/"><u>[Updated] In 2024, ASMR's Upside Exploring Its Health Impacts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ps4-broadcast-simplified-detailed-steps-using-obs-for-2024/"><u>[Updated] PS4 Broadcast Simplified Detailed Steps Using OBS for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-dive-into-deals-apples-m2-macbook-air-continues-as-a-hot-offer-at-749-this-october-prime-day-explore-the-options/"><u>1. Dive Into Deals: Apple's M2 MacBook Air Continues as a Hot Offer at $749 This October Prime Day – Explore the Options!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-xbox-live-top-four-recording-techniques/"><u>2024 Approved Mastering Xbox Live Top Four Recording Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-prime-day-aftermath-snag-the-high-speed-8tb-samsung-ssd-for-less-than-half-price/"><u>Amazon's Prime Day Aftermath: Snag the High-Speed 8TB Samsung SSD for Less Than Half Price!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-prime-day-exclusive-snag-an-hp-victus-15-gaming-laptop-at-just-450/"><u>Best Buy's Prime Day Exclusive: Snag an HP Victus ^$15 Gaming Laptop at Just $450!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bring-your-game-to-the-workplace-dell-introduces-an-ultraportable-gaming-laptop-according-to-zdnets-latest-review/"><u>Bring Your Game to the Workplace: Dell Introduces an Ultraportable Gaming Laptop, According to ZDNet's Latest Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-smart-7-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Smart 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-meta-quest-3-sale-alert-snag-the-best-value-51-gb-model-during-october-prime-day-insider-deals-on-zdnet/"><u>Exclusive Meta Quest 3 Sale Alert: Snag the Best Value 51^ GB Model During October Prime Day | Insider Deals on ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-enhancement-with-mechanical-keys/"><u>Gameplay Enhancement with Mechanical Keys</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-apples-revolutionary-m4-silicon-comprehensive-ai-integration-across-all-mac-models-release-dates-revealed/"><u>Introducing Apple's Revolutionary M4 Silicon: Comprehensive AI Integration Across All Mac Models – Release Dates Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-savings-alert-snag-lenovos-13-inch-thinkpad-x1-gen-3-tablet-for-just-1900-off-this-black-friday-deal-of-the-year/"><u>Massive Savings Alert! Snag Lenovo's 13-Inch ThinkPad X1 Gen 3 Tablet for Just $1,900 Off This Black Friday Deal of the Year!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-metas-exclusive-512gb-quest-3-offer-top-picks-for-prime-day-vr-bargains-in-october/"><u>Snag Meta's Exclusive 512GB Quest 3 Offer - Top Picks for Prime Day VR Bargains in October!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/spring-screens-reimagined-a-review-of-modern-tech-for-2024/"><u>Spring Screens Reimagined A Review of Modern Tech for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/synergie-entre-iguana-et-abbyy-transformer-votre-gestion-financiere-par-automatisation/"><u>Synergie Entre Iguana Et ABBYY : Transformer Votre Gestion Financière Par Automatisation</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-compatibility-mode-in-ms-office-a-detailed-overview/"><u>Understanding Compatibility Mode in MS Office: A Detailed Overview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrading-your-tech-arsenal-m3-vs-m1-macbook-pro-is-it-time-for-a-change/"><u>Upgrading Your Tech Arsenal: M3 Vs. M1 MacBook Pro – Is It Time for a Change?</u></a></li>
+</ul></div>
 

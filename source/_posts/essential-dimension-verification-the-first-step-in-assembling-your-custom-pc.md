@@ -1,7 +1,7 @@
 ---
 title: "Essential Dimension Verification: The First Step in Assembling Your Custom PC"
-date: 2024-09-15T20:45:04.401Z
-updated: 2024-09-21T23:01:08.275Z
+date: 2024-12-26T23:16:43.394Z
+updated: 2024-12-27T16:49:55.441Z
 tags:
   - hardware
 categories:
@@ -51,6 +51,10 @@ Hannah Stryker / How-To Geek
 
  As for slot space, it's common for modern GPUs to take up two or even three PCI slots. If you plan on using your other PCI slots for expansion cards, your best bet will be a [PCI riser cable](https://www.amazon.com/LINKUP-Vertical-Compatible-Designed-Reverse/dp/B0CN9R8QQ4/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003295&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbefore-i-build-a-pc-i-triple-check-these-measurements%2F&asc%5Fcampaign=Evergreen) that lets you install the expansion card in a different spot. Also, you should have adequate room for airflow underneath your GPU, so avoid cramming a triple-slot GPU into a tiny case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  CPU Cooler Height and RAM Clearance
 
  Similar to GPUs, air CPU coolers are larger than ever. Consumers demand powerful [aftermarket cooling](https://some-skills.techidaily.com/2024-approved-the-metaverse-versus-multi-meva-comprehensive-differences-overviewed/) that can keep their CPU temps low to maintain their maximum boost clocks for longer. The issue is that CPU coolers have to be physically large to dissipate heat fast enough, which means they can get too wide and tall for your PC.
@@ -67,6 +71,10 @@ Hannah Stryker / How-To Geek
 
 Ismar Hrnjicevic / How-To Geek
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Storage Drive Bays
 
  There are two main storage bay sizes—2.5" and 3.5". 2.5" is reserved for SSDs and slim laptop-style HDDs, whereas 3.5" is used for traditional HDDs. Front-facing 3.5" bays are for old-school memory card readers, CD, DVD, and floppy drives, etc. Most modern PC cases no longer have front drive bays, but some of them have gotten rid of 3.5" bays altogether. If you plan to [buy a full-size HDD](https://video-capture.techidaily.com/updated-2024-approved-obs-full-screen-troubles-now-under-control/), look for a case that supports at least one or two 3.5" drives.
@@ -74,10 +82,7 @@ Ismar Hrnjicevic / How-To Geek
  Additionally, if you're working with a smaller case, it might only have room for one or two 2.5" drives, which can become an issue if you want to upgrade your storage down the line. So, plan ahead and either buy a larger SSD or a case that supports several 2.5" drives.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Case Fan Sizes
@@ -89,26 +94,10 @@ Ismar Hrnjicevic / How-To Geek
 ![A gaming PC with Kingston memory, RGB fans, lights, MSI CPU cooler, and GeForce RTX GPU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/52647613799_d0b8785135_k.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  PSU Form Factor and Cables
 
@@ -117,6 +106,10 @@ Justin Duino / How-To Geek
  You also have to check cable types and length, as these are not completely standardized. First, make sure that you have a sufficient number of each connector type that you'll need (4-pin, 6-pin, etc.), and second, make sure that the cables are long enough to be routed through your case's cable management system.
 
  PSUs generally have cable lengths listed on the spec sheet. If your case doesn't mention anything about cable lengths, it's time to bust out the tape measure and check it manually, assuming you've already bought the case or can check it in-person.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Radiator Size
 
@@ -141,5 +134,21 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/asterful-tag-utilization-boosting-video-performance/"><u>[New] Masterful Tag Utilization Boosting Video Performance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>[Updated] 4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-into-virtual-realms-assessing-current-progress-future-hurdles/"><u>2024 Approved Into Virtual Realms Assessing Current Progress, Future Hurdles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-quality-display-on-a-portable-laptop-a-surprising-gem-discovered-by-zdnet/"><u>Affordable High-Quality Display on a Portable Laptop: A Surprising Gem Discovered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-marvelous-world-of-an-origami-inspired-laptop-sleeve-a-game-changer-for-tech-enthusiasts-zdnet/"><u>Discover the Marvelous World of an Origami-Inspired Laptop Sleeve - A Game Changer for Tech Enthusiasts! | ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s5e-an-exceptional-android-experience/"><u>In-Depth Analysis of the Samsung Galaxy Tab S5e: An Exceptional Android Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/live-the-life-of-your-windows-11-desktop-with-animations/"><u>Live the Life of Your Windows 11 Desktop With Animations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-flat-to-fabulous-converting-videos-for-vr-with-ease/"><u>New 2024 Approved From Flat to Fabulous Converting Videos for VR with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precision-in-premiere-4-proven-strategies-to-elevate-iphone-hdri/"><u>Precision in Premiere 4 Proven Strategies to Elevate iPhone HDRI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-of-the-bizarre-entertaining-and-premium-priced-thinkpad-x1-fold-by-zdnet/"><u>The Ultimate Review of the Bizarre, Entertaining & Premium-Priced ThinkPad X1 Fold by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-linux-laptop-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Ranking Linux Laptop Picks , Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-videos-and-soundtracks-swiftly-using-winxvideos-ai-with-cutting-edge-gpu-technology/"><u>Transform Videos and Soundtracks Swiftly Using Winxvideo's AI with Cutting-Edge GPU Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-features-of-the-microsoft-surface-laptop-5-a-closer-look-at-whats-familiar-and-new/"><u>Unveiling the Features of the Microsoft Surface Laptop 5: A Closer Look at What’s Familiar and New</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-unlocking-the-hidden-gem-of-dual-functionality-offices-ultimate-gadget/"><u>ZDNet Reviews: Unlocking the Hidden Gem of Dual Functionality - Office's Ultimate Gadget !</u></a></li>
+</ul></div>
 

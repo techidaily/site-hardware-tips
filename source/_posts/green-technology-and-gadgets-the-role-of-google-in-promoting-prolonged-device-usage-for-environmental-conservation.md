@@ -1,7 +1,7 @@
 ---
 title: "Green Technology and Gadgets: The Role of Google in Promoting Prolonged Device Usage for Environmental Conservation"
-date: 2024-09-01T08:27:32.144Z
-updated: 2024-09-02T08:27:32.144Z
+date: 2024-12-20T22:09:28.056Z
+updated: 2024-12-27T16:56:36.783Z
 tags:
   - android
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ---
 
 ## Green Technology and Gadgets: The Role of Google in Promoting Prolonged Device Usage for Environmental Conservation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
  However, there is a degree of conflicting messaging with Google's products around sustainability that isn't acceptable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Five (Or Three) Years Isn't Enough
 
  The Pixel 7 series is guaranteed to receive five years of security patches, but major Android updates will end after three years, [like every other recent Pixel phone](https://support.google.com/pixelphone/answer/4457705?hl=en#zippy=%2Cpixel-later-pixel-phones). That means any Pixel 7 device, no matter its physical condition, will gradually become more unsafe to use starting around October 2027\. Most people don't keep their phones beyond two or three years, but that timer doesn't start when you buy the phone, it starts right now. If you buy it used or refurbished in a year or two, it has a much shorter usable lifespan.
@@ -32,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![Screenshot from Google presentation that reads "Pixel Feature Drops: 5 years of updates."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/screenshot-10-06-2022-102117.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Google_
 
  That's a problem for many reasons. The most direct impact is on the resale value of the phone, which is affected by how much software support is left, among many other factors. Google is shortchanging its buyers by not supporting its phones for a longer period, and the strategy conflicts with the company's messaging about the environment. The best way to improve sustainability is supporting the phone for as long as possible, because that keeps the device out of landfills.
@@ -39,8 +51,9 @@ _Google_
  The Pixel 7 series is also being announced right on the heels of [Google releasing the final update for the Pixel 4 and 4 XL](https://www.techradar.com/news/google-pixel-4-is-getting-its-final-guaranteed-update-just-in-time-for-the-pixel-7), which were only released in 2019\. There's no good excuse for such a short lifespan -- the iPhone 11 was released around the same time, and [Apple is still supporting](https://digital-screen-recording.techidaily.com/in-2024-pioneering-techniques-to-transform-your-obs-studio-projects/) the iPhone 8 and X from 2017.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Proprietary Problem
 
  Google covered the Pixel Watch in detail during the same event, which also had an element that contrasted with the company's promise of environmental sustainability. The watch uses proprietary watchbands, rather than the [industry-standardized bands](https://www.amazon.com/s?k=44mm+band&tag=hotoge-20&ascsubtag=UUhtgUeUpU204117&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F838685%2Fhey-google-longer-device-support-would-help-the-earth-too%2F&asc%5Fcampaign=Evergreen) used by the Galaxy Watch series, most Fossil Group watches, Mobvioi's TicWatch lineup, many other smartwatches, and most traditional watches.
@@ -50,17 +63,9 @@ _Google_
 ![Attaching a band to the Pixel Watch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/band_attach_H264_1.gif) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Google_
 
  Bands for the Pixel Watch will only work with that one watch, which is bad for the same reason that the technology industry has done away with proprietary chargers -- they usually go in the trash along with the device they were made for. We don't even know yet if there will be more Pixel Watches, and whether they will be compatible with existing bands.
@@ -73,8 +78,6 @@ _Google_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -82,4 +85,19 @@ _Google_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unveiling-the-path-to-your-facebook-status-video-archive/"><u>[New] 2024 Approved Unveiling the Path to Your Facebook Status Video Archive</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-learn-quickly-flipping-video-sequence-android-style/"><u>2024 Approved Learn Quickly Flipping Video Sequence Android-Style</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-firsthand-account-keeping-your-entire-home-running-on-ecoflows-portable-generator/"><u>A Firsthand Account: Keeping Your Entire Home Running on EcoFlow's Portable Generator</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-flash-sale-high-speed-perfection-with-the-16-in-1-thunderbolt-hub-get-an-immediate-70-discount-zdnet-tech/"><u>Amazon Flash Sale: High-Speed Perfection with the 16-in-1 Thunderbolt Hub - Get an Immediate $70 Discount | ZDNet Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-short-term-rise-in-game-pass-costs-quick-hacks/"><u>Beat Short-Term Rise in Game Pass Costs - Quick Hacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chromebook-devices-infected-by-pesky-bedbugs-in-classrooms-a-recurring-issue-highlighted/"><u>Chromebook Devices Infected by Pesky Bedbugs in Classrooms: A Recurring Issue Highlighted</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-best-google-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Google FRP Bypass Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-elite-3d-player-options-for-android-devices/"><u>In 2024, Elite 3D Player Options for Android Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 13 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-apples-latest-upgrade-the-macbook-air-now-comes-in-13-and-15-sizes-featuring-the-powerful-m3-chip-discover-all-you-need-to-know/"><u>Introducing Apple's Latest Upgrade: The MacBook Air Now Comes in 13 & 15 Sizes Featuring the Powerful M3 Chip - Discover All You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-expansion-setting-up-your-additional-display-on-windows-10/"><u>Seamless Expansion: Setting Up Your Additional Display on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-pre-black-friday-gaming-bargains-exclusive-offers-available-all-october-long-zdnet-insights/"><u>Top-Rated Pre-Black Friday Gaming Bargains: Exclusive Offers Available All October Long - ZDNet Insights</u></a></li>
+</ul></div>
 

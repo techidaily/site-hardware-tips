@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your PC's Performance for Gaming: A Cost-Free Tune-Up Guide"
-date: 2024-09-14T17:29:01.152Z
-updated: 2024-09-22T04:04:55.939Z
+date: 2024-12-26T21:25:30.183Z
+updated: 2024-12-27T21:03:33.406Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 ---
 
 ## Maximizing Your PC's Performance for Gaming: A Cost-Free Tune-Up Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  There are a few other things that you want to keep up-to-date, namely, your [chipset drivers](https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-x7b-by-drfone-android/) and your operating system. Instead of putting off that pesky Windows update, you should check for new updates proactively. Also, please don't use a [driver utility tool](https://screen-activity-recording.techidaily.com/new-evaluating-freenocam-for-professional-webcam-use-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Enable XMP / EXPO
 
 [Extreme Memory Profile](https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6s-plus-drfone-by-drfone-ios/), or XMP for short, is an Intel configuration set for RAM; it allows your RAM to run at a higher clock speed, which directly improves performance. AMD's equivalent on newer chips is EXPO (AMD Extended Profiles for Overclocking) and AMP on older models. Some motherboard manufacturers have developed their own alternatives to Intel's XMP and have given them different names, such as A-XMP (MSI), DOCP (ASUS), and EOCP (Gigabyte).
@@ -52,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
  Whatever the option is called on your computer, you should enable it to get an instant performance improvement, and a significant one at that. I told my friend to enable it recently, and he reported getting about 10–15% more FPS on his AMD rig. To enable it, you'll have to go into your motherboard's BIOS; consult your motherboard manual for instructions.
 
 ![Two RAM modules near a computer case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/two-ram-modules-near-a-computer-case.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lucas Gouveia / Justin Duino / How-To Geek | [LariBat](https://www.shutterstock.com/en/image-photo/kingston-fury-beast-32gb-ddr5-rgb-2349066605) / Shutterstock
 
@@ -63,16 +64,13 @@ Lucas Gouveia / Justin Duino / How-To Geek | [LariBat](https://www.shutterstock.
 
  Windows has a built-in game overlay called Game Bar. It lets you capture gameplay videos and has [a few cool features](https://facebook-video-recording.techidaily.com/2024-approved-harnessing-the-power-of-imagery-for-engaging-fb-slideshows/) like performance monitoring. However, it also has a tiny performance impact, so I strongly recommend disabling it if you never use it. Fortunately, it's very easy to [disable the Game Bar](https://instagram-clips.techidaily.com/updated-a-comprehensive-tutorial-changing-gender-in-social-media-images-for-2024/), and you can always launch it manually (even when it's disabled) in case you need to capture a quick video.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Enable Game Mode in Windows 10/11
 
  Now that you've disabled a feature on Windows, it's time to enable a different one. Game Mode is a feature that detects when you launch a game and then disables background processes, such as automatic driver updates, to free up resources. [Game Mode is enabled](https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-3d-luts-in-creative-pixels/) on all Windows PCs by default, but you should still double-check to make sure it's on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Disable Background Apps
 
@@ -85,10 +83,7 @@ Lucas Gouveia/How-To Geek | [Demogorgona](https://www.shutterstock.com/image-ill
  However, you should turn off everything that you don't need for gaming. Those lightweight programs quickly add up and can take away over a gigabyte of RAM from your games. If you use your gaming PC for work like I do, check your taskbar to make sure that apps like Slack, Asana, Notion, and Microsoft Teams aren't running. For a more permanent fix, disable any apps you don't need at [startup](https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Upscaling and Tweak Game Settings
@@ -98,6 +93,10 @@ Lucas Gouveia/How-To Geek | [Demogorgona](https://www.shutterstock.com/image-ill
  Enabling [frame generation](https://extra-resources.techidaily.com/digital-sensations-how-vr-enhances-pleasure/) is one of the best ways to get a lot of FPS for free, but since it adds a lot of noticeable latency, I personally don't recommend it. Upscaling with [DLSS, FSR, or XeSS](https://desktop-recording.techidaily.com/new-2024-approved-capture-master-high-res-screen-record/) is a much better solution, as these modern AI upscalers can produce exceptionally sharp images, especially on resolutions above 1080p. Try experimenting with different upscaling settings in your favorite games until you find a nice compromise between image quality and performance.
 
  In addition to upscaling, [tweak the advanced video settings](https://fox-friendly.techidaily.com/new-in-2024-innovations-in-portraying-chrono-displacement-on-screen/) in your favorite games. Focus on lowering demanding options, such as field of view, ray tracing, textures, shadows, volumetric clouds and fog, view distance, and reflections. I strongly recommend looking up the specific game you're tweaking to find optimized settings that strike a healthy balance between FPS and visuals. Also, don't forget to enable "Fullscreen (Exclusive)" or equivalent option. In most games, it results in slightly better FPS at the cost of a slower Alt+Tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  (Advanced) Try Automatic Overclocking
 
@@ -126,5 +125,24 @@ Lucas Gouveia/How-To Geek | [Demogorgona](https://www.shutterstock.com/image-ill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-kid-friendly-driving-delights/"><u>[New] 2024 Approved Ultimate Kid-Friendly Driving Delights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-tech-triumphs-10-high-definition-screen-recorder-tools-for-2024/"><u>[New] Tech Triumphs #10 High-Definition Screen Recorder Tools for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-avoid-snappy-disappointments-streaking-wisdom-for-2024/"><u>[Updated] Avoid Snappy Disappointments Streaking Wisdom for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/300-discount-on-top-performing-non-thinkpad-non-macbook-laptop-for-productivity-exclusive-prime-day-deal-revealed-by-zdnet/"><u>$300 Discount on Top-Performing Non-ThinkPad, Non-MacBook Laptop for Productivity: Exclusive Prime Day Deal Revealed by ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-microsoft-surface-pro-7-reconditioned-deal-at-just-445-top-picks/"><u>Affordable Microsoft Surface Pro 7 Reconditioned Deal at Just $445 - Top Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-post-prime-day-blowout-get-a-whopping-36-discount-on-the-high-capacity-8tb-samsung-t5-ssd-exclusive-insights-from-zdnet/"><u>Amazon's Post-Prime Day Blowout: Get a Whopping 36% Discount on the High-Capacity 8TB Samsung T5 SSD - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-macbook-air-with-revolutionary-m2-chip-wins-zdnets-favorite-laptop-of-the-year/"><u>Apple MacBook Air with Revolutionary M2 Chip Wins ZDNET's Favorite Laptop of the Year</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/asus-vivobook-11-reviewed-an-ideal-blend-of-miniature-design-and-cost-efficiency-for-everyday-use/"><u>ASUS VivoBook 11 Reviewed: An Ideal Blend of Miniature Design and Cost-Efficiency for Everyday Use</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-early-bird-access-premier-oct-24-laptop-deals-shopping-list/"><u>Exclusive Early Bird Access: Premier Oct '24 Laptop Deals Shopping List!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-curated-film-guide-20-choices-to-watch-now-from-lifewire/"><u>Expertly Curated Film Guide: 20 Choices to Watch Now From Lifewire</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/finding-simplicity-and-functionality-with-windows-free-hp-chromebooks-a-users-perspective/"><u>Finding Simplicity and Functionality with Windows-Free HP Chromebooks: A User's Perspective</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-expand-your-instagram-skills-advanced-use-of-queries/"><u>In 2024, Expand Your Instagram Skills Advanced Use of Queries</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-the-art-of-syncing-sound-with-visuals-in-filmmaking-for-2024/"><u>New Mastering the Art of Syncing Sound with Visuals in Filmmaking for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/perfecting-your-presence-skills-to-master-with-logitech-cam-for-2024/"><u>Perfecting Your Presence Skills to Master with Logitech Cam for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-website-by-transitioning-http-to-https-through-nginx-configuration/"><u>Secure Your Website by Transitioning HTTP to HTTPS Through Nginx Configuration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-student-chromebook-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Ranking Student Chromebook Picks: Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-immediate-savings-secure-200-off-todays-deal-on-apples-m1-macbook-air-insights/"><u>Unlock Immediate Savings: Secure $200 Off Today's Deal on Apple’s M1 MacBook Air - Insights</u></a></li>
+</ul></div>
 

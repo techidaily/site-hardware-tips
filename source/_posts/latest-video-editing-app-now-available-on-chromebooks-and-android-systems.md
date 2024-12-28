@@ -1,7 +1,7 @@
 ---
 title: Latest Video Editing App Now Available on Chromebooks & Android Systems
-date: 2024-09-13T16:13:32.283Z
-updated: 2024-09-16T16:32:21.627Z
+date: 2024-12-26T19:23:09.756Z
+updated: 2024-12-27T18:02:59.699Z
 tags:
   - android
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 * LumaFusion for Android and Chromebooks is now fully available on the [Google Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203671/https://play.google.com/store/apps/details?id=com.luma%5Ftouch.lumafusion) and [Galaxy App Store](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgalaxystore.samsung.com%2Fdetail%2Fcom.luma%255Ftouch.lumafusion), ending the beta period that started in November 2022\. It's now a one-time purchase of $29.99, up from the initial cost of $19.99\. The original article from the beta period continues below.
 
  There are many excellent video editors for Windows, Mac, Linux, and even iPad, but the situation is bleaker on Chromebooks and Android devices. Thankfully, there's some good news, as LumaFusion has arrived.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  UPDATE: 2/23/23
 
@@ -42,12 +46,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-streamers-unveiled-an-all-round-comparison-guide/"><u>[New] 2024 Approved Best Streamers Unveiled An All-Round Comparison Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hover-and-watch-utilizing-the-float-feature-on-netflix/"><u>[New] Hover & Watch Utilizing the Float Feature on Netflix</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-leveraging-connected-networks-fb-to-whatsapp-video-sharing-strategies/"><u>[New] In 2024, Leveraging Connected Networks FB to WhatsApp Video Sharing Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-smart-shoppers-guide-to-cloud-services-cost-for-2024/"><u>[Updated] The Smart Shopper's Guide to Cloud Services Cost for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-laptop-impresses-with-stunning-oled-display-and-top-notch-webcam-quality-latest-reviews-on-zdnet/"><u>Acer Laptop Impresses with Stunning OLED Display & Top-Notch Webcam Quality - Latest Reviews on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-why-im-still-enamored-with-lgs-featherlight-gram-pro-17-and-its-companion-model-during-prime-day-savings-event-zdnet-insights/"><u>Discover Why I'm Still Enamored with LG's Featherlight Gram Pro 17 & Its Companion Model During Prime Day Savings Event | ZDNET Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-5-premier-racer-simulators-that-captivate-you/"><u>In 2024, 5 Premier Racer Simulators That Captivate You</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-90-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor 90 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-google-pixel-fold-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Google Pixel Fold Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-powerful-and-portable-lenovo-thinkpad-x1-with-5g-capability-expert-evaluation-by-tech-guru-at-zdnet/"><u>In-Depth Review of the Powerful and Portable Lenovo ThinkPad X1 💪 with 5G Capability | Expert Evaluation by Tech Guru at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-compact-cameras-how-a-tiny-tech-gem-became-surprisingly-adaptable-zdnet-insights/"><u>Inside the World of Compact Cameras: How a Tiny Tech Gem Became Surprisingly Adaptable | ZDNET Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smartphone-lighting-kits-for-improved-footage/"><u>Smartphone Lighting Kits for Improved Footage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-a-bargain-on-the-new-apple-m3-macbook-air-with-amazons-prime-sale-cut-of-250-bucks-exclusive/"><u>Snag a Bargain on the New Apple M3 MacBook Air with Amazon's Prime Sale Cut of 250 Bucks Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-kid-friendly-mobile-devices-a-comprehensive-guide-by-zdnet/"><u>Top Kid-Friendly Mobile Devices: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-latent-gems-the-lenovo-ultraportables-hidden-features-including-a-stealthy-trackpoint-detailed-review/"><u>Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review</u></a></li>
+</ul></div>
 

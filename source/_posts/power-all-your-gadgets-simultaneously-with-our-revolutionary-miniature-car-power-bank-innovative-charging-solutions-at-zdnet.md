@@ -1,7 +1,7 @@
 ---
 title: Power All Your Gadgets Simultaneously with Our Revolutionary Miniature Car Power Bank | Innovative Charging Solutions at ZDNET
-date: 2024-12-19T03:28:24.287Z
-updated: 2024-12-22T08:23:49.472Z
+date: 2024-12-20T16:00:13.268Z
+updated: 2024-12-27T20:34:27.570Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,18 +134,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-innovate-your-farming-journey-with-these-stardews-top-7-mods/"><u>[New] 2024 Approved Innovate Your Farming Journey with These Stardew's Top 7 Mods</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-visualizing-sim-life-masterful-tactics-for-accurate-gameplay-recording-in-sims-4/"><u>[New] In 2024, Visualizing Sim Life Masterful Tactics for Accurate Gameplay Recording in Sims 4</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-inside-the-world-of-funimate-gamers/"><u>[New] Inside the World of Funimate Gamers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-enhanced-game-recorders-beyond-fbx-frameworks/"><u>[Updated] Enhanced Game Recorders Beyond FBX Frameworks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-finest-featherweight-computers-ranked-by-specialists-in-depth-analysis/"><u>2024'S Finest Featherweight Computers Ranked by Specialists | In-Depth Analysis</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-set-of-z37-the-precision-motherboard-d3-chipset-drivers-gigabyte-edition/"><u>Complete Set of Z37 The Precision Motherboard D3 Chipset Drivers - Gigabyte Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-of-both-worlds-premium-screen-quality-with-enduring-performance-on-a-leading-laptop-revealed-by-zdnet/"><u>Exploring the Best of Both Worlds – Premium Screen Quality with Enduring Performance on a Leading Laptop, Revealed by ZDNet</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/lg-27uhd68-screen-a-detailed-freesync-analysis-for-2024/"><u>LG 27UHD68 Screen A Detailed FreeSync Analysis for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-realme-11x-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Realme 11X 5G without backup.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-value-laptops-find-the-ultimate-windows-powered-machine-under-1k-techspot/"><u>Top Value Laptops: Find the Ultimate Windows-Powered Machine Under $1K | TechSpot</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-the-power-of-alienware-m18-massive-savings-continue-post-labor-day-insider-review/"><u>Unleash the Power of Alienware M18: Massive Savings Continue Post-Labor Day - Insider Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-march-rollout-speculation-on-newest-versions-of-macbook-air-ipad-pro-and-ipad-air-by-apple/"><u>Upcoming March Rollout: Speculation on Newest Versions of MacBook Air, iPad Pro and iPad Air by Apple</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-lenovos-2024-thinkbook-for-just-749-could-outshine-all-competitors-in-value-and-quality-tech-analysis/"><u>Why Lenovo's 2024 ThinkBook for Just $749 Could Outshine All Competitors in Value and Quality | Tech Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-empowered-by-numbers-decoding-youtube-analytics/"><u>[New] 2024 Approved Empowered by Numbers Decoding YouTube Analytics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-silencing-distractions-enhancing-youtube-videos/"><u>[New] 2024 Approved Silencing Distractions Enhancing YouTube Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-saying-goodbye-a-guide-for-ending-your-discord-membership-for-2024/"><u>[New] Saying Goodbye A Guide for Ending Your Discord Membership for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bright-ideas-unveiled-ge-lighting-impresses-at-ces-2023-with-expanded-cync-line-and-neon-light-personalization/"><u>Bright Ideas Unveiled: GE Lighting Impresses at CES 2023 With Expanded Cync Line and Neon Light Personalization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-202-exploring-the-latest-smart-home-innovations-matters-connectivity-revolutionary-lighting-solutions-and-lgs-new-shoe-shelving/"><u>CES 202# Exploring the Latest Smart Home Innovations: Matters Connectivity, Revolutionary Lighting Solutions & LG's New Shoe Shelving</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-online-vs-offline-signals-in-facebook/"><u>Deciphering Online Vs. Offline Signals in Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-list-of-walmarts-finest-tech-gift-options-curated-by-zdnet/"><u>Discover the Ultimate List of Walmart's Finest Tech Gift Options, Curated by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-hp-deskjet-series-printer-drivers-on-windows-7810-free-software-downloads/"><u>Easy Install HP Deskjet Series Printer Drivers on Windows 7/8/10 - Free Software Downloads</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/effortless-pc-to-pc-audio-file-sharing-a-step-by-step-guide-from-yl-computing/"><u>Effortless PC-to-PC Audio File Sharing: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-2024-tiktok-game-with-top-ring-light-picks-featured-on-zdnet/"><u>Elevate Your 2024 TikTok Game with Top Ring Light Picks - Featured on ZDNET</u></a></li>
+<li><a href="https://win-bits.techidaily.com/recognizing-early-warning-indicators-a-guide-to-identifying-typical-hardware-malfunctions-by-yl-tech/"><u>Recognizing Early Warning Indicators: A Guide to Identifying Typical Hardware Malfunctions - By YL Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailored-video-epilogue-templates-available-free-for-2024/"><u>Tailored Video Epilogue Templates Available Free for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-the-ideal-floodlights-to-secure-your-property-outdoors-techadvisor/"><u>Ultimate Guide: Choosing the Ideal Floodlights to Secure Your Property Outdoors | TechAdvisor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-review-the-creme-de-la-creme-booklight-picks-by-tech-experts-at-zdnet/"><u>Ultimate Review: The Crème De La Crème Booklight Picks by Tech Experts at ZDNET</u></a></li>
 </ul></div>
 

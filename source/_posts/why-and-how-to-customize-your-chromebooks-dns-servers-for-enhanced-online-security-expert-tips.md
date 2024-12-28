@@ -1,7 +1,7 @@
 ---
 title: Why and How to Customize Your Chromebook's DNS Servers for Enhanced Online Security - Expert Tips
-date: 2024-12-18T02:51:14.888Z
-updated: 2024-12-21T16:20:25.941Z
+date: 2024-12-22T19:49:12.441Z
+updated: 2024-12-27T21:03:19.654Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,19 +120,20 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-best-tiktok-video-editing-tips-for-2024/"><u>[New] Best Tiktok Video Editing Tips for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-cam-titans-collide-sj6-and-yi-4k-showdown-for-2024/"><u>[Updated] Cam Titans Collide SJ6 and Yi 4K Showdown for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-explore-top-rated-image-transition-tools/"><u>[Updated] In 2024, Explore Top-Rated Image Transition Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-journey-through-high-definition-with-lgs-31mu97-b-screen-review-for-2024/"><u>[Updated] Journey Through High Definition with LG’s 31MU97-B Screen Review for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-video-showcase-the-best-15-youtube-sites-for-flawless-unboxing-2024/"><u>[Updated] Ultimate Video Showcase The Best 15 YouTube Sites for Flawless Unboxing, 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-nikon-d500-a-revolution-in-4k-uhd-photography/"><u>2024 Approved Nikon D500 A Revolution in 4K UHD Photography</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-nvidias-new-studio-laptops-home-to-the-quickest-and-strongest-graphics-cards-yet-techspot/"><u>Exploring Nvidia's New Studio Laptops: Home to the Quickest and Strongest Graphics Cards Yet | TechSpot</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-the-perfect-hp-bargains-for-holidays-expert-roundup-of-16-picks/"><u>Find the Perfect HP Bargains for Holidays Expert Roundup of 16 Picks!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rectify-android-video-malfunctions/"><u>Rectify Android Video Malfunctions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/redefining-efficiency-with-lenovos-new-dual-display-laptop-a-game-changer-in-computing-expert-review/"><u>Redefining Efficiency with Lenovo's New Dual-Display Laptop - A Game Changer in Computing | Expert Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reliable-portable-power-supply-for-laptops-trustworthy-performance-over-years-now-available-with-hefty-discount/"><u>Reliable Portable Power Supply for Laptops: Trustworthy Performance Over Years | Now Available with Hefty Discount !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-steal-snag-the-hp-victus-15-gaming-laptop-at-just-515-during-best-buys-exclusive-anti-prime-day-event-insider-tips-from-zdnet/"><u>Score a Steal: Snag the HP Victus 15 Gaming Laptop at Just $515 During Best Buy's Exclusive Anti-Prime Day Event - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/traps-in-tokens-exposing-fake-bingpt-projects/"><u>Traps in Tokens: Exposing Fake BinGPT Projects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-value-windows-laptop-a-deep-dive-into-lenovos-newly-announced-749-thinkbook-gadgetexplorer/"><u>Unveiling the Best-Value Windows Laptop : A Deep Dive Into Lenovo's Newly Announced $749 ThinkBook | GadgetExplorer</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-perfect-tv-picture-on-xbox-series-xands/"><u>Achieving Perfect TV Picture on Xbox Series X&S</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210796592-9780008603632-black-women-always-conversations-on-life-culture-and-creativity/"><u>Black Women Always: Conversations on life, culture and creativity | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dive-into-the-world-of-ai-at-bing-how-to-signup/"><u>Dive Into the World of AI at Bing: How-To Signup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-look-at-the-most-effective-irobot-vacuum-cleaners-of-2024-tested-for-you-by-wirecutter/"><u>Exclusive Look at the Most Effective iRobot Vacuum Cleaners of 2024 - Tested for You by Wirecutter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-apples-vision-introducing-an-advanced-robot-assistant-into-everyday-homes-tech-insights-by-zdnet/"><u>Exploring Apple's Vision: Introducing an Advanced Robot Assistant Into Everyday Homes | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-markets-elite-a-comprehensive-guide-to-the-best-roborock-vacuums-of-2024-professional-insights-and-scrutiny-zdnet/"><u>Exploring the Market's Elite: A Comprehensive Guide to the Best Roborock Vacuums of 2024 - Professional Insights and Scrutiny | ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/exploring-windows-hdr-video-features-for-2024/"><u>Exploring Windows HDR Video Features for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>In 2024, Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-c33-2023-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme C33 2023</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-14-plus-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 14 Plus Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/month-long-test-discover-the-value-of-a-1900-smart-cleaning-bot-from-your-top-rated-reviews/"><u>Month-Long Test: Discover the Value of a $1,900 Smart Cleaning Bot From Your Top-Rated Reviews!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-human-like-automata-how-openai-and-emerging-tech-firm-unite-to-engineer-sophisticated-artificial-intelligence-models-for-futuristic-humanoid180/"><u>Revolutionizing Human-Like Automata: How OpenAI and Emerging Tech Firm Unite to Engineer Sophisticated Artificial Intelligence Models for Futuristic Humanoid Machines | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-2024-robot-mop-vacuums-comprehensive-testing-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated 2024 Robot Mop Vacuums: Comprehensive Testing & Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-irobot-robotic-vacuums-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Rated iRobot Robotic Vacuums : Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-selection-of-gaming-curve-displays-2024-edition/"><u>Ultimate Selection of Gaming Curve Displays - 2024 Edition</u></a></li>
 </ul></div>
 

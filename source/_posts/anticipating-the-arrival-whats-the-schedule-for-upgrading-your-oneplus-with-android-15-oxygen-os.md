@@ -1,7 +1,7 @@
 ---
 title: "Anticipating the Arrival: What's the Schedule for Upgrading Your OnePlus with Android 15 Oxygen OS?"
-date: 2024-09-01T08:27:14.867Z
-updated: 2024-09-02T08:27:14.867Z
+date: 2024-12-20T23:16:58.864Z
+updated: 2024-12-27T23:43:19.228Z
 tags:
   - android
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a7016d3aa04c528b81e29774cf3e5aa2f27aaaf88
 ---
 
 ## Anticipating the Arrival: What's the Schedule for Upgrading Your OnePlus with Android 15 Oxygen OS?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/a7016d3aa04c528b81e29774cf3e5aa2f27aaaf88
 
  As of right now, the [Android 15 beta](https://screen-mirroring-recording.techidaily.com/updated-pinnacle-5-frame-timelapse-recorder-for-2024/) is available on [select Pixel phones](https://mondly-stories.techidaily.com/mondly-vr-multiplayer-the-future-of-language-learning-in-virtual-reality/), along with the [OnePlus 12 and OnePlus Open](https://community.oneplus.com/thread/1595803862105587712). More models and manufacturers like Samsung will likely [join in later this year](https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-hot-40-pro-by-drfone-android/). Once the final version is ready for the masses, we expect OxygenOS 15 to hit the OnePlus 12 first before moving on to the rest.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Will OnePlus Release Android 15?
 
 ![Image showing OnePlus 12 and OnePlus Open by the Android 15 logo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/oneplus-android-15-beta.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 OnePlus
 
@@ -37,16 +49,10 @@ OnePlus
 
  For example, last year, the OnePlus 11 5G received Android 14 on November 16th in India, then eventually for other regions. Phones like the OnePlus 10, Nord, and more had to wait until December, January, etc. The older OnePlus 9 didn't see it until March 2024 in the United States, and it won't get Android 15 this year. We expect a similar early 2025 arrival of Android 15 for older phones like the OnePlus 10.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What to Expect From OxygenOS 15
 
 ![Person holding the OnePlus 12R on its homescreen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-home-screen-of-the-oneplus12rjpg_53485408735_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The OxygenOS 15 update will deliver many changes and new features from Google, thanks to Android 15, while the rest will come from the developer teams at OnePlus. It'll combine new goodies with UI changes and other advancements.
@@ -58,15 +64,17 @@ Sergio Rodriguez / How-To Geek
  So far, based on the first OnePlus 12 Android 15 beta, we're seeing new lock screen settings and an improved always-on display (AOD) with more options and customization, including a mode similar to Apple's StandBy. OxygenOS 15 also tweaked the notification shade control center, redesigned the volume sliders, and made other minor tweaks throughout.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Which OnePlus Phones Will Get Android 15 (And Which Won't)
 
 ![The back of the OnePlus phone showing the camera array](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/5dde3ad3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Josh Hendrickson / How-To Geek
 
  Thankfully, while many brands make us wait for months or remain completely silent, OnePlus has [already provided a list](https://community.oneplus.com/thread/1536929304774967301) of which devices will receive the OxygenOS 15 (Android 15) update in 2024-25.
@@ -91,8 +99,6 @@ Josh Hendrickson / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +106,22 @@ Josh Hendrickson / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-tv-deactivation-tips/"><u>[New] 2024 Approved Instagram TV Deactivation Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet/"><u>[New] 2024 Approved Navigating Noise-Free Networks Secrets for Silencing Disruptions on GoMeet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-prime-range-best-webcam-standers-for-2024/"><u>[New] Prime Range Best Webcam Standers for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-revolutionize-your-content-with-innovative-tagging-approaches/"><u>[Updated] 2024 Approved Revolutionize Your Content with Innovative Tagging Approaches</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-visual-ventures-partnership-playbook/"><u>[Updated] In 2024, Visual Ventures Partnership Playbook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adapting-office-technology-the-future-of-work-devices-in-an-age-of-artificial-intelligence-insights-from-zdnet/"><u>Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-latest-offer-get-the-ultimate-game-sound-experience-for-half-off-discover-the-best-gaming-speaker-system-now-at-zdnet/"><u>Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-2024-bargains-at-best-buy-top-picks-and-last-minute-savings/"><u>Exclusive October Prime Day 2024 Bargains at Best Buy: Top Picks & Last-Minute Savings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-future-with-lenovos-premium-thinkpad-x13s-unveiling-arm-powered-ultraportable-tech-enhanced-by-5g-and-extended-battery-life-zdnet-insights/"><u>Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life | ZDNet Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-motorola-moto-g34-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Motorola Moto G34 5G FRP Without Computer</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ate-easily-through-youtube-channel-disabling-on-devices/"><u>Navigate Easily Through YouTube Channel Disabling on Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/reviving-the-roaring-dragons-effective-fixes-for-skyrims-mute-gameplay/"><u>Reviving the Roaring Dragons: Effective Fixes for Skyrim's Mute Gameplay</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-microsoft-black-friday-blowout-specials-save-400-on-surface-pro-7-and-get-200-discount-on-surface-laptop-go-check-out-the-best-deals-now/"><u>Top Microsoft Black Friday Blowout Specials: Save $400 on Surface Pro 7 & Get $200 Discount on Surface Laptop Go – Check Out the Best Deals Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-apples-m3-series-key-insights-before-your-purchase-decision-zdnet/"><u>Understanding Apple’s M3 Series: Key Insights Before Your Purchase Decision | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-new-chromeos-upgrade-windows-11-integration-revamps-your-chromebooks/"><u>Unveiling the New ChromeOS Upgrade: Windows 11 Integration Revamps Your Chromebooks</u></a></li>
+</ul></div>
 

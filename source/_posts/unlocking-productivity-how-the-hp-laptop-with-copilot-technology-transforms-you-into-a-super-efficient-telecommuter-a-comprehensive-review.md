@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Productivity: How the HP Laptop with Copilot Technology Transforms You Into a Super-Efficient Telecommuter - A Comprehensive Review"
-date: 2024-12-17T09:53:19.597Z
-updated: 2024-12-22T07:02:43.683Z
+date: 2024-12-26T16:56:53.509Z
+updated: 2024-12-28T00:37:01.800Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -61,6 +61,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce845ede1-ee85-4120-861a-f59772cdb93b%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -83,7 +87,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -106,6 +110,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -126,10 +134,6 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -139,10 +143,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -182,21 +182,22 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-how-to-take-long-exposure-shots-with-iphone/"><u>[Updated] How to Take Long Exposure Shots with iPhone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-ensuring-your-shorts-videos-thumbnail-shows-up/"><u>2024 Approved Ensuring Your Shorts Video's Thumbnail Shows Up</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-magic-5-lite-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Magic 5 Lite.</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-zte-nubia-flip-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your ZTE Nubia Flip 5G FRP Locks</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-reno-9a-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo Reno 9A Black and White | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rebinding-the-command-key-on-apples-latest-mac-models-easy-tutorial-from-zdnet/"><u>Rebinding the Command Key on Apple's Latest Mac Models – Easy Tutorial From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/scarce-deal-alert-samsungs-8tb-portable-ssd-holds-a-steady-36-discount-on-amazon-post-prime-day-insights/"><u>Scarce Deal Alert: Samsung's 8TB Portable SSD Holds a Steady 36% Discount on Amazon Post-Prime Day – Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-clutter-discover-the-ultimate-11-in-1-docking-station-at-a-44-discount-insights-from-zdnet/"><u>Slash Your Clutter: Discover the Ultimate 11-in-1 Docking Station at a 44% Discount - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/steep-discount-apple-m2-powered-macbook-air-available-at-749-during-amazon-prime-day-deals-in-october-tech-insights-by-zdnet/"><u>Steep Discount: Apple M2-Powered MacBook Air Available at $749 During Amazon Prime Day Deals in October - Tech Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/todays-agenda-accessing-the-microsoft-ai-showcase-on-surface-and-windows-what-you-need-to-know-for-future-tech-trends/"><u>Today's Agenda: Accessing the Microsoft AI Showcase on Surface and Windows – What You Need To Know for Future Tech Trends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-student-friendly-chromebook-picks-in-depth-reviews-and-comparison-by-experts-zdnet/"><u>Top-Rated Student-Friendly Chromebook Picks: In-Depth Reviews & Comparison by Experts - ZDNet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-13-pro-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 13 Pro</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/unraveling-the-mystery-why-is-my-windows-file-explorer-spontaneously-launching-insights-from-malwarefox/"><u>Unraveling the Mystery: Why Is My Windows File Explorer Spontaneously Launching? Insights From MalwareFox</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-4k-video-editing-made-easy-top-proxy-editing-tools/"><u>Updated In 2024, 4K Video Editing Made Easy Top Proxy Editing Tools</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-13-mini-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 13 mini is not listed when I run the software? | Stellar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-critique-unveiling-the-truth-about-microsoft-surface-laptop-n-a-balanced-review-beyond-madness/"><u>ZDNET Critique: Unveiling the Truth About Microsoft Surface Laptop N – A Balanced Review Beyond Madness</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-complete-manual-for-installing-microsofts-wm6/"><u>[New] 2024 Approved Complete Manual for Installing Microsoft's WM6</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-techniques-for-crafting-encouraging-personal-growth-vids/"><u>[New] In 2024, Techniques for Crafting Encouraging Personal Growth Vids</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-cleaning-game-with-the-expertly-tested-and-reviewed-best-robot-vacuums-for-dealing-with-pet-hair-zdnets-definitive-list/"><u>Ace Your Cleaning Game with the Expertly Tested and Reviewed Best Robot Vacuums for Dealing with Pet Hair: ZDNET's Definitive List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/excel-vs-chatgpt-discover-the-3-unique-advantages-of-using-excel/"><u>Excel Vs. ChatGPT: Discover the 3 Unique Advantages of Using Excel</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2622884-9781632280138-happiness-a-to-z/"><u>Happiness A to Z | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-can-we-learn-from-nature-exploring-the-use-of-animals-as-inspiration-for-future-robots-in-the-new-breed/"><u>How Can We Learn From Nature? Exploring The Use of Animals as Inspiration for Future Robots in 'The New Breed'</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-tecno-camon-30-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Tecno Camon 30 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/kids-playtime-perfected-by-camera-duos/"><u>Kids' Playtime Perfected by Camera Duos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-savings-on-a-game-changing-automated-cat-litter-read-how-it-transformed-the-pet-care-routine/"><u>Labor Day Savings on a Game-Changing Automated Cat Litter! Read How It Transformed the Pet Care Routine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lawn-mowing-wonders-the-robot-that-has-everyone-talking-in-the-hood-zdnet-insights/"><u>Lawn Mowing Wonders: The Robot That Has Everyone Talking in the 'Hood | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-adventure-meet-and-communicate-with-famous-star-wars-bots-directly-on-disneyland-grounds/"><u>New Adventure: Meet and Communicate with Famous Star Wars Bots Directly on Disneyland Grounds!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prolonging-the-power-of-your-cleaner-bot-essential-tips-to-boost-your-robot-vacuums-battery-life-expert-advice-from-zdnet/"><u>Prolonging the Power of Your Cleaner Bot: Essential Tips to Boost Your Robot Vacuum's Battery Life | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-spotify-playlist-converters-for-creating-youtube-content/"><u>Top 5 Spotify Playlist Converters for Creating YouTube Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-a-roborock-vacuum-the-best-models-tested-for-2tier-review-wired/"><u>Ultimate Guide to Choosing a Roborock Vacuum: The Best Models Tested for 2Tier Review | Wired</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/upgrade-your-computer-storage-with-asus-tuf-gaming-ssd-a15-installation-guide/"><u>Upgrade Your Computer Storage with ASUS TUF Gaming SSD A15 – Installation Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-selection-of-2024s-smartest-home-innovations-expertly-tested-and-scrutinized/"><u>ZDNet's Ultimate Selection of 2024'S Smartest Home Innovations: Expertly Tested and Scrutinized</u></a></li>
 </ul></div>
 

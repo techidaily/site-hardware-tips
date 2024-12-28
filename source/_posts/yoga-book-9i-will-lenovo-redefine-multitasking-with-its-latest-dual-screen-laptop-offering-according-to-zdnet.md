@@ -1,7 +1,7 @@
 ---
 title: "Yoga Book ^9I: Will Lenovo Redefine Multitasking with Its Latest Dual-Screen Laptop Offering, According to ZDNet?"
-date: 2024-12-17T00:13:45.180Z
-updated: 2024-12-21T19:29:41.073Z
+date: 2024-12-22T19:45:22.365Z
+updated: 2024-12-27T19:14:40.037Z
 tags:
   - laptops
 categories:
@@ -26,29 +26,25 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to take screenshots on any laptop
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to take screenshots on any laptop
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1: The old fashioned way**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -59,10 +55,6 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -94,6 +86,10 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -106,17 +102,21 @@ Michael Gariffo/ZDNET
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,15 +157,21 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-transform-your-iphone-into-a-content-powerhouse-with-best-fb-video-downloaders-for-ios/"><u>[New] In 2024, Transform Your iPhone Into a Content Powerhouse with Best FB Video Downloaders for iOS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-snapshots-of-life-compreenasive-guide-to-capturing-the-journey-of-playing-sims-4-for-2024/"><u>[New] Snapshots of Life Compreenasive Guide to Capturing the Journey of Playing Sims 4 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-pro-grade-mac-video-plus-audiophile-recorder-for-2024/"><u>[Updated] Pro-Grade Mac Video + Audiophile Recorder for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-score-an-unbeatable-price-on-the-hp-victus-15-gaming-laptop-at-just-515-during-amazon-prime-day-dont-miss-out/"><u>Exclusive: Score an Unbeatable Price on the HP Victus 15 Gaming Laptop at Just $515 During Amazon Prime Day – Don't Miss Out!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/hands-on-with-samsung-galaxy-budsplus-a-detailed-product-review/"><u>Hands-On with Samsung Galaxy Buds+ - A Detailed Product Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-and-update-your-amd-radeon-hd-7870-graphics-card-on-windows-11-easy-guide/"><u>Install and Update Your AMD Radeon HD 7870 Graphics Card on Windows 11 – Easy Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-hp-victus-15-gaming-laptop-at-just-530-during-best-buys-prime-day-sale-the-top-tech-picks/"><u>Snag the HP Victus 15 Gaming Laptop at Just $530 During Best Buy's Prime Day Sale: The Top Tech Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-world-is-yours/"><u>The World Is Yours</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-users-hack-for-installing-and-enjoying-android-apps-natively/"><u>Windows 11 Users' Hack for Installing and Enjoying Android Apps Natively</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-top-budget-laptops-uncover-the-one-with-exceptional-screen-performance-and-value-for-money/"><u>ZDNet Reviews Top Budget Laptops: Uncover the One With Exceptional Screen Performance and Value for Money!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-breaking-top-tiktok-videos-making-twitter-shout-for-2024/"><u>[New] Breaking Top TikTok Videos Making Twitter Shout for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-maximizing-moolah-on-youtube-a-creators-handbook/"><u>[New] In 2024, Maximizing Moolah on YouTube A Creator's Handbook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-srt-file-sharing-on-social-platforms/"><u>[New] Mastering SRT File Sharing on Social Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-subtitles-into-your-online-social-videography-efforts/"><u>2024 Approved Integrating Subtitles Into Your Online Social Videography Efforts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-free-public-domain-pubg-screen-shots/"><u>Best Free Public Domain PUBG Screen Shots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-debloating-effective-strategies-for-enhancing-windows-performance-on-techspot-zdnet/"><u>Beyond Debloating: Effective Strategies for Enhancing Windows Performance on TechSpot (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15l-laptop-now-at-520-a-steal-with-almost-40-discount-read-more-on-zdnet/"><u>HP Victus 15L Laptop Now at $520: A Steal with Almost 40% Discount - Read More on ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-audio-quality-in-cyberpunk-2077-how-to-resolve-crackling-sounds/"><u>Improve Audio Quality in Cyberpunk 2077 - How to Resolve Crackling Sounds</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-enhancing-visual-content-turning-youtube-clips-into-animated-gifs/"><u>In 2024, Enhancing Visual Content Turning Youtube Clips Into Animated GIFs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722954112865-latest-update-released-for-logitech-extreme-3d/"><u>Latest Update Released for Logitech Extreme 3D</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-guide-expanding-your-raspberry-pi-model-b-pi-5-with-m2-devices-tips-and-tricks/"><u>Quick Guide: Expanding Your Raspberry Pi Model B (Pi 5) with M.2 Devices - Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-220-limited-time-offer-on-rtx-3070-upgrades-from-zdnet-shop-now/"><u>Save $220: Limited Time Offer on RTX 3070 Upgrades From ZDNet - Shop Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/saving-smart-with-surface-pro-how-i-chose-the-most-economical-option-without-compromises-gizmogeek-blog/"><u>Saving Smart with Surface Pro - How I Chose the Most Economical Option Without Compromises | GizmoGeek Blog</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-most-affordable-cloud-vendors-listed-for-2024/"><u>Top 10 Most Affordable Cloud Vendors Listed for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-headsets-professional-reviews-and-ratings-by-zdnet/"><u>Top-Rated Gaming Headsets : Professional Reviews and Ratings by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-budget-gaming-machine-with-starfield-graphics-building-a-powerful-pc-under-1200/"><u>Ultimate Budget Gaming Machine with Starfield Graphics: Building a Powerful PC Under $1,200</u></a></li>
 </ul></div>
 

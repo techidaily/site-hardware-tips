@@ -1,7 +1,7 @@
 ---
 title: "1. Timeless Tech: How '90S Innovations Continue to Shape Modern Technology"
-date: 2024-09-18T19:25:04.631Z
-updated: 2024-09-22T02:48:44.797Z
+date: 2024-12-21T19:18:06.407Z
+updated: 2024-12-27T17:20:53.356Z
 tags:
   - hardware
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
  The 1990s were an incredible time for technology. While car phones and beepers may have died off, plenty of tech from the 90s is still with us today. We'll share some of the best apps, tech, and devices that got their humble start in the darling decade that was the Nineties.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  BackRub A.K.A. Google
 
 ![Original Google Home page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2830673252_16c7bf336e_o.png) 
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
 ![First PhotoShop home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/photoshop-source-code-screen-main.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Computer History Museum](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 
  Not many computer applications have garnered the same name recognition as Adobe Photoshop. Any image that appears edited has been "Photoshopped," regardless of which app was actually used. Just like every tissue is a "Kleenex" and every bandage is a "Band-Aid."
@@ -45,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
  Photoshop started life as a program developed by Thomas Knoll at the University of Michigan in 1987\. His brother, John Knoll, urged him to develop the program further. The Knoll brothers eventually showed it off to an art director at Adobe, and the company purchased a license to distribute Photoshop in 1990.
 
  Photoshop 1.0 for Mac costs a whopping $895\. Over the next five years, it would be ported to Windows and become much more popular. In 1995, Adobe fully purchased the rights to Photoshop for $34.5\. Nowadays, it generates billions in revenue and has millions of users.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  DVDs
 
@@ -70,10 +71,7 @@ Hannah Stryker / How-To Geek
 ![Android phone with text messages on screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Android-Text-Messages.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -104,16 +102,13 @@ Justin Duino / How-To Geek
 
  Nowadays, Bluetooth is baked into more devices than you can imagine. Smartphones, smartwatches, headphones, light bulbs, plugs, switches, coffee makers, thermometers, thermostats, door locks, and more, and more, and more. Needless to say, it's been a hit.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Smartphones
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
 
@@ -124,15 +119,16 @@ Justin Duino / How-To Geek
  Needless to say, those features have carried over all these years later. Touchscreens are absolutely essential to mobile devices, and making calls and sending emails are considered rudimentary, basic features. It all started with a weird-looking brick.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  MP3 Format
 
 ![2018-08-06_14h28_57](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-06_14h28_57.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  MP3 Players have come and gone, but [MP3 files](https://instagram-video-recordings.techidaily.com/updated-in-2024-turning-insta-vids-into-music-your-complete-guide/) have stood the test of time. If you're dealing with an audio file on your computer or mobile device, there's a good chance it's an MP3\. The MP3 format was first released in 1991.
 
@@ -157,5 +153,23 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-is-minimizing-unstable-movement-in-photoshop-beneficial/"><u>[New] Is Minimizing Unstable Movement in Photoshop Beneficial?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-vsx-screen-grabber-insight-detailed-overview/"><u>[New] VSX Screen Grabber Insight Detailed Overview</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-guide-iosipad-podcast-recording-tips-for-engaging-interviews/"><u>[Updated] Perfect Guide IOS/iPad Podcast Recording Tips for Engaging Interviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-whats-new-with-the-revamped-lenovo-thinkpad-x1-a-detailed-review/"><u>Discover What's New with the Revamped Lenovo ThinkPad X1: A Detailed Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-choice-ultimate-list-of-premium-vpn-services-for-202n4-reviewed-on-zdnet/"><u>Experts' Choice: Ultimate List of Premium VPN Services for 202N4 Reviewed on ZDNET</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-smartphone-lighting-kits-for-improved-footage/"><u>In 2024, Smartphone Lighting Kits for Improved Footage</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-x50iplus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor X50i+ Location | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-top-pick-windows-10s-cutting-edge-apps-and-games/"><u>In 2024, Top Pick Windows 10’S Cutting-Edge Apps & Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-pro-or-macbook-air-deciding-the-superior-device-for-your-needs-gadgetadvisor/"><u>IPad Pro or MacBook Air: Deciding the Superior Device for Your Needs | GadgetAdvisor</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-11-pro-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 11 Pro Properly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-romance-boosting-your-love-life-with-chatgpt/"><u>Revolutionizing Romance: Boosting Your Love Life with ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-tech-budget-grab-the-ultimate-multi-device-charger-at-35-off-today-a-must-have-hub-for-gadgets-lovers-zdnet/"><u>Slash Your Tech Budget: Grab the Ultimate Multi-Device Charger at 35% Off Today! - A Must-Have Hub for Gadgets Lovers | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-tested-and-reviewed-digital-notepads-find-your-perfect-match/"><u>Top-Ranking Tested & Reviewed Digital Notepads: Find Your Perfect Match!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-top-underappreciated-dual-purpose-device-for-your-workspace-a-2023-review/"><u>Uncovering the Top Underappreciated Dual-Purpose Device for Your Workspace: A 2023 Review</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-narrator-voice-generators/"><u>Updated In 2024, Best Narrator Voice Generators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/weekend-upgrade-why-updating-your-google-chrome-now-is-a-must-do-infographic/"><u>Weekend Upgrade: Why Updating Your Google Chrome Now Is a Must-Do [Infographic]</u></a></li>
+</ul></div>
 

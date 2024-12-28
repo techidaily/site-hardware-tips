@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Android 15: Every Google Pixel Phone Slated for the Update"
-date: 2024-09-13T16:37:16.024Z
-updated: 2024-09-16T16:46:26.271Z
+date: 2024-12-21T23:53:27.393Z
+updated: 2024-12-27T16:36:21.052Z
 tags:
   - android
 categories:
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
 ![Person holding a Google Pixel 8 Pro showing the Android 15 logo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/53533188423_c6faca52a2_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  A big topic in the world of Android is software updates and how long each phone will get them. During the launch of the Pixel 8, Google announced it would offer an industry-leading seven years of software support for the phone. Unfortunately, those with an older Pixel won't get the same treatment. Eventually, older Pixel models will [stop getting new versions of Android](https://win-answers.techidaily.com/in-depth-strategies-to-overcome-teardown-malfunctions-expert-advice/).
@@ -44,21 +48,16 @@ Justin Duino / How-To Geek
  Unfortunately, that means owners of the Pixel 4 and Pixel 5 series will not be receiving the update to Android 15 later this year.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Android 15 Release Date and Beta
 
 ![The Android 15 logo over a photo of a Google Pixel Fold.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -66,13 +65,14 @@ Justin Duino / How-To Geek
 
  The first Android 15 beta will likely arrive within the first two weeks of April. And while we could see a quick bug-fixing update or two along the way, expect another major 2nd beta in May, with more stable releases in June and July.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ![Android 15 release timeline](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/android-15-release-timeline.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So, when will Android 15 be officially released to the public? If this launch resembles prior releases and follows the timeline above, look for Android 15 over-the-air software updates in mid-August 2024.
@@ -102,5 +102,18 @@ Cameron Summerson / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-financial-plan-for-crafting-a-song-to-screen/"><u>[New] 2024 Approved Financial Plan for Crafting a Song to Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-monetization-mastery-guide-choosing-the-right-platform/"><u>[New] In 2024, Monetization Mastery Guide Choosing the Right Platform</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-encyclopedia-of-touch-based-gesture-analytics/"><u>[New] The Encyclopedia of Touch-Based Gesture Analytics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-diy-youtube-thumbnails-made-simple/"><u>2024 Approved DIY YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/contributing-to-chromes-future-the-essential-role-of-user-feedback-and-how-it-shapes-development-exclusive-tips-zdnet/"><u>Contributing to Chrome's Future: The Essential Role of User Feedback and How It Shapes Development (Exclusive Tips) | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-future-of-computing-with-dells-new-xps-14-laptop-exclusively-tested-and-reviewed-by-zdnet/"><u>Discover the Future of Computing with Dell's New XPS 14 Laptop, Exclusively Tested and Reviewed by ZDNET</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-magic-5-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/no-fee-optimal-mobile-and-web-picture-upscaler-for-2024/"><u>No-Fee, Optimal Mobile & Web Picture Upscaler for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/presidents-day-savings-alert-snag-a-discounted-new-macbook-pro-featuring-m3-pro-chip-for-200-less-techdeals-on-zdnet/"><u>President’s Day Savings Alert: Snag a Discounted New MacBook Pro Featuring M3 Pro Chip for $200 Less | TechDeals on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-savings-exclusive-guide-to-early-bird-deals-on-high-performance-laptops-for-octobers-prime-shopping-event-zdnet/"><u>Secure Your Savings: Exclusive Guide to Early Bird Deals on High-Performance Laptops for October's Prime Shopping Event | ZDNET</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-functionality-of-instagram-story-features/"><u>The Functionality of Instagram Story Features</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Overcoming Google Chat Message Glitches in Android's RCS System
-date: 2024-09-15T17:25:03.480Z
-updated: 2024-09-16T16:17:25.795Z
+date: 2024-12-23T17:31:32.115Z
+updated: 2024-12-27T23:46:19.633Z
 tags:
   - android
 categories:
@@ -33,6 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Ultimately, there are several things you can try. If none of those work, the nuclear option is to totally disconnect RCS/Google Chat on the server side. But let's not get ahead of ourselves here—let's first look at how to check the status of RCS on your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Check the RCS Connection Status on Android
 
  If you [know your phone has RCS](https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-instagram-videos-for-global-engagement/), and you're having trouble sending messages, checking the status of RCS chat features on your phone is a good place to start.
@@ -44,6 +48,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  In the Settings menu, tap on "RCS Chats."
 
 ![A screenshot of the Settings menu with Chat features highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-05-24-09_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the Status shows "Connected" for your SIM card, then you're good to go. If you're having issues with messaging, then it's likely another issue.
 
@@ -63,6 +71,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  When it boots back up, use the directions above to jump back into the RCS Chats menu. Tap the "Turn On RCS Chats" toggle and see if it connects. With a little luck, that did the trick. But if not, keep reading.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Option Two: Clear Storage for Messages
 
  If you've been an Android user for any reasonable length of time, you've likely done the Clear Cache song and dance. Guess what? This is no different. Okay, maybe it's slightly different—you need to first enable [Airplane Mode](https://audio-shaping.techidaily.com/updated-in-2024-cutting-edge-audio-tools-for-iphone-and-ipad-enthusiasts/).
@@ -70,6 +82,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Pull down the notification bar to show the Quick Settings menu. Find the Airplane Mode button (you may have to scroll through several pages of the menu to find it). Keep in mind that this will disable all network connections, including Wi-Fi, Bluetooth, and mobile data, at the very least.
 
 ![A screenshot of Android's Quick Setting menu, showing the Airplane Mode toggle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2023-11-08_16-20-40.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tap the gear icon to jump into the Settings menu.
 
@@ -83,20 +99,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The Storage and cache entry](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-15-13-27_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Disable Airplane Mode, restart your phone, and then re-check RCS status using the method outlined above. If it reconnects, congratulations—you're good to go. If not, well, it's time to keep trying.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Option Three: Clear Storage for Carrier Services
 
@@ -104,16 +111,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A screenshot of Android's Quick Setting menu, showing the Airplane Mode toggle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2023-11-08_16-20-40.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From there, open the Settings menu.
 
 ![Android's notification shade wit the setting button highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-12-13-39_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go to the "Apps" section again, and this time find "Carrier Services." If you don't see it, tap the three dots in the upper right corner, and select "Show system."
 
@@ -122,6 +126,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Open the storage submenu and tap "Clear Data" or "Clear Storage."
 
 ![The Storage and cache entry](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-15-13-27_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Disable Airplane Mode, restart your phone and then re-check RCS status using the method outlined above. If it reconnects, you're good to go. If not, we'll need to keep digging. From this point forward, the options get more and more aggressive.
 
@@ -146,10 +154,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The network reset warning dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-35-57-98_41a74ddf68be21faad2fbbb691b15143.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will take a few minutes, and afterward, you'll want to set up all your Wi-Fi and Bluetooth connections. But first, head back into the Messages app and recheck the RCS status. Connected? Yay! Still nothing? Oof. Time to go nuclear, at least for now.
@@ -162,13 +167,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A screenshot of the menu in the Messages app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-05-20-29_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, tap on "RCS Chats."
 
 ![A screenshot of the Settings menu with Chat features highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-05-24-09_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
@@ -178,10 +176,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![showing the Chat features toggle in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2023-11-08_16-23-47.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But that doesn't always fix the issue both ways—you might be able to send messages over SMS after this, but there's a good chance messages coming back to you will still come in over RCS. That means you won't get them, so you'll also need to disable RCS on the server side.
@@ -191,6 +186,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![disabling RCS on the server side using Google's web tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2023-11-08_15-39-15.jpg) 
 
  After verifying your phone number, Chat/RCS should be completely disabled so you can at least send and receive messages over SMS/MMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Keep Trying to Re-enable Chat Features if You Still Want to Use RCS
 
@@ -211,5 +210,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-average-earnings-for-podcast-creators/"><u>[Updated] In 2024, Average Earnings for Podcast Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-top-hd-karaoke-song-videos-at-no-cost-from-youtube-downloads/"><u>Access Top HD Karaoke Song Videos at No Cost From YouTube Downloads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apples-new-era-begins-with-the-m3-macbook-air-an-accessible-artificially-intelligent-computer-comprehensive-analysis-on-zdnet/"><u>Apple's New Era Begins with the M3 MacBook Air: An Accessible, Artificially Intelligent Computer | Comprehensive Analysis on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-streamlined-computing-with-windows-free-hp-chromebook-at-136-off-according-to-zdnets-expert-review/"><u>Experience Streamlined Computing with Windows-Free HP Chromebook at $136 Off, According to ZDNet's Expert Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210270470-9781582708515-modern-merlin/"><u>Modern Merlin | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snap-up-this-amazing-bargain-high-performance-15-asus-laptop-with-full-connectivity-options-for-just-250-at-walmart-zdnet-insight/"><u>Snap Up This Amazing Bargain: High-Performance 15 Asus Laptop with Full Connectivity Options for Just $250 at Walmart | ZDNet Insight</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-to-choosing-the-most-effective-9-multimedia-devices-ios-android/"><u>The Ultimate Guide to Choosing the Most Effective 9 Multimedia Devices (iOS, Android)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-sturdy-long-lasting-laptops-techradar-analysis/"><u>Ultimate List of Sturdy, Long-Lasting Laptops - TechRadar Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-of-srt-editing-on-a-mac-for-2024/"><u>Unlocking the Secrets of SRT Editing on a Mac for 2024</u></a></li>
+</ul></div>
 

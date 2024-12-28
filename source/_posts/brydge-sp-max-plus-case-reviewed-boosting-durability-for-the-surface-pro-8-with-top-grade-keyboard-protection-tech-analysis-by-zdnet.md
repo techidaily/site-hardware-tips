@@ -1,7 +1,7 @@
 ---
 title: "Brydge SP Max Plus Case Reviewed: Boosting Durability for the Surface Pro 8 with Top-Grade Keyboard Protection | Tech Analysis by ZDNET"
-date: 2024-12-21T03:41:54.180Z
-updated: 2024-12-21T16:42:17.009Z
+date: 2024-12-21T23:57:03.894Z
+updated: 2024-12-28T00:19:56.129Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -45,7 +49,7 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -105,10 +109,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Cinebench CPU/GPU benchmark (higher is better)
 
 ---
@@ -137,10 +137,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -156,7 +152,7 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -176,7 +172,7 @@ Jason Hiner/ZDNET
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd8f9078-4e77-496d-a208-fe808b070d0c%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd8f9078-4e77-496d-a208-fe808b070d0c%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -188,6 +184,10 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,15 +235,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-journey-to-origin-how-to-utilize-reverse-image-functionality-on-instagram-for-2024/"><u>[New] The Journey to Origin How to Utilize Reverse Image Functionality on Instagram for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/accelerate-your-work-with-the-top-10-chatgpt-addons-for-quick-pdf-generation/"><u>Accelerate Your Work with the Top 10 ChatGPT Addons for Quick PDF Generation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bluetooth-obd-adapter-reveals-car-codes-the-smart-way-to-fix-your-check-engine-light/"><u>Bluetooth OBD Adapter Reveals Car Codes - The Smart Way to Fix Your Check Engine Light</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/braving-the-skies-how-8kplus-passengers-embraced-travel-with-southwest-airlines-insights-from-zdnet/"><u>Braving the Skies: How 8K+ Passengers Embraced Travel with Southwest Airlines | Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-using-a-car-charger-damage-your-iphone-positive-results-from-extensive-tests-on-multiple-devices-zdnet/"><u>Can Using a Car Charger Damage Your iPhone? Positive Results From Extensive Tests on Multiple Devices - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/combatting-auto-theft-trends-how-kia-and-hyundai-use-innovative-tech-against-viral-tiktok-hacks/"><u>Combatting Auto-Theft Trends: How Kia & Hyundai Use Innovative Tech Against Viral TikTok Hacks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/microsoft-prepares-to-discontinue-paint-3d-what-it-means-for-users-and-creators/"><u>Microsoft Prepares to Discontinue Paint 3D – What It Means for Users and Creators</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-straightforward-path-to-windows-voice-transformation-for-fishy-sounds/"><u>The Straightforward Path to Windows Voice Transformation for Fishy Sounds</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-six-techniques-for-solving-terraria-disconnection-issues/"><u>Top Six Techniques for Solving Terraria Disconnection Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-finding-out-if-microsoft-teams-is-experiencing-issues/"><u>Troubleshooting: Finding Out If Microsoft Teams Is Experiencing Issues</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-seamless-teaching-online-screen-sharing-on-skype-explained/"><u>[Updated] 2024 Approved Seamless Teaching Online Screen Sharing on Skype Explained</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unfollow-patterns-on-instagram-explored/"><u>[Updated] Unfollow Patterns on Instagram Explored</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-xsplit-digest-in-depth-splits-reviews/"><u>2024 Approved XSplit Digest In-Depth Splits Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-evolution-of-stylish-and-portable-keyboards-from-quirky-designs-to-miniature-sizes-zdnet-insights/"><u>Discover the Evolution of Stylish and Portable Keyboards From Quirky Designs to Miniature Sizes | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fixing-and-updating-your-apple-studio-displays-firmware-a-step-by-step-guide/"><u>Fixing and Updating Your Apple Studio Display's Firmware - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-best-practices-choosing-the-top-ios-video-downloaders-on-fb/"><u>In 2024, Best Practices Choosing the Top iOS Video Downloaders on FB</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/innovative-approaches-to-sims-4-video/"><u>Innovative Approaches to Sims 4 Video</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/linux-systems-receive-crucial-security-fixes-for-intel-and-amd-cpu-flaws-reports-zdnet/"><u>Linux Systems Receive Crucial Security Fixes for Intel and AMD CPU Flaws, Reports ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/logitech-blue-sona-mic-evaluation-marrying-fashion-with-functionality-techadvisor/"><u>Logitech Blue Sona Mic Evaluation: Marrying Fashion with Functionality | TechAdvisor</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/solution-steps-for-when-your-wd-my-passport-drive-doesnt-appear/"><u>Solution Steps for When Your WD My Passport Drive Doesn't Appear</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-truth-how-to-recognize-bogus-online-buddies/"><u>Unveiling the Truth: How to Recognize Bogus Online Buddies</u></a></li>
 </ul></div>
 

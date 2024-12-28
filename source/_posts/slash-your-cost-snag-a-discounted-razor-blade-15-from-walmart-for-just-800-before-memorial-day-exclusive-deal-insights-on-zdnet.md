@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights on ZDNet"
-date: 2024-12-16T10:20:00.858Z
-updated: 2024-12-21T18:36:36.751Z
+date: 2024-12-23T22:44:38.367Z
+updated: 2024-12-28T00:15:13.068Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,15 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-best-tools-to-extract-and-save-facebook-lite-videos/"><u>[Updated] In 2024, Best Tools to Extract and Save Facebook Lite Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-online-destinations-featuring-3d-art-and-metallic-text/"><u>[Updated] Prime Online Destinations Featuring 3D Art & Metallic Text</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2022s-ultimate-rv-guide-expert-rankings-of-top-motorhomes-and-campervans-zdnet/"><u>2022'S Ultimate RV Guide: Expert Rankings of Top Motorhomes and Campervans | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advancing-autonomous-vehicles-key-ml-breakthrough-spotted/"><u>Advancing Autonomous Vehicles: Key ML Breakthrough Spotted!</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/free-online-raf-emp-converter-tool-by-movavi/"><u>Free Online RAF EMP Converter Tool by Movavi</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/mastering-online-broadcasts-with-manycam-the-best-live-video-software-and-fake-webcams/"><u>Mastering Online Broadcasts with ManyCam: The Best Live Video Software & Fake Webcams</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-restoring-audio-on-your-acer-notebook/"><u>Troubleshooting Steps: Restoring Audio on Your Acer Notebook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-review-and-breakdown-of-emporia-energy-smart-charger-for-electric-vehicles-powerful-features-at-competitive-pricing/"><u>ZDNet Exclusive: Review & Breakdown of Emporia Energy Smart Charger for Electric Vehicles - Powerful Features at Competitive Pricing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-review-the-dual-rider-built-e-bike-lectric-xp-30-unveiled/"><u>ZDNet's Comprehensive Review: The Dual-Rider Built E-Bike, Lectric XP 3.0 Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-immersive-insight-amd-radeon-update/"><u>[New] In 2024, Immersive Insight AMD Radeon Update</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leveraging-youtubes-community-how-to-find-and-create-collab-videos/"><u>[Updated] Leveraging YouTube's Community How to Find & Create Collab Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-potential-with-filmoras-loved-9-traits/"><u>2024 Approved Unleash Your Potential with Filmora's Loved 9 Traits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-premier-wide-display-monitors-reviewed-and-ranked-on-zdnet/"><u>2024'S Premier Wide-Display Monitors Reviewed and Ranked on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-perfect-keyboard-how-key-switches-impact-health-and-work-efficiency-techsavvy/"><u>Choosing the Perfect Keyboard: How Key Switches Impact Health & Work Efficiency | TechSavvy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/digital-dynamo-recording-on-a-mac-for-2024/"><u>Digital Dynamo Recording on a Mac for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-ergonomic-mouse-picks-for-2ebeck23-2024-by-zdnet-your-ultimate-guide/"><u>Discover the Leading Ergonomic Mouse Picks for 2Ebeck23 2024 by ZDNET: Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-non-apple-keyboards-compatible-with-your-mac-expert-picks/"><u>Discover the Top Non-Apple Keyboards Compatible with Your Mac: Expert Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-performing-levoit-air-purifiers-with-exclusive-post-prime-day-savings-insider-review/"><u>Discover Top-Performing Levoit Air Purifiers With Exclusive Post-Prime Day Savings – Insider Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/finding-the-ultimate-productivity-companion-does-logitechs-mx-master-ebyte-excel-in-business-settings-zdnet-reviews/"><u>Finding the Ultimate Productivity Companion: Does Logitech's MX Master Ebyte Excel in Business Settings - ZDNET Reviews</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-spark-go-2024-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Spark Go (2024) Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/g-large-with-youtube-premium-the-inside-story-for-2024/"><u>Living Large with YouTube Premium The Inside Story for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ranking-the-ideal-alternative-keyboards-for-mac-users-a-comprehensive-guide-by-tech-experts/"><u>Ranking the Ideal Alternative Keyboards for Mac Users - A Comprehensive Guide by Tech Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-strategies-for-achieving-virality-on-tiktok/"><u>Top 10 Strategies for Achieving Virality on TikTok</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-value-the-near-perfect-17-headlamp-reviewed-on-zdnet/"><u>Ultimate Value: The Near-Perfect $17 Headlamp Reviewed on ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/voice-driven-operations-free-of-charge-for-2024/"><u>Voice-Driven Operations, Free of Charge for 2024</u></a></li>
 </ul></div>
 

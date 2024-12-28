@@ -1,7 +1,7 @@
 ---
 title: Embrace the Pixel eightA Now and Skip the Long Wait for Pixel 9 Launch
-date: 2024-09-20T23:56:01.407Z
-updated: 2024-09-22T06:39:00.315Z
+date: 2024-12-24T20:32:50.243Z
+updated: 2024-12-27T16:59:15.065Z
 tags:
   - hardware
 categories:
@@ -21,9 +21,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Pre-orders for the Pixel 8a began [on May 6th](https://graphic-issues.techidaily.com/mitigating-performance-drops-civ-5-computer/), with orders shipping on May 14th to line up with I/O 2024\. You can find the phone at the [Google Store](https://store.google.com/us/product/pixel%5F8a?hl=en-US) and most third-party retailers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Flagship Specs, Affordable Pricing
 
 ![Person holding the Google Pixel 8a showing the lock screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-lock-screen-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -47,6 +55,10 @@ The Google Pixel 8a is a mid-range smartphone powered by the Google Tensor G3 So
 
 [$499 at Google Store](https://store.google.com/config/pixel%5F8a) [$499 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-8a-5g-128gb-unlocked-aloe%2F6578509.p) [$499 at Amazon](https://amazon.com/dp/B0CYQ916ZY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003113&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdont-wait-for-pixel-9-buy-the-pixel-8a%2F&asc%5Fcampaign=Short-Term) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What's So Special About the Pixel 9 Anyway?
 
 ![Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/16.jpg) 
@@ -66,10 +78,7 @@ OnLeaks, 91mobiles
  Also, the Pixel 8a will last just as long as the Pixel 9\. Both get [seven years](https://techtrends.techidaily.com/download-iphones-handbooks-comprehensive-source-for-each-version-explained/) of Android updates. One phone might be better than the other, but the Pixel 8a is an outrageously great value, and the difference between these two devices will be negligible to most people.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don't Fall for Smartphone FOMO
@@ -77,10 +86,7 @@ OnLeaks, 91mobiles
 ![Google Pixel 8a sitting on a table next to a Pixel 8 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/google-pixel-8a-sitting-on-a-table-next-to-a-pixel-8-pro-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -108,5 +114,22 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ifa-visuals-key-youtube-video-trends-for-2024/"><u>[New] FIFA Visuals Key YouTube Video Trends for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-steps-to-resolve-stuck-obs-camera-feed-for-2024/"><u>[New] Steps to Resolve Stuck OBS Camera Feed for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-youtube-on-fb-maximizing-auto-play-efficiency-for-2024/"><u>[New] YouTube on FB Maximizing Auto-Play Efficiency for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-file-saving-on-windows-11-a-compendium-of-six-techniques/"><u>2024 Approved Mastering File Saving on Windows 11 A Compendium of Six Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/cutting-edge-techniques-for-3d-text-illustration-for-2024/"><u>Cutting-Edge Techniques for 3D Text Illustration for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-spark-10-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Spark 10 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-getting-started-guide-to-instagrams-live-feature/"><u>In 2024, Getting Started Guide to Instagram's Live Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-picking-a-college-laptop-4-crucial-criteria-and-our-picks-top-10-expert-advice/"><u>Master the Art of Picking a College Laptop: 4 Crucial Criteria and Our Picks (Top 10) | Expert Advice</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/maximizing-engagement-in-online-collaboration-with-snap-camera/"><u>Maximizing Engagement in Online Collaboration with Snap Camera</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-your-win11-chrome-freeze-effective-fix-strategies/"><u>Overcome Your Win11 Chrome Freeze: Effective Fix Strategies.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-workhorse-laptop-unveiled-surpasses-thoughtpad-and-macbook-in-tests-insights/"><u>Top-Performing Workhorse Laptop Unveiled, Surpasses Thoughtpad & Macbook in Tests - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-workspaces-one-week-on-a-split-ergonomic-keyboard-and-its-impact-zdnet-explored/"><u>Transforming Workspaces: One Week on a Split Ergonomic Keyboard & Its Impact - ZDNet Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-trend-of-purchasing-damaged-macbook-pros-insights-from-zdnet/"><u>Understanding the Trend of Purchasing Damaged MacBook Pros – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-versatility-and-portability-with-a-surprisingly-competent-8-in-1-charger-exclusive-review/"><u>Unlocking Versatility and Portability with a Surprisingly Competent 8-in-1 Charger - Exclusive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unparalleled-performance-discovering-top-notch-ultraportable-devices-ideal-for-telecommuters-a-comprehensive-review/"><u>Unparalleled Performance: Discovering Top-Notch Ultraportable Devices Ideal for Telecommuters - A Comprehensive Review</u></a></li>
+</ul></div>
 

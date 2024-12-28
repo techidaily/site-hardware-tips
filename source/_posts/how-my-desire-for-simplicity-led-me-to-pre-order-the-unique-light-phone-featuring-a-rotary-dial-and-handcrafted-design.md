@@ -1,7 +1,7 @@
 ---
 title: How My Desire for Simplicity Led Me to Pre-Order the Unique Light Phone √†√≠ - Featuring a Rotary Dial and Handcrafted Design
-date: 2024-09-01T08:26:34.698Z
-updated: 2024-09-02T08:26:34.698Z
+date: 2024-12-25T00:00:44.616Z
+updated: 2024-12-27T21:25:23.308Z
 tags:
   - android
 categories:
@@ -26,15 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The Light Phone 2 was a credit-card-sized "minimalist" phone with an e-ink screen and a slew of shortcomings. Now, the Light Phone 3 appears to be solving some of those problems, and I've placed a pre-order. Despite how much I enjoy using my powerful smartphone, I'm considering making the shift.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  I Like Minimalist Phones
 
 ![Someone holding a Light Phone 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/light-phone-ii-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Light Phone
 
  I wouldn't say that being a technology writer means I use my phone more than most people, but it does mean I probably think about my phone more often.
@@ -47,9 +45,6 @@ Light Phone
 
  I think of them like the [Playdate](https://digital-screen-recording.techidaily.com/updated-rev-voice-recorder-download-and-review/), a black-and-white game console that feels like a modern take on the Game Boy. No one argues that it's better than a Nintendo Switch, but thousands of people have bought one anyway, and they love it. There is something to be appreciated about a niche device designed with care specifically for the kind of people who are into such a thing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ##  I Used the Light Phone 2 for Years
 
  I carried around a Light Phone 2 for years and loved it. In many ways, it delivered on its promise. No, buying a Light Phone doesn't magically make you less addicted to screens or turn you into an expert at all of your hobbies, but it does add friction where you might want there to be friction. Example: I watch much less YouTube when I have a Light Phone because while it's super convenient to watch a video on my phone at any time, I don't necessarily want to grab a laptop or a tablet. I'm also not going to walk down the hall staring at my laptop screen and ignoring family members the same way it's easy to do with my phone.
@@ -59,8 +54,9 @@ Light Phone
  When I read the [Light Phone 3 announcement](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/), nearly every single issue I had appears to be solved (though until I get the actual hardware, I can't say for sure).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What I'm Looking Forward to in the Light Phone 3
 
  One of my biggest frustrations with the Light Phone 2 had nothing to do with all the apps I had to give up. No, it was the charging port. The phone used microUSB. This charging cable was once ubiquitous, but those days are gone.
@@ -69,12 +65,13 @@ Light Phone
 
  The Light Phone 3 announcement says the phone will come with a USB-C port, 5G, and stronger radios. If Light re-released the Light Phone 2 with just these changes alone, I'd have been tempted to get one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Sometimes, a Camera Is Necessary
 
 ![Light Phone 3 in a pocket.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-in-a-pocket.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Light Phone
 
@@ -88,27 +85,18 @@ Light Phone
 
  These cameras don't merely come with a smartphone-style app. Instead, the Light Phone 3 has a wheel on the side that serves as a clickable shutter button. It aims to provide tactile feedback when you're taking pictures, making the phone feel like both a feature phone and a point-and-shoot camera. As someone who bought a point-and-shoot to carry around with my Light Phone 2, this is a change I'm here for.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  A Phone Built to Last
 
 ![Light Phone 3 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-on-a-table.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Light Phone
 
  The Light Phone 2 appeals to a lot of people looking to shrink their digital footprint, and part of that means the e-waste they generate. Unfortunately, while Light has supported the software on their phone for half a decade, the phone isn't easily repaired. It has a non-removable battery, and there is no easy way to get at the screen.
@@ -127,8 +115,6 @@ Light Phone
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +122,22 @@ Light Phone
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-virtual-symposium-streams/"><u>[New] Virtual Symposium Streams</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-best-soundshapers-for-content-makers-on-youtube/"><u>[Updated] 2024 Approved Best Soundshapers for Content Makers on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-complete-guide-to-cleaning-up-figma-canvases/"><u>[Updated] Complete Guide to Cleaning Up Figma Canvases</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/300-off-prime-deal-discover-top-tier-non-thinkpad-non-macbook-productivity-laptop-review/"><u>$300 Off Prime Deal: Discover Top-Tier Non-ThinkPad, Non-MacBook Productivity Laptop Review</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/samsung-ssdssdhdd/"><u>効率的なSamsung SSD移動：容量が少ないSSDへの大きなHDDの複製手順</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/college-life-made-easy-discover-the-all-in-one-laptop-that-masterfully-handles-studies-and-leisure-gadgetguru/"><u>College Life Made Easy: Discover the All-in-One Laptop That Masterfully Handles Studies and Leisure | GadgetGuru</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nubia-red-magic-8s-proplus-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nubia Red Magic 8S Pro+ Phone When You Forget the Password</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-step-by-step-on-capturing-facetime-calls/"><u>In 2024, Step-by-Step on Capturing FaceTime Calls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-deal-get-the-top-tech-pick-at-a-whopping-500-discount-on-amazon-before-prime-day/"><u>Limited-Time Deal: Get the Top Tech Pick at a Whopping $500 Discount on Amazon Before Prime Day!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-computers-the-game-changing-intel-ai-processor-with-amazing-perks-for-your-future-laptop/"><u>Revolutionizing Computers: The Game-Changing Intel AI Processor with Amazing Perks for Your Future Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/skyrocket-your-productivity-with-the-ultimate-10-in-1-laptop-dock-enjoy-an-exclusive-35-discount-today-zdnets-top-picks/"><u>Skyrocket Your Productivity with the Ultimate 10-in-1 Laptop Dock: Enjoy an Exclusive 35% Discount Today - ZDNet’s Top Picks!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-from-camera-to-computer-a-beginners-guide-to-editing-canon-videos/"><u>Updated From Camera to Computer A Beginners Guide to Editing Canon Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-you-should-choose-this-affordable-alternative-to-macbook-air-instead-top-rated-windows-laptop-now-on-sale-zdnet/"><u>Why You Should Choose This Affordable Alternative to MacBook Air Instead: Top-Rated Windows Laptop Now On Sale - ZDNet</u></a></li>
+</ul></div>
 

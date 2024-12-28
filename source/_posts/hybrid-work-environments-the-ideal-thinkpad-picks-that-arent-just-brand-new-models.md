@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models
-date: 2024-12-19T08:36:50.754Z
-updated: 2024-12-22T09:27:12.231Z
+date: 2024-12-20T16:41:03.348Z
+updated: 2024-12-27T19:44:19.326Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,21 +112,20 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-the-in-stream-ad-landscape-on-facebook/"><u>[New] In 2024, Navigating the In-Stream Ad Landscape on Facebook</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-premium-console-emulation-choosing-the-top-5-for-windows-for-2024/"><u>[New] Premium Console Emulation Choosing the Top 5 for Windows for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unleash-the-power-of-online-livestreams-with-us-today/"><u>[Updated] 2024 Approved Unleash the Power of Online Livestreams with Us Today</u></a></li>
-<li><a href="https://win-best.techidaily.com/boosting-computer-speed-in-windows-11-expert-advice-and-tweaks-by-yl-software/"><u>Boosting Computer Speed in Windows 11: Expert Advice and Tweaks by YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-11-pro-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 11 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 14 Pro Max</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-a05-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy A05? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/inside-the-dji-phantom-3-pro-advantages/"><u>Inside the DJI Phantom 3 Pro Advantages</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lessons-in-frustration-a-firsthand-look-at-southwest-airlines-disappointing-digital-services-as-revealed-by-zdnet/"><u>Lessons in Frustration: A Firsthand Look at Southwest Airlines' Disappointing Digital Services, as Revealed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-discounts-score-flights-at-94-off-with-dollar-flight-club-exclusive-deals-unveiled/"><u>Massive Discounts: Score Flights at 94% Off with Dollar Flight Club - Exclusive Deals Unveiled!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-disruption-alert-southwest-grounds-20k-flights-critical-update-on-passenger-impact/"><u>Massive Disruption Alert: Southwest Grounds 20K Flights - Critical Update on Passenger Impact</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-vacation-budget-access-cut-price-hotels-car-hires-and-theme-park-admission-through-our-member-deals-zdnets-tips/"><u>Maximize Your Vacation Budget: Access Cut-Price Hotels, Car Hires & Theme Park Admission Through Our Member Deals | ZDNet's Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximizing-lifespan-and-performance-expert-tips-on-maintaining-high-end-electric-bike-batteries/"><u>Maximizing Lifespan & Performance: Expert Tips on Maintaining High-End Electric Bike Batteries</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-away-from-worker-monitoring-strategies-for-the-transport-sector-insights-by-zdnet/"><u>Navigating Away From Worker Monitoring: Strategies for the Transport Sector - Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-without-technology-embracing-the-old-school-road-atlas-in-light-of-cognitive-health-awareness-zdnet-insights/"><u>Navigating Without Technology: Embracing the Old-School Road Atlas in Light of Cognitive Health Awareness | ZDNET Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-link-av2000-powerline-surge-protector-analysis-impressive-speed-performance-with-mediocre-aesthetics/"><u>TP-Link AV2000 Powerline Surge Protector Analysis: Impressive Speed Performance with Mediocre Aesthetics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-speedy-windows-file-review-strategies/"><u>[New] In 2024, Speedy Windows File Review Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-timestamps-on-youtube-video-link-for-2024/"><u>[Updated] How to Add Timestamps on YouTube Video Link for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximal-brightness-for-android-videos-explained/"><u>2024 Approved Maximal Brightness for Android Videos Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-budget-friendly-apps-revolutionizing-smartphone-imagery/"><u>2024 Approved Top 10 Budget-Friendly Apps Revolutionizing Smartphone Imagery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhancing-teleconferencing-with-time-honored-camera-tricks-introducing-logitechs-project-ghost/"><u>Enhancing Teleconferencing with Time-Honored Camera Tricks - Introducing Logitech's Project Ghost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-logitech-vertical-ergomouse-stylish-small-and-ultimate-comfort-tech-in-depth/"><u>Evaluating the Logitech Vertical ErgoMouse: Stylish, Small & Ultimate Comfort | Tech In Depth</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-seamless-editing-with-newly-purchased-adobe-photoshop-cs8-software/"><u>Experience Seamless Editing with Newly Purchased Adobe Photoshop CS8 Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-huawei-matepad/"><u>Exploring the Huawei MatePad</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-v30-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme V30 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nubia-z50-ultra-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nubia Z50 Ultra? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-mavix-m9-gaming-chair-unprecedented-customization-and-comfort-pros-and-cons/"><u>In-Depth Analysis of the Mavix M9 Gaming Chair: Unprecedented Customization and Comfort - Pros & Cons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-unmatched-comfort-of-secretlab-titan-evo-top-pick-in-the-2hrenalogy-gaming-chairs-techradar/"><u>The Unmatched Comfort of SecretLab Titan Evo - Top Pick in the 2Hrenalogy Gaming Chairs | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-must-have-smartwatch-applications-for-your-android-device/"><u>Top 5 Must-Have Smartwatch Applications for Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-june-2023-computer-screen-bargains-featured-on-zdnet/"><u>Top June 2023 Computer Screen Bargains - Featured on ZDNet</u></a></li>
 </ul></div>
 

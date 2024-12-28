@@ -1,7 +1,7 @@
 ---
 title: "Unfolding Excellence: OnePlus's Answer to Bendable Discomfort"
-date: 2024-09-10T16:07:40.595Z
-updated: 2024-09-16T16:32:37.854Z
+date: 2024-12-25T21:10:01.076Z
+updated: 2024-12-27T18:42:04.584Z
 tags:
   - android
 categories:
@@ -25,7 +25,15 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![OnePlus Open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/productstill_2cmf_01_rgb-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  OnePlus Open
 
@@ -166,16 +174,13 @@ Close
 
  Speaking of feel, the inside display is obviously not glass, but it didn’t feel overly soft or mushy. It accumulated smudges and fingerprints faster than the outside display, though. Size and flexibility aside, both displays looked great. The specs of the inside and outside displays are very similar, which makes for fluid transitions between the two. Oh, and unlike the [OnePlus Nord N30](https://video-screen-grab.techidaily.com/new-step-into-professionalism-aiseesofts-screen-recording-made-accessible-for-2024/), you can actually see both displays in any direction while wearing sunglasses.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  OnePlus Open Software: Practical Additions
 
 ![OnePlus Open home screen launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-32.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -205,19 +210,6 @@ Close
 
  Overall, I was impressed with OxygenOS on a foldable device. There are some features that I think I would genuinely miss if I switched to a Pixel Fold or Galaxy Z Fold. It's not a perfect OS by any means, but the problems can be solved with updates. Oh, and OnePlus, please stop forcing a red lock screen clock on everyone.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  OnePlus Open Performance & Battery Life: Awesome
 
 ![OnePlus Open running four apps at once.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-21.jpg) 
@@ -232,6 +224,10 @@ Joe Fedewa / How-To Geek
 
 ![OnePlus Open battery settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-15-00-27-21-87_0ba066473b79d6e213a1f6f52505e2ee.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like most OnePlus devices, the Open is equipped with the company’s “SUPERVOOC” fast wired charging. The 67W charging can take the battery from 1-100% in around 40 minutes, which is a pretty incredible feat. However, I have to admit, as cool as that is, I would much rather have wireless charging. With battery life this good, I never really needed a super fast top-up at an inopportune time.
 
  Performance and battery life is a category where I feel like the less I have to say, the better. To be a successful tablet-like foldable, the OnePlus Open needed to be powerful and it needed to have a long-lasting battery. Check and check.
@@ -241,16 +237,7 @@ Joe Fedewa / How-To Geek
 ![OnePlus Open rear camera array.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-8.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -272,10 +259,7 @@ Close
 ![OnePlus Open camera viewfinder from the outside display,](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-20.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -283,6 +267,10 @@ Joe Fedewa / How-To Geek
  One neat feature is the ability to see the viewfinder on the outside display while using the rear cameras. However, OnePlus clearly did not intend for this to be used for selfies since there are no controls on the outside display. That would be a nice feature to have, rather than awkwardly trying to reach the volume buttons and not accidentally touching the larger display to take a selfie with the big boy cameras.
 
  Overall, I think this is probably one of—if not _the_—best camera setups OnePlus has shipped. That being said, it seems like no matter which phone I review, I always end up preferring the photos from a Pixel phone. Take that for whatever it’s worth.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the OnePlus Open?
 
@@ -304,14 +292,11 @@ Justin Duino / How-To Geek
 
 ![OnePlus Open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/productstill_2cmf_01_rgb-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  OnePlus Open
 
@@ -396,5 +381,26 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-earnings-expansion-on-glamour-channels/"><u>[New] 2024 Approved Earnings Expansion on Glamour Channels</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nlarge-your-videos-thumbnail-on-youtube-easily-for-2024/"><u>[New] Enlarge Your Video's Thumbnail on YouTube Easily for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-combine-videos-into-one-on-iphone/"><u>[New] How to Combine Videos Into One on iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unveiling-the-art-of-smoothing-zoom-screenshots/"><u>[Updated] 2024 Approved Unveiling the Art of Smoothing Zoom Screenshots</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-comparing-youtube-and-dailymotion-notable-contrasts/"><u>[Updated] In 2024, Comparing YouTube and Dailymotion Notable Contrasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-art-of-eluding-home-school-video-content/"><u>[Updated] In 2024, The Art of Eluding Home School Video Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/adventure-videography-supplies-for-travelers-for-2024/"><u>Adventure Videography Supplies for Travelers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-ranked-affordable-collegiate-computers-beyond-macbook-and-thinkpad-save-big-with-our-exclusive-find/"><u>Discover Top-Ranked Affordable Collegiate Computers: Beyond MacBook and ThinkPad, Save Big with Our Exclusive Find!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultimate-convenience-with-a-discounted-multipurpose-10-port-docking-station-exclusive-offer-on-gadgetgurustorecom/"><u>Experience Ultimate Convenience with a Discounted, Multipurpose 10-Port Docking Station | Exclusive Offer on GadgetGuruStore.com</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-cutting-edge-ipad-app-that-makes-you-consider-buying-an-apple-pencil-zdnets-take/"><u>Exploring the Cutting-Edge iPad App That Makes You Consider Buying an Apple Pencil - ZDNet's Take</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-immersed-in-baldurs-gate-3-on-an-m-series-mac-with-crossover/"><u>Get Immersed in Baldur's Gate 3 on an M-Series Mac with Crossover</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-touchbook-with-companion-wireless-mouse-and-office-365-suite-complete-tech-bundle-at-400-special-offer/"><u>HP Touchbook with Companion Wireless Mouse & Office 365 Suite - Complete Tech Bundle at $400 Special Offer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-screenplay-excellence-genre-based-achievement-showcase/"><u>In 2024, Screenplay Excellence Genre-Based Achievement Showcase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsofts-revolutionary-ai-chip-outshines-apple-macbook-in-cutting-edge-showdown-an-exclusive-zdnet-revelation/"><u>Microsoft's Revolutionary AI Chip Outshines Apple MacBook in Cutting-Edge Showdown - An Exclusive ZDNet Revelation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stunning-display-in-a-budget-friendly-ultrabook-a-review-of-an-unbelievably-affordable-high-quality-screen/"><u>Stunning Display in a Budget-Friendly Ultrabook: A Review of an Unbelievably Affordable High-Quality Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ultralight-laptop-perfect-for-telecommuters-a-detailed-review/"><u>Top-Rated Ultralight Laptop Perfect for Telecommuters: A Detailed Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-student-laptop-insider-ratings-and-testing-smarttechreview/"><u>Ultimate Guide to Choosing the Perfect Student Laptop: Insider Ratings & Testing | SmartTechReview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-tests-honor-magicbook-14-the-highly-efficient-and-affordably-priced-14-inch-device-with-enhanced-graphics-performance/"><u>ZDNet Tests Honor MagicBook 14: The Highly Efficient and Affordably Priced 14-Inch Device with Enhanced Graphics Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-unveils-the-ideal-lightweight-laptop-for-remote-workers-a-comprehensive-test-report/"><u>ZDNet Unveils the Ideal Lightweight Laptop for Remote Workers - A Comprehensive Test Report</u></a></li>
+</ul></div>
 

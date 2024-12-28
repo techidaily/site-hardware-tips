@@ -1,7 +1,7 @@
 ---
 title: "The NZXT Function Nv Capsule TKL In-Depth Review: Approaching the Ultimate Gamepad"
-date: 2024-09-20T07:01:24.484Z
-updated: 2024-09-22T10:31:28.574Z
+date: 2024-12-21T21:22:56.881Z
+updated: 2024-12-27T17:44:27.037Z
 tags:
   - hardware
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
  NZXT entered the keyboard market back in March 2022 with its Function line. Recently, the company released updates which have several nice features, but also changes some of what made the original Function such a compelling buy. With hot-swappable switches, a refreshed design, and more, the [NZXT Function 2 MiniTKL](https://www.amazon.com/NZXT-Tenkeyless-Adjustable-Double-Shot-Hot-Swappable/dp/B0CST2HK9G?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002778&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnzxt-function-2-minitkl-review%2F&asc%5Fcampaign=Authority) is almost my perfect gaming keyboard.
 
 ![NZXT Function 2 MiniTKL Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nzxt-function-2-minitkl-keyboard.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  NZXT Function 2 MiniTKL Keyboard
 
@@ -87,6 +91,10 @@ Expand
 
 [$107 at Amazon](https://www.amazon.com/NZXT-Tenkeyless-Adjustable-Double-Shot-Hot-Swappable/dp/B0CST2HK9G?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002778&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnzxt-function-2-minitkl-review%2F&asc%5Fcampaign=Authority) [$129.99 at nzxt](https://nzxt.com/product/function-2-minitkl) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Hot-Swappable Switches…Kinda
 
 ![The Function 2 MiniTKL with keycaps removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-with-keycaps-removedjpg_53488291767_o.jpg) 
@@ -117,16 +125,13 @@ Jerome Thomas / How-To Geek
 
  NZXT went the extra mile when it comes to acoustics with the Function 2 MiniTKL. The top frame plate is made from 3mm aluminum, and you’ll find dual-layer sound-dampening foam and tape on the PCB to ensure that there’s no unwanted pinging noise. In practice, this works great. The keyboard sounded fantastic when typing, and there was no pinging or hollowness to the keystrokes at all. Plus, the aluminum gives it a nice heft without adding tons of weight and making it super heavy.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Extra Keys Are Laid Out Weird
 
 ![The volume wheel, mute, windows lock and backlight buttons on the Function 2 MiniTKL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-volume-wheel-mute-windows-lock-and-backlight-buttons-on-the-function-2-minitkljpg_53489492524_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -136,29 +141,19 @@ Jerome Thomas / How-To Geek
 
  Along that same left side you’ll also find a volume wheel, which works great and isn’t out of place at all on the side. Meanwhile, the other media keys, like play and pause, seek, and reverse, are located on the print screen, scroll lock, and pause keys at the top right of the keyboard and require a function press to activate. Ideally, I would have liked to have seen mute be activated by pressing the volume scroll wheel and have had media keys on the left side, with the Windows lock and brightness buttons under function keys somewhere else on the keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  NZXT CAM Gives You All the Customization One Could Want
 
 ![The Function 2 MiniTKL without the backlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-without-the-backlightjpg_53489191606_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
  NZXT CAM is your hub for all things NZXT when it comes to customization. It works great. You can use CAM to change the per-key lighting of the Function 2 MiniTKL, as well as reprogram what keys do what, and change the actuation of the keyboard. CAM is where you’ll really dial in the settings to your heart’s content.
 
  In addition to the standard stuff, like RGB and key remapping, you’ll also find macro programming within CAM. This will allow you to complete complex functions with a single keystroke, which can save you lots of time when doing repetitive tasks. Plus, CAM allows you to program up to four different profiles on the keyboard, each of which can be accessed on-device by holding the function key and clicking F1-F4.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the NZXT Function 2 MiniTKL Keyboard?
 
@@ -173,6 +168,10 @@ Jerome Thomas / How-To Geek
  While I absolutely want to love the keyboard, and do in many respects, the side-mounted keys here seal the deal for me. There were several times when I couldn’t use my Windows key only to realize I had inadvertently locked it out by accidentally clicking the button. That got old, real quick. At the end of the day, if NZXT put the secondary keys somewhere else, this would easily be my new favorite gaming keyboard, as I can get over not being able to change the switches. But the side button placement gets me every time.
 
 ![NZXT Function 2 MiniTKL Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nzxt-function-2-minitkl-keyboard.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  NZXT Function 2 MiniTKL Keyboard
 
@@ -197,5 +196,21 @@ The NZXT Function 2 MiniTKL gaming keyboard packs every key of a tenkeyless keyb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-zoom-inout-in-instagram-stories-for-2024/"><u>[New] How to Zoom In/Out in Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-essential-tips-for-crafting-engaging-haul-videos/"><u>[Updated] Essential Tips for Crafting Engaging Haul Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-srt-to-sub-transforming-playback-sequences/"><u>[Updated] From SRT to SUB Transforming Playback Sequences</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smart-selections-17-apps-for-flawless-image-correction/"><u>[Updated] Smart Selections 17 Apps for Flawless Image Correction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-top-laptop-coolers-on-steep-discounts-this-cyber-monday-find-your-best-deal-with-zdnet/"><u>Beat the Heat: Top Laptop Coolers on Steep Discounts This Cyber Monday - Find Your Best Deal with ZDNet</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/completely-erase-your-connection-with-youtube-shorts/"><u>Completely Erase Your Connection with YouTube Shorts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-value-in-tech-how-dells-budget-friendly-laptop-packs-smart-features-for-savvy-consumers-insights/"><u>Discovering Value in Tech: How Dell's Budget-Friendly Laptop Packs Smart Features for Savvy Consumers - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-next-level-virtual-reality-savings-why-metas-512gb-quest-3-is-dominating-as-the-premier-deal-of-the-season-cnet/"><u>Experience Next-Level Virtual Reality Savings: Why Meta's 512GB Quest 3 Is Dominating as the Premier Deal of the Season | CNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/integrating-google-assistant-into-your-pc-seamless-control-with-the-google-home-application/"><u>Integrating Google Assistant Into Your PC - Seamless Control with the Google Home Application</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-alert-samsung-4tb-portable-ssd-t5-now-available-on-amazon-for-just-under-half-the-original-price/"><u>Massive Discount Alert: Samsung 4TB Portable SSD (T5) Now Available on Amazon for Just Under Half the Original Price</u></a></li>
+<li><a href="https://solve-help.techidaily.com/missing-page-alert-content-couldnt-be-located/"><u>Missing Page Alert: Content Couldn't Be Located</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/techniques-for-non-linear-eq-curves/"><u>Techniques for Non-Linear EQ Curves</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-windows-ultimate-laptop-guide-comprehensive-reviews-by-experts-zdnet/"><u>Top-Ranking Windows Ultimate Laptop Guide - Comprehensive Reviews by Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/will-the-msi-steam-deck-make-waves-in-portable-gaming-a-thorough-competition-assessment/"><u>Will the MSi Steam Deck Make Waves in Portable Gaming: A Thorough Competition Assessment</u></a></li>
+</ul></div>
 

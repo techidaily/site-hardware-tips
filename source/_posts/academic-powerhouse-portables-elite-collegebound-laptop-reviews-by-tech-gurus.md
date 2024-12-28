@@ -1,7 +1,7 @@
 ---
 title: "Academic Powerhouse Portables: Elite Collegebound Laptop Reviews by Tech Gurus"
-date: 2024-12-18T08:14:14.688Z
-updated: 2024-12-21T16:00:44.710Z
+date: 2024-12-20T21:22:31.206Z
+updated: 2024-12-27T20:56:18.556Z
 tags:
   - laptops
 categories:
@@ -23,16 +23,12 @@ We prioritized machines that scored well in durability, portability, and of cour
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best laptop for college right now?
 
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C69b98a0f-38fa-44a6-9379-f9398eb6d586%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best laptop for college in 2024
 
@@ -50,6 +46,10 @@ Cons
 * Uninspiring speakers
 
 ## Apple MacBook Air M3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best college laptop overall
 
@@ -80,10 +80,6 @@ Pros
 Cons 
 * Middling battery life
 * No HDMI or USB-A ports
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## HP Dragonfly Pro Chromebook
 
@@ -147,6 +143,10 @@ Cons
 * Has a tendency to run warm
 * Bloatware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus ROG Zephyrus G14
 
 ### Best college laptop for gaming
@@ -174,14 +174,10 @@ Cons
 * Expensive
 * Comes with multiple supporting parts
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lenovo Yoga Book 9i
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best 2-in-1 convertible laptop for college
@@ -197,10 +193,6 @@ There are a few considerations, however. First, the $2,000 price tag puts it at 
 **Lenovo Yoga Book 9i** **t** **ech specs:** Intel Core Ultra 155U | Intel Iris Xe Graphics | 16GB RAM, 1TB, storage | Dual 13.3-inch 2.8K OLED, touchscreen, Dolby Vision, 400 nits, 16:10 | Up to 8 hours of battery life | 14", 3.8 pounds
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best laptop for college?
 
@@ -225,6 +217,10 @@ The right college for laptop depends on first on what you want to get out of it,
 | Acer Aspire Go 15                   | An affordable laptop that can cover the basics, but don't need anything fancy.                        |
 | Asus ROG Zephyrus G14               | A laptop you can take to class, but can double as a gaming machine.                                   |
 | Lenovo Yoga Book 9i                 | A dual-screen laptop that works for art or design classes, or a laptop with versatile configurations. |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -253,6 +249,10 @@ These are the factors that I weighed when selecting the best laptops for college
 * **Portability:** Carrying around a heavy laptop all day while on campus is a tough ask. That's why all five of these laptops were considered to be light enough to be carried around a full day at school, the heaviest of which (the Acer Aspire Go 15) is only 3.7 pounds.
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is mostly limited to mid-range devices.
@@ -262,7 +262,7 @@ While every computing platform has its loyal supporters, most people end up usin
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the difference between a Chromebook and a Windows or Mac laptop?
@@ -317,24 +317,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-compre-written-analysis-hero4-black-operations/"><u>[New] 2024 Approved Compre Written Analysis Hero4 Black Operations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-female-gamers-faction-yts-10-stars-for-2024/"><u>[New] Female Gamers Faction YT's #10 Stars for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-viewfinder-verdicts-summary-for-2024/"><u>[New] Viewfinder Verdicts Summary for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-jest-jammer-photo-assembler/"><u>[Updated] 2024 Approved Jest Jammer Photo Assembler</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-curtail-unexpected-youtube-recommendations-for-2024/"><u>[Updated] Curtail Unexpected YouTube Recommendations for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-precision-scheduling-for-peak-performance-a-guide-to-slack-filmora-meetings/"><u>[Updated] Precision Scheduling for Peak Performance A Guide to Slack-Filmora Meetings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-one-on-one-youtube-streams-on-mobile-without-thousanders-club/"><u>2024 Approved One-on-One Youtube Streams on Mobile Without Thousanders' Club</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/1724313688388-cookiebot-driven-marketing-automation-solutions/"><u>Cookiebot-Driven Marketing Automation Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-ev-models-according-to-industry-experts-greencartech/"><u>Discover the Leading EV Models According to Industry Experts | GreenCarTech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-comfortable-travel-pillows-for-your-journey-recommended-by-zdnet/"><u>Discover the Most Comfortable Travel Pillows for Your Journey - Recommended by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-auto-detailers-zdnets-pick-of-the-best-car-vacuums-for-a-spotless-ride/"><u>Discover the Ultimate Auto Detailers: ZDNet's Pick of the Best Car Vacuums for a Spotless Ride</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/electric-future-fuels-as-gm-and-samsung-sdi-announce-joint-venture-planning-3-billion-ev-battery-plant-in-america/"><u>Electric Future Fuels as GM and Samsung SDI Announce Joint Venture, Planning $3 Billion EV Battery Plant in America</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elon-musk-reveals-tesla-cybertrucks-amphibious-abilities-for-river-lake-and-sea-crossings-tech-news-by-zdnet/"><u>Elon Musk Reveals Tesla Cybertruck's Amphibious Abilities for River, Lake & Sea Crossings | Tech News by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhanced-audio-experience-in-teslas-with-upcoming-airplay-compatibility-carplay-not-on-the-table/"><u>Enhanced Audio Experience in Teslas with Upcoming AirPlay Compatibility; CarPlay Not on the Table</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-gear-upgrades-top-4-accessories-every-dji-mini-3-pro-pilot-needs-insights-from-zdnet/"><u>Essential Gear Upgrades: Top 4 Accessories Every DJI Mini 3 Pro Pilot Needs - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-travel-credit-cards-for-first-time-users-a-guide-by-zdnet/"><u>Essential Travel Credit Cards for First-Time Users: A Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-of-transportation-how-chinas-sky-train-combines-magnetic-levitation-and-ai-to-redefine-rail-travel-insights-from-zdnet/"><u>Exploring the Future of Transportation: How China's Sky Train Combines Magnetic Levitation and AI to Redefine Rail Travel | Insights From ZDNET</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-tecno-phantom-v-fold-by-drfone-android/"><u>How to Bypass FRP on Tecno Phantom V Fold?</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/secure-your-microsoft-office-2019-quality-tools-for-windows-and-mac-exclusive-deal-under-26-at-zdnet/"><u>Secure Your Microsoft Office 2019: Quality Tools for Windows & Mac - Exclusive Deal Under $26 at ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-guide-to-video-recording-for-2024/"><u>[Updated] Gamer's Guide to Video Recording for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-tip-post-youtube-content-dont-twit-for-2024/"><u>[Updated] Social Media Tip Post YouTube Content, Don't Twit for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-your-dream-gaming-station-the-ultimate-guide-insights-from-zdnet/"><u>Building Your Dream Gaming Station: The Ultimate Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/crafting-musical-bliss-a-comprehensive-overview-of-nest-audio-for-sound-enthusiasts/"><u>Crafting Musical Bliss: A Comprehensive Overview of Nest Audio for Sound Enthusiasts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994747909-fix-your-civilization-6-startup-troubles-under-windows-10-with-these-simple-solutions/"><u>Fix Your Civilization 6 Startup Troubles Under Windows 10 With These Simple Solutions!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-securely-wipe-personal-data-from-your-windows-laptop-a-step-by-step-guide-free-method-zdnet/"><u>How to Securely Wipe Personal Data From Your Windows Laptop - A Step-by-Step Guide (Free Method) | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apps-on-iphone-15-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apps on iPhone 15?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-perfect-your-mobile-shoot-expert-picks-of-the-best-9-cam-gear/"><u>In 2024, Perfect Your Mobile Shoot Expert Picks of the Best 9 Cam Gear</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-samsung-smart-tv-applications-a-must-know-guide/"><u>Navigating the World of Samsung Smart TV Applications: A Must-Know Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reflecting-on-sixteen-years-mary-jo-foleys-journey-reporting-on-microsoft-at-zdnet/"><u>Reflecting on Sixteen Years: Mary Jo Foley's Journey Reporting on Microsoft at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-get-500-discount-on-elite-msi-gaming-pcs-today-check-out-zdnets-exclusive-deal/"><u>Save Big: Get $500 Discount on Elite MSI Gaming PCs Today - Check Out ZDNet's Exclusive Deal!</u></a></li>
+<li><a href="https://win11.techidaily.com/stretching-your-password-extending-pins-in-windows-oses/"><u>Stretching Your Password: Extending PINs in Windows OSes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-decades-most-ingenious-frames-and-organizers-24-for-2024/"><u>The Decade's Most Ingenious Frames & Organizers '24 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-real-value-of-selfie-verifications-in-2024/"><u>The Real Value of Selfie Verifications, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-role-of-tpm-in-windows-11-essential-insights-from-zdnets-in-depth-analysis/"><u>The Role of TPM in Windows 11: Essential Insights From ZDNet's In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-gaming-computers-pro-tips-and-suggestions-techradar/"><u>Top Rated Affordable Gaming Computers : Pro Tips & Suggestions | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-2023-ram-selection-guide-expert-picks-for-enhanced-productivity-and-immersive-gaming-insights-from-zdnet/"><u>Ultimate 2023 RAM Selection Guide: Expert Picks for Enhanced Productivity & Immersive Gaming - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-miniature-laptop-expansion-unit-turns-it-into-an-all-in-one-workstation-zdnet/"><u>Ultimate Miniature Laptop Expansion Unit Turns It Into an All-in-One Workstation | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-over-50-off-on-samsungs-4tb-portable-ssd-limited-offer-on-amazon-this-labor-day/"><u>Unbelievable Deal: Over 50% Off on Samsung's 4TB Portable SSD - Limited Offer on Amazon This Labor Day!</u></a></li>
 </ul></div>
 

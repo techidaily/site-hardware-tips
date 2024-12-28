@@ -1,7 +1,7 @@
 ---
 title: "Understanding VRR: Why Your Gaming Monitor Might Flicker and How to Stop It Now!"
-date: 2024-09-19T16:37:49.777Z
-updated: 2024-09-21T22:49:14.260Z
+date: 2024-12-26T17:03:46.298Z
+updated: 2024-12-27T17:12:40.943Z
 tags:
   - hardware
 categories:
@@ -41,15 +41,27 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
 ![The Gaming tab in AMD Software listing installed games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-02.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Locate the “AMD FreeSync” option.
 
 ![Individual game settings listed in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-03.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Change the option from “AMD Optimized” or “On” to “Off” and exit AMD Software.
 
 ![AMD FreeSync toggle in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-04.png) 
 
  That’s it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Set a Framerate Cap In Games That Trigger Screen Flickering
 
@@ -73,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
 ![Tweaking maximum frame rate in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-06.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you own an AMD GPU, you can either use the global frame rate cap or a feature called “Radeon Chill” that can play the role of a frame rate limiter for individual games.
 
  To enable the global frame rate limiter, open AMD software, click the “Gaming” tab, then click the “Graphics” tab. Locate the option called “Frame Rate Target Control,” enable it, and limit the max FPS to the desired value.
@@ -82,19 +98,6 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
  To limit FPS for individual games, click the “Games” tab and select the game you want to limit the max FPS for.
 
 ![The Gaming tab in AMD Software listing installed games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-02.png) 
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, scroll down until you see a setting called “Radeon Chill” and enable the option.
 
@@ -108,20 +111,10 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
 ![Customizing Radeon Chill options in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also use a third-party app, such as [RivaTuner Statistics Server](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/) (RTSS), to limit max FPS globally or in specific games.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  VRR Flicker Should Be Less Noticeable At Higher Framerates
@@ -133,10 +126,7 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
  The cutoff value for your monitor could be higher, but the general rule is that as long as your GPU can maintain the frame rate at or above 100fps, you shouldn’t notice any VRR flicker regardless of your monitor's max refresh rate.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Upgrade Your Monitor
@@ -160,5 +150,22 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-perfect-hdr-portraits-with-our-expert-techniques/"><u>[New] Perfect HDR Portraits with Our Expert Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-learning-the-art-of-softly-amplifying-audio-tracks/"><u>[Updated] Learning the Art of Softly Amplifying Audio Tracks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-with-ease-mastering-ifunnys-meme-app/"><u>2024 Approved Navigate with Ease Mastering iFunny's Meme App</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-sata-raid-controller-driver-free-download-guide-for-windows-users/"><u>AMD SATA RAID Controller Driver: Free Download Guide for Windows Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/captivating-features-the-allure-of-filmora-editing/"><u>Captivating Features The Allure of Filmora Editing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-best-buy-wraps-up-its-spectacular-four-day-discount-bonanza-top-picks-for-savvy-shoppers/"><u>Don't Miss Out! Best Buy Wraps Up Its Spectacular Four-Day Discount Bonanza - Top Picks for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-score-apple-m2-macbook-air-at-just-749-this-prime-day-dont-miss-out/"><u>Exclusive Deal Alert: Score Apple M2 MacBook Air at Just $749 This Prime Day – Don't Miss Out!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-completa-maximizando-el-espacio-libre-en-su-unidad-de-almacenamiento-digital/"><u>Guía Completa: Maximizando El Espacio Libre en Su Unidad De Almacenamiento Digital</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guia-paso-a-paso-para-restaurar-una-particion-efi-danada-en-windows-11-tecnicas-duplicadas/"><u>Guía Paso a Paso Para Restaurar Una Partición EFI Dañada en Windows 11 (Técnicas Duplicadas)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-12withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 12with/without a PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/post-prime-day-extravaganza-continues-with-8tb-samsung-t5-ssd-offers-enjoy-a-steep-36-discount-now-on-amazon-insights-from-zdnet/"><u>Post-Prime Day Extravaganza Continues with 8TB Samsung T5 SSD Offers: Enjoy a Steep 36% Discount Now on Amazon | Insights From ZDNET</u></a></li>
+<li><a href="https://win-popular.techidaily.com/story-1-misunderstanding-the-system32-directory-answer-a/"><u>Story 1: Misunderstanding the System32 Directory (Answer A)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-disappointing-reality-of-the-asus-expertbook-b3-detachable-a-closer-look-on-its-shortcomings/"><u>The Disappointing Reality of the ASUS ExpertBook B3 Detachable – A Closer Look on Its Shortcomings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-the-power-of-multi-device-connection-with-our-discounted-10-in-1-hub-saving-you-35-exclusively/"><u>Unleash the Power of Multi-Device Connection with Our Discounted 10-in-1 Hub – Saving You 35%, Exclusively !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-extravagant-perks-of-dells-3k-high-end-gamer-an-in-depth-review-from-zdnet/"><u>Unveiling the Extravagant Perks of Dell's $3K High-End Gamer: An In-Depth Review From ZDNet</u></a></li>
+</ul></div>
 

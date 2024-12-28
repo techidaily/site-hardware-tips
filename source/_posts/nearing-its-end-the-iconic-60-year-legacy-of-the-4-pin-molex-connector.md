@@ -1,7 +1,7 @@
 ---
 title: "Nearing Its End: The Iconic 60-Year Legacy of the 4-Pin Molex Connector"
-date: 2024-09-18T23:29:41.492Z
-updated: 2024-09-22T07:18:48.856Z
+date: 2024-12-26T17:36:06.013Z
+updated: 2024-12-27T23:26:09.011Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ## Nearing Its End: The Iconic 60-Year Legacy of the 4-Pin Molex Connector
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The 4-pin Molex power connector is a pin-and-socket design used for sending power.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 * Very few modern computer components use Molex connectors today, mostly found in low-budget case fans.
 
  For the entirety of my PC building career, the 4-pin Molex power connector has been there. At one point it felt like everything on my computer used it, but my love-hate relationship with this common connector is almost at an end, it seems. So it's time to prepare the eulogy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Say Hello to the 4-Pin Molex
 
@@ -34,16 +42,7 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
  Establishing the basic facts of the Molex connector's history outside the Wikipedia entry (which has its own issues), proved a little tricky. This seems to be the [1962 patent](https://patents.google.com/patent/US3178673A/en) for the original. Likewise, facts about the Mate-n-Lok and the later 8981 connectors are also hard to nail down, though, of course, we all used them! Even looking for information about them on Molex or TE Connectivity's own sites doesn't yield much, so I've tried to stick to the basics.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Good, the Bad, and the Ugly of the 4-Pin Molex
@@ -54,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ![Two Molex connectors to one 6-pin PCI Express connector on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_244972945.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Olga Popova / Shutterstock.com](https://www.shutterstock.com/image-photo/two-molex-connectors-one-6pin-pci-244972945)
 
  Putting together a system using Molex connectors is a breeze, downright pleasant even. However, when the time came to take that system apart or upgrade or replace a component, the Molex connector demanded its sacrifices. I owe many busted knuckles, torn nails, and once even a cut lip to stubborn Molex connectors that just don't want to let go.
@@ -63,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
  Also, while Molex represented a standard, some companies stuck to it so loosely, that quality could be widely different between cables. The only [computer fire](https://win-solutions.techidaily.com/solved-monster-hunter-rise-wont-start-fixed-solution-inside/) I have personally experienced was caused by a cheap Molex connector which shorted and melted, as flames licked out of the computer's vents. This isn't really the fault of the Molex connector design, just a symptom of a connector that anyone could make, and so some were made poorly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How the 4-Pin Molex Is Hanging on Today
@@ -90,5 +90,22 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-get-clear-coffee-stain-free-images-using-ioss-free-app/"><u>[New] In 2024, Get Clear, Coffee Stain-Free Images Using iOS's Free App</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-fueling-inspiration-crafting-engaging-channel-content/"><u>[Updated] Fueling Inspiration Crafting Engaging Channel Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unveiling-the-metaverse-and-multimetase-core-disparities-explored/"><u>2024 Approved Unveiling the Metaverse & MultiMetase Core Disparities Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-elite-lineup-of-oled-laptops-in-depth-analysis-and-expert-ratings-zdnet/"><u>2024'S Elite Lineup of OLED Laptops: In-Depth Analysis and Expert Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-powerhouse-why-the-discounted-lenovo-laptop-is-a-game-changer-for-hybrid-work-environments-digitalworklifereviews/"><u>Affordable Powerhouse: Why the Discounted Lenovo Laptop Is a Game Changer for Hybrid Work Environments | DigitalWorkLifeReviews</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversion-gratuite-de-fichiers-mka-vers-mkv-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichiers MKA Vers MKV en Ligne - Avec Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-chromebooks-dominated-tech-trends-insights-from-zdnet/"><u>Discover How Chromebooks Dominated Tech Trends : Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/empower-chromeos-creators-through-user-reviews-the-importance-of-sharing-zdnets-exclusive-tips/"><u>Empower ChromeOS Creators Through User Reviews - The Importance of Sharing | ZDNet's Exclusive Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-your-dream-machine-exclusive-black-friday-sale-with-40-off-on-the-top-tier-gigabyge-a5-k1-gaming-laptop-zdnets-pick/"><u>Grab Your Dream Machine: Exclusive Black Friday Sale with 40% Off on the Top-Tier Gigabyge A5 K1 Gaming Laptop | ZDNET's Pick</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/j5s-pro-model-flashlight-version-1-unleashed-a-detailed-assessment-on-its-sturdy-small-sized-radiance/"><u>J5's Pro Model Flashlight Version 1 Unleashed - A Detailed Assessment on Its Sturdy, Small-Sized Radiance</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-10-best-podcast-recording-software/"><u>New 2024 Approved 10 Best Podcast Recording Software</u></a></li>
+<li><a href="https://win11.techidaily.com/prolonging-pc-shutdown-in-windows-10-with-open-apps/"><u>Prolonging PC Shutdown in Windows 10 With Open Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-evolution-of-screenless-ar-laptops-advanced-more-affordable-models-unveiled-in-depth-review-by-zdnet/"><u>The Evolution of Screenless AR Laptops - Advanced, More Affordable Models Unveiled | In-Depth Review by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-snag-essential-presents-from-best-buys-impromptu-bargain-event-featured-on-zdnet/"><u>Ultimate Guide: Snag Essential Presents From Best Buy’s Impromptu Bargain Event - Featured on ZDNet!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme V30T? | Dr.fone</u></a></li>
+</ul></div>
 

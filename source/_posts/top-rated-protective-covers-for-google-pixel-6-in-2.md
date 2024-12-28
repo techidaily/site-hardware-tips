@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Protective Covers for Google Pixel 6 in 2
-date: 2024-09-11T17:29:41.388Z
-updated: 2024-09-16T16:28:45.451Z
+date: 2024-12-20T23:56:23.795Z
+updated: 2024-12-27T21:36:39.752Z
 tags:
   - android
 categories:
@@ -67,6 +67,11 @@ Best Thin Pixel 6 Case
 * [](https://click.linksynergy.com/deeplink?id=2QzUaswX1as&mid=43345&u1=UUhtgUeUpU208000&murl=https%3A%2F%2Fbellroy.com%2Fproducts%2Fleather-case-for-samsung-galaxy%3Fcolor%3Dblack%26material%3Dleather%26size%3Ds22)  
 ![bellroy_leather_case-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/bellroy_leather_case-1.jpg)  
 #####  Bellroy Leather Case  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Leather Pixel 6 Case  
 [See at Bellroy](https://click.linksynergy.com/deeplink?id=2QzUaswX1as&mid=43345&u1=UUhtgUeUpU208000&murl=https%3A%2F%2Fbellroy.com%2Fproducts%2Fleather-case-for-samsung-galaxy%3Fcolor%3Dblack%26material%3Dleather%26size%3Ds22)
 
@@ -97,13 +102,6 @@ Best Leather Pixel 6 Case
 
 [![Spigen cases on Pixel 6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/spigen-liquid-armor-pixel-6.jpg) Spigen](https://www.amazon.com/Spigen-Liquid-Armor-Designed-Google/dp/B0964HKSRG/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [](https://www.amazon.com/Spigen-Liquid-Armor-Designed-Google/dp/B0964HKSRG/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
 
 | Pros                            | Cons                                |
@@ -129,6 +127,10 @@ Best Leather Pixel 6 Case
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Pixel 6 Case Overall
 
 #####  Spigen Liquid Air Armor
@@ -136,6 +138,10 @@ Best Pixel 6 Case Overall
 Spigen Liquid Air Armor is a great all-rounder case for the Pixel 6\. It comes with drop protection and an enhanced grip in a slim form factor.
 
 [See at amazon](https://www.amazon.com/Spigen-Liquid-Armor-Designed-Pixel/dp/B09S8SFX2S?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Best Budget Pixel 6 Case: [Caseology Vault](https://www.amazon.com/Caseology-Vault-Protective-Compatible-Google/dp/B096T7VRF3/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
 
@@ -169,14 +175,11 @@ Spigen Liquid Air Armor is a great all-rounder case for the Pixel 6\. It comes w
 
 ![41zTW-40iCL._SL500_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41ztw-40icl-_sl500_-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Budget Pixel 6 Case
 
@@ -188,11 +191,19 @@ The Caseology Vault has all the basics of a good case, and it doesn't cost a for
 
 [$18 at amazon](https://www.amazon.com/Caseology-Keychain-Carabiner-Included-Generation/dp/B0B75YQ5BL?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Pixel 6 Wallet Case: [VRS Design Damda Glide Pro](https://www.amazon.com/VRS-DESIGN-Sturdy-Wallet-Compatible/dp/B06XB9DP8P/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/VRS-DESIGN-Sturdy-Wallet-Compatible/dp/B06XB9DP8P/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce)
 
 [![VRS wallet case on table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/vrs-design-damda-case.jpg) VRS Design](https://www.amazon.com/VRS-DESIGN-Sturdy-Wallet-Compatible/dp/B06XB9DP8P/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [](https://www.amazon.com/VRS-DESIGN-Sturdy-Wallet-Compatible/dp/B06XB9DP8P/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
 
@@ -212,13 +223,6 @@ The Caseology Vault has all the basics of a good case, and it doesn't cost a for
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41sxnybkf6l-_sl500_.jpg) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Best Pixel 6 Wallet Case
 
@@ -264,11 +268,19 @@ Otterbox makes some of the best rugged cases on the market, and its Defender Ser
 
 [See at amazon](https://www.amazon.com/OtterBox-Defender-Rugged-iPhone-Holster/dp/B09RG1SW27?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Clear Pixel 6 Case: [Ringke Fusion](https://www.amazon.com/Ringke-Fusion-Compatible-Shockproof-Protective/dp/B09F9WXGFF/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Ringke-Fusion-Compatible-Shockproof-Protective/dp/B09F9WXGFF/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce)
 
 [![Ringky Google Pixel 6 cases on blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ringe-clear-case.jpg) Ringke](https://www.amazon.com/Ringke-Fusion-Compatible-Shockproof-Protective/dp/B09F9WXGFF/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [](https://www.amazon.com/Ringke-Fusion-Compatible-Shockproof-Protective/dp/B09F9WXGFF/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
 
@@ -289,6 +301,10 @@ Otterbox makes some of the best rugged cases on the market, and its Defender Ser
 
 ![blank](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/blank.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Clear Pixel 6 Case
@@ -299,18 +315,15 @@ Looking to show off the Pixel 6? Ringke Fusion is made of transparent TPU and po
 
 [See at amazon](https://www.amazon.com/Ringke-Fusion-Compatible-Shockproof-Protective/dp/B09F9WXGFF/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Thin Pixel 6 Case: [Spigen Thin Fit](https://www.amazon.com/Spigen-Thin-Designed-Google-Pixel/dp/B0964HQCVD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Spigen-Thin-Designed-Google-Pixel/dp/B0964HQCVD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce)
 
 [![Spigen Thin Fit cases on pink background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/spigen-thin-fit.jpg) Spigen](https://www.amazon.com/Spigen-Thin-Designed-Google-Pixel/dp/B0964HQCVD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://www.amazon.com/Spigen-Thin-Designed-Google-Pixel/dp/B0964HQCVD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208000&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F767099%2Fbest-google-pixel-6-case%2F&asc%5Fcampaign=Commerce) 
 
@@ -347,13 +360,6 @@ The Spigen Thin Fit provides a decent level of protection to the Pixel 6 without
 [](https://click.linksynergy.com/deeplink?id=2QzUaswX1as&mid=43345&u1=UUhtgUeUpU208000&murl=https%3A%2F%2Fbellroy.com%2Fproducts%2Fleather-case-for-pixel-6%3Fmaterial%3Dleather%26size%3Dpixel6%26color%3Dblack&ourl=https%3A%2F%2Fbellroy.com%2Fproducts%2Fleather-case-for-pixel-6%2Fleather%5Fpixel6%2Fblack%23slide-0)
 
 [![Bellroy case on dark grey background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/bellroy.jpg) Bellroy](https://click.linksynergy.com/deeplink?id=2QzUaswX1as&mid=43345&u1=UUhtgUeUpU208000&murl=https%3A%2F%2Fbellroy.com%2Fproducts%2Fleather-case-for-pixel-6%3Fmaterial%3Dleather%26size%3Dpixel6%26color%3Dblack&ourl=https%3A%2F%2Fbellroy.com%2Fproducts%2Fleather-case-for-pixel-6%2Fleather%5Fpixel6%2Fblack%23slide-0)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://click.linksynergy.com/deeplink?id=2QzUaswX1as&mid=43345&u1=UUhtgUeUpU208000&murl=https%3A%2F%2Fbellroy.com%2Fproducts%2Fleather-case-for-pixel-6%3Fmaterial%3Dleather%26size%3Dpixel6%26color%3Dblack&ourl=https%3A%2F%2Fbellroy.com%2Fproducts%2Fleather-case-for-pixel-6%2Fleather%5Fpixel6%2Fblack%23slide-0) 
 
@@ -398,5 +404,20 @@ The Bellroy case looks beautiful and is made with premium leather. It also has a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-hourly-highlight-reel-1-to-10-on-youtubes-view-chart-for-2024/"><u>[New] Hourly Highlight Reel #1 to #10 on YouTube's View Chart for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-vs-gopro-hero-session-and-polaroid-cube-top-pick-for-filmmakers/"><u>[Updated] Vs. GoPro Hero Session & Polaroid Cube Top Pick for Filmmakers</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-frames-per-second-fps-and-solve-stuttering-issues-in-valorant-a-comprehensive-guide/"><u>Boost Your Frames per Second (FPS) & Solve Stuttering Issues in Valorant: A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-zte-nubia-flip-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your ZTE Nubia Flip 5G Is Unlocked</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-realme-narzo-60-pro-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Realme Narzo 60 Pro 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/liberating-c-span-content-a-guide-to-unauthorized-downloads-for-2024/"><u>Liberating C-Span Content A Guide to Unauthorized Downloads for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/premier-touchscreen-computers-unveiled-by-tech-experts-comprehensive-reviews/"><u>Premier Touchscreen Computers Unveiled by Tech Experts - Comprehensive Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-and-simple-steps-converting-your-mp3-files-into-speedy-wma-format/"><u>Quick & Simple Steps: Converting Your MP3 Files Into Speedy WMA Format</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-ultimate-virtual-reality-bargain-this-october-with-metas-premium-512gb-quest-3-at-steep-discount-prices-tech-spotlight-by-zdnet/"><u>Snag the Ultimate Virtual Reality Bargain This October with Meta's Premium 512GB Quest 3 at Steep Discount Prices | Tech Spotlight by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/testing-the-limits-why-microsofts-surface-devices-are-outperforming-my-macbook-a-firsthand-review/"><u>Testing the Limits: Why Microsoft's Surface Devices Are Outperforming My MacBook – A Firsthand Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-the-ultra-versatile-laptop-that-wins-hearts-and-delivers-powerful-performance-insights-from-zdnet/"><u>Top Pick: The Ultra-Versatile Laptop That Wins Hearts and Delivers Powerful Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-lenovo-devices-ideal-for-remote-and-office-work-with-a-1000-discount/"><u>Top-Rated Lenovo Devices Ideal for Remote and Office Work with a $1,000 Discount</u></a></li>
+</ul></div>
 

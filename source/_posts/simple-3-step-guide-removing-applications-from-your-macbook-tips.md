@@ -1,7 +1,7 @@
 ---
 title: "Simple 3-Step Guide: Removing Applications From Your MacBook - Tips"
-date: 2024-12-17T08:42:41.163Z
-updated: 2024-12-22T04:59:47.815Z
+date: 2024-12-20T19:22:41.820Z
+updated: 2024-12-28T00:19:13.381Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Image: Tamilisa Miller via iStock/Getty Images
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -29,7 +29,7 @@ Image: Tamilisa Miller via iStock/Getty Images
 [![dull.png](https://www.zdnet.com/a/img/resize/46440aeab6134c6c72e7fac79ce7789f38626eb9/2021/04/22/d3d18a7c-20db-4a54-aefb-401cea844d6c/dull.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Macs Apple's Mac lineup can be confusing as the company transitions from Intel processors to its own Apple Silicon processors. But we're here to help.  Read now](https://www.zdnet.com/article/best-mac/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Out with the old, in with the new. If you've recently decided to [clear out some extra space](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/) or you finally went through your credit card statement and [canceled those subscriptions](https://www.zdnet.com/home-and-office/home-entertainment/how-to-cancel-apple-music-without-itunes/) you'd forgotten about, then you may be wondering how to delete those apps from your MacBook. 
@@ -38,11 +38,11 @@ The truth is that deleting apps in MacOS is as easy as 1, 2, 3, literally. Just 
 
 **Also:** [**I put the Apple Watch Ultra through a Tough Mudder. Here's how it held up**](https://www.zdnet.com/article/apple-watch-ultra-review/)
 
-##  How to delete apps on a MacBook
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##  How to delete apps on a MacBook
 
 ## 1\. Open Launchpad
 
@@ -51,7 +51,7 @@ Go to the dock and click on the Launchpad icon or access Launchpad via the Appli
 Image: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Click and hold app
@@ -76,11 +76,11 @@ Once you click on the X or Delete button at the top left corner, a message will 
 
 Image: Maria Diaz/ZDNET
 
-##  FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##  FAQ
 
 ##  Why can't I delete apps from my MacBook?
 
@@ -140,21 +140,18 @@ Simply deleting an app will not cancel any membership or subscription you may ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-discover-the-perfect-tunefab-recorder-for-your-needs/"><u>[New] In 2024, Discover the Perfect Tunefab Recorder for Your Needs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/concoction-station/"><u>Clip Concoction Station</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/elevate-your-viewing-with-4k-quality-downloading-and-watching-in-true-hd/"><u>Elevate Your Viewing with 4K Quality - Downloading & Watching in True HD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-ipadiphone-picture-upload-error-a-detailed-guide-for-windows-users/"><u>Fixing the iPad/iPhone Picture Upload Error: A Detailed Guide for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/quick-and-painless-ways-to-screen-record-stories/"><u>Quick & Painless Ways to Screen Record Stories</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-almost-half-grab-a-4tb-samsung-t5-usb-c-ssd-from-amazon-exclusive-deal-covered-by-zdnet/"><u>Save Almost Half: Grab a 4TB Samsung T5 USB-C SSD From Amazon - Exclusive Deal Covered by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-newest-ipad-deal-at-just-199-exclusive-amazon-labor-day-discount/"><u>Secure Your Newest iPad Deal at Just $199 - Exclusive Amazon Labor Day Discount!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/surprising-value-alert-discover-the-unbeatable-best-laptop-deals-for-less-than-700/"><u>Surprising Value Alert: Discover the Unbeatable Best Laptop Deals for Less Than $700</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722592072851-the-ultimate-streaming-budget-buy-the-ns-4nsiaga-fire-tv-edition-smart-high-definition-and-affordable/"><u>The Ultimate Streaming Budget Buy: The NS-4nsiaga Fire TV Edition - Smart, High Definition, and Affordable!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-cutting-edge-smart-display-picks-unveiled-by-zdnet/"><u>Top 5 Cutting-Edge Smart Display Picks Unveiled by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-intelligent-display-models-find-your-perfect-choice-insights-from-zdnet/"><u>Top 5 Intelligent Display Models : Find Your Perfect Choice - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-affordable-tablets-of-2024-expertly-evaluated-and-comprehensive-reviews-techradar/"><u>Top Affordable Tablets of 2024: Expertly Evaluated & Comprehensive Reviews | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-apple-gadgets-to-avoid-purchasing-in-month-spotlight-on-certain-iphone-models-tech-insight/"><u>Top Apple Gadgets to Avoid Purchasing in [Month] - Spotlight on Certain iPhone Models | Tech Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-gaming-tablets-of-2022-experience-ultimate-portable-playstation-power-techradar/"><u>Top Gaming Tablets of 2022: Experience Ultimate Portable PlayStation Power | TechRadar</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-view-bots-how-to-increase-youtube-views-for-2024/"><u>YouTube View Bots How to Increase YouTube Views for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-comedic-counterpoints-funny-song-flips/"><u>[New] 2024 Approved Comedic Counterpoints Funny Song Flips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-launching-your-sports-network-from-a-mac-desktop/"><u>[New] In 2024, Launching Your Sports Network From a Mac Desktop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-trick-elevate-your-mac-mini-to-studio-status-for-just-75-cnet-gadgets/"><u>Budget-Friendly Trick: Elevate Your Mac Mini to Studio Status for Just $75! | CNET Gadgets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/digital-training-footage/"><u>Digital Training Footage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-non-responsive-sound-settings-on-your-windows-tenth-device/"><u>Easy Fixes for Non-Responsive Sound Settings on Your Windows Tenth Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-12plus-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme 12+ 5G Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-workflow-with-the-ultimate-16-port-docking-station-for-creative-professionals-zdnet/"><u>Maximize Your Workflow with the Ultimate 16-Port Docking Station for Creative Professionals | ZDNet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-free-ip-camera-software-2023s-top-picks-for-secure-monitoring/"><u>New In 2024, Best Free IP Camera Software 2023S Top Picks for Secure Monitoring</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pros-choice-the-ultimate-list-of-premium-graphic-design-displays-as-tested-by-experts-zdnet/"><u>Pro's Choice : The Ultimate List of Premium Graphic Design Displays as Tested by Experts | ZDNET</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solved-issues-with-life-is-strange-true-colors-performance-hiccups/"><u>Solved Issues with Life Is Strange: True Colors Performance Hiccups</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-usb-hubs-expert-reviews-and-buyers-guide-zdnet/"><u>Top 5 Premium USB Hubs : Expert Reviews & Buyer's Guide - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-microsofts-hidden-gems-essential-surface-accessories-now-available-for-enterprise-use/"><u>Unveiling Microsoft's Hidden Gems: Essential Surface Accessories Now Available for Enterprise Use</u></a></li>
 </ul></div>
 

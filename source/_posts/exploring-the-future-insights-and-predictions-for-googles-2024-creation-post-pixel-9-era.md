@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future: Insights and Predictions for Google's 2024 Creation - Post-Pixel 9 Era"
-date: 2024-09-01T08:27:29.074Z
-updated: 2024-09-02T08:27:29.074Z
+date: 2024-12-24T20:39:48.692Z
+updated: 2024-12-27T18:37:05.092Z
 tags:
   - android
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
 
  Google's August launch event is right upon us, and as we inch closer to the marked date, we're coming across more leaks and rumors about the devices the company will launch. One by one, let's discuss all the products the company could unveil at the "Made by Google" launch event on August 13th.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Google Moves Up Its Pixel Launch Event by Nearly Two Months
 
 ![Image of the Pixel 9 Pro in Porcelain and Pixel 9 Pro Fold in Obsidian finishes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/google-pixel-9-pro-and-pixel-9-pro-fold.png) 
@@ -32,8 +36,9 @@ Google
  From the first Pixel phone in 2016 to [the Pixel 8](https://youtube-tips.techidaily.com/24-simple-guide-youtube-to-mp3-on-mac/) released in 2023, Google has launched its flagship smartphones in October. However, this year, the Alphabet-owned company moved up its "Made by Google" launch event to Tuesday, August 13th. While the company didn't provide a reason for it, nor did the Pixel fans ask for it, there's a chance that Google wants to present customers with a refreshed smartphone before [Apple does it in September with the iPhone 16](https://techidaily.com/what-you-need-to-know-to-improve-your-realme-narzo-n55-hard-reset-drfone-by-drfone-reset-android-reset-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How To Watch The Made By Google August Launch Event?
 
  While Google will hold an in-person event at its headquarters in Mountain View, California, fans can watch the livestream on its official YouTube channel at 10 AM PT on August 13, 2024\. Enthusiasts can attend the "Made by Google Event Watch Party" at the [Google Visitor Experience Huddle](https://rsvp.withgoogle.com/events/made-by-google-event-watch-party-mtv-08132024) in Mountain View. The company will also publish all the details about the new products, features, and services announced at the event on its official website.
@@ -43,8 +48,9 @@ Google
 ![Spaceship blasting off into space as an Android robot watches.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/android-15-spaceship-blast-off.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 DALL-E 3
 
  With the [Android 15 beta reaching platform stability in June](https://extra-resources.techidaily.com/best-live-stream-tools-xsplit-or-obs-in-2024/), we'll get to see the public version at the Made by Google event. With new features like widget previews, custom vibrations, partial screen recording, satellite connectivity support, [Private Space](https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nubia-red-magic-9-proplus-by-drfone-android/), and anti-theft protection, Android 15 is going to be one of the most significant operating system upgrades, with a focus on AI. The new devices launched at the event will ship with it, and compatible smartphones like the Pixel 8 and [Pixel 7](https://video-content-creator.techidaily.com/new-split-mkv-videos-with-ease-top-10-free-software-options-for-2024/) series should get an OTA update after August 13.
@@ -57,9 +63,6 @@ DALL-E 3
 
 ![Close up shot of the Pixel 9 Pro's camera visor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/google-pixel-9-pro-in-porcelain-color.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Google
 
  Like every year, there's going to be [the vanilla Pixel 9 and a Pixel 9 Pro](https://ai-live-streaming.techidaily.com/new-master-amazon-live-features-pro-tips-and-future-trends-for-2024/). However, there's more to it than it sounds. The standard Pixel 9 will feature a 6.3-inch screen, a dual rear camera setup with a 50MP primary sensor, and more RAM than the outgoing Pixel 8\. According to leaked renders, the phone could come in four colors, including Rose (a bright pink shade), Hazel (light green), Porcelain (off-white), and Obsidian (dark gray).
@@ -68,14 +71,15 @@ Google
 
  All the models will be powered by the Tensor G4 SoC, which, according to new reports, could be a minor improvement over [the Tensor G3 on the Pixel 8 series](https://tiktok-clips.techidaily.com/2024-approved-copying-safely-on-tiktok-a-2023-guide-to-rights-checks/). What's exciting is that the processor could use a new modem, improving its overall efficiency. To summarize, Google could unveil three smartphones as part of the Pixel 9 series.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Pixel 9 Pro Fold Could Arrive With a New Camera Module
 
  Apart from the Pixel 9 series, Google will also unveil the much-anticipated successor to its one and only foldable. The [company has already confirmed the Pixel 9 Pro Fold](https://techno-recovery.techidaily.com/quick-and-easy-steps-to-determine-which-windows-os-youre-running/). It is still a successor to the Pixel Fold from 2023, just that Google has improvised the name a bit. As seen in a teaser, the smartphone won't feature the horizontal camera visor on every Pixel phone launched in recent years. Instead, the phone has a square-ish camera module placed on the rear panel's top left corner. The foldable is also expected to be slightly thinner, taller, and lighter than the original Pixel Fold.
 
  We're also expecting a significant improvement in the phone's durability, and to achieve that, Google must work on the phone's frame, hinge, and flexible display. Like the rest of the Pixel 9 series, the Pixel 9 Pro Fold will also feature the Tensor G4 SoC. According to a report by [91Mobiles](https://www.91mobiles.com/hub/exclusive-google-pixel-9-series-promo-material-design-specs-ai-features/), the Pixel 9 Pro Fold could feature a 6.3-inch cover screen on the outside and an 8-inch foldable screen on the inside. Besides, the book-style foldable could share its specifications with the Pixel 9 Pro series. We're talking about similar performance, RAM/storage configurations, and cameras.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Pixel Watch 3 Could Also Show Up
 
@@ -86,15 +90,13 @@ Justin Duino / How-To Geek
  Google could also reveal the Pixel Watch 3 on August 13\. According to an [Android Authority](https://www.androidauthority.com/exclusive-google-pixel-watch-3-changes-3458593/) report, the smartwatch could come in two sizes: 41mm and 45mm. Furthermore, Google will offer them both Wi-Fi and cellular variants. With the Pixel Watch 3, the company will address one of the most common complaints that users had with [the Pixel Watch 2](https://youtube-lab.techidaily.com/ractical-techniques-for-rapid-deletion-of-comments/): thick bezels. Thinner bezels, a brighter screen, and support for ultra-wideband technology could be the main highlights of the purported wearable. Regarding colors, the Pixel Watch 3's 41mm variant could come in four combinations, while the 45mm variant could come in three colorways.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What About The Pixel Buds Pro 2?
 
 ![The Google Pixel Buds Pro 2 in gray, black, green, and red colorways.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 Google
 
  Most recently, a [Reddit](https://www.reddit.com/r/pixelbuds/comments/1eaz8zt/pixel%5Fbuds%5Fpro%5F2%5Fdesign%5Fleak/#lightbox) user spotted the Amazon listing of the Pixel Buds Pro 2, the successor to the [Pixel Buds Pro launched a few years ago](https://eaxpv-info.techidaily.com/updated-harnessing-the-power-of-visual-appeal-in-your-youtube-advertising-for-2024/). As seen in the listing, the upcoming earbuds could feature similar dimensions to their predecessor. However, we might see new colors, a larger outer grill (on the top of the earbuds), and a speaker grill for locating the earbuds. Besides, the company could also improve the overall sound quality, noise cancelation, and battery life. Moreover, Google has a lot in store for us: the Pixel 9 series, the Pixel 9 Pro Fold, the Pixel Watch 3, and the Pixel Buds 2 Pro.
@@ -105,8 +107,6 @@ Google
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +114,21 @@ Google
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-intro-magic-unmatched-editors-across-all-tech/"><u>[Updated] In 2024, Intro Magic Unmatched Editors Across All Tech</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-10plus-best-free-online-screen-recorders-for-2024/"><u>[Updated] Top 10+ Best Free Online Screen Recorders for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/windows-11-virtualbox/"><u>正しい手順で Windows 11 が実行可能な VirtualBox へのインストールガイド</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-rush-for-black-friday-get-your-samsung-t5-ssd-at-a-massive-48-off-before-the-prime-day-extravaganza/"><u>Beat the Rush for Black Friday: Get Your Samsung T5 SSD at a Massive 48% Off Before the Prime Day Extravaganza</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-digital-sidekick-alexa-vs-google-assistant-determining-the-right-fit/"><u>Choosing Your Digital Sidekick: Alexa Vs. Google Assistant - Determining the Right Fit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dell-upgrades-its-acclaimed-xps-series-now-packed-with-advanced-ai-capabilities-and-stunning-designs-insights-from-zdnet/"><u>Dell Upgrades Its Acclaimed XPS Series: Now Packed with Advanced AI Capabilities and Stunning Designs - Insights From ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/determining-the-right-intervals-when-to-perform-file-backups-effectively/"><u>Determining the Right Intervals: When to Perform File Backups Effectively?</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-selected-and-evaluated-ultimate-list-of-premium-online-notekeepers-for-purchase/"><u>Expertly Selected & Evaluated Ultimate List of Premium Online Notekeepers for Purchase</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Identify missing drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-design-how-lenovos-newest-2-in-1-laptop-defies-expectations-a-zdnet-review/"><u>Revolutionary Design: How Lenovo's Newest 2-in-1 Laptop Defies Expectations – A ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sale-alert-secure-a-36-discount-on-the-durable-8tb-samsung-portable-ssd-at-amazon-insights-from-zdnet/"><u>Sale Alert: Secure a 36% Discount on the Durable 8TB Samsung Portable SSD at Amazon - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-immediate-discounts-on-m1-macbook-air-save-hundreds-with-us-today-techguide/"><u>Unlock Immediate Discounts on M1 MacBook Air - Save Hundreds with Us Today! | TechGuide</u></a></li>
+</ul></div>
 

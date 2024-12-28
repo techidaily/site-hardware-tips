@@ -1,7 +1,7 @@
 ---
 title: Take Your Game On-The-Go with Dell’s Latest Ultraportable Gaming Laptop – Featured
-date: 2024-12-20T17:15:48.035Z
-updated: 2024-12-21T19:06:56.295Z
+date: 2024-12-25T22:36:31.562Z
+updated: 2024-12-27T18:25:30.769Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,18 +114,14 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-depth-guide-to-2023s-leading-web-capture-applications-for-2024/"><u>[New] In-Depth Guide to 2023’S Leading Web Capture Applications for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-scooping-strategies-review-rundown/"><u>[New] SCOOPING STRATEGIES Review Rundown</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-basic-guide-to-modify-clown-voiceprint-in-windoze-pc/"><u>[Updated] Basic Guide to Modify Clown Voiceprint in Windoze PC</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-eternal-skies-leading-long-duration-flight-drones/"><u>[Updated] Eternal Skies Leading Long-Duration Flight Drones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-virtual-sound-devices/"><u>[Updated] In 2024, Ultimate Virtual Sound Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-professionals-selection-top-5-drones-ranked-for-2024/"><u>[Updated] The Professionals' Selection Top 5 Drones Ranked for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-impact-on-employment-what-positions-are-at-risk/"><u>ChatGPT's Impact on Employment: What Positions Are at Risk?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improved-microsoft-power-device-management-correcting-previous-acpi-compliance-driver-concerns/"><u>Improved Microsoft Power Device Management: Correcting Previous ACPI Compliance Driver Concerns</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-value-sony-bravia-the-ultimate-affordable-option-for-top-quality-viewing-zdnet-reviews/"><u>Top Value Sony Bravia: The Ultimate Affordable Option for Top-Quality Viewing - ZDNet Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-premier-tv-display-sanitizers-in-202email-protected-by-techzednet/"><u>Ultimate Guide to the Premier TV Display Sanitizers in 202([Email Protected] by TechZedNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-connecting-your-devices-with-airplay-to-stream-on-television/"><u>Ultimate Guide: Connecting Your Devices with AirPlay to Stream on Television</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-viewing-experience-an-in-depth-analysis-of-lg-vs-samsung-televisions-for-your-next-purchase-decision/"><u>Ultimate Viewing Experience: An In-Depth Analysis of LG Vs. Samsung Televisions for Your Next Purchase Decision.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-labor-day-deals-top-rated-lg-oled-tvs-now-up-to-800-off-exclusive-insights-from-a-tech-reviewer-on-zdnet/"><u>Unbeatable Labor Day Deals: Top-Rated LG OLED TVs Now Up to $800 Off - Exclusive Insights From a Tech Reviewer on ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-platform-face-off-going-live-with-obstwitch/"><u>[New] The Platform Face-Off Going Live with OBS/Twitch</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-expert-strategies-to-achieve-professional-3d-text-in-photoshoot-for-2024/"><u>[Updated] Expert Strategies to Achieve Professional 3D Text in Photoshoot for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/foremost-suggestions-premium-iphone-tone-makers/"><u>Foremost Suggestions Premium iPhone Tone Makers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-perfect-companion-to-your-mac-mini-a-powerful-mini-pc-tailored-for-windows-enthusiasts-zdnet/"><u>Introducing the Perfect Companion to Your Mac Mini: A Powerful Mini PC Tailored for Windows Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-microsofts-future-at-risk-with-potential-decline-in-surface-sales-insights-and-analysis/"><u>Is Microsoft's Future at Risk with Potential Decline in Surface Sales? Insights & Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-disperse-icons-on-windows-11-taskbar/"><u>Learn to Disperse Icons on Windows 11 Taskbar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/preventing-logofail-intrusions-top-strategies-for-securing-your-devices-insights-from-zdnet/"><u>Preventing LogoFAIL Intrusions: Top Strategies for Securing Your Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-keyboards-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Keyboards : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-zte-axon-40-lite-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When ZTE Axon 40 Lite Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

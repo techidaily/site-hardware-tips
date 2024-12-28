@@ -1,7 +1,7 @@
 ---
 title: "Embrace Costly Luxury with Apple's New iPad Pro (M4): An Irresistible Tech Marvel!"
-date: 2024-09-18T01:27:57.972Z
-updated: 2024-09-22T04:46:45.634Z
+date: 2024-12-25T20:37:40.262Z
+updated: 2024-12-27T17:39:21.350Z
 tags:
   - hardware
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 ![iPad Pro 11-inch Space Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ipad-pro-11-inch-space-black.jpg) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-ec.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  iPad Pro (M4) 11-inch
 
@@ -128,6 +132,10 @@ Tyler Hayes / How-To Geek
 
 ![a close up of the front camera on the Apple iPad Pro (M4)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/a-close-up-of-the-front-camera-on-the-apple-ipad-pro-m4.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  One minor detail I did notice and feel was the new placement of the camera used for FaceTime and other video calls. It’s now top and (mostly) centered when using the iPad in landscape orientation.
@@ -135,6 +143,10 @@ Tyler Hayes / How-To Geek
  Practically, having the camera now on the long side of the iPad Pro means that I now appear to be looking at the camera when doing Zoom calls. It’s a more natural placement and an omission that more people are probably using their iPads horizontally rather than vertically.
 
  There are very few, if any, missteps with the Pro. The speakers are great, especially for the tablet's physical size. It's even hard to get mad at the removal of the second rear camera. Did you even know there were two cameras on Pro iPads? This new hardware is peak iPad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You Can Only Pick Two: Weight, Battery, and Size
 
@@ -149,13 +161,6 @@ Tyler Hayes / How-To Geek
  I took a cross-country flight using this new iPad Pro and I never felt the need to plug it in. I started with a battery around 75% full and used it to write and watch shows for nearly all of the plane ride. I ended with about 50%.
 
  A lot of people could certainly benefit from more battery life, but as it stands now, everyone gets a tiny bit of weight reduction on a device that’s meant to be carried around.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Apple Magic Keyboard Is Probably a Critical Accessory
 
@@ -172,13 +177,6 @@ Tyler Hayes / How-To Geek
  (Selfishly, I wish Apple made the bottom keyboard and trackpad part detachable so I could use it with a Vision Pro. It would be a rad accessory to pair with the company’s headset.)
 
  I’m less enthusiastic about the Apple Pencil Pro simply because I don’t handwrite notes and can’t draw. The haptics work well when you squeeze it. I appreciate how it's advanced, but I just have a lot less use for it than the keyboard. If you’re in the same boat and waffling on the decision, then skip it for now and reconsider it later, if new circumstances arise.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Should You Buy the Apple iPad Pro (M4)?
 
@@ -198,13 +196,14 @@ Tyler Hayes / How-To Geek
 
 ![iPad Pro 11-inch Space Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ipad-pro-11-inch-space-black.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-ec.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  iPad Pro (M4) 11-inch
@@ -230,5 +229,22 @@ The new iPad Pro is impossibly thin, featuring outrageous performance with the A
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-engagement-on-youtube-by-adding-emojis/"><u>[New] In 2024, Boost Engagement on YouTube by Adding Emojis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-clubbing-essentials-top-rated-dj-template-vids/"><u>[Updated] 2024 Approved Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-master-the-art-of-meeting-management-the-finest-10-free-recorders-for-slack/"><u>[Updated] 2024 Approved Master the Art of Meeting Management The Finest 10 Free Recorders for Slack</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-captivating-visual-transformation-software-for-pc-mac-linux/"><u>[Updated] In 2024, Captivating Visual Transformation Software for PC, Mac, Linux</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-journey-through-windows-11s-latest-software/"><u>2024 Approved Journey Through Windows 11'S Latest Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-samsung-8tb-t5-nvme-ssd-steals-the-show-36-discount-post-prime-day-tech-insights-by-zdnet/"><u>Amazon's Samsung 8TB T5 NVMe SSD Steals the Show: 36% Discount Post-Prime Day | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-current-meta-vr-bargain-unbeatable-price-on-the-512gb-quest-3-insider-tips/"><u>Best Current Meta VR Bargain: Unbeatable Price on the 512GB Quest 3 - Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-price-cut-save-200-dollars-on-todays-deal-for-the-m1-macbook-air-digital-trends/"><u>Get Your Price Cut: Save 200 Dollars on Today's Deal for the M1 MacBook Air | Digital Trends</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-mkv-player-for-pc-and-mobile/"><u>In 2024, Best Mkv Player for PC and Mobile</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-reclaim-your-iphone-x-experience-with-these-tips/"><u>In 2024, Reclaim Your iPhone X Experience with These Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/snapping-success-how-to-choose-the-best-camera-views-on-iphone/"><u>Snapping Success How to Choose the Best Camera Views on iPhone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-collegiate-laptop-a-great-alternative-to-macbook-and-lenovo-thinkpad-now-with-200-discount-insider-review-by-zdnet/"><u>Top-Rated Affordable Collegiate Laptop: A Great Alternative to MacBook and Lenovo ThinkPad, Now with $200 Discount - Insider Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-headsets-and-speakers-in-depth-analysis-by-tech-experts/"><u>Top-Rated Gaming Headsets & Speakers - In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-the-personal-computer-industry-a-look-at-the-rocky-launch-and-innovative-evolution-of-microsofts-surface-line/"><u>Transforming the Personal Computer Industry: A Look at the Rocky Launch and Innovative Evolution of Microsoft's Surface Line</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unparalleled-endurance-meets-stunning-visuals-in-top-tier-laptop-review-powered/"><u>Unparalleled Endurance Meets Stunning Visuals in Top-Tier Laptop Review - Powered</u></a></li>
+</ul></div>
 

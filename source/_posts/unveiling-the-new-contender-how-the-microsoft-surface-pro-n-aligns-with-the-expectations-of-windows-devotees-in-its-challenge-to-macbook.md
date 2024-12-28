@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the New Contender: How the Microsoft Surface Pro N Aligns with the Expectations of Windows Devotees in Its Challenge to MacBook"
-date: 2024-12-12T00:21:47.157Z
-updated: 2024-12-12T17:38:48.646Z
+date: 2024-12-23T21:00:24.266Z
+updated: 2024-12-28T00:28:14.527Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [How to use Android's emergency satellite texting if you lose cell signal](https://www.zdnet.com/article/how-to-use-androids-emergency-satellite-texting-if-you-lose-cell-signal/)
@@ -38,7 +42,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -56,10 +60,6 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 [Buy the Surface Laptop 5 View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?)
 
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
 
@@ -80,7 +80,7 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -98,7 +98,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -114,7 +114,7 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -163,19 +163,21 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-utilize-snapchats-star-trail-effectively/"><u>[New] Utilize Snapchat's Star Trail Effectively</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-escalate-your-channels-popularity-to-1kplus/"><u>[Updated] Escalate Your Channel's Popularity to 1K+</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-journey-from-photographic-moments-to-sequential-videos/"><u>[Updated] Journey From Photographic Moments to Sequential Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/3g-network-discontinuation-uncover-which-gadgets-are-impacted-and-whether-you-need-to-upgrade/"><u>3G Network Discontinuation: Uncover Which Gadgets Are Impacted and Whether You Need to Upgrade</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-cooling-solutions-the-leading-ac-units-for-savings-consumer-digest-ratings/"><u>Affordable Cooling Solutions: The Leading AC Units for Savings – Consumer Digest Ratings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-hps-innovative-subscription-service-really-improve-your-printer-experience-and-love-for-the-brand/"><u>Can HP's Innovative Subscription Service Really Improve Your Printer Experience and Love for the Brand?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/comprehensive-fcp-users-guidebook-for-2024/"><u>Comprehensive FCP User's Guidebook for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expert-tertinggi-dalam-rujinan-kartu-xqd-yang-jatuh-tembus-diri-cepat/"><u>Expert Tertinggi Dalam Rujinan Kartu XQD Yang Jatuh Tembus, Diri Cepat!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-the-consequences-the-crucial-role-of-the-boxer-rebellion-in-world-history-explained-by-yl-technology-experts/"><u>Exploring the Consequences: The Crucial Role of the Boxer Rebellion in World History, Explained by YL Technology Experts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-xs-max-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone XS Max with 3 Methods</u></a></li>
-<li><a href="https://win-net.techidaily.com/secure-your-confidential-information-the-wizardry-behind-data-encryption/"><u>Secure Your Confidential Information: The Wizardry Behind Data Encryption</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-unique-laptop-pen-that-writes-on-paper-a-standout-discovery-at-the-ces-showcase-explored-by-zdnet/"><u>The Unique Laptop Pen That Writes on Paper: A Standout Discovery at the CES Showcase - Explored by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-budget-friendly-webcams-comprehensive-guide-by-zdnet/"><u>Top 5 Budget-Friendly Webcams : Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-smart-outlet-devices-expert-reviews-by-zdnet/"><u>Top 5 Smart Outlet Devices - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-algorithm-change-are-you-ready/"><u>[Updated] Facebook Algorithm Change Are You Ready？</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-efficient-ways-to-clean-your-youtube-watch-later-playlist/"><u>[Updated] In 2024, Efficient Ways to Clean Your YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1-unveiling-the-historical-impact-the-role-and-relevance-of-chinas-may-fourth-movement-a-comprehensive-analysis-by-yl-technology/"><u>1. Unveiling the Historical Impact: The Role and Relevance of China's May Fourth Movement - A Comprehensive Analysis by YL Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-backstage-pass-to-photo-tricks-for-2024/"><u>Beginner's Backstage Pass to Photo Tricks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-smartwatch-a-comprehensive-guide-comparing-apple-watch-se-with-series-7-insights-for-your-purchase-decision-zdnet-in-depth-analysis/"><u>Choosing the Right Smartwatch: A Comprehensive Guide Comparing Apple Watch SE with Series 7 - Insights for Your Purchase Decision | ZDNet In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmin-instinct-crossover-an-in-depth-review-revealing-its-strengths-and-the-missing-game-changing-feature/"><u>Garmin Instinct Crossover: An In-Depth Review Revealing Its Strengths and the Missing Game-Changing Feature</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y36-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y36</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-infinix-hot-30i-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Infinix Hot 30i via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-elite-montblanc-wear-os-smartwatch-at-1300-a-game-changer-for-luxury-timepieces-find-out-on-zdnet/"><u>Is the Elite Montblanc Wear OS Smartwatch at $1,300 a Game Changer for Luxury Timepieces? Find Out on ZDNet!</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>New 2024 Approved Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/swayed-by-three-stellar-features-why-im-now-a-believer-in-the-apple-watch-series-10/"><u>Swayed by Three Stellar Features - Why I'm Now a Believer in the Apple Watch Series 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-premium-android-watches-comprehensive-reviews-by-industry-pros-gadgetzone/"><u>Ultimate Guide to Premium Android Watches: Comprehensive Reviews by Industry Pros | GadgetZone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-apple-watch-8-surprising-success-with-less-sophisticated-sensors-than-samsung-exclusive-review-on-zdnet/"><u>Unveiling The Apple Watch 8: Surprising Success with Less Sophisticated Sensors Than Samsung | Exclusive Review on ZDNET</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unveiling-the-power-of-social-media-video-marketing-strategies-for-2024/"><u>Unveiling the Power of Social Media Video Marketing Strategies for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-changes-apple-set-to-enhance-budget-friendly-watch-se-exciting-updates-await-zdnet/"><u>Upcoming Changes: Apple Set to Enhance Budget-Friendly Watch SE - Exciting Updates Await! [ZDNet]</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-a-funny-meme-on-macbook/"><u>Updated How to Make a Funny Meme on MacBook</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Rated Ultraportable Notebook with Exceptional All-Day Battery Life Featured on ZDNet
-date: 2024-12-20T10:20:54.660Z
-updated: 2024-12-22T04:12:42.572Z
+date: 2024-12-26T00:38:23.859Z
+updated: 2024-12-27T22:37:49.757Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,21 +218,24 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-speak-and-stun-on-snapchat-voice-change-made-simple-for-2024/"><u>[New] Speak and Stun on Snapchat Voice Change Made Simple for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease-for-2024/"><u>[Updated] Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/adapting-office-gear-the-future-of-tech-tools-amidst-artificial-intelligence-advancements-insights-from-zdnet/"><u>Adapting Office Gear: The Future of Tech Tools Amidst Artificial Intelligence Advancements - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-laptop-and-tablet-showdown-comparing-ipad-pro-and-macbook-air-to-find-your-perfect-match-zdnet-insights/"><u>Best Laptop & Tablet Showdown: Comparing iPad Pro and MacBook Air to Find Your Perfect Match | ZDNET Insights</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/critical-considerations-for-your-upcoming-virtual-reality-investment/"><u>Critical Considerations for Your Upcoming Virtual Reality Investment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experts-rank-and-testify-a-comprehensive-review-of-2024s-leading-linux-laptop-models/"><u>Experts Rank & Testify: A Comprehensive Review of 2024'S Leading Linux Laptop Models</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-ties-with-giphy-on-the-line-could-they-be-cut/"><u>Facebook’s Ties with Giphy on the Line; Could They Be Cut?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-of-office-tech-adapting-workplace-gadgets-for-success-in-an-age-of-artificial-intelligence-insights-from-zdnet/"><u>Future of Office Tech: Adapting Workplace Gadgets for Success in an Age of Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-motorola-moto-g04-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Motorola Moto G04 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-savings-with-this-steals-level-asus-gaming-laptop-available-for-less-than-500-at-best-buy-insights/"><u>Maximize Your Savings with This Steals-Level Asus Gaming Laptop Available for Less than $500 at Best Buy Insights</u></a></li>
-<li><a href="https://facebook.techidaily.com/minimize-custom-advertisements-on-online-networks/"><u>Minimize Custom Advertisements on Online Networks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-high-quality-15-inch-asus-notebook-with-all-the-essential-ports-now-available-from-walmart-for-an-unbeatable-price-of-250-coverage/"><u>Score a High-Quality 15-Inch Asus Notebook with All the Essential Ports - Now Available From Walmart for an Unbeatable Price of $250 Coverage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-a-steal-with-savings-grab-the-anker-737-portable-charger-at-an-unbeatable-price-shave-off-30-today/"><u>Secure a Steal with Savings: Grab the Anker 737 Portable Charger at an Unbeatable Price – Shave Off $30 Today!</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/top-5-tips-for-tiktok-success-on-mac/"><u>Top 5 Tips for TikTok Success on Mac</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/xml-path-selector-editor-a-comprehensive-guide/"><u>XML Path Selector Editor: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professional-video-techniques-top-10-edits/"><u>[Updated] Professional Video Techniques Top 10 Edits</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-transform-ordinary-moments-into-extraordinary-art-creating-slow-motion-video-from-still-images-online-for-2024/"><u>[Updated] Transform Ordinary Moments Into Extraordinary Art Creating Slow Motion Video From Still Images Online for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>2024 Approved Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-msis-steam-deck-compete-effectively-in-the-portable-gaming-market-and-reach-victory-insights-from-zdnet/"><u>Can MSI's Steam Deck Compete Effectively in the Portable Gaming Market and Reach Victory? - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-arm-and-intel-in-the-surface-pro-a-complex-decision-explained-by-zdnet/"><u>Choosing Between ARM and Intel in the Surface Pro - A Complex Decision Explained by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprendre-le-format-webm-guide-complet-pour-lire-et-gerer-les-fichiers/"><u>Comprendre Le Format WebM: Guide Complet Pour Lire Et Gérer Les Fichiers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-captivating-photo-based-video-content-using-pixizs-features/"><u>Crafting Captivating Photo-Based Video Content Using Pixiz's Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosis-and-fix-experiencing-sound-on-speakers-even-with-plugged-in-headphones/"><u>Diagnosis & Fix: Experiencing Sound on Speakers Even with Plugged-In Headphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hewlett-packard-launches-revolutionary-portable-all-in-one-pc-surprising-revelations-from-hp-tech-news-by-zdnet/"><u>Hewlett-Packard Launches Revolutionary Portable All-In-One PC: Surprising Revelations From HP | Tech News by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-stratasys-latest-carbon-fiber-development-could-revolutionize-industry-usage-insights-from-zdnet/"><u>How Stratasys' Latest Carbon Fiber Development Could Revolutionize Industry Usage - Insights From ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-u23-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on U23</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-secure-a-library-of-premium-free-graphic-designs/"><u>How to Secure a Library of Premium, Free Graphic Designs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi 13T Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nvidia-partnership-propels-apple-forward-a-new-era-in-tech-emerges/"><u>Nvidia Partnership Propels Apple Forward: A New Era in Tech Emerges</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-the-hp-victus-15l-gamer-pc-limited-time-offer-for-just-480/"><u>Score Big Savings on the HP Victus 15L Gamer PC - Limited Time Offer for Just $480!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-ultimate-gaming-rig-at-a-discounted-price-enjoy-250-off-before-memorial-day-recommended-by-zdnet/"><u>Secure Your Ultimate Gaming Rig at a Discounted Price! Enjoy $250 Off Before Memorial Day, Recommended by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-desktop-mats-reviewed-the-ultimate-guide-inspired-by-zdnet/"><u>Top 5 Premium Desktop Mats Reviewed: The Ultimate Guide - Inspired by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-gaming-laptops-showdown-in-depth-comparison-of-razer-acer-msi-and-others-zdnet-review/"><u>Top-Ranked Gaming Laptops Showdown: In-Depth Comparison of Razer, Acer, MSI & Others - ZDNet Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eling-youtubes-ranks-the-deciding-elements/"><u>Unraveling YouTube's Ranks The Deciding Elements</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond Promises and Projections: How True Testing Surpasses Branded Estimates in Product Effectiveness"
-date: 2024-09-14T16:46:39.963Z
-updated: 2024-09-22T01:14:43.462Z
+date: 2024-12-20T19:08:32.838Z
+updated: 2024-12-27T21:35:58.719Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f5d018e237ca35df7bb16fca986876f6ddcdb7436
 
  If you’re shopping for a new piece of computer hardware, be it a GPU, CPU, monitor, wireless router, or case fan, you should avoid manufacturer claims and instead read and watch professional benchmarks and reviews, user reviews, and ask your tech-savvy friends for advice. Here’s why.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Manufacturer Benchmarks Are Often Rife With Cherry-Picked Results
 
  If you’ve ever seen manufacturer benchmarks, you’ve noticed that they always include a selected number of game titles or app benchmarks and that the games and apps change depending on the manufacturer. In other words, there isn’t a standardized benchmark suite that hardware manufacturers use to test their new products.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/f5d018e237ca35df7bb16fca986876f6ddcdb7436
  Better still, the games and apps that appear in manufacturers’ presentations change with each new generation, since a new CPU or GPU might be better in some games than its predecessor, but also because a new product might run a new and shiny AAA game everyone’s talking about better than the competition.
 
 ![Ryzen 5800X3D gaming performance results.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/real-world-benchmarks-always-trump-manufacturer-claims-here-s-why-04.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _AMD_
 
@@ -40,6 +48,10 @@ _AMD_
  Next, we’ve got two Intel CPUs, the Core i9-14900K and the Core i9-14900KS.
 
 ![Core i9-14900K gaming performance slides.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/real-world-benchmarks-always-trump-manufacturer-claims-here-s-why-01.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Intel_
 
@@ -65,16 +77,13 @@ _Intel_
 
 ![NVIDIA RTX 4000 vs older NVIDIA GPUs gaming benchmarks.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/real-world-benchmarks-always-trump-manufacturer-claims-here-s-why-05.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _NVIDIA_
 
  If you jump to TechPowerUp’s [RTX 3060 specs page](https://www.techpowerup.com/gpu-specs/geforce-rtx-3060-12-gb.c3682), you can see that the RTX 4060 is only 18% faster than the RTX 3060\. The incongruity in the measured gaming performance between the two sources stems from the fact that TechPowerUp tests GPUs with a standardized test suite, using the same exact settings for every GPU, and not using features older GPUs do not support, such as DLSS or DLSS frame generation. This also isn’t perfect because, in all honesty, the RTX 4060 is faster than 18% on average than the RTX 3060 when you turn on ray tracing, but TechPowerUp's way of testing GPUs is much more fair to the RTX 3060 compared to what NVIDIA did.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Some Manufacturer Claims Have Little to Do with Reality
 
@@ -87,10 +96,7 @@ _NVIDIA_
  Let’s take the RT-AX88U Pro, one of the [best Wi-Fi routers](https://facebook-video-share.techidaily.com/updated-discovering-the-ultimate-10-free-youtube-artist-collaborators-for-2024/) on the market, as an example. If you visit [the router’s web page](https://www.asus.com/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-ax88u-pro/techspec/), you can see that the maximum bandwidth over the 5GHz band is listed as “up to 4804 Mbps.” However, [a real-world review](https://dongknows.com/asus-rt-ax88u-pro-review/#asus-gt-ax88u-pro-excellent-performance) by Dong Knows Tech has measured only 1510Mbps, with a few other routers surpassing the RT-AX88U Pro. Don’t get me wrong; this is an impressive result, but it is far from ASUS’s claims.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Some Blame Is Reserved for Standardization Bodies and Their Lenient Guidelines
@@ -124,5 +130,23 @@ _NVIDIA_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-quick-and-comfortable-game-capture-tips-for-rainbow-six-siege/"><u>[New] In 2024, Quick & Comfortable Game Capture Tips for Rainbow Six Siege</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-select-selections-exciting-cardboard-friendly-virtual-reality-titles/"><u>[Updated] Select Selections Exciting Cardboard-Friendly Virtual Reality Titles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-updates-its-product-line-up-declares-9-mac-models-outdated-implications-for-users-and-retailers-explained-gadget-digest/"><u>Apple Updates Its Product Line-Up, Declares 9 Mac Models Outdated - Implications for Users and Retailers Explained | Gadget Digest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-selection-zdnets-best-gaming-mechanical-keyboards-of-2023/"><u>Discover the Ultimate Selection: ZDNet's Best Gaming Mechanical Keyboards of 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/freelancers-corner-yearly-best-free-text-files-for-2024/"><u>Freelancers’ Corner Yearly Best FREE Text Files for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-exploring-the-peaks-of-magix-samplitude-a-comprehensive-review/"><u>In 2024, Exploring the Peaks of MAGIX Samplitude A Comprehensive Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/m3-macbook-pro-unveiled-comprehensive-guide-on-release-schedule-pricing-insights-detailed-features-overview-and-additional-resources/"><u>M3 MacBook Pro Unveiled – Comprehensive Guide on Release Schedule, Pricing Insights, Detailed Features Overview, and Additional Resources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-efficiency-with-an-hp-copilotplus-laptop-my-expert-review-on-boosting-telecommuting-performance-insights/"><u>Maximizing Efficiency with an HP Copilot+ Laptop: My Expert Review on Boosting Telecommuting Performance | Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-android-to-windows-shared-drives/"><u>Navigating Android to Windows Shared Drives</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-pc-instability-in-the-witcher-3-on-windows/"><u>Resolved: Fixing PC Instability in 'The Witcher 3' On Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-the-smallest-webcam-on-earth-a-compact-powerhouse-of-versatility-uncovered-by-tech-guru-at-zdnet/"><u>Review: The 'Smallest Webcam on Earth' - A Compact Powerhouse of Versatility, Uncovered by Tech Guru at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tablet-meets-notebook-a-detailed-look-at-ipad-pro-vs-macbook-air-for-optimal-user-experience-zdnet/"><u>Tablet Meets Notebook: A Detailed Look at iPad Pro vs MacBook Air for Optimal User Experience | ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-social-media-giants-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Four Social Media Giants: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-2023-dual-function-device-unlocks-hidden-office-perks-a-comprehensive-review/"><u>Top Rated 2023 Dual-Function Device Unlocks Hidden Office Perks: A Comprehensive Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-tablets-comprehensive-analysis-and-reviews-by-tech-experts/"><u>Top Rated Tablets : Comprehensive Analysis & Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-top-tier-electronic-notekeepers-in-depth-analysis-by-industry-experts-pcmag/"><u>Ultimate Guide to Top-Tier Electronic Notekeepers: In-Depth Analysis by Industry Experts - PCMag</u></a></li>
+</ul></div>
 

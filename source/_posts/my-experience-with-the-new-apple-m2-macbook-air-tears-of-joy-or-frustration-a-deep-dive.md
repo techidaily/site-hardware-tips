@@ -1,7 +1,7 @@
 ---
 title: My Experience with the New Apple M2 MacBook Air - Tears of Joy or Frustration? A Deep Dive
-date: 2024-12-18T03:23:16.058Z
-updated: 2024-12-22T07:08:39.720Z
+date: 2024-12-24T21:32:08.908Z
+updated: 2024-12-27T22:56:06.333Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Cliff Joseph/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -31,7 +31,7 @@ Cliff Joseph/ZDNET
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 How often can a gadget make you confront your own weaknesses, especially the lies you tell yourself?
@@ -61,7 +61,7 @@ But the M2 MacBook Air seemed to represent a departure from the old Air design. 
 There were two things I kept staring at: the midnight color and the new, non-tapered shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -78,13 +78,13 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -120,7 +120,7 @@ So, as I write this, I'm staring into space, blaring at myself for being so impu
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -169,22 +169,17 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[Updated] From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-console-experience-with-the-asus-vg245h-screen/"><u>Elevate Your Console Experience With the Asus VG245H Screen</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-release-delayed-what-fans-need-to-know/"><u>Guilty Gear Strive Release Delayed: What Fans Need to Know</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-s18-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S18 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-high-end-drone-and-camera-tech/"><u>In 2024, Comparing High-End Drone & Camera Tech</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-expert-insights-into-crafting-dynamic-youtube-shorts-templates/"><u>In 2024, Expert Insights Into Crafting Dynamic YouTube Shorts Templates</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-11-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme 11 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-cellphone-promotions-and-discounts-for-independence-day-insights/"><u>Top Cellphone Promotions & Discounts for Independence Day - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-artists-choice-drawing-tablets-featured-by-zdnet/"><u>Top-Rated Artists' Choice Drawing Tablets - Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-kids-tablets-in-depth-analysis-by-tech-gurus-and-parental-approval-zdnet/"><u>Top-Rated Kid's Tablets: In-Depth Analysis by Tech Gurus & Parental Approval | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-aged-fire-tablet-into-a-functional-echo-show-tips-and-tricks-techguide/"><u>Transform Your Aged Fire Tablet Into a Functional Echo Show - Tips & Tricks | TechGuide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-childs-tech-experience-with-our-revolutionary-tablet-on-sale-a-new-era-for-kids-devices-zdnet/"><u>Transform Your Child's Tech Experience with Our Revolutionary Tablet (On Sale) – A New Era for Kids’ Devices | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-high-quality-large-tablets-in-depth-analysis-and-ratings-gizmohive/"><u>Ultimate Selection of High-Quality Large Tablets : In-Depth Analysis and Ratings | GizmoHive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-alert-exclusive-test-of-best-non-flagship-samsung-tablets-now-at-a-bargain-price-gadgetguru-insights/"><u>Unbeatable Value Alert: Exclusive Test of Best Non-Flagship Samsung Tablets Now at a Bargain Price | GadgetGuru Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-netflixs-decision-latest-update-drops-compatibility-with-aging-ios-devices-find-out-which-are-no-longer-supported/"><u>Understanding Netflix's Decision: Latest Update Drops Compatibility with Aging iOS Devices – Find Out Which Are No Longer Supported</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-the-full-power-of-the-m4-ipad-pro-how-ai-innovations-at-apples-worldwide-developers-conference-will-revolutionize-your-experience/"><u>Unleashing the Full Power of the M4 iPad Pro: How AI Innovations at Apple’s Worldwide Developers Conference Will Revolutionize Your Experience</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-volume-controls-with-adobe-premiere-pro-on-windows-for-2024/"><u>Updated Mastering Volume Controls with Adobe Premiere Pro on Windows for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-transforming-your-media-expertise-in-itunes-recordings/"><u>[New] In 2024, Transforming Your Media Expertise in iTunes Recordings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-smooth-transition-uploading-imovie-films-into-vimeo/"><u>[New] Smooth Transition Uploading iMovie Films Into Vimeo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-step-by-step-ppt-and-vo-integration-tutorial/"><u>[Updated] 2024 Approved Step-by-Step PPT & VO Integration Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-beyond-the-slim-profile-the-three-essential-factors-that-truly-define-your-televisions-performance/"><u>1. Beyond the Slim Profile: The Three Essential Factors That Truly Define Your Television's Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-the-purpose-of-mock-modules-in-custom-computer-systems-unveiling-the-use-of-dummy-ram/"><u>1. The Purpose of Mock Modules in Custom Computer Systems: Unveiling the Use of Dummy RAM</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unbeatable-technology-offers-grab-the-latest-on-beat-studio-pro-headphones-lenovos-yoga-9i-laptop-and-top-rated-portable-chargers/"><u>1. Unbeatable Technology Offers: Grab the Latest on Beat Studio Pro Headphones, Lenovo's Yoga 9I Laptop & Top-Rated Portable Chargers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-m2-ssd-upgrade-raspberry-pi-5-with-enhanced-storage-capabilities/"><u>Affordable M.2 SSD Upgrade: Raspberry Pi 5 with Enhanced Storage Capabilities</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-access-get-your-lenovo-x220-up-and-running-latest-driver-downloads/"><u>Quick Access: Get Your Lenovo X220 Up and Running – Latest Driver Downloads</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-6-free-pdf-reader-apps-for-windows-in-2020-a-comprehensive-guide/"><u>Top 6 Free PDF Reader Apps for Windows in 2020: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-audio-issues-automatic-startup-fixes-for-wake/"><u>Troubleshooting Audio Issues: Automatic Startup Fixes for Wake</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-your-smart-home-needs-a-detailed-activity-record-benefits-and-necessity-of-incorporating-logs/"><u>Why Your Smart Home Needs a Detailed Activity Record: Benefits and Necessity of Incorporating Logs</u></a></li>
 </ul></div>
 

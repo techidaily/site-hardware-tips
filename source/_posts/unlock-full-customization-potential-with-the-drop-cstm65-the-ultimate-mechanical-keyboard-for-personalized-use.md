@@ -1,7 +1,7 @@
 ---
 title: "Unlock Full Customization Potential with the Drop CSTM^65: The Ultimate Mechanical Keyboard for Personalized Use"
-date: 2024-09-19T02:06:30.835Z
-updated: 2024-09-22T01:24:29.851Z
+date: 2024-12-22T17:43:30.723Z
+updated: 2024-12-27T21:13:39.872Z
 tags:
   - hardware
 categories:
@@ -99,6 +99,10 @@ Expand
 
 ![DROP CSTM65 Keyboard custom covers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/keyboard-custom-cover.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Drop CSTM65 is much smaller than a typical 104-key keyboard. It doesn't have a number pad at all and the directional keys (along with home, delete, page, and others) have moved to the left to make the CSTM65 even smaller than the average tenkeyless board.
@@ -110,6 +114,10 @@ Jerome Thomas / How-To Geek
  While I'm at it, I should point out that I found typing on the Drop CSMT65 to be a pleasure. The keystrokes are smooth and the keys make a soft, but audible clack. The board I tested featured Gateron Brown Pro 3.0 switches. Brown switches are known for being tactile and audible. The other option is Gateron Yellow KS3 switches. They will be less tactile and are not as loud as brown switches.
 
  I don't mind that Drop etched the key legends into the front edges of the keycaps, instead of the tops. That might throw you for a session or two, but it shouldn't be a big deal in the long term.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Customization: Swap Away
 
@@ -138,15 +146,16 @@ Jerome Thomas / How-To Geek
  The software doesn't handle the CSTM65's per-key RGB customization, though. For that, you'll need to use the keyboard itself. That likely means going to the website and reading the instructions there. That's going to annoy users who like to have software for customizing that sort of feature. On the other hand, some people will be happy to not have any extra software using their PC's resources.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Buy the Drop CSTM65 Keyboard?
 
 ![Drop CSTM65 with keycaps removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-drop-cstm65-with-keycaps-removedjpg_53519273826_o-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -156,14 +165,11 @@ Jerome Thomas / How-To Geek
 
 ![Drop keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cleanshot-2024-04-22-at-09-27-17-2x.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Drop CSTM65 Mechanical Keyboard
 
@@ -186,5 +192,19 @@ The CSTM65 is a compact enthusiast desktop centerpiece made for game-changing cu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discover-the-top-6-fb-lite-video-export-apps-of-2023/"><u>[New] In 2024, Discover the Top 6 FB Lite Video Export Apps of 2023</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-perfecting-profile-collaboration-add-linktree-to-your-tiktok-bio/"><u>[New] Perfecting Profile Collaboration Add Linktree to Your TikTok Bio</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-real-time-hardware-for-vr-for-2024/"><u>[New] Real-Time Hardware for VR for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hare-smart-techniques-for-youtube-playlist-dispersal/"><u>[New] Share Smart Techniques for YouTube Playlist Dispersal</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-capture-perfection-with-canons-paired-lut-gifts/"><u>[Updated] In 2024, Capture Perfection with Canon's Paired LUT Gifts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offers-how-to-score-amazing-deals-on-laptops-in-octobers-big-sale-event-insights/"><u>Exclusive Offers! How to Score Amazing Deals on Laptops in October's Big Sale Event - Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-camon-20-pro-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Camon 20 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-latest-ai-equipped-thinkpads-the-ideal-solution-every-professional-has-dreamed-of-techinsights/"><u>Introducing Lenovo’s Latest AI-Equipped ThinkPads: The Ideal Solution Every Professional Has Dreamed Of | TechInsights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/laptop-lifesaver-cost-effective-fixes-to-restore-macbook-charging-power-learn-how-here-insights-by-zdnet/"><u>Laptop Lifesaver: Cost-Effective Fixes to Restore MacBook Charging Power, Learn How Here | Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-productivity-with-the-hp-copilotplus-laptop-the-ultimate-tool-for-remote-professionals/"><u>Maximize Your Productivity with the HP Copilot+ Laptop - The Ultimate Tool for Remote Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pivotal-points-in-adopting-bot-driven-assistance/"><u>Pivotal Points in Adopting Bot-Driven Assistance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-39-unbeatable-christmas-laptop-bargains-on-offer-from-brands-like-apple-dell-and-hp-featuring-exclusive-insights-by-zdnet/"><u>Top 39 Unbeatable Christmas Laptop Bargains on Offer From Brands Like Apple, Dell & HP - Featuring Exclusive Insights by ZDNet</u></a></li>
+</ul></div>
 

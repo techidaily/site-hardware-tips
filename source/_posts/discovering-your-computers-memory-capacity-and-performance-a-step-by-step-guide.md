@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Computer's Memory Capacity and Performance: A Step-by-Step Guide"
-date: 2024-09-19T23:49:00.812Z
-updated: 2024-09-21T20:04:20.448Z
+date: 2024-12-26T20:08:35.485Z
+updated: 2024-12-27T16:44:21.977Z
 tags:
   - hardware
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 * [How to Check How Much RAM You Have on Mac](https://extra-information.techidaily.com/dynamic-duo-image-taker-plus-melody-recorders/)
 * [What to Do When You Don't Have Enough RAM](https://instagram-videos.techidaily.com/new-mastering-the-art-of-filter-selection-on-instagram/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To check how much RAM you have on Windows, press Ctrl+Shift+Esc, select the "Performance" tab, then go to "Memory." On Mac, click the Apple icon, then navigate to About This Mac > Overview > System Report > Memory to get detailed information about your RAM.
@@ -33,19 +37,6 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
  The more RAM you have, the more you can do at once. If you don't have enough RAM for your open applications, your system will slow down as Windows (or another operating system) has to move data in and out of the [page file](https://youtube-blog.techidaily.com/n-2024-top-9-camera-extras-for-professional-level-vlogging-on-smartphones/) on your system drive. You might even see a low memory error if there's not enough RAM.
 
 [How much RAM you need](https://fox-direct.techidaily.com/new-curbing-inertia-in-high-altitude-cinematography/) depends on what you do. You'll need more RAM for playing the latest PC games, running [virtual machines](https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/), and editing 4K videos.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Check How Much RAM You Have on Windows
 
@@ -69,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
  This information is generally displayed in your system's [UEFI firmware or BIOS](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/), too. This is particularly helpful if you're using a PC without a working operating system. Just boot it up, use the keyboard shortcut to enter its BIOS or UEFI firmware (it's different on each PC), and look for [information about the system's memory or RAM](https://android-frp.techidaily.com/ultimate-guide-from-oppo-find-n3-flip-frp-bypass-by-drfone-android/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Check How Much RAM You Have on Mac
 
  It's much easier to see [how much RAM is in your Mac](https://win-howtos.techidaily.com/solved-screen-flickering-in-windows-10/). But, unlike most Windows machines, it's nearly impossible to upgrade the RAM in Apple computers. If you own a MacBook, the RAM is soldered onto the motherboard and isn't user accessible.
@@ -82,22 +77,12 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 ![Select "About This Mac" from the drop-down context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/select-about-this-mac-from-thedrop-down-context-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will now see an overview of your computer's specs, including how much memory is in your Mac. In this example, the MacBook has 16GB of RAM.
 
 ![The memory available on your Mac is displayed on the second line, below the processor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Screenshot-2022-12-05-at-12.09.53-PM.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you would like to see which type of RAM you have installed, first, click the "More Info" button.
 
@@ -107,18 +92,19 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Scroll down to the bottom of the &quot;About&quot; page, then click &quot;System Report.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Scroll-down-then-click-System-Report.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, choose "Memory" from the left sidebar. The amount of memory and type of RAM will be displayed on the right side of the screen.
 
 ![Choose "Memory" from the left sidebar to view your Mac's RAM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/choose-memory-from-the-sidebar-to-view-your-macs-memory.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Newer [Macs](https://techno-recovery.techidaily.com/cat5-or-cat6-choosing-the-right-ethernet-cable-for-your-network-needs/) cannot have their RAM upgraded, but they tend to require significantly less RAM than Windows systems. If you're in the market for a Mac, make sure you buy one with enough RAM for your intended uses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What to Do When You Don't Have Enough RAM
 
@@ -143,5 +129,22 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-broadcasting-on-demand-transferring-fb-videos-to-whatsapp-groups-for-2024/"><u>[Updated] Broadcasting on Demand Transferring FB Videos to WhatsApp Groups for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-powerhouse-why-this-windows-laptop-beats-macbook-air-in-value-and-performance-a-closer-look/"><u>Affordable Powerhouse: Why This Windows Laptop Beats MacBook Air in Value and Performance - A Closer Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-leads-in-customer-happiness-rankings-as-samsung-closes-distance-insights-from-zdnet/"><u>Apple Leads in Customer Happiness Rankings, as Samsung Closes Distance – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-unmissable-anti-prime-day-bargain-get-your-hands-on-the-hp-victus-15-gaming-laptop-for-a-low-515-spotted-by-zdnet/"><u>Best Buy's Unmissable Anti-Prime Day Bargain: Get Your Hands on the HP Victus 15 Gaming Laptop for a Low $515 - Spotted by ZDNET</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hydraulic-radius-r-cross-sectional-area-a-wetted-perimeter-p/"><u>Hydraulic Radius (R) = Cross-Sectional Area (A) / Wetted Perimeter (P).</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-affordable-desktop-recording-solutions-reviewed/"><u>In 2024, Affordable Desktop Recording Solutions Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-androids-screen-shutter-select-the-best-eight-free-tools/"><u>In 2024, Android's Screen Shutter - Select the Best Eight Free Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-soft-transitions-in-garageband-audio/"><u>In 2024, Mastering Soft Transitions in Garageband Audio</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/make-a-difference-youtubes-quick-thumbnail-guide/"><u>Make a Difference YouTube's Quick Thumbnail Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-beyond-pinnacle-the-best-video-editing-apps-for-mac-this-year/"><u>New In 2024, Beyond Pinnacle The Best Video Editing Apps for Mac This Year</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ting-waterway-content-with-flair-for-2024/"><u>Sculpting Waterway Content with Flair for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-pc-manufacturers-revolutionize-gaming-on-chromebooks-insights-from-zdnet/"><u>Top 3 PC Manufacturers Revolutionize Gaming on Chromebooks - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-98-cyber-monday-sales-and-discounts-of-2022-exclusive-picks-by-zdnet/"><u>Top 98 Cyber Monday Sales & Discounts of 2022 - Exclusive Picks by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-laptop-for-video-editors-thoroughly-tested-ratings-from-experts/"><u>Ultimate Guide to Choosing the Perfect Laptop for Video Editors: Thoroughly Tested Ratings From Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-dual-purpose-power-of-lenovos-convertible-windows-laptopandroid-tablet-expert-review-on-zdnet/"><u>Unleashing the Dual-Purpose Power of Lenovo's Convertible Windows Laptop/Android Tablet - Expert Review on ZDNet</u></a></li>
+</ul></div>
 

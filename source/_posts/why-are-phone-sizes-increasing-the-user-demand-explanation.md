@@ -1,7 +1,7 @@
 ---
 title: Why Are Phone Sizes Increasing? The User Demand Explanation
-date: 2024-09-13T17:15:32.946Z
-updated: 2024-09-16T17:20:54.135Z
+date: 2024-12-21T21:27:18.193Z
+updated: 2024-12-27T23:18:07.681Z
 tags:
   - android
 categories:
@@ -37,16 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This phenomenon is true even when you compare across different brands. iPhones used to be smaller than Samsung Galaxy phones and other Android devices. Getting a bigger screen was a reason to prefer an Android phone over an iPhone, and back then, Apple didn't have as strong a hold on the market as it does now. Apple responded with larger displays on the iPhone 5 and 6, with the trend continuing until you can now get an iPhone screen as big as most of the competition's—as long as you don't want one that folds.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  ​The Way We Use Our Phones Has Changed
 
 ![A Motorola Edge+ inside a Razer Kishi v2 game controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/motorola-edge-plus-razer-kishi-v2.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -55,6 +52,10 @@ Bertel King / How-To Geek
  Smartphones are pocket computers. We browse the web on them, and large screens make it easier to see more text. We use them to watch videos, and as a general rule, we try to watch things on the biggest screen we can set our eyes on. They are our primary photography devices, and large screens are better for viewing photos and making edits. Larger screens are also better for playing games.
 
  For many of us, our smartphone is our only computer. For some, like myself, it's a conscious choice. My [book-style foldable with Samsung Dex](https://printer-issues.techidaily.com/turn-your-non-printing-canon-into-a-reliable-device-with-tips/) does all I need. But for many, this same conclusion is reached out of financial necessity. If you can only afford one device, you make sure that device has as big a screen as you can get.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  ​Small Phones Have Less Room for Components
 
@@ -69,22 +70,12 @@ Sergio Rodriguez / How-To Geek
  Smartphone cameras may rely heavily on processing, but a larger lens still allows for more light and a better photo. Size constraints are the reason that the thinner Galaxy Z Fold has less capable cameras compared to the Galaxy S Ultra, which costs several hundred dollars less. Considering how many people weigh their buying decision based on the quality of the camera. That's reason enough to get a bigger phone.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ​Larger Phones Can Run Cooler
 
 ![Titanium frame and flat display on the Samsung Galaxy S24 Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/titanium-frame-and-flat-display-on-the-samsung-galaxy-s24-ultra-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -94,9 +85,17 @@ Justin Duino / How-To Geek
 
  Old Nokia phones could be small in part because they didn't do much of anything. Modern phones are bigger, and they can still get very hot in your hand when performing some of the tasks we expect from them. They don't have the luxury of lying around all day waiting for the next phone call. They're trying to stream YouTube in a pop-up window while we play Minecraft, all as Slack pings away in the background.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  ​The Supply Chain Favors Big Phones
 
 ![Samsung Galaxy and Google Pixel phones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/samsung-galaxy-google-pixel.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -125,5 +124,26 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-auditory-anchors-exploring-the-art-of-sound-blending/"><u>[New] Auditory Anchors Exploring the Art of Sound Blending</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-generating-attention-grabbing-video-teasers/"><u>[New] In 2024, Generating Attention-Grabbing Video Teasers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoid-the-spinning-room-top-5-vr-motion-control-techniques-for-2024/"><u>Avoid the Spinning Room Top 5 VR Motion Control Techniques for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-amazing-lightweight-computers-ideal-for-digital-nomads-in-depth-analysis-and-picks-pcmag/"><u>Discover the Most Amazing Lightweight Computers Ideal for Digital Nomads: In-Depth Analysis and Picks | PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-flash-sale-snag-the-msi-summit-e13-flip-for-an-unbeatable-price-of-600-alert/"><u>Exclusive Flash Sale: Snag the MSI Summit E13 Flip for an Unbeatable Price of $600 Alert</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-impact-of-m3-apple-silicon-the-future-stretching-beyond-new-mac-devices/"><u>Exploring the Impact of M3 Apple Silicon: The Future Stretching Beyond New Mac Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-tecno-pova-5-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-adjusting-google-meet-display-mobile-and-laptop-focus/"><u>In 2024, Adjusting Google Meet Display Mobile and Laptop Focus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/keep-your-macbook-pro-fresh-and-clean-with-expert-advice/"><u>Keep Your MacBook Pro Fresh and Clean with Expert Advice</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/rhythm-and-reel-incorporating-tunes-on-instagram/"><u>Rhythm & Reel Incorporating Tunes on Instagram</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-free-videography-programs-perfect-for-indie-filmmakers-for-2024/"><u>Top 8 Free Videography Programs Perfect For Indie Filmmakers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-for-creatives-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated Laptops for Creatives: Comprehensive Reviews & Ratings by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-top-linux-laptops-of-2024-expertly-tested-and-reviewed-by-gizmohub/"><u>Ultimate Guide to the Top Linux Laptops of 2024 - Expertly Tested & Reviewed by GizmoHub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-innovation-the-miniature-marvel-of-a-webcam-that-defies-size-limits-zdnet/"><u>Unboxing Innovation: The Miniature Marvel of a Webcam That Defies Size Limits | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-powerhouse-performance-exclusive-deals-on-top-tier-nvidia-gaming-notebooks-at-2024-amazon-prime-day/"><u>Unleash Powerhouse Performance: Exclusive Deals on Top-Tier Nvidia Gaming Notebooks at 2024 Amazon Prime Day</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exceptional-savings-premier-pc-deals-for-octobers-prime-sale-revealed/"><u>Unlock Exceptional Savings: Premier PC Deals for October's Prime Sale Revealed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-powerful-performance-of-the-kensun-portable-air-compressor/"><u>Unveiling the Powerful Performance of the Kensun Portable Air Compressor</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo Find X7? | Dr.fone</u></a></li>
+</ul></div>
 

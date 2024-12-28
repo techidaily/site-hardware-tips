@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Noise Level of Mechanical Keyboards Pre-Purchase
-date: 2024-09-20T18:32:48.382Z
-updated: 2024-09-21T17:59:58.122Z
+date: 2024-12-22T20:29:34.969Z
+updated: 2024-12-27T16:45:21.544Z
 tags:
   - hardware
 categories:
@@ -19,17 +19,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Many people strongly prefer mechanical keyboards for the distinct typing feel they provide. Their trademark clicking and clacking can be a dealbreaker, though, if you are shopping for a new keyboard to use in a shared space. Luckily, there are ways to get an idea of how noisy a mechanical keyboard will be before you buy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check the Keycap Material
 
  Mechanical keyboards generally feature keycaps made of either Acrylonitrile Butadiene Styrene (ABS) or Polybutylene Terephthalate (PBT). Checking the keycap material is one of the first things to do when comparing keyboard options as it impacts durability, price, and even typing volume.
 
 ![A close up of the keys on the Kensington QuietType Pro Silent Wireless Mechanical Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52942186127_50ef51c54e_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Keycaps made of ABS are more affordable but less durable. ABS is also a relatively soft material, resulting in a high-pitched sound when the cap hits the frame of your keyboard when typing. Some options, like the [Kensington MK7500F QuietType Pro Silent](https://www.amazon.com/Kensington-MK7500F-Silent-Mechanical-Keyboard/dp/B0BZNRNXWC/ref=sr%5F1%5F3?crid=2OTAVMJX5QUY2&dib=eyJ2IjoiMSJ9.ETYKibaveJ%5FrZZsFH-6LwvbN4yBgaCPfkeopHGYhx571EN8fup7GBabFW4YM5tDwfVNKr034RngavitE-pkwxSI%5FC%5Fjj7MjE3C1xZp1d1NY.DBD6rzg%5Flq7BrUzA4gguq22wF6bNnCJTrLEAB5uIx5o&dib%5Ftag=se&keywords=quiettype+pro+silent+keyboard&qid=1720622031&sprefix=quiettype+pro+silent+keyboard%2Caps%2C89&sr=8-3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004053&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-can-you-tell-how-loud-a-mechanical-keyboard-will-be-before-you-buy-it%2F&asc%5Fcampaign=Evergreen) keyboard, feature dampening pads to reduce the sound created by their ABS keys.
 
  By comparison, PBT is a dense and durable keycap material. The density of a PBT keycap results in a deeper sound with less rattle when typing, making it preferable for those who find high-pitched typing to be grating. It is worth noting that [replacing keycaps](https://vp-tips.techidaily.com/new-2024-approved-caption-crafting-select-writing-apps-for-your-photos/) is a fairly simple process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Choose the Right Keycap Profile
 
@@ -48,10 +60,7 @@ Hannah Stryker / How-To Geek
  Putting sound aside, it is also important to consider how the height and shape of your keycaps, as well as the shape of the keyboard's rows, will affect ergonomics and [your ability to type quickly](https://extra-support.techidaily.com/updated-prime-video-upload-solutions-for-twitter/) by feeling your way across the keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don't Overlook Keyboard Switch Types
@@ -61,10 +70,7 @@ Hannah Stryker / How-To Geek
 ![A man pulling a switch from the Vissles V84 Mechanical Keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/3ff2bf8a.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Danny Chadwick / Review Geek
@@ -94,5 +100,23 @@ Danny Chadwick / Review Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-meme-mastery-ranking-internet-cultures-favorites-for-2024/"><u>[New] Meme Mastery Ranking Internet Culture's Favorites for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevating-the-cold-with-five-cozy-cinematic-elements/"><u>[Updated] Elevating the Cold with Five Cozy Cinematic Elements</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-6-unparalleled-mac-apps-for-video-grabbing/"><u>[Updated] In 2024, 6 Unparalleled Mac Apps for Video Grabbing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/150-value-exploring-the-all-in-one-capabilities-of-satechis-universal-docking-station/"><u>$150 Value: Exploring the All-in-One Capabilities of Satechi's Universal Docking Station</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-silent-playthrough-solved-sound-issues-addressed/"><u>Apex Legends Silent Playthrough Solved: Sound Issues Addressed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-the-deal-walmart-offers-a-high-quality-15-asus-notebook-with-essential-connectivity-at-only-250-insights-by-zdnet/"><u>Grab the Deal: Walmart Offers a High-Quality 15 ASUS Notebook with Essential Connectivity at Only $250 - Insights by ZDNet!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/identifying-signs-of-gpu-failure-expert-insights-from-yl-software-solutions/"><u>Identifying Signs of GPU Failure: Expert Insights From YL Software Solutions</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-x-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone X Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-on-the-go-charging-capacity-our-top-pick-for-a-140w-multi-device-power-bank-revealed-zdnet/"><u>Maximize On-The-Go Charging Capacity! Our Top Pick for a 140W Multi-Device Power Bank Revealed | ZDNET</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>New Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-49-unmissable-newegg-cyber-monday-offers-find-out-how-to-save-big-on-tech/"><u>Top 49 Unmissable Newegg Cyber Monday Offers - Find Out How to Save Big on Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-lenovo-laptop-picks-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Lenovo Laptop Picks - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-student-chromebooks-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top-Ranking Student Chromebooks: In-Depth Analysis and Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-ultimate-gaming-audio-bliss-top-rated-sound-systems-now-discounted-at-best-buy-zdnet/"><u>Unleash Ultimate Gaming Audio Bliss: Top-Rated Sound Systems Now Discounted at Best Buy! - ZDNet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-adobe-premiere-pro-cs6-mac-free-download-unleash-your-creativity/"><u>Updated In 2024, Adobe Premiere Pro CS6 Mac Free Download Unleash Your Creativity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/yts-game-changers-the-elite-ladies-in-gaming-for-2024/"><u>YT's Game Changers The Elite Ladies in Gaming for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to USB Categories & Uses: Understanding Every Type"
-date: 2024-09-18T10:33:13.612Z
-updated: 2024-09-22T01:48:42.558Z
+date: 2024-12-22T22:33:15.567Z
+updated: 2024-12-27T18:56:46.880Z
 tags:
   - hardware
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  When it comes to USB, there are really only four things that matter: form factor, transfer speeds, power delivery, and video delivery. There are multiple types of USB that have popped up over the years, each with a unique design and use case. The most common types are USB-A, Micro-USB, and USB-C, but we'll briefly discuss all of the form factors before getting into the other aspects of USB.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  USB-A
 
 ![USB type A plug isolated on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_233599180.jpg) 
@@ -45,30 +49,28 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
  USB-B is pretty much only used on large devices, like scanners or printers. Visually, this connector looks almost square. Most of these are USB-B to USB-A cables, though some newer devices have moved on from USB-B to smaller options, like Micro-USB or Mini-USB.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Micro-USB
 
 ![Micro USB on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_441139267.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [piya kunkayan / Shutterstock](https://www.shutterstock.com/image-photo/micro-usb-on-white-background-441139267)
 
  Micro-USB was the standard a while back for certain portable devices, like Android tablets and smartphones because it can transfer data and provide charge. It comes in both Type-A Micro and Type-B Micro flavors, and is smaller than USB-A. Some manufacturers still opt for using Micro-USB parts for their devices, as they're less costly than those for USB-C.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Mini-USB
 
 ![Mini USB plug, cable seen in close-up on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_2419872495.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [IH82 / Shutterstock.com](https://www.shutterstock.com/image-photo/mini-usb-plug-cable-seen-close-2419872495)
 
@@ -79,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 ![The USB C plug on the Satechi USB C 2.5 Gigabit Ethernet Adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53398648272_e6e75bf794_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -94,15 +93,16 @@ Sergio Rodriguez / How-To Geek
  As manufacturers continue to release new products with ports other than USB-C (looking at you, Apple), we aren't yet able to live in a single-cable society. But we're getting there, and we may eventually be freed from the burden of lugging around multiple cords.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Lightning
 
 ![shutterstock_1932371783](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1932371783.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [108photo / Shutterstock](https://www.shutterstock.com/image-photo/currently-there-3-types-cable-charging-1932371783)
 
@@ -115,19 +115,6 @@ Sergio Rodriguez / How-To Geek
  In addition to coming in a variety of shapes and sizes, USB types also have multiple speed standards. Keep in mind that some USB cables are data transfer only, and others are power delivery only, but also that there are options that can handle both tasks. Be sure to verify a cable's abilities before purchasing it.
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -172,5 +159,26 @@ Sergio Rodriguez / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-morphvox-transformation-tactics-for-professionals/"><u>[New] MorphVOX Transformation Tactics for Professionals</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/orldwide-top-earners-in-the-streaming-sphere/"><u>[New] Worldwide Top Earners in the Streaming Sphere</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy/"><u>[Updated] Harnessing Instagram Video Potential Crafting a Strong Marketing Strategy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-no-more-latency-choose-av1-for-youtube-playback-for-2024/"><u>[Updated] No More Latency Choose AV1 for YouTube Playback for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-illuminating-your-android-videos/"><u>2024 Approved Illuminating Your Android Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-real-time-chromebook-display-logger/"><u>2024 Approved Real-Time Chromebook Display Logger</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultra-portable-windows-notebook-a-comparable-contender-to-apples-macbook-air-techspot/"><u>Discover the Ultra-Portable Windows Notebook: A Comparable Contender to Apple's MacBook Air | TechSpot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-tech-status-with-the-latest-premium-chromebook-accreditation-by-google-a-move-beyond-superficial-credentials/"><u>Elevate Your Tech Status with the Latest Premium Chromebook Accreditation by Google - A Move Beyond Superficial Credentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-savings-apples-new-m3-macbook-air-now-250-cheaper-in-the-amazon-prime-sale-this-october-according-to-zdnet/"><u>Experience Enhanced Savings: Apple's New M3 MacBook Air Now $250 Cheaper in the Amazon Prime Sale This October, According to ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-markets-elite-antivirus-solutions-features-comparisons-and-picks/"><u>Exploring the Market's Elite Antivirus Solutions : Features, Comparisons & Picks</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-algorithm-why-it-hesitates-to-disable-suggests/"><u>Facebook Algorithm: Why It Hesitates to Disable Suggests</u></a></li>
+<li><a href="https://fox-info.techidaily.com/feel-motivated-10-epic-movies-with-deep-impact/"><u>Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-steals-at-515-unbeatable-gametech-during-best-buy-prime-daysexclusive-offer/"><u>HP Victus ✨ Steals at $515 - Unbeatable GameTech During Best Buy Prime Days![Exclusive Offer]</u></a></li>
+<li><a href="https://facebook.techidaily.com/meta-flips-the-tale-of-trumps-internet-presence/"><u>Meta Flips the Tale of Trump's Internet Presence</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-easy-steps-for-bluetooth-drivers-in-windows-1011/"><u>Quick Guide: Easy Steps for Bluetooth Drivers in Windows 10/11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-apples-top-magsafe-charging-station-now-just-60-cheaper-exclusive-tips-and-reviews/"><u>Score Big Savings: Apple's Top MagSafe Charging Station Now Just $60 Cheaper – Exclusive Tips & Reviews !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-in-2-in-1-pcs-an-affordable-alternative-to-lenovodell-ahead-of-amazons-prime-day-sale/"><u>Top Pick in 2-in-1 PCs: An Affordable Alternative to Lenovo/Dell Ahead of Amazon's Prime Day Sale</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-non-lenovo-non-macbook-laptop-shines-in-productivity-tests-insights-from-zdnet/"><u>Top-Ranking Non-Lenovo, Non-MacBook Laptop Shines in Productivity Tests - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-comfort-and-efficiency-the-impact-of-a-split-ergo-keyboard-on-my-daily-workflow-zdnet/"><u>Transforming Comfort and Efficiency: The Impact of a Split Ergo Keyboard on My Daily Workflow | ZDNet</u></a></li>
+</ul></div>
 

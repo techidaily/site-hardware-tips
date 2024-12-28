@@ -1,7 +1,7 @@
 ---
 title: Understanding the Role and Benefits of Placeholder Memory Chips for Personal Computing Enthusiasts
-date: 2024-09-14T22:53:42.909Z
-updated: 2024-09-21T22:17:33.187Z
+date: 2024-12-22T18:00:35.606Z
+updated: 2024-12-28T00:10:14.236Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Understanding the Role and Benefits of Placeholder Memory Chips for Personal Computing Enthusiasts
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -25,7 +29,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Corsair Vengeance Pro lighting enhancement kit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-16-19-49.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Corsair
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Empty RAM Slots Are Ugly
 
@@ -35,13 +47,6 @@ Corsair
 
  In the meantime, these empty slots make the computer look unfinished, and some people consider them an eyesore. Somewhat more cynically, using dummy sticks can also be a way to make a computer look more "tricked out" with hardware than it really is.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Dummy RAM Can Still Do Stuff
 
  Although dummy RAM has no functional use from a performance standpoint, if you like [RGB lighting](https://eaxpv-info.techidaily.com/updated-getting-started-with-your-new-youtube-premium-account-for-2024/), it still functions as fully-featured components of your RGB setup. You can use them as part of the decorative lighting display, and program them to enhance your lighting, just as the name promises.
@@ -49,10 +54,7 @@ Corsair
  Apart from RGB, you could also think of them as protective placeholder, keeping dust and other gunk out of your empty RAM slots, but honestly, that's probably a stretch!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Not Just Buy Regular RAM?
@@ -60,6 +62,10 @@ Corsair
  I've sort of touched on this already, but there are many situations where getting the right number and combination of RAM sticks just isn't possible for your build, and if you really can't stand those open slots, then dummy RAM can be an affordable way to simply paper over the cracks. Of course, since not all RAM kits have a dummy kit version available, you'll need to plan things ahead of your build if you want to use them. Ironically, this might also influence what brand and model of RAM you get, since you'll need to stick to RAM models that have a dummy variant.
 
 ![Corsair Vengeance PRO RGB light enhancement kit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/corsairram.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Corsair Vengeance RGB PRO Light Enhancement Kit
 
@@ -86,5 +92,18 @@ This "dummy" RAM won't get you any additional memory, but pair it with a set of 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-ensure-consistent-frame-rates-in-multi-camera-setups-for-2024/"><u>[New] How to Ensure Consistent Frame Rates in Multi-Camera Setups for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-complete-overview-of-polarr-photo-editor/"><u>A Complete Overview of Polarr Photo Editor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-value-with-dells-top-secret-budget-beast-exceptional-tech-meets-wallet-friendly-pricing/"><u>Discovering Value with Dell's Top-Secret Budget Beast - Exceptional Tech Meets Wallet-Friendly Pricing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-content-premier-youtube-rank-tracker-apps-for-2024/"><u>Elevate Your Content Premier YouTube Rank Tracker Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fostering-connection-chatgpts-role-in-mitigating-loneliness/"><u>Fostering Connection: ChatGPT's Role in Mitigating Loneliness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-release-of-an-m3-macbook-air-signaling-a-shift-away-from-iphone-hype-insights/"><u>Is the Release of an M3 MacBook Air Signaling a Shift Away From iPhone Hype? Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-fingerprint-driver-software-free-download-and-updates-for-pc/"><u>Latest Fingerprint Driver Software: Free Download and Updates for PC</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-in-2024-best-10-free-video-translators-to-mitigate-translation-risks/"><u>New In 2024, Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-top-of-the-line-laptop-challenges-apples-macbook-pro-in-performance-a-comprehensive-review/"><u>Samsung's Top-of-the-Line Laptop Challenges Apple's MacBook Pro in Performance: A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-at-your-fingertips-is-lenovos-new-yoga-book-9i-sparks-a-trend-for-multi-panel-computers/"><u>The Future at Your Fingertips: Is Lenovo's New Yoga Book 9I Sparks a Trend for Multi-Panel Computers?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/travelgizmos2024-exploring-the-must-have-devices-for-smart-travelers-featured/"><u>TravelGizmos2024: Exploring the Must-Have Devices for Smart Travelers Featured</u></a></li>
+</ul></div>
 

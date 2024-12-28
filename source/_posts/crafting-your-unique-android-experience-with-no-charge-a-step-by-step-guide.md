@@ -1,7 +1,7 @@
 ---
 title: "Crafting Your Unique Android Experience with No Charge: A Step-by-Step Guide"
-date: 2024-09-14T17:20:03.093Z
-updated: 2024-09-22T02:57:43.852Z
+date: 2024-12-26T00:22:10.139Z
+updated: 2024-12-27T18:34:14.176Z
 tags:
   - android
 categories:
@@ -55,6 +55,10 @@ Reddit
 
 ![Pure white custom lockscreen on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3n2i3az24xe21.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Reddit
 
 ![Black themed custom lockscreen on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/hmjhbjz.png) 
@@ -91,6 +95,10 @@ Close
 
 ![Turning off battery optimization in KWGT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-05-20-680_org-kustom-widget.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Battery saver settings in the Android app menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-05-39-770_com-miui-securitycenter.jpg) 
 
 ![Turning off all battery restrictions for KWGT in the Android settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-05-42-655_com-miui-powerkeeper.jpg) 
@@ -100,6 +108,10 @@ Close
  To complete the setup, we’ll create a folder to save our Kustom assets. Tap “Select Folder” to land on your phone’s file explorer, tap the three-dot menu, and create a new folder. Name it “Kustom” and finally tap the big “Allow Access to Kustom” button at the bottom. Now your app is ready to go. Tap “Close” to close the app.
 
 ![Button for creating a dedicated folder for storing KWGT assets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-05-51-233_org-kustom-widget.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Creating and naming the new folder for KWGT assets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-06-08-766_com-google-android-documentsui.jpg) 
 
@@ -153,9 +165,17 @@ Close
 
 ![Steps for changing global colors in a widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-28-07-47-40-970_org-kustom-widget.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Selecting a new color for the widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-28-07-47-57-440_org-kustom-widget.jpg) 
 
 ![Saving changes made to the edited widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-28-07-48-00-515_org-kustom-widget.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -185,21 +205,7 @@ Close
 
 ![Disabling battery optimization for Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-30-12-248_org-kustom-lockscreen-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Selecting no battery saver restrictions on Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-30-20-774_com-miui-powerkeeper-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Selecting the assets folder for Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-30-31-658_org-kustom-lockscreen-2.jpg) 
 
@@ -219,13 +225,14 @@ Close
 
 ![Enabling notification permissions for Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-37-16-436_com-android-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Confirming notification permissions for Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-37-22-513_com-miui-securitycenter.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close 
@@ -242,7 +249,15 @@ Close
 
 ![Background image successfully updated in the Kustom Lock editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-44-05-435_org-kustom-lockscreen.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Deleting a text stack in the Kustom Lock editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-45-16-768_org-kustom-lockscreen.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -251,6 +266,10 @@ Close
 ![New element button highlighted in Kustom Lock editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-50-56-972_org-kustom-lockscreen.jpg) 
 
 ![Creating a new progress bar using the element menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1716872545569.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![New default progress added to the lockscreen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-53-13-591_org-kustom-lockscreen.jpg) 
 
@@ -276,13 +295,6 @@ Close
 
 ![Granting required permissions to enable Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-14-09-464_org-kustom-lockscreen.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Enabling the newly created lockscreen in Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-18-14-357_org-kustom-lockscreen.jpg) 
 
 Close 
@@ -292,13 +304,6 @@ Close
 ![Custom lockscreen created using Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-17-52-762_org-kustom-lockscreen.jpg) 
 
 ![Custom widget created using KWGT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-20-14-439_com-teslacoilsw-launcher.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close 
 
@@ -319,5 +324,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-extracting-fb-video-files-from-pcmac/"><u>[New] In 2024, Extracting FB Video Files From PC/Mac</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-knowledge-hub-leading-educational-youtube-sources/"><u>[Updated] 2024 Approved Knowledge Hub Leading Educational YouTube Sources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipating-the-latest-unveiling-how-gamers-reacted-to-msis-fresh-catalog-release/"><u>Anticipating the Latest Unveiling: How Gamers Reacted to MSI's Fresh Catalog Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultimate-gaming-audio-bliss-save-150-on-top-rated-speakers-at-amazon-detailed-review-by-zdnet/"><u>Experience Ultimate Gaming Audio Bliss: Save $150 on Top-Rated Speakers at Amazon - Detailed Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-tech-revealed-how-intels-innovative-ai-chips-are-set-to-transform-your-next-laptop-experience-zdnet-insights/"><u>Future Tech Revealed: How Intel's Innovative AI Chips Are Set to Transform Your Next Laptop Experience | ZDNET Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mambo-measuring-macaws/"><u>In 2024, Mambo Measuring Macaws</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimal-low-cost-screen-recording-options-for-chromebook/"><u>In 2024, Optimal Low-Cost Screen Recording Options for Chromebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-defender-application-guard-for-secure-edge-use-in-win-11/"><u>Setting Up Defender Application Guard for Secure Edge Use in Win 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-productivity-tablet-that-outshines-both-lenovo-and-microsoft-insider-tips-from-a-tech-guru-zdnet/"><u>Top-Performing Productivity Tablet That Outshines Both Lenovo & Microsoft - Insider Tips From a Tech Guru | ZDNet</u></a></li>
+</ul></div>
 

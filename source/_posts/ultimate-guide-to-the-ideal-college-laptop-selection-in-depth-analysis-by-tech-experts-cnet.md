@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Ideal College Laptop Selection: In-Depth Analysis by Tech Experts - CNET"
-date: 2024-12-16T19:34:33.127Z
-updated: 2024-12-21T19:48:29.172Z
+date: 2024-12-25T23:21:37.590Z
+updated: 2024-12-27T16:59:01.655Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ We prioritized machines that scored well in durability, portability, and of cour
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best laptop for college right now?
@@ -45,14 +45,10 @@ Cons
 * Limited ports
 * Uninspiring speakers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple MacBook Air M3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best college laptop overall
@@ -86,7 +82,7 @@ Cons
 * No HDMI or USB-A ports
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HP Dragonfly Pro Chromebook
@@ -122,10 +118,6 @@ Cons
 * A little bulky
 
 ## Acer Aspire Go 15
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best college laptop under $500
 
@@ -184,6 +176,10 @@ Cons
 
 ## Lenovo Yoga Book 9i
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best 2-in-1 convertible laptop for college
 
 In a sea of laptops that all look more or less the same, the Lenovo Yoga Book 9i dares to do something drastically different. Armed with two 13.3-inch touchscreen displays that can be configured in different ways, the Yoga Book 9i is the best choice for students that need a flexible 2-in-1 laptop and performance to boot.
@@ -198,10 +194,6 @@ There are a few considerations, however. First, the $2,000 price tag puts it at 
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best laptop for college?
 
 The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take whatever tasks your major requires of you, and the entire package weighs just 2.7 pounds.
@@ -215,7 +207,7 @@ The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zd
 | Lenovo YogaBook 9i          | $1,999            | Intel Core Ultra 155U, Intel Iris Xe | 16GB, 512GB                 | 3.15             |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right laptop for college for you?
@@ -229,6 +221,10 @@ The right college for laptop depends on first on what you want to get out of it,
 | Acer Aspire Go 15                   | An affordable laptop that can cover the basics, but don't need anything fancy.                        |
 | Asus ROG Zephyrus G14               | A laptop you can take to class, but can double as a gaming machine.                                   |
 | Lenovo Yoga Book 9i                 | A dual-screen laptop that works for art or design classes, or a laptop with versatile configurations. |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -256,6 +252,10 @@ These are the factors that I weighed when selecting the best laptops for college
 * **Price:** Cost is an important factor, especially for students. I included laptops that cover a wide range of price points, from the inexpensive [Acer Aspire Go 15](https://www.zdnet.com/article/i-replaced-my-desktop-with-a-299-laptop-for-a-week-and-was-pleasantly-surprised/) at just $300 to the pricier [Lenovo Yoga Book 9i](https://www.zdnet.com/article/i-tested-lenovos-dual-screen-laptop-and-it-improved-my-productivity-in-profound-ways/) that will run closer to $2,000\. Keep in mind that most computer manufacturers offer student discounts, and their buying links are included in each laptop's section on this page.
 * **Portability:** Carrying around a heavy laptop all day while on campus is a tough ask. That's why all five of these laptops were considered to be light enough to be carried around a full day at school, the heaviest of which (the Acer Aspire Go 15) is only 3.7 pounds.
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
@@ -317,24 +317,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-storytelling-on-screen-crafting-compelling-narratives-for-instareels/"><u>[New] 2024 Approved Storytelling on Screen Crafting Compelling Narratives for InstaReels</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-fast-and-efficient-image-captures-pcs-top-snipping-software-ranked/"><u>[New] Fast & Efficient Image Captures PC's Top Snipping Software Ranked</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-how-to-delete-video-posts-android-and-windows-devices/"><u>[New] How to Delete Video Posts Android & Windows Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-voice-storage-test-report-for-2024/"><u>[Updated] Voice Storage Test Report for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/crafting-quality-captures-the-ultimate-guide-to-recording-roblox-on-a-macbook/"><u>Crafting Quality Captures The Ultimate Guide to Recording Roblox on a MacBook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-the-apple-watch-ultra-2-became-a-game-changing-wearable-for-me-now-with-100-off-on-labor-day-exclusive-review-by-zdnet/"><u>How the Apple Watch Ultra 2 Became a Game-Changing Wearable for Me, Now with $100 Off on Labor Day | Exclusive Review by ZDNET</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-zte-axon-40-lite-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 ZTE Axon 40 Lite Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oneplus-nord-3-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent OnePlus Nord 3 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://discover-help.techidaily.com/top-asf-to-mp4-converters-quick-guide-on-efficient-transformation-of-files/"><u>Top ASF to MP4 Converters: Quick Guide on Efficient Transformation of Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-your-videos-using-video-enhancer-v22/"><u>Transform Your Videos Using Video Enhancer V2.2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-hosting-a-memorable-labor-day-bash/"><u>Ultimate Guide to Hosting a Memorable Labor Day Bash</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-pick-of-the-5-most-reliable-all-in-one-universal-tv-remotes-zdnet/"><u>Ultimate Pick of the 5 Most Reliable All-in-One Universal TV Remotes (ZDNet)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-on-top-rated-lg-oled-tvs-get-up-to-800-off-this-labor-day-insider-scoop-from-zdnet/"><u>Unbeatable Deals on Top-Rated LG OLED TVs: Get Up To $800 Off This Labor Day - Insider Scoop From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-labor-day-savings-on-highly-rated-lg-oled-tvs-available-up-to-80t-discounted-only-here-zdns-tech-corner/"><u>Unbeatable Labor Day Savings on Highly Rated LG OLED TVs, Available Up to $80T Discounted Only Here | ZDN's Tech Corner</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-no-cost-enhancements-on-your-roku-tv-the-premium-update-awaits/"><u>Unlock Exclusive, No-Cost Enhancements on Your Roku TV - The Premium Update Awaits!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-and-how-to-purge-your-smart-tvs-memory-for-optimal-performance/"><u>Why and How to Purge Your Smart TV's Memory for Optimal Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-ultimate-cheat-sheet-for-turning-your-iphone-into-an-efficient-tv-remote-control/"><u>Your Ultimate Cheat Sheet for Turning Your iPhone Into an Efficient TV Remote Control</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-highlights-exceptional-samsung-tv-performance-matched-with-historically-low-price-point/"><u>ZDNet Highlights: Exceptional Samsung TV Performance Matched with Historically Low Price Point</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-guide-to-the-ultimate-selection-of-40-tvs-for-2n4-expert-ratings-unveiled/"><u>ZDNet's Guide to the Ultimate Selection of 40 TVs for 2N4: Expert Ratings Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-on-maximizing-adobes-cloud-storage-capabilities-and-top-contenders/"><u>[New] Expert Tips on Maximizing Adobe's Cloud Storage Capabilities and Top Contenders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-why-does-imovie-enforce-dimensions-in-2024/"><u>[New] Why Does iMovie Enforce Dimensions, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-key-strategies-for-board-utilization-across-devices-in-zoom/"><u>[Updated] 2024 Approved Key Strategies for Board Utilization Across Devices in Zoom</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-constructing-youtube-playlists-made-simple/"><u>[Updated] In 2024, Constructing YouTube Playlists Made Simple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2023-ultimate-guide-to-optimal-ram-selection-essential-memory-boosts-for-professionals-and-gamers-by-zdnet/"><u>2023 Ultimate Guide to Optimal RAM Selection: Essential Memory Boosts for Professionals & Gamers by ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-turning-popular-sounds-on-tiktok-into-personal-cellphone-alarms/"><u>2024 Approved Turning Popular Sounds on TikTok Into Personal Cellphone Alarms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoiding-wait-times-a-guide-to-purchasing-the-latest-macbook-pro-and-mac-mini-from-apple/"><u>Avoiding Wait Times: A Guide to Purchasing the Latest MacBook Pro & Mac Mini From Apple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-apple-innovations-mac-mini-versus-mac-studio-how-does-the-new-m2-stack-up-against-its-predecessor-the-m1/"><u>Comparing Apple Innovations: Mac Mini versus Mac Studio – How Does the New M2 Stack Up Against Its Predecessor, the M1?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deals-on-dells-premium-lines-score-big-savings-on-xps-latitude-and-precision-for-june-2023-zdnet/"><u>Exclusive Deals on Dell's Premium Lines: Score Big Savings on XPS, Latitude & Precision for June 2023 | ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme Narzo 60 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-best-bits-of-bulb-tech-top-17-choices/"><u>In 2024, Best Bits of Bulb Tech - Top 17 Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-health-the-three-must-have-windows-programs-for-effective-error-resolution/"><u>Mastering PC Health: The Three Must-Have Windows Programs for Effective Error Resolution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rejuvenate-your-slow-computer-top-strategies-for-windows-11-and-mac-revitalization-insights-by-zdnet/"><u>Rejuvenate Your Slow Computer: Top Strategies for Windows 11 and Mac Revitalization - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-up-to-50-off-premium-4tb-samsung-portable-ssd-available-at-amazon-zdnet-exclusive-deal/"><u>Save Big with Up to 50% Off: Premium 4TB Samsung Portable SSD Available at Amazon – ZDNET Exclusive Deal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-microphones-reviews-and-buyers-guide-by-zdnet/"><u>Top-Rated Streaming Microphones - Reviews & Buyer's Guide by ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-full-potential-of-zoom-in-your-xbox-setup-for-2024/"><u>Unlock the Full Potential of Zoom in Your Xbox Setup for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-pcs-potential-with-hdd-defragmentation/"><u>Unlock Your PC's Potential with HDD Defragmentation</u></a></li>
 </ul></div>
 

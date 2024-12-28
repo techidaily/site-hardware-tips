@@ -1,7 +1,7 @@
 ---
 title: Unveiling the SpeedNova Experience in True Wireless Cetra Gaming Earphones by ROG - Sound Quality and Latency Tested!
-date: 2024-09-15T03:38:04.342Z
-updated: 2024-09-22T02:13:44.215Z
+date: 2024-12-23T21:49:57.050Z
+updated: 2024-12-27T19:37:41.723Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Unveiling the SpeedNova Experience in True Wireless Cetra Gaming Earphones by ROG - Sound Quality and Latency Tested!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -79,6 +83,10 @@ Expand
 
 ![Package contents for ROG Cetra True Wireless SpeedNova Headphones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/02-2024-04-05-16-15-09.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bill Loguidice / How-To Geek
 
  Establishing a Bluetooth connection is as simple as opening the charging case with the headphones in it and pairing it with your phone or other device. For audio, RGB lighting, and configuration options, you can install the [iPhone](https://apps.apple.com/us/app/armoury-crate/id1381270429) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003119/https://play.google.com/store/apps/details?id=com.asus.rog.roggamingcenter3) Armoury Crate app.
@@ -91,16 +99,13 @@ Close
 
  One of the nicer features of the Cetra True Wireless SpeedNova headphones is their ability to connect to two devices at the same time, one over Bluetooth and the other over the 2.4GHz USB-C dongle. That means, for instance, that when you're gaming on your PC through the dongle, you can answer a phone call over Bluetooth.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design and Fit: Big and Comfortable with Unnecessary RGB Lighting
 
 ![Woman's hands holding ROG Cetra True Wireless SpeedNova Headphones in case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/03-2024-04-05-16-21-12.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -113,6 +118,10 @@ Bill Loguidice / How-To Geek
  Befitting their gaming-centric status, the headphones feature Asus Aura RGB lighting, with up to 16.8 million colors and both preset and customizable lighting effects. While I appreciate the effort, it's impossible to notice the lighting effects when you're wearing the earbuds, making it an easy option to turn off to improve battery life.
 
  Each earbud supports tap and tap and hold gestures, which are enabled by default and can be disabled or reprogrammed. For instance, by default, tapping once on the left earbud plays or pauses, and tapping twice changes the ANC mode. I found that gesture support worked well regardless of the devices I was using them on. The feature is on the more sensitive side, so I'd often inadvertently tap when placing an earbud in my ear or adjusting its position, causing the built-in voice to announce a change in function.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Sound and Immersion: Lots of Options but Nothing Truly Elevated
 
@@ -135,10 +144,7 @@ Close
  One feature I did appreciate, and something I don't think should be overlooked for multiplatform gamers, is how easy it is to switch between different platforms with the dongle. For instance, I could remove the dongle from my PC, have it automatically switch to my other audio source, then plug the dongle into my Nintendo Switch OLED and immediately start gaming on that device. This quick switchover holds for any of the platforms that support the dongle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Buy the ROG Cetra True Wireless SpeedNova Headphones?
@@ -170,5 +176,22 @@ Bluetooth and 2.4GHz wireless gaming headphones with ROG SpeedNova wireless tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-foremost-10-recording-apps-for-social-media-vids/"><u>[New] In 2024, Foremost 10 Recording Apps for Social Media Vids</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-building-brand-loyalty-tips-for-higher-fb-page-ranking/"><u>[Updated] Building Brand Loyalty Tips for Higher FB Page Ranking</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728482518823-windows-10/"><u>如何解决Windows 10中自动清理下载文件问题</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-lenovo-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Lenovo Fingerprint Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-get-the-8tb-samsung-ssd-for-9400-less-at-a-36-markdown-hot-savings-alert/"><u>Don't Miss Out: Get the 8TB Samsung SSD for $9,400 Less at a 36% Markdown – Hot Savings Alert !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-to-scoring-fantastic-laptop-deals-during-october-2024-amazon-prime-day-tips-and-reviews/"><u>Exclusive Guide to Scoring Fantastic Laptop Deals During October 2024 Amazon Prime Day - Tips & Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-dll-not-loaded-errors-strategies-for-a-smooth-computer-operation/"><u>Fixing 'DLL Not Loaded' Errors - Strategies for a Smooth Computer Operation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-f04-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Samsung Galaxy F04 to iPod | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-unveils-new-thinkpads-with-cutting-edge-ai-technology-tailored-for-business-efficiency-insights-from-zdnet/"><u>Lenovo Unveils New ThinkPads with Cutting-Edge AI Technology Tailored for Business Efficiency | Insights From ZDNET</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/premium-pages-on-mobile-best-ig-covers-app/"><u>Premium Pages on Mobile Best IG Covers App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/real-time-voice-to-action-no-price-tag-for-2024/"><u>Real-Time Voice to Action, No Price Tag for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sale-alert-grab-the-deal-on-a-discounted-8tb-samsung-t5-ssd-post-prime-day-up-to-36-off-zdnet/"><u>Sale Alert: Grab the Deal on a Discounted 8TB Samsung T5 SSD Post-Prime Day - Up To 36% Off! - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-for-gamers-intel-arc-powered-pcs-comes-with-valuable-game-collection-worth-more-than-450-zdnet-insights/"><u>Score Big Savings for Gamers! Intel Arc-Powered PCs Comes With Valuable Game Collection Worth More Than $450 | ZDNet Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/sleepy-story-vids-assessment-and-overview/"><u>Sleepy Story Vids Assessment & Overview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-high-performance-laptops-for-video-creation-in-depth-analysis-and-ratings-cnet-expert-picks/"><u>Ultimate List of High-Performance Laptops for Video Creation: In-Depth Analysis & Ratings - CNET Expert Picks</u></a></li>
+</ul></div>
 

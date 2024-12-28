@@ -1,7 +1,7 @@
 ---
 title: "Top Tech Bargains: Secure PlayStation VR² for Only $690, High-Quality AirPods at a Steal, and Reliable Anker Power Stations!"
-date: 2024-09-21T00:08:54.385Z
-updated: 2024-09-22T02:36:06.103Z
+date: 2024-12-26T16:20:53.075Z
+updated: 2024-12-27T21:14:58.660Z
 tags:
   - hardware
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/40daecb43446fb2453b8b24925113b6da283db2cd
 With summer winding down and kids going back to school, now is the perfect time to search for the best tech deals. Thankfully, we've done the hard work for you and found some noteworthy discounts on TVs, gaming or mobile accessories, headphones, and more.
 
  For starters, you can get the AirPods 2nd Gen for under $70, save $450 on an 1800W Anker portable power station, or get a new 65-inch 4K TV at a lower price than we saw on Prime Day. Check out the deals below before they're gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Anker SOLIX C1000 Power Station for $549 ($450 Off)](https://www.amazon.com/Anker-Portable-Generator-UltraFast-Optional/dp/B0C5C89QKZ/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004520&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-ps-vr2-power-station-airpods-tvs%2F&asc%5Fcampaign=Short-Term) 
 
@@ -61,6 +65,10 @@ Upgrade your home internet experience (up to 6,500 sqft) with TP-Link's blazing-
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/6505544_sd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  Hisense 65-Inch Class U6H Series Quantum Smart TV
 
 $548 $750 Save $202 
@@ -72,22 +80,12 @@ Enjoy high-quality audio and video powered by Google or Fire TV with this budget
  These days, you can get a quality TV without breaking the bank, and that's more true than ever with the Hisense U6HF 65-inch TV. This is the latest 2024 model, delivering a stunning QLED experience with Fire TV built-in, full-array local dimming, and more. [Get it right now at a $300 discount](https://www.amazon.com/Hisense-65-Inch-Class-Smart-65U6HF/dp/B0CHJ87V95?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004520&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-ps-vr2-power-station-airpods-tvs%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Apple AirPods 2nd Gen Wireless Earbuds for $69.99 ($60 Off)](https://www.amazon.com/dp/B07PXGQC1Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004520&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-ps-vr2-power-station-airpods-tvs%2F&asc%5Fcampaign=Short-Term) 
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31bo1l1yl7l-_sl500_.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Apple AirPods (2nd Gen) With Lightning Charging Case
 
@@ -99,9 +97,17 @@ Sleek and comfy, Apple's in-ear iPhone 14 AirPods can serenade you with high-qua
 
  If anyone in your household needs a new set of AirPods you'll want to grab these while they're nearly 50% off. The older 2nd generation earbuds go on sale quite often, and if anyone has lost a bud or needs some headphones for school, don't pass up [AirPods for $70](https://www.amazon.com/dp/B07PXGQC1Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004520&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-ps-vr2-power-station-airpods-tvs%2F&asc%5Fcampaign=Short-Term).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Tech Deals
 
 ![Some tech products with several 'x' icons around them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/some-tech-products-with-several-x-icons-around-them.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek
 
@@ -128,5 +134,22 @@ Lucas Gouveia / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unleashing-potential-learning-to-race-with-drones-and-best-models/"><u>[New] 2024 Approved Unleashing Potential Learning to Race with Drones and Best Models</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-integrate-insta-tweet-and-snap-a-comprehensive-guide/"><u>[New] Integrate Insta, Tweet & Snap A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-avoiding-fakes-instagram-selfie-wisdom-for-2024/"><u>[Updated] Avoiding Fakes Instagram Selfie Wisdom for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-discover-how-these-15-advanced-facebook-gadgets-boost-e-commerce-sale-traffic/"><u>[Updated] Discover How These 15 Advanced Facebook Gadgets Boost E-Commerce Sale Traffic</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-quick-money-tally-for-video-marketers-for-2024/"><u>[Updated] Quick Money Tally for Video Marketers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/videodownloadhelper-firefox/"><u>「VideoDownloadHelper Firefox 拡張機能の詳細：ダウンロード手順・安全性に関する包括的解説！」</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-gaming-speakers-sale-top-rated-immersive-sound-system-now-150-off-featured-in-zdnet-review/"><u>Amazon Gaming Speakers Sale! Top-Rated Immersive Sound System Now $150 Off - Featured in ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-prime-day-exclusive-get-hp-victus-amoled-15-at-a-steal-for-just-450-insider-tips-from-zdnet/"><u>Best Buy's Prime Day Exclusive: Get HP Victus Amoled 15 at a Steal for Just $450 - Insider Tips From ZDNet!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-and-enhance-your-brother-l2300d-printer-with-latest-updates/"><u>How to Download and Enhance Your Brother L2300D Printer with Latest Updates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-securely-delete-all-private-information-from-your-windows-laptop-at-no-cost-a-comprehensive-guide/"><u>How to Securely Delete All Private Information From Your Windows Laptop at No Cost: A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-list-10-best-webcam-recorders-for-windows-10/"><u>New 2024 Approved The Ultimate List 10 Best Webcam Recorders for Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-best-octobers-vr-deal-dont-miss-out-on-metas-premium-512gb-quest-3-offer-this-prime-day-insights-from-zdnet/"><u>Snag the Best Octobers VR Deal! Don't Miss Out on Meta's Premium 512GB Quest 3 Offer This Prime Day | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-near-perfect-ultraportable-experience-with-this-lenovo-thinkpad-insights-from-zdnet/"><u>The Near-Perfect Ultraportable Experience with This Lenovo ThinkPad - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-oled-laptop-picks-comprehensive-reviews-by-tech-experts/"><u>Top-Ranking OLED Laptop Picks : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-apple-m3-macbook-air-top-3-impressive-enhancements-revealed-in-our-in-depth-review-zdnet/"><u>Unveiling the Apple M3 MacBook Air: Top 3 Impressive Enhancements Revealed in Our In-Depth Review - ZDNet</u></a></li>
+</ul></div>
 

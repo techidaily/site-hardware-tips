@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secret: How Every Printed Document Carries Hidden Identifiers"
-date: 2024-09-15T07:22:39.476Z
-updated: 2024-09-22T01:07:24.516Z
+date: 2024-12-20T21:39:10.164Z
+updated: 2024-12-27T21:28:12.288Z
 tags:
   - hardware
 categories:
@@ -19,11 +19,19 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 
  Printers embed hidden yellow dots on pages, revealing who printed what and when. This tracking tech, existing for over 20 years, aids in preventing counterfeiting but raises privacy concerns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Tracking Codes in Detail
 
  If you [add a printer to Windows 11](https://video-capture.techidaily.com/updated-browsing-made-memorable-the-leading-screen-recorder-software-for-2024/), you'll still be getting tracking codes printed on your pages. Even though you could theoretically change the [settings to adjust the privacy in Windows 11](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/), you can't change dots from going on your printed pages. Tracking codes are a form of steganography that involves hiding information within another medium, such as an image or document. In the case of printers, tracking codes are used to embed identifying information about the printer and the printed document within the document itself. The most well-known type of printer tracking code is the yellow dot pattern, where tiny, barely visible yellow dots are arranged in a grid to encode data.
 
 ![Brother HL-L3295CDW Color Laser Printer Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/brother-hl-l3295cdw-color-laser-printer-screen-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Patrick Campanale / How-To Geek
 
@@ -32,6 +40,10 @@ Patrick Campanale / How-To Geek
 ##  How Did These Codes Come About?
 
 ![A printer printing a black and white "How-To Geek" page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52775531323_2850f9e4cf_o-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Jason Montoya / How-To Geek
 
@@ -67,6 +79,10 @@ _[New Africa/Shutterstock.com](https://www.shutterstock.com/image-photo/employee
 
  Instead of reading all of this information, if you want to decode this, there's [a handy website](https://w2.eff.org/Privacy/printers/docucolor/#program) that can attempt to process the data and give you a result.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Could This Feature Be Abused?
 
  Like many features installed for security reasons ([like Microsoft's upcoming Recall feature](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/)), steganography can be used for nefarious purposes. One of the main concerns is the lack of transparency surrounding the use of tracking codes. Many users are unaware that their printed documents contain hidden identifying information, and printer manufacturers have not always been forthcoming about the presence or purpose of these codes.
@@ -76,22 +92,12 @@ _[New Africa/Shutterstock.com](https://www.shutterstock.com/image-photo/employee
  This is a significant red flag for any individual who's concerned about the privacy of their information. Its use in some cases to [prosecute whistleblowers](https://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html#.WTcCt%5Fryvft) who have leaked documents is well-documented.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can You Disable This Tracking?
 
 ![A Star Delta-10 dot matrix printer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/star_dot_matric_printer.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Star](https://www.vintagecomputing.com/index.php/archives/973/retro-scan-of-the-week-star-dot-matrix-printer)
 
@@ -114,5 +120,17 @@ A Star Delta-10 dot matrix printer.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-splitcam-review/"><u>[New] In 2024, SplitCam Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-pop-sync-streamlining-song-placement-on-instagram-stories-for-2024/"><u>[New] Pop Sync Streamlining Song Placement on Instagram Stories for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-navigate-through-dynamic-gifs-find-these-best-recorders-in-winos/"><u>[Updated] In 2024, Navigate Through Dynamic GIFs Find These Best Recorders in WinOS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-ultimate-3d-experience-guide-to-top-blu-ray-players/"><u>2024 Approved Ultimate 3D Experience Guide to Top Blu-Ray Players</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-top-framework-chromebook-rated-as-ultimate-fixability-and-longevity-champion-insights/"><u>Comprehensive Guide: Top Framework Chromebook Rated as Ultimate Fixability & Longevity Champion - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-2024-offers-at-best-buy-limited-time-tech-news/"><u>Exclusive October Prime Day 2024 Offers at Best Buy - Limited Time! | Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/holiday-tech-guide-find-the-best-deals-on-apples-dells-and-hps-exclusive-offers/"><u>Holiday Tech Guide: Find the Best Deals on Apples, Dells, and HPs - Exclusive Offers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-6-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 6</u></a></li>
+<li><a href="https://win-news.techidaily.com/pemulihan-file-downloaded-keahlian-di-windows-11-langkah-langkah-memutuskan/"><u>Pemulihan File Downloaded Keahlian Di Windows 11 - Langkah-Langkah Memutuskan</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-powerhouse-performance-for-less-secure-your-new-hp-victus-15-laptop-today-for-a-low-price-of-515-with-this-special-deal-at-best-buy-on-prime-day/"><u>Unleash Powerhouse Performance for Less: Secure Your New HP Victus 15 Laptop Today for a Low Price of $515 with This Special Deal at Best Buy on Prime Day</u></a></li>
+</ul></div>
 

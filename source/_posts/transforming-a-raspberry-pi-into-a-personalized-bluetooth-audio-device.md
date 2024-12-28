@@ -1,7 +1,7 @@
 ---
 title: Transforming a Raspberry Pi Into a Personalized Bluetooth Audio Device
-date: 2024-09-18T21:30:16.513Z
-updated: 2024-09-21T23:46:45.966Z
+date: 2024-12-25T23:29:25.235Z
+updated: 2024-12-27T21:48:51.333Z
 tags:
   - hardware
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Creating the fleet on BalenaCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/bc-create-fleet.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you're familiar with the fleet dashboard, find the "Add device" button, and select it. Once you've selected the "Add device" button, do the following. First, select "Development". Then, find "Network", select "Wi-Fi + Ethernet", and enter your WiFi network name and password. When everything is configured, click the arrow button next to "Flash," and select "Download balenaOS".
 
 ![Filling out hardware details on BalenaCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/bc-add-hardware.png) 
@@ -51,6 +55,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Etcher begin flashing to target.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/bc-etcher-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Connect and Power Up Your Raspberry Pi
 
  After inserting your SD card into the Pi, plug in the power supply, and turn it on. You should also plug in an HDMI cable to the Pi and your audio system (if it supports HDMI). Alternatively, if your audio system does not support HDMI, plug it in via the Pi's analog audio port.
@@ -64,10 +76,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Selecting the "Deploy to fleet" button will download and install BalenaSound on your Pi. This process will take a bit of time, but once it is finished, it can accept connections via Spotify Connect, Bluetooth, Apple Airplay, and many other features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Configure Balena Sound Settings for Optimal Audio Performance
@@ -79,10 +88,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Setting audio in BalenaCloud for the speaker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/bc-setting-volume.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
         `amixer -c 0 cset numid=1 100%`
@@ -105,18 +111,15 @@ amixer -c 0 cset numid=3 100%`
 
 ![Spotify outputting to the Pi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/spotify-playback.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Troubleshooting and Optimizing Your Balena Sound Setup
 
  Now that you've set up BalenaSound on your Raspberry Pi and turned it into a Bluetooth speaker, it's time to fine-tune it for optimal performance. If you run into any issues or want to get the best possible sound quality, don't worry - troubleshooting isn't as hard as it seems. Start with the basics: ensure your Raspberry Pi is properly connected to your speaker, and that the volume is turned up and not muted. Be sure to also take a look at the command output for each of the services on the Balena Cloud dashboard. For example, below we see the Spotify service output, and it shows that it is working correctly.
 
 ![The Spotify logs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/spotify-logs.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you run into more complicated issues or want to take your setup to the next level, consider checking out the BalenaSound settings and exploring the options available. You can adjust buffer sizes, latency settings, and more to meet your needs. Don't be afraid to experiment and try out different configurations. If you get stuck, the [issues page on GitHub](https://github.com/balena-io-experimental/balena-sound/issues) is always a good place to check.
 
@@ -135,5 +138,23 @@ amixer -c 0 cset numid=3 100%`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-pocket-friendly-pro-mics-for-youtube-enthusiasts/"><u>[New] 2024 Approved Pocket-Friendly Pro Mics for YouTube Enthusiasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-ad-101-create-stunning-and-effective-snapchat-ads/"><u>[New] In 2024, Snapchat Ad 101 Create Stunning & Effective Snapchat Ads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-audio-switch-from-srt-to-xmlssa-guide/"><u>[Updated] Seamless Audio Switch From SRT to XML/SSA Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-laptop-revives-popular-term-from-techs-past-era-insights/"><u>Affordable Laptop Revives Popular Term From Tech's Past Era: Insights</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/colors-missing-in-document-output/"><u>Colors Missing in Document Output</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-pre-prime-day-savings-guide-unveiled-retail-experts/"><u>Exclusive Pre-Prime Day Savings Guide | Unveiled Retail Experts</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-backup-windows-11-on-network-attached-storage-nas-or-local-shared-drives/"><u>How to Backup Windows 11 on Network-Attached Storage (NAS) or Local Shared Drives?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x50iplus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X50i+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-lava-blaze-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Lava Blaze Pro 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-transform-your-chromebook-into-a-linux-powerhouse-2023-edition/"><u>New 2024 Approved Transform Your Chromebook Into a Linux Powerhouse (2023 Edition)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newest-releases-from-apple-unveiled-this-week-iphone-15-pro-series-9-watch-and-airpods/"><u>Newest Releases From Apple Unveiled This Week: IPhone 15 Pro, Series 9 Watch, and AirPods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-building-your-perfect-gamers-paradise-tips-and-tricks/"><u>The Complete Guide to Building Your Perfect Gamer's Paradise - Tips & Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranking-avi-and-dvd-converter-for-windows-11/"><u>Top-Ranking Avi and DVD Converter for Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-inner-gamers-with-the-ultimate-sound-system-on-sale-at-best-buy-as-reviewed/"><u>Unleash Your Inner Gamers with the Ultimate Sound System on Sale at Best Buy, as Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/what-will-you-discover-at-apples-next-big-reveal-m4-mac-mini-and-advancements-in-apple-intelligence-to-watch-for-tech-analysis-by-zdnet/"><u>What Will You Discover at Apple's Next Big Reveal? M4 Mac Mini and Advancements in Apple Intelligence to Watch for | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-and-how-to-change-the-default-dns-addresses-on-your-chromebook-for-enhanced-security-and-privacy/"><u>Why and How to Change the Default DNS Addresses on Your Chromebook for Enhanced Security & Privacy</u></a></li>
+</ul></div>
 

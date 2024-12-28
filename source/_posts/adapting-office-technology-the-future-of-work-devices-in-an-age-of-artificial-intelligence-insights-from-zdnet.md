@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet"
-date: 2024-12-18T02:16:14.895Z
-updated: 2024-12-22T03:54:08.057Z
+date: 2024-12-26T17:55:10.190Z
+updated: 2024-12-27T16:12:25.225Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,18 +134,22 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-leading-11-audio-recording-tools-guide/"><u>[New] In 2024, Leading 11 Audio Recording Tools Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-top-8-multiparty-android-conferencing-apps/"><u>2024 Approved The Top 8 Multiparty Android Conferencing Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-4k-display-selection-the-creme-de-la-creme-list-for-2024/"><u>Best 4K Display Selection The Crème De La Crème List for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/comparing-local-data-exchange-protocols-google-and-windows-showdown/"><u>Comparing Local Data Exchange Protocols: Google & Windows Showdown</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprendre-le-fichier-wav-guide-complet-pour-les-amateurs-de-sons/"><u>Comprendre Le Fichier WAV: Guide Complet Pour Les Amateurs De Sons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/electric-revolution-unveiled-live-stream-ces-202/"><u>Electric Revolution Unveiled: Live Stream CES 202</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/electric-vehicle-advancements-drive-auto-sectors-shift-towards-digital-innovation-insights-from-zdnet/"><u>Electric Vehicle Advancements Drive Auto Sector's Shift Towards Digital Innovation: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-airline-lounge-pass-the-top-5-credit-cards-for-premier-airport-experiences-zdnet/"><u>Elite Airline Lounge Pass: The Top 5 Credit Cards for Premier Airport Experiences | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elon-musks-tesla-embraces-apple-airplay-technology-declines-to-support-carplay-in-latest-announcement-autotech-daily/"><u>Elon Musk's Tesla Embraces Apple AirPlay Technology, Declines to Support CarPlay in Latest Announcement | AutoTech Daily</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-future-today-with-pre-order-options-for-flying-cars-insights-from-zdnets-latest-feature/"><u>Experience the Future Today with Pre-Order Options for Flying Cars - Insights From ZDNet's Latest Feature</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-car-battery-chargers-find-your-perfect-match-in-the-ultimate-list-of-2024-models-digital-trends/"><u>Expertly Reviewed Car Battery Chargers: Find Your Perfect Match in the Ultimate List of 2024 Models | Digital Trends</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-of-eufy-t8200-video-doorbell-no-subscription-required/"><u>Unboxing & Testing of Eufy T8200 Video Doorbell – No Subscription Required!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728492721666-windows-11/"><u>Windows 11上有效利用分区阴影复制功能的步骤</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-windows-8-video-editing-made-easy-with-movie-maker-tips-and-tricks/"><u>[New] In 2024, Windows 8 Video Editing Made Easy with Movie Maker Tips & Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-softening-audio-routine/"><u>[New] Step-by-Step Softening Audio Routine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-markets-finest-2022s-elite-selection-of-mouse-mats-by-zdnet/"><u>Exploring the Market's Finest: 2022'S Elite Selection of Mouse Mats by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hands-on-review-of-poly-sync-10-on-zdnet-promising-sound-quality-with-missing-crucial-features/"><u>Hands-On Review of Poly Sync 10 on ZDNet: Promising Sound Quality with Missing Crucial Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-have-we-outgrown-the-era-of-floppy-disks-their-surprising-presence-in-planes-and-trains-insights-from-zdnet/"><u>How Have We Outgrown the Era of Floppy Disks? Their Surprising Presence in Planes and Trains | Insights From ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-vivo-y78plus-t1-edition-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Vivo Y78+ (T1) Edition using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-7-plus-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 7 Plus online without jailbreak</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-8-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-highest-quality-screen-time-movie-hits-list/"><u>In 2024, Highest-Quality Screen Time Movie Hits List</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-13-pro-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 13 Pro Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/overcoming-windows-glitches-proven-strategies-to-fix-recurring-system-lockups-with-yl-software-solutions/"><u>Overcoming Window's Glitches: Proven Strategies to Fix Recurring System Lockups with YL Software Solutions</u></a></li>
+<li><a href="https://win-bits.techidaily.com/restoring-internet-access-on-your-laptop-a-step-by-step-guide-by-yl-software/"><u>Restoring Internet Access on Your Laptop: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-innocn-27c1u-a-stunning-4k-display-with-fast-connection-time-insights-from-zdnet/"><u>Review of Innocn 27C1U: A Stunning 4K Display with Fast Connection Time - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-how-the-easy-to-use-anker-3d-printer-impressed-and-became-a-must-have-for-newbies-tech-insights/"><u>The Ultimate Guide: How the Easy-to-Use Anker 3D Printer Impressed & Became a Must-Have for Newbies | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-workstation-laptops-analyzed-by-professionals-a-comprehensive-guide-zdnet/"><u>Top-Rated Graphics Workstation Laptops Analyzed by Professionals - A Comprehensive Guide | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-20-savings-with-iscanner-limited-time-deal-now-live-on-zdnet/"><u>Unlock 20% Savings with iScanner: Limited-Time Deal Now Live on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-you-need-an-ergonomic-mouse-today-essential-tips-by-zdnet/"><u>Why You Need an Ergonomic Mouse Today - Essential Tips by ZDNet</u></a></li>
 </ul></div>
 

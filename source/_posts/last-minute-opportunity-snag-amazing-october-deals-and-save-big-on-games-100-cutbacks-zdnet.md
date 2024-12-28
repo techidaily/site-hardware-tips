@@ -1,7 +1,7 @@
 ---
 title: Last-Minute Opportunity! Snag Amazing October Deals & Save Big on Games - $1,00# Cutbacks | ZDNET
-date: 2024-12-17T05:38:23.916Z
-updated: 2024-12-22T09:04:20.980Z
+date: 2024-12-21T21:28:40.864Z
+updated: 2024-12-28T00:05:53.609Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
 
@@ -136,10 +132,6 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals still available
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -153,7 +145,7 @@ ZDNET
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals still available
@@ -211,7 +203,7 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
@@ -221,19 +213,27 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -304,20 +304,17 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/-choice-easy-online-video-text-conversion-for-2024/"><u>[New] 1 Choice Easy Online Video Text Conversion for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-non-microsoft-methods-for-game-session-recording/"><u>[New] Non-Microsoft Methods for Game Session Recording</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-19-secrets-to-free-capture-of-virtual-learning-sessions/"><u>[Updated] 19 Secrets to FREE Capture of Virtual Learning Sessions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/cooking-cut-away-classics-top-7-techniques-for-tasty-videos/"><u>Cooking Cut-Away Classics - Top 7 Techniques for Tasty Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delta-airlines-faces-backlash-over-customer-and-employee-treatment-insights-from-zdnet/"><u>Delta Airlines Faces Backlash Over Customer & Employee Treatment - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delta-airlines-treats-staff-as-regular-passengers-employee-discontent-soars/"><u>Delta Airlines Treats Staff as Regular Passengers: Employee Discontent Soars</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diagnose-a-check-engine-warning-with-this-innovative-bluetooth-obd-ii-adapter-top-picks/"><u>Diagnose a Check Engine Warning with This Innovative Bluetooth OBD-II Adapter - Top Picks</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/effortlessly-save-your-favorite-viki-shows-using-these-3-no-cost-techniques/"><u>Effortlessly Save Your Favorite Viki Shows Using These 3 No-Cost Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-save-up-to-70-off-on-huffys-versatile-oslo-e-bike-today-only/"><u>Exclusive Deal: Save Up to 70% Off on Huffy's Versatile Oslo E-Bike – Today Only!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-aerial-excellence-with-the-ninja-dragons-x-blade-drone-high-quality-footage-for-under-90-dollars-zeenettech/"><u>Experience Aerial Excellence with The Ninja Dragons X Blade Drone - High-Quality Footage for Under 90 Dollars | ZeenetTech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/heybikes-cityrun-a-top-pick-for-daily-electric-bike-commutes/"><u>Heybike's Cityrun - A Top Pick for Daily Electric Bike Commutes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi 12? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-swapping-your-phones-navigation-app-with-an-old-school-map-can-help-prevent-memory-loss-zdnet/"><u>How Swapping Your Phone's Navigation App with an Old-School Map Can Help Prevent Memory Loss | ZDNET</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/post-update-win10-flawless-streaming-guide/"><u>Post-Update Win10: Flawless Streaming Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-best-4-ai-powered-storytelling-engines-to-explore/"><u>The Best 4 AI-Powered Storytelling Engines to Explore</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>[New] In 2024, The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-premium-commercial-sky-data-haven/"><u>[Updated] 2024 Approved Premium Commercial Sky Data Haven</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-premium-top-11-list-audio-recording-essentials/"><u>2024 Approved Premium Top 11 List - Audio Recording Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-labor-day-sale-save-350-on-the-hp-victus-15-exclusive-deal-coverage-by-zdnet/"><u>Best Buy's Labor Day Sale: Save $350 on the HP Victus 15 - Exclusive Deal Coverage by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bulk-up-your-surface-pro-memory-for-less-how-to-easily-double-storage-and-cut-costs-in-just-7-steps-tips-by-zdnet/"><u>Bulk Up Your Surface Pro Memory for Less: How to Easily Double Storage and Cut Costs in Just 7 Steps | Tips by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/convert-your-laptop-into-a-full-desktop-experience-with-this-compact-multimedia-docking-station-insights-from-zdnet/"><u>Convert Your Laptop Into a Full Desktop Experience with This Compact Multimedia Docking Station: Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-lava-yuva-2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Lava Yuva 2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/netflix-watch-together-a-guide-to-sharing-your-viewing-experience/"><u>Netflix Watch Together: A Guide to Sharing Your Viewing Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selecting-an-optimal-workstation-screen-arrangement-a-guide-from-zdnet/"><u>Selecting an Optimal Workstation Screen Arrangement: A Guide From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/skyline-scenery-mastering-mobile-panoramas-for-2024/"><u>Skyline Scenery Mastering Mobile Panoramas for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-pc-performance-boosters-best-optimization-tools-revealed-by-yl-computing/"><u>Top PC Performance Boosters: Best Optimization Tools Revealed by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-is-windows-ns-security-enhanced-with-tpm-integration-key-insights-explained/"><u>Why Is Windows N's Security Enhanced with TPM Integration? Key Insights Explained</u></a></li>
 </ul></div>
 

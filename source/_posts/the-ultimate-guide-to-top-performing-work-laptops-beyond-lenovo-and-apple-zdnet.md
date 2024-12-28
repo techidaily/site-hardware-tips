@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Top-Performing Work Laptops Beyond Lenovo and Apple | ZDNet
-date: 2024-12-20T23:28:44.167Z
-updated: 2024-12-21T23:10:29.598Z
+date: 2024-12-21T20:36:10.749Z
+updated: 2024-12-27T17:29:27.949Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ For those of us who'd been working with Linux for some time, that was more a bot
 
 We went hands-on with some of the best laptops on the market that can run Linux, testing their performance, battery, and features. Our pick for the best Linux laptop overall is the [Lenovo ThinkPad Z13 Gen 2](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1796374-REG%2Flenovo%5F21jv000dus%5F13%5F3%5Fthinkpad%5Fz13%5Fgen.html) is our top pick due to its more affordable price and customization options. Check out the rest of the list to learn about our other top picks. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The best Linux laptops of 2024
 
 Show less 
@@ -44,10 +48,6 @@ Cons
 * Incompatible with discrete GPUs
 
 ## Lenovo ThinkPad Z13
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Linux laptop overall
 
@@ -73,10 +73,6 @@ Pros
 Cons 
 * Expensive at higher configurations
 * No fast charge feature
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dell XPS 15
 
@@ -136,14 +132,10 @@ Cons
 * No AMD option
 * No 4K or touchscreen display options
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MSI Stealth Studio AI
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Linux laptop for gaming
@@ -175,7 +167,7 @@ Cons
 ## Microsoft Surface Laptop Studio 2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best battery life in a Linux laptop
@@ -206,6 +198,10 @@ My choice for the best Linux laptop is the Lenovo ThinkPad Z13 Gen 2\. Lenovo is
 
 \*MSRP at time of writing. Please note that actual retail pricing may vary depending on the seller as well as available deals and promotions. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Linux laptop is right for you?
 
 It depends on how much experience you have using the Linux operating system. If you're just starting out, you'll want to opt for a laptop with lower-end components and configurations as well as a lower price. By opting for less sophisticated, less expensive laptops, you can cut your teeth on Linux without losing a ton of money if it turns out not to be your cup of tea. 
@@ -229,10 +225,6 @@ What makes a machine worthy of belonging to the best Linux laptop list? Obviousl
 * **Cost:** Since Linux can run on just about any laptop as long as the hardware is supported, you can choose an older model (or even a used one) to load the operating system onto. This means you can save money on upgrades, especially if you're just starting out learning Linux.
 * **Open-source support:** Linux is an open-source operating system. You can find tons of online communities dedicated to learning Linux, tweaking source code, and reporting issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Linux laptops?
 
 While we were researching and testing each Linux-compatible laptop on this list, we kept these criteria in mind:
@@ -246,7 +238,7 @@ While we were researching and testing each Linux-compatible laptop on this list,
 Linux is an open-source operating system, created by Linus Torvalds, that is not only suited for desktops and laptops, but for enterprise-grade servers, container deployments, the cloud, and much more. Linux is available as a distribution and can be downloaded and installed for free on as many machines as you need.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can you run Linux on a Mac?
@@ -255,11 +247,19 @@ This is a bit of a complicated answer.
 
 Yes, you can run Linux operating systems on MacBooks, Mac Minis, and Mac desktops. But there's a catch: you have to opt for an older model that uses an Intel Core processor instead of Apple's own M1 or M2 chips. Apple's silicon chips are starting to see Linux hobbyists and pros alike build support, but at the time of writing, the only reliable way to get Linux to run on an M1/M2 Mac is to use a [virtual machine](https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-a-virtual-machine/) which is a type of emulation program.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are there disadvantages to running Linux instead of Windows or MacOS?
 
 The biggest hurdles you'll have to face when using Linux over Windows or MacOS are the learning curve and general lack of support from brand-name software companies. Since Linux is an open-source operating system, there isn't a [single, unified version](https://en.wikipedia.org/wiki/List%5Fof%5FLinux%5Fdistributions) like there is for Windows 11 or macOS Catalina. This means that it's much more difficult to program applications like games, video players, and even weather apps to work consistently across all versions of Linux. Different versions also mean that just because you're familiar with Ubuntu, that doesn't mean your expertise will be of any use on a machine that runs a different Linux dispo.
 
 **Also:** [**Windows, Mac, or Linux? We compare the pros and cons of these computing platforms**](https://www.zdnet.com/article/windows-mac-or-linux-we-compare-the-pros-and-cons-of-these-computing-platforms/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does "open-source" mean?
 
@@ -267,15 +267,15 @@ When talking about programming and coding, you may come across the term "open-so
 
 Linux is popular with programmers since it is open-source, which means that it's easy to try and make your own modifications or command lists. Or you can work together with the Linux community to resolve common bug issues or create new support programs for hardware like Apple's M3 Silicon Chips. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the oldest computer you can run with Linux?
 
 The great thing about Linux is that it is an open source operating system. Which means there are a lot of different versions out there on forums and also the Internet Archive. And since there are so many different release versions, newcomers looking to save money on their first dedicated or dual-boot Linux machine can pick up a vintage computer at a thrift store, estate sale, or other secondhand store and likely find an operating system version that will run with it.
 
 A thread on the [Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=228393) is full of users who were able to use various versions of Linux Mint as well as Puppy (a version of Linux designed to be run from a flash drive, making it great for hobbyists who restore vintage tech) and Ubuntu on Windows Vista and Windows 98 computers (which intrepid tech hunters may be able to find for a bargain at a thrift store or secondhand online). And Tech Tangents on YouTube, a channel dedicated to restoring and archiving retro computer hardware and software, was able to revive a [TeleVideo 950 terminal](https://www.youtube.com/watch?v=ob7cEzXLxXU) that was originally released in 1980 and use a version of Linux on it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Linux laptops we tested
 
@@ -323,14 +323,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-elemental-aspects-in-crafting-tales/"><u>[New] In 2024, Elemental Aspects in Crafting Tales</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-apples-stealthy-standout-the-surprising-success-of-the-349-ipad-revealed-in-latest-event-coverage/"><u>Discovering Apple's Stealthy Standout: The Surprising Success of the $349 iPad Revealed in Latest Event Coverage</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhanced-eyes-complimentary-mobile-picture-upgrade/"><u>Enhanced Eyes Complimentary Mobile Picture Upgrade</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-50-clever-tiktok-gags-for-laughter/"><u>In 2024, 50 Clever TikTok Gags for Laughter</u></a></li>
-<li><a href="https://article-files.techidaily.com/minimizing-movement-blur-in-media/"><u>Minimizing Movement Blur in Media</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/solve-the-mystery-of-your-cars-warning-lights-using-a-simple-bluetooth-scanner-diy-auto-fixes/"><u>Solve the Mystery of Your Car's Warning Lights Using a Simple Bluetooth Scanner | DIY Auto Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/taking-the-leap-how-8kplus-travelers-embrace-risk-with-southwest-flights-tech-insights/"><u>Taking the Leap: How 8K+ Travelers Embrace Risk with Southwest Flights | Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tesla-enhances-in-car-entertainment-with-new-apple-airplay-feature-ignores-car-play-integration/"><u>Tesla Enhances In-Car Entertainment with New Apple AirPlay Feature; Ignores Car Play Integration</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/teslas-cybertruck-proves-its-mettle-as-a-water-friendly-vehicle-says-elon-musk-insights-from-zdnet/"><u>Tesla's Cybertruck Proves Its Mettle as a Water-Friendly Vehicle, Says Elon Musk - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iy-gif-making-transforming-youtube-videos-into-animated-forms/"><u>[New] DIY GIF Making Transforming YouTube Videos Into Animated Forms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-melody-matrix-tips-and-tricks-for-social-media-sounds/"><u>[Updated] In 2024, Melody Matrix Tips and Tricks for Social Media Sounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/cambia-avi-a-formato-wmv-gratuitamente-su-internet-con-convertitori-video-moveavi/"><u>Cambia AVI a Formato WMV Gratuitamente Su Internet Con Convertitori Video - MoveaVi</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-storage-management-on-win-1011/"><u>Enhancing Storage Management on Win 10/11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15l-desktop-laptop-top-of-the-line-gaming-computer-now-at-a-steal-for-520-up-to-40-discounted/"><u>HP Victus 15L Desktop Laptop: Top-of-the-Line Gaming Computer Now at a Steal for $520 - Up to 40% Discounted!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-8-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 8 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/lost-your-snaps-master-the-art-of-windows-10-screenshot-restoration/"><u>Lost Your Snaps? Master the Art of Windows 10 Screenshot Restoration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-fix-windows-compatible-wireless-keyboards-that-wont-respond-anymore/"><u>Mastering the Fix: Windows-Compatible Wireless Keyboards That Won't Respond Anymore!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pinnacle-websites-showcasing-diverse-text-styling-options/"><u>Pinnacle Websites Showcasing Diverse Text Styling Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ruggedized-laptops-with-drop-test-success-stories-featured-on-zdnet-witness-the-manufacturers-durability-promise/"><u>Ruggedized Laptops with Drop Test Success Stories Featured on ZDNet - Witness the Manufacturer's Durability Promise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-with-up-to-50-discounted-4tb-portable-samsung-ssd-from-zdnets-top-pick/"><u>Score Big Savings with Up to 50% Discounted 4TB Portable Samsung SSD From ZDNet's Top Pick!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/under-budget-brilliance-assembling-an-inconspicuous-starfield-gaming-beast-for-less-than-1k-zdnet-insights/"><u>Under Budget Brilliance: Assembling an Inconspicuous Starfield Gaming Beast for Less than 1K | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-microsoft-privacy-concerns-debunking-the-recall-crisis-with-seven-key-points/"><u>Understanding the Microsoft Privacy Concerns: Debunking the 'Recall Crisis' With Seven Key Points</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-to-linux-mint-212-a-future-proof-enhanced-desktop-experience-for-long-term-productivity/"><u>Upgrade to Linux Mint 21.2 – A Future-Proof, Enhanced Desktop Experience for Long-Term Productivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-quick-guide-setting-up-chromeos-flex-in-just-half-an-hour/"><u>ZDNet's Quick Guide: Setting Up ChromeOS Flex in Just Half an Hour</u></a></li>
 </ul></div>
 

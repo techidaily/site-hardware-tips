@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Preventing Apps From Connecting to the Web on Your Android Phone"
-date: 2024-09-10T17:32:05.374Z
-updated: 2024-09-16T16:43:50.952Z
+date: 2024-12-26T16:23:43.276Z
+updated: 2024-12-27T17:58:52.808Z
 tags:
   - android
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a
 * [How Does Network Firewall Work on Android](https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-80-pro-straight-screen-edition-to-apple-tv-drfone-by-drfone-android/)
 * [How to Create a Network Firewall on Android](https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Some Pro Tips](https://instagram-video-files.techidaily.com/2024-approved-showcasing-self-with-instagram-a-collection-of-100-captions/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a
 
 ![NetGuard active session.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/01-main.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 NetGuard
 
 ![NetGuard active notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/08-notifications.png) 
@@ -62,13 +70,6 @@ Close
 
 ![Install button for NetGuard on Google Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-20-17-521_com-android-vending.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Open button for NetGuard on the Google Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-20-10-660_com-android-vending.jpg) 
 
 ![NetGuard terms of condition dialog.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-12-52-08-442_eu-faircode-netguard.jpg) 
@@ -85,6 +86,10 @@ Close
 
 ![NetGuard individual app options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-13-06-11-103_eu-faircode-netguard.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close 
 
  You can skip this step if you don’t want to use the lockdown feature. To exclude an app from lockdown mode, enable “Allow in lockdown mode” under the Conditions section. You can trigger lockdown by tapping the three-dot menu and enabling “Lockdown Traffic.” The red lock icon next to an app shows that it’s currently locked down. You can exclude as many apps as you want.
@@ -100,13 +105,14 @@ Close
 ![List of all apps in battery optimization settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-13-19-47-975_com-android-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Selecting NetGuard from the list of battery optimization settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-13-20-23-779_com-android-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Turning off battery optimization for NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-13-21-12-457_com-android-settings.jpg) 
 
@@ -114,11 +120,19 @@ Close
 
  NetGuard should be up and running once you’ve toggled the master switch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Some Pro Tips
 
  Instead of blocking apps one by one, you can use the Blacklist and Whitelist features in NetGuard. Tap the three-dot menu and open Settings. Here, tap “Defaults” and enable “Block Wi-Fi,” “Block Mobile,” or both to apply the blocking to all apps. You can just block all apps from using the internet in the background. Tap “Apply when screen on rules” to whitelist apps while the screen is on. You also get separate controls for Wi-Fi and mobile data that apply globally.
 
 ![Tapping the NetGuard settings launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-12-58-39-972_eu-faircode-netguard-copy.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Selecting the default settings on NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-14-00-34-513_eu-faircode-netguard-copy.jpg) 
 
@@ -132,14 +146,11 @@ Close
 
 ![Opening advanced settings in NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-14-00-34-513_eu-faircode-netguard.jpg) 
 
-![Enabling system apps in NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-14-00-31-282_eu-faircode-netguard.jpg) 
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Enabling system apps in NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-14-00-31-282_eu-faircode-netguard.jpg) 
 
 Close 
 
@@ -147,13 +158,14 @@ Close
 
 ![Backup settings in the NetGuard menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-42-16-266_eu-faircode-netguard.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Exporting NetGuard settings to an XML file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-42-18-570_eu-faircode-netguard-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Saving the NetGuard settings file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-42-24-395_com-google-android-documentsui.jpg) 
@@ -161,19 +173,6 @@ Close
 ![Importing NetGuard settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-42-18-570_eu-faircode-netguard-2.jpg) 
 
 ![Imported NetGuard settings from a saved file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-42-34-265_com-google-android-documentsui.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close 
 
@@ -194,5 +193,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-cutting-edge-watermarking-tips-to-ensure-photo-security-on-instagram-for-2024/"><u>[New] Cutting-Edge Watermarking Tips to Ensure Photo Security on Instagram for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-m1-pro-vs-m1-max-examining-the-advancements-in-apples-cpu-technology-for-2024/"><u>[New] M1 Pro Vs. M1 Max Examining the Advancements in Apple's CPU Technology for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-awesome-free-apps-to-transform-your-mobile-images/"><u>[Updated] 2024 Approved Awesome FREE Apps to Transform Your Mobile Images</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cost-effective-tech-reviewed-lessons-learned-using-the-economical-surface-pro-11-powered-by-a-microsoft-aficionado-at-zdnet/"><u>Cost-Effective Tech Reviewed: Lessons Learned Using the Economical Surface Pro 11 | Powered by a Microsoft Aficionado at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/crafting-your-dream-gamers-paradise-key-tips-and-essentials/"><u>Crafting Your Dream Gamer's Paradise: Key Tips & Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-copilotplus-integration-in-new-tech-unveiled-at-ifa-2024-spotlight-on-versatile-gaming-performance-and-cutting-edge-innovations/"><u>Discover the Best Copilot+ Integration in New Tech Unveiled at IFA 2024 - Spotlight on Versatile Gaming Performance and Cutting-Edge Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-ultimate-october-2e-gaming-blowout-of-2024-secure-discounts-up-to-1k-now/"><u>Don't Miss Out: Ultimate October 2E Gaming Blowout of 2024 – Secure Discounts Up to $1K Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-lite-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 Lite 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-step-by-step-techniques-building-animation-with-movie-maker/"><u>In 2024, Step-by-Step Techniques Building Animation with Movie Maker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/launch-alert-new-apple-releases-including-macbook-air-and-ipads-may-arrive-by-spring-season/"><u>Launch Alert: New Apple Releases Including MacBook Air & iPads May Arrive by Spring Season</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-return-waters-of-digital-game-marketplaces/"><u>Navigating the Return Waters of Digital Game Marketplaces</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-essentials-now-amazons-premier-buy-black-friday-specials-for-prime-day-2024/"><u>Secure Your Essentials Now: Amazon's Premier Buy-Black Friday Specials for Prime Day 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-launch-of-apples-m4-chips-enhanced-ai-performance-across-the-full-range-of-mac-devices-schedule-insights/"><u>Upcoming Launch of Apple's M4 Chips: Enhanced AI Performance Across the Full Range of Mac Devices | Schedule Insights</u></a></li>
+</ul></div>
 

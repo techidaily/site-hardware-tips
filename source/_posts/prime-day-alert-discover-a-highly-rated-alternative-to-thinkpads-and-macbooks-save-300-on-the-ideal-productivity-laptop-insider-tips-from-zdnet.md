@@ -1,7 +1,7 @@
 ---
 title: Prime Day Alert! Discover a Highly Rated Alternative to ThinkPads and MacBooks - Save $300 on the Ideal Productivity Laptop (Insider Tips From ZDNet)
-date: 2024-12-15T04:28:41.848Z
-updated: 2024-12-21T19:31:52.647Z
+date: 2024-12-26T19:55:07.238Z
+updated: 2024-12-27T22:57:38.879Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,15 +134,19 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-a-guide-to-effective-hashtag-integration-on-facebook-platforms-for-2024/"><u>[New] A Guide to Effective Hashtag Integration on Facebook Platforms for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/dentifying-creator-types-six-intriguing-youtube-categorization-tests/"><u>[New] Identifying Creator Types Six Intriguing YouTube Categorization Tests</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-iphone-video-clarity-in-premiere-pro-amidst-highlights-and-shadows/"><u>[New] Mastering iPhone Video Clarity in Premiere Pro Amidst Highlights and Shadows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unlocking-crypto-potential-the-ultimate-list-of-nft-engines/"><u>[Updated] In 2024, Unlocking Crypto Potential The Ultimate List of NFT Engines</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/40l-desktop-for-just-550-less-top-deal-of-the-day/"><u>40L Desktop for Just $550 Less – Top Deal of the Day!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipated-announcements-at-apples-october-showcase-unveiling-of-the-new-m4-mac-mini-advanced-ipad-models-and-innovative-ai-features-insights-from-zdnet/"><u>Anticipated Announcements at Apple's October Showcase: Unveiling of the New M4 Mac Mini, Advanced iPad Models & Innovative AI Features - Insights From ZDNet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/bring-clarity-to-your-feed-a-guide-to-crafting-square-videos-in-imovie/"><u>Bring Clarity to Your Feed A Guide to Crafting Square Videos in iMovie</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/over-23-unbeatable-labor-day-promotions-on-laptops-spotted/"><u>Over 23 Unbeatable Labor Day Promotions on Laptops - Spotted!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-the-ultimate-lightweight-laptop-for-seamless-remote-working-insights-from-our-testing-at-zdnet/"><u>Top Picks: The Ultimate Lightweight Laptop for Seamless Remote Working - Insights From Our Testing at ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-clear-webcam-footage-recording-and-editing-tips/"><u>[New] Mastering Clear Webcam Footage Recording & Editing Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-discover-the-best-practices-for-streaming-archive-podcasts/"><u>[Updated] Discover the Best Practices for Streaming Archive Podcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/everything-you-need-to-know-about-stardew-valley-ginger-island-for-2024/"><u>Everything You Need to Know About Stardew Valley Ginger Island for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/free-access-ended-microsoft-terminates-windows-10-upgrades-says-zdnet/"><u>Free Access Ended: Microsoft Terminates Windows 10 Upgrades, Says ZDnet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/hacker-alert-reclaiming-your-social-network/"><u>Hacker Alert Reclaiming Your Social Network</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-downgrade-or-rollback-the-macos-sierra-to-os-x-el-capitan/"><u>How To Downgrade Or Rollback The Macos Sierra To Os X El Capitan</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-color-management-not-working-on-windows/"><u>How to Fix Color Management Not Working on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/patent-reveals-apple-may-introduce-modular-design-in-next-gen-macbook-pros/"><u>Patent Reveals Apple May Introduce Modular Design in Next-Gen MacBook Pros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revitalize-your-slow-computer-effective-strategies-for-speeding-up-old-windows-11-pcs-and-macs-zdnet-insights/"><u>Revitalize Your Slow Computer: Effective Strategies for Speeding Up Old Windows 11 PCs and Macs | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-costs-and-expand-storage-on-your-surface-pro-in-just-seven-steps-money-saving-tips-for-savvy-users-gadgetguru/"><u>Slash Costs and Expand Storage on Your Surface Pro in Just Seven Steps - Money-Saving Tips for Savvy Users | GadgetGuru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-expenses-cut-over-500-from-monthly-costs-with-simple-strategies-zdnet/"><u>Slash Your Expenses: Cut Over $500 From Monthly Costs with Simple Strategies | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-webcam-driver-upgrade-for-windows-7-users/"><u>Step by Step: Easy Webcam Driver Upgrade for Windows 7 Users</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-unlocking-your-windows-firewall-settings-tips-from-yl-computing/"><u>Step-by-Step Guide: Unlocking Your Windows Firewall Settings - Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-classic-computer-to-windows-11-despite-microsofts-warnings-as-demonstrated-by-our-readers-tech-chronicles-at-zdnet/"><u>Upgrade Your Classic Computer to Windows 11 Despite Microsoft’s Warnings, as Demonstrated by Our Readers | Tech Chronicles at ZDNet</u></a></li>
 </ul></div>
 

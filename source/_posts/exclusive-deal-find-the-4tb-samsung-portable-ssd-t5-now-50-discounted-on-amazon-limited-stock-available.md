@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal: Find the 4TB Samsung Portable SSD (T5) Now 50%% Discounted on Amazon – Limited Stock Available"
-date: 2024-12-17T06:02:13.604Z
-updated: 2024-12-21T17:25:13.505Z
+date: 2024-12-21T16:35:18.602Z
+updated: 2024-12-27T20:22:38.442Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -75,7 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -87,7 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -124,18 +124,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-speed-in-seizing-picture-plus-pitch-for-2024/"><u>[Updated] Speed in Seizing Picture + Pitch for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-growth-odyssey-of-ajey-nagar-on-youtube/"><u>[Updated] The Growth Odyssey of Ajey Nagar on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-unveiling-the-rapidly-expanding-youtube-stars-for-inspiration/"><u>[Updated] Unveiling the Rapidly Expanding YouTube Stars for Inspiration</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-bargains-for-ultrabooks-and-notebooks-during-octobers-mega-sales-events-insider-tips-from-zdnet/"><u>Best Bargains for Ultrabooks & Notebooks During October's Mega Sales Events - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-metas-exceptional-offer-the-512gb-quest-3-presents-unbeatable-value-in-todays-virtual-reality-market-insights/"><u>Explore Meta's Exceptional Offer: The 512GB Quest 3 Presents Unbeatable Value in Today's Virtual Reality Market - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-ahead-with-the-ultimate-vr-experience-dive-into-metas-premium-512gb-quest-3-package-top-picks-by-zdnet-for-current-deals/"><u>Get Ahead with the Ultimate VR Experience: Dive Into Meta's Premium 512GB Quest 3 Package – Top Picks by ZDNet for Current Deals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-the-latest-apple-m3-macbook-pro-up-to-200-discount-at-amazons-spectacular-spring-deal-insights-from-zdnet/"><u>Get the Latest Apple M3 MacBook Pro Up to $200 Discount at Amazon’s Spectacular Spring Deal - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-workspace-with-this-11-port-usb-hub-now-44-discounted-insights-from-zdnet/"><u>Maximize Your Workspace with This 11-Port USB Hub, Now 44% Discounted! - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestep-mandatory-components-not-available-in-win10win11/"><u>Sidestep Mandatory Components Not Available in WIN10/WIN11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/speech-recognition-a-game-changer-for-visual-presentations-for-2024/"><u>Speech Recognition A Game Changer for Visual Presentations for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-performance-on-a-budget-discovering-the-top-non-thinkpadmacbook-productivity-laptop-now-30-off-during-prime-day-insights-from-zdnet/"><u>Unbeatable Performance on a Budget: Discovering the Top Non-ThinkPad/MacBook Productivity Laptop, Now 30% Off During Prime Day - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-strengths-of-the-nokia-72-stellar-performance-for-its-price-range/"><u>Unveiling the Strengths of the Nokia 7.2: Stellar Performance for Its Price Range</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-adventure-gear-review-the-revolutionary-slipstream-free-usb-c-charger-that-skyrocketed-to-the-top-of-my-packing-list/"><u>ZDNet's Adventure Gear Review: The Revolutionary, Slipstream-Free USB-C Charger That Skyrocketed to the Top of My Packing List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-windows-11-gamers-script-to-save-playbacks-for-2024/"><u>[New] Windows 11 Gamers' Script to Save Playbacks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-8-free-video-conferencing-software-for-windows-and-mac/"><u>[Updated] 2024 Approved 8 Free Video Conferencing Software for Windows and Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-transform-brainstorms-into-youtube-channel-names/"><u>[Updated] How To Transform Brainstorms Into YouTube Channel Names</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-enhance-privacy-and-speed-the-best-7-android-adblocks/"><u>[Updated] In 2024, Enhance Privacy & Speed The Best 7 Android AdBlocks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/0-as-open-source-innovations-on-techwonder/"><u>0 as Open Source | Innovations on TechWonder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-xbox-live-success-top-four-steps-to-perfect-your-recording/"><u>2024 Approved Xbox Live Success Top Four Steps to Perfect Your Recording</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-sinkcatastrophe-threat-dissected-assessing-the-real-risks-for-your-processor/"><u>AMD SinkCatastrophe Threat Dissected: Assessing the Real Risks for Your Processor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-vivobook-11-review/"><u>Asus Vivobook 11 Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-week-extravaganza-grab-these-limited-time-offers-on-televisions-earphones-and-sound-systems-digitaldealz/"><u>Cyber Week Extravaganza: Grab These Limited-Time Offers on Televisions, Earphones & Sound Systems | DigitalDealz</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-safe-usage-of-chatgpt-by-children-5-proven-methods/"><u>Ensuring Safe Usage of ChatGPT by Children - 5 Proven Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-insights-into-this-weeks-microsoft-build-watch-learn-and-reasons-for-my-buzz-zdnet-coverage/"><u>Exclusive Insights Into This Week's Microsoft Build: Watch, Learn & Reasons for My Buzz | ZDNet Coverage</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-nokia-c110-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Nokia C110 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-essential-guide-to-youtube-video-resolutions-and-aspects/"><u>In 2024, Essential Guide to YouTube Video Resolutions & Aspects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-fixes-boosting-performance-on-aged-windows-11-and-mac-systems-zdnet/"><u>Quick Fixes: Boosting Performance on Aged Windows 11 and Mac Systems | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviving-slow-computers-tips-for-enhancing-windows-11-and-mac-efficiency-zdnet/"><u>Reviving Slow Computers: Tips for Enhancing Windows 11 & Mac Efficiency | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/smash-expectations-with-an-affordable-mighty-mini-pc-maximize-productivity-on-a-budget-zdnet/"><u>Smash Expectations with an Affordable Mighty Mini PC | Maximize Productivity on a Budget | ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-dark-side-of-digital-escapism-for-2024/"><u>The Dark Side of Digital Escapism for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-rise-of-apples-latest-innovation-how-the-mac-studio-redefines-performance-and-style/"><u>The Rise of Apple's Latest Innovation: How the Mac Studio Redefines Performance and Style</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-budget-friendly-gaming-desktops-industry-experts-picks-techradar/"><u>Top-Rated Budget Friendly Gaming Desktops - Industry Experts' Picks | TechRadar</u></a></li>
 </ul></div>
 

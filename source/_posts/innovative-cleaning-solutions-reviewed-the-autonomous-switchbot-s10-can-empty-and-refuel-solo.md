@@ -1,7 +1,7 @@
 ---
 title: Innovative Cleaning Solutions Reviewed - The Autonomous Switchbot S10 Can Empty and Refuel Solo
-date: 2024-09-20T05:10:24.184Z
-updated: 2024-09-22T05:49:50.278Z
+date: 2024-12-25T21:36:45.776Z
+updated: 2024-12-27T20:15:36.649Z
 tags:
   - hardware
 categories:
@@ -44,6 +44,10 @@ The SwitchBot S10 robot vacuum and mop takes what we're used to and makes it mor
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pricing and Availability
 
  The SwitchBot S10 Robot Vacuum/Mop retails for $1,199.99 both directly from the manufacturer and at Amazon. However, it has been on sale for as low as $799.99 direct from the company.
@@ -84,6 +88,10 @@ Expand
 
 ![SwitchBot S10 Robot Vacuum At Water Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-at-water-station-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Patrick Campanale / How-To Geek
 
  Robot vacuums and mops have been around for many years now, and while auto-empty stations have made them more convenient, they’re still not maintenance-free. Well, SwitchBot is taking us one step closer to a maintenance-free experience with its S10\. I’ve had several robot vacuums over the years, but this is my first robot mop. I’m happy that I’m starting out with the S10.
@@ -96,18 +104,15 @@ Patrick Campanale / How-To Geek
 
  This solves one of the biggest pain points with robot mops, in my opinion. The dirty water in a mop is always nasty, and something that can sometimes smell, and is something you wouldn’t want to spill when carrying it. So, the fact that the S10 can empty and refill itself is pretty stellar. In my testing of the robot, it did this perfectly every time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Be Ready To Do Some Plumbing Work, or Just Pick Up the External Water Tank
 
  When it comes to installing the water station, there’s a bit of plumbing that goes into it. It's critical to make sure you have a place for this to live before buying. Initially, I planned to install the water station in my guest bathroom under the toe kick. The station, however, didn’t fit there. So, I moved to my laundry room, where I planned to tie it into my washer water and drain lines. And, to my surprise, the ¾ to ½ tee was already in the package! Sadly, [my washer uses a different thread type](https://blog.boshart.com/ultimate-overview-of-connection-types-pictures-included) (GHT instead of NPT), so I wasn’t able to hook the S10 into my main water supply.
 
 ![SwitchBot S10 Robot Vacuum Auto Water Station with Buckets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-auto-water-station-with-buckets.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Patrick Campanale / How-To Geek
 
@@ -117,23 +122,9 @@ Patrick Campanale / How-To Geek
 
  Regardless of whether you’re using the external water tank or piping it into your home, simply find the place you want the water station to be, and tell the S10 where it’s at in the app. It’s that simple.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The SwitchBot S10 Cleans Well, if You Don’t Mind the Noise
 
 ![SwitchBot S10 Robot Vacuum AI Object Detection Moving Around Shoe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-ai-object-detection-moving-around-shoe.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Patrick Campanale / How-To Geek
 
@@ -146,6 +137,10 @@ Patrick Campanale / How-To Geek
  To remedy this, I just set the vacuum strength to the strongest it could be, and that allowed the S10 to pick up the junk that was on the floor with relative ease, though it was much, much louder during the process. I wouldn’t recommend running the S10 at night with how loud it is, as it would keep me up while cleaning.
 
 ###  The S10 Could Do a Better Job at Cleaning Under Cabinets and at Transitions![SwitchBot S10 Robot Vacuum Cleaning Floor](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-cleaning-floor.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In addition to having to turn the suction up to the strongest setting to get the S10 to effectively clean my hard floors, it also didn’t do the best at cleaning under the toe kick of my cabinets or at the transitions from hard floors to carpets. There’s the side brush that’s supposed to kick the stuff along the side into the path of the vacuum, but, because of how tall the vacuum is, it just doesn’t fit under those cabinet areas. Now, your mileage may vary, as our house was built in 1993, and the toe kicks are shorter than in modern homes. But, it’s a problem I ran into nonetheless.
 
@@ -161,6 +156,10 @@ Patrick Campanale / How-To Geek
 
  While the vacuum portion of the S10 had some issues with a few areas of my home, the mop didn’t disappoint at all. I was very impressed with how well the mop worked, and it quickly cleaned up my floor and made it look fantastic. I wasn’t even using the cleaning solution that SwitchBot offers, either. This means that, if you used the solution, it could clean better, but I see no need for it. At least, not at my house. I didn’t try the “wetter” setting for the mop, as my floors were left basically dry and very clean after the robot was done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  For the Most Thorough Clean, Have It Run Twice
 
 Close 
@@ -168,6 +167,10 @@ Close
  An extremely thorough clean is something that's been hit or miss on the vacuums that I've used, but SwitchBot S10 can leave some stuff behind sometimes. While turning the suction to max does help, if there's a particularly messy floor, you might want to tell it to clean twice. This is found in the app, and it is nice that SwitchBot gives you the option to automatically have the vacuum do it. When you toggle the clean twice mode, the vacuum will clean the first time in its normal pattern, and then the second will be 90 degrees to what it did initially.
 
  This helps a lot with cleaning up and is particularly useful if you have a dusty mess for it to clean. I simulated spilling flour on the floor by putting some baking soda in the path of the vacuum. When set to clean and mop (and one time only), it left tracks all over the place. However, when I flipped it to clean twice, it went back and picked up the original tracks the second time since it shifted the cleaning route by 90 degrees. So, if you want the most thorough clean possible, you'll want to make sure to enable the two passes and be prepared for cleaning to take twice as long. But, on the bright side, the vacuum is smart enough to dock itself to empty the dust bin or empty the dirty water/refill the clean water tank mid-cleaning, as well as charge, should it need to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don’t Place Your Dock on the Carpet
 
@@ -179,6 +182,10 @@ Patrick Campanale / How-To Geek
 
  Regardless of the reasoning, I spent about 30 to 45 minutes trying to get the S10 to dock on the carpet before realizing that it just simply wouldn’t, and it would only work on hard floors. That’s a pretty big negative if you’re planning to keep it in a carpeted area. I do have thick carpet, and on a shorter type, you might be fine. But, just keep in mind that you might have to keep the dock located on hard floors for it to function. And, the water station will likewise have to be on hard floors, but it shouldn’t be on carpet anyway just in case a leak does happen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  SwitchBot’s App Offers Some Nice Features
 
 Close 
@@ -189,22 +196,13 @@ Close
 
  Resizing furniture pieces was a little finicky and sometimes worked, and other times didn’t. However, no-go zones were typically pretty reliable to resize. And, this is something that could easily be fixed in a future app update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  No Camera Access Is Both a Pro and Con
 
 ![SwitchBot S10 Robot Vacuum AI Detection Camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-front-on-carpet.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Patrick Campanale / How-To Geek
 
@@ -213,13 +211,6 @@ Patrick Campanale / How-To Geek
  However, there’s no access to the camera while it’s cleaning. On some other robot vacuums, like the [Roborock S8 MaxV Ultra](https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-s23-ultra-by-drfone-android/), you can pull up a live feed of the camera to see where the robot is, what it’s stuck on, or just monitor where it’s going. The SwitchBot S10 has a camera capable of this, but, for privacy's sake, does all its AI processing locally on-device. That means the camera feed, according to SwitchBot, doesn’t go to the cloud at all. This is why you’re not able to access the feed on your phone since the camera feed never actually leaves the device.
 
  I don’t see SwitchBot changing this in the future, as they’re touting this as a security feature that other vacuums don’t have, but it would be nice to have a toggle to tell it “only process on-device” or “let me stream the camera” so that way as the end user, it’s an option you or I could choose.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Should You Buy the SwitchBot S10 Robot Vacuum/Mop?
 
@@ -258,5 +249,24 @@ The SwitchBot S10 robot vacuum and mop takes what we're used to and makes it mor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/1-lenovo-ideapad-gaming-chromebook-unveiled-exploring-the-real-limits-of-cloud-based-gaming-performance-insights-from-zdnet/"><u>1. Lenovo IdeaPad Gaming Chromebook Unveiled: Exploring the Real Limits of Cloud-Based Gaming Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpeg-43gp-movavi/"><u>網路直接將MPEG-4影片轉化成3GP格式 - Movavi 自由下載解析器</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-deeper-look-into-magix-visual-processing/"><u>A Deeper Look Into MAGIX Visual Processing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722855504728-breaking-down-the-blueprint-to-correct-a-restricted-resource-faulty-code/"><u>Breaking Down the Blueprint to Correct a Restricted Resource Faulty Code</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-device-ipad-pro-or-macbook-air-find-your-best-fit-with-zdnets-comparison/"><u>Choosing the Right Device: IPad Pro or MacBook Air – Find Your Best Fit with ZDNet's Comparison</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dell-unveils-a-compact-powerful-gaming-laptop-ideal-for-professionals-on-the-go/"><u>Dell Unveils a Compact, Powerful Gaming Laptop Ideal for Professionals on the Go</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-tips-on-securing-your-eligible-dell-academic-price-break/"><u>Exclusive Tips on Securing Your Eligible Dell Academic Price Break</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997865973-expert-guide-overcome-stuttering-and-smooth-your-ride-in-forza-horizon-5/"><u>Expert Guide: Overcome Stuttering and Smooth Your Ride in Forza Horizon 5!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-effective-methods-for-transferring-youtube-videos-to-the-social-network/"><u>In 2024, Effective Methods for Transferring YouTube Videos to the Social Network</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-note-30-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Note 30 Pro Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-honor-x8b-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Honor X8b Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intensive-review-the-dell-xps-14-a-must-have-tech-gadget-feedback-from-zdnet/"><u>Intensive Review: The Dell XPS 14 - A Must-Have Tech Gadget! Feedback From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-prep-score-zdnets-top-laptop-selection-for-50-off-now-on-amazon-act-fast/"><u>Prime Day Prep: Score ZDNet's Top Laptop Selection for 50% Off Now on Amazon – Act Fast!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-2024-prime-day-like-offers-on-laptops-exclusive-shopping-guide-by-zdnet/"><u>Top October 2024 Prime Day-Like Offers on Laptops: Exclusive Shopping Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-work-laptop-revealed-beyond-lenovo-and-macbook-expert-review-by-zdnet/"><u>Top-Ranking Work Laptop Revealed: Beyond Lenovo and MacBook - Expert Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-picks-for-gamers-experience-the-best-audio-with-a-staggering-30-off-at-amazon/"><u>ZDNet's Ultimate Picks for Gamers: Experience the Best Audio with a Staggering 30% Off at Amazon!</u></a></li>
+</ul></div>
 

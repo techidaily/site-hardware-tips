@@ -1,7 +1,7 @@
 ---
 title: Samsung's Latest Innovations Revealed at Unpacked Event - Comprehensive Guide to New Galaxy Devices
-date: 2024-12-15T18:13:27.105Z
-updated: 2024-12-22T10:26:41.296Z
+date: 2024-12-22T21:23:11.509Z
+updated: 2024-12-27T22:13:53.979Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ Luckily, [we've gone hands-on](https://www.zdnet.com/article/how-we-test-laptops
 
 Our pick for the overall best laptop in 2024 is the [MacBook Pro (M3 Max)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-14-laptop-m3-max-chip-36gb-memory-30-core-gpu-1tb-ssd-latest-model-space-black%2F6534620.p%3FskuId%3D6534620&publisher_slug=itechdaily19598&exclusive=1). It's hard to beat the MacBook Pro's 22-hour battery life, its suite of powerful hardware, and its gorgeous 120Hz refresh rate display, all in a super portable and sleek package. This is a laptop that checks off all the boxes and looks as good as it performs. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best laptops of 2024: Expert tested
 
 Show less 
@@ -43,7 +47,7 @@ Cons
 * Loud fans
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacBook Pro (M3 Max)
@@ -81,11 +85,11 @@ Cons
 * Not the best speakers
 * Pricey
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## LG Gram Pro 16 2-in-1
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop
 
@@ -150,7 +154,7 @@ Cons
 ## Alienware m18 R2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best gaming laptop
@@ -179,10 +183,6 @@ Pros
 Cons 
 * A little bulky
 * Limited by its lower-end RAM
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Acer Aspire Go 15
 
@@ -214,14 +214,10 @@ Cons
 * Battery life is variable
 * Can run warm
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Asus Vivobook Pro 15 (2024)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best laptop for content creators
@@ -241,7 +237,7 @@ The trackpad also has an ingenious feature called the DialPad that acts as a qui
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best laptop?
@@ -258,7 +254,7 @@ ZDNET's top pick for the best laptop is Apple's MacBook M3 Max, which features a
 | Asus Vivobook Pro 15  | $1,299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050      | 16GB, 1TB                |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right laptop for you?
@@ -295,6 +291,10 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are some factors to consider when choosing the best laptops?
 
 Multiple factors influence the choice of laptops for this list. We look for machines with great designs, performance, and effective storage and RAM. We also considered the different purposes for which you may need or use your laptop and the overall value (including the price point) that the laptop promises. 
@@ -309,10 +309,6 @@ Multiple factors influence the choice of laptops for this list. We look for mach
 
 While the desktop form factor, especially in the form of all-in-one (AIO) devices, still exists, laptops come in various sizes and cover many use cases. They range from thin, light, and ultraportable to bulky, powerful, and deskbound. Because of how good laptops are nowadays, most people opt for sticking with a laptop to serve as their main computer. If a small laptop screen is an issue, an external monitor can be connected. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which operating system should you choose: Windows, MacOS, ChromeOS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. ChromeOS is mostly limited to mid-range devices.
@@ -320,6 +316,10 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also: [The best lightweight laptops you can buy: Expert tested](https://www.zdnet.com/article/best-lightweight-laptops/)**
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What brand of laptop is best?
 
@@ -403,16 +403,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-editorxperience-deep-dive-complete-look-at-androvids-features/"><u>[Updated] 2024 Approved EditorXperience Deep Dive – Complete Look at AndroVid's Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-niche-to-notorious-the-journey-of-crafting-memetic-content-gifs/"><u>[Updated] In 2024, From Niche to Notorious The Journey of Crafting Memetic Content (GIFs)</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyy-plus-alteryx-seamless-combination-of-data-capture-and-analytics/"><u>ABBYY + Alteryx: Seamless Combination of Data Capture & Analytics</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/accelerate-your-computers-performance-by-updating-and-repairing-old-drivers-tips-from-yl-computing/"><u>Accelerate Your Computer's Performance by Updating & Repairing Old Drivers - Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-giants-uncover-the-best-gaming-tv-experience-not-from-sony-or-samsung-revealed-by-zdnet/"><u>Beyond Giants: Uncover the Best Gaming TV Experience Not From Sony or Samsung Revealed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-tv-visuals-instantly-by-mastering-these-essential-picture-settings-expert-tips-inside/"><u>Boost TV Visuals Instantly by Mastering These Essential Picture Settings - Expert Tips Inside</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-8k-tv-for-your-home-insights-from-a-consumer-electronics-specialist-on-what-you-need-to-know-before-buying/"><u>Choosing the Right 8K TV for Your Home: Insights From a Consumer Electronics Specialist on What You Need to Know Before Buying</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/clearing-your-television-cache-for-enhanced-functionality-and-security-a-step-by-step-tutorial/"><u>Clearing Your Television Cache for Enhanced Functionality and Security – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-hidden-gems-why-the-affordable-349-ipad-stole-the-spotlight-at-apples-dynamic-let-loose-event-as-analyzed-by-zdnet/"><u>Discovering Hidden Gems: Why the Affordable $349 iPad Stole the Spotlight at Apple's Dynamic 'Let Loose' Event, as Analyzed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-enjoy-massive-savings-of-up-to-25-on-the-incredible-85-inch-tcl-tv-this-labor-day-limited-time-offer-at-zdnet/"><u>Don't Miss Out! Enjoy Massive Savings of Up to 25% on the Incredible 85-Inch TCL TV This Labor Day – Limited Time Offer at ZDNET</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-guide-to-picture-in-picture-video-editing-in-final-cut-pro/"><u>Updated In 2024, The Ultimate Guide to Picture-in-Picture Video Editing in Final Cut Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-buy-smart-top-picks-for-high-definition-21-hdmi-screens/"><u>[New] Buy Smart Top Picks for High-Definition 2.1 HDMI Screens</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ideal-pixel-gatherings-unique-ringtone-repository-for-2024/"><u>[New] Ideal Pixel Gatherings Unique Ringtone Repository for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-perfected-beats-on-the-go-no-cost-just-download-and-play/"><u>[New] Perfected Beats on the Go - No Cost, Just Download and Play</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-audio-capture-on-windows-11-top-5-proven-strategies/"><u>[Updated] In 2024, Mastering Audio Capture on Windows 11 Top 5 Proven Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/act-fast-save-220-and-upgrade-your-system-with-a-discounted-rtx-3070-today-only-tech-advice-by-zdnet/"><u>Act Fast: Save $220 and Upgrade Your System with a Discounted RTX 3070 - Today Only! | Tech Advice by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-your-frustration-now-fix-tf2-sudden-freezes-and-crashes/"><u>End Your Frustration Now: Fix TF2 Sudden Freezes & Crashes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-windows-innovative-recall-tool-for-finding-elusive-files-using-artificer-intellect-limited-to-specific-computers-zdnet/"><u>Introducing Windows' Innovative Recall Tool for Finding Elusive Files Using Artificer Intellect, Limited to Specific Computers | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-savings-on-4tb-samsung-t5-external-solid-state-drive-over-50-discounted-at-amazon-reviewed-by-tech-experts/"><u>Massive Savings on 4TB Samsung T5 External Solid State Drive - Over 50% Discounted at Amazon, Reviewed by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-affordable-high-performance-crafting-a-stealthy-starfield-rig-below-1200/"><u>Mastering the Art of Affordable High Performance: Crafting a Stealthy Starfield Rig Below $1,200</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-guide-to-making-youtube-thumbnails-for-mobile-storytellers-for-2024/"><u>The Essential Guide to Making YouTube Thumbnails for Mobile Storytellers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-toughest-and-most-resilient-laptops-expert-reviews-and-buying-guide-techradar/"><u>Top 5 Toughest and Most Resilient Laptops - Expert Reviews & Buying Guide | TechRadar</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-resource-latest-thunderbolt-support-software-for-windows-operating-system/"><u>Ultimate Resource: Latest Thunderbolt Support Software for Windows Operating System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-ultimate-portability-and-speed-for-your-laptop-explore-hypers-latest-innovations-in-hubs-docks-and-ssd-enclosure-technology-insights-from-zdnet.m178/"><u>Unleashing Ultimate Portability and Speed for Your Laptop: Explore Hyper's Latest Innovations in Hubs, Docks & SSD Enclosure Technology - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-storage-with-the-4tb-samsung-t5-portable-ssd-at-unbeatable-discounts-)-50-off-now-available-on-amazon-insights-from-zdnet/"><u>Upgrade Your Storage with the 4TB Samsung T5 Portable SSD at Unbeatable Discounts > 50% Off, Now Available on Amazon | Insights From ZDNET</u></a></li>
 </ul></div>
 

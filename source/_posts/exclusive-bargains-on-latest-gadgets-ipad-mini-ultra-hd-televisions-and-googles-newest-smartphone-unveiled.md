@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Bargains on Latest Gadgets: IPad Mini, Ultra HD Televisions & Google's Newest Smartphone Unveiled"
-date: 2024-09-17T04:40:41.511Z
-updated: 2024-09-22T09:54:26.383Z
+date: 2024-12-22T16:05:15.441Z
+updated: 2024-12-27T17:37:17.522Z
 tags:
   - hardware
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ## Exclusive Bargains on Latest Gadgets: IPad Mini, Ultra HD Televisions & Google's Newest Smartphone Unveiled
 
 You don't have to wait for Labor Day deals to save big on some of the best tech available this summer. We're already seeing lucrative discounts on items like the Google Pixel 8 Pro, 4K TVs in time for football, iPads, smart home gear, and other back-to-school items.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [iPad Mini 6th-Gen with A15 for $380 ($120 Off)—Best Price!](https://www.amazon.com/dp/B09G91LXFP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
@@ -30,6 +34,10 @@ The iPad Mini is more compact than a typical iPad or iPad Pro, but it can still 
 ## [Pioneer 65-inch 4K Smart TV for $329 ($170 Off)](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpioneer-65-class-led-4k-uhd-smart-xumo-tv%2F6546907.p%3FskuId%3D6546907) 
 
 ![Screenshot 2024-08-13 at 9.49.25 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-13-at-9-49-25-am.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Pioneer 65-inch 4K UHD Smart Xumo TV
 
@@ -59,13 +67,6 @@ This capable charger can power just about any USB-C device at the highest suppor
 
 ![sony xm4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sony-xm4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #####  Sony WH-1000XM4
 
 $248 $348 Save $100 
@@ -75,6 +76,10 @@ Sony has the best noise-canceling capabilities, while managing to sound great wi
 [Buy on Amazon](http://www.amazon.com/dp/B0863TXGM3/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
  One of the [best over-the-ear wireless headphones](https://mondly-stories.techidaily.com/perfezionamento-dei-numeri-italiani-per-la-comunicazione-da-1-1000/) you can buy is down to an all-time low. Yes, I'm talking about the popular Sony WH-1000XM4 ANC headphones. Amazon just dropped them by 43%, making a pair [only $198](https://www.amazon.com/Sony-WH-1000XM4-Canceling-Headphones-phone-call/dp/B0863TXGM3?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Google Pixel 8 Pro Smartphone for $799 ($200 Off)](https://www.amazon.com/Google-Pixel-Pro-Smartphone-Telephoto/dp/B0D94WJMTT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
@@ -91,15 +96,16 @@ The Google Pixel 8 Pro includes the search giant's latest CPU, the Tensor G3, is
  Sure, Google just announced its fancy new Pixel 9 series that'll be available soon, but the Pixel 8 Pro is still an excellent smartphone with plenty to offer. If you don't need the latest and greatest, get the [Pixel 8 Pro for $200 off at Amazon](https://www.amazon.com/Google-Pixel-Pro-Smartphone-Telephoto/dp/B0D94WJMTT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  More Tech Deals
 
 ![An iPhone in StandBy Mode on a MagSafe charging stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/twelve-south-hirise-3-magsafe-charging-stand-iphone-standby-mode.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Christian Zibreg / How-To Geek
 
@@ -126,5 +132,23 @@ Christian Zibreg / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-best-iphone-selfie-devices-ranked-8/"><u>2024 Approved The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/analyzing-asus-expertbook-b3s-shortcomings-when-innovative-design-overlooks-user-needs-according-to-zdnet-experts/"><u>Analyzing ASUS ExpertBook B3's Shortcomings: When Innovative Design Overlooks User Needs, According to ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/close-to-perfect-unveiling-the-3600-laptop-that-almost-meets-all-your-tech-needs/"><u>Close To Perfect: Unveiling the $3,600 Laptop That Almost Meets All Your Tech Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-chromebook-picks-of-2eplus24-how-hp-and-lenovo-stack-up-among-competitors-insights-from-zdnet/"><u>Discover the Ultimate Chromebook Picks of 2E+24: How HP and Lenovo Stack Up Among Competitors | Insights From ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/download-this-flawless-updated-copy-of-football-manager-2020-say-goodbye-to-glitches/"><u>Download This Flawless, Updated Copy of Football Manager 2020 – Say Goodbye to Glitches</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-flavorful-havoc-in-overcooked-2-review/"><u>Exploring the Flavorful Havoc in Overcooked! 2 Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-easily-resolve-kernel32dll-problems-in-microsoft-operating-systems/"><u>How to Easily Resolve Kernel32.dll Problems in Microsoft Operating Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/implementing-azure-transcript-api-in-software/"><u>Implementing Azure Transcript API in Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-poco-c50-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Poco C50 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/introducing-chatgpts-new-stealth-modes-privacy-enhanced-conversations/"><u>Introducing ChatGPT's New Stealth Modes: Privacy Enhanced Conversations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-air-at-an-unbeatable-price-just-280-on-amazonlearn-more/"><u>MacBook Air at an Unbeatable Price: Just $280 on Amazon![Learn More]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-the-newest-windows-enhancements-july-2024s-major-releases-and-patches/"><u>Navigating Through the Newest Windows Enhancements: July 2024'S Major Releases and Patches</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/returning-to-campus-score-big-savings-on-laptops-tablets-from-samsung-student-deals-by-zdnet/"><u>Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-media-capabilities-unveiled-in-new-budget-friendly-acer-laptop/"><u>Revolutionary Media Capabilities Unveiled in New Budget-Friendly Acer Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-choice-the-ideal-13-business-travelers-laptop-neither-dell-xps-nor-macbook-according-to-experts-on-zdnet/"><u>Top Choice: The Ideal 13 Business Traveler's Laptop - Neither Dell XPS nor MacBook, According to Experts on ZDNet!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-to-address-screen-discoloration-and-distortion-issues/"><u>Troubleshooting Techniques to Address Screen Discoloration and Distortion Issues</u></a></li>
+</ul></div>
 

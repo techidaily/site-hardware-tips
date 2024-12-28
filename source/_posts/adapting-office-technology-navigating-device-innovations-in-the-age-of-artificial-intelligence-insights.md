@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: Navigating Device Innovations in the Age of Artificial Intelligence - Insights"
-date: 2024-12-20T00:41:00.268Z
-updated: 2024-12-22T00:28:11.230Z
+date: 2024-12-22T18:06:41.261Z
+updated: 2024-12-27T19:08:44.238Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,22 +134,22 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-lullabies-for-your-mind-no-stress-pcs/"><u>[New] 2024 Approved Lullabies for Your Mind No-Stress PCs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-guide-to-installing-microsofts-movie-maker/"><u>[New] In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-moba-games-for-android-gamers-unveiled/"><u>[New] Top 10 MOBA Games for Android Gamers Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-new-dimensions-of-vegaspro-19/"><u>[Updated] Unraveling the New Dimensions of VegasPro '19</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-high-quality-display-on-this-compact-laptop-a-top-choice-reviewed-by-zdnet/"><u>Affordable High-Quality Display on This Compact Laptop: A Top Choice Reviewed by ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-15-pro-max-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 15 Pro Max IMEI Checker</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-save-big-with-amazons-current-deal-on-an-8tb-samsung-t5-ssd-at-36-off-featured-by-zdnet/"><u>Don't Miss Out! Save Big with Amazon's Current Deal on an 8TB Samsung T5 SSD at 36% Off, Featured by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-grab-hps-omen-egpu-and-40l-desktop-at-a-550-savings-shop-now/"><u>Huge Discount Alert: Grab HP's Omen eGPU & 40L Desktop at a $550 Savings - Shop Now !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-discounts-alert-razer-blade-14-drops-to-unbeatable-prices-this-cyber-monday-tech-news/"><u>Huge Discounts Alert! Razer Blade 14 Drops to Unbeatable Prices This Cyber Monday | Tech News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sale-alert-secure-up-to-50-discount-on-samsung-t5-ssds-ahead-of-amazons-prime-day/"><u>Sale Alert: Secure Up To 50% Discount On Samsung T5 SSDs Ahead Of Amazon's Prime Day</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-more-this-season-discover-the-ultimate-list-of-neweggs-best-holiday-offers-insights/"><u>Save More This Season: Discover the Ultimate List of Newegg's Best Holiday Offers | Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/solve-your-hdmi-sound-problems-when-linking-up-your-computer-display-and-television/"><u>Solve Your HDMI Sound Problems When Linking Up Your Computer, Display, and Television</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-2-5-things-id-like-to-see-more-than-just-power/"><u>Switch 2: 5 Things I’d Like to See More Than Just Power</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-chromebooks-for-academic-success-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Chromebooks for Academic Success: Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/tranquil-tracks-easy-volume-diminution-via-garageband-for-2024/"><u>Tranquil Tracks Easy Volume Diminution via Garageband for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-dells-elite-gamer-laptop-top-features-that-justify-the-thrill-at-3000-exclusive-insights-for-zdnet-readers/"><u>Unboxing Dell's Elite Gamer Laptop - Top Features That Justify the Thrill at $3,000 | Exclusive Insights for ZDNet Readers</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-script-generator-in-2024/"><u>What Is an AI Script Generator, In 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-synergistic-partnerships-on-youtube-platforms/"><u>[New] In 2024, Discovering Synergistic Partnerships on YouTube Platforms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-reels-unlocking-the-ninja-mindset/"><u>[New] Instagram Reels Unlocking the Ninja Mindset</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-minipic-snapshot-scrutiny-plus-diverse-apps-for-2024/"><u>[Updated] MiniPic Snapshot Scrutiny + Diverse Apps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/extend-your-automated-cleaners-power-play-10-strategies-for-optimal-robot-vacuum-performance-zdnet/"><u>Extend Your Automated Cleaner’s Power Play: 10 Strategies for Optimal Robot Vacuum Performance | ZDNET</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977753050-history-and-evolution-of-hahron-spice-co-ltd/"><u>History and Evolution of HAHRON SPICE CO., LTD</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-14-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 14 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-ai-frontier-hugging-face-unveils-cutting-edge-robotic-endeavor-with-teslas-ex-scientist-featured-by-zdnet/"><u>Innovative AI Frontier: Hugging Face Unveils Cutting-Edge Robotic Endeavor with Tesla's Ex-Scientist Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-irobots-new-marvel-an-unbeatable-combination-of-features-and-affordability-in-the-roomba-series-techinsights/"><u>Meet IRobot's New Marvel: An Unbeatable Combination of Features and Affordability in the Roomba Series | TechInsights</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-nokia-130-music-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nokia 130 Music? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-robovac-the-latest-self-cleaning-bot-with-baseboard-wiping-capabilities-explore-now-on-zdnet/"><u>Revolutionary RoboVac: The Latest Self-Cleaning Bot with Baseboard Wiping Capabilities - Explore Now on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-is-here-unveiling-apples-plans-for-intelligent-robotic-assistants-in-residential-spaces-zdnet/"><u>The Future Is Here: Unveiling Apple's Plans for Intelligent Robotic Assistants in Residential Spaces | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-strategies-to-extend-your-robot-vacuum-battery-durability-tips-by-zdnet/"><u>Top Strategies to Extend Your Robot Vacuum Battery Durability, Tips by ZDNET</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-smartphone-why-it-wont-power-up-and-effective-solutions-that-work/"><u>Troubleshooting Your Smartphone: Why It Won’t Power Up & Effective Solutions That Work</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-value-proposition-is-the-high-priced-google-pixelbook-go-worth-it/"><u>Unpacking the Value Proposition: Is the High-Priced Google Pixelbook Go Worth It?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unraveling-the-mystery-if-your-iphones-imessages-turn-into-text-messages-are-you-possibly-blocked/"><u>Unraveling the Mystery: If Your iPhone's iMessages Turn Into Text Messages, Are You Possibly Blocked?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultimate-cleansing-companion-a-deep-dive-into-roborocks-premium-robotic-vacuum-zdnet-review/"><u>Unveiling the Ultimate Cleansing Companion: A Deep Dive Into Roborock's Premium Robotic Vacuum [ZDNet Review]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/when-ai-serves-up-surprises-the-day-i-got-drenched-in-vino-by-a-bot-and-its-billfold-antics/"><u>When AI Serves Up Surprises - The Day I Got Drenched in Vino by a Bot and Its Billfold Antics</u></a></li>
 </ul></div>
 

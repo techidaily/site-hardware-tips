@@ -1,7 +1,7 @@
 ---
 title: "Anticipating Innovations in Tech: Spotlight on Apple's New Product Launches This October – Including M4 Powered Mac Mini and Next-Gen iPads | Expert Analysis"
-date: 2024-12-17T04:36:30.868Z
-updated: 2024-12-21T19:24:13.182Z
+date: 2024-12-22T23:42:52.808Z
+updated: 2024-12-27T19:11:16.688Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,22 +118,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-why-filmora-stands-out-its-top-10-alluring-features/"><u>[New] In 2024, Why Filmora Stands Out Its Top 10 Alluring Features</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-10-road-racers-playlist-for-2024/"><u>[Updated] Top 10 Road Racers Playlist for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cambie-de-mef-a-imagenes-jpeg-sin-costo-utilizando-la-herramienta-en-linea-de-movavi/"><u>Cambie De MEF a Imagenes JPEG Sin Costo Utilizando La Herramienta en Linea De Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expand-your-workspace-seamlessly-set-up-a-second-monitor-on-your-m1-mac-mini-with-ease-insights-by-zdnet/"><u>Expand Your Workspace: Seamlessly Set Up a Second Monitor on Your M1 Mac Mini with Ease | Insights by ZDNET</u></a></li>
-<li><a href="https://extra-information.techidaily.com/flavorful-filmmaking-made-easy-the-best-tips-for-food-videography/"><u>Flavorful Filmmaking Made Easy The Best Tips for Food Videography</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/insight-into-ais-impact-on-prompt-design-and-employment-sustainability/"><u>Insight Into AI's Impact on Prompt Design & Employment Sustainability</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/potential-risks-of-bmws-inductive-charge-technology-on-future-iphones-according-to-zdnet/"><u>Potential Risks of BMW's Inductive Charge Technology on Future iPhones, According to ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/qr-code-your-way-through-the-border-a-new-no-passport-entry-method-revealed-zdnet/"><u>QR Code Your Way Through the Border: A New No-Passport Entry Method Revealed | ZDnet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ready-for-takeoff-revolutionary-airborne-cars-hit-the-market-secure-your-model-with-a-preorder/"><u>Ready for Takeoff: Revolutionary Airborne Cars Hit the Market – Secure Your Model with a Preorder!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-travel-with-tesla-and-zoom-future-of-car-connectivity-unveiled/"><u>Revolutionize Travel with Tesla and Zoom - Future of Car Connectivity Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-vehicle-maintenance-using-our-cutting-edge-bluetooth-diagnostic-gadget/"><u>Revolutionize Your Vehicle Maintenance Using Our Cutting-Edge Bluetooth Diagnostic Gadget</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-high-quality-e-bikes-find-options-below-900-now/"><u>Save Big on High-Quality E-Bikes: Find Options Below $900 - Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-spooky-snapshot-hero-snag-evo-nanoplus-drones-for-halloween-with-savings-of-190-off-exclusive-offer-by-zdnet/"><u>Secure Your Spooky Snapshot Hero: Snag EVO NANO+ Drones for Halloween with Savings of $190 Off | Exclusive Offer by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-vacation-expenses-with-incredible-deals-on-accommodations-vehicle-rentals-and-entertainment-tickets-discover-how-zdnets-travelers-club-unlocks-co227/"><u>Slash Your Vacation Expenses with Incredible Deals on Accommodations, Vehicle Rentals & Entertainment Tickets: Discover How ZDNET's Travelers Club Unlocks Cost-Effective Wanderlust Dreams!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/smartwatch-showdown-navigating-features-and-performance-of-the-apple-watch-ultra-vs-series-n/"><u>Smartwatch Showdown: Navigating Features and Performance of the Apple Watch Ultra Vs. Series N</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ultimate-guide-to-converting-your-pdfs-into-microsoft-word-format-with-excel-approved-tools/"><u>Ultimate Guide to Converting Your PDFs Into Microsoft Word Format with Excel-Approved Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/updating-or-changing-the-default-audio-alerts-on-your-gmail-messages/"><u>Updating or Changing the Default Audio Alerts on Your Gmail Messages</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10-for-2024/"><u>[New] Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10) for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-keyword-mastery-unlocking-the-potential-of-youtube-tags/"><u>[Updated] Keyword Mastery Unlocking the Potential of YouTube Tags</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/black-friday-exclusive-get-your-earwax-removal-gadget-at-a-steep-discount-of-46-perfect-addition-to-any-tech-enthusiasts-toolkit/"><u>Black Friday Exclusive: Get Your Earwax Removal Gadget at a Steep Discount of 46% - Perfect Addition to Any Tech Enthusiast’s Toolkit</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-excellent-no-cost-digital-animation-software-your-ultimate-list/"><u>Discover Excellent No-Cost Digital Animation Software - Your Ultimate List!</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-ui-for-better-compatibility/"><u>Enhancing Windows UI for Better Compatibility</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-techniques-for-ps4-gameplay-documentation/"><u>Expert Techniques for PS4 Gameplay Documentation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970653217-how-to-overcome-universal-print-driver-challenges-with-your-samsung-printer-in-windows-problem-solved/"><u>How to Overcome Universal Print Driver Challenges with Your Samsung Printer in Windows - Problem Solved</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-highly-compensated-online-visionary-creator/"><u>In 2024, Highly Compensated Online Visionary Creator</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-art-of-amusement-master-memes-with-kapwing/"><u>In 2024, The Art of Amusement – Master Memes with Kapwing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-tips-for-thoroughly-sanitizing-lcdled-televisions-and-desktop-monitors-a-zdnet-experts-advice/"><u>Professional Tips for Thoroughly Sanitizing LCD/LED Televisions and Desktop Monitors: A ZDNet Expert's Advice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-using-the-portable-effective-and-sturdy-audew-air-compressor-pump-review-insights/"><u>The Ultimate Guide to Using the Portable, Effective & Sturdy AUDEW Air Compressor Pump - Review Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-must-have-3-protective-tools-for-safer-journeys-never-go-out-without-them/"><u>ZDNet's Must-Have 3 Protective Tools for Safer Journeys: Never Go Out Without Them!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-selection-elite-curved-screens-for-the-year-2024/"><u>ZDNet's Ultimate Selection: Elite Curved Screens for the Year 2024</u></a></li>
 </ul></div>
 

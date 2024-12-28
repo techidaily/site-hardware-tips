@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Delights From Apple's Autumn Showcase: Unveiling the M4 Mac Mini & Enhanced iPads!"
-date: 2024-12-14T23:00:05.314Z
-updated: 2024-12-22T00:56:19.540Z
+date: 2024-12-26T22:08:03.158Z
+updated: 2024-12-27T16:43:53.009Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,20 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-conquer-iphone-podcast-downloads-a-step-by-step-guidebook/"><u>[New] 2024 Approved Conquer iPhone Podcast Downloads – A Step-by-Step Guidebook</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-redefining-visual-storytelling-with-virtual-reality/"><u>[New] 2024 Approved Redefining Visual Storytelling with Virtual Reality</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-keeping-your-audience-attentive-and-committed-top-6-methods-revealed/"><u>[New] The Art of Keeping Your Audience Attentive & Committed Top 6 Methods Revealed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unraveling-why-your-facebooks-newsfeed-fails-to-suggest-movies-for-2024/"><u>[New] Unraveling Why Your Facebook's Newsfeed Fails to Suggest Movies for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-leaders-shaping-the-marvel-online-experience-for-2024/"><u>[Updated] Leaders Shaping the Marvel Online Experience for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-integrating-video-conferencing-mastering-skypes-screen-sharing-functionality/"><u>2024 Approved Integrating Video Conferencing Mastering Skype's Screen Sharing Functionality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ces-2023-highlights-top-tech-unveiled-on-the-second-day-featured/"><u>CES 2023 Highlights: Top Tech Unveiled on the Second Day Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cost-effective-choice-vs-macbook-air-discover-the-top-windows-laptop-that-matches-its-capabilities-insight/"><u>Cost-Effective Choice Vs. MacBook Air: Discover the Top Windows Laptop That Matches Its Capabilities Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-2022s-ultimate-shopping-event-dates-and-top-bargains-of-black-friday-insights/"><u>Discovering 2022'S Ultimate Shopping Event: Dates & Top Bargains of Black Friday – Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-picks-for-thinnest-and-lightest-laptops-of-2024-reviewed-zdnet/"><u>Expert Picks for Thinnest & Lightest Laptops of 2024 Reviewed | ZDNET</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-smart-8-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Smart 8 Pro FRP In 3 Different Ways</u></a></li>
-<li><a href="https://fox-access.techidaily.com/luminous-videos-an-android-lighting-guide/"><u>Luminous Videos An Android Lighting Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/protect-your-privacy-studies-show-computer-technicians-may-view-sensitive-data-during-repairs-zdnet/"><u>Protect Your Privacy: Studies Show Computer Technicians May View Sensitive Data During Repairs | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-16-unbeatable-hp-laptop-bargains-during-the-festive-season-insights/"><u>Top 16 Unbeatable HP Laptop Bargains During the Festive Season - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/usb-c-mastery-how-the-innovative-tangle-free-cord-transformed-my-tech-packing-experience-gadgetreview/"><u>USB-C Mastery: How the Innovative 'Tangle-Free' Cord Transformed My Tech Packing Experience | GadgetReview</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-from-novice-to-maestro-professional-photography-and-cinematography-techniques/"><u>[New] 2024 Approved From Novice to Maestro Professional Photography & Cinematography Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-3-simple-ways-to-color-grading-in-adobe-photoshop/"><u>[New] 3 Simple Ways to Color Grading in Adobe Photoshop</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-efficient-content-curation-steps-towards-a-well-organized-watch-later-playlist/"><u>[Updated] 2024 Approved Efficient Content Curation Steps Towards a Well-Organized 'Watch Later' Playlist</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-in-depth-look-at-using-key-combos-for-efficient-screen-recording-in-os-x/"><u>[Updated] 2024 Approved In-Depth Look at Using Key Combos for Efficient Screen Recording in OS X</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-excelling-in-medical-record-digitization-healthcare-institution-selects-for-efficient-document-categorization/"><u>ABBYY Excelling in Medical Record Digitization: Healthcare Institution Selects for Efficient Document Categorization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unparalleled-flexibility-with-our-best-reviewed-light-strips-now-reduced-by-30-shop-on-zdnet/"><u>Experience Unparalleled Flexibility with Our Best Reviewed Light Strips Now Reduced by 30% - Shop on ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/holiday-savings-alert-save-big-on-ges-innovative-cync-light-strip-during-the-black-friday-extravaganza-only-27-off-at-zdnet/"><u>Holiday Savings Alert! Save Big on GE's Innovative CYNC Light Strip During the Black Friday Extravaganza - Only $27 Off at ZDNET!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-clear-youtube-watch-later-playlist-for-2024/"><u>How to Clear YouTube Watch Later Playlist for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-features-of-the-latest-lutron-pico-remote-a-game-changer-reviewed-by-zdnet/"><u>Revolutionary Features of the Latest Lutron Pico Remote - A Game-Changer Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-home-lighting-discover-the-latest-innovative-lutron-pico-remote-a-game-changer-for-smart-homes/"><u>Revolutionizing Home Lighting: Discover the Latest Innovative Lutron Pico Remote - A Game Changer for Smart Homes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-money-with-everlasting-smart-string-light-solutions-outshining-others-on-zdnet/"><u>Save Money with Everlasting Smart String Light Solutions Outshining Others on ZDNet.</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-trend-alert-unbundling-giphy-from-facebook-debated/"><u>Tech Trend Alert: Unbundling Giphy From Facebook Debated</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-superior-alternative-five-reasons-to-use-claude-3-instead-of-chatgpt/"><u>The Superior Alternative: Five Reasons to Use Claude 3 Instead of ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-home-office-light-fixtures-insights-and-reviews-zdnet/"><u>Top Rated Home Office Light Fixtures - Insights & Reviews (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ring-light-picks-of-2024-boosting-your-tiktok-creations-zdnet/"><u>Top Rated Ring Light Picks of 2024: Boosting Your TikTok Creations | ZDNet</u></a></li>
 </ul></div>
 

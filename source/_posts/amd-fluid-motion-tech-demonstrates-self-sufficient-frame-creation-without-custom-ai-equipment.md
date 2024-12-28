@@ -1,7 +1,7 @@
 ---
 title: AMD Fluid Motion Tech Demonstrates Self-Sufficient Frame Creation Without Custom AI Equipment
-date: 2024-09-15T04:21:12.063Z
-updated: 2024-09-21T23:00:45.193Z
+date: 2024-12-26T23:52:28.800Z
+updated: 2024-12-27T16:22:09.352Z
 tags:
   - hardware
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## AMD Fluid Motion Tech Demonstrates Self-Sufficient Frame Creation Without Custom AI Equipment
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is AMD Fluid Motion Frames?](https://article-knowledge.techidaily.com/updated-is-auroras-hdr-enhancing-your-viewing-experience-for-2024/)
 * [AFMF 2 Isn’t Out Yet, but You Can Try the Preview](https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Testing AFMF 2 in Games](https://youtube-video-recordings.techidaily.com/new-constructing-a-custom-youtube-subscription-url/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,6 +42,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  AFMF was released in January of this year, and it frankly wasn't that good. James Archer from [Rock Paper Shotgun](https://www.rockpapershotgun.com/should-you-bother-with-amd-fluid-motion-frames) said that it filled his games with jittery images and constant stutter. The good news is that AMD has now released a preview of [Fluid Motion Frames 2](https://community.amd.com/t5/gaming/amd-fluid-motion-frames-2-technical-preview-now-available/ba-p/697448/jump-to/first-unread-message), which has added "AI-optimized enhancements," promising to improve both image fidelity and performance. For instance, it promises an average 28% reduction in latency compared to AFMF 1\. However, we'll have to see independent tests to see if the claim is true.
 
 ![AFMF 2 Cyberpunk 2077 latency.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/afmf-2-cyberpunk-2077-latency-chart3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 AMD
 
@@ -58,10 +70,7 @@ Ismar Hrnjicevic / How-To Geek
 ![AMD Chill set to 71 FPS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/chill.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  AFMF 2 Isn’t Out Yet, but You Can Try the Preview
@@ -73,16 +82,7 @@ Ismar Hrnjicevic / How-To Geek
  AFMF 2 should work in most games, as it now supports OpenGL and Vulkan in addition to DirectX 11 and 12\. [Vulkan](https://tiktok-videos.techidaily.com/2024-approved-mastering-tiktok-update-your-video-framing/) is a low-overhead API that already boasts significant FPS improvements in select titles compared to DirectX and OpenGL. Adding AFMF 2 into the mix could bring select titles to even the weakest of AMD's hardware.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Testing AFMF 2 in Games
@@ -116,5 +116,20 @@ Ismar Hrnjicevic / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-simplifying-the-process-of-mp3-download-from-pinterest/"><u>[Updated] Simplifying the Process of MP3 Download From Pinterest</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-and-channelizing-imovie-productions-on-youtube/"><u>Crafting and Channelizing iMovie Productions on YouTube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-se-2022-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone SE (2022) Device from iCloud</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-easy-guide-initiating-a-call-or-chat-on-snapchat/"><u>In 2024, The Easy Guide Initiating a Call or Chat on Snapchat</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meta-quest-3-the-ultimate-vr-steal-at-512gb-on-prime-day-according-to-zdnet-octobers-unbeatable-deals/"><u>Meta Quest 3: The Ultimate VR Steal at 512GB on Prime Day, According to ZDNET | October's Unbeatable Deals!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-discover-the-power-of-wax-a-free-video-editor-for-creators/"><u>New Discover the Power of Wax A Free Video Editor for Creators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/octobers-ultimate-virtual-reality-bargain-unmissable-meta-quest-3-with-512gb-storage-on-prime-day-exclusive-insights/"><u>October's Ultimate Virtual Reality Bargain: Unmissable Meta Quest 3 with 512GB Storage on Prime Day | Exclusive Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-series-update-detailed-breakdown-from-the-recent-unpacked-launch-what-you-need-to-know-digitaltech-review/"><u>Samsung Galaxy Series Update: Detailed Breakdown From the Recent Unpacked Launch - What You Need to Know! | DigitalTech Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-16-hp-laptop-offers-on-holidays-techradar/"><u>Top 16 HP Laptop Offers on Holidays | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-unbeatable-laptop-promotions-in-july-2024-discovered-on-zdnet/"><u>Top Picks: Unbeatable Laptop Promotions in July 2024 - Discovered on ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-the-dynamics-of-facebook-neighborhoods/"><u>Understanding the Dynamics of Facebook Neighborhoods</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-full-potential-of-xbox-series-x-the-4k-setup-guide/"><u>Unlocking the Full Potential of Xbox Series X: The 4K Setup Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-apples-latest-feature-ai-powered-virtual-band-members-in-logic-pro-for-ipads-and-macs-explore-the-future-of-music-creation/"><u>Unveiling Apple's Latest Feature: AI-Powered Virtual Band Members in Logic Pro for iPads & Macs - Explore the Future of Music Creation!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Roborock S8 MaxV Ultra: A Must-Have Luxury Robotic Vacuum"
-date: 2024-09-18T09:29:03.969Z
-updated: 2024-09-21T17:02:36.318Z
+date: 2024-12-23T20:26:15.604Z
+updated: 2024-12-27T21:19:37.236Z
 tags:
   - hardware
 categories:
@@ -44,11 +44,19 @@ The Roborock S8 MaxV Ultra is a robot vacuum cleaner with an automatic emptying 
 
 [$1800 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froborock-s8-maxv-ultra-robot-vacuum-and-mop-with-flexiarm-design-side-brush-10000-pa-suction-and-8-in-1-rockdock-ultra-white%2F6579466.p%3FskuId%3D6579466) [$1800 at Amazon](https://amazon.com/dp/B0CQLPNB2X?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002813&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Froborock-s8-maxv-ultra-review%2F&asc%5Fcampaign=Authority) [$1800 at roborock](https://roborock.pxf.io/c/156932/2007268/14848?subId1=htgs8maxvultrareview) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The Roborock S8 MaxV Ultra retails for $1,799.99 and is available in black or white colors. Alternatively, you can check out the [S8 MaxV Ultra with Refill & Drainage System](https://roborock.pxf.io/c/156932/1179705/14848?subId1=UUhtgUeUpU2002813&subId2=ehtg&u=https%3A%2F%2Fus.roborock.com%2Fproducts%2Froborock-s8-maxv-ultra-with-refill-drainage-system) if you don't want to replenish or empty the clean and dirty water tanks manually. Of course, you'll have to plumb the system into one of your sinks and pay a $100 premium.
 
 ![Roborock S8 MaxV Ultra promotional deal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-23-at-9-15-34-pm.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Additionally, if you buy the S8 MaxV Ultra before the end of April 28, 2024, Roborock will throw in a free [Flexi Lite wet and dry vacuum](https://roborock.pxf.io/c/156932/1179705/14848?subId1=UUhtgUeUpU2002813&subId2=ehtg&u=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock-flexi-lite), an accessory bundle (two side brushes, two filters, two mop pads, and four Edgewise mop clothes), and a four-year extended warranty. More information can be found on [Roborock's website](https://roborock.pxf.io/c/156932/1179705/14848?subId1=UUhtgUeUpU2002813&subId2=ehtg&u=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock-special-offer).
 
@@ -112,6 +120,10 @@ The Roborock S8 MaxV Ultra is a robot vacuum cleaner with an automatic emptying 
 
 Expand 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Familiar Look With Quiet Upgrades
 
 ![Roborock S8 MaxV Ultra mopping and vacuuming the kitchen floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/roborock-s8-maxv-ultra-mopping-and-vacuuming-the-kitchen-floor-3-1.jpg) 
@@ -142,6 +154,10 @@ Close
 
 ![Roborock S8 MaxV Ultra mopping the floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/roborock-s8-maxv-ultra-mopping-the-floor-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Along with the FlexiArm side brush, the S8 MaxV Ultra includes a smaller secondary mop that Roborock calls Edge Mopping. This round disk sits at the side of the primary mop pad and allows the bot to clean around walls and other edges better. As you can see from the photo above, Edge Mopping cleaned the baseboards and other trim pieces found all around my house.
@@ -159,13 +175,6 @@ Justin Duino / How-To Geek
  In the past, if you wanted to use more than water to mop your floors, you needed to add a non-sudsy soap to the clean water tank every time you refilled it. With the S8 MaxV Ultra, the built-in detergent container automatically adds the correct amount. Unfortunately, a sample isn't included in the box, so you'll need to buy your own (I purchased [Roborock's co-branded cleaning solution](https://amazon.com/dp/B09DK9FWB1?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002813&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Froborock-s8-maxv-ultra-review%2F&asc%5Fcampaign=Authority), and it has been doing an excellent job). The good news is that you should get roughly three months of use out of a single bottle.
 
  The mop cleaning feature has also been upgraded. Last year, Roborock added a heater to the dock to dry the mop after it was washed. The 8-in-1 RockDock Ultra takes that up a level and washes the S8 MaxV Ultra's two mop pads with 140-degree F water. Assuming you're adding a cleaning solution to the dock, you could theoretically leave the mop on your bot permanently as it's being washed and dried in a way that should kill off any unwanted bacteria (though it probably wouldn't hurt to toss it in the wash for a thorough cleaning periodically).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  A Mobile App Worth Using
 
@@ -191,13 +200,6 @@ Close
 
  Roborock also included a custom voice assistant in the S8 MaxV Ultra. Say something like, "Hello, Rocky, mop the kitchen," and the bot will start on that task, all without you taking out your phone. The feature also works without a network connection, just as long as the device has an offline map of your home saved. It's definitely helpful for one-off messes when you can send the robot to a single room without directing it through the mobile app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Self-Emptying but Not Maintenance-Free
 
 ![Debris bag and cleaning solution container inside the Roborock S8 MaxV Ultra self emptying docking station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/debris-bag-and-cleaning-solution-container-inside-the-roborock-s8-maxv-ultra-self-emptying-docking-station-1.jpg) 
@@ -217,6 +219,10 @@ Close
  The water filter in the S8 MaxV Ultra's dock is a removable part that consists of two mesh screens that help collect larger debris from being sucked through the station's plumbing. While this is easy enough to clean, the base pan where the filter sits tends to get caked in dirt and mud. Other than sitting on the floor and reaching into the machine with a wet cloth, there's no easy way to clean this area. Color me surprised when I learned that some of Roborock's other bots, like the [Qrevo MaxV](https://amazon.com/dp/B0CQ7JCN6Z?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002813&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Froborock-s8-maxv-ultra-review%2F&asc%5Fcampaign=Authority), have a removable base that can easily be washed in the sink.
 
  I can already hear people shouting, "Those two robots have completely different mop systems!" I know. I'm not asking for a carbon copy of the Qrevo's dock, but I would like to see Roborock invest some time into making its $1,800 robot just a bit easier to clean.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Roborock S8 MaxV Ultra vs. S8 Pro Ultra
 
@@ -247,10 +253,7 @@ Justin Duino / How-To Geek
 ![Roborock S8 MaxV Ultra on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/roborock-s8-maxv-ultra-on-a-white-background.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-geek-editor-s-choice-badge.png) 
@@ -276,5 +279,23 @@ The Roborock S8 MaxV Ultra is a robot vacuum cleaner with an automatic emptying 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-comprehensive-tutorial-inserting-text-into-photographs-on-oses/"><u>[New] In 2024, Comprehensive Tutorial Inserting Text Into Photographs on OSes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-quantity-of-videos-on-128gb-storage-media/"><u>[New] In 2024, Quantity of Videos on 128GB Storage Media</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/5-exceptional-trackball-and-touchpad-devices-for-ipad-users/"><u>5 Exceptional Trackball and Touchpad Devices for iPad Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beware-of-invasive-pc-repair-workers-snooping-on-personal-data-recent-study-warns-zdnet/"><u>Beware of Invasive PC Repair Workers Snooping on Personal Data, Recent Study Warns | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-selection-of-over-65-exclusive-gaming-laptop-bargains-for-festivities-insights/"><u>Discover the Ultimate Selection of Over 65 Exclusive Gaming Laptop Bargains for Festivities – Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-v29-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo V29 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-workday-quick-setup-for-outlook-preview-in-windows-11/"><u>Enhance Your Workday: Quick Setup for Outlook Preview in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceptional-display-quality-at-an-unbeatable-price-discover-this-fantastic-portable-laptop-on-zdnet/"><u>Exceptional Display Quality at an Unbeatable Price: Discover This Fantastic, Portable Laptop on ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevating-youtube-prominence-with-expert-use-of-the-hub/"><u>In 2024, Elevating Youtube Prominence with Expert Use of the Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-laptops-lifespan-with-easy-steps-to-turn-on-google-chromes-energy-saver-mode-a-must-read-guide/"><u>Maximize Your Laptop's Lifespan with Easy Steps to Turn On Google Chrome's Energy Saver Mode: A Must-Read Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mega-discount-on-high-performance-gaming-pcs-up-to-57-savings-on-gigabyte-aero-16-techsavvy/"><u>Mega Discount on High-Performance Gaming PCs - Up to 57% Savings on Gigabyte Aero 16 | TechSavvy</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-addressing-the-crashed-graphics-driver-problem-in-valorant/"><u>Step-by-Step Fix: Addressing the 'Crashed Graphics Driver' Problem in Valorant</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transformative-techniques-for-high-quality-mp4s-from-instagram-for-2024/"><u>Transformative Techniques for High-Quality MP4s From Instagram for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-revolutionary-lg-gram-pro-17-a-featherlight-powerhouse-perfect-for-prime-day-deals-exclusive-review-by-zdnet/"><u>Unboxing the Revolutionary LG Gram Pro 17: A Featherlight Powerhouse Perfect for Prime Day Deals - Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-new-era-for-dells-xps-portfolio-enhanced-with-ai-functionality-while-maintaining-iconic-style-tech-insights-by-zdnet/"><u>Unveiling The New Era for Dell's XPS Portfolio: Enhanced with AI Functionality While Maintaining Iconic Style | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi 14? | Dr.fone</u></a></li>
+</ul></div>
 

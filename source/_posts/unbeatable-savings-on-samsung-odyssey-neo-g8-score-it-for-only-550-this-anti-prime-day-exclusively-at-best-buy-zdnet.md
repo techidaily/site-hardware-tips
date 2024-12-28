@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Samsung Odyssey Neo G8 - Score It For Only $550 This Anti-Prime Day, Exclusively at Best Buy | ZDNET
-date: 2024-12-21T03:08:13.018Z
-updated: 2024-12-22T00:48:42.854Z
+date: 2024-12-22T21:39:06.009Z
+updated: 2024-12-27T21:47:14.062Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,18 +63,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-best-platforms-for-futuristic-font-designs/"><u>[New] 2024 Approved Best Platforms for Futuristic Font Designs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-discover-the-most-reliable-android-apps-to-replay-your-favorite-ps2-games/"><u>[Updated] Discover the Most Reliable Android Apps to Replay Your Favorite PS2 Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-crafting-personalized-storytelling-on-snapchat/"><u>In 2024, Crafting Personalized Storytelling on Snapchat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-googles-ar-stickers-usage-and-options-beyond/"><u>In 2024, Google's AR Stickers Usage & Options Beyond</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-4g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 4G Bootloader Easily</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/oled-versus-led-screen-types-a-comprehensive-guide-to-their-distinctions-and-which-offers-better-performance/"><u>OLED Versus LED Screen Types: A Comprehensive Guide to Their Distinctions and Which Offers Better Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/panasonic-resurfaces-in-american-market-with-trio-of-innovative-4k-televisions-insights-from-zdnet/"><u>Panasonic Resurfaces in American Market with Trio of Innovative 4K Televisions - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/research-methodologies-like-randomized-controlled-trials-are-used-to-measure-real-world-policy-effects/"><u>Research Methodologies Like Randomized Controlled Trials Are Used to Measure Real-World Policy Effects.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-ultra-thin-tcl-renders-their-minimalist-frames-competing-with-the-famed-samsung-design/"><u>Revolutionary Ultra-Thin TCL Renders Their Minimalist Frames, Competing with the Famed Samsung Design</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-frame-evolution-a-detailed-look-at-the-upgrades-from-2023-to-2er-tv-2024-edition-zdnet-insights/"><u>Samsung Frame Evolution: A Detailed Look at the Upgrades From 2023 to 2Er TV 2024 Edition | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-your-favorite-shows-the-ultimate-list-of-2024-labor-day-television-discounts-exclusive-insights-from-zdnet/"><u>Save Big on Your Favorite Shows: The Ultimate List of 2024 Labor Day Television Discounts | Exclusive Insights From ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-crafting-images-via-ai-using-chatgpt/"><u>Step-by-Step Guide: Crafting Images via AI Using ChatGPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fix-for-this-device-is-not-present-win-10-8-and-asterisk/"><u>Troubleshooting and Fix for 'This Device Is Not Present' - Win 10, 8 & Asterisk</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-streamline-your-audio-preferences-moving-spotify-playlists-to-youtube-music/"><u>[New] 2024 Approved Streamline Your Audio Preferences Moving Spotify Playlists to YouTube Music</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dispelling-darkness-enhancing-youtube-views/"><u>[Updated] 2024 Approved Dispelling Darkness, Enhancing Youtube Views</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-winning-at-movie-watching-leading-windows-phone-apps-for-2024/"><u>[Updated] Winning at Movie Watching Leading Windows Phone Apps for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-11-proplus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme 11 Pro+ Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-unveils-the-upgraded-mac-studio-a-matured-version-of-the-mac-mini-according-to-zdnet/"><u>Apple Unveils the Upgraded Mac Studio - A Matured Version of the Mac Mini, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buyable-innovations-from-ces-202n-exciting-gadgets-unveiled/"><u>Buyable Innovations From CES 202N - Exciting Gadgets Unveiled!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/connect-with-ease-integrating-internal-solid-state-drives-into-usb-c-systems-for-pcs-and-macbooks-digitaltechadvice/"><u>Connect with Ease: Integrating Internal Solid State Drives Into USB-C Systems for PCs & MacBooks | DigitalTechAdvice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-gpu-a-comprehensive-guide-to-identifying-and-updating-graphics-cards-and-drivers-techradar/"><u>Discover Your GPU: A Comprehensive Guide to Identifying & Updating Graphics Cards and Drivers | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-high-speed-2-tb-samsung-990-pro-m2-nvme-ssd-available-for-only-179-shop-today/"><u>Exclusive Offer! High-Speed 2 TB Samsung 990 Pro M.2 NVMe SSD Available for Only $179 – Shop Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fix-samsung-all-in-one-printer-drivers-in-windows-systems/"><u>How to Fix Samsung All-in-One Printer Drivers in Windows Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/qualified-macbook-buyers-awarded-by-apple-under-new-class-action-agreement-tech-news-update/"><u>Qualified MacBook Buyers Awarded by Apple Under New Class Action Agreement | Tech News Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-mp4-to-mp3-conversion-apps-for-mobile/"><u>The Ultimate Guide to MP4 to MP3 Conversion Apps for Mobile</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-addressing-audio-failure-xc00d36b4/"><u>Understanding and Addressing Audio Failure XC00D36B4</u></a></li>
 </ul></div>
 

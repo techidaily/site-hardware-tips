@@ -1,7 +1,7 @@
 ---
 title: Top 5 Essential Factors to Evaluate Before Purchasing Pre-Owned Android Devices
-date: 2024-09-09T16:34:01.037Z
-updated: 2024-09-16T17:42:46.650Z
+date: 2024-12-26T16:57:10.975Z
+updated: 2024-12-27T17:48:38.637Z
 tags:
   - android
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Top 5 Essential Factors to Evaluate Before Purchasing Pre-Owned Android Devices
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,9 +27,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you're buying a used Android phone in person---like from someone you know or a Facebook Marketplace meetup---it's relatively easy to check if everything is okay and to back out if it's not. However, when [buying a used phone online](https://some-knowledge.techidaily.com/in-2024-exclusive-guide-to-premium-free-slo-mo-photo-and-video-apps/), you have to be more careful. We'll share some tips to help you make a safe purchase.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Where to Buy Used Android Phones
 
  Let's start with the basics---make sure to buy used phones from a reputable source that will have your back if something goes wrong. There are a few places we like to look.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Swappa
 
@@ -33,18 +45,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Every item that goes up for sale on Swappa by an individual must be verified with a photo containing the listing code in frame. This ensures you're seeing a real photo of the actual phone you will receive. There are also real Swappa employees monitoring posts, and you can pull them in whenever needed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Gazelle
 
 [Gazelle](https://www.gazelle.com/) is like Swappa, but there's one very big difference. You're not buying from random strangers, but from Gazelle itself. They buy phones from users, check them out, and make sure they work fine before selling them.
 
  The nice thing about this is Gazelle has a consistent rating system across all devices. You're not subject to a random person's definition of "Good" being different than yours. Phones from Gazelle have a 30-day return policy as well. You might pay a tiny bit more than you would scooping up a killer deal off Swappa, but many people find that extra bit of money a worthwhile investment to get a more consistent experience buying used phones.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  eBay
 
@@ -54,6 +63,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Generally speaking, eBay has your back if something goes awry. You have to do your homework and accept that you're taking a bit of a risk. Swappa or Gazelle are better options if you're looking for a less stressful experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Check the IMEI and Serial Numbers
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Screenshot_20190404-1507301.jpg?width=1198&amp;trim=1,1&amp;bg-color=000&amp;pad=1,1) 
@@ -61,13 +74,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 [IMEI](https://some-approaches.techidaily.com/updated-leading-picks-unlimited-photo-sharing-platforms/) and serial numbers are codes that identify a phone on a mobile network and by the manufacturer. You should check them to avoid buying a phone that has been flagged as lost or stolen. Most used phone retailers will check on the IMEI for you and list the status, but that's not always the case.
 
  If the IMEI and serial numbers have not been checked, you should ask for the numbers so you can do it yourself. Use services like [CheckMend](https://www.checkmend.com/us/) or [Phonecheck](https://www.phonecheck.com/) to see if the phone has been reported as stolen, deny-listed, or subject to an insurance claim. You don't want to buy a phone that can't be activated or used on any network.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Does the Seller Have Good Ratings?
 
@@ -90,13 +96,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 [Android offers a few different ways to check the battery health](https://hardware-updates.techidaily.com/installing-intels-management-engine-drivers-on-windows-11817-complete-tutorial/), but that doesn't help you if you don't have the phone in your hand. If you're looking to buy a used Samsung Galaxy phone, it's a built-in feature that you can ask the owner to check. Otherwise, you'll need to take their word on battery life.
 
 Related: [How to Check Battery Health on Android](https://hardware-updates.techidaily.com/installing-intels-management-engine-drivers-on-windows-11817-complete-tutorial/) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Original Accessories and Box Is a Good Sign
 
@@ -121,5 +120,21 @@ Related: [How to Check Battery Health on Android](https://hardware-updates.techi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-path-to-stunning-hdr-portraits/"><u>2024 Approved The Ultimate Path to Stunning HDR Portraits</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-agni-2-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Lava Agni 2 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-and-tough-discovering-the-ultimate-rugged-laptops-of-2024-according-to-industry-experts-at-zdnet/"><u>Future-Proof and Tough: Discovering the Ultimate Rugged Laptops of 2024, According to Industry Experts at ZDNET</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-find-x6-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y27-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y27 5G Phones with/without a PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-dell-transformed-my-expectations-with-a-laptop-packed-full-of-bells-and-whistles-at-just-300e-insights-review/"><u>How Dell Transformed My Expectations with a Laptop Packed Full of Bells and Whistles at Just $3,00E | Insights Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-alert-samsung-4tb-portable-ssd-t5-now-available-on-amazon-for-just-under-half-the-original-price-zdnet/"><u>Massive Discount Alert: Samsung 4TB Portable SSD (T5) Now Available on Amazon for Just Under Half the Original Price - ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-your-content-on-vimeo-free-plus-or-pro-in-2024/"><u>Mastering Your Content on Vimeo Free, Plus or Pro, In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/new-macpaw-strategy-an-innovative-solution-for-iphones-app-marketplace-amidst-updated-rules-insights-from-zdnet/"><u>New MacPaw Strategy: An Innovative Solution for iPhones' App Marketplace Amidst Updated Rules - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/sechs-effektive-techniken-zum-hochladen-von-bildern-auf-ihr-neues-ipad/"><u>Sechs Effektive Techniken Zum Hochladen Von Bildern Auf Ihr Neues iPad</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-insightful-overview-what-is-hugving-face-used-for/"><u>The Insightful Overview: What Is Hugving Face Used For?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-latest-lenovo-thinkpad-2-in-1-upgrade-a-game-changer-for-professional-users-insights/"><u>The Latest Lenovo ThinkPad 2-in-1 Upgrade: A Game-Changer for Professional Users - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-65-affordable-laptops-for-festive-season-gamers-unbeatable-offers/"><u>Top 65 Affordable Laptops for Festive Season Gamers: Unbeatable Offers!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/update-your-apple-devices-transition-from-high-sierra-to-macos-mojave-with-ease/"><u>Update Your Apple Devices: Transition From High Sierra to macOS Mojave with Ease</u></a></li>
+</ul></div>
 

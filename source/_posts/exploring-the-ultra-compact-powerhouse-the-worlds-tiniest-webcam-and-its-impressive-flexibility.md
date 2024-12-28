@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Ultra-Compact Powerhouse: The World’s Tiniest Webcam and Its Impressive Flexibility"
-date: 2024-12-19T16:10:13.337Z
-updated: 2024-12-22T06:08:57.733Z
+date: 2024-12-21T23:02:49.297Z
+updated: 2024-12-27T21:36:39.741Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Regarding the battery life on the ThinkBook 14 2-in-1, I found it to be acceptab
 I can get a full day's worth of work out of this laptop on one charge, but honestly, barely so. That being said, the fast charging capability does bring the laptop from nearly dead to 100% in less than an hour. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,18 +120,14 @@ If you're looking for a similarly-priced convertible with a better display, chec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fixing-non-functional-airdrop-between-iphones-ipads-and-macs/"><u>[New] Fixing Non-Functional AirDrop Between iPhones, iPads & Macs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/aximizing-clicks-ultimate-youtube-banner-guidebook-for-2024/"><u>[New] Maximizing Clicks Ultimate YouTube Banner Guidebook for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-strategies-for-maximizing-your-twitter-archive/"><u>[Updated] 2024 Approved Strategies for Maximizing Your Twitter Archive</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-visionaries-convergence-dissecting-virtual-reality-augmented-and-mixed-realms/"><u>[Updated] 2024 Approved Visionaries Convergence Dissecting Virtual Reality, Augmented & Mixed Realms</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-melodies-for-millions-insta-music-secrets/"><u>[Updated] In 2024, Melodies for Millions Insta Music Secrets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/early-birds-guide-exclusive-bargains-before-prime-day-2024-insights/"><u>Early Bird's Guide: Exclusive Bargains Before Prime Day 2024 - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-touchscreen-laptops-unveiled-comprehensive-tests-and-expert-insights/"><u>Elite Touchscreen Laptops Unveiled: Comprehensive Tests & Expert Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-revolutionary-auto-swiveling-laptop-a-firsthand-look-from-ifa-202nce-techradar/"><u>Experiencing Lenovo’s Revolutionary Auto-Swiveling Laptop: A Firsthand Look From IFA 202Nce | TechRadar</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-14-ultra-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi 14 Ultra Phones? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-surface-laptop-5-evaluation-expectations-unmet-but-no-rage-quit-insights/"><u>Microsoft Surface Laptop 5 Evaluation: Expectations Unmet but No Rage Quit - Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80041015-on-windows-a-step-by-step-guide/"><u>Overcoming Error 0X80041015 on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitters-video-guidelines-and-step-by-step-uploading-guide/"><u>Twitter's Video Guidelines & Step-by-Step Uploading Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-make-sense-of-iphone-video-repetition-tech/"><u>[New] 2024 Approved Make Sense of iPhone Video Repetition Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/comprehensive-2023-guide-to-lg-360-cam-tech-for-2024/"><u>Comprehensive 2023 Guide to LG 360 Cam Tech for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock ZTE Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-g73-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto G73 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protecting-smart-homes-find-out-which-devices-earned-a-new-trusted-seal-in-cybersecurity-zdnet/"><u>Protecting Smart Homes: Find Out Which Devices Earned a New Trusted Seal in Cybersecurity | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-electricity-bills-with-ges-intelligent-lighting-save-16-today/"><u>Slash Your Electricity Bills with GE's Intelligent Lighting - Save 16% Today!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-sharpened-scene-during-google-meet-calls/"><u>Tips for Sharpened Scene During Google Meet Calls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-book-light-picks-zdnets-ultimate-guide/"><u>Top-Rated Book Light Picks - ZDNet's Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-backyard-with-the-powerful-blink-outdoor/"><u>Transform Your Backyard with the Powerful Blink Outdoor</u></a></li>
 </ul></div>
 

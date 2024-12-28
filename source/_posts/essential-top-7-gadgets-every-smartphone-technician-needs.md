@@ -1,7 +1,7 @@
 ---
 title: Essential Top 7 Gadgets Every Smartphone Technician Needs
-date: 2024-09-09T16:19:40.544Z
-updated: 2024-09-16T17:41:21.265Z
+date: 2024-12-21T00:02:09.801Z
+updated: 2024-12-27T21:58:51.016Z
 tags:
   - android
 categories:
@@ -28,20 +28,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  But it's not without risk, too. Sometimes, when trying to avoid repair shop fees, you may end up with more stuff needing fixing than before. Therefore, weigh the pros and cons to decide whether to repair your phone at home or pay someone to do the job.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Tools You Will Need
 
  Firstly, you have to consider the required tools. Without those, you'll likely be unable to repair a phone by yourself. The good thing is that they're easy to come by in hardware stores and even at online marketplaces.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  A Good Screwdriver Kit
 
 ![Person removing a screw driver bit from the Person using the iFixit Pro Tech Toolkit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/b6e3025e.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Marcus Mears III / How-To Geek
 
@@ -49,18 +50,15 @@ Marcus Mears III / How-To Geek
 
  Fortunately, repair kits come with [at least half a dozen screwdrivers](https://amazon.com/dp/B0CBTYZY2S?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term). Figure out which ones you'll need for your repair—[iFixit is a great source for this](https://www.ifixit.com/Tools)—and make sure you order a kit with those. Using the wrong screwdriver is a sure way to cause stripped screws (screws with outworn heads that can't be unscrewed anymore).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Heating Bag or Hair Dryer
 
  Something as common inside phones as screws is glue. Lots of it is used to hold screens, batteries, and even the rear panel of many phones. A heating tool is often required to soften the glue, and it's important if you want to make sure no glass will shatter in the process.
 
  Repair shops often have heat guns with fine temperature control, but at home, a [hair dryer](https://amazon.com/dp/B001LQY1X4?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) does the job for occasional repairs. You can also use a [microwaveable heat bag](https://www.amazon.com/microwave-heat-bag/s?k=microwave+heat+bag&tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term)—do NOT put your phone in the microwave.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Prying and Opening Tools
 
@@ -73,13 +71,6 @@ Hannah Stryker / How-To Geek
  If your phone requires prying up the display to be opened, a pair of [suction cup pliers](https://amazon.com/dp/B06Y2JWV9X?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) might be useful. You can use manual ones—they often come within repair kits—but those require more physical strength.
 
 [Guitar picks](https://amazon.com/dp/B079X4659D?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) are also good additions. If you get a repair kit, there are actually spudgers that look just like them. Battery and screen replacements often need you to keep a larger portion of the phone separated, which can also be done with old credit (or playing) cards.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Precision Tools or Tweezers
 
@@ -99,6 +90,10 @@ _Marcus Mears III / How-To Geek_
 
  Some people consider this one a must-have since static is very dangerous to electronics. However, there are ways to discharge your static before the repair, like tapping a metal object that's touching the ground. Do that before starting, but also every few minutes during the procedure. An [anti-static wrist strap](https://amazon.com/dp/B08CXQN86W?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) is more practical if you're doing repairs often—say, you decided on fixing your electronics at home for the foreseeable future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Desk Lamp or Headlight
 
  A well-lit environment is required to do any repair. If you want some focused lighting as well, a [desk lamp](https://amazon.com/dp/B08SK4DMHR?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) ([or a headlight](https://amazon.com/dp/B014JUMTXM?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term)) might be a good investment. Both types allow for better adjustments of focus and position—without losing a free hand like you would with a regular flashlight. Desk lamps and headlights help even more with bigger devices, like tablets or laptops, but phone repairs benefit from this as well.
@@ -107,18 +102,15 @@ _Marcus Mears III / How-To Geek_
 
  Smartphones are comprised of many very small parts, so a magnifying glass, while not required, is a good addition. There are [desk-mounted models](https://amazon.com/dp/B09M9YYSGB?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) with integrated lights and ones [you can wear, like glasses](https://amazon.com/dp/B07X27N17T?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term), with varied magnification levels.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Tips for Fixing Mobile Phones at Home
 
  Larger screws, like the ones used for furniture, can be removed with homemade solutions if stripped. You can't do that with smartphone screws. They're so small that, if stripped, you'll need to drill through them. This risks damaging other parts if the drill goes too deep or isn't steady. So be sure you're using the right screwdriver and you're not forcing it.
 
 ![A wood board with two screws in it, the left screw is stripped and the right screw is intact.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/b176974b.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Josh Hendrickson / Review Geek
 
@@ -132,13 +124,6 @@ Josh Hendrickson / Review Geek
 
  On the other hand, batteries and chargers of questionable quality present a high risk. They may [catch fire or even explode](https://iphone-unlock.techidaily.com/in-2024-apple-iphone-15-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/), and even if they don't, your phone's battery life will likely be impacted.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Where to Buy (Reliable) Phone Replacement Parts?
 
  Firstly, always check if your device's manufacturer has a self-service repair program. If it does, it's undoubtedly the recommended way to get replacement parts.
@@ -147,9 +132,17 @@ Josh Hendrickson / Review Geek
 
 [r/MobileRepair on Reddit](https://www.reddit.com/r/mobilerepair/), with lots of enthusiasts and professionals, has also gathered years of knowledge. These days, they even have a [dedicated vendor list](https://vendorlist.mbl.repair/), complete with reviews and ratings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should I Repair My Water Damaged Phone at Home?
 
 ![Pixel 8 and Pixel 8 Pro under water droplets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/is-my-pixel-waterproof.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -172,5 +165,20 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-chromes-video-performance-boost-for-social-media-for-2024/"><u>[New] Chrome's Video Performance Boost for Social Media for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-assessment-of-assassins-creed-valhalla-a-grand-norse-saga-in-a-historical-setting/"><u>A Comprehensive Assessment of Assassin's Creed: Valhalla - A Grand Norse Saga in a Historical Setting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-secure-your-high-capacity-8tb-samsung-t5-ssd-at-an-amazing-36-price-drop-following-amazon-prime-day-insights/"><u>Don't Miss Out! Secure Your High-Capacity 8TB Samsung T5 SSD at an Amazing 36% Price Drop Following Amazon Prime Day - Insights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/editing-made-easy-youtube-editiontop-10-tips-for-newbies-for-2024/"><u>Editing Made Easy YouTube Edition—Top 10 Tips for Newbies for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y02t-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y02T</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/risolvi-con-facilita-la-tua-videoteca-convertendo-file-in-diversi-formattaggi-mp4-mov-avi-e-piu/"><u>Risolvi Con Facilità La Tua Videoteca Convertendo File in Diversi Formattaggi: MP4, MOV, AVI E Più</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/spin-elegance-bluetooth-and-style-with-sony-lx310bt/"><u>Spin Elegance: Bluetooth and Style with Sony LX310BT</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-on-seamlessly-acquiring-disney-movie-downloads/"><u>Step-by-Step Tutorial on Seamlessly Acquiring Disney Movie Downloads</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-tecno-phantom-v-flip-by-drfone-android/"><u>Three Ways to Sim Unlock Tecno Phantom V Flip</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-2024-discounts-on-premium-computers-exclusive-offers-ahead-of-black-friday/"><u>Top October 2024 Discounts on Premium Computers: Exclusive Offers Ahead of Black Friday</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/transfere-en-douceur-clonage-de-votre-hdd-vers-un-disque-ssd-samsung-avec-systeme-dexploitation-et-programmes-integres/"><u>Transféré en Douceur: Clonage De Votre HDD Vers Un Disque SSD Samsung Avec Système D'exploitation Et Programmes Intégrés</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-anywhere-compact-dock-upgrades-laptop-into-full-fledged-desk-setup-insights-from-zdnet/"><u>Transform Anywhere: Compact Dock Upgrades Laptop Into Full-Fledged Desk Setup - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-enhanced-and-more-affordable-screenless-ar-laptop-a-transformative-tech-evolution-detailed-insights/"><u>Unveiling the Enhanced and More Affordable Screenless AR Laptop: A Transformative Tech Evolution - Detailed Insights</u></a></li>
+</ul></div>
 

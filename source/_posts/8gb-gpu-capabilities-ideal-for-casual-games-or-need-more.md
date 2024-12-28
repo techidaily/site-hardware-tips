@@ -1,7 +1,7 @@
 ---
 title: "8GB GPU Capabilities: Ideal for Casual Games or Need More?"
-date: 2024-09-19T00:22:40.105Z
-updated: 2024-09-21T21:48:14.246Z
+date: 2024-12-21T18:25:44.628Z
+updated: 2024-12-27T21:04:58.642Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/030a80dcc01ac4eb35df5d7becbc06c4dd790eaec
 ---
 
 ## 8GB GPU Capabilities: Ideal for Casual Games or Need More?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -37,6 +41,10 @@ Cianna Garrison / How-To Geek
 
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Things Get Complicated With Newer AAA Games
 
  If you’re eyeing AAA games released in 2021 and later, 8GB of video memory will limit performance in some scenarios. For example, _Forza Horizon 5_, released in the second part of 2021, runs fine with textures set to extreme, even though the game hits you with a low memory warning minutes after you start driving.
@@ -44,6 +52,10 @@ Cianna Garrison / How-To Geek
  But after some time—about half an hour at 1440p ultrawide, a bit longer at 1080p—you will notice slowdowns, corrupted textures, and you might even experience a crash or two. Lowering the texture quality to ultra fixes the issue, but _Forza Horizon 5_ is far from the only game that doesn’t play nice with 8GB of VRAM.
 
 ![A screenshot of a virtual Corvette driving in a race from the game "Forza Horizon 5."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-01-172430.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -71,15 +83,16 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Buy an 8GB GPU in 2024?
@@ -103,5 +116,17 @@ _GIGABYTE_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-simplified-guide-instant-deletion-methods-for-youtube-discussions-for-2024/"><u>[Updated] Simplified Guide Instant Deletion Methods for Youtube Discussions for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-uncomplicated-technique-changing-vocal-pattern-in-winos-for-2024/"><u>[Updated] Uncomplicated Technique Changing Vocal Pattern in WinOS for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-ultimate-android-headphones-galaxy-buds-pro/"><u>Discover the Ultimate Android Headphones: Galaxy Buds Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-game-sound-quality-with-these-stellar-speakers-at-a-huge-discount-on-amazon-recommended-by-zdnets-gaming-specialists/"><u>Elevate Your Game Sound Quality with These Stellar Speakers at a Huge Discount on Amazon – Recommended by ZDNet's Gaming Specialists</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-iphone-storage-a-step-by-step-guide-on-clearing-clutter-and-reclaiming-gbs-techtips/"><u>Maximize Your iPhone Storage: A Step-by-Step Guide on Clearing Clutter & Reclaiming GBs | TechTips</u></a></li>
+<li><a href="https://facebook.techidaily.com/pioneering-peer-communication-chamber-mastery-for-rookies/"><u>Pioneering Peer Communication: Chamber Mastery for Rookies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-top-virtual-reality-offer-metas-limited-time-promotion-on-the-high-capacity-quest-3-zdnet-exclusive/"><u>Snag The Top Virtual Reality Offer: Meta's Limited-Time Promotion on the High-Capacity Quest ^3 | ZDNet Exclusive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-savings-on-apple-products-in-june-2024-find-the-latest-iphone-apple-watch-and-ipad-offers-now/"><u>Top Savings on Apple Products in June 2024 – Find the Latest iPhone, Apple Watch & iPad Offers Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-gaming-notebooks-comprehensive-reviews-by-professionals-techradar/"><u>Top-Rated Affordable Gaming Notebooks: Comprehensive Reviews by Professionals | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-no-cost-entertainment-tips-for-earning-a-complimentary-netflix-membership/"><u>Unlock No-Cost Entertainment: Tips for Earning a Complimentary Netflix Membership</u></a></li>
+</ul></div>
 

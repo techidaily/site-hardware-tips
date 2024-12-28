@@ -1,7 +1,7 @@
 ---
 title: "Save Big During October Prime Day 2024: Best Amazon Deals You Can't Miss - Still In-Stock"
-date: 2024-12-20T10:19:29.154Z
-updated: 2024-12-21T18:36:25.828Z
+date: 2024-12-26T16:05:14.754Z
+updated: 2024-12-27T20:00:22.660Z
 tags:
   - laptops
 categories:
@@ -118,6 +118,10 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C38bdd107-cb5f-49c9-b512-74661beb209f%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C38bdd107-cb5f-49c9-b512-74661beb209f%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -132,10 +136,6 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C38bdd107-cb5f-49c9-b512-74661beb209f%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C38bdd107-cb5f-49c9-b512-74661beb209f%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals still available
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C38bdd107-cb5f-49c9-b512-74661beb209f%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -149,7 +149,7 @@ ZDNET
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C38bdd107-cb5f-49c9-b512-74661beb209f%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals still available
@@ -181,6 +181,10 @@ Kyle Kucharski/ZDNET
 * [MSI Aegis RS for $1,700 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-rs-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-ti-super-2tb-ssd-black%2F6574690.p%3FskuId%3D6574690&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming and content creation desktop with an Intel Core i7-14700F CPU, Nvidia RTX 4070 Ti Super GPU, 32GB of RAM, and a 2TB SSD.
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming laptop deals still available
 
 Lenovo
@@ -191,7 +195,7 @@ Lenovo
 * [Alienware m18 for $1,750 (save $800 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m18-fhd-480hz-gaming-laptop-amd-ryzen-9-32gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6543535.p%3FskuId%3D6543535&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's high-end gaming laptop has an 18-inch display with an impressive 480Hz refresh rate. It's built with an AMD Ryzen 9 7000 series CPU, 32GB of RAM, a 1TB SSD, and Nvidia RTX 4070.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals still available
@@ -217,11 +221,11 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When was Amazon Prime Day 2024?
 
@@ -234,10 +238,6 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -304,19 +304,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-no-cost-guide-to-capturing-your-favorite-shows/"><u>[New] 2024 Approved The No-Cost Guide to Capturing Your Favorite Shows</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/dvanced-techniques-using-jump-cuts-effectively/"><u>[New] Advanced Techniques Using Jump Cuts Effectively</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-bridging-photo-realms-on-your-system-for-2024/"><u>[Updated] Bridging Photo Realms on Your System for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-reasons-for-unexpected-cut-off-in-imovie/"><u>[Updated] Reasons for Unexpected Cut-Off in iMovie</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/crystalgrabber-deluxe-winos-for-2024/"><u>CrystalGrabber Deluxe - WinOS for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-zte-blade-a73-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from ZTE Blade A73 5G Phones with/without a PC</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-get-crystal-clear-videos-top-picks-for-resolution-enhancement-software/"><u>New 2024 Approved Get Crystal-Clear Videos Top Picks for Resolution Enhancement Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-travel-credit-cards-offering-exclusive-airport-lounges-unlock-elite-benefits/"><u>Top 5 Travel Credit Cards Offering Exclusive Airport Lounges - Unlock Elite Benefits!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-electric-luxury-cars-comparing-tesla-model-s-3-x-and-y-insights-from-zdnet/"><u>Top Electric Luxury Cars : Comparing Tesla Model S, 3, X & Y - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-iphone-13-pro-max-protective-covers-a-comprehensive-guide/"><u>Top Rated iPhone 13 Pro Max Protective Covers : A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-travel-cards-for-newcomers-insights-from-zdnet/"><u>Top Recommended Travel Cards for Newcomers - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unconventional-journey-my-experience-with-the-polestar-2-on-a-test-drive-zdnet/"><u>Unconventional Journey: My Experience with the Polestar 2 on a Test Drive | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-teslas-latest-sensor-enhancement-key-reasons-explained-by-zdnet/"><u>Understanding Tesla's Latest Sensor Enhancement – Key Reasons Explained by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-ubers-package-return-feature-with-major-shipping-services-an-in-depth-guide-for-google-searchers/"><u>Understanding Uber's Package Return Feature with Major Shipping Services: An In-Depth Guide for Google Searchers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-expert-tips-building-meme-foundations/"><u>[Updated] 2024 Approved Expert Tips Building Meme Foundations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-hyperx-alloy-origins-core-mechanical-keyboard-evaluation-impressive-durability-meets-subpar-keycap-design-is-it-still-recommended/"><u>1. HyperX Alloy Origins Core Mechanical Keyboard Evaluation: Impressive Durability Meets Subpar Keycap Design - Is It Still Recommended?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-surge-protection-devices-ranked-by-experts-gizmodo/"><u>2024'S Leading Surge Protection Devices Ranked by Experts | Gizmodo</u></a></li>
+<li><a href="https://win-community.techidaily.com/4-langkah-mudah-untuk-restorasi-data-iphone-tutorial-hifi/"><u>4 Langkah Mudah Untuk Restorasi Data iPhone: Tutorial Hifi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apologies-apple-lovers-discover-why-this-logitech-keyboard-is-now-my-preferred-choice-for-mac-systems-insights-from-zdnet/"><u>Apologies, Apple Lovers! Discover Why This Logitech Keyboard Is Now My Preferred Choice for Mac Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-expansion-connecting-additional-thunderbolt-monitors-to-your-m1-mac-mini-advice-by-zdnet-experts/"><u>Effortless Expansion: Connecting Additional Thunderbolt Monitors to Your M1 Mac Mini – Advice by ZDNET Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/habitat-fragmentation-is-a-key-factor-influencing-the-dynamics-of-metapopulations/"><u>Habitat Fragmentation Is a Key Factor Influencing the Dynamics of Metapopulations.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-personalize-your-tune-list-a-step-by-step-guide-to-youtube-playlist-creation/"><u>In 2024, Personalize Your Tune List A Step-by-Step Guide to YouTube Playlist Creation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/master-iphone-image-conversion-from-jpgpng-to-pdf/"><u>Master iPhone Image Conversion From JPG/PNG to PDF</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-windows-11-experience-with-microsofts-new-copilot-feature/"><u>Navigating the Windows 11 Experience with Microsoft's New Copilot Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-premium-monitors-this-cyber-monday-checkout-sale-deals-by-leading-brands-like-samsung-asus-and-lg-zdnet-insights/"><u>Save Big on Premium Monitors This Cyber Monday: Checkout Sale Deals by Leading Brands Like Samsung, ASUS & LG | ZDNet Insights</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/understanding-user-feedback-on-privacy-guidelines/"><u>Understanding User Feedback on Privacy Guidelines</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-sony-action-camera-x1000-performance-for-2024/"><u>Unveiling Sony Action Camera X1000 Performance for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-why-consumers-opt-for-macbook-pros-despite-display-issues-the-zdnet-analysis/"><u>Unveiling Why Consumers Opt for MacBook Pros Despite Display Issues – The ZDNet Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/upgrade-your-online-presence-with-premium-webcam-tech-for-2024/"><u>Upgrade Your Online Presence with Premium Webcam Tech for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728489629010-windows-10-ssd/"><u>Windows 10 轉移至 SSD 上的步驟指南 - 如何使用微型硬碟</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-top-pick-from-ces-the-innovative-stylus-for-your-laptop-with-surprising-paper-writing-capabilities/"><u>ZDNet's Top Pick From CES: The Innovative Stylus for Your Laptop with Surprising Paper Writing Capabilities</u></a></li>
 </ul></div>
 

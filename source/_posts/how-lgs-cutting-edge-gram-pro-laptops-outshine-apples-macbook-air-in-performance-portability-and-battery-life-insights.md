@@ -1,7 +1,7 @@
 ---
 title: How LG's Cutting-Edge Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Portability, and Battery Life Insights
-date: 2024-12-15T07:27:04.105Z
-updated: 2024-12-21T18:29:19.974Z
+date: 2024-12-24T18:58:15.780Z
+updated: 2024-12-27T16:32:45.485Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,20 +114,20 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-clear-the-clutter-blurring-backgrounds-for-engaging-yt-for-2024/"><u>[New] How to Clear the Clutter Blurring Backgrounds for Engaging YT for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-full-motion-assessment-2023/"><u>[Updated] Full Motion Assessment 2023</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-to-change-your-voice-on-instagram-for-2024/"><u>[Updated] How to Change Your Voice on Instagram for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-entertainment-selection-utilizing-chatgpt-to-decide-whats-on-tap-next/"><u>AI-Powered Entertainment Selection: Utilizing ChatGPT to Decide What's On Tap Next</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-top-43-sets-expert-ratings-and-comparison-of-leading-tvs/"><u>Discover the Top 43 Sets: Expert Ratings & Comparison of Leading TVs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-black-friday-promotions-of-2022-exclusive-insights-and-location-guide/"><u>Discover Top Black Friday Promotions of 2022 - Exclusive Insights & Location Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-audio-excellence-beyond-giants-how-a-new-soundbar-outshone-bose-and-sony-on-zdnet/"><u>Discovering Audio Excellence Beyond Giants: How a New Soundbar Outshone Bose & Sony on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exciting-upgrade-alert-unlock-your-roku-tvs-latest-complimentary-enhancement/"><u>Exciting Upgrade Alert: Unlock Your Roku TV's Latest Complimentary Enhancement</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/extended-ai-enhanced-software-support-for-a-decade-samsungs-revolutionary-tv-upgrades/"><u>Extended AI-Enhanced Software Support for a Decade - Samsung's Revolutionary TV Upgrades</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/flagship-face-off-in-depth-comparison-of-lg-g3-and-samsung-s-cuisine-s95c-for-cutting-edge-viewing-smart-home-hub/"><u>Flagship Face-Off: In-Depth Comparison of LG G3 and Samsung S Cuisine S95C for Cutting-Edge Viewing | Smart Home Hub</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-k70e-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi K70E Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lenovo-thinkphone-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Lenovo ThinkPhone Phone without Any Data Loss</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-secure-your-premium-amazon-fire-tv-omnia-qled-for-60-off-limited-time-only-zdnet/"><u>Huge Discount Alert: Secure Your Premium Amazon Fire TV Omnia QLED for 60% Off – Limited Time Only | ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-9-key-video-file-types-advantages-limitations-and-when-to-use-them/"><u>The Ultimate Guide to 9 Key Video File Types - Advantages, Limitations & When to Use Them</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-samsungs-interconnected-universe-stands-tall-alongside-apples-a-comprehensive-review/"><u>Why Samsung's Interconnected Universe Stands Tall Alongside Apple's - A Comprehensive Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-realizing-potential-in-presentations-leveraging-webcams-for-2024/"><u>[New] Realizing Potential in Presentations Leveraging Webcams for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-methodology-for-sharing-srt-content-on-instagram-and-youtube/"><u>[Updated] Complete Methodology for Sharing SRT Content on Instagram and YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-shadowlessedit-advanced-background-removal-app/"><u>[Updated] ShadowLessEdit Advanced Background Removal App</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-11-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 11 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-surge-of-desktop-linux-top-5-factors-driving-its-rising-popularity/"><u>Exploring the Surge of Desktop Linux: Top 5 Factors Driving Its Rising Popularity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-unparalleled-speed-inside-testing-of-earths-quickest-ssd-tech-enthusiasts-rejoicezdnet/"><u>Exploring Unparalleled Speed: Inside Testing of Earth's Quickest SSD - Tech Enthusiasts Rejoice![ZDNet]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-leading-pc-brands-are-revolutionizing-learning-with-windows-11-se-the-latest-explored-on-zdnet/"><u>How Leading PC Brands Are Revolutionizing Learning with Windows 11 SE - The Latest Explored on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15-laptop-now-discounted-by-350-at-best-buy-exclusive-labor-day-sale-offer-on-zdnet/"><u>HP Victus 15 Laptop Now Discounted by $350 at Best Buy: Exclusive Labor Day Sale Offer on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15l-desktop-laptop-now-only-520-exceptional-discount-of-almost-40-available-now-hp-official-deals/"><u>HP Victus 15L Desktop Laptop Now Only $520: Exceptional Discount of Almost 40% Available Now - HP Official Deals</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-xerox-printer-connectivity-on-win11/"><u>Improve Xerox Printer Connectivity on Win11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-top-tips-for-masterful-looped-videos-on-instagram/"><u>In 2024, Top Tips for Masterful Looped Videos on Instagram</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-tecno-camon-20-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Tecno Camon 20 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-a-customizable-macbook-on-the-horizon-delving-into-apples-new-patented-modular-design-for-laptops-zdnet/"><u>Is a Customizable MacBook on the Horizon? Delving Into Apple’s New Patented Modular Design for Laptops | ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-media-streaming-with-funstersplace-a-comprehensive-installation-and-configuration-tutorial-for-kodi-matrix-setup/"><u>Mastering Media Streaming with Funstersplace: A Comprehensive Installation & Configuration Tutorial for Kodi Matrix Setup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726027020988-youtube/"><u>YouTube鑑賞方法：スマホなしでクロームブックを活用する</u></a></li>
 </ul></div>
 

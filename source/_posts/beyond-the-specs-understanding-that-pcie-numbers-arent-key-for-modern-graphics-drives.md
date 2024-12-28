@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Specs: Understanding That PCIe Numbers Aren't Key for Modern Graphics Drives"
-date: 2024-09-18T02:05:15.001Z
-updated: 2024-09-21T21:13:21.555Z
+date: 2024-12-22T16:45:12.682Z
+updated: 2024-12-27T21:32:32.764Z
 tags:
   - hardware
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ## Beyond the Specs: Understanding That PCIe Numbers Aren't Key for Modern Graphics Drives
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [PCIe Is Forward and Backward Compatible](https://youtube-tips.techidaily.com/uickly-create-a-youtube-animation-for-your-subscribe-button-with-filmora-for-2024/)
 * [The Number of PCIe Lanes Is Just as Important as the Version](https://buynow-tips.techidaily.com/unlock-the-power-of-easy-communication-with-tango-review-highlights-text-audio-and-visual-perks/)
 * [PCIe Versions Primarily Affect High-Bandwidth SSDs](https://buynow-info.techidaily.com/top-lg-65-oled-c9-tv-how-it-delivers-unmatched-clarity-and-convenience-for-passionate-viewers/)
 * [Which PCIe Version Should I Buy?](https://extra-guidance.techidaily.com/2024-approved-price-friendly-nimbus-space-wide-file-vault/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,13 +50,6 @@ Jason Fitzpatrick / How-To Geek
 
  While PCIe slots are backward compatible, both your PCIe slot and graphics card have to support the latest version if you want to take full advantage of the higher transfer rates. A PCIe 4.0 graphics card in a PCIe 3.0 slot will be limited to PCIe 3.0 speeds.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Number of PCIe Lanes Is Just as Important as the Version
 
  PCIe lanes are the channels on the motherboard and the graphics card that allow data to be transferred between the computer and graphics card. The number of lanes is indicated by a lower-case "x" followed by the number of lanes—A PCIe x16 slot has 16 lanes, whereas a PCIe x2 only has two lanes.
@@ -66,19 +67,24 @@ Ismar Hrnjicevic / How-To Geek
  So, while you should care about PCIe versions, it's not a deal-breaker. Feel free to mix and match graphics cards and motherboards as you see fit. The only notable outliers are PCIe x4 graphics cards, with the most notorious examples being the [RX 6400](https://www.amazon.com/XFX-Speedster-SWFT105-Graphics-RX-64XL4SFG2/dp/B09Y7358KJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002510&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-pcie-version-doesnt-matter-for-graphics-cards-like-you-think%2F&asc%5Fcampaign=Evergreen) and [RX 6500 XT](https://www.amazon.com/ASRock-VGA-RX6500XT-PGD-4GO/dp/B09RHQNT5K?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002510&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-pcie-version-doesnt-matter-for-graphics-cards-like-you-think%2F&asc%5Fcampaign=Evergreen). These cards only use _four PCIe 4.0 lanes_, which means they suffer from [serious performance issues in a PCIe 3.0 slot](https://tools.techidaily.com). I recommend steering clear of these cards as an upgrade in older systems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  PCIe Versions Primarily Affect High-Bandwidth SSDs
 
 ![A SanDisk NVMe SSD on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/an-nvme-ssd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek  
   
  When even the highest-end graphics cards are hardly affected by PCIe versions, you can't help but wonder why manufacturers have been pushing to newer versions in the past few years. The answer is [high-bandwidth NVMe SSDs](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-nubia-z60-ultra-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/). High-end SSDs can take advantage of PCIe 4.0 and 5.0 in the form of breakneck transfer speeds. Still, unless you're constantly transferring files from one SSD to another, [you don't really need a PCIe 5.0 SSD](https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/). For gamers, even a PCIe 3.0 NVMe can [offer more than you'll ever need](https://www.techspot.com/review/2116-storage-speed-game-loading/#:~:text=There's%20also%20little%20difference%20between,not%20important%20for%20game%20loading.).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Which PCIe Version Should I Buy?
 
@@ -97,5 +103,17 @@ Corbin Davenport / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-brain-challenge-top-trivia-networks-for-24/"><u>[New] Ultimate Brain Challenge - Top Trivia Networks for '24</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-25plus-futuristic-insights-on-ar-enhanced-worlds/"><u>[Updated] 25+ Futuristic Insights on AR-Enhanced Worlds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-video-potential-essential-courses-for-new-creators/"><u>[Updated] Unlocking Video Potential Essential Courses for New Creators</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-reclaim-your-iphone-x-experience-with-these-tips/"><u>2024 Approved Reclaim Your iPhone X Experience with These Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-no-user-logon-error-in-counter-strike-go-using-these-5-fixes/"><u>Beat 'No User Logon' Error in Counter-Strike GO Using These 5 Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-storage-at-zero-extra-charge-embrace-enhanced-tech-with-an-lg-gram-style-laptop-today-exclusive-offer-on-zdnet/"><u>Boost Your Storage at Zero Extra Charge: Embrace Enhanced Tech with an LG Gram-Style Laptop Today - Exclusive Offer on ZDNET!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/online-companion-fb-stories-saver/"><u>Online Companion Fb Stories Saver</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lightweight-laptop-picks-for-seamless-remote-working-a-tech-expert-reviews-ideal-models/"><u>Top Lightweight Laptop Picks for Seamless Remote Working: A Tech Expert Reviews Ideal Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-dells-best-kept-secrets-innovative-and-economical-laptop-surpassing-expectations-insights/"><u>Unveiling Dell's Best Kept Secrets: Innovative and Economical Laptop Surpassing Expectations | Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-this-asus-notebook-outshines-your-macbook-unveiling-its-advantages/"><u>Why This Asus Notebook Outshines Your MacBook: Unveiling Its Advantages</u></a></li>
+</ul></div>
 

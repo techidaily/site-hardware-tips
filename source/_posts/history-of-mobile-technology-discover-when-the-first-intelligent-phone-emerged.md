@@ -1,7 +1,7 @@
 ---
 title: "History of Mobile Technology: Discover When The First Intelligent Phone Emerged"
-date: 2024-09-09T16:12:48.420Z
-updated: 2024-09-16T16:25:32.432Z
+date: 2024-12-22T19:34:17.512Z
+updated: 2024-12-27T21:04:52.395Z
 tags:
   - android
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 ---
 
 ## History of Mobile Technology: Discover When The First Intelligent Phone Emerged
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,9 +27,17 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
 
@@ -36,10 +48,7 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -47,10 +56,7 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -80,5 +86,19 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/oost-your-video-impact-expert-tips-on-using-wm-maker-for-2024/"><u>[New] Boost Your Video Impact Expert Tips on Using WM Maker for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-crafting-ae-titles-with-maximum-impression-for-2024/"><u>[New] Crafting AE Titles with Maximum Impression for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-tutorial-applying-conexant-driver-updates-for-a-smooth-windows-11-version-2004-experience/"><u>Complete Tutorial: Applying Conexant Driver Updates for a Smooth Windows 11 (Version 2004) Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/designing-your-ideal-gaming-station-a-complete-guide-with-expert-tips-from-zdnet/"><u>Designing Your Ideal Gaming Station: A Complete Guide with Expert Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-scoop-unleash-ultimate-performance-with-our-picked-powerhouse-gaming-notebook-now-500-less-on-octobers-prime-event/"><u>Exclusive Scoop: Unleash Ultimate Performance with Our Picked Powerhouse Gaming Notebook, Now $500 Less on October's Prime Event</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-finding-the-best-school-computer-a-definitive-buying-guide/"><u>Expert Tips for Finding the Best School Computer: A Definitive Buying Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-logitech-g510-software-installation-guide-supports-windows-7-to-10/"><u>Official Logitech G510 Software Installation Guide - Supports Windows 7 to 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-updating-and-downloading-hp-laserjet-p1007-printer-drivers/"><u>Step-by-Step Instructions: Updating & Downloading HP LaserJet P1007 Printer Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-lost-control-functionality-in-windows-11/"><u>Steps to Recover Lost Control Functionality in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-the-best-long-lasting-ultraportable-laptop-reviewed-exclusive-insights/"><u>Top Pick: The Best Long-Lasting Ultraportable Laptop Reviewed - Exclusive Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-apple-m3-macbook-air-the-three-key-improvements-that-impressed-us-most-zdnet/"><u>Unboxing the Apple M3 MacBook Air: The Three Key Improvements That Impressed Us Most | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-your-imessages-were-undelivered-recently-a-breakdown-of-yesterdays-issues-insights-from-zdnet/"><u>Why Your iMessages Were Undelivered Recently: A Breakdown of Yesterday's Issues - Insights From ZDNet</u></a></li>
+</ul></div>
 

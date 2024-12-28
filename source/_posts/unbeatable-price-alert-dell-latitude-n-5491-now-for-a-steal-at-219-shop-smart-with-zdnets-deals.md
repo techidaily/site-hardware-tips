@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!"
-date: 2024-12-16T20:14:55.808Z
-updated: 2024-12-21T19:17:03.636Z
+date: 2024-12-24T16:38:24.485Z
+updated: 2024-12-27T18:58:17.100Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,16 +87,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-msi-gs65-drivers-for-windows/"><u>[Download] MSI GS65 Drivers for Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-ae-text-preset-collection-the-best-of-both-worlds/"><u>[Updated] AE Text Preset Collection The Best of Both Worlds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comparing-crystal-uhd-and-qled-technology-in-samsungs-latest-televisions-insights-from-zdnet/"><u>Comparing Crystal UHD and QLED Technology in Samsung's Latest Televisions - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comparing-oled-vs-led-technology-which-screen-is-superior/"><u>Comparing OLED Vs. LED Technology: Which Screen Is Superior?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/desai-c-760-ce-during-the-rule-of-rashtrakuta-emperor-krishna-i-r-753774/"><u>Desai: C. 760 CE During the Rule of Rashtrakuta Emperor Krishna I (R. 753–774)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhancing-your-viewing-experience-top-3-projector-settings-for-optimal-image-clarity/"><u>Enhancing Your Viewing Experience: Top 3 Projector Settings for Optimal Image Clarity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ensure-that-each-stanza-alludes-to-one-of-the-four-elementsearth-water-air-firein-relation-to-taurus/"><u>Ensure that Each Stanza Alludes to One of the Four Elements—Earth, Water, Air, Fire—In Relation to Taurus.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-steps-to-uplift-gpts-integrated-plugin-platform/"><u>Essential Steps to Uplift GPT's Integrated Plugin Platform</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-elevate-your-videos-explore-the-10-best-online-backdrop-changers/"><u>In 2024, Elevate Your Videos Explore the 10 Best Online Backdrop Changers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-watch-3-overview-fusing-vintage-style-with-contemporary-technological-advances/"><u>Samsung Galaxy Watch 3 Overview: Fusing Vintage Style With Contemporary Technological Advances</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unstuck-your-iphones-focus-feature-handy-fixes-and-advice/"><u>Unstuck Your iPhone's Focus Feature: Handy Fixes & Advice</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-sourcing-premium-soundtracks-from-instagram-and-designing-outstanding-ringtone-alerts/"><u>[New] In 2024, The Ultimate Guide to Sourcing Premium Soundtracks From Instagram and Designing Outstanding Ringtone Alerts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unlocking-the-secrets-to-overwatch-video-capture-for-2024/"><u>[New] Unlocking the Secrets to Overwatch Video Capture for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-navigating-facebooks-video-evolution-for-2024/"><u>[Updated] Navigating Facebook’s Video Evolution for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-sonic-spellbook-can-you-alter-your-speech-discover-different-magical-solutions/"><u>2024 Approved Sonic Spellbook Can You Alter Your Speech? Discover Different Magical Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/astounding-deal-alert-snag-the-rtx-4080-gpu-at-a-jaw-dropping-discount-of-270-this-black-friday-exclusive-on-zdnet/"><u>Astounding Deal Alert: Snag the RTX 4080 GPU at a Jaw-Dropping Discount of $270 This Black Friday - Exclusive on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-horizon-of-ubuntu-preview-of-ubuntu-2310-and-its-vision-for-linux/"><u>Discovering the Horizon of Ubuntu: Preview of Ubuntu 23.10 and Its Vision for Linux</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-microsoft-recall-fears-why-this-isnt-a-privacy-catastrophe-insights-and-facts/"><u>Evaluating Microsoft Recall Fears: Why This Isn't a Privacy Catastrophe - Insights and Facts</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719152890645-from-facebook-to-the-world-seamlessly-upload-your-posts-and-notes/"><u>From Facebook to the World: Seamlessly Upload Your Posts and Notes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-logitech-hd-c270-driver-update-for-windows-11-users/"><u>Installation Guide: Logitech HD C270 Driver Update for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-save-350-on-the-hp-victus-15-laptop-exclusive-deal-from-best-buy-this-labor-day/"><u>Limited Time Offer: Save $350 on the HP Victus 15 Laptop - Exclusive Deal From Best Buy This Labor Day</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-redefines-tech-landscape-with-revolutionary-approach-to-cloud-services-and-advertising-platforms/"><u>Microsoft Redefines Tech Landscape with Revolutionary Approach to Cloud Services and Advertising Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-integration-of-internal-ssds-via-usb-c-with-pcmac-a-step-by-step-guide/"><u>Seamless Integration of Internal SSDs via USB-C with PC/Mac - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-wlanapidll-not-found-issue-on-your-computer/"><u>Troubleshooting the 'wlanapi.dll Not Found' Issue on Your Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Personal Computer Fixes with a Vital Set of 7 Handy Tools
-date: 2024-09-16T01:23:09.711Z
-updated: 2024-09-22T03:44:05.170Z
+date: 2024-12-23T19:51:48.579Z
+updated: 2024-12-27T17:55:37.326Z
 tags:
   - hardware
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Technical expertise is not the only prerequisite when planning to venture into PC repair; having the right tools is equally important. This guide will cover important tools you must have, explain their purpose, and highlight which brand is renowned for producing high-quality equipment in each category.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Precision Screwdriver Set
 
  A precision screwdriver set is required for handling screws when disassembling PC components such as cases, motherboards, and hard drives. These sets contain screwdrivers with various tips, such as Phillips, flathead, hex, and more, ensuring that you don't strip screws or damage delicate components while removing them.
@@ -49,16 +53,13 @@ Craig Lloyd / Review Geek
 
  You just need to wear the bracelet around your wrist and attach the other end to a grounded surface, ensuring any static charge is safely dissipated to the ground without damaging anything. This modest investment can help prevent unnecessary repair expenses. [Rosewill](https://www.amazon.com/Rosewill-Grounding-Alligator-RTK-002-Detachable/dp/B004N8ZQKY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003496&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwant-to-do-your-own-pc-repair-make-sure-you-have-these-tools%2F&asc%5Fcampaign=Evergreen) is a reputable brand offering these bracelets, starting at around $5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Canned Air
 
 ![A hand holding can of air duster.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/d58505c9.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Arnet117/Shutterstock](https://www.shutterstock.com/image-photo/male-hand-holding-compressed-gas-duster-77615479)
 
@@ -67,16 +68,7 @@ Craig Lloyd / Review Geek
  For this job, you need canned air. It's a can filled with pressurized gas that blows dust away from your PC parts, like the motherboard, CPU fan, graphics card, and power supply. [Dust-Off](https://www.amazon.com/Dust-Off-DPSXL4A-Electronics-Duster-Compressed/dp/B078539Q3X/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003496&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwant-to-do-your-own-pc-repair-make-sure-you-have-these-tools%2F&asc%5Fcampaign=Evergreen) is a famous brand for this. A single can usually cost between $5 to $10, but you can get a better deal if you buy them in packs.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Multimeter
@@ -86,6 +78,10 @@ Craig Lloyd / Review Geek
  By measuring voltage, current, resistance, and other parameters, you can detect anomalies indicating serious hardware issues and address any electrical problems you encounter when testing different PC sections. Therefore, having a multimeter in your PC repair toolkit is essential.
 
  Basic multimeters cost less than $50, while units with additional features and higher accuracy can cost up to $100\. [Fluke](https://www.amazon.com/Fluke-101-Multimeter-Equipment-Industrial/dp/B01IB9S6WK/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003496&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwant-to-do-your-own-pc-repair-make-sure-you-have-these-tools%2F&asc%5Fcampaign=Evergreen) is a renowned brand for multimeters.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Cotton Swabs
 
@@ -106,10 +102,7 @@ Craig Lloyd / Review Geek
  You can find a small tray for less than $10, and even a decent-sized tray or tray set won't cost you more than $20\. [HORUSDY](https://www.amazon.com/HORUSDY-4-Piece-Magnetic-Stainless-Square/dp/B08BWLTK1D/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003496&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwant-to-do-your-own-pc-repair-make-sure-you-have-these-tools%2F&asc%5Fcampaign=Evergreen) is a reputable brands in this niche.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Anti-Static Brush
@@ -133,5 +126,20 @@ Craig Lloyd / Review Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-through-instagrams-new-trends/"><u>[New] In 2024, Navigating Through Instagram's New Trends</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-blueprint-of-youtubes-innovative-shorts-economy-model/"><u>[Updated] The Blueprint of YouTube's Innovative Shorts Economy Model</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1k-discount-on-top-picks-the-best-lenovo-laptop-for-hybrid-professionals-during-octobers-prime-day/"><u>$1K Discount on Top-Picks: The Best Lenovo Laptop for Hybrid Professionals During October's Prime Day</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-easily-modify-power-options-on-your-windows-pc-detailed-tutorial-by-yl-computing/"><u>1. Easily Modify Power Options on Your Windows PC - Detailed Tutorial by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergo-split-keyboard-how-one-change-transformed-my-tech-experience-zdnet/"><u>A Week with an Ergo-Split Keyboard: How One Change Transformed My Tech Experience | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-timeout-issue-windows-1110-semaphore-error-0x80070079/"><u>Addressing Timeout Issue - Windows 11/10 Semaphore Error 0X80070079</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-power-unveiling-the-surprisingly-advanced-features-of-an-inexpensive-8-port-usb-hub-a-review-by-techexplorer/"><u>Affordable Power: Unveiling the Surprisingly Advanced Features of an Inexpensive 8-Port USB Hub - A Review by TechExplorer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boosting-power-play-key-strategies-for-longer-windows-laptop-battery-performance/"><u>Boosting Power Play: Key Strategies for Longer Windows Laptop Battery Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fix-restoring-factory-settings-on-your-samsung-soundbar/"><u>Easy Fix: Restoring Factory Settings on Your Samsung Soundbar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-vivo-g2-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Vivo G2</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-android-streaming-virtual-reality-content-for-2024/"><u>Mastering Android Streaming Virtual Reality Content for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-your-high-capacity-deal-8tb-samsung-t5-drive-at-a-steep-36-off-exclusively-on-amazon-insights-s-latest-review/"><u>Snag Your High-Capacity Deal: 8TB Samsung T5 Drive at a Steep 36% Off, Exclusively on Amazon! Insights 'S Latest Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-laptop-to-dual-ultra-hd-screens-no-matter-the-original-specs-insights/"><u>Upgrade Your Laptop to Dual Ultra HD Screens, No Matter the Original Specs Insights</u></a></li>
+</ul></div>
 

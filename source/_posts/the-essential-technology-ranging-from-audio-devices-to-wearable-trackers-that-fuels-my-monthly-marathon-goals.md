@@ -1,7 +1,7 @@
 ---
 title: The Essential Technology, Ranging From Audio Devices to Wearable Trackers, That Fuels My Monthly Marathon Goals
-date: 2024-09-15T11:07:39.558Z
-updated: 2024-09-22T07:05:16.326Z
+date: 2024-12-24T20:13:31.468Z
+updated: 2024-12-27T17:53:15.896Z
 tags:
   - hardware
 categories:
@@ -19,9 +19,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  I started running seriously in 2020, but even before that, my music-playing Apple Watch and a pair of earbuds really motivated me to get outside more often. The gear you use can make a difference. Here are the products I use to run over 100 miles each month.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Headphones
 
 ![person wearing Bose Ultra Open Earbuds](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/person-wearing-bose-ultra-open-earbuds.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -33,6 +41,10 @@ Tyler Hayes / How-To Geek
 
 ![Ray-Ban Meta Smart Glasses sitting on grass](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/ray-ban-meta-smart-glasses-sitting-on-grass.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Since I run without a phone, I have no way to take photos while out running. If I’m somewhere unique, I like to use the [Meta Ray-Ban Smart Glasses](https://fox-that.techidaily.com/safari-on-iphone-running-slow-learn-how-to-make-it-zoom-ahead-in-just-4-steps/) because they’re sunglasses, have a camera built-in, don’t plug my ears, and sound great. These won’t work for night running, but during the summer they merge two devices into one.
@@ -40,6 +52,10 @@ Tyler Hayes / How-To Geek
 ##  Wearables
 
 ![Apple Watch Ultra 2 showing activity rings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/apple-watch-ultra-2-showing-activity-rings-2.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -54,22 +70,12 @@ Tyler Hayes / How To Geek
  If you do wear an Apple Watch for running or other exercise, I’ve found the [Nomad Sport Band](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2002948%2Fhttps%3A%2F%2Fnomadgoods.com%2Fproducts%2Fsport-band-night-watch-red) to be good at staying tight to monitor my heart rate, but also flexible and comfortable enough that I don't want to take it off. I also haven't had one be ruined by sweat yet.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other Running-Related Gear
 
 ![Withings Body Scan in the black color option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/withings-body-scan-in-the-black-color-option.JPG) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -92,5 +98,23 @@ Tyler Hayes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-guide-to-screenshot-and-record-mastery-on-mi-11-for-2024/"><u>[New] The Ultimate Guide to Screenshot & Record Mastery on Mi 11 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-the-potential-storing-insta-media-on-your-phone/"><u>[Updated] 2024 Approved Unlocking the Potential Storing Insta Media on Your Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skincare-revolution-the-best-apps-for-your-phone/"><u>[Updated] Skincare Revolution The Best Apps for Your Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-game-collection-on-prime-day-2024-exclusive-oct-deals-curated/"><u>Ace Your Game Collection on Prime Day 2024: Exclusive Oct. Deals Curated</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-202n-best-innovations-spotlighted-editors-choice-selections/"><u>CES 202N Best Innovations Spotlighted Editor's Choice Selections</u></a></li>
+<li><a href="https://video-capture.techidaily.com/creating-immersive-video-games-experiences-on-steam/"><u>Creating Immersive Video Games Experiences on Steam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-framework-chromebook-a-revolutionary-leap-towards-sustainable-tech-and-long-term-use-insights/"><u>Evaluating the Framework Chromebook: A Revolutionary Leap Towards Sustainable Tech & Long-Term Use - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-upgraded-lenovo-thinkpad-2-in-1-a-game-changer-in-durability-and-speed-for-it-pros-gadget-zone/"><u>Experience the Upgraded Lenovo ThinkPad 2-in-1: A Game-Changer in Durability and Speed for IT Pros | Gadget Zone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-top-secret-instagram-stories-viewer-apps/"><u>In 2024, Top Secret Instagram Stories Viewer Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-daily-usage-proven-strategies-for-full-day-macbook-battery-endurance-experts/"><u>Maximize Daily Usage: Proven Strategies for Full-Day MacBook Battery Endurance Experts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-infinix-hot-40i-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Infinix Hot 40i</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-dark-side-of-social-media-duplication-techniques/"><u>The Dark Side of Social Media Duplication Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-39-unbeatable-christmas-tech-bargains-on-computers-from-apple-and-others-explore-savings/"><u>Top 39 Unbeatable Christmas Tech Bargains on Computers From Apple & Others – Explore Savings!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-ssd-and-festive-season-discounts-for-tech-enthusiasts/"><u>Unbeatable SSD and Festive Season Discounts for Tech Enthusiasts</u></a></li>
+</ul></div>
 

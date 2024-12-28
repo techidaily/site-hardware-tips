@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Instant Access to Your Samsung Galaxy's Camera App"
-date: 2024-09-17T03:50:49.841Z
-updated: 2024-09-22T00:55:31.683Z
+date: 2024-12-24T16:18:48.301Z
+updated: 2024-12-27T21:02:04.913Z
 tags:
   - android
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 ---
 
 ## Quick Guide: Instant Access to Your Samsung Galaxy's Camera App
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,9 +30,17 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 
  If your child is acting cute and silly, or you have a dog lying in the sunlight looking majestic, the moment won't last for long. If you're too busy fumbling through your lock screen and pin code or searching for the camera app, you'll miss it. Luckily, thanks to Samsung's camera quick launch feature, you don't need to unlock your phone or even put an app shortcut on your home screen. Here's how to enable or use it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Double Tap the Power Button
 
 ![Rear of the Galaxy S22 Ultra with a finger hitting the power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-s22-rear-cameras.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -40,6 +52,10 @@ Justin Duino / How-To Geek
 
 ![Screenshot_20240117_093455_Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot_20240117_093455_settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot_20240117_093521_Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot_20240117_093521_settings.jpg) 
 
 Close 
@@ -49,28 +65,12 @@ Close
  Once enabled, go ahead and quickly hit the side power button twice, and watch the camera immediately fire up. As a reminder, this doesn't bypass the security on your lock screen. It only opens the camera, and you can only view photos taken at that moment. You'll still need to unlock the device to use it or view other photos.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Quick Launch From the Lock Screen
 
 ![Man holding the Galaxy S23 with the lock screen showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/s23-in-hand.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -93,5 +93,19 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ashtag-heroes-the-ultimate-list-for-popularizing-your-youtube-snippets/"><u>[New] Hashtag Heroes The Ultimate List for Popularizing Your YouTube Snippets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-lenovo-laptop-guide-elite-ratings-and-in-depth-analysis-digital-trends/"><u>2024'S Ultimate Lenovo Laptop Guide: Elite Ratings and In-Depth Analysis | Digital Trends</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-11-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 11 to Android | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/9-epic-live-gaming-stations-unlocked-for-2024/"><u>9 Epic Live Gaming Stations Unlocked for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-prime-day-bargains-for-laptops-in-oct-24-expert-tips-from-zdnet/"><u>Discover the Ultimate Prime Day Bargains for Laptops in Oct '24 | Expert Tips From ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-guide-to-10-top-ranked-entrepreneurial-youtube-platforms/"><u>In 2024, Guide to 10 Top-Ranked Entrepreneurial YouTube Platforms</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/mp4-to-aiff-conversion-tool-no-cost-option-moveave-media/"><u>MP4 to AIFF Conversion Tool - No Cost Option | Moveave Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-digital-workspace-the-ultimate-ar-laptop-arrives-with-an-astounding-100-inch-display-say-goodbye-to-external-monitors/"><u>Revolutionize Your Digital Workspace - The Ultimate AR Laptop Arrives With an Astounding 100-Inch Display, Say Goodbye to External Monitors!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-defender-kit-top-cases-of-24-for-devices/"><u>The Ultimate Defender Kit: Top Cases of '24 for Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-year-2024-comprehensive-testing-and-reviews-by-tech-experts/"><u>The Year 2024: Comprehensive Testing & Reviews by Tech Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ultimate-resource-for-finding-and-installing-gpu-drivers-tips-from-yl-software-experts/"><u>Ultimate Resource for Finding & Installing GPU Drivers - Tips From YL Software Experts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/understanding-the-distinctions-between-echo-pop-and-echo-dot/"><u>Understanding The Distinctions Between Echo Pop & Echo Dot</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus on AI May Impact the Future of Handheld Computing and Gaming Systems
-date: 2024-09-14T17:40:09.067Z
-updated: 2024-09-22T04:55:56.157Z
+date: 2024-12-26T22:07:52.664Z
+updated: 2024-12-27T16:32:27.886Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ## How Microsoft's New Focus on AI May Impact the Future of Handheld Computing and Gaming Systems
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AMD APUs could offer higher memory bandwidth but sacrifice memory cache thanks to requirements for AI performance laid about by Microsoft.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * ARM chips like the Snapdragon X Elite could power future handheld gaming PCs with promising efficiency.
 
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
 
@@ -49,6 +57,10 @@ _AMD_
 
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -64,10 +76,7 @@ Intel
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
@@ -81,10 +90,7 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -116,5 +122,24 @@ Qualcomm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-extract-and-save-video-previews-free-and-easy-for-2024/"><u>[Updated] Extract and Save Video Previews, Free & Easy for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-ultimate-guide-to-finding-unique-video-graphics-online/"><u>[Updated] In 2024, The Ultimate Guide to Finding Unique Video Graphics Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-video-production-microsofts-movie-maker-for-windows-11/"><u>2024 Approved Leveraging Video Production Microsoft's Movie Maker for Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024-ultimate-selection-hardcore-ready-computers-reviewed/"><u>2024 Ultimate Selection: Hardcore-Ready Computers Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-top-pick-the-best-non-lenovo-non-dell-2-in-1-laptop-before-prime-day-deals-hit/"><u>Affordable Top Pick: The Best Non-Lenovo, Non-Dell 2-in-1 Laptop Before Prime Day Deals Hit!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-high-school-experience-with-these-10-innovative-apps/"><u>Elevate Your High School Experience with These 10 Innovative Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-iphone-photo-tricks-to-transform-your-landscapes/"><u>Essential iPhone Photo Tricks to Transform Your Landscapes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceptional-display-on-a-budget-discovering-the-most-affordable-high-quality-laptop-screen-zdnet/"><u>Exceptional Display on a Budget: Discovering the Most Affordable High-Quality Laptop Screen | ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-monitor-glitch-full-windows-show-on-screen-windows-10/"><u>Fixed Monitor Glitch - Full Windows Show on Screen (Windows 10)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-guide-to-decreasing-video-sizes-using-online-video-resizer-services/"><u>Quick Guide to Decreasing Video Sizes Using Online Video Resizer Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-advantages-of-choosing-a-chromebook-the-ultimate-device-for-everyone-insights/"><u>Top 6 Advantages of Choosing a Chromebook: The Ultimate Device for Everyone - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptops-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Rated Touchscreen Laptops: Comprehensive Reviews & Ratings by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-choice-of-digital-journals-thoroughly-vetted-products-for-your-consideration-zdnets-analyst-review/"><u>Ultimate Choice of Digital Journals: Thoroughly Vetted Products for Your Consideration | ZDNET's Analyst Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/underflow-check-for-subtraction-similarly-underflow-can-be-determined-by-checking-the-signs-of-operands-in-relation-to-their-differences-sign/"><u>Underflow Check for Subtraction: Similarly, Underflow Can Be Determined by Checking the Signs of Operands in Relation to Their Difference's Sign</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-non-ipad-non-thinkpad-tablets-for-seamless-business-trips-recommendations-by-zdnet/"><u>Unveiling Top Non-iPad, Non-ThinkPad Tablets for Seamless Business Trips - Recommendations by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-picks-a-curated-list-of-the-12-most-innovative-and-ideal-gifts-for-tech-savvy-enthusiasts-hackers/"><u>ZDNet Picks: A Curated List of the 12 Most Innovative and Ideal Gifts for Tech-Savvy Enthusiasts (Hackers)</u></a></li>
+</ul></div>
 

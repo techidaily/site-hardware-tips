@@ -1,7 +1,7 @@
 ---
 title: "7-Device Charging Capacity: Unmatched 140W Portable Battery Backup That Lasts Longer Between Charges - Spotlight on Tech"
-date: 2024-12-19T20:59:59.222Z
-updated: 2024-12-22T04:20:44.773Z
+date: 2024-12-20T19:16:09.142Z
+updated: 2024-12-27T16:33:24.777Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -81,7 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,21 +130,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-masterful-masking-15-tips-to-hide-faces-in-photos/"><u>[Updated] Masterful Masking 15 Tips to Hide Faces in Photos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turbocharge-your-youtube-videos-swift-render-and-transfer-strategies/"><u>[Updated] Turbocharge Your YouTube Videos Swift Render & Transfer Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-discover-enhanced-android-auto-feature-access-only-when-stationary-insights-from-zdnet/"><u>1. Discover Enhanced Android Auto Feature: Access Only When Stationary - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-easy-steps-to-the-top-gaming-video-editing-programs/"><u>2024 Approved Easy Steps to the Top Gaming Video Editing Programs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/act-now-and-save-big-secure-60-off-the-fimi-x8se-drone-special-promotion-at-zdnet/"><u>Act Now and Save Big: Secure 60% Off the Fimi X8SE Drone - Special Promotion at ZDNET!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amp-up-your-drone-game-with-dji-mini-pertinent-accessories-recommended-by-zdnet-experts-must-own-add-ons/"><u>Amp Up Your Drone Game with DJI Mini Pertinent Accessories Recommended by ZDNet Experts | Must-Own Add-Ons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/android-autos-latest-quality-of-life-improvements-now-with-enhanced-bluetooth-headphone-connectivity/"><u>Android Auto's Latest Quality of Life Improvements: Now with Enhanced Bluetooth Headphone Connectivity!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ting-success-channel-ideas-to-spark-momentum/"><u>Elevating Success Channel Ideas to Spark Momentum</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-tecno-phantom-v-flip-by-fonelab-android-recover-music/"><u>How to recover old music from your Tecno Phantom V Flip</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/ideal-screen-re-recorders-for-youtube-performances/"><u>Ideal Screen Re-Recorders for YouTube Performances</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-itel-p40plus-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Itel P40+ to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-strategies-for-quick-and-easy-anime-downloads-from-gogoanime/"><u>Top Strategies for Quick & Easy Anime Downloads From GogoAnime</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/turn-your-youtube-tracks-into-mp3-with-macos/"><u>Turn Your YouTube Tracks Into MP3 with MacOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-ride-get-apple-carplayandroid-auto-ready-at-half-price-exclusive-deal-on-high-quality-displays/"><u>Upgrade Your Ride: Get Apple CarPlay/Android Auto Ready at Half Price! Exclusive Deal on High-Quality Displays</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/when-travel-becomes-pricey-how-southwest-air-squeezed-extra-costs-during-high-stress-moments/"><u>When Travel Becomes Pricey: How Southwest Air Squeezed Extra Costs During High Stress Moments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-did-delta-anger-long-term-fans-unveiling-the-reasons-behind-customer-discontent-tech-insights/"><u>Why Did Delta Anger Long-Term Fans: Unveiling the Reasons Behind Customer Discontent | Tech Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/est-online-stock-market-channels-reviewed-for-2024/"><u>[New] Best Online Stock Market Channels Reviewed for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-analysis-updated-s3700-bd-player/"><u>[New] Comprehensive Analysis Updated S3700 BD Player</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/arrating-numbers-making-millions-from-your-micro-vlogs/"><u>[New] Narrating Numbers Making Millions From Your Micro-Vlogs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-optimizing-your-strategy-for-large-scale-tiktok-video-downloads/"><u>[Updated] In 2024, Optimizing Your Strategy for Large-Scale TikTok Video Downloads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/act-fast-why-an-ergonomic-mouse-is-essential-for-your-health-learn-the-three-key-reasons-today-with-zdnet-guidance/"><u>Act Fast: Why An Ergonomic Mouse Is Essential for Your Health – Learn the Three Key Reasons Today with ZDNET Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bring-your-own-intelligence-byoai-overcoming-lock-in-barriers-for-user-freedom-and-technological-progress/"><u>Bring Your Own Intelligence (BYOAI): Overcoming Lock-In Barriers for User Freedom & Technological Progress</u></a></li>
+<li><a href="https://win-trending.techidaily.com/budget-friendly-microsoft-office-suite-get-project-and-visio-pro-for-only-20-from-zdnet-today/"><u>Budget-Friendly Microsoft Office Suite: Get Project and Visio Pro for Only $20 From ZDNet Today!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/compare-and-contrast-the-creme-de-la-creme-of-free-edits/"><u>Compare and Contrast The Crème De La Crème of Free Edits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/getting-started-with-raspberry-pi-a-beginners-guide-tips-from-zdnet/"><u>Getting Started with Raspberry Pi: A Beginner's Guide - Tips From ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-social-media-gurus-guide-to-exceptional-facebook-broadcasts/"><u>In 2024, The Social Media Guru's Guide to Exceptional Facebook Broadcasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lg-shatters-record-by-outperforming-samsungs-operating-income-in-the-first-quarter-after-fourteen-years/"><u>LG Shatters Record by Outperforming Samsung's Operating Income in the First Quarter After Fourteen Years!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-developer-conference-unveiled-everything-you-need-to-know-about-the-event-and-live-coverage-options/"><u>Microsoft Developer Conference Unveiled: Everything You Need To Know About The Event & Live Coverage Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/non-gamers-rejoice-unbeatable-deal-on-32-curved-screen-only-230/"><u>Non-Gamers Rejoice: Unbeatable Deal on 32 Curved Screen - Only $230!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-evaluation-of-logitech-mx-master-3-does-it-outperform-all-other-gaming-and-office-mice-for-your-needs-techradar-analysis/"><u>Professional Evaluation of Logitech MX Master 3: Does It Outperform All Other Gaming and Office Mice for Your Needs? - TechRadar Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-android-apk-installation-on-windows-11/"><u>Streamlining Android APK Installation on Windows 11</u></a></li>
 </ul></div>
 

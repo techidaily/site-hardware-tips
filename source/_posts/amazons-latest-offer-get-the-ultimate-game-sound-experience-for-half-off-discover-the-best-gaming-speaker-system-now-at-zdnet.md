@@ -1,7 +1,7 @@
 ---
 title: Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.
-date: 2024-12-19T08:45:39.267Z
-updated: 2024-12-21T17:26:00.009Z
+date: 2024-12-22T20:54:13.636Z
+updated: 2024-12-27T17:37:54.409Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,17 +128,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-optimal-media-player-pc-and-tablet-edition/"><u>[New] 2024 Approved Optimal Media Player (PC & Tablet Edition)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-unveiling-truth-understanding-youtubes-seo-keywords/"><u>[New] 2024 Approved Unveiling Truth Understanding YouTube's SEO Keywords</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-top-tier-grids-transforming-trivial-images-into-treasures-for-2024/"><u>[New] Top-Tier Grids Transforming Trivial Images Into Treasures for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-capture-mastery-top-picks-of-free-pcmac-desktop-recorders-for-2024/"><u>[Updated] Capture Mastery Top Picks of Free PC/Mac Desktop Recorders for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pro-rated-apple-compreran-of-the-best-screen-recorders/"><u>[Updated] In 2024, Pro-Rated Apple Compreran of the Best Screen Recorders</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-prime-cardholders-unlock-affordable-flights-for-just-25-exclusive-student-offer-wired/"><u>Amazon Prime Cardholders Unlock Affordable Flights for Just $25 - Exclusive Student Offer | Wired</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/android-autos-future-with-artificial-intelligence-simplifying-message-digests-on-the-road-techcrunch/"><u>Android Auto's Future with Artificial Intelligence: Simplifying Message Digests on the Road | TechCrunch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-united-airlines-be-sexy-staff-says-no-despite-marketing-efforts/"><u>Can United Airlines Be Sexy? Staff Says No, Despite Marketing Efforts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/driving-into-the-future-enhanced-google-chrome-and-latest-android-auto-integration-comes-to-vehicles/"><u>Driving Into the Future: Enhanced Google Chrome & Latest Android Auto Integration Comes to Vehicles!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/electric-giant-teslas-surprising-edge-over-competitors-in-the-worlds-largest-car-market-analysis-by-zdnet/"><u>Electric Giant: Tesla's Surprising Edge Over Competitors in the World's Largest Car Market | Analysis by ZDNET</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-much-does-it-cost-for-unlocking-iphones-get-answers-drfone-by-drfone-ios/"><u>How Much Does It Cost for Unlocking iPhones? Get Answers | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-swap-your-videos-scene-the-three-best-techniques/"><u>How to Swap Your Video's Scene: The Three Best Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-create-visual-narratives-install-microsofts-movie-maker-on-w11/"><u>[New] Create Visual Narratives Install Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-gimbal-mastery-7-drone-pros-recommended-for-2024/"><u>[New] Gimbal Mastery 7 Drone Pros Recommended for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fix-frozen-mobile-youtube-videos-on-multiple-devices/"><u>[New] In 2024, Fix Frozen Mobile YouTube Videos on Multiple Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/egality-check-taking-screencasts-of-youtube-videos-for-2024/"><u>[New] Legality Check Taking Screencasts of YouTube Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamline-your-digital-footprint-the-ultimate-screen-recording-manual/"><u>[New] Streamline Your Digital Footprint The Ultimate Screen Recording Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-write-access-denial-errors-in-windows-11-system/"><u>Addressing Write Access Denial Errors in Windows 11 System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-free-powerhouse-utility-thats-absolutely-essential-for-every-mac-owner-not-shipped-but-available-now/"><u>Discover the Hidden Gem: Free Powerhouse Utility That's Absolutely Essential for Every Mac Owner, Not Shipped but Available Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-comfortable-and-efficient-ergonomic-mice-for-office-use-in-202-instruction-1-same-difficultyformatlength-solution/"><u>Discover the Most Comfortable & Efficient Ergonomic Mice for Office Use in 202# Instruction 1 (Same Difficulty/Format/Length) Solution:</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-best-buy-savings-for-june-2e-insider-tips-by-zdnet/"><u>Discover the Ultimate Best Buy Savings for June 2E - Insider Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-the-neato-d10-robotic-vacuum-a-comprehensive-zdnet-review/"><u>Expert Analysis: The Neato D10 Robotic Vacuum - A Comprehensive ZDNet Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-76-server-connection-problems-fixes-and-solutions-for-pc-users/"><u>Fallout 76 Server Connection Problems: Fixes and Solutions for PC Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722056013565-gpt-4-open-for-everyone-plus-still-boasts-6-exclusive-features/"><u>GPT-4: Open for Everyone! Plus Still Boasts 6 Exclusive Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-tiles-new-scan-and-secure-function-your-solution-against-stalking-insights-from-zdnet/"><u>Introducing Tile's New 'Scan & Secure' Function: Your Solution Against Stalking - Insights From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/photographic-fusion-at-full-speeds-google-collage-techniques-for-2024/"><u>Photographic Fusion at Full Speeds Google Collage Techniques for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-24-unbeatable-christmas-purchase-opportunities-on-sites-like-best-buy-amazon-and-newegg-featured-by-zdnet/"><u>Top 24 Unbeatable Christmas Purchase Opportunities on Sites Like Best Buy, Amazon & Newegg Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-keyboards-thoroughly-tested-by-tech-experts-insights-from-zdnet/"><u>Top-Rated Keyboards - Thoroughly Tested by Tech Experts! Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-mechanical-keyboards-a-comprehensive-list-and-review/"><u>Top-Rated Mechanical Keyboards : A Comprehensive List & Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-top-external-optical-drives-your-buying-checklist/"><u>Ultimate Guide to the Top External Optical Drives – Your Buying Checklist!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-creatives-might-choose-the-apple-studio-display-an-in-depth-analysis-for-potential-buyers-zdnet-guides/"><u>Why Creatives Might Choose the Apple Studio Display: An In-Depth Analysis for Potential Buyers | ZDNet Guides</u></a></li>
 </ul></div>
 

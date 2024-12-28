@@ -1,7 +1,7 @@
 ---
 title: "SmartDesk's Levitation Feature Explored: Navigating the Challenges and Rewards of a Self-Assembling Workspace"
-date: 2024-09-20T03:48:26.787Z
-updated: 2024-09-22T01:43:59.018Z
+date: 2024-12-25T22:05:07.820Z
+updated: 2024-12-27T21:01:49.462Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 ---
 
 ## SmartDesk's Levitation Feature Explored: Navigating the Challenges and Rewards of a Self-Assembling Workspace
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 [Autonomous SmartDesk Levitate](http://www.autonomous.ai/standing-desks/smartdesk-levitate) really missed the mark by swapping out a traditional standing desk control panel for an overly sensitive, poorly placed motion sensor that adjusts the desk based on hand movements. Rather than optimizing space, the sensor takes too much away and actively intrudes on the user experience.
 
 ![Autonomous SmartDesk Levitate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autonomous-smartdesk-levitate.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Autonomous SmartDesk Levitate
 
@@ -93,14 +101,11 @@ Mark LoProto / How-to Geek
 
 ![Autonomous SmartDesk Levidesk wire organization and built-in wells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-wires.jpg) 
 
-Mark LoProto / How-to Geek
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Mark LoProto / How-to Geek
 
 ###  Durable Frame and Sturdy Desktop
 
@@ -118,6 +123,10 @@ Your browser does not support the video tag.
 
  The biggest issue is that the sensor responds to literally anything. If I had a book too close and moved it, the sensor either picked it or its shadow up and reacted. Even my cats set the desk off, which is when I realized how much of a niche audience this will have. I ultimately had to cover the sensor when I wasn’t using the desk so my cats wouldn’t jump up and kick the sensor off. Initially, I kept returning to the office to find the table at either the maximum or minimum height.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  It’s Not All Bad
 
  I think there’s a neat idea in here. This implementation just isn't it. I was surprised mainly by how well the sensor responded to my hand movements. I don’t recall an instance where it raised when I wanted it to lower or didn’t pick up that I was moving my hand. So long as I moved slowly and steadily and kept my hand at the same distance from the sensor while it moved, it worked well. If the sensor stopped registering my hand, which happened immediately after assembly and perhaps a week into use, the underside button is used to reset the system.
@@ -129,22 +138,12 @@ Mark LoProto / How-to Geek
  The button also adjusts the desk, but less efficiently than a control panel with directional arrows. Most of the time, pressing it would only move the desk in one direction until it reached the maximum or minimum height. Then, it would shift gears and move in the opposite direction. You are supposed to use the sensor, so I get why this isn’t some fine-tuned mechanic. Still, I think a secondary button to allow for intuitive push-button height adjustment is necessary for the best user experience.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Built-In Power Strip: A Neat But Intrusive Feature
 
 ![Autonomous SmartDesk Levidesk Power Strip with USB and AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-power-strip.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mark LoProto / How-to Geek
 
@@ -185,5 +184,26 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-immediate-pause-screen-capture-steps/"><u>[New] 2024 Approved Immediate Pause Screen Capture Steps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-pro-gamers-video-toolkit-selection/"><u>[New] In 2024, Pro Gamers' Video Toolkit Selection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-to-use-itop-recorder-a-compelling-case-in-2024/"><u>[New] To Use ITop Recorder A Compelling Case, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-game-on-mastery-a-critical-review-of-kinemaster-for-android-gamers-2023/"><u>[Updated] Game On Mastery A Critical Review of KineMaster for Android Gamers 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adding-depth-with-3d-text-in-photoshop-workflows-for-2024/"><u>Adding Depth with 3D Text in Photoshop Workflows for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-backlit-display-blinks/"><u>Banish Backlit Display Blinks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-octobers-mega-game-discounts-for-prime-day-202-cuffle-snap-these-last-hours-of-epic-savings-up-to-1k-zdnet/"><u>Don't Miss Out on October's Mega Game Discounts for Prime Day 202 Cuffle Snap These Last Hours of Epic Savings up to $1K | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-secure-your-79-lenovo-chromebook-from-black-friday-blowout-just-in-time-for-cyber-monday-deals/"><u>Don't Miss Out: Secure Your $79 Lenovo Chromebook From Black Friday Blowout Just in Time for Cyber Monday Deals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-touchscreen-laptop-picks-thoroughly-tested-and-critiqued-by-professionals-zdnet/"><u>Elite Touchscreen Laptop Picks: Thoroughly Tested & Critiqued by Professionals - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ergonomics-revolutionized-how-switching-to-a-split-keyboard-changed-my-tech-habits-for-good/"><u>Ergonomics Revolutionized: How Switching to a Split Keyboard Changed My Tech Habits for Good</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-cooling-gadget-every-tech-enthusiast-requires-discover-the-ultimate-laptop-accessory-for-optimal-performance-and-temperature-control/"><u>Essential Cooling Gadget Every Tech Enthusiast Requires: Discover the Ultimate Laptop Accessory for Optimal Performance and Temperature Control</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-note-13-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi Note 13 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-magic-5-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor Magic 5 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-productivity-with-our-discounted-all-inclusive-desk-station-now-at-44-off-smart-office-gear/"><u>Maximize Productivity with Our Discounted All-Inclusive Desk Station - Now at 44% Off! | Smart Office Gear</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/quick-and-simple-guide-converting-your-kindle-books-into-pdf-format-on-a-mac/"><u>Quick & Simple Guide: Converting Your Kindle Books Into PDF Format on a Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/removing-yellow-hue-from-iphone-screens-effective-fixes-for-optimal-viewing/"><u>Removing Yellow Hue From iPhone Screens - Effective Fixes for Optimal Viewing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unveils-revolutionary-copilotplus-pc-top-tier-gadget-at-unbeatable-price-exclusive-review/"><u>Samsung Unveils Revolutionary Copilot+ PC: Top-Tier Gadget at Unbeatable Price - Exclusive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-chromebooks-for-academic-success-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Chromebooks for Academic Success: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-smartphone-into-a-portable-monitor-with-this-ingenious-laptop-docking-station-zdnet-review/"><u>Transform Your Smartphone Into a Portable Monitor with This Ingenious Laptop Docking Station - ZDNet Review</u></a></li>
+</ul></div>
 
