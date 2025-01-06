@@ -1,7 +1,7 @@
 ---
 title: "7-Device Charging Capacity: Unmatched 140W Portable Battery Backup That Lasts Longer Between Charges - Spotlight on Tech"
-date: 2024-12-20T19:16:09.142Z
-updated: 2024-12-27T16:33:24.777Z
+date: 2025-01-04T16:47:40.600Z
+updated: 2025-01-06T02:25:51.917Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -81,7 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,20 +130,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/est-online-stock-market-channels-reviewed-for-2024/"><u>[New] Best Online Stock Market Channels Reviewed for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-analysis-updated-s3700-bd-player/"><u>[New] Comprehensive Analysis Updated S3700 BD Player</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/arrating-numbers-making-millions-from-your-micro-vlogs/"><u>[New] Narrating Numbers Making Millions From Your Micro-Vlogs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-optimizing-your-strategy-for-large-scale-tiktok-video-downloads/"><u>[Updated] In 2024, Optimizing Your Strategy for Large-Scale TikTok Video Downloads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/act-fast-why-an-ergonomic-mouse-is-essential-for-your-health-learn-the-three-key-reasons-today-with-zdnet-guidance/"><u>Act Fast: Why An Ergonomic Mouse Is Essential for Your Health – Learn the Three Key Reasons Today with ZDNET Guidance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bring-your-own-intelligence-byoai-overcoming-lock-in-barriers-for-user-freedom-and-technological-progress/"><u>Bring Your Own Intelligence (BYOAI): Overcoming Lock-In Barriers for User Freedom & Technological Progress</u></a></li>
-<li><a href="https://win-trending.techidaily.com/budget-friendly-microsoft-office-suite-get-project-and-visio-pro-for-only-20-from-zdnet-today/"><u>Budget-Friendly Microsoft Office Suite: Get Project and Visio Pro for Only $20 From ZDNet Today!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/compare-and-contrast-the-creme-de-la-creme-of-free-edits/"><u>Compare and Contrast The Crème De La Crème of Free Edits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/getting-started-with-raspberry-pi-a-beginners-guide-tips-from-zdnet/"><u>Getting Started with Raspberry Pi: A Beginner's Guide - Tips From ZDNet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-social-media-gurus-guide-to-exceptional-facebook-broadcasts/"><u>In 2024, The Social Media Guru's Guide to Exceptional Facebook Broadcasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lg-shatters-record-by-outperforming-samsungs-operating-income-in-the-first-quarter-after-fourteen-years/"><u>LG Shatters Record by Outperforming Samsung's Operating Income in the First Quarter After Fourteen Years!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-developer-conference-unveiled-everything-you-need-to-know-about-the-event-and-live-coverage-options/"><u>Microsoft Developer Conference Unveiled: Everything You Need To Know About The Event & Live Coverage Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/non-gamers-rejoice-unbeatable-deal-on-32-curved-screen-only-230/"><u>Non-Gamers Rejoice: Unbeatable Deal on 32 Curved Screen - Only $230!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/professional-evaluation-of-logitech-mx-master-3-does-it-outperform-all-other-gaming-and-office-mice-for-your-needs-techradar-analysis/"><u>Professional Evaluation of Logitech MX Master 3: Does It Outperform All Other Gaming and Office Mice for Your Needs? - TechRadar Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-android-apk-installation-on-windows-11/"><u>Streamlining Android APK Installation on Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discover-the-enhanced-features-of-2023s-samsung-bd-j5900/"><u>[New] Discover the Enhanced Features of 2023'S Samsung BD-J5900</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-analyzing-the-income-generated-by-every-youtube-viewer/"><u>[New] In 2024, Analyzing the Income Generated by Every YouTube Viewer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-financial-lifeline-of-podcasting/"><u>[New] The Financial Lifeline of Podcasting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-concurrent-audio-and-video-tracking-for-2024/"><u>[Updated] Concurrent Audio and Video Tracking for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-reflective-displays-in-win11-update/"><u>Addressing Reflective Displays in Win11 Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-updates-its-product-line-up-declares-9-mac-models-outdated-implications-for-users-and-retailers-explained-gadget-digest/"><u>Apple Updates Its Product Line-Up, Declares 9 Mac Models Outdated - Implications for Users and Retailers Explained | Gadget Digest</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/choosing-the-perfect-flipbook-template-for-incorporating-both-inner-and-outer-image-backdrops-at-flipbuildercom/"><u>Choosing the Perfect Flipbook Template for Incorporating Both Inner and Outer Image Backdrops at FlipBuilder.com</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/comment-proceder-au-recuperation-dun-appareil-lenovo-via-la-cle-un-seul-lenovo-onekey/"><u>Comment Procéder Au Récupération D'un Appareil Lenovo via La Clé Un Seul Lenovo OneKey ?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-poems-through-conversation-a-guide-to-utilizing-chatgpt-for-creative-expression/"><u>Crafting Poems Through Conversation: A Guide to Utilizing ChatGPT for Creative Expression</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-selection-zdnets-best-gaming-mechanical-keyboards-of-2023/"><u>Discover the Ultimate Selection: ZDNet's Best Gaming Mechanical Keyboards of 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-specials-at-best-buy-last-chance-savings/"><u>Exclusive October Prime Day Specials at Best Buy - Last Chance Savings !</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speedy-transmission-techniques-ultimate-app-and-extension-guide/"><u>In 2024, Speedy Transmission Techniques Ultimate App and Extension Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-impact-of-using-a-split-ergonomic-keyboard-for-one-week-on-my-entire-setup-zdnet/"><u>The Impact of Using a Split Ergonomic Keyboard for One Week on My Entire Setup | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-gaming-solid-state-drives-optimal-performance-for-your-pc-xbox-and-playstation-5/"><u>Top 6 Gaming Solid State Drives: Optimal Performance for Your PC, Xbox & PlayStation 5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-durable-laptop-picks-expert-reviews-and-ratings/"><u>Top Durable Laptop Picks : Expert Reviews & Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-the-ideal-lenovo-laptop-deal-at-50-off-this-octobers-amazon-prime-day-insider-tips-from-tech-experts/"><u>Top Pick: The Ideal Lenovo Laptop Deal at 50% Off This October's Amazon Prime Day - Insider Tips From Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-2023-dual-function-device-unlocks-hidden-office-perks-a-comprehensive-review/"><u>Top Rated 2023 Dual-Function Device Unlocks Hidden Office Perks: A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-your-input-matters-effective-strategies-for-contributing-to-chromeos-enhancements/"><u>Why Your Input Matters: Effective Strategies for Contributing to ChromeOS Enhancements</u></a></li>
 </ul></div>
 

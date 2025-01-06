@@ -1,7 +1,7 @@
 ---
 title: "Mastering Gadgets and Components: A Deep Dive by Tom's Team"
-date: 2024-08-23T13:02:54.094Z
-updated: 2024-08-24T13:02:54.094Z
+date: 2025-01-01T02:05:17.539Z
+updated: 2025-01-05T18:28:53.555Z
 tags:
   - cooling
 categories:
@@ -79,8 +79,9 @@ Included in the box are the following:
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -98,9 +99,9 @@ Included in the box are the following:
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
@@ -108,8 +109,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -117,6 +119,10 @@ The top of the CPU black features a reflective black etched metal design.
  Included with the AIO is a tube of ID-Cooling’s new premium thermal paste, Frost X45\. The thermal conductivity of this paste is advertised at 15.2W/M-K. We’ll be taking a look at this paste in more detail in our upcoming refreshed[thermal paste tests.](https://www.tomshardware.com/best-picks/best-thermal-paste)
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -149,17 +155,15 @@ The top of the CPU black features a reflective black etched metal design.
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -219,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -237,4 +236,23 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-timeless-80s-effects-boosting-creative-videos/"><u>[Updated] 2024 Approved Timeless 80S Effects Boosting Creative Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-straightforward-strategies-for-recording-games-for-2024/"><u>[Updated] Straightforward Strategies for Recording Games for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-affordable-android-tablet-excellence-top-picks-beyond-samsung-and-tcl-insights-for-smart-shoppers/"><u>1. Affordable Android Tablet Excellence: Top Picks Beyond Samsung and TCL - Insights for Smart Shoppers</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-browsing-on-new-systems/"><u>Essential Steps for Browsing on New Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-smart-7-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Smart 7 Phones with/without a PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-premium-free-lut-options-a-guide-to-quality-tools/"><u>In 2024, Exploring Premium-Free LUT Options A Guide to Quality Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-innovative-insights-for-streaming-success-on-tiktoks-computer-interface/"><u>In 2024, Innovative Insights for Streaming Success on TikTok's Computer Interface</u></a></li>
+<li><a href="https://win-webster.techidaily.com/keeping-your-pc-running-efficiently-expert-tips-from-yl-computing-and-software/"><u>Keeping Your PC Running Efficiently: Expert Tips From YL Computing and Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-tutorial-for-connecting-iphone-1213-to-your-tv-screen/"><u>Step-by-Step Tutorial for Connecting iPhone 12/13 to Your TV Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tablets-user-wishes-vs-actuality-for-microsoft-surface-analysis-by-zdnet/"><u>Unveiling the Future of Tablets: User Wishes Vs. Actuality for Microsoft Surface - Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-why-apples-ai-powered-ipad-mini-outshines-the-latest-iphone-16-series-insights-from-zdnet/"><u>Unveiling Why Apple's AI-Powered iPad Mini Outshines the Latest iPhone 16 Series - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/visual-magic-implementing-filters-on-digital-media/"><u>Visual Magic Implementing Filters on Digital Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-this-affordable-android-tablet-stands-out-exceptional-value-on-every-aspect/"><u>Why This Affordable Android Tablet Stands Out - Exceptional Value on Every Aspect!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-an-unlikely-top-contender-the-ultimate-non-brand-tablet-for-film-lovers/"><u>ZDNet Reveals an Unlikely Top Contender: The Ultimate Non-Brand Tablet for Film Lovers!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-the-trending-tangle-resistant-usb-c-cable-an-essential-addition-to-any-travellers-bag/"><u>ZDNet Reviews the Trending 'Tangle-Resistant' USB-C Cable - An Essential Addition to Any Traveller's Bag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-thoughtful-insight-the-enigmatic-brilliance-of-apples-new-ipad-10th-gen-revealed-detailed-2022-tablet-assessment/"><u>ZDNet's Thoughtful Insight: The Enigmatic Brilliance of Apple's New iPad 10Th Gen Revealed | Detailed 2022 Tablet Assessment</u></a></li>
+</ul></div>
 

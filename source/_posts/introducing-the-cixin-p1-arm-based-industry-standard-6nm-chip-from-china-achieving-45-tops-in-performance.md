@@ -1,7 +1,7 @@
 ---
 title: Introducing the Cixin P1 – Arm-Based, Industry Standard 6Nm Chip From China Achieving 45 TOPS in Performance!
-date: 2024-08-23T13:01:00.464Z
-updated: 2024-08-24T13:01:00.464Z
+date: 2024-12-30T18:26:01.316Z
+updated: 2025-01-05T20:00:21.555Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,23 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/2-top-tier-cameras-that-will-transform-your-vlogging-experience-for-2024/"><u>[New] 12 Top-Tier Cameras That Will Transform Your Vlogging Experience for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-high-staking-rituals-player-views/"><u>[New] HIGH-STAKING RITUALS Player Views</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-delving-into-mr-beasts-economic-dominance-for-2024/"><u>[Updated] Delving Into Mr. Beast's Economic Dominance for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-psd-aesthetic-optimization/"><u>2024 Approved Premium PSD Aesthetic Optimization</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-15-plus-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 15 Plus</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-10-budget-friendly-digital-photography-workspaces-online/"><u>In 2024, Top 10 Budget-Friendly Digital Photography Workspaces Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ready-to-explore-with-vision-pros-travel-suite-discover-key-insights-before-your-journey-starts-zdnet/"><u>Ready to Explore with Vision Pro's Travel Suite? Discover Key Insights Before Your Journey Starts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/skyrocketing-demand-in-chinese-auto-sector-how-ev-market-is-outpacing-all-rivals-according-to-zdnet/"><u>Skyrocketing Demand in Chinese Auto Sector: How EV Market Is Outpacing All Rivals, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/southwest-cancellation-crisis-deepens-more-than-20000-flights-affected-zdnet-insight/"><u>Southwest Cancellation Crisis Deepens - More than 20,000 Flights Affected | ZDNET Insight</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-list-of-premier-youtube-cosmetics-experts-for-2024/"><u>The Ultimate List of Premier YouTube Cosmetics Experts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-electric-vehicle-home-charging-stations-professional-picks-techradar/"><u>Top-Ranked Electric Vehicle Home Charging Stations : Professional Picks | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-savings-hotel-discounts-affordable-car-hires-and-fun-filled-adventures-at-lower-prices-techadvocate/"><u>Unlock Exclusive Savings: Hotel Discounts, Affordable Car Hires & Fun-Filled Adventures at Lower Prices | TechAdvocate</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-apples-enhanced-carplay-top-new-features-revealed-at-wwdc-2024-techradar/"><u>Unveiling Apple's Enhanced CarPlay: Top New Features Revealed at WWDC 2024 | TechRadar</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-music-for-free-top-11-daws-for-beginners-and-pros/"><u>Updated Create Music for Free Top 11 DAWs for Beginners and Pros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-news-teslas-groundbreaking-launch-of-its-first-electric-semi-trailers-now-out-on-the-road/"><u>ZDNet News: Tesla's Groundbreaking Launch of Its First Electric Semi-Trailers Now Out on the Road</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->

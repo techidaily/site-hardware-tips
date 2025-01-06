@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets: Top 10 Undiscovered Android 13 Functions"
-date: 2024-09-01T08:28:11.535Z
-updated: 2024-09-02T08:28:11.535Z
+date: 2025-01-03T01:56:07.661Z
+updated: 2025-01-06T05:01:12.513Z
 tags:
   - android
 categories:
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/937c541b992b0530a2d9f47c677a74bf9df2301f6
 
 Related: [Android 13 Is Out: What's New, and When You'll Get It](https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-se-2022-with-7-methods-by-drfone-ios/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Icons That Match Your Wallpaper
 
 ![Material You icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Image-from-iOS-43.png) 
@@ -52,16 +56,21 @@ _Google_
 
  Maybe you want most of your apps to be in your primary language, but there are a couple of apps you'd prefer to use in your secondary language. You can adjust it from the app's information page in the system settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  Quick Tap to Turn on the Flashlight
 
 ![Quick Tap for flashlight.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/2022-08-16_9-01-16.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Quick Tap was introduced in Android 12 as a way to trigger actions by tapping the back of your phone. However, one of the most common actions people might want was left out. That's fixed in Android 13.
 
  Finally, you can set "Toggle Flashlight" as an action with the Quick Tap gesture. This is a Pixel-only feature, unfortunately. If you don't have a Pixel, [there's another easy method to do it](https://extra-support.techidaily.com/new-nighttime-narratives-in-pixels/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More Bedtime Mode Features
 
@@ -74,9 +83,9 @@ _Google_
 Related: [How to Wind Down at Night with Bedtime Mode for Android](https://some-techniques.techidaily.com/2024-approved-free-top-10-vr-360-video-players-for-pc/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Safer Media Permissions
 
  There are tons of apps that require permission to access your media files. Before Android 13, that was an "all or nothing" permission. If an app needed it, it could access all your files. Thankfully, that has been fixed. Android 13 allows you to select only the specific photos and videos the app can access.
@@ -90,11 +99,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 Related: [How to See When Apps Access Your Clipboard on Android](https://screen-capture.techidaily.com/updated-economical-pc-monitoring-devices/) 
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Notifications are Now Opt-In
 
 ![Opt-in to notifications](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Image-from-iOS-44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Google_
 
@@ -103,33 +117,21 @@ _Google_
  From now on, notifications from apps are opt-in. When you open an app for the first time, it will ask if you want to grant permission to send notifications. This makes it much easier to never see notifications from apps you don't care about as much.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Control the Vibration Strength
 
 ![Vibration settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/2022-08-16_9-05-00.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Adjusting the volume for alarms, notifications, and media is a simple thing to do. Now it's possible to do the same thing for vibration strength in Android 13.
 
  The vibration settings in Android 13 include strength sliders so you can adjust it for calls, notifications, alarms, touch feedback, and media. It's a nice little touch.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Seven-Day Privacy Dashboard View
 
 ![Privacy Dashboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/2022-08-16_9-07-17.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Android 12 introduced the "[Privacy Dashboard](https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagrams-essential-quick-tutorial-for-chat/)"---a one-stop spot for checking up on which apps are using which permissions. Originally, it only gave you a look back at the last 24 hours, but Android 13 bumps that up to seven days. This is important for catching apps that might not be used as often.
 
 Related: [What Is the Privacy Dashboard on Android?](https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagrams-essential-quick-tutorial-for-chat/) 
@@ -138,9 +140,6 @@ Related: [What Is the Privacy Dashboard on Android?](https://instagram-video-rec
 
 ![Active apps screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/2022-08-16_9-07-42.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  The vast majority of Android apps [do not need to be closed](https://fox-blue.techidaily.com/updated-2024-approved-unpacking-virtual-reality-its-upside-and-downside/). However, some apps have special needs that allow them to be "Active" in the background at all times. Fitness trackers are a good example of this.
 
  Android 13 makes it easy to see how many of these "Active" apps are running. Pull down the Quick Settings panel, and you'll see an indicator at the bottom. From here, you can stop the app if you'd like.
@@ -159,8 +158,6 @@ Related: [Stop Closing Apps on Your Android Phone](https://fox-blue.techidaily.c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +165,24 @@ Related: [Stop Closing Apps on Your Android Phone](https://fox-blue.techidaily.c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-fingerprint-of-motion-tracking-systems/"><u>[New] In 2024, Fingerprint of Motion Tracking Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-use-vlc-for-easy-webcam-footage-save/"><u>[New] In 2024, Use VLC for Easy Webcam Footage Save</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-infinite-visual-vaults-blend-zero-cost-sky-spaces-with-premium-packages/"><u>[New] Infinite Visual Vaults Blend Zero-Cost Sky Spaces With Premium Packages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-fastest-video-speed-adjusters-for-2024/"><u>Android's Fastest Video Speed Adjusters for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-collection-of-2022s-cutting-edge-tech-products-tools-and-widgets-reviewed-by-zdnet/"><u>Discover the Ultimate Collection of 2022'S Cutting-Edge Tech Products, Tools, and Widgets Reviewed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmins-ultimate-sports-timepiece-enduro-is-set-to-outshine-apple-in-the-ultra-endurance-race-zdnet/"><u>Garmin's Ultimate Sports Timepiece: Enduro 지니어 Is Set to Outshine Apple in the Ultra-Endurance Race | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-watchos-10-alters-iphone-discovery-with-your-apple-watch-an-in-depth-analysis-you-should-know-about-zdnet/"><u>How WatchOS 10 Alters iPhone Discovery with Your Apple Watch - An In-Depth Analysis You Should Know About | ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-becoming-an-economic-force-a-guide-to-earning-on-youtube/"><u>In 2024, Becoming an Economic Force A Guide to Earning on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-garmin-vivomove-sport-how-this-budget-hybrid-timepiece-excels-in-health-tracking-and-durability-wired/"><u>Inside the Garmin Vivomove Sport: How This Budget Hybrid Timepiece Excels in Health Tracking and Durability | Wired</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kid-friendly-fitbit-ace-lte-the-fun-educational-gadget-transforming-workouts-into-games-a-pixel-watch-2-alternative-reviewed-by-zdnet/"><u>Kid-Friendly Fitbit Ace LTE: The Fun, Educational Gadget Transforming Workouts Into Games - A Pixel Watch 2 Alternative Reviewed by ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quitvideo-on-the-go-quickaction-tips-for-2024/"><u>QuitVideo On-the-Go QuickAction Tips for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/rally-the-friends-unveiling-the-most-exciting-sports-apps-iosandroid/"><u>Rally the Friends: Unveiling the Most Exciting Sports Apps (iOS/Android)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-repairs-top-9-tactics-for-smooth-windows-11-wwe-play/"><u>Rapid Repairs: Top 9 Tactics for Smooth Windows 11 WWE Play</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sales-of-apples-latest-series-watch-9-and-ultra-continue-amidst-legal-hold-on-prohibition-insights-from-zdnet/"><u>Sales of Apple's Latest Series: Watch 9 & Ultra Continue Amidst Legal Hold on Prohibition - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-big-reveal-complete-list-of-new-galaxy-devices-from-the-latest-unpacked-event-zdnet-coverage/"><u>Samsung's Big Reveal: Complete List of New Galaxy Devices From the Latest Unpacked Event - ZDNet Coverage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-capturing-screenshots-quickly-on-your-windows-8-pc/"><u>Simple Steps: Capturing Screenshots Quickly on Your Windows 8 PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-amazing-benefits-that-convinced-me-to-choose-samsung-galaxy-watch-6-classic-insights-from-zdnet/"><u>Top 3 Amazing Benefits That Convinced Me to Choose Samsung Galaxy Watch 6 Classic - Insights From ZDNet</u></a></li>
+</ul></div>
 

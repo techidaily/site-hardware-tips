@@ -1,7 +1,7 @@
 ---
 title: Last-Minute Opportunity! Snag Amazing October Deals & Save Big on Games - $1,00# Cutbacks | ZDNET
-date: 2024-12-21T21:28:40.864Z
-updated: 2024-12-28T00:05:53.609Z
+date: 2024-12-30T21:41:29.818Z
+updated: 2025-01-06T07:20:19.750Z
 tags:
   - laptops
 categories:
@@ -118,6 +118,10 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -132,6 +136,10 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day Xbox Series X|S deals still available
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -143,10 +151,6 @@ ZDNET
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $168 (save $102 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
 * [Razer Wolverine V2 Chroma for $60 (save $90)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Wolverine-Chroma-Gaming-Controller-x%2Fdp%2FB09CKFSRK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A wired, pro-style controller for the Xbox Series X|S console featuring RGB lighting, programmable buttons, and an ergonomic design for marathon gaming.
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals still available
 
@@ -186,6 +190,10 @@ Lenovo
 * [Acer Predator Triton Neo 16 for $1,500 (save $400 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPredator-Verified-AI-Powered-processor-PTN16-51-932N%2Fdp%2FB0CZBVRSXT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): The 16-inch display is Calman Verified for color accuracy, and the laptop is built with both an Intel Core Ultra 9 CPU and Nvidia GeForce RTX 4070 GPU.
 * [Alienware m18 for $1,750 (save $800 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m18-fhd-480hz-gaming-laptop-amd-ryzen-9-32gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6543535.p%3FskuId%3D6543535&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's high-end gaming laptop has an 18-inch display with an impressive 480Hz refresh rate. It's built with an AMD Ryzen 9 7000 series CPU, 32GB of RAM, a 1TB SSD, and Nvidia RTX 4070.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming monitor deals still available
 
 Samsung/ZDNET
@@ -203,7 +211,7 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
@@ -215,29 +223,21 @@ Samsung/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -304,17 +304,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>[New] In 2024, The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-premium-commercial-sky-data-haven/"><u>[Updated] 2024 Approved Premium Commercial Sky Data Haven</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-premium-top-11-list-audio-recording-essentials/"><u>2024 Approved Premium Top 11 List - Audio Recording Essentials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-buys-labor-day-sale-save-350-on-the-hp-victus-15-exclusive-deal-coverage-by-zdnet/"><u>Best Buy's Labor Day Sale: Save $350 on the HP Victus 15 - Exclusive Deal Coverage by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bulk-up-your-surface-pro-memory-for-less-how-to-easily-double-storage-and-cut-costs-in-just-7-steps-tips-by-zdnet/"><u>Bulk Up Your Surface Pro Memory for Less: How to Easily Double Storage and Cut Costs in Just 7 Steps | Tips by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/convert-your-laptop-into-a-full-desktop-experience-with-this-compact-multimedia-docking-station-insights-from-zdnet/"><u>Convert Your Laptop Into a Full Desktop Experience with This Compact Multimedia Docking Station: Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-lava-yuva-2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Lava Yuva 2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/netflix-watch-together-a-guide-to-sharing-your-viewing-experience/"><u>Netflix Watch Together: A Guide to Sharing Your Viewing Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/selecting-an-optimal-workstation-screen-arrangement-a-guide-from-zdnet/"><u>Selecting an Optimal Workstation Screen Arrangement: A Guide From ZDNet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/skyline-scenery-mastering-mobile-panoramas-for-2024/"><u>Skyline Scenery Mastering Mobile Panoramas for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-pc-performance-boosters-best-optimization-tools-revealed-by-yl-computing/"><u>Top PC Performance Boosters: Best Optimization Tools Revealed by YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-is-windows-ns-security-enhanced-with-tpm-integration-key-insights-explained/"><u>Why Is Windows N's Security Enhanced with TPM Integration? Key Insights Explained</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-advanced-visual-techniques-with-version-22-vce/"><u>[New] Mastering Advanced Visual Techniques with Version 2.2 VCE</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-google-photos-and-your-creativity-quick-collages-made-simple/"><u>2024 Approved Google Photos & Your Creativity Quick Collages Made Simple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-exclusive-top-ranked-laptops-now-available-with-a-staggering-500-discount-before-the-upcoming-prime-day/"><u>Amazon Exclusive: Top-Ranked Laptops Now Available with a Staggering $500 Discount Before the Upcoming Prime Day</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-a-strong-online-presence-through-engaging-content-social-media-interaction-and-search-engine-optimization-to-enhance-visibility-and-customer-reach.101/"><u>Building a Strong Online Presence Through Engaging Content, Social Media Interaction, and Search Engine Optimization to Enhance Visibility and Customer Reach.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-top-ranking-lenovo-laptops-unveiled-at-mobile-world-congress-find-out-which-ones-excelled/"><u>Comprehensive Review: Top-Ranking Lenovo Laptops Unveiled at Mobile World Congress - Find Out Which Ones Excelled!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-and-restore-your-images-using-stellar-for-windows-users/"><u>Enhance and Restore Your Images Using Stellar for Windows Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-world-of-digital-color-grading/"><u>Exploring the World of Digital Color Grading</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-c51-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco C51 Phone that is Locked?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-on-my-top-pick-magsafe-cable-station-at-50-discounted-price-shop-online-today/"><u>Huge Savings on My Top Pick: MagSafe Cable Station at 50% Discounted Price - Shop Online Today</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-se-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone SE Making It Possible</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-filmoras-most-attractive-edits/"><u>In 2024, Unveiling Filmora's Most Attractive Edits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-pro-m1-max-unlock-1100-savings-at-bandh-photoblack-friday-deals-insights-from-zdnet/"><u>MacBook Pro M1 Max: Unlock $1,100 Savings at B&H PhotoBlack Friday Deals - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-1011-stop-try-connecting-bluetooth-error/"><u>Overcoming Windows 10/11: Stop 'Try Connecting' Bluetooth Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-work-efficiency-the-most-impressive-2-in-1-device-of-the-year-with-a-hidden-office-perk-techexplorer-review/"><u>Revolutionizing Work Efficiency: The Most Impressive 2-in-1 Device of the Year with a Hidden Office Perk | TechExplorer Review</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-xiaomi-civi-3-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Xiaomi Civi 3 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-98-cyber-week-offers-and-discounts-of-2022-insights-from-zdnet/"><u>Top 98 Cyber Week Offers & Discounts of 2022 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-travel-tech-essentials-in-2-discover-the-ultimate-list-from-zdnet/"><u>Top Rated Travel Tech Essentials in 2# - Discover the Ultimate List From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-success-how-to-repair-your-steam-client-connection-errors/"><u>Troubleshooting Success: How to Repair Your Steam Client Connection Errors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-performance-meets-exceptional-visuals-in-highly-versatile-laptops-an-in-depth-review-gadget-specialist/"><u>Ultimate Performance Meets Exceptional Visuals in Highly Versatile Laptops - An In-Depth Review Gadget Specialist</u></a></li>
 </ul></div>
 

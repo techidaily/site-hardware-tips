@@ -1,7 +1,7 @@
 ---
 title: Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life | ZDNet Insights
-date: 2024-12-25T17:59:15.477Z
-updated: 2024-12-27T19:12:42.200Z
+date: 2024-12-31T23:57:36.112Z
+updated: 2025-01-06T02:51:31.380Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,18 +218,24 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-metaverse-playmates-list-roundup/"><u>[Updated] Exclusive Metaverse Playmates' List Roundup</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-scheduling-mastery-implementing-a-countdown-clock/"><u>[Updated] Obs Scheduling Mastery Implementing a Countdown Clock</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-supercharge-your-content-consumption-these-best-free-online-video-downloaders-for-youtube-shorts/"><u>2024 Approved Supercharge Your Content Consumption These Best Free, Online Video Downloaders for YouTube Shorts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-speed-edit-photos-in-windows-11/"><u>2024 Approved Unlocking Speed Edit Photos in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-keyboard-selection-guide-in-depth-analysis-and-expert-ratings-zdnet/"><u>2024'S Ultimate Keyboard Selection Guide: In-Depth Analysis and Expert Ratings | ZDNET</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-free-tool-the-essential-add-on-missing-from-all-new-macs-zdnet/"><u>Discover the Ultimate Free Tool: The Essential Add-On Missing From All New Macs | ZDNet</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pathfinders-paradise-the-best-movies-for-a-purposeful-life/"><u>In 2024, Pathfinders' Paradise The Best Movies for a Purposeful Life</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/interspecific-competition/"><u>Interspecific Competition.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-charging-experience-harness-the-power-of-a-200w-beast-that-fits-in-your-pocket-and-powers-six-devices-together-unveiling-the-future-of-po147/"><u>Revolutionize Your Charging Experience! Harness the Power of a 200W Beast That Fits in Your Pocket and Powers Six Devices Together – Unveiling the Future of Portable Energy Solutions | DigitalGearHub</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-video-tactics-for-small-enterprises-for-2024/"><u>SMART Video Tactics for Small Enterprises for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-steps-to-thoroughly-cleanse-your-mech-board-zdnets-advice/"><u>Ultimate Guide: Steps to Thoroughly Cleanse Your Mech-Board [ZDNet's Advice]</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/k-cross-platform-content-sharing-convert-and-upload-with-these-tools-for-2024/"><u>Unlock Cross-Platform Content Sharing Convert and Upload with These Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-sounding-different-in-pubg/"><u>[Updated] Mastering the Art of Sounding Different in PUBG</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-a-celebrity-online-presence-nine-strategies-for-social-media-success/"><u>2024 Approved Crafting a Celebrity Online Presence Nine Strategies for Social Media Success</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-expert-tips-on-choosing-the-ideal-live-broadcast-service/"><u>2024 Approved Expert Tips on Choosing the Ideal Live Broadcast Service</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-unleashes-superior-oled-display-on-their-latest-laptop-top-rankings-confirmed-by-testing-over-hundred-models/"><u>Asus Unleashes Superior OLED Display on Their Latest Laptop - Top Rankings Confirmed by Testing Over Hundred Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buy-anti-prime-day-exclusive-snag-the-hp-victus-15-gaming-laptop-for-just-450-expert-tips/"><u>Best Buy Anti-Prime Day Exclusive: Snag the HP Victus 15 Gaming Laptop for Just $450 | Expert Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-realme-c55-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Realme C55 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insight-into-gimps-capabilities-as-a-no-cost-image-editor-for-diverse-platforms/"><u>Expert Insight Into GIMP's Capabilities as a No-Cost Image Editor for Diverse Platforms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-play-7t-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor Play 7T Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-elite-set-of-android-photoshoppers/"><u>In 2024, The Elite Set of Android Photoshoppers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-ais-forecast-accurate-can-chatgpt-outshine-traditional-horoscopes-in-predicting-the-future/"><u>Is AI's Forecast Accurate: Can ChatGPT Outshine Traditional Horoscopes in Predicting the Future?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-2024-linksys-security-credentials-revealed-managing-default-passwords-easily/"><u>July 2024 Linksys Security Credentials Revealed: Managing Default Passwords Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/metas-ultimate-vr-bargain-the-new-512gb-quest-3-offer-you-cant-miss-according-to-zdnet/"><u>Meta's Ultimate VR Bargain - The New 512GB Quest 3 Offer You Can't Miss, According to ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protecting-privacy-the-ultimate-step-by-step-method-to-erase-sensitive-data-from-your-windows-pc-free-tips-and-tricks-zdnet/"><u>Protecting Privacy: The Ultimate Step-by-Step Method to Erase Sensitive Data From Your Windows PC - Free Tips & Tricks | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/school-supplies-beware-repeated-incidents-of-chromebooks-attacked-by-bedbugs-exposed-insights/"><u>School Supplies Beware: Repeated Incidents of Chromebooks Attacked by Bedbugs Exposed! - Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-address-when-your-computer-cant-find-xlivedll/"><u>Steps to Address When Your Computer Can't Find Xlive.dll</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-98-unbeatable-cyber-monday-offers-ultimate-guide/"><u>Top 98 Unbeatable Cyber Monday Offers Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ultralight-laptop-perfect-for-remote-professionals-a-comprehensive-review-by-zdnet/"><u>Top Rated Ultralight Laptop Perfect for Remote Professionals: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-antivirus-solutions-reviewed-the-ultimate-guide-techradar/"><u>Top-Ranked Antivirus Solutions Reviewed: The Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-discounted-laptops-on-prime-day-events-october-2024-shopping-guide-techradar/"><u>Top-Rated Discounted Laptops on Prime Day Events - October 2024 Shopping Guide | TechRadar</u></a></li>
 </ul></div>
 

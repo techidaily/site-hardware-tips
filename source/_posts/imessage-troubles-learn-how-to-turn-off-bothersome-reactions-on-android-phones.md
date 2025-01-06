@@ -1,7 +1,7 @@
 ---
 title: IMessage Troubles? Learn How to Turn Off Bothersome Reactions on Android Phones!
-date: 2024-09-05T21:30:00.871Z
-updated: 2024-09-06T21:30:00.871Z
+date: 2024-12-31T00:04:50.429Z
+updated: 2025-01-06T00:46:17.770Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/text-messages.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## IMessage Troubles? Learn How to Turn Off Bothersome Reactions on Android Phones!
 
 ### Quick Links
@@ -33,11 +27,9 @@ Related: [iMessage Features to Avoid with Your Green Bubble Android Buddies](htt
  So what can you do to stop getting these annoying messages? Well, nothing, really. You can't block them completely or remove them from the conversation. However, we can do something to stop getting notifications for them.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Stop iMessage Reaction Notifications
 
  We will be using an app called "MacroDroid" to target the notifications for those reactions. We'll enter keywords to identify those messages, and then MacroDroid will immediately dismiss the notification if it matches. That way you won't be bothered by them.
@@ -46,18 +38,6 @@ Related: [iMessage Features to Avoid with Your Green Bubble Android Buddies](htt
 
 ![Install MacroDroid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_16-35-15.png) 
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Add Macro" to begin setting things up.
 
 ![Tap &quot;Add Macro.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_13-52-21.png) 
@@ -66,56 +46,34 @@ Related: [iMessage Features to Avoid with Your Green Bubble Android Buddies](htt
 
 ![Tap the plus button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_13-52-39.png) 
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Expand the "Device Events" category and select "Notification." You'll need to grant the app notification access.
 
 ![Tap &quot;Notification.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_13-53-35.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Notification Received" and tap "OK."
 
 ![Select &quot;Notification Received.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_13-54-30.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Choose "Select Application(s)" and tap "OK."
 
 ![Tap &quot;Select Applications.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_13-55-20.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here's where you'll want to select the app that you use for text messaging. Tap "OK" after you've made your choice.
 
 ![Choose your messaging app and tap &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_15-39-25.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Leave everything how it is and tap "OK."
 
 ![Tap &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_16-03-27.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With the trigger done we can choose the action. Tap the "+" button on the "Actions" card.
 
 ![Tap the plus icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_15-58-56.png) 
@@ -125,14 +83,16 @@ Related: [iMessage Features to Avoid with Your Green Bubble Android Buddies](htt
 ![Choose &quot;Clear Notifications.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_15-59-31.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Choose "Select Application(s)" and tap "OK."
 
 ![Choose &quot;Select Applications.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_16-00-06.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select your messaging app again and tap "OK."
 
@@ -150,15 +110,13 @@ Related: [iMessage Features to Avoid with Your Green Bubble Android Buddies](htt
 
 ![Choose &quot;Contains,&quot; enter the phrase, then tap &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_16-21-44.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Repeat this until you have five actions, each with one of the phrases above. Give the macro a name and then tap the "+" button to save it.
 
 ![Give the macro a name and save it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2021-10-07_16-15-04-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it! When this works, you usually won't notice anything. The notifications are dismissed before you can see them. Occasionally, one may take a second to be dismissed, but it's usually super quick and you'll never notice a thing.
 
@@ -174,8 +132,6 @@ Related: [How to Disable and Deactivate iMessage on iPhone or iPad](https://twit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +139,23 @@ Related: [How to Disable and Deactivate iMessage on iPhone or iPad](https://twit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/1-navigating-the-challenges-of-green-technology-strategies-for-seeking-additional-resources/"><u>1) Navigating the Challenges of Green Technology: Strategies for Seeking Additional Resources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-ultimate-guide-to-choosing-the-perfect-electric-leaf-blower-featuring-top-picks-from-industry-experts/"><u>2022'S Ultimate Guide to Choosing the Perfect Electric Leaf Blower - Featuring Top Picks From Industry Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-and-computings-green-revolution-strategies-for-sustainable-tech-development-in-an-energy-intensive-era-zdnet/"><u>AI and Computing's Green Revolution: Strategies for Sustainable Tech Development in an Energy-Intensive Era | ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/diving-deep-into-digital-groups-dynamics-on-fb-and-linkedin/"><u>Diving Deep Into Digital Groups' Dynamics on FB & LinkedIn</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-driver-updates-for-your-nvidia-geforce-gtx-1n60-super-gpu/"><u>Get the Latest Driver Updates for Your NVIDIA GeForce GTX 1N60 Super GPU</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-quickly-refresh-battery-drivers-on-windows-systems/"><u>How to Quickly Refresh Battery Drivers on Windows Systems</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-dancefloor-dynamics-top-rated-dj-video-selections/"><u>In 2024, Dancefloor Dynamics Top-Rated DJ Video Selections</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-precisely-how-to-disconnect-from-your-outdated-linkedin-account/"><u>In 2024, Precisely How To Disconnect From Your Outdated LinkedIn Account</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-ranking-the-very-best-top-9-free-logo-design-software/"><u>In 2024, Ranking the Very Best Top 9 Free Logo Design Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-mac-computer-mice-to-look-out-for/"><u>Leading Mac Computer Mice to Look Out For</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oneplus-10-rumored-details-revealed-estimated-price-points-release-timeline-and-feature-breakdown/"><u>OnePlus 10 Rumored Details Revealed – Estimated Price Points, Release Timeline & Feature Breakdown</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-printing-documents-on-windows-with-ease-insights-from-yl-computing/"><u>Step-by-Step Guide: Printing Documents on Windows with Ease - Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-eco-friendly-initiative-how-a-groundbreaking-3d-printing-technology-creates-charming-lamps-and-guitars-from-unwanted-sawdust-byproducts/"><u>ZDNet's Eco-Friendly Initiative: How a Groundbreaking 3D Printing Technology Creates Charming Lamps & Guitars From Unwanted Sawdust Byproducts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-checklist-essentials-for-your-successful-garden/"><u>ZDNet's Ultimate Checklist: Essentials for Your Successful Garden</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zendures-ultimate-charge-solution-unveiled-the-superbase-pro-nvigates-the-future-of-powering-tech-a-detailed-review-on-zdnet/"><u>Zendure's Ultimate Charge Solution Unveiled: The SuperBase Pro Nvigates the Future of Powering Tech | A Detailed Review on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zero-carbon-vision-at-lenovo-strategies-for-eco-friendly-operations-as-revealed-by-zdnet/"><u>Zero Carbon Vision at Lenovo: Strategies for Eco-Friendly Operations as Revealed by ZDNet</u></a></li>
+</ul></div>
 

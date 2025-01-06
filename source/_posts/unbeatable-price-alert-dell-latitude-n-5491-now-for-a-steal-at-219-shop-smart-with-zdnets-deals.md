@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!"
-date: 2024-12-24T16:38:24.485Z
-updated: 2024-12-27T18:58:17.100Z
+date: 2024-12-31T16:07:56.529Z
+updated: 2025-01-05T17:37:53.910Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,18 +87,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-sourcing-premium-soundtracks-from-instagram-and-designing-outstanding-ringtone-alerts/"><u>[New] In 2024, The Ultimate Guide to Sourcing Premium Soundtracks From Instagram and Designing Outstanding Ringtone Alerts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-unlocking-the-secrets-to-overwatch-video-capture-for-2024/"><u>[New] Unlocking the Secrets to Overwatch Video Capture for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-navigating-facebooks-video-evolution-for-2024/"><u>[Updated] Navigating Facebook’s Video Evolution for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-sonic-spellbook-can-you-alter-your-speech-discover-different-magical-solutions/"><u>2024 Approved Sonic Spellbook Can You Alter Your Speech? Discover Different Magical Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/astounding-deal-alert-snag-the-rtx-4080-gpu-at-a-jaw-dropping-discount-of-270-this-black-friday-exclusive-on-zdnet/"><u>Astounding Deal Alert: Snag the RTX 4080 GPU at a Jaw-Dropping Discount of $270 This Black Friday - Exclusive on ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-horizon-of-ubuntu-preview-of-ubuntu-2310-and-its-vision-for-linux/"><u>Discovering the Horizon of Ubuntu: Preview of Ubuntu 23.10 and Its Vision for Linux</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-microsoft-recall-fears-why-this-isnt-a-privacy-catastrophe-insights-and-facts/"><u>Evaluating Microsoft Recall Fears: Why This Isn't a Privacy Catastrophe - Insights and Facts</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719152890645-from-facebook-to-the-world-seamlessly-upload-your-posts-and-notes/"><u>From Facebook to the World: Seamlessly Upload Your Posts and Notes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installation-guide-logitech-hd-c270-driver-update-for-windows-11-users/"><u>Installation Guide: Logitech HD C270 Driver Update for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-save-350-on-the-hp-victus-15-laptop-exclusive-deal-from-best-buy-this-labor-day/"><u>Limited Time Offer: Save $350 on the HP Victus 15 Laptop - Exclusive Deal From Best Buy This Labor Day</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-redefines-tech-landscape-with-revolutionary-approach-to-cloud-services-and-advertising-platforms/"><u>Microsoft Redefines Tech Landscape with Revolutionary Approach to Cloud Services and Advertising Platforms</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seamless-integration-of-internal-ssds-via-usb-c-with-pcmac-a-step-by-step-guide/"><u>Seamless Integration of Internal SSDs via USB-C with PC/Mac - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-wlanapidll-not-found-issue-on-your-computer/"><u>Troubleshooting the 'wlanapi.dll Not Found' Issue on Your Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-clueless-to-confident-configuring-zoom-made-simple/"><u>[New] From Clueless to Confident Configuring Zoom Made Simple</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-top-8-best-apps-to-get-likes-on-facebook-android-and-iphone/"><u>[New] Top 8 Best Apps to Get Likes on Facebook (Android and iPhone)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-crafting-memorable-announcements-the-key-to-successful-facebook-giving-posts/"><u>[Updated] In 2024, Crafting Memorable Announcements The Key to Successful Facebook Giving Posts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beware-of-invasive-pc-repair-workers-snooping-on-personal-data-recent-study-warns-zdnet/"><u>Beware of Invasive PC Repair Workers Snooping on Personal Data, Recent Study Warns | ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/changing-screen-aspects-digitally/"><u>Changing Screen Aspects Digitally</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-malfunctioning-mouse-context-menus/"><u>Mastery Over Malfunctioning Mouse Context Menus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-laptops-lifespan-with-easy-steps-to-turn-on-google-chromes-energy-saver-mode-a-must-read-guide/"><u>Maximize Your Laptop's Lifespan with Easy Steps to Turn On Google Chrome's Energy Saver Mode: A Must-Read Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mega-discount-on-high-performance-gaming-pcs-up-to-57-savings-on-gigabyte-aero-16-techsavvy/"><u>Mega Discount on High-Performance Gaming PCs - Up to 57% Savings on Gigabyte Aero 16 | TechSavvy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-revolutionary-lg-gram-pro-17-a-featherlight-powerhouse-perfect-for-prime-day-deals-exclusive-review-by-zdnet/"><u>Unboxing the Revolutionary LG Gram Pro 17: A Featherlight Powerhouse Perfect for Prime Day Deals - Exclusive Review by ZDNet</u></a></li>
 </ul></div>
 

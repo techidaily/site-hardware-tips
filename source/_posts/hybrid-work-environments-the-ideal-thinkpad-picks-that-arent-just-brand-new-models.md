@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models
-date: 2024-12-20T16:41:03.348Z
-updated: 2024-12-27T19:44:19.326Z
+date: 2025-01-01T23:16:19.645Z
+updated: 2025-01-06T00:13:08.884Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,20 +112,21 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-speedy-windows-file-review-strategies/"><u>[New] In 2024, Speedy Windows File Review Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-timestamps-on-youtube-video-link-for-2024/"><u>[Updated] How to Add Timestamps on YouTube Video Link for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximal-brightness-for-android-videos-explained/"><u>2024 Approved Maximal Brightness for Android Videos Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-budget-friendly-apps-revolutionizing-smartphone-imagery/"><u>2024 Approved Top 10 Budget-Friendly Apps Revolutionizing Smartphone Imagery</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhancing-teleconferencing-with-time-honored-camera-tricks-introducing-logitechs-project-ghost/"><u>Enhancing Teleconferencing with Time-Honored Camera Tricks - Introducing Logitech's Project Ghost</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-the-logitech-vertical-ergomouse-stylish-small-and-ultimate-comfort-tech-in-depth/"><u>Evaluating the Logitech Vertical ErgoMouse: Stylish, Small & Ultimate Comfort | Tech In Depth</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-seamless-editing-with-newly-purchased-adobe-photoshop-cs8-software/"><u>Experience Seamless Editing with Newly Purchased Adobe Photoshop CS8 Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-huawei-matepad/"><u>Exploring the Huawei MatePad</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-v30-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme V30 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nubia-z50-ultra-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nubia Z50 Ultra? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-mavix-m9-gaming-chair-unprecedented-customization-and-comfort-pros-and-cons/"><u>In-Depth Analysis of the Mavix M9 Gaming Chair: Unprecedented Customization and Comfort - Pros & Cons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-unmatched-comfort-of-secretlab-titan-evo-top-pick-in-the-2hrenalogy-gaming-chairs-techradar/"><u>The Unmatched Comfort of SecretLab Titan Evo - Top Pick in the 2Hrenalogy Gaming Chairs | TechRadar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-must-have-smartwatch-applications-for-your-android-device/"><u>Top 5 Must-Have Smartwatch Applications for Your Android Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-june-2023-computer-screen-bargains-featured-on-zdnet/"><u>Top June 2023 Computer Screen Bargains - Featured on ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-non-youtube-video-editing-discover-the-top-5-newcomers/"><u>[New] 2024 Approved Non-YouTube Video Editing Discover the Top 5 Newcomers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-key-points-to-consider-when-navigating-tiktok-web-on-macos/"><u>[New] In 2024, Key Points to Consider When Navigating TikTok Web on macOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-instagrams-secrets-for-creating-must-watch-unboxings/"><u>[Updated] 2024 Approved Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>[Updated] Unveiling Secrets The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-top-rated-15-inch-laptop-picks-for-2-comprehensive-guide-experts-choice-the-ultimate-list-of-2024s-best-15-notebook-computers-reviewed/"><u>1: Top Rated 15-Inch Laptop Picks for 2# Comprehensive Guide: Experts' Choice - The Ultimate List of 2024’S Best 15 Notebook Computers Reviewed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-seamless-navigation-to-your-individual-playlist-library-on-youtube/"><u>2024 Approved Seamless Navigation to Your Individual Playlist Library on YouTube</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/boost-gaming-experience-by-upgrading-your-video-card-a-beginners-guide/"><u>Boost Gaming Experience by Upgrading Your Video Card: A Beginner's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-versatility-of-lenovos-new-dual-mode-windows-and-android-laptop-a-promising-innovation/"><u>Exploring the Versatility of Lenovo's New Dual-Mode Windows & Android Laptop - A Promising Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/four-key-factors-and-top-ten-picks-choosing-the-ideal-college-laptop-guide/"><u>Four Key Factors & Top Ten Picks: Choosing the Ideal College Laptop Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-pro-m1-max-unlock-1100-savings-at-bandh-photoblack-friday-deals-insights/"><u>MacBook Pro M1 Max: Unlock $1,100 Savings at B&H PhotoBlack Friday Deals - Insights</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/navigating-the-legal-landscape-check-tiktok-video-compliance-for-2024/"><u>Navigating the Legal Landscape Check TikTok Video Compliance for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steal-with-hp-victus-15-laptop-for-gamers-price-slashed-to-530-at-best-buy-tech-news-by-zdnet/"><u>Score a Steal with HP Victus 15 Laptop for Gamers - Price Slashed to $530 at Best Buy | Tech News by ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-savings-and-serenity-the-9-reasons-to-be-online-for-life/"><u>Social Savings & Serenity: The 9 Reasons to Be Online for Life</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultrawide-uhd-dilemranc-which-monitor-wins-in-2024/"><u>The Ultrawide-UHD Dilemranc Which Monitor Wins, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-power-banks-for-macbook-pro-find-your-best-match-today/"><u>Top Recommended Power Banks for MacBook Pro: Find Your Best Match Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-potential-of-cloud-gaming-on-lenovo-ideapad-chromebooks-a-comprehensive-review-focusing-on-hardware-efficacy-by-tech-expert-at-zdnet/"><u>Unveiling the Potential of Cloud Gaming on Lenovo IdeaPad Chromebooks: A Comprehensive Review Focusing on Hardware Efficacy by Tech Expert at ZDNet</u></a></li>
 </ul></div>
 

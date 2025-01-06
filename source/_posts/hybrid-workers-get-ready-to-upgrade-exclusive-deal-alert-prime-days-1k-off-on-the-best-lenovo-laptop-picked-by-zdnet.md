@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Workers, Get Ready to Upgrade! Exclusive Deal Alert: Prime Day's $1K Off on the Best Lenovo Laptop Picked by ZDNet."
-date: 2024-12-21T21:12:03.017Z
-updated: 2024-12-27T22:21:44.518Z
+date: 2025-01-04T12:10:19.101Z
+updated: 2025-01-06T06:46:12.262Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,22 +79,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-transform-your-trip-diary-into-haul-video-hype/"><u>[New] 2024 Approved Transform Your Trip Diary Into Haul Video Hype</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unleash-potential-superior-strategies-for-personalized-facebook-profiles/"><u>[New] In 2024, Unleash Potential Superior Strategies for Personalized Facebook Profiles</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-elevate-gaming-experience-through-perfect-recordings-for-2024/"><u>[Updated] Elevate Gaming Experience Through Perfect Recordings for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-transitioning-from-srt-to-subtitles/"><u>[Updated] In 2024, Transitioning From SRT to Subtitles</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-13-mini-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 13 mini screen turns black? | Stellar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/desktop-decisions-picking-between-mac-mini-studio-imac-or-pro-for-optimal-performance-and-value/"><u>Desktop Decisions: Picking Between Mac Mini, Studio, iMac or Pro for Optimal Performance and Value</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dispelling-the-myth-of-microsofts-privacy-nightmare-a-closer-look-at-the-truth-behind-the-product-recall-expert-analysis-on-zdnet/"><u>Dispelling the Myth of Microsoft's 'Privacy Nightmare': A Closer Look at the Truth Behind the Product Recall | Expert Analysis on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huawei-matestation-x-in-depth-review-competing-with-apples-imac-in-the-all-in-one-pc-arena-expert-analysis-on-zdnet/"><u>Huawei MateStation X In-Depth Review: Competing with Apple's iMac in the All-in-One PC Arena | Expert Analysis on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-grab-the-samsung-odyssey-g7-monitor-at-half-price-during-amazons-seasonal-deals-extravaganza/"><u>Huge Savings Alert! Grab the Samsung Odyssey G7 Monitor at Half Price During Amazon's Seasonal Deals Extravaganza</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-xr-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone XR Without Passcode Now</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-photo-display-solutions/"><u>Innovative Photo Display Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-techniques-for-iphone-sideways-shots/"><u>Innovative Techniques for iPhone Sideways Shots</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mac-showdown-analyzing-performance-and-power-in-apples-latest-titans-the-mac-mini-with-m2-vs-mac-studio-with-m1-indepth-zdnet-review/"><u>Mac Showdown: Analyzing Performance and Power in Apple's Latest Titans – The Mac Mini with M2 Vs. Mac Studio with M1 | InDepth ZDNET Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-discount-on-msi-gaming-monitors-save-nearly-300-on-newegg-as-featured-by-zdnet/"><u>Massive Discount on MSI Gaming Monitors: Save Nearly $300 on Newegg, as Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-ideal-computer-setups-for-aspiring-graphic-artists-zdnet/"><u>Top 5 Ideal Computer Setups for Aspiring Graphic Artists - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-big-screens-expert-review-by-zdnet/"><u>Top-Ranking Big Screens - Expert Review by ZDNet</u></a></li>
-<li><a href="https://fox-access.techidaily.com/virtual-expedition-jaunt-vr-insights/"><u>Virtual Expedition Jaunt VR Insights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-efficient-media-mastery-from-ssaxml-to-high-quality-srt/"><u>[New] 2024 Approved Efficient Media Mastery From SSA/XML to High-Quality SRT</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-how-tos-selecting-free-powerful-iphoneipad-edits/"><u>[New] In 2024, How-To's Selecting Free, Powerful iPhone/iPad Edits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2023-online-facebook-video-to-mp3-converters/"><u>[Updated] 2023 Online Facebook Video to MP3 Converters</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-artisans-path-to-crafting-confidential-snaps/"><u>[Updated] 2024 Approved The Artisan's Path to Crafting Confidential Snaps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-art-of-transcribing-top-4-tactics-for-fb-chat-recordings/"><u>[Updated] In 2024, The Art of Transcribing Top 4 Tactics for FB Chat Recordings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024-ultimate-guide-to-the-best-linux-laptops-in-depth-analysis-and-ratings-from-professionals/"><u>2024 Ultimate Guide to the Best Linux Laptops: In-Depth Analysis and Ratings From Professionals</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1726220247519-mov/"><u>適用於 MOV 壓縮的前七大最佳工具：減少檔案體積的方法</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-laptop-revives-popular-term-from-techs-past-era-insights/"><u>Affordable Laptop Revives Popular Term From Tech's Past Era: Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-discreet-marvel-a-design-that-hides-stellar-creative-capabilities-revealed/"><u>Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-brainstorming-skills-combining-mind-maps-and-ai-chat-gpt-for-ideas/"><u>Boost Your Brainstorming Skills: Combining Mind Maps and AI Chat GPT for Ideas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-pre-prime-day-savings-guide-unveiled-retail-experts/"><u>Exclusive Pre-Prime Day Savings Guide | Unveiled Retail Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-guide-to-saving-on-microsofts-latest-surface-pro-11-top-affordable-picks-revealed/"><u>Experts' Guide to Saving on Microsoft's Latest Surface Pro 11 - Top Affordable Picks Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206584186-hp-laptop-usb-issues-heres-how-you-can-get-them-fixed/"><u>HP Laptop USB Issues? Here's How You Can Get Them Fixed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-smilesphere-endless-possibrancies-in-meme-land/"><u>In 2024, SmileSphere Endless Possibrancies in Meme Land</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-building-your-perfect-gamers-paradise-tips-and-tricks/"><u>The Complete Guide to Building Your Perfect Gamer's Paradise - Tips & Tricks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-experts-approach-to-inserting-subtitlescc-on-youtube-videos/"><u>The Expert's Approach to Inserting Subtitles/CC on YouTube Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-inner-gamers-with-the-ultimate-sound-system-on-sale-at-best-buy-as-reviewed/"><u>Unleash Your Inner Gamers with the Ultimate Sound System on Sale at Best Buy, as Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmatched-clarity-awaits-with-our-lightweight-laptops-exceptional-screen-now-discounted/"><u>Unmatched Clarity Awaits with Our Lightweight Laptop's Exceptional Screen, Now Discounted !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-and-how-to-change-the-default-dns-addresses-on-your-chromebook-for-enhanced-security-and-privacy/"><u>Why and How to Change the Default DNS Addresses on Your Chromebook for Enhanced Security & Privacy</u></a></li>
 </ul></div>
 

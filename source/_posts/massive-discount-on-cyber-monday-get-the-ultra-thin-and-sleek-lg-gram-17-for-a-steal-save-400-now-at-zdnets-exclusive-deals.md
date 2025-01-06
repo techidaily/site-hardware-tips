@@ -1,7 +1,7 @@
 ---
 title: "Massive Discount on Cyber Monday: Get the Ultra-Thin and Sleek LG Gram 17 for a Steal - Save $400 Now at ZDNet's Exclusive Deals!"
-date: 2024-12-21T19:23:41.918Z
-updated: 2024-12-27T19:16:56.073Z
+date: 2024-12-31T20:43:59.186Z
+updated: 2025-01-05T16:24:18.585Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,18 +128,18 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-dx11-feature-level-100-is-required-to-run-the-engine/"><u>[Fixed] DX11 Feature Level 10.0 Is Required to Run the Engine</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-boosting-your-instagram-aesthetics-implementing-borders-on-photos/"><u>[New] Boosting Your Instagram Aesthetics Implementing Borders on Photos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-to-mp4-safely-step-by-step-guide/"><u>[New] In 2024, How to Convert YouTube to MP4 Safely? [Step by Step Guide]</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-latest-pulse-of-facebooks-evolution/"><u>[Updated] In 2024, Latest Pulse of Facebook's Evolution</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-self-verification-on-instagram-does-it-serve-us-for-2024/"><u>[Updated] Self-Verification on Instagram Does It Serve Us for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-pova-5-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Pova 5 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-lava-blaze-2-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Lava Blaze 2 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-newly-unveiled-developer-edition-of-ubuntu-core-get-early-access-and-reviews-on-zdnet/"><u>Explore the Newly Unveiled Developer Edition of Ubuntu Core - Get Early Access and Reviews on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-a-deal-of-a-lifetime-hp-victus-laptop-slashed-by-350-for-labor-day-sale-at-best-buy-insights-and-tips-from-zdnet/"><u>Get a Deal of a Lifetime: HP Victus ˈlaptop Slashed by $350 for Labor Day Sale at Best Buy, Insights & Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-35-unbeatable-cyber-monday-offers-on-dell-products-from-retail-giants-like-best-buy-amazon-and-newegg-find-them-here/"><u>Top 35 Unbeatable Cyber Monday Offers on Dell Products From Retail Giants Like Best Buy, Amazon & Newegg - Find Them Here!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-essential-steps-before-installing-chrome-os-flex-save-time-and-troubleshoot-easily-tips-from-zdnet/"><u>Top 5 Essential Steps Before Installing Chrome OS Flex: Save Time and Troubleshoot Easily - Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-gaming-rig-reviews-2024-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Ranked Gaming Rig Reviews 2024: In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-ubuntu-2310-desktop-peering-into-the-next-chapter-of-ubuntu-evolution-geektimes/"><u>Unveiling Ubuntu 23.10 Desktop: Peering Into The Next Chapter of Ubuntu Evolution | GeekTimes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-introduce-audio-files-to-premiere-pro-timeline-for-2024/"><u>[Updated] Introduce Audio Files to Premiere Pro Timeline for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-lenovo-ideapad-gaming-chromebook-unveiled-exploring-the-real-limits-of-cloud-based-gaming-performance-insights-from-zdnet/"><u>1. Lenovo IdeaPad Gaming Chromebook Unveiled: Exploring the Real Limits of Cloud-Based Gaming Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-device-ipad-pro-or-macbook-air-find-your-best-fit-with-zdnets-comparison/"><u>Choosing the Right Device: IPad Pro or MacBook Air – Find Your Best Fit with ZDNet's Comparison</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dell-unveils-a-compact-powerful-gaming-laptop-ideal-for-professionals-on-the-go/"><u>Dell Unveils a Compact, Powerful Gaming Laptop Ideal for Professionals on the Go</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063424571-enhance-huion-h420-for-windows-easy-steps-ahead/"><u>Enhance Huion H420 for Windows - Easy Steps Ahead</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y78-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y78 5G Is Unlocked</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-openais-grip-on-chatgpt-starting-to-slip-away/"><u>Is OpenAI's Grip on ChatGPT Starting to Slip Away?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-prep-score-zdnets-top-laptop-selection-for-50-off-now-on-amazon-act-fast/"><u>Prime Day Prep: Score ZDNet's Top Laptop Selection for 50% Off Now on Amazon – Act Fast!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recognizing-unseen-sd-card-fix-for-windows-explorer/"><u>Recognizing Unseen SD Card: Fix for Windows Explorer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-2024-prime-day-like-offers-on-laptops-exclusive-shopping-guide-by-zdnet/"><u>Top October 2024 Prime Day-Like Offers on Laptops: Exclusive Shopping Guide by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-your-smartphone-experience-a-comprehensive-guide-to-iphones-16-vs-15-on-apples-official-platform-zdnet/"><u>Upgrade Your Smartphone Experience: A Comprehensive Guide to iPhones 16 Vs. 15 on Apple's Official Platform | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-picks-for-gamers-experience-the-best-audio-with-a-staggering-30-off-at-amazon/"><u>ZDNet's Ultimate Picks for Gamers: Experience the Best Audio with a Staggering 30% Off at Amazon!</u></a></li>
 </ul></div>
 

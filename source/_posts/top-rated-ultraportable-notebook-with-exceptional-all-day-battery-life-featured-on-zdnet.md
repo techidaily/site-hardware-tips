@@ -1,7 +1,7 @@
 ---
 title: Top Rated Ultraportable Notebook with Exceptional All-Day Battery Life Featured on ZDNet
-date: 2024-12-26T00:38:23.859Z
-updated: 2024-12-27T22:37:49.757Z
+date: 2025-01-03T01:25:13.361Z
+updated: 2025-01-05T23:53:15.464Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,19 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-professional-video-techniques-top-10-edits/"><u>[Updated] Professional Video Techniques Top 10 Edits</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-transform-ordinary-moments-into-extraordinary-art-creating-slow-motion-video-from-still-images-online-for-2024/"><u>[Updated] Transform Ordinary Moments Into Extraordinary Art Creating Slow Motion Video From Still Images Online for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>2024 Approved Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-msis-steam-deck-compete-effectively-in-the-portable-gaming-market-and-reach-victory-insights-from-zdnet/"><u>Can MSI's Steam Deck Compete Effectively in the Portable Gaming Market and Reach Victory? - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-between-arm-and-intel-in-the-surface-pro-a-complex-decision-explained-by-zdnet/"><u>Choosing Between ARM and Intel in the Surface Pro - A Complex Decision Explained by ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprendre-le-format-webm-guide-complet-pour-lire-et-gerer-les-fichiers/"><u>Comprendre Le Format WebM: Guide Complet Pour Lire Et Gérer Les Fichiers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-captivating-photo-based-video-content-using-pixizs-features/"><u>Crafting Captivating Photo-Based Video Content Using Pixiz's Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosis-and-fix-experiencing-sound-on-speakers-even-with-plugged-in-headphones/"><u>Diagnosis & Fix: Experiencing Sound on Speakers Even with Plugged-In Headphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hewlett-packard-launches-revolutionary-portable-all-in-one-pc-surprising-revelations-from-hp-tech-news-by-zdnet/"><u>Hewlett-Packard Launches Revolutionary Portable All-In-One PC: Surprising Revelations From HP | Tech News by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-stratasys-latest-carbon-fiber-development-could-revolutionize-industry-usage-insights-from-zdnet/"><u>How Stratasys' Latest Carbon Fiber Development Could Revolutionize Industry Usage - Insights From ZDNet</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-u23-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on U23</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-secure-a-library-of-premium-free-graphic-designs/"><u>How to Secure a Library of Premium, Free Graphic Designs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi 13T Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/nvidia-partnership-propels-apple-forward-a-new-era-in-tech-emerges/"><u>Nvidia Partnership Propels Apple Forward: A New Era in Tech Emerges</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-the-hp-victus-15l-gamer-pc-limited-time-offer-for-just-480/"><u>Score Big Savings on the HP Victus 15L Gamer PC - Limited Time Offer for Just $480!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-ultimate-gaming-rig-at-a-discounted-price-enjoy-250-off-before-memorial-day-recommended-by-zdnet/"><u>Secure Your Ultimate Gaming Rig at a Discounted Price! Enjoy $250 Off Before Memorial Day, Recommended by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premium-desktop-mats-reviewed-the-ultimate-guide-inspired-by-zdnet/"><u>Top 5 Premium Desktop Mats Reviewed: The Ultimate Guide - Inspired by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-gaming-laptops-showdown-in-depth-comparison-of-razer-acer-msi-and-others-zdnet-review/"><u>Top-Ranked Gaming Laptops Showdown: In-Depth Comparison of Razer, Acer, MSI & Others - ZDNet Review</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/eling-youtubes-ranks-the-deciding-elements/"><u>Unraveling YouTube's Ranks The Deciding Elements</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-copypaste-dilemma-sudden-vid-deletion-for-2024/"><u>[New] Copypaste Dilemma Sudden Vid Deletion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-traversing-youtube-dialogue-pathways/"><u>[Updated] Traversing YouTube Dialogue Pathways</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-review-on-asus-bw-16d1x-u-blu-ray-burner-attractive-design-with-distinct-traits/"><u>A Review on Asus BW-16D1X-U Blu-Ray Burner: Attractive Design with Distinct Traits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/avoiding-common-nocturnal-photography-errors/"><u>Avoiding Common Nocturnal Photography Errors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-permanently-remove-private-files-on-a-windows-machine-safely-and-free-of-charge-expert-advice/"><u>How To Permanently Remove Private Files on a Windows Machine Safely and Free of Charge – Expert Advice</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-s23-fe-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy S23 FE Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reprogramming-your-macs-command-key-a-step-by-step-guide/"><u>Reprogramming Your Mac's Command Key: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/smartwatch-innovation-fbs-possible-double-camera-design/"><u>Smartwatch Innovation: FB's Possible Double-Camera Design</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rt-of-perfect-thumbnails-sizing-and-proportions-mastered/"><u>The Art of Perfect Thumbnails Sizing & Proportions Mastered</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-ai-chromium-addons-to-supercharge-your-daily-tasks-and-enhance-efficiency/"><u>Top 8 AI Chromium Addons to Supercharge Your Daily Tasks and Enhance Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-discounts-on-laptops-during-amazons-october-2024-prime-day-blowout-insights-by-zdnet/"><u>Top-Rated Discounts on Laptops During Amazon's October 2024 Prime Day Blowout - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-macbook-peripherals-comprehensive-reviews-by-tech-specialists/"><u>Top-Rated MacBook Peripherals : Comprehensive Reviews by Tech Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-cyber-monday-bargains-top-laptops-below-500-and-a-special-offer-at-only-99/"><u>Unbeatable Cyber Monday Bargains: Top Laptops Below $500 & a Special Offer at Only $99</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-samsungs-latest-offer-the-ultimate-guide-to-copilotplus-top-windows-laptop-bargain/"><u>Unveiling Samsung's Latest Offer: The Ultimate Guide to Copilot+ - Top Windows Laptop Bargain</u></a></li>
 </ul></div>
 

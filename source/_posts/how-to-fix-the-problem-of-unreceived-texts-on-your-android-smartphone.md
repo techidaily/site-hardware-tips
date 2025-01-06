@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Problem of Unreceived Texts on Your Android Smartphone?
-date: 2024-09-05T21:29:59.383Z
-updated: 2024-09-06T21:29:59.383Z
+date: 2025-01-01T22:38:34.821Z
+updated: 2025-01-06T02:43:34.330Z
 tags:
   - android
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/android-phone-rcs-chat.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix the Problem of Unreceived Texts on Your Android Smartphone?
 
 ### Quick Links
@@ -32,12 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Update Your Messaging App](https://techidaily.com/remove-google-frp-lock-on-spark-10c-by-drfone-android-unlock-remove-google-frp/)
 * [How to Fix RCS (Google Chat) Problems](https://www.howtogeek.com/fix-android-not-receiving-text-messages/#how-to-fix-rcs-google-chat-problems)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * If you're not receiving text messages on your Android phone, first check the spam folder of your messaging app. This will help rule out the possibility that the message was actually received but got filtered into the spam folder.
@@ -57,19 +39,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Spam and Blocked option in the Google Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/spam-and-blocked-option-in-the-google-messages-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're not receiving messages from specific contacts, there's a chance that you might have accidentally blocked those contacts on your phone. You'll need to [unblock the contacts](https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-asus-rog-phone-8-pro-fixed-drfone-by-drfone-virtual-android/) first to start receiving their messages again.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Clear the Messages App Cache and Data
 
  To clear the Messages app cache and data, open the Settings app, choose "Apps & Notifications" (or "Apps" on some devices), select your messaging app, choose the "Storage & Cache" option, and then tap on the "Clear Cache" button. Tap on the "Clear Storage" button to delete the app data.
@@ -77,6 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  This works because the issue might be due to corruption in your messaging app data. This corruption usually occurs due to interference from a similar app installed on your mobile or a sudden shutdown. To do this, open the Settings app on your Android phone and tap the "Apps & Notifications" (or "Apps") option.
 
 ![Apps & Notification option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apps-notification-option-in-the-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Locate and choose your messaging app.
 
@@ -86,26 +64,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Storage & Cache option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/storage-cache-option-in-the-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap the "Clear Cache" button.
 
 ![Clear Cache option in the Storage window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/clear-cache-option-in-the-storage-window.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After [clearing the cache](https://on-screen-recording.techidaily.com/updated-2024-approved-apeak-recorder-reviewed-speed-quality-and-ease-of-use-scored/), ask the sender to resend the message. If you still don't receive it, tap the "Clear Storage" button. This will reset all customized settings to their defaults, so when you reopen the app, you'll need to set everything up again, just like you did when you first accessed it.
 
 ![Clear Storage option in the Storage window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/clear-storage-option-in-the-storage-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Eliminate Connectivity Issue
 
  You won't receive messages if your Android phone doesn't have a network signal. To check for this, look for the network signal bars in the status bar. You need at least three bars for uninterrupted calls and messages.
@@ -113,11 +87,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Network Bar in the Status Bar of Android Phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/network-bar-in-the-status-bar-of-android-phone-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you find that the signal is weak, try toggling [Airplane Mode](https://audio-shaping.techidaily.com/updated-in-2024-cutting-edge-audio-tools-for-iphone-and-ipad-enthusiasts/). For this, swipe down from the top of your screen, tap the airplane icon, wait a few seconds, and then tap it again to disable the Airplane Mode.
 
 ![Airplan mode icon in the Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/airplan-mode-icon-in-the-control-center.jpg) 
@@ -126,12 +98,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  It's also important to check your data plan or text message credit balance. If your plan runs out or you don't have credit for sending and receiving messages, you won't be able to receive texts on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  4\. Disable iMessage For Your Number
 
  To turn off [iMessage](https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-pro-max-by-drfone-ios/) for your phone number, open the Settings app on your iPhone, tap "Messages," go to "Send & Receive," and then uncheck your number. This is sometimes a problem if you recently switched from an iPhone to an Android. If you don't turn off iMessage for your number on your iPhone, your messages may still go to your iPhone instead of your Android phone.
@@ -141,17 +107,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Messages option in the Settings app of iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/messages-option-in-the-settings-app-of-iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Choose "Send & Receive."
 
 ![Send & Receive option in the Messages app settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/send-receive-option-in-the-messages-app-settings.jpg) 
@@ -162,6 +120,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  With iMessage disabled for your number, you'll then start receiving messages on your Android device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. Update Your Messaging App
 
  To update your messaging app, open the [Google Play Store](https://win-answers.techidaily.com/enhancements-made-in-the-latest-fix-for-football-manager-2020-reliable-performance-guaranteed/), search for your messaging app, and tap the "Update" button next to the app name. Another reason you might not receive messages on your Android phone could be a major bug in the messaging app.
@@ -170,24 +132,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Typing Google Message in the Play Store search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/typing-google-message-in-the-play-store-search-bar.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If an update is available for the messaging app, you'll see an "Update" button next to its name. Tap on it to begin the update process.
 
 ![Google Messages app in the Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/google-messages-app-in-the-play-store.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After [updating the app](https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-meizu-21-pro-drfone-by-drfone-virtual-android/), restart your device and check if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Fix RCS (Google Chat) Problems
 
  Rich Communication Service, also known as [RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/), offers more advanced features than your standard messaging service. Just like with iMessage or WhatsApp, you get features like transferring high-resolution media files, typing indicators, read receipts, and more.
@@ -198,12 +152,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Settings option in the Google Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/settings-option-in-the-google-messages-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "RCS Chats."
 
 ![RCS Chats option in the Google Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/rcs-chats-option-in-the-google-messages-app.jpg) 
@@ -224,8 +172,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +179,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-non-fbx-innovations-leading-the-way-in-gameplay-tracking/"><u>[New] Non-FBX Innovations Leading the Way in Gameplay Tracking</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tips-for-making-facebook-ad-videos-memorable-for-2024/"><u>[New] Tips for Making Facebook Ad Videos Memorable for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-strategies-for-using-youtube-to-boost-classroom-engagement/"><u>[Updated] Strategies for Using YouTube to Boost Classroom Engagement</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-sustained-disconnection-technique-from-youtube-shorts/"><u>2024 Approved Sustained Disconnection Technique From YouTube Shorts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-8-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 8 Plus? Complete Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-gionee-f3-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Gionee F3 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-glowing-complexions-without-plugins-fcpx-video-editing-tips-for-2024/"><u>New Glowing Complexions without Plugins FCPX Video Editing Tips for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-the-best-zendure-superbase-pro-n-2000-workbench-insights-and-tips-from-zdnets-in-depth-testing/"><u>The Ultimate Guide to Choosing the Best Zendure SuperBase Pro N 2000 Workbench: Insights & Tips From ZDNet's In-Depth Testing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-the-ultimate-list-by-techradar/"><u>Top 5 Eco-Friendly Smartphones : The Ultimate List by TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-compact-sun-powered-battery-boosters-expert-reviews-and-picks/"><u>Top-Rated Compact Sun-Powered Battery Boosters : Expert Reviews and Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-technology-for-a-greener-future-top-5-tips-from-zdnets-expert-analysis/"><u>Transforming Technology for a Greener Future: Top 5 Tips From ZDNet's Expert Analysis</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-xiaomi-redmi-a2plus-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-buyers-guide-to-the-finest-portable-solar-chargers-on-the-market-2023-edition/"><u>Ultimate Buyer's Guide to the Finest Portable Solar Chargers on the Market - 2023 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-made-easy-creative-ways-to-repurpose-or-recycle-your-previous-mobile-device/"><u>Upgrade Made Easy: Creative Ways to Repurpose or Recycle Your Previous Mobile Device</u></a></li>
+</ul></div>
 

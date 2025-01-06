@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: In-Depth Computer Component Analysis"
-date: 2024-08-23T13:02:37.322Z
-updated: 2024-08-24T13:02:37.322Z
+date: 2024-12-31T03:30:24.435Z
+updated: 2025-01-05T17:42:09.530Z
 tags:
   - best-picks
 categories:
@@ -30,6 +30,10 @@ For a college student, there is no more important tool than a laptop. It's a cat
 * **Weight and battery life matter:** After all, you'll be carrying this laptop around all day in a backpack as you move from class to class. Lightweight and long battery life can both save your back and leave more room for books.
 * **Consider how you take notes:** A good keyboard is always important, especially when you're writing papers. But some students still prefer to take notes by hand, and those people will want to consider a convertible or detachable 2-in-1 with a stylus.
 * **See if you can get a student discount:** Some stores will offer you a discount with your proof of affiliation with a university or college. It's also possible that your school will have a relationship with a vendor for deals on certain models. Others may just throw in a gift card or some free earbuds. If you can find a deal, great; school is expensive enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best College Laptops You Can Buy Today
 
@@ -121,9 +125,6 @@ Display notch will bother some people
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [2. MacBook Air (15-inch)](https://www.tomshardware.com/reviews/macbook-air-15-inch-m2)
 
 Bigger screen, better speakers
@@ -188,24 +189,12 @@ M2 allows for just one external display
 
 ![HP Pavilion Plus (14-eh0097nr)](https://cdn.mos.cms.futurecdn.net/CLE6RyXdXug55sCbreZT4D-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  The HP Pavilion Plus 14 is one of the best college laptops thanks to top tier screen specs at a good price.  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [3. HP Pavilion Plus 14](https://www.tomshardware.com/reviews/hp-pavilion-plus-14)
 
 A Great Screen at a Great Price
@@ -267,9 +256,14 @@ Lots of pre-loaded software
 ![Lenovo Yoga 9i Gen 8](https://cdn.mos.cms.futurecdn.net/crqHCD8yzziQKcv75mx5X4-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Lenovo Yoga 9i is one of the best college laptops with great sound and a variety of ports.  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [4. Lenovo Yoga 9i (Gen 8)](https://www.tomshardware.com/reviews/lenovo-yoga-9i-gen-8)
 
@@ -343,10 +337,11 @@ Loud fans
 
 ![Microsoft Surface Pro 9 (SQ3)](https://cdn.mos.cms.futurecdn.net/EidfnU4aQkBJYZNrtyDiu3-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [5. Microsoft Surface Pro 9](https://www.tomshardware.com/reviews/microsoft-surface-pro-9-sq3-arm)
 
@@ -414,10 +409,11 @@ Keyboard adds a lot to the starting price
 
 ![Acer Nitro 5 (2022)](https://cdn.mos.cms.futurecdn.net/JkffBxR9pgpZeYTCtnEgFG-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [6. Acer Nitro 5](https://www.tomshardware.com/reviews/acer-nitro-5-2022-review-gaming-under-dollar1000)
 
@@ -479,19 +475,12 @@ Display is a little washed out
 
 ![Dell XPS 15 (9530)](https://cdn.mos.cms.futurecdn.net/Nt9bmtMdiJmRptQwyM5uqV-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [7. Dell XPS 15 (9530)](https://www.tomshardware.com/reviews/dell-xps-15-9530)
 
 For Sciences, Coding and Video
@@ -551,6 +540,10 @@ Port selection could be better
 ![Asus ROG Zephyrus G14](https://cdn.mos.cms.futurecdn.net/uygXtWBTEyYRsMrbDLLHcH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [8. Asus ROG Zephyrus G14](https://www.tomshardware.com/reviews/asus-rog-zephyrus-g14-amd-ryzen-6900hs-radeon-rx-6800s)
 
@@ -632,9 +625,6 @@ Round up of today's best deals
 
 [![Apple - MacBook Air 13.6"...](https://images.fie.futurecdn.net/hh3xtiyvqrmx3xkj-16681794209212.jpg "Apple - MacBook Air 13.6"...")](https://images.fie.futurecdn.net/hh3xtiyvqrmx3xkj-16681794209212.jpg "Apple - MacBook Air 13.6"...") ](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Apple MacBook Air M2 2022](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)
 
 [Best Buy](https://images.fie.futurecdn.net/logos/merchants/ns2bwjiwdvqv2pfx-16049184768113-100-80.png "Best Buy") ](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)
@@ -739,8 +729,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -748,4 +736,16 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-navigating-youtube-partnerships-successfully/"><u>[New] 2024 Approved Navigating YouTube Partnerships Successfully</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-capture-the-moment-in-squares-mastering-imovie-for-instagram-video/"><u>[Updated] Capture the Moment in Squares Mastering iMovie for Instagram Video</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-integrated-sound-system-guidebook/"><u>[Updated] Integrated Sound System Guidebook</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-c32-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia C32 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-worlds-slimmest-ipads-at-the-apple-store-can-008-inch-beam-thin-enough-for-you/"><u>Exploring the World's Slimmest iPads at the Apple Store - Can 0.08-Inch Beam Thin Enough for You?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-the-future-of-android-a-step-by-step-guide-to-downloading-and-installing-android-13-beta-1-plus-tips-on-when-to-upgrade/"><u>Get Ready for the Future of Android: A Step-by-Step Guide to Downloading & Installing Android 13 Beta 1 - Plus, Tips on When to Upgrade!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-grab-the-new-amazon-fire-hd-8-plus-tablet-at-over-50-off-shop-today/"><u>Huge Savings Alert! Grab the New Amazon Fire HD 8 Plus Tablet at Over 50% Off - Shop Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-amazons-fire-max-11-the-ultimate-fire-tablet-assessment-by-techexpert/"><u>In-Depth Analysis of Amazon's Fire Max 11 - The Ultimate Fire Tablet Assessment by TechExpert</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/virtual-horizons-top-picks-for-vr-enthusiasts-for-2024/"><u>Virtual Horizons Top Picks for VR Enthusiasts for 2024</u></a></li>
+</ul></div>
 

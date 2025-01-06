@@ -1,7 +1,7 @@
 ---
 title: Asetek Redefines Cooling Efficiency with Their Latest Artificial Intelligence ECAM Plate - Engineered Using Precision Metal 3D Printing Techniques in Alliance with Fabric8Labs
-date: 2024-08-23T13:01:37.237Z
-updated: 2024-08-24T13:01:37.237Z
+date: 2025-01-01T09:53:27.679Z
+updated: 2025-01-05T23:36:03.887Z
 tags:
   - cooling
 categories:
@@ -37,6 +37,10 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  Finally, the AI-designed LN2 container proved 20% more efficient than the ElmorLabs design. Using 500mL of liquid nitrogen, the Volcano cooled down to just -100º Celsius, while the AI-designed prototype went down to -133º Celsius.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,14 +61,11 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  With the initial testing out of the way, SkatterBencher and its partners may look into performance and cost optimizations and perhaps change the intended use to be for even higher-power CPUs, like the AMD Ryzen Threadripper. The team would also like to commercialize the design but likely has a fair bit of work ahead of it to make it commercially viable.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,8 +74,22 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/discover-t-mobiles-new-uncarrier-on-suitcase-deal-for-just-325-find-out-how-to-buy-zdnet-reviews/"><u>Discover T-Mobile’s New ‘Uncarrier On Suitcase’ Deal for Just $325 - Find Out How to Buy! | ZDNet Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-score-a-sweet-deal-on-the-advanced-contixo-f24-pro-gps-drone-for-only-45-less-this-black-friday/"><u>Don't Miss Out! Score a Sweet Deal on the Advanced Contixo F24 Pro GPS Drone for Only $45 Less This Black Friday!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-journeys-in-depth-analysis-of-the-versatile-and-comfortable-velotric-nomad-1-ebike-as-reviewed-by-zdnet/"><u>Effortless Journeys: In-Depth Analysis of the Versatile and Comfortable Velotric Nomad 1 eBike, as Reviewed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/electric-bike-conquers-the-terrain-delivering-unforgettable-smiles-discover-how-on-zdnet/"><u>Electric Bike Conquers the Terrain, Delivering Unforgettable Smiles: Discover How on ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-personal-care-using-chatgpt-discover-the-9-key-practices/"><u>Elevate Personal Care Using ChatGPT: Discover the 9 Key Practices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ce-youtubes-conversations-with-emojis/"><u>Enhance Youtubes' Conversations with Emojis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/entertainment-on-wheels-how-nvidias-geforce-now-is-set-to-transform-your-car-ride-experience-zdnet/"><u>Entertainment on Wheels: How Nvidia's GeForce Now Is Set to Transform Your Car Ride Experience | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-aesthetics-and-performance-of-urtopias-electric-bike-masterpiece-the-carbon-e-bike-reviewed-on-zdnet/"><u>Experience the Aesthetics and Performance of Urtopia's Electric Bike Masterpiece - The Carbon E-Bike Reviewed on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-selection-of-best-southwest-credit-cards-for-flyers-forbes/"><u>Explore the Ultimate Selection of Best Southwest Credit Cards for Flyers | Forbes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-amd-graphics-drivers-on-windows-10-11-and-7/"><u>How to Install the Latest AMD Graphics Drivers on Windows 10, 11 & 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/recuperation-de-fichiers-mp4-sur-un-pc-3-methodes-pour-windows-11-10-8-and-7/"><u>Recuperation De Fichiers MP4 Sur Un PC : 3 Méthodes Pour Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snap-to-perfection-editing-strategies-that-work-wonders-for-2024/"><u>Snap to Perfection Editing Strategies That Work Wonders for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-oled-a-comprehensive-guide-to-its-functionality/"><u>Understanding OLED: A Comprehensive Guide to Its Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-not-found-heres-how-you-can-resolve-it/"><u>VCRUNTIME140.dll Not Found? Here's How You Can Resolve It!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->

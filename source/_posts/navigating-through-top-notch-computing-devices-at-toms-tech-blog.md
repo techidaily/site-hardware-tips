@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Top-Notch Computing Devices at Tom's Tech Blog
-date: 2024-08-23T12:58:34.997Z
-updated: 2024-08-24T12:58:34.997Z
+date: 2025-01-05T02:11:59.870Z
+updated: 2025-01-06T09:06:18.618Z
 tags:
   - cooling
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/U8NCj2FwUAYLZ3vnNBLKsk-320-80.jpg
 The AIO liquid cooler market has become much more competitive in the past year or so, resulting in stronger products available for lower prices than ever. Over the past year, top-performing AIOs have been available for as low as $120 USD. Today we’ll be covering ID-Cooling’s latest 360mm AIO, the FX360 Pro, which is available for only $60 – a price lower than many high-end air coolers.
 
  With such a budget price tag, I have to wonder if it’s actually strong enough to tame a hot CPU like Intel’s i7-13700K. Does the FX 360 Pro have what it takes to earn a spot on our[best AIO coolers](https://www.tomshardware.com/best-picks/best-aio-coolers) list? We’ll have to put it through testing to find out. But first, here are the specifications from ID-Cooling.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cooler specifications
 
@@ -66,9 +70,6 @@ Included in the box are the following:
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -81,9 +82,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -106,6 +104,10 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -115,8 +117,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶[**TF-12025-Pro 120mm fans**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FID-COOLING-120mm-Cooler-Radiator-Chassis%2Fdp%2FB0BV8ZRJMW%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1257997566399542543-20)
@@ -126,8 +129,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -149,8 +153,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ## LGA1700 Socket Bending
@@ -218,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,4 +236,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-achieve-aesthetic-11-best-instagram-enhancers/"><u>[New] In 2024, Achieve Aesthetic 11 Best Instagram Enhancers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-incorporating-background-scenes-for-visual-depth/"><u>[New] Incorporating Background Scenes for Visual Depth</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nlock-youtubes-potential-essential-tips-and-techniques-for-optimal-titles/"><u>[New] Unlock YouTube's Potential Essential Tips & Techniques for Optimal Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-frame-by-frame-top-picks-for-home-studios/"><u>[Updated] Frame by Frame Top Picks for Home Studios</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-players-guide-best-of-terraria-mods/"><u>[Updated] In 2024, Ultimate Player's Guide Best of Terraria Mods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-windows-10-ultimate-screen-capture-tool/"><u>[Updated] In 2024, Windows 10 Ultimate Screen Capture Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-updates-obsolete-list-with-new-mac-models-implications-explained-by-zdnet/"><u>Apple Updates Obsolete List with New Mac Models - Implications Explained by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-meta-quest-3-offers-top-virtual-reality-bargains-of-october-compare-with-prime-day-specials/"><u>Best Value Meta Quest 3 Offers: Top Virtual Reality Bargains of October - Compare with Prime Day Specials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-notebook-rekindles-forgotten-buzzword-in-technology-sector-an-exclusive/"><u>Budget-Friendly Notebook Rekindles Forgotten Buzzword in Technology Sector - An Exclusive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-exclusive-savings-secure-a-high-quality-156-hp-touchscreen-notebook-for-just-230-deals-curated-by-zdnet/"><u>Discover Exclusive Savings: Secure a High-Quality 15.6 HP Touchscreen Notebook for Just $230 - Deals Curated by ZDNet!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725616783200-enhance-your-livestreams-with-manycam-the-ultimate-virtual-webcam-solution/"><u>Enhance Your Livestreams with ManyCam - The Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-testing-and-reviews-of-premium-touch-screen-laptop-picks-by-professionals-zdnet/"><u>Exclusive Testing & Reviews of Premium Touch Screen Laptop Picks by Professionals | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funny-carousel-image-builder/"><u>In 2024, Funny Carousel Image Builder</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/maximizing-performance-a-comprehensive-alienware-enhancement-manual/"><u>Maximizing Performance: A Comprehensive Alienware Enhancement Manual</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsofts-latest-contender-how-the-surface-laptop-with-copilot-plus-outperforms-macbook-air-across-three-key-aspects-a-deep-dive-on-zdnet/"><u>Microsoft's Latest Contender: How the Surface Laptop with Copilot + Outperforms MacBook Air Across Three Key Aspects - A Deep Dive on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/swipe-a-substantial-deal-for-tech-gear-samsung-t5-8tb-drops-to-109-after-a-whopping-36-markdown-at-amazon-according-to-zdnet/"><u>Swipe a Substantial Deal for Tech Gear: Samsung T5 8TB Drops to $109 After a Whopping 36% Markdown at Amazon, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-of-the-bizarre-entertaining-and-premium-priced-thinkpad-x1-fold/"><u>The Ultimate Review of the Bizarre, Entertaining & Premium-Priced ThinkPad X1 Fold</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-budget-friendly-windows-laptop-brands-comparing-acer-dell-and-others-guide/"><u>Top Budget-Friendly Windows Laptop Brands: Comparing Acer, Dell & Others Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-magic-6-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor Magic 6? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

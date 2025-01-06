@@ -1,7 +1,7 @@
 ---
 title: Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.
-date: 2024-12-22T20:54:13.636Z
-updated: 2024-12-27T17:37:54.409Z
+date: 2025-01-02T19:09:01.205Z
+updated: 2025-01-06T00:24:17.603Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,24 +128,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-create-visual-narratives-install-microsofts-movie-maker-on-w11/"><u>[New] Create Visual Narratives Install Microsoft's Movie Maker on W11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-gimbal-mastery-7-drone-pros-recommended-for-2024/"><u>[New] Gimbal Mastery 7 Drone Pros Recommended for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fix-frozen-mobile-youtube-videos-on-multiple-devices/"><u>[New] In 2024, Fix Frozen Mobile YouTube Videos on Multiple Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/egality-check-taking-screencasts-of-youtube-videos-for-2024/"><u>[New] Legality Check Taking Screencasts of YouTube Videos for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-streamline-your-digital-footprint-the-ultimate-screen-recording-manual/"><u>[New] Streamline Your Digital Footprint The Ultimate Screen Recording Manual</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-write-access-denial-errors-in-windows-11-system/"><u>Addressing Write Access Denial Errors in Windows 11 System</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-free-powerhouse-utility-thats-absolutely-essential-for-every-mac-owner-not-shipped-but-available-now/"><u>Discover the Hidden Gem: Free Powerhouse Utility That's Absolutely Essential for Every Mac Owner, Not Shipped but Available Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-comfortable-and-efficient-ergonomic-mice-for-office-use-in-202-instruction-1-same-difficultyformatlength-solution/"><u>Discover the Most Comfortable & Efficient Ergonomic Mice for Office Use in 202# Instruction 1 (Same Difficulty/Format/Length) Solution:</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-best-buy-savings-for-june-2e-insider-tips-by-zdnet/"><u>Discover the Ultimate Best Buy Savings for June 2E - Insider Tips by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-the-neato-d10-robotic-vacuum-a-comprehensive-zdnet-review/"><u>Expert Analysis: The Neato D10 Robotic Vacuum - A Comprehensive ZDNet Review</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fallout-76-server-connection-problems-fixes-and-solutions-for-pc-users/"><u>Fallout 76 Server Connection Problems: Fixes and Solutions for PC Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722056013565-gpt-4-open-for-everyone-plus-still-boasts-6-exclusive-features/"><u>GPT-4: Open for Everyone! Plus Still Boasts 6 Exclusive Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-tiles-new-scan-and-secure-function-your-solution-against-stalking-insights-from-zdnet/"><u>Introducing Tile's New 'Scan & Secure' Function: Your Solution Against Stalking - Insights From ZDNet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/photographic-fusion-at-full-speeds-google-collage-techniques-for-2024/"><u>Photographic Fusion at Full Speeds Google Collage Techniques for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-24-unbeatable-christmas-purchase-opportunities-on-sites-like-best-buy-amazon-and-newegg-featured-by-zdnet/"><u>Top 24 Unbeatable Christmas Purchase Opportunities on Sites Like Best Buy, Amazon & Newegg Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-keyboards-thoroughly-tested-by-tech-experts-insights-from-zdnet/"><u>Top-Rated Keyboards - Thoroughly Tested by Tech Experts! Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-mechanical-keyboards-a-comprehensive-list-and-review/"><u>Top-Rated Mechanical Keyboards : A Comprehensive List & Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-top-external-optical-drives-your-buying-checklist/"><u>Ultimate Guide to the Top External Optical Drives – Your Buying Checklist!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-creatives-might-choose-the-apple-studio-display-an-in-depth-analysis-for-potential-buyers-zdnet-guides/"><u>Why Creatives Might Choose the Apple Studio Display: An In-Depth Analysis for Potential Buyers | ZDNet Guides</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-3d-text-techniques-in-ai/"><u>[New] Advanced 3D Text Techniques in AI</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-ultimate-vr-clarity-achieved-for-2024/"><u>[New] Ultimate VR Clarity Achieved for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersion-in-hue-and-light-dreamcolors-z32-x-explored/"><u>[Updated] Immersion in Hue and Light DreamColor's Z32 X Explored</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-az-capture-in-depth-app-analysis-and-reviews/"><u>[Updated] In 2024, AZ Capture In-Depth App Analysis & Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-performance-in-plain-sight-a-guide-to-windows-11s-in-place-upgrade/"><u>Boosting Performance in Plain Sight: A Guide to Windows 11'S In-Place Upgrade</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprehensive-aomei-disk-management-software-instructions/"><u>Comprehensive AOMEI Disk Management Software Instructions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guaranteed-steps-to-protectly-delete-your-private-data-from-a-windows-pc-cost-free-methods-covered/"><u>Guaranteed Steps to Protectly Delete Your Private Data From a Windows PC: Cost-Free Methods Covered!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-magic-5-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor Magic 5 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-itel-p40-by-fonelab-android-recover-data/"><u>How to recover lost data from Itel P40?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-innovative-2-in-1-device-seamlessly-switching-between-windows-and-android/"><u>Introducing Lenovo's Innovative 2-in-1 Device: Seamlessly Switching Between Windows and Android</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-most-innovative-2-in-1-device-a-hidden-gem-for-workplace-productivity/"><u>The Most Innovative 2-in-1 Device : A Hidden Gem for Workplace Productivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-notch-display-meets-unbeatable-price-in-this-ultraportable-laptop/"><u>Top-Notch Display Meets Unbeatable Price in This Ultraportable Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-ultimate-guide-to-windows-laptops-in-depth-tests-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Ultimate Guide to Windows Laptops - In-Depth Tests & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-rated-free-web-based-animation-tools-a-comprehensive-guide/"><u>Top-Rated Free Web-Based Animation Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-ultimate-list-of-prime-day-2-cuyamanga-2024-gaming-discounts-still-on-sale/"><u>Unlock the Ultimate List of Prime Day 2 Cuyamanga 2024 Gaming Discounts Still On Sale</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-portability-and-performance-the-mini-chromebook-that-excels-in-flexibility-insights/"><u>Unlocking Portability and Performance: The Mini Chromebook That Excels in Flexibility - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-breakdown-macbook-air-vs-macbook-pro-to-find-your-ideal-apple-laptop/"><u>ZDNet's Ultimate Breakdown: MacBook Air Vs. MacBook Pro to Find Your Ideal Apple Laptop</u></a></li>
 </ul></div>
 

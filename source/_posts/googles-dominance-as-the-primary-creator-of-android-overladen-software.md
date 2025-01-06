@@ -1,7 +1,7 @@
 ---
 title: Google's Dominance as the Primary Creator of Android Overladen Software
-date: 2024-09-01T08:28:43.613Z
-updated: 2024-09-02T08:28:43.613Z
+date: 2024-12-31T10:43:34.290Z
+updated: 2025-01-05T23:56:58.173Z
 tags:
   - android
 categories:
@@ -19,12 +19,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Some Preinstalled Apps Are Better Than Google's](https://win-blog.techidaily.com/error-0xc19001e1-in-windows-10-a-complete-walkthrough-to-restore-system-health/)
 * [Google Apps Make Android Phones All Feel the Same](https://fox-friendly.techidaily.com/decreasing-audio-intensity-protocol/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Google controls the most popular store for distributing Android apps and requires Android phone makers to ship a suite of Google software in order to have access.
 * Some OEM apps are better than Google's, but fewer phone companies are going through the effort of making their own software.
 
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google and Android Are Not One and the Same
 
@@ -34,16 +42,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  After Android Became Popular, Google Wanted More Control
 
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  While Android is free, Google has control over the primary way developers distribute their apps to Android users. In order for a company to ship the Play Store on their device, they must agree to include a bundle of Google apps and background services. The company has also been willing to pay big bucks to limit the creation of alternative Android app stores. In 2023, Google lost a case against Epic for monopolistic practices centered around the Play Store, as reported by the [BBC](https://www.bbc.com/news/business-67688720).
@@ -54,14 +60,14 @@ Jerome Thomas / How-To Geek
 
 ![Galaxy Z Flip 6 next to the Fold 6 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/flip-6-next-to-fold-6-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ##  I Don't Want to Give All of My Data to Google
 
  I made efforts to de-Google my life years ago, deleting my Google account entirely. I re-created one years later when an organization I'm involved with wanted to use Google Calendar to manage our schedule. I started to use this same account to log into Google Play for apps, but that's about it.
@@ -72,9 +78,6 @@ Justin Duino / How-To Geek
 
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Some Preinstalled Apps Are Better Than Google's
 
  Even if I liked the Google ecosystem and actively took part in it, I would still be sad to see Android phone makers give up on making their own software. Some companies [do a better job at creating certain apps than Google does](https://extra-hints.techidaily.com/new-an-examination-of-photoshops-anti-shake-capabilities/).
@@ -90,8 +93,9 @@ Close
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Google Apps Make Android Phones All Feel the Same
 
  As Google's control over software has grown, there is increasingly less difference between one Android device and the next. You walk through similar set-up screens, are presented with the same data collection options, and see your app drawer pre-populated with largely the same software.
@@ -102,9 +106,6 @@ Close
 
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
 
 ---
@@ -119,8 +120,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +127,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-youtube-shorts-a-beginners-guide/"><u>[New] In 2024, YouTube Shorts A Beginner's Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-10-expert-suggestions-to-make-your-yt-shorts-stand-out/"><u>[Updated] 2024 Approved 10 Expert Suggestions to Make Your YT Shorts Stand Out</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-insights-how-to-communicate-effectively-with-viewers/"><u>[Updated] Unlocking Insights How to Communicate Effectively with Viewers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-smartwatch-picks-for-2n24-in-depth-analysis-and-ratings-zdnet/"><u>Budget-Friendly Smartwatch Picks for 2N24: In-Depth Analysis and Ratings | ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-on-xinput13dlls-functional-importance/"><u>Comprehensive Guide on XINPUT1_3.dll's Functional Importance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/five-step-guide-to-a-spotless-apple-watch-tips-and-tricks-from-zdnet/"><u>Five-Step Guide to a Spotless Apple Watch: Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmins-latest-upgrade-a-game-changer-that-surpasses-the-apple-watch-ultra-tech-insights-from-zdnet/"><u>Garmin's Latest Upgrade: A Game-Changer That Surpasses the Apple Watch Ultra | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/restaurar-archivos-desaparecidos-de-amazon-photos-en-tablets-telefonos-y-computadoras/"><u>Restaurar Archivos Desaparecidos De Amazon Photos en Tablets, Teléfonos Y Computadoras</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-snag-apples-latest-series-of-smartwatches-or-opt-for-a-discounted-samsung-galaxy-watch-6-find-out-how/"><u>Score Big Savings: Snag Apple's Latest Series of Smartwatches or Opt for a Discounted Samsung Galaxy Watch 6 - Find Out How!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-early-access-exclusive-guide-to-buying-apple-watch-series-10-with-top-savings-tips-techinsights/"><u>Secure Your Early Access: Exclusive Guide to Buying Apple Watch Series 10 with Top Savings Tips! | TechInsights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/security-updates-rolled-out-in-new-apple-ios-1ve-651-release-exclusive-details-on-zdnet/"><u>Security Updates Rolled Out in New Apple iOS 1Ve-6.5.1 Release | Exclusive Details on ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-exercise-routine-with-airpods-pros-innovative-heart-rate-sensor-the-ultimate-workout-partner-you-can-wear-on-the-go-gizmochatter/"><u>Transform Your Exercise Routine with AirPods Pro's Innovative Heart Rate Sensor - The Ultimate Workout Partner You Can Wear on the Go | GizmoChatter</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/twist-tactics-achieving-angles-that-stand-out-on-social-media/"><u>Twist Tactics Achieving Angles That Stand Out on Social Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unlock-digiarty-winxdvd-features-with-the-last-user-license-contract-get-started-today/"><u>Unlock Digiarty WinXDVD Features with the Last User License Contract – Get Started Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-huge-savings-save-up-to-1200-on-latest-samsung-galaxy-z-fold-and-z-flip-6-smartphones-ingenious-tips-revealed/"><u>Unlock Huge Savings: Save Up To $1,200 On Latest Samsung Galaxy Z Fold & Z Flip 6 Smartphones – Ingenious Tips Revealed</u></a></li>
+</ul></div>
 

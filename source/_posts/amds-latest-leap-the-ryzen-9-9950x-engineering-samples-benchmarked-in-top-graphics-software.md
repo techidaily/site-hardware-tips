@@ -1,7 +1,7 @@
 ---
 title: "AMD's Latest Leap: The Ryzen 9 9950X Engineering Samples Benchmarked in Top Graphics Software"
-date: 2024-08-23T13:00:55.741Z
-updated: 2024-08-24T13:00:55.741Z
+date: 2025-01-05T09:14:03.096Z
+updated: 2025-01-05T23:05:32.483Z
 tags:
   - cpu
 categories:
@@ -33,6 +33,10 @@ Dylan Browne, an Unreal Engine Supervisor and Feature Film VFX at the ModelFarm 
   
  Intel says its patch will address the instability issues in August. Regardless, it has a serious scandal on its hands that could put some extra wind in AMD’s sails right as it launches the Ryzen 9000 series at the end of July.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Dylan Browne, an Unreal Engine Supervisor and Feature Film VFX at the ModelFarm 
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,17 @@ Dylan Browne, an Unreal Engine Supervisor and Feature Film VFX at the ModelFarm 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-navigating-and-adapting-youtubes-evolving-policy-landscape/"><u>[New] 2024 Approved Navigating and Adapting YouTube's Evolving Policy Landscape</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlining-the-capture-process-in-competitive-rl-gaming/"><u>[New] 2024 Approved Streamlining the Capture Process in Competitive RL Gaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-bgms-and-gifs-stylish-google-meet-backdrops/"><u>[New] Best BGMs & GIFs Stylish Google Meet Backdrops</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-funny-picture-tinker/"><u>[New] Premier Funny Picture Tinker</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-supreme-selection-an-honour-roll-of-top-10-reddit-discussions/"><u>[Updated] In 2024, The Supreme Selection An Honour Roll of Top 10 Reddit Discussions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/comprehensive-breakdown-of-polarr-photo-editors-features/"><u>Comprehensive Breakdown of Polarr Photo Editor's Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-ai-revolutionized-picking-a-trustworthy-mechanic-a-first-hand-experience-with-chatgptplus/"><u>How AI Revolutionized Picking a Trustworthy Mechanic - A First-Hand Experience With ChatGPT+</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-bmws-innovative-wireless-charger-could-impact-future-iphones-a-look-at-potential-risks-for-the-iphone-model-of-2034/"><u>How BMW’s Innovative Wireless Charger Could Impact Future iPhones: A Look at Potential Risks for the iPhone Model of 2034</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-inflation-is-reshaping-the-future-of-supermarket-spending-insights-from-zdnet/"><u>How Inflation Is Reshaping the Future of Supermarket Spending: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-travel-plans-with-voice-activated-help-getting-directions-from-microsofts-cortana-apples-siri-or-your-own-digital-helper/"><u>Mastering Travel Plans with Voice-Activated Help: Getting Directions From Microsoft's Cortana, Apple's Siri, or Your Own Digital Helper</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->

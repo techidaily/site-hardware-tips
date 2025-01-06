@@ -1,7 +1,7 @@
 ---
 title: "Comparing Biometric Tech: How Do Ultrasonic Fingerprint Sensors Measure Up to Optical Ones?"
-date: 2024-09-05T21:29:46.432Z
-updated: 2024-09-06T21:29:46.432Z
+date: 2025-01-01T16:49:55.744Z
+updated: 2025-01-06T01:29:33.592Z
 tags:
   - android
 categories:
@@ -9,20 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a16a6dde32033f2c286a09f2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comparing Biometric Tech: How Do Ultrasonic Fingerprint Sensors Measure Up to Optical Ones?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * In-display fingerprint scanners vary, with ultrasonic scanners being more reliable and secure, working even with wet or dirty fingers.
@@ -32,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
  The fingerprint scanner hidden under your Android phone’s screen is a marvelous piece of engineering. Some of the first phones to feature in-display fingerprint scanners used visible light to scan your finger, but the technology has gotten better over the years. Here's what you need to know about it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Not All In-display Fingerprint Readers Are Made Equal
 
 ![Galaxy A51 in-screen fingerprint sensor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/28b922ec.jpg) 
@@ -54,11 +44,9 @@ Michael Crider / How-To Geek
  I’ll be comparing that with the optical in-display fingerprint reader (the original type). Hopefully, the comparison can help you when you’re picking your next phone.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Optical Fingerprint Scanner
 
 ![Oneplus 7 Optical Fingerprint Scanner](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/OnePlus-Ultrasonic.jpg) 
@@ -77,22 +65,18 @@ OnePlus
 
  It has since been patched, but [a researcher once spoofed optical fingerprint security](https://threatpost.com/lock-screen-bypass-bug-quietly-patched-in-handsets/139141/) on multiple phone models with nothing more than a reflective plastic sheet. Placing the reflective sheet on top of a leftover fingerprint on the display unlocked the phone. As far as bypassing biometric security goes, this hack is as low tech as it gets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Ultrasonic Fingerprint Scanner
 
 ![Under display fingerprint scanner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Under-Display-Fingerprint-Scanner.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [TPROduction / Shutterstock.com](https://www.shutterstock.com/image-photo/unlocking-phone-finger-on-digital-fingerprint-1527126299)
 
  Standard capacitive fingerprint scanners don't have as many moving parts as an optical scanner system. They map the ridges on your fingertip by sensing electrical changes in it. Capturing and reading electrical changes is faster, more accurate, and more reliable. There’s depth sensing involved, which is why it’s more secure.
@@ -105,12 +89,6 @@ OnePlus
 
  Plus, they’re more secure because it's harder to fool a 3D model than a 2D image. Ultrasonic scanners aren’t unbreakable though. Instead of a 2D printout, an attacker could clone a detailed model of the fingerprint using a 3D printer. Someone created a 3D print of their own fingerprint lifted off a wine glass (I say "lifted" but they just took a picture of it with a phone) and successfully [unlocked a flagship Samsung Galaxy phone with the false fingerprint](https://imgur.com/gallery/i-attempted-to-fool-new-samsung-galaxy-s10s-ultrasonic-fingerprint-scanner-by-using-3d-printing-i-succeeded-8aGqsSu).
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Who is the Winner?
 
  The sophisticated ultrasonic fingerprint sensor might seem like the obvious winner. And it has the optical fingerprint scanner beat in many ways, but it gets a bit more complicated when you throw cost into the mix. The reason ultrasonic fingerprint readers haven’t replaced optical ones is because they’re expensive and hard to manufacture. That’s why we only see them on premium flagship devices. It’ll probably stay that way, at least for some time.
@@ -125,8 +103,6 @@ OnePlus
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +110,19 @@ OnePlus
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-inside-ppros-full-screen-vista-your-handbook/"><u>[New] Inside PPro's Full-Screen Vista Your Handbook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-8-flawless-recorder-picks/"><u>2024 Approved Leading 8 Flawless Recorder Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bring-the-magic-of-apple-tv-home-with-these-simple-steps-for-firestick-users/"><u>Bring the Magic of Apple TV Home with These Simple Steps for Firestick Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/green-energy-from-fungi-how-mycelium-chips-can-charge-gadgets-and-preserve-earth-insights-on-zdnet/"><u>Green Energy From Fungi: How Mycelium Chips Can Charge Gadgets & Preserve Earth - Insights on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/green-tech-innovations-the-journey-of-corporates-towards-sustainable-practices-insights-from-zdnet/"><u>Green Tech Innovations: The Journey of Corporates Towards Sustainable Practices - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-belkin-is-leading-sustainable-innovation-in-tech-introducing-a-new-recycled-plastic-program-at-ces-2023-covered-by-zdnet/"><u>How Belkin Is Leading Sustainable Innovation in Tech: Introducing a New Recycled Plastic Program at CES 2023, Covered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-achieve-a-sustainable-lifestyle-with-your-gadgets-save-costs-and-help-the-planet-according-to-zdnet/"><u>How to Achieve a Sustainable Lifestyle with Your Gadgets: Save Costs & Help the Planet, According to ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-file-explorer-on-windows-10-solutions-explored/"><u>How to Fix Unresponsive File Explorer on Windows 10 - Solutions Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-perfect-memos-through-sound-waves/"><u>In 2024, Crafting Perfect Memos Through Sound Waves</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mp3-player-unboxing-agpteks-beginner-model/"><u>MP3 Player Unboxing: AGPTEK's Beginner Model</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-cyber-space-effective-techniques-to-find-phone-numbers-without-infringement/"><u>Navigating Cyber Space: Effective Techniques to Find Phone Numbers Without Infringement</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/x-year-phone-photoshoot-oldiphone-x-edition-for-2024/"><u>X-Year Phone Photoshoot – OldiPhone X Edition for 2024</u></a></li>
+</ul></div>
 

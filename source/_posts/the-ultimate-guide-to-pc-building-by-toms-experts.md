@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to PC Building by Tom's Experts
-date: 2024-08-23T13:02:33.964Z
-updated: 2024-08-24T13:02:33.964Z
+date: 2025-01-03T21:32:35.802Z
+updated: 2025-01-06T13:11:45.546Z
 tags:
   - printer
 categories:
@@ -27,6 +27,10 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/pzBPMURGEscHThkFEEGZKn-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  2.**Choose error correction** . When the value is higher, the QR code will be denser. In our case, we shall retain the medium value of 15%.
@@ -45,11 +49,19 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/GQXvo8YhLiEferVjx44gmi-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The QR code below was generated after adding a custom text, icon and selecting the**Keychain** box.
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/khwqMMpGmzs5M6nAkDZ9zj-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -71,18 +83,12 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/WQQs2srSXt5ysMNTsJ7u5k-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  4.**Select Filament Change** , and in the**Layer** section, set the**Layer** value from step 1\. Mine was 15.
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/8orVU3p927KeesoLinZFxi-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  5.**Re-slice the design** and send the G-code to your 3D printer.
@@ -92,8 +98,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/4xcS97zTMB8PBdc5dabbs3-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The next step will be to paint the QR code part to distinguish it from the rest of the sections so the camera can pick up the code. You can use a small brush or a black marker pen and must ensure that you do it precisely to avoid distorting the QR code.
@@ -103,13 +110,11 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Multi-Color 3D Printing QR Codes
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Multi-Color 3D Printing QR Codes
 
  If you own a dual-extruder 3D printer, you can customize the colors in your QR code in the slicer before sending it for 3D printing. Follow the steps below to prepare the file for multi-color 3D printing[using Orca slicer](https://www.tomshardware.com/3d-printing/how-to-use-orca-slicer) .
@@ -120,33 +125,32 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/m4MEJHFS56AzRS7daHbRDk-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  2.**Click on the file** , then go to**Color Painting** .
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/7uAmWAo35AkGqy3NPuToqk-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  3.**Select the height range** option and**put the depth value** you specified earlier when creating the QR code. For my case, I used the website's default value, which was 1\. Apply on it then change the color of the second filament to black and you will see a design similar to the one shown below
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/avQmDx4B66DFdFkYmo2Vbm-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  4.**Slice and send it** to your 3D printer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Converting 2D QR Code to 3D
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Converting 2D QR Code to 3D
 
  If you have a 2D QR code that you would like to turn into a 3D model, you can follow the steps below.
@@ -155,9 +159,6 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/oaCVbuYxMEMuW3Chrwtaei-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  When you click Download, you will see an option to download it either in PNG or SVG. We are going to choose SVG.
@@ -166,14 +167,15 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/UKm5mC5ZTXUzCtE7Wdg2in-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 TinkerCAD will automatically convert the SVG file into a 3D model.
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/pP45uzzcJyxsusznxMoXjk-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -182,9 +184,9 @@ TinkerCAD will automatically convert the SVG file into a 3D model.
 ### Creating a QR Code in a 3D Modeling Software
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Creating a QR Code in a 3D Modeling Software
 
  The software we will use is TinkerCAD as it has the QR code option. Follow the steps:
@@ -195,9 +197,6 @@ TinkerCAD will automatically convert the SVG file into a 3D model.
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/VAPfJUVZLoEKBCZeCMynKm-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  3.**Add the link** in the**Text** section, and you will see the shape changing.
@@ -210,9 +209,6 @@ TinkerCAD will automatically convert the SVG file into a 3D model.
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/DjV5CrEgw5oHYE2JKxYCVj-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 Use the align tool to center them correctly.
@@ -235,9 +231,6 @@ Use the align tool to center them correctly.
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Customizing QR Codes
 
 ## Customizing QR Codes
@@ -250,10 +243,6 @@ Use the align tool to center them correctly.
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/JKmnGvfsmz3S4VBfazKbYi-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  2\. In the new window that launches,**choose the** **QR code type** you want to create. That is, whether Text, Wi-Fi, phone call, or vCard.
@@ -276,6 +265,10 @@ The ultimate burning program for all your needs!</a>
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/hKShdgwdFsmchSy8PeuaA6-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The[Ultimate QR Code Stand](https://makerworld.com/en/models/481160#profileId-392872) in Makerworld is a great option.
@@ -286,14 +279,11 @@ The ultimate burning program for all your needs!</a>
 
 **MORE:** [**Best Resin 3D Printers**](https://www.tomshardware.com/best-picks/best-resin-3d-printers)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -302,4 +292,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exquisite-solution-for-vr-adventures/"><u>[New] Exquisite Solution for VR Adventures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-essential-steps-to-record-films-on-computersmacs-and-phones/"><u>[New] In 2024, Essential Steps to Record Films on Computers/Macs & Phones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nveiling-the-art-of-designing-captivating-valorant-thumbnails-for-2024/"><u>[New] Unveiling the Art of Designing Captivating Valorant Thumbnails for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-driving-insights-perfect-polling-techniques-for-instagram-stories-for-2024/"><u>[Updated] Driving Insights Perfect Polling Techniques for Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-hdr-sky-experience-online-resource-listing/"><u>2024 Approved The HDR Sky Experience Online Resource Listing</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726027616135-pc/"><u>最新リスティング：自由に変更可能なウォールペイント PCアプリケーション推奨 - 無料版と有料版</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elevate-your-broadcast-impact-with-these-5-tips-for-twitch-streamers/"><u>Elevate Your Broadcast Impact with These 5 Tips for Twitch Streamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-advanced-calculator-on-ipad-challenges-own-to-prompt-consideration-of-apple-pencil-acquisition-analysis-by-zdnet/"><u>Next-Gen Advanced Calculator on iPad Challenges Own to Prompt Consideration of Apple Pencil Acquisition | Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rethinking-the-habit-of-handing-down-electronics-potential-pitfalls-and-alternatives-for-elderly-loved-ones/"><u>Rethinking the Habit of Handing Down Electronics: Potential Pitfalls and Alternatives for Elderly Loved Ones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-bargain-grab-the-new-gen-apple-pencil-at-only-95-during-labor-day-sale-exclusive-offer-on-zdnet/"><u>Score a Bargain: Grab the New-Gen Apple Pencil at Only $95 During Labor Day Sale - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-bargain-grab-the-latest-amazon-fire-kids-tablet-at-just-90-limited-stock-available-zdnet-deals-alert/"><u>Score a Bargain! Grab the Latest Amazon Fire Kid’s Tablet at Just $90 – Limited Stock Available | ZDNET Deals Alert</u></a></li>
+<li><a href="https://common-error.techidaily.com/strategies-to-eliminate-steamdll-absence/"><u>Strategies to Eliminate SteamDll Absence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-superior-e-readers-surpassing-remarkable-and-kindle-in-functionality-cnet-reviews/"><u>The Ultimate Guide to Superior E-Readers - Surpassing Remarkable and Kindle in Functionality | CNET Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-smart-display-picks-insiders-guide-by-techradar/"><u>Top 5 Smart Display Picks : Insider's Guide by TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-the-finest-ipad-models-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top Picks for the Finest iPad Models - In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-non-kindle-non-remarkable-e-ink-tablets-reviewed-insights-and-picks-from-tech-expert-zdnet/"><u>Top-Ranking Non-Kindle, Non-Remarkable E Ink Tablets Reviewed: Insights and Picks From Tech Expert | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-a25-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy A25 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

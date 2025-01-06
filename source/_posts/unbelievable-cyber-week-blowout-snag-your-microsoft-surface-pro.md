@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Cyber Week Blowout: Snag Your Microsoft Surface Pro"
-date: 2024-12-25T19:58:56.532Z
-updated: 2024-12-27T18:39:41.681Z
+date: 2025-01-04T00:46:43.129Z
+updated: 2025-01-06T13:20:09.334Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb333cb2-55bd-4be8-b483-37eb33b9452e%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,18 +125,22 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elevate-your-video-game-with-fb-upload-on-pc-and-android/"><u>[Updated] 2024 Approved Elevate Your Video Game with FB Upload on PC and Android</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-horizontal-vs-vertical-deciding-the-right-face-for-vids/"><u>[Updated] 2024 Approved Horizontal Vs. Vertical - Deciding the Right Face for Vids</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoid-these-iphone-models-and-key-apple-devices-in-month-top-picks-not-to-purchase-insights-from-zdnet/"><u>Avoid These iPhone Models & Key Apple Devices in [Month]: Top Picks Not To Purchase - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-your-pcs-performance-by-clearing-clutter-using-bleachbit-zdnet-recommended/"><u>Boost Your PC's Performance by Clearing Clutter Using BleachBit (ZDNet Recommended)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/expert-advice-on-screen-casting-in-google-meet-for-2024/"><u>Expert Advice on Screen Casting in Google Meet for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-out-which-graphics-processor-you-own-tips-for-detecting-gpus-and-installing-the-latest-driver-software-wired/"><u>Find Out Which Graphics Processor You Own! Tips for Detecting GPUs and Installing the Latest Driver Software | Wired</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-the-trusted-platform-module-tpm-became-a-prerequisite-for-windows-11-installation-digitalguardian/"><u>How the Trusted Platform Module (TPM) Became a Prerequisite for Windows 11 Installation | DigitalGuardian</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-pova-5-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Tecno Pova 5 Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://win-able.techidaily.com/latest-fixes-for-cant-start-forza-horizon-ebeam-2024-guide/"><u>Latest Fixes for 'Can't Start Forza Horizon Ebeam - 2024 Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mega-deal-alert-samsung-4tb-external-ssd-on-a-steep-discount-over-50-off-prime-your-digital-storage-this-labor-day/"><u>Mega Deal Alert: Samsung 4TB External SSD on a Steep Discount Over 50% Off - Prime Your Digital Storage This Labor Day!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-huge-discount-hps-powerful-gaming-pc-the-victus-15l-down-to-480-this-labor-day-insider-tips-from-zdnet/"><u>Score a Huge Discount: HP's Powerful Gaming PC, the Victus 15L, Down to $480 This Labor Day - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/talking-head-techniques-diy-filming-made-simple-for-2024/"><u>Talking Head Techniques DIY Filming Made Simple for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/unlocking-millions-in-marketing-roi-a-step-by-step-tutorial-using-massmail-for-effective-email-outreach-strategies/"><u>Unlocking Millions in Marketing ROI: A Step-by-Step Tutorial Using MassMail for Effective Email Outreach Strategies</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-download-mastery-quick-tiktok-video-retrieval/"><u>[New] Download Mastery Quick TikTok Video Retrieval</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-row-fun-without-football-baseball-or-basketball/"><u>2024 Approved First Row Fun Without Football, Baseball, or Basketball</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-limited-time-offer-snag-a-36-discount-on-the-high-capacity-8tb-samsung-t5-ssd-tech-insights-from-zdnet/"><u>Amazon's Limited-Time Offer: Snag a 36% Discount on the High-Capacity 8TB Samsung T5 SSD - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-grab-your-dream-laptop-this-cyber-monday-get-the-innovative-lg-gram-17-now-at-an-unbeatable-price-of-599-on-big-screen-and-lightweight-f36/"><u>Huge Discount Alert: Grab Your Dream Laptop This Cyber Monday! Get the Innovative LG Gram 17, Now at an Unbeatable Price of $599 on Big-Screen and Lightweight Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-tecno-pop-8-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Tecno Pop 8</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mind-blowing-price-drop-why-is-this-chromebook-only-255-during-prime-day-in-october-zdnet-insights/"><u>Mind-Blowing Price Drop! Why Is This Chromebook Only $255 During Prime Day in October? | ZDNET Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mycam-vs-others-a-comparative-camera-performance-study-for-2024/"><u>MyCam Vs. Others A Comparative Camera Performance Study for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-work-lenovo-introduces-cutting-edge-ai-features-in-their-latest-thinkpad-line-for-professional-use-insights-from-zdnet/"><u>Revolutionizing Work: Lenovo Introduces Cutting-Edge AI Features in Their Latest ThinkPad Line for Professional Use - Insights From ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/s-best-free-whiteboard-animation-software-for-windows-mac-and-online-for-2024/"><u>S Best Free Whiteboard Animation Software for Windows, Mac, and Online for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-updating-win10s-intel-graphics-drivers/"><u>Streamline Updating Win10's Intel Graphics Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-next-phase-of-tech-tools-staying-ahead-in-an-age-dominated-by-ai-insights-from-zdnet/"><u>The Next Phase of Tech Tools: Staying Ahead in an Age Dominated by AI | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1729392771605-top-ranking-touchscreen-laptop-reviews-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Touchscreen Laptop Reviews: In-Depth Analysis by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touch-screen-laptops-comprehensive-reviews-and-buyers-guide-techradar/"><u>Top-Rated Touch Screen Laptops: Comprehensive Reviews & Buyer's Guide | TechRadar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016914107-troubleshooting-iphones-noisy-and-muffled-sounds-solutions-inside/"><u>Troubleshooting iPhone's Noisy and Muffled Sounds – Solutions Inside</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-8-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 8 files after scanning? | Stellar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-budget-friendly-macbook-pro-m3-is-a-must-have-for-professionals-exclusive-insights/"><u>Why the Budget-Friendly MacBook Pro M3 Is a Must-Have for Professionals - Exclusive Insights</u></a></li>
 </ul></div>
 

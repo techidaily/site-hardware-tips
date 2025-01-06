@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Computer Hardware by Tom's Review
-date: 2024-08-23T12:59:33.144Z
-updated: 2024-08-24T12:59:33.144Z
+date: 2025-01-03T20:47:41.440Z
+updated: 2025-01-06T00:10:49.355Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,17 +54,24 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discovering-your-curated-collection-of-tunes-in-youtubes-depths/"><u>[New] 2024 Approved Discovering Your Curated Collection of Tunes in YouTube's Depths</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expert-picks-best-7-video-streaming-apps-to-take-your-youtube-game-upward-iosandroid-for-2024/"><u>[New] Expert Picks Best 7 Video Streaming Apps to Take Your YouTube Game Upward (iOS/Android) for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-achieving-peak-audience-interaction-with-wirecast-on-facebook/"><u>[New] In 2024, Achieving Peak Audience Interaction with Wirecast on Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-innovative-photo-frame-solutions-s-visionaries-for-2024/"><u>[New] Innovative Photo Frame Solutions 'S Visionaries for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-bridge-the-gap-between-viewers-and-wide-angles-posting-on-facebook/"><u>In 2024, Bridge the Gap Between Viewers and Wide Angles Posting on Facebook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-transforming-scripted-words-into-powerful-video-soundtracks/"><u>In 2024, Transforming Scripted Words Into Powerful Video Soundtracks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lgs-latest-audio-improvement-is-a-game-changer-especially-for-apple-enthusiasts-zdnet-insider/"><u>LG's Latest Audio Improvement Is a Game-Changer, Especially for Apple Enthusiasts | ZDNET Insider</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-labor-day-sale-top-tier-lg-oled-tvs-now-60-off-exclusive-deals-at-zdnet/"><u>Massive Labor Day Sale: Top-Tier LG OLED TVs Now 60% Off - Exclusive Deals at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-turning-your-iphone-into-an-ultimate-television-remote-a-guide-by-zdnet/"><u>Mastering the Art of Turning Your iPhone Into an Ultimate Television Remote - A Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-savings-during-prime-day-grab-the-spectacular-offered-amazon-fire-tv-for-just-99-still-in-stock-smartshoppertech/"><u>Maximize Your Savings During Prime Day! Grab the Spectacular Offered Amazon Fire TV for Just $99 - Still in Stock | SmartShopperTech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-viewing-experience-discover-how-this-budget-friendly-sony-bravia-stands-out-as-top-value-picks-often-featuring-sales-zdnet/"><u>Maximize Your Viewing Experience: Discover How This Budget-Friendly Sony Bravia Stands Out as Top Value Picks, Often Featuring Sales | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimize-your-viewing-experience-with-these-5-easy-tv-settings-adjustments/"><u>Optimize Your Viewing Experience with These 5 Easy TV Settings Adjustments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/roku-users-rejoice-upcoming-no-cost-premium-improvement-announced-by-zdnet/"><u>Roku Users Rejoice: Upcoming No-Cost Premium Improvement Announced by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-150-on-the-amazing-fire-tv-omnistream-qled-set-unbeatable-deal-today/"><u>Save $150 on the Amazing Fire TV Omnistream QLED Set - Unbeatable Deal Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-the-blue-screen-of-death-in-helldivers-2/"><u>Troubleshooting Tips for Fixing The Blue Screen of Death in Helldivers 2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-steps-resolving-the-dark-display-issue-on-your-dell-notebook/"><u>Ultimate Troubleshooting Steps: Resolving the Dark Display Issue on Your Dell Notebook</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

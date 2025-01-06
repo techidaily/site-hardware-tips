@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Secure a 36%% Discount on the Durable 8TB Samsung Portable SSD at Amazon - Insights From ZDNet"
-date: 2024-12-21T22:48:29.933Z
-updated: 2024-12-27T16:06:40.714Z
+date: 2024-12-30T22:07:50.969Z
+updated: 2025-01-05T18:19:52.221Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5d25efea-41c2-4721-bece-33eaed47020a%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,17 +65,24 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-youtube-rippers-for-media-conversion/"><u>[New] Top 10 YouTube Rippers for Media Conversion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-what-is-augmented-reality-for-2024/"><u>[New] What Is Augmented Reality for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-motorola-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Motorola ?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-specialized-compilation-choosing-ringtones-with-ease/"><u>In 2024, Specialized Compilation Choosing Ringtones with Ease</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-unveiling-time-saving-shortcuts-for-efficient-mac-screenshots/"><u>In 2024, Unveiling Time-Saving Shortcuts for Efficient Mac Screenshots</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-installation-brother-mfc-7360n-drivers-update-on-windows-1087/"><u>Seamless Installation: Brother MFC-7360N Drivers Update on Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/shure-mv7-unveiled-tackling-the-hybrid-mic-landscape-for-content-creators-expert-review-by-zdnet/"><u>Shure MV7 Unveiled: Tackling the Hybrid Mic Landscape for Content Creators | Expert Review by ZDNET</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-repairing-your-micro-sd-card-and-retrieving-lost-files/"><u>Step-by-Step Guide: Repairing Your Micro SD Card & Retrieving Lost Files</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-8-tech-tools-for-seamless-work-trips-as-endorsed-by-zdnets-industry-leaders/"><u>The Ultimate 8 Tech Tools for Seamless Work Trips, as Endorsed by ZDNet's Industry Leaders</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-3-benefits-of-switching-to-an-ergonomic-mouse-now-insights-from-zdnet/"><u>Top 3 Benefits of Switching to an Ergonomic Mouse Now: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-silent-gaming-mouse-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Silent Gaming Mouse : Comprehensive Testing & Reviews by Tech Experts | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-wireless-charging-pads-of-2024-featured-on-zdnet/"><u>Top-Rated Wireless Charging Pads of 2024 - Featured on ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-handbook-for-saving-insta-content/"><u>[New] In 2024, The Ultimate Handbook for Saving Insta Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-instagram-media-the-finest-downloading-options/"><u>2024 Approved Mastering Instagram Media The Finest Downloading Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-poco-x5-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Poco X5 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/accelerating-your-online-experience-quick-tips-from-yl-computings-expert-guide/"><u>Accelerating Your Online Experience: Quick Tips From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/achat-gratuit-de-conversion-reduisez-les-fichiers-h264-a-h265-avec-une-perte-minime-de-qualite-video/"><u>Achat Gratuit De Conversion : Réduisez Les Fichiers H.264 À H.265 Avec Une Perte Minime De Qualité Vidéo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/balancing-academia-and-leisure-discover-the-best-2-in-1-laptop-for-college-that-seamlessly-transitions-from-study-to-play-expert-recommendations-on-zdnet/"><u>Balancing Academia & Leisure: Discover the Best 2-in-1 Laptop for College that Seamlessly Transitions From Study to Play – Expert Recommendations on ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/converti-file-mmf-a-formato-wav-gratuito-online-con-movavi/"><u>Converti File MMF a Formato WAV Gratuito Online Con Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deep-black-friday-discounts-unleashed-score-lenovos-13-thinkpad-x1-gen-3-tablet-for-a-steal-at-1900-less/"><u>Deep Black Friday Discounts Unleashed: Score Lenovo's 13 ThinkPad X1 Gen 3 Tablet for a Steal at $1,900 Less!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-tech-cooperation-with-samsung-flow-link/"><u>Effortless Tech Cooperation with Samsung Flow Link</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-insight-microsofts-revolutionary-ai-chip-poised-to-outshine-apple-macbook-firsthand-experience-zdnet/"><u>Exclusive Insight: Microsoft's Revolutionary AI Chip Poised to Outshine Apple MacBook - Firsthand Experience | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-reality-purchase-the-newest-ar-laptop-featuring-a-massive-100-screen-without-additional-monitors-tech-insights/"><u>Experience Enhanced Reality: Purchase the Newest AR Laptop Featuring a Massive 100 Screen Without Additional Monitors | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-amazon-prime-deals-apple-macbook-air-with-m3-chip-now-at-a-250-discount-full-coverage-by-zdnet/"><u>October Amazon Prime Deals: Apple MacBook Air with M3 Chip Now at a $250 Discount - Full Coverage by ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/peak-performance-packages-best-converters-for-srt-systems-on-macwin-for-2024/"><u>Peak Performance Packages Best Converters for SRT Systems on Mac/Win for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-october-sales-metas-512gb-quest-2-pro-offers-top-value-during-prime-day-events-exclusive-insights/"><u>Unbeatable October Sales: Meta's 512GB Quest 2 Pro Offers Top Value During Prime Day Events - Exclusive Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-15-pro-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 15 Pro Before the Plan Expires</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-250-off-15-inch-macbook-air-is-an-unbeatable-deal-you-shouldnt-miss/"><u>Why the $250-Off 15-Inch MacBook Air Is an Unbeatable Deal You Shouldn't Miss!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-review-reveals-apples-powerful-new-macbook-pro-m3-max-the-leading-pro-artificial-intelligence-laptop-on-the-market/"><u>ZDNet Review Reveals Apple's Powerful New MacBook Pro (M3 Max) - The Leading Pro Artificial Intelligence Laptop on the Market</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-unveils-crowds-favorite-multifunctional-laptop-with-impressive-performance-chops-a-must-read-review/"><u>ZDNet Unveils Crowd's Favorite Multifunctional Laptop with Impressive Performance Chops – A Must-Read Review!</u></a></li>
 </ul></div>
 

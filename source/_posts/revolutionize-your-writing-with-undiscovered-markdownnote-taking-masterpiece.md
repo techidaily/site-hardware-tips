@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Writing with Undiscovered Markdown/Note Taking Masterpiece
-date: 2024-09-05T21:30:46.877Z
-updated: 2024-09-06T21:30:46.877Z
+date: 2024-12-31T03:33:50.046Z
+updated: 2025-01-06T01:36:58.882Z
 tags:
   - android
 categories:
@@ -9,20 +9,8 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-smartphone-on-an-office-desk-with-books-a-laptop-and-a-wall-with-several-notepads-behind.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Revolutionize Your Writing with Undiscovered Markdown/Note Taking Masterpiece
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Obsidian?](https://facebook-video-files.techidaily.com/updated-2024-approved-digital-detective-work-cracking-the-code-to-live-streams/)
@@ -40,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Obsidian offers tabs for multitasking, a formatting bar for easy text editing, word count, and character count features.
 
  The best writing tool is the one you have on you. For me, that's my smartphone, but it's no good without the right app. After searching high and low, I finally found an app that just about does it all. If you haven't yet heard of Obsidian, it may be the best note taking app for you, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is Obsidian?
 
@@ -61,28 +53,14 @@ Bertel King / How-To Geek
 
  Obsidian saves all notes as plain text files in an easily accessible folder on your phone, which you can then back up in any way you want: copy them to an external hard drive, sync them to another device, or upload them to the cloud. Your data is yours, and since Obsidian uses [Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), your formatting is also preserved when you choose to open your notes using another app. [Here's a Markdown syntax cheat sheet](https://screen-capture.techidaily.com/new-5-best-bandicam-mac-alternatives/) if you aren't already familiar with it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You Can Arrange Notes Into Folders or a Visual Knowledge Graph
 
 ![Obsidian sidebar with folders on a Galazy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-sidebar-with-folders-a-galazy-z-fold-5.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  Obsidian refers to the folders it saves your notes in as "Vaults." Within each Vault, you can create any number of folders. These folders and the notes they contain are visible in a sidebar that slides in from the left side of the screen.
@@ -93,9 +71,17 @@ Bertel King / How-To Geek
 
  For me, folders work just fine. The rest is unobtrusive and easy to forget is even there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Tabs Simplify Working With Multiple Documents
 
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -105,18 +91,6 @@ Bertel King / How-To Geek
 
  I find that by using gesture typing with my S Pen and bouncing between Obsidian's tabs, I can write faster and longer than I do with a keyboard, with fewer distractions. It's the power of a desktop workflow in an experience that feels like drawing with pen and paper.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  There's a Formatting Bar, and What You See Is What You Get
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
@@ -127,16 +101,14 @@ Bertel King / How-To Geek
 
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Word and Character Count Included for Writers
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  There are many, many ways to write things on Android. Technically, I could do most of my work using Google Keep if I particularly wanted to, but there are certain bits of information professional writers really need access to. Primarily, this is word count.
@@ -145,12 +117,6 @@ Bertel King / How-To Geek
 
  Obsidian displays both the word count and the character count in a sidebar that you bring in from the right. It may not be visible at all times, but it's very accessible nonetheless.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You Can Extend Obsidian With Plug-ins
 
  As web browsers have taught us, add-ons enable a program defined for one task to do almost anything else. Obsidian comes with a decent number of plug-ins, and there is an abundance of third-party options from community members as well.
@@ -169,8 +135,6 @@ Bertel King / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +142,26 @@ Bertel King / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-ultimate-biking-experience-index-for-2024/"><u>[New] Ultimate Biking Experience Index for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-periscope-insights-how-to-access-and-create-user-account/"><u>[Updated] Periscope Insights How to Access and Create User Account</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/building-community-through-thoughtful-facebook-giveaways-for-2024/"><u>Building Community Through Thoughtful Facebook Giveaways for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-clarity-editing-insights-for-professional-results/"><u>Capture Clarity Editing Insights for Professional Results</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guide-facile-pour-changer-de-disque-dur-et-deplacer-le-sysop-methode-expliquee/"><u>Guide Facile Pour Changer De Disque Dur Et Déplacer Le SysOp - Méthode Expliquée!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-maximizing-the-potential-of-virtual-dialogue-secrets-from-a-pro-zoom-chat-guru/"><u>In 2024, Maximizing the Potential of Virtual Dialogue Secrets From a Pro ZOOM Chat Guru</u></a></li>
+<li><a href="https://discover-great.techidaily.com/pioneer-djs-limited-time-offer-get-a-steal-on-professional-dj-software-at-the-namm-show-until-february-15th/"><u>Pioneer DJ's Limited-Time Offer - Get a Steal on Professional DJ Software at the NAMM Show Until February 15Th</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/snowboard-cross-triumphs-olympic-highlights/"><u>Snowboard Cross Triumphs - Olympic Highlights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-great-reshuffle-how-to-leverage-green-skills-for-sustainable-employment-on-linkedin-insights-by-zdnet/"><u>The 'Great Reshuffle': How to Leverage Green Skills for Sustainable Employment on LinkedIn | Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-tough-snow-battles-in-cleveland-discover-the-power-of-our-top-rated-electric-snow-thrower/"><u>Tired of Tough Snow Battles in Cleveland? Discover the Power of Our Top-Rated Electric Snow Thrower!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-picking-the-perfect-choice-on-zdnet/"><u>Top 5 Eco-Friendly Smartphones - Picking the Perfect Choice on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-strategies-for-energy-efficient-gadgets-slash-costs-and-support-the-planet-insights-from-zdnet/"><u>Top 6 Eco-Friendly Strategies for Energy-Efficient Gadgets: Slash Costs & Support the Planet - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-tech-hacks-slash-energy-costs-and-go-green-with-gadgets-zdnet/"><u>Top 6 Eco-Friendly Tech Hacks: Slash Energy Costs & Go Green with Gadgets | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-iphone-14-pro-and-pro-max-protective-cases-zdnets-picks/"><u>Top-Rated iPhone 14 Pro & Pro Max Protective Cases - ZDNET's Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-protectors-the-ultimate-guide-to-iphone-14-pro-and-pro-max-cases-techreviews/"><u>Top-Rated Protectors: The Ultimate Guide to iPhone 14 Pro & Pro Max Cases - TechReviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uber-introduces-carbon-footprint-tracking-feature-showcasing-your-co2-reduction-achievements/"><u>Uber Introduces Carbon Footprint Tracking Feature, Showcasing Your CO2 Reduction Achievements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-massive-green-threat-to-apples-breaking-news-on-zdnet/"><u>Uncovering the Massive Green Threat to Apples | Breaking News on ZDNet</u></a></li>
+</ul></div>
 

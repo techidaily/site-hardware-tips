@@ -1,7 +1,7 @@
 ---
 title: "The Pulse on Processors, Memory & More: In-Depth Hardware Reviews by Tom"
-date: 2024-08-23T13:02:58.683Z
-updated: 2024-08-24T13:02:58.683Z
+date: 2025-01-02T02:52:19.293Z
+updated: 2025-01-06T06:05:33.346Z
 tags:
   - cooling
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 ## Stay Chill with the Latest From DeepCool: High-Performance Coolers, Power Supplies, Fans & Rigs – Now in Vibrant Pixel Silicone Variants
 
 DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardware.com/tag/computex) , with new air and liquid coolers for CPUs, plus fans, PC cases, and power supplies that comply with the latest Intel ATX 3.1 and PCIe 5.1 standards. DeepCool has options ready for the newly introduced standards, including motherboards with reversed side connectors. Additionally, it expanded on a couple of its CPU cooler models while also providing some decorative options that will appeal to aesthetically minded users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## CPU coolers for air and water
 
@@ -30,6 +34,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase  (Image credit: DeepCool)
 
 ![Magnetic mountable colour display on the Assassin IV VC Vision CPU cooler ](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Magnetic mountable colour display on the Assassin IV VC Vision CPU cooler  (Image credit: DeepCool)
 
@@ -61,6 +69,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
 ![BTF compatible DeepCool CH560R PC Case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
 
 ![BTF compatible DeepCool CH560R PC Case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -72,6 +84,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  DeepCool CH160 MESH ITX Case Series  (Image credit: DeepCool)
 
 ![DeepCool CH170 DIGITAL ITX Case with digital monitoring screen](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  DeepCool CH170 DIGITAL ITX Case with digital monitoring screen  (Image credit: DeepCool)
 
@@ -91,6 +107,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
 ![Sleeved modular cables](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Sleeved modular cables  (Image credit: DeepCool)
 
  DeepCool also showed newer iterations of its 120mm and 140mm fans called the FD12 and FD14 series, available in black and white, as well as with or without ARGB support. Like many other fan makers, DeepCool uses its own proprietary 8-pin daisy chain cables that also allow lighting control.  
@@ -100,8 +120,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  DeepCool cases and power supplies are designed to be future-ready, with support for the latest motherboards designs and power supply standards. The company has been making PC accessories for a while now and tends to do a good job, and the new ability to customize cases with silicone bits may appeal to a certain demographic. We look forward to seeing the retail products over the coming months.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -110,14 +131,11 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +144,24 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-djd-snaps-adding-tracks-to-enhance-videos/"><u>[New] 2024 Approved DJ'd Snaps Adding Tracks to Enhance Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-enhance-video-visibility-using-creator-studio-wisdom/"><u>[Updated] 2024 Approved Enhance Video Visibility Using Creator Studio Wisdom</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-game-on-with-updated-windows-11-gems-for-2024/"><u>[Updated] Game On with Updated Windows 11 Gems for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-your-streaming-netflix-drops-compatibility-with-legacy-ios-devices-technews/"><u>Future-Proof Your Streaming: Netflix Drops Compatibility with Legacy iOS Devices | TechNews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-latest-ipados-18-functionality-presented-at-wwdc-2024-can-transform-your-tablet-experience-and-tilt-loyalty-towards-apple-gizmopundit/"><u>How the Latest iPadOS 18 Functionality Presented at WWDC 2024 Can Transform Your Tablet Experience & Tilt Loyalty Towards Apple | GizmoPundit</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-lenovo-x1-carbon-driver-software-for-windows-10-and-7-users/"><u>How to Get Lenovo X1 Carbon Driver Software for Windows 10 & 7 Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-14-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 14</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-a56s-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo A56s 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-gt-neo-5-se-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-12-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi 12 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-10th-generation-ipad-unraveling-its-puzzling-excellence-a-comprehensive-review-by-zdnet/"><u>In-Depth Analysis of the 10Th Generation iPad : Unraveling Its Puzzling Excellence - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-vs-remarkable-2-essential-contrasts-for-note-taking-enthusiasts-zdnet-analysis/"><u>IPad Vs. Remarkable 2 - Essential Contrasts for Note-Taking Enthusiasts | ZDNET Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-score-a-discounted-amazon-fire-tablet-at-just-50-during-labor-day-exclusive-trade-in-special/"><u>Limited Time Offer: Score a Discounted Amazon Fire Tablet at Just $50 During Labor Day - Exclusive Trade-In Special</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-differences-ipad-air-versus-ipad-pro-making-the-right-pick/"><u>Navigating the Differences: IPad Air versus iPad Pro – Making the Right Pick</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/netflix-streaming-update-alert-older-apple-devices-to-lose-access-find-out-which-ones-are-no-longer-compatible-zdnet/"><u>Netflix Streaming Update Alert! Older Apple Devices to Lose Access - Find Out Which Ones Are No Longer Compatible | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/onyx-boox-duo-exploring-the-combined-strength-of-max-lumi2-and-note-air2-for-avid-readers-and-writers-zdnet-gadgets/"><u>Onyx Boox Duo: Exploring the Combined Strength of Max Lumi2 & Note Air2 for Avid Readers and Writers | ZDNet Gadgets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-10-eye-catching-text-in-media-for-2024/"><u>Top 10 Eye-Catching Text in Media for 2024</u></a></li>
+</ul></div>
 

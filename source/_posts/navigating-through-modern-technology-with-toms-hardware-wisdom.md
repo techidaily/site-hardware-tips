@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Modern Technology with Tom's Hardware Wisdom
-date: 2024-08-23T13:02:52.957Z
-updated: 2024-08-24T13:02:52.957Z
+date: 2025-01-01T22:41:33.978Z
+updated: 2025-01-05T17:13:44.863Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,26 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-converting-standard-texts-into-stunning-3d-artifacts-photo-for-2024/"><u>[New] Converting Standard Texts Into Stunning 3D Artifacts PHOTO for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-memory-to-moments-share-images-seamlessly-today-for-2024/"><u>[New] From Memory to Moments Share Images Seamlessly Today for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-lengthy-iphone-photo-captures/"><u>[Updated] Mastering Lengthy iPhone Photo Captures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unbeatable-audio-experience-top-non-bose-non-sonos-speakers-that-dominate-the-market/"><u>1. Unbeatable Audio Experience: Top Non-Bose, Non-Sonos Speakers That Dominate the Market!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-highest-quality-ipad-pro-compatible-keyboards-expert-reviews-and-ratings-zdnet/"><u>2024'S Highest Quality iPad Pro Compatible Keyboards: Expert Reviews and Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adaptation-to-innovation-how-switching-to-remarkables-new-color-e-ink-device-changed-my-note-taking-for-good/"><u>Adaptation to Innovation: How Switching to Remarkable's New Color E-Ink Device Changed My Note-Taking for Good!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adapting-to-a-digital-transformation-my-two-week-journey-with-remarkables-colorful-e-ink-tablet/"><u>Adapting to a Digital Transformation: My Two-Week Journey with Remarkable's Colorful E-Ink Tablet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-in-a-slate-comprehensive-zdnet-review-of-the-capable-honor-pad-8-tablet-google-search-seo-best-practices/"><u>Affordable Excellence in a Slate: Comprehensive ZDNET Review of the Capable Honor Pad 8 Tablet | Google Search SEO Best Practices.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-in-tablets-the-in-depth-review-of-honor-pad-n-8-by-zdnet-for-savvy-tech-enthusiasts-seeking-quality-and-value/"><u>Affordable Excellence in Tablets - The In-Depth Review of Honor Pad N 8 by Zdnet for Savvy Tech Enthusiasts Seeking Quality and Value</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/alldocube-iplay-40-pro-tablet-evaluation-exceptional-design-and-unmatched-performance-insights-from-zdnet/"><u>Alldocube iPlay 40 Pro Tablet Evaluation: Exceptional Design & Unmatched Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/audio-breakthrough-how-this-remarkable-speaker-system-outshines-both-bose-and-polk-on-your-soundstage/"><u>Audio Breakthrough: How This Remarkable Speaker System Outshines Both Bose and Polk on Your Soundstage!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-these-iphone-models-and-key-apple-gadgets-in-month-essential-savvy-shopper-guide-techinsights/"><u>Avoid These iPhone Models and Key Apple Gadgets in [Month] - Essential Savvy Shopper Guide | TechInsights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-new-tech-in-lg-360-cameras-for-a-fresh-perspective-for-2024/"><u>Evaluating New Tech in LG 360 Cameras for a Fresh Perspective for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-xs-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone XS Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ideal-choices-our-exclusive-top-10-gopro-case-picks/"><u>Ideal Choices Our Exclusive Top 10 GoPro Case Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-key-online-repositories-for-rich-text-visualization/"><u>In 2024, Key Online Repositories for Rich Text Visualization</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-selective-focus-topiphoto-blurrers-revealed/"><u>In 2024, Selective Focus Topiphoto Blurrers Revealed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-simplified-tutorial-mastering-meets-background-blur/"><u>In 2024, Simplified Tutorial Mastering Meet's Background Blur</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-file-explorer-from-windows-10-on-your-new-windows-11-pc/"><u>Reviving File Explorer From Windows 10 on Your New Windows 11 PC</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

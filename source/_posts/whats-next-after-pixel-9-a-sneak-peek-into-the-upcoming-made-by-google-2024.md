@@ -1,7 +1,7 @@
 ---
 title: What's Next After Pixel 9? A Sneak Peek Into the Upcoming Made by Google 2024
-date: 2024-09-05T21:30:41.038Z
-updated: 2024-09-06T21:30:41.038Z
+date: 2024-12-30T10:11:53.689Z
+updated: 2025-01-06T00:58:28.458Z
 tags:
   - android
 categories:
@@ -28,41 +28,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Image of the Pixel 9 Pro in Porcelain and Pixel 9 Pro Fold in Obsidian finishes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/google-pixel-9-pro-and-pixel-9-pro-fold.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Google
 
  From the first Pixel phone in 2016 to [the Pixel 8](https://youtube-tips.techidaily.com/24-simple-guide-youtube-to-mp3-on-mac/) released in 2023, Google has launched its flagship smartphones in October. However, this year, the Alphabet-owned company moved up its "Made by Google" launch event to Tuesday, August 13th. While the company didn't provide a reason for it, nor did the Pixel fans ask for it, there's a chance that Google wants to present customers with a refreshed smartphone before [Apple does it in September with the iPhone 16](https://techidaily.com/what-you-need-to-know-to-improve-your-realme-narzo-n55-hard-reset-drfone-by-drfone-reset-android-reset-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How To Watch The Made By Google August Launch Event?
 
  While Google will hold an in-person event at its headquarters in Mountain View, California, fans can watch the livestream on its official YouTube channel at 10 AM PT on August 13, 2024\. Enthusiasts can attend the "Made by Google Event Watch Party" at the [Google Visitor Experience Huddle](https://rsvp.withgoogle.com/events/made-by-google-event-watch-party-mtv-08132024) in Mountain View. The company will also publish all the details about the new products, features, and services announced at the event on its official website.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  New Google AI Features and Android 15
 
 ![Spaceship blasting off into space as an Android robot watches.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/android-15-spaceship-blast-off.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 DALL-E 3
 
  With the [Android 15 beta reaching platform stability in June](https://extra-resources.techidaily.com/best-live-stream-tools-xsplit-or-obs-in-2024/), we'll get to see the public version at the Made by Google event. With new features like widget previews, custom vibrations, partial screen recording, satellite connectivity support, [Private Space](https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nubia-red-magic-9-proplus-by-drfone-android/), and anti-theft protection, Android 15 is going to be one of the most significant operating system upgrades, with a focus on AI. The new devices launched at the event will ship with it, and compatible smartphones like the Pixel 8 and [Pixel 7](https://video-content-creator.techidaily.com/new-split-mkv-videos-with-ease-top-10-free-software-options-for-2024/) series should get an OTA update after August 13.
@@ -71,12 +59,6 @@ DALL-E 3
 
  While Add Me adds users to a group photo, Studio could be an all-new feature that generates stickers and images. On the other hand, Pixel Screenshots indexes all the screenshots on users' devices and creates a searchable database of their information.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Pixel 9 Series With a New "XL" Variant
 
 ![Close up shot of the Pixel 9 Pro's camera visor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/google-pixel-9-pro-in-porcelain-color.png) 
@@ -89,6 +71,10 @@ Google
 
  All the models will be powered by the Tensor G4 SoC, which, according to new reports, could be a minor improvement over [the Tensor G3 on the Pixel 8 series](https://tiktok-clips.techidaily.com/2024-approved-copying-safely-on-tiktok-a-2023-guide-to-rights-checks/). What's exciting is that the processor could use a new modem, improving its overall efficiency. To summarize, Google could unveil three smartphones as part of the Pixel 9 series.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pixel 9 Pro Fold Could Arrive With a New Camera Module
 
  Apart from the Pixel 9 series, Google will also unveil the much-anticipated successor to its one and only foldable. The [company has already confirmed the Pixel 9 Pro Fold](https://techno-recovery.techidaily.com/quick-and-easy-steps-to-determine-which-windows-os-youre-running/). It is still a successor to the Pixel Fold from 2023, just that Google has improvised the name a bit. As seen in a teaser, the smartphone won't feature the horizontal camera visor on every Pixel phone launched in recent years. Instead, the phone has a square-ish camera module placed on the rear panel's top left corner. The foldable is also expected to be slightly thinner, taller, and lighter than the original Pixel Fold.
@@ -99,12 +85,6 @@ Google
 
 ![WhatsApp and YouTube Music apps on the Google Pixel Watch 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/whatsapp-and-youtube-music-apps-on-the-google-pixel-watch-2_53248750892_o-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Google could also reveal the Pixel Watch 3 on August 13\. According to an [Android Authority](https://www.androidauthority.com/exclusive-google-pixel-watch-3-changes-3458593/) report, the smartwatch could come in two sizes: 41mm and 45mm. Furthermore, Google will offer them both Wi-Fi and cellular variants. With the Pixel Watch 3, the company will address one of the most common complaints that users had with [the Pixel Watch 2](https://youtube-lab.techidaily.com/ractical-techniques-for-rapid-deletion-of-comments/): thick bezels. Thinner bezels, a brighter screen, and support for ultra-wideband technology could be the main highlights of the purported wearable. Regarding colors, the Pixel Watch 3's 41mm variant could come in four combinations, while the 45mm variant could come in three colorways.
@@ -114,11 +94,9 @@ Justin Duino / How-To Geek
 ![The Google Pixel Buds Pro 2 in gray, black, green, and red colorways.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Google
 
  Most recently, a [Reddit](https://www.reddit.com/r/pixelbuds/comments/1eaz8zt/pixel%5Fbuds%5Fpro%5F2%5Fdesign%5Fleak/#lightbox) user spotted the Amazon listing of the Pixel Buds Pro 2, the successor to the [Pixel Buds Pro launched a few years ago](https://eaxpv-info.techidaily.com/updated-harnessing-the-power-of-visual-appeal-in-your-youtube-advertising-for-2024/). As seen in the listing, the upcoming earbuds could feature similar dimensions to their predecessor. However, we might see new colors, a larger outer grill (on the top of the earbuds), and a speaker grill for locating the earbuds. Besides, the company could also improve the overall sound quality, noise cancelation, and battery life. Moreover, Google has a lot in store for us: the Pixel 9 series, the Pixel 9 Pro Fold, the Pixel Watch 3, and the Pixel Buds 2 Pro.
@@ -129,8 +107,6 @@ Google
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +114,24 @@ Google
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-perfect-pivoting-mastering-video-angles-for-social-success/"><u>[Updated] 2024 Approved Insta Perfect Pivoting Mastering Video Angles for Social Success</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-3-techniques-to-retrieve-and-save-youtubes-iconic-images/"><u>[Updated] 3 Techniques to Retrieve & Save YouTube's Iconic Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-rhythmic-instagrams-a-step-by-step-music-guide-for-2024/"><u>[Updated] Rhythmic Instagrams A Step-by-Step Music Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-quality-riding-mowers-featured-by-zdnet/"><u>2024'S Ultimate Guide to Quality Riding Mowers Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advancing-singapores-green-tech-investing-in-ai-for-a-sustainable-low-carbon-future/"><u>Advancing Singapore's Green Tech: Investing in AI for a Sustainable, Low-Carbon Future</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrate-memorial-day-with-a-deal-get-40-off-segway-max-g2-e-scooters-on-zdnet/"><u>Celebrate Memorial Day with a Deal: Get 40% Off Segway Max G2 E-Scooters on ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/complete-guide-to-cultivating-a-flourishing-garden-insights-from-zdnet/"><u>Complete Guide to Cultivating a Flourishing Garden - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/could-the-revolutionary-multi-bike-suv-challenge-conventional-automobiles-surprising-facts-revealed-by-zdnet/"><u>Could the Revolutionary Multi-Bike SUV Challenge Conventional Automobiles? Surprising Facts Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/could-this-innovative-suv-of-bikes-overthrow-traditional-cars-for-urban-travelers-unveiling-its-surprising-potential-zdnet/"><u>Could This Innovative 'SUV of Bikes' Overthrow Traditional Cars for Urban Travelers? Unveiling Its Surprising Potential | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-the-significance-of-your-right-to-repair-a-comprehensive-guide-by-zdnet-how-it-influences-you/"><u>Decoding the Significance of Your Right to Repair: A Comprehensive Guide by ZDNet | How It Influences You</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-efficient-solar-gift-ideas-as-featured-on-zdnet/"><u>Discover the Most Efficient Solar Gift Ideas , as Featured on ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722970689250-get-your-killer-e2500-network-cards-up-and-running-free-driver-downloads-available-now/"><u>Get Your Killer E2500 Network Cards Up and Running - FREE Driver Downloads Available Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tamil-trax-download-edit-and-sync-songs-as-mobile-ringtone/"><u>In 2024, Tamil Trax Download, Edit & Sync Songs as Mobile Ringtone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-evaluation-of-the-corsair-cx750m-psu/"><u>In-Depth Evaluation of the Corsair CX750M PSU</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplify-your-workflow-incorporating-luts-into-pscc-projects-for-2024/"><u>Simplify Your Workflow Incorporating LUTs Into PSCC Projects for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-secret-to-knowing-when-an-email-is-read-in-gmail-a-comprehensive-tutorial/"><u>The Secret to Knowing When an Email Is Read in Gmail - A Comprehensive Tutorial</u></a></li>
+</ul></div>
 

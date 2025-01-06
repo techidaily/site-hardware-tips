@@ -1,7 +1,7 @@
 ---
 title: "Full-Scale Engineering Sample Benchmark: AMD Ryzen 9 Amoeba 9950X with Blender Workloads Across Various TDP Settings, Demonstrating Remarkable Efficiency Gains"
-date: 2024-08-23T12:58:53.778Z
-updated: 2024-08-24T12:58:53.778Z
+date: 2025-01-04T04:36:52.391Z
+updated: 2025-01-06T01:47:42.088Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,20 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-color-grading-mastery-with-an-insight-into-lut-usage/"><u>[Updated] Color Grading Mastery with an Insight Into LUT Usage</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-cover-video-techniques-for-business-professionals/"><u>[Updated] FB Cover Video Techniques for Business Professionals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-2020s-windows-updates-a-quick-overview/"><u>2024 Approved 2020'S Windows Updates A Quick Overview</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-android-pixel-perfect-techniques/"><u>In 2024, Pro Android Pixel Perfect Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/restoring-default-sound-options-on-windows-a-comprehensive-guide-insights/"><u>Restoring Default Sound Options on Windows: A Comprehensive Guide - Insights</u></a></li>
+<li><a href="https://win-superb.techidaily.com/schnelle-wiederherstellungslosung-broken-sd-karte-datenrettung-mithilfe-von-myrecover-hochleistungsspeichererhaltungstechnik/"><u>Schnelle Wiederherstellungslösung: Broken SD-Karte Datenrettung Mithilfe Von MyRecover - Hochleistungsspeichererhaltungstechnik</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-hybrid-how-frameworks-new-chromebook-unites-high-performance-with-convenience-tech-insights/"><u>The Ultimate Hybrid: How Framework's New Chromebook Unites High Performance with Convenience | Tech Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tips-and-tricks-how-can-you-reach-out-to-a-number-blocked-on-your-caller-id/"><u>Tips and Tricks: How Can You Reach Out to a Number Blocked on Your Caller ID?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-unbeatable-laptop-offers-during-octobers-exclusive-sale-event-insider-tips/"><u>Top Picks: Unbeatable Laptop Offers During October's Exclusive Sale Event - Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-m2-ssd-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Performing M.2 SSD Models : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-hidden-gems-of-dells-best-value-laptop-innovative-tech-meets-affordability-on-zdnet/"><u>Unveiling the Hidden Gems of Dell's Best-Value Laptop – Innovative Tech Meets Affordability on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-professionals-prefer-this-lenovo-laptop-unveiling-its-two-key-attributes-for-power-use-zdnet/"><u>Why Professionals Prefer This Lenovo Laptop: Unveiling Its Two Key Attributes for Power Use | ZDNET</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

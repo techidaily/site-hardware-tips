@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Ongoing Steep Discounts: Grab Your 8TB Samsung T5 SSD at an Unbeatable 36%% Off Beyond Prime Day - ZDNet Insights"
-date: 2024-12-20T22:28:39.539Z
-updated: 2024-12-27T17:47:34.101Z
+date: 2025-01-02T20:34:16.759Z
+updated: 2025-01-05T21:17:04.826Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5227965a-639b-4fc1-9b59-2f542a1eddcf%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,16 +65,18 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-3-key-caption-techniques-for-videos/"><u>[Updated] 2024 Approved Mastering Instagram 3 Key Caption Techniques for Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-choices-for-switchs-hd-gaming-for-2024/"><u>[Updated] Best Choices for Switch's HD Gaming for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-bg-removal-in-figma-designs/"><u>2024 Approved Mastering BG Removal in Figma Designs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boosting-work-from-home-efficiency-how-lenovos-latest-innovations-transform-home-offices-techtoday/"><u>Boosting Work-From-Home Efficiency: How Lenovo's Latest Innovations Transform Home Offices | TechToday</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-techniques-for-id-extraction-from-steam/"><u>Efficient Techniques for ID Extraction From Steam</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-how-gmktec-xpanel-se-revolutionizes-mobile-monitoring-bytewise-insight/"><u>Expert Analysis: How GMKtec XPanel SE Revolutionizes Mobile Monitoring | ByteWise Insight</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-12-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme 12 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/innovations-in-video-sharing-top-5-beyond-tiktok-platforms-for-2024/"><u>Innovations in Video Sharing Top 5 Beyond TikTok Platforms for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seamless-integration-connect-your-airpods-to-iphone-and-other-gadgets-masterclass-by-zdnet-experts/"><u>Seamless Integration: Connect Your AirPods to iPhone and Other Gadgets - Masterclass by ZDNET Experts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-soundscape-of-influence-altering-voice-on-stories-and-reels/"><u>The Soundscape of Influence Altering Voice on Stories & Reels</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-matter-v13-explore-enhanced-capabilities-and-expanded-device-compatibility-on-zdnet/"><u>Unveiling Matter v1.3: Explore Enhanced Capabilities & Expanded Device Compatibility on ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-digital-artistry-perfecting-your-photoshop-skills/"><u>[Updated] 2024 Approved Digital Artistry Perfecting Your Photoshop Skills</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-fresh-perspectives-on-digital-health-promotion/"><u>[Updated] 2024 Approved Fresh Perspectives on Digital Health Promotion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-utilizing-azure-speech-to-text-api/"><u>[Updated] Utilizing Azure Speech-to-Text API</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-week-with-the-split-ergonomic-keyboard-how-it-transformed-my-tech-habits/"><u>A Week with the Split Ergonomic Keyboard: How It Transformed My Tech Habits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-perfect-hp-bargains-for-holidays-on-zdnets-expert-roundup-of-16-picks/"><u>Find the Perfect HP Bargains for Holidays on ZDNet's Expert Roundup of 16 Picks!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-savings-exclusive-cyber-monday-tech-bargains-on-pcs-in-october-2024/"><u>Get Ready for Savings! Exclusive Cyber Monday Tech Bargains on PCs in October 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-ppt-transformers-for-videographers/"><u>In 2024, Top PPT Transformers for Videographers</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-facebook-papers-arent-as-damning-as-they-seem-heres-why/"><u>The Facebook Papers Aren't as Damning as They Seem. Here's Why</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-holiday-savings-score-amazing-deals-on-electronics-from-iphones-to-flatscreens-exclusive-offers/"><u>Ultimate Holiday Savings: Score Amazing Deals on Electronics From iPhones to Flatscreens | Exclusive Offers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-productivity-how-the-hp-copilotplus-notebook-empowers-distance-working-a-real-life-test-by-zdnet/"><u>Unleashing Productivity: How the HP Copilot+ Notebook Empowers Distance Working - A Real-Life Test by ZDNet</u></a></li>
 </ul></div>
 

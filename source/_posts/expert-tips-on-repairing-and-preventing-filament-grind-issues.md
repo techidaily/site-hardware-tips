@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Repairing and Preventing Filament Grind Issues
-date: 2024-08-23T12:59:47.535Z
-updated: 2024-08-24T12:59:47.535Z
+date: 2025-01-03T03:09:36.358Z
+updated: 2025-01-06T07:55:43.663Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  Some of her mods are fairly standard, like [KevinAkaSam’s Belt Driven Ender 3](https://www.google.com/url?q=https://kevinakasam.com/belt-driven-ender-3/&sa=D&source=editors&ust=1706372670249864&usg=AOvVaw3nEW6Jb3YCWRV5uldb65-0) , which replaced the Z rods with, you guessed it, belts. This allows the printer to run smooth, straight and precisely in sync.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,6 +47,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
 ![Monika McWuff's Floor Blower](https://cdn.mos.cms.futurecdn.net/GDgqorpMCU3Z3FUsEkxY7H-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Monika McWuff)
 
  There isn’t a lot of the original Ender 3 Pro left, just a few aluminum extrusions and part of the bed, now covered in a sheet of carbon fiber. She uses her stock Ender 3 Pro in a tented enclosure to print ABS parts for the project.
@@ -52,6 +60,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
  The hotend is especially interesting, and can [push plastic faster than silly string](https://www.google.com/url?q=https://www.youtube.com/shorts/W-j%5FVufX8Bs&sa=D&source=editors&ust=1706372670250628&usg=AOvVaw1osH1oGrtM2f44ziC2Gy4g) . It’s a Trianglelab STD6 with a ceramic heating core, two extensions and a .4 CHT Volcano nozzle. A recent test clocked the flow rate at 120mm/s³. She’s hoping to get even more out of it by switching to a CHT V6 extender and a .5 Volcano nozzle.
 
 ![Monika McWuff's Volcano Nozzle](https://cdn.mos.cms.futurecdn.net/b7sgzzmodak4xRtngW2QAL-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Monika McWuff)
 
@@ -63,14 +75,11 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  For reference, a stock [Ender 3 Pro](https://www.google.com/url?q=https://www.tomshardware.com/reviews/creality-ender-3-pro-3d-printer&sa=D&source=editors&ust=1706372670252722&usg=AOvVaw0qAFynSpm2QUCmFSp3enTG) running at it’s normal 50mm/s and using Speed Boat settings can print a Benchy in one hour and four minutes. With high-speed, Klipper firmware installed, the stock machine can comfortably run at 150mm/s and print a Benchy in 42 minutes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,8 +88,24 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/1726809483358-x-plus-x-plus-4x-n/"><u> [X + (X + 4X) = N </u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unraveling-periscopes-mystique-is-it-free-and-how-to-signup-for-2024/"><u>[Updated] Unraveling Periscope's Mystique Is It Free and How to Signup for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/99-amazon-firestick-top-pick-for-prime-day-savings-limited-stock-remains-techguide/"><u>$99 Amazon Firestick: Top Pick for Prime Day Savings – Limited Stock Remains! | TechGuide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accelerate-television-viewing-experience-with-these-top-6-tweaks-recommended-by-zdnet/"><u>Accelerate Television Viewing Experience with These Top 6 Tweaks, Recommended by ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/achieve-perfect-picture-clarity-essential-projector-configurations-revealed-by-experts-visualwizard/"><u>Achieve Perfect Picture Clarity: Essential Projector Configurations Revealed by Experts | VisualWizard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acr-disabling-secrets-for-any-television-slashing-advertisements-in-half-why-it-matters-digitalwatchdog/"><u>ACR Disabling Secrets for Any Television: Slashing Advertisements in Half - Why It Matters! | DigitalWatchdog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/answer-lets-denote-the-unknown-number-as-x-according-to-the-problem-we-have/"><u>Answer: Let's Denote the Unknown Number as ( X ). According to the Problem, We Have:</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-unresponsive-right-click-issue-on-windows-11-touchpad/"><u>Correct Unresponsive Right-Click Issue on Windows 11 Touchpad</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-galaxy-a24-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Galaxy A24 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-m1-advantage-high-speed-smooth-video-editing-experience/"><u>In 2024, M1 Advantage High-Speed, Smooth Video Editing Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-top-10-ios-gif-apps/"><u>In 2024, Navigating the Top 10 iOS GIF Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-soundstage-viewing-for-2024/"><u>Leading Soundstage Viewing for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-x50-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor X50? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reinstate-dormant-media-content/"><u>Reinstate Dormant Media Content</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/scheduled-erasure-with-stellar-file-eraser-pro-secure-mac-data-management-tool/"><u>Scheduled Erasure with Stellar File Eraser Pro: Secure Mac Data Management Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-guide-to-the-ultimate-selection-of-40-tvs-for-2n4-expert-ratings-unveiled/"><u>ZDNet's Guide to the Ultimate Selection of 40 TVs for 2N4: Expert Ratings Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-tips-for-dust-free-maintenance-of-flat-screen-tvs-and-monitors/"><u>ZDNet's Ultimate Tips for Dust-Free Maintenance of Flat Screen TVs and Monitors</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

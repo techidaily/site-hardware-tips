@@ -1,7 +1,7 @@
 ---
 title: Anticipated Highlights and Innovations at the Google I/O Developers Conference 2 # Problem
-date: 2024-09-05T21:29:45.161Z
-updated: 2024-09-06T21:29:45.161Z
+date: 2024-12-29T20:03:32.856Z
+updated: 2025-01-06T11:49:18.635Z
 tags:
   - android
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Anticipated Highlights and Innovations at the Google I/O Developers Conference 2 # Problem
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Gemini and AI Will Take Center Stage](https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-x90s-drfone-by-drfone-virtual-android/)
@@ -24,12 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [The Pixel 8a Might Be the Only Hardware Unveiled](https://desktop-recording.techidaily.com/updated-2024-approved-top-free-video-call-apps-versatile-use-on-windows-and-macos/)
 * [How to Watch Google I/O 2024](https://instagram-clips.techidaily.com/updated-in-2024-tailored-content-creation-how-to-cropped-and-export-videos-for-instagram/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Upgrades to Gemini AI may be rolled out at Google I/O, possibly addressing image generators' challenges and new features.
@@ -43,11 +31,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An illustration of the Google Gemini AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Google
 
 [At Google's highly anticipated I/O conference](https://technical-tips.techidaily.com/resolving-msvcrt10dll-file-missing-a-step-by-step-guide/), all eyes will be on "Gemini"—the company's flagship AI model, formerly known as "[Bard](https://youtube-video-recordings.techidaily.com/in-2024-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/)." Gemini has already made waves with its [remarkable capabilities](https://screen-capture.techidaily.com/new-in-2024-live-broadcast-battlefield-obs-versus-shadowplay/), but this year's event will most likely reveal its next evolution, setting new benchmarks for its AI performance.
@@ -60,16 +46,18 @@ Google
 
  One area of particular interest is [Google's attempt to replace its long-standing Assistant with Gemini](https://youtube-lab.techidaily.com/24-unleash-creativity-without-breaking-the-bank-top-9-affordable-editors/) on Android. While the transition hasn't been seamless, with some features still lacking, anticipation runs high for Google to announce expanded Gemini capabilities, bringing its full power to our fingertips.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  We’ll See More of Android 15 and a New Beta
 
 ![Person holding a Google Pixel 8 Pro showing the Android 15 logo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/53533188423_c6faca52a2_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Google will likely highlight the latest version of its operating system, Android 15, at Google I/O. [The first developer preview released in mid-February](https://extra-tips.techidaily.com/new-cinemas-best-shoot-techniques-the-ultimate-guide-for-24/) teased some exciting features, but the real excitement is yet to come.
@@ -82,22 +70,18 @@ Justin Duino / How-To Geek
 
  The first public beta of Android 15 is slated for April, so we'll likely see the second beta released during I/O. Developers are eager to really dig into a stable build, but if tradition continues, Android 15 will likely debut alongside the Pixel 9 series in October 2024, making for one delicious update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Pixel 8a Might Be the Only Hardware Unveiled
 
 ![Google Pixel 8a leaked render.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/google-pixel-8a-renders.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Smartprix](https://www.smartprix.com/bytes/google-pixel-8a-exclusive-first-look/)
 
  The mid-range Pixel A-series hasn't exactly been a stunner over the years, but it's consistently delivered a nice balance of performance and affordability. The upcoming Pixel 8A looks to continue that tradition, following in the footsteps of [last year's Pixel 7a](https://youtube-lab.techidaily.com/nlocking-the-secrets-to-parallel-playback-prowess-for-2024/), which [debuted at Google I/O](https://extra-approaches.techidaily.com/new-laughlab-design-suite/).
@@ -110,12 +94,6 @@ Justin Duino / How-To Geek
 
  So far, it's looking like the Pixel 8a will be the only hardware we see at I/O. The Pixel 9 series, Pixel Watch 3, and Pixel Fold 2 will likely be reserved until the Fall.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Watch Google I/O 2024
 
  Are you excited about what could be in store for I/O this year? If you didn't get a special invitation from Google to attend in person, don't worry! Like last year, you can watch the keynote livestream online on May 14th and catch up on any sessions you missed later on demand. The live broadcast and recorded videos will be available on the [Google I/O website](https://io.google/) and [Google's YouTube channel](https://www.youtube.com/@Google) so that you can tune in from anywhere.
@@ -126,8 +104,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +111,22 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/chieve-professional-quality-on-yt-with-simple-blurring/"><u>[New] Achieve Professional Quality on YT with Simple Blurring</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebooks-most-noteworthy-tweaks-for-todays-users/"><u>[New] Facebook's Most Noteworthy Tweaks for Today’s Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>[Updated] Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-catalog-budget-friendly-image-treasuries-online/"><u>2024 Approved Exclusive Catalog Budget-Friendly Image Treasuries Online</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/boosting-traffic-through-innovative-facebook-video-tactics/"><u>Boosting Traffic Through Innovative Facebook Video Tactics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-many-pounds-of-co2-youve-prevented-by-using-uber-unveiling-the-new-emissions-savings-monitor/"><u>Discover How Many Pounds of CO2 You've Prevented by Using Uber – Unveiling the New Emissions Savings Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dynamic-car-insurance-pricing-based-on-real-time-driving-behavior-insights-from-zdnet/"><u>Dynamic Car Insurance Pricing Based on Real-Time Driving Behavior - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-smart-stickies-how-rocketbooks-innovative-solution-is-changing-note-taking-zdnet/"><u>Eco-Friendly Smart Stickies: How Rocketbook's Innovative Solution Is Changing Note-Taking | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-impact-of-smartphones-assessing-harm-and-eco-friendly-solutions-insights-from-zdnet/"><u>Eco-Impact of Smartphones: Assessing Harm & Eco-Friendly Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-smartphones-environmental-impact-understanding-and-mitigation-tips/"><u>Evaluating Smartphone's Environmental Impact: Understanding & Mitigation Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-amazing-bbqs-with-webers-elite-electric-grills-save-50-today-on-premier-models-exclusive-deal/"><u>Experience Amazing BBQs with Weber's Elite Electric Grills: Save $50 Today on Premier Models - Exclusive Deal!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210091788-9781439668054-haunts-of-the-white-city/"><u>Haunts of the White City | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rapid-recording-rules-for-iphone-timelapses/"><u>In 2024, Rapid Recording Rules for iPhone Timelapses</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-and-cool-tips-for-insta-collage-creation/"><u>Quick & Cool Tips for Insta Collage Creation</u></a></li>
+</ul></div>
 

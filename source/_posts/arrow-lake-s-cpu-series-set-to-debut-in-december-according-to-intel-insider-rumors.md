@@ -1,7 +1,7 @@
 ---
 title: Arrow Lake-S CPU Series Set to Debut in December According to Intel Insider Rumors
-date: 2024-08-23T13:01:14.326Z
-updated: 2024-08-24T13:01:14.326Z
+date: 2025-01-01T05:14:49.255Z
+updated: 2025-01-05T21:31:50.287Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Intel has reportedly increased the maximum thermal junction (TJMax) temperature 
 
  Panther Lake-U CPUs will purportedly sport up to four high-performance cores, four ultra-low-power cores, four Xe GPU clusters, and a PBP of 15W. In contrast, the more powerful Panther Lake-U processor will seemingly pack up to four high-performance cores, eight energy-efficient cores, four ultra-low-power cores, and 12 Xe graphics clusters. However, these CPUs will dissipate up to 25W. Because the image does not come from Intel, consider its contents with a grain of salt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Intel has reportedly increased the maximum thermal junction (TJMax) temperature 
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,24 @@ Intel has reportedly increased the maximum thermal junction (TJMax) temperature 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-visionary-vr-game-engines-transforming-2023s-gaming-landscape/"><u>[New] In 2024, Visionary VR Game Engines Transforming 2023'S Gaming Landscape</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-latest-nvidia-geforce-rtx-3080-drivers-compatible-with-windows-10-8-and-7/"><u>Free Download: Latest NVIDIA GeForce RTX 3080 Drivers Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nokia-c22-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nokia C22</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471751483-overcome-the-hurdle-connecting-your-iphone-to-a-pc-made-simple/"><u>Overcome the Hurdle: Connecting Your iPhone to a PC Made Simple!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a05s-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A05s Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/startling-proposal-from-us-airline-pilots-could-this-impact-your-flying-experience-insights-on-zdnet/"><u>Startling Proposal From US Airline Pilots: Could This Impact Your Flying Experience? - Insights on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/t-mobile-introduces-the-ultimate-325-travel-suitcase-for-freedom-on-the-go-shop-now/"><u>T-Mobile Introduces the Ultimate $325 Travel Suitcase for Freedom on the Go – Shop Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-drivers-can-look-forward-to-zoom-conferencing-on-the-road-insights-from-zdnet/"><u>Tesla Drivers Can Look Forward to Zoom Conferencing on the Road: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-enhances-vehicle-safety-with-groundbreaking-ota-software-upgrade-inside-the-latest-industry-milestone/"><u>Tesla Enhances Vehicle Safety with Groundbreaking OTA Software Upgrade: Inside the Latest Industry Milestone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-art-of-convincing-proposals-using-chatgpt-smartly/"><u>The Art of Convincing Proposals: Using ChatGPT Smartly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-new-era-of-maritime-security-artificial-intelligence-tackles-illicit-hashish-trade-by-pirates-zdnet/"><u>The New Era of Maritime Security: Artificial Intelligence Tackles Illicit Hashish Trade by Pirates | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-bluetooth-enabled-car-chargers-techradar/"><u>Top 5 Premium Bluetooth-Enabled Car Chargers | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-southwest-airlines-reward-credit-cards-comprehensive-review-by-zdnet/"><u>Top 5 Southwest Airlines Reward Credit Cards - Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshoot-your-cars-error-codes-using-our-latest-bluetooth-scanner-device-expert-reviews/"><u>Troubleshoot Your Car's Error Codes Using Our Latest Bluetooth Scanner Device | Expert Reviews</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-windows-10s-hidden-tool-a-guide-to-identifying-your-systems-powershell-version/"><u>Unveiling Windows 10'S Hidden Tool: A Guide to Identifying Your System's PowerShell Version</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-find-x7-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo Find X7 Phone Network-Ready</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->

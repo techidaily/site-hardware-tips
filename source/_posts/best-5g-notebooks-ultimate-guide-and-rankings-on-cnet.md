@@ -1,7 +1,7 @@
 ---
 title: "Best 5G Notebooks : Ultimate Guide and Rankings on CNet"
-date: 2024-12-25T20:19:32.183Z
-updated: 2024-12-28T00:13:39.058Z
+date: 2025-01-02T06:04:55.775Z
+updated: 2025-01-06T10:23:31.075Z
 tags:
   - laptops
 categories:
@@ -21,10 +21,6 @@ You're attempting to listen to music or watch a video on your computer.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### See also
 
@@ -47,14 +43,10 @@ And with a snafu like no sound, there are a few ways to troubleshoot the issue, 
 Here's how to pull this off in both Windows 10 and 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reset your audio settings in Windows
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check your audio and sound source
 
@@ -63,6 +55,10 @@ You've probably already checked the usual suspects. But let's review anyway. Mak
 Check the volume.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Go to sound settings
 
@@ -77,6 +73,10 @@ After choosing your output device, try playing audio again.
 Check the audio sources.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check external speakers
 
@@ -120,6 +120,10 @@ Use the Get Help app.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. In the sound settings screen, check the Volume mixer
 
 In Windows 10, right-click the System Tray Audio icon and select **Open sound settings**. Scroll to the bottom of the sound settings screen and click the setting for **App volume and device preferences**.
@@ -133,10 +137,6 @@ Screenshot by Lance Whitney
 Check the Volume mixer in Windows 11.
 
 Screenshot by Lance Whitney
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Click the Reset button
 
@@ -158,10 +158,6 @@ Check sound settings.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Uncheck Enable audio enhancements
 
 At the Properties window, click the **Advanced** tab and uncheck the box for **Enable audio enhancements**. Then click the **Test** button. Next, click the tab for **Spatial sound** and made sure this option is off.
@@ -169,6 +165,10 @@ At the Properties window, click the **Advanced** tab and uncheck the box for **E
 Turn off audio enhancements.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Find the audio driver in Device Manager
 
@@ -186,6 +186,10 @@ Update the driver.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 12\. If this doesn't work, try uninstalling the driver
 
 Still no luck? You can try uninstalling and then reinstalling the driver. Click the **Uninstall Device** button. Confirm that you want to uninstall it.
@@ -201,10 +205,6 @@ To bring back the driver, either reboot your PC or right-click on the entry for 
 Reinstall the audio driver.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 14\. Try stopping and restarting the Windows Audio service
 
@@ -259,22 +259,15 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ailored-trends-the-pathway-to-a-specialized-youtube-niche/"><u>[New] Tailored Trends The Pathway to a Specialized Youtube Niche</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-video-conferencing-with-ease-on-your-win10-pc/"><u>[Updated] Navigating Video Conferencing with Ease on Your Win10 PC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-online-add-on-social-media-story-vault/"><u>[Updated] Online Add-On Social Media Story Vault</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-journey-seamlessly-converted-into-high-quality-avis/"><u>[Updated] YouTube's Journey Seamlessly Converted Into High-Quality AVIs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-the-top-overlooked-dual-function-robot-cleaner-from-an-unknown-brand-featured-on-zdnet/"><u>Discover the Hidden Gem: The Top Overlooked Dual-Function Robot Cleaner From an Unknown Brand - Featured on ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-to-the-best-automated-robotic-vacuums-in-depth-tests-and-analysis-by-industry-experts-zdnet/"><u>Exclusive Guide to the Best Automated Robotic Vacuums: In-Depth Tests & Analysis by Industry Experts - ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-elite-zdnets-picks-for-photography-drones-of-the-year-2022/"><u>Explore the Elite: ZDNet's Picks for Photography Drones of the Year 2022</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005827510-fix-your-total-war-warhammer-ii-glitches-with-these-proven-methods/"><u>Fix Your TOTAL WAR: WARHAMMER II Glitches with These Proven Methods</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-clueless-to-clever-cat-care-a-positive-review-of-a-smart-litter-box-experience-zdnet/"><u>From Clueless to Clever Cat Care: A Positive Review of a Smart Litter Box Experience | ZDNET</u></a></li>
-<li><a href="https://discover-data.techidaily.com/from-technical-manuals-to-captivating-ereaders-turning-chm-pages-into-compelling-ebooks-using-flipbuildercom/"><u>From Technical Manuals to Captivating eReaders: Turning CHM Pages Into Compelling eBooks Using FlipBuilder.com</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-s23-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy S23 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-pro-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 Pro 4G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reevaluate-your-cleaning-choices-with-newly-launched-affordable-roborock-vacuums-compete-with-high-end-robovac-brands/"><u>Reevaluate Your Cleaning Choices with Newly Launched Affordable Roborock Vacuums - Compete with High-End RoboVac Brands</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-non-irobot-non-shark-robot-vacuum-reviewed-on-zdnet/"><u>Top-Rated Non-iRobot, Non-Shark Robot Vacuum Reviewed on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-movement-how-exosuit-technology-is-shaping-the-future-of-mobility/"><u>Transform Your Movement: How Exosuit Technology Is Shaping the Future of Mobility</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-the-uncanny-into-artistry-how-chatgpt-masterfully-revamps-eerie-concepts-techvibes-digest/"><u>Transforming the Uncanny Into Artistry: How ChatGPT Masterfully Revamps Eerie Concepts | TechVibes Digest</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-crafting-compelling-content-on-reddit-a-stepwise-path/"><u>[New] In 2024, Crafting Compelling Content on Reddit - A Stepwise Path</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-comprehensive-guide-to-screenshot-excellence/"><u>[New] In 2024, The Comprehensive Guide to Screenshot Excellence</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-xstream-studios-complete-exploration-in-156-words/"><u>[Updated] Unveiling XStream Studios Complete Exploration in 156 Words</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-aspect-ratios-for-stellar-youtube-thumbnails/"><u>2024 Approved Aspect Ratios for Stellar Youtube Thumbnails</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gaming-evolves-as-major-pc-brands-turn-to-chromebook-solutions-exclusive-zdnet-analysis/"><u>Gaming Evolves as Major PC Brands Turn to Chromebook Solutions | Exclusive ZDNet Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-on-viewing-spider-man-no-pathway-home-online/"><u>Guide on Viewing Spider-Man: No Pathway Home Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-uncover-the-10-most-trusted-wedding-timer-apps-androidios-of-2023/"><u>In 2024, Uncover the 10 Most Trusted Wedding Timer Apps (Android/iOS) of 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-displays-expert-reviews-and-comparisons-techradar/"><u>Top Rated Portable Displays : Expert Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-lenovos-newly-unveiled-mac-studio-clone-could-surpass-apples-in-the-eyes-of-windows-users-exclusive/"><u>Why Lenovo's Newly Unveiled 'Mac Studio' Clone Could Surpass Apple's in the Eyes of Windows Users Exclusive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-exclusive-pick-the-best-laptop-for-hybrid-professionals-now-with-50-off-limited-october-prime-day-offer-from-lenovo/"><u>ZDNet's Exclusive Pick: The Best Laptop for Hybrid Professionals Now with 50% Off – Limited October Prime Day Offer From Lenovo</u></a></li>
 </ul></div>
 

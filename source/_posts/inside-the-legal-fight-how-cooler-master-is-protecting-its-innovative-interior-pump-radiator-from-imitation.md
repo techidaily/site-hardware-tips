@@ -1,7 +1,7 @@
 ---
 title: "Inside the Legal Fight: How Cooler Master Is Protecting Its Innovative Interior Pump Radiator From Imitation"
-date: 2024-08-23T12:59:10.718Z
-updated: 2024-08-24T12:59:10.718Z
+date: 2025-01-04T17:21:22.060Z
+updated: 2025-01-06T10:39:34.034Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
 
  However, an AIO may not always be ideal, particularly if your SFF or slim case of choice doesn't happen to have the free fan slot(s) you need to make the most of it. And finally, performance-wise,[reviews suggest](https://youtu.be/xZQwKgf%5FIYU?t=380) that the original Noctua NH-D12L performs on par with much larger CPU coolers as well, which means it should outperform most 120 mm AIOs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,26 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-tips-for-youtube-content-creation-excellence-for-2024/"><u>[New] Ultimate Tips for YouTube Content Creation Excellence for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ingenious-ai-photo-masterclass/"><u>[Updated] Ingenious AI Photo Masterclass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/150-value-exploring-the-all-in-one-capabilities-of-satechis-universal-docking-station-zdnet-insights/"><u>$150 Value: Exploring the All-in-One Capabilities of Satechi's Universal Docking Station | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-top-pick-best-non-lenovonon-dell-2-in-1-laptops-before-prime-day-special-offers-revealed-zdnet/"><u>Affordable Top Pick: Best Non-Lenovo/Non-Dell 2-in-1 Laptops Before Prime Day - Special Offers Revealed! (ZDNet)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/claude-pro-exploration-benchmarked-against-enhanced-chatgptplus/"><u>Claude Pro Exploration: Benchmarked Against Enhanced ChatGPT+</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-wwdc-2023s-big-reveals-detailed-coverage-of-mac-pro-mac-studio-and-revolutionary-m2-ultra-processors/"><u>Decoding WWDC 2023'S Big Reveals: Detailed Coverage of Mac Pro, Mac Studio, and Revolutionary M2 Ultra Processors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-most-effective-study-tools-2024s-top-8-educational-applications/"><u>Discover the Most Effective Study Tools: 2024'S Top 8 Educational Applications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultimate-game-sound-with-amazons-discounted-top-tier-speaker-system-expert-review-by-zdnet/"><u>Experience Ultimate Game Sound with Amazon's Discounted Top-Tier Speaker System: Expert Review by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-motorola-moto-g04-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Motorola Moto G04 Quickly | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/galaxy-book-3-pro-360-vs-surface-pro-cuarta-generacion-cual-es-la-mejor-tableta-2-en-1-para-ti/"><u>Galaxy Book 3 Pro 360 Vs. Surface Pro Cuarta Generación: ¿Cuál Es La Mejor Tableta 2-en-1 Para Ti?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-ultimate-16-port-thunderbolt-dock-now-just-70-cheaper-on-amazon-insider-info-from-zdnet/"><u>Get Your Hands On The Ultimate 16-Port Thunderbolt Dock, Now Just $70 Cheaper on Amazon - Insider Info From ZDNET</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-above-and-beyond-uavs-for-gopro-recording-excellence/"><u>In 2024, Above and Beyond UAVs for GoPro Recording Excellence</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-street-fighter-6-on-your-pc-proven-methods-to-tackle-high-ping-and-seamless-gaming-experience/"><u>Master Street Fighter 6 on Your PC: Proven Methods to Tackle High Ping and Seamless Gaming Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tablet-or-laptop-showdown-determining-if-ipad-pro-beats-macbook-air-for-your-needs/"><u>Tablet or Laptop Showdown: Determining if iPad Pro Beats MacBook Air for Your Needs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-10-innovative-podcast-microphone-picks/"><u>Top 10 Innovative Podcast Microphone Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-designer-laptops-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Graphics Designer Laptops: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-artistic-expression-download-movie-maker-for-win11-enthusiasts-for-2024/"><u>Unlock Artistic Expression Download Movie Maker for Win11 Enthusiasts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-chromebooks-stand-out-as-the-perfect-option-for-users-a-closer-look-by-zdnet-with-7-key-points/"><u>Why Chromebooks Stand Out as the Perfect Option for Users: A Closer Look by ZDNet with 7 Key Points</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

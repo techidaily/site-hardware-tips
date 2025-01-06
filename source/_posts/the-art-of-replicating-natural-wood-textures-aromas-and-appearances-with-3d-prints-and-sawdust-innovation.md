@@ -1,7 +1,7 @@
 ---
 title: The Art of Replicating Natural Wood Textures, Aromas, and Appearances with 3D Prints and Sawdust Innovation
-date: 2024-08-23T13:01:03.921Z
-updated: 2024-08-24T13:01:03.921Z
+date: 2025-01-05T06:49:32.629Z
+updated: 2025-01-06T10:56:36.775Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,24 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-maximizing-b-roll-creative-uses-and-integration/"><u>[Updated] 2024 Approved Maximizing B-Roll Creative Uses and Integration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-hd-video-playback-the-essential-apps-for-android/"><u>[Updated] Best Hd Video Playback The Essential Apps for Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-complete-guide-to-crafting-perfect-instagram-stories/"><u>[Updated] The Complete Guide to Crafting Perfect Instagram Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleash-creativity-iphone-camera-mastery-through-10-rules/"><u>[Updated] Unleash Creativity IPhone Camera Mastery Through 10 Rules</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-china-surpasses-expectations-becomes-worlds-largest-and-quickest-expanding-hub-for-electric-vehicle-sales-insights-from-zdnet/"><u>1. China Surpasses Expectations: Becomes World's Largest and Quickest Expanding Hub for Electric Vehicle Sales - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-best-free-srt-translators-online/"><u>2024 Approved The Ultimate Guide to Choosing Best FREE SRT Translators Online</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-m54-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy M54 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/alarming-proposal-by-american-airlines-pilots-raises-concerns-and-customer-reactions-insight-from-zdnet/"><u>Alarming Proposal by American Airlines Pilots Raises Concerns & Customer Reactions - Insight From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-narzo-60-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme Narzo 60 Pro 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pictureweaver-2021-seamless-photo-video-mix/"><u>PictureWeaver 2021 Seamless Photo-Video Mix</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-in-flight-internet-prospects-of-improved-connectivity-soar-high/"><u>Transforming In-Flight Internet: Prospects of Improved Connectivity Soar High!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-perceptions-how-todays-electric-vehicles-at-the-ev-expo-prove-theyre-more-than-just-modern-day-prius-cars-zdnet/"><u>Transforming Perceptions: How Today's Electric Vehicles at the EV Expo Prove They're More Than Just Modern-Day Prius Cars | ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-aether-discovering-the-concept-and-becoming-a-member/"><u>Unveiling Aether: Discovering the Concept & Becoming a Member</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-zectron-e-bike-one-week-test-drive-reveals-hidden-gems-and-promising-capabilities/"><u>Unveiling the Zectron E-Bike: One Week Test Drive Reveals Hidden Gems and Promising Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-flight-comfort-with-the-ultimate-tech-gadgets-for-enhanced-air-travel-experience/"><u>Upgrade Your Flight Comfort with the Ultimate Tech Gadgets for Enhanced Air Travel Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/us-based-electric-vehicle-ev-battery-production-samsung-sdi-and-general-motors-invest-3-billion-together/"><u>US-Based Electric Vehicle (EV) Battery Production: Samsung SDI & General Motors Invest $3 Billion Together</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-united-airlines-is-asking-for-a-higher-fee-an-in-depth-look/"><u>Why United Airlines Is Asking For A Higher Fee: An In-Depth Look</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

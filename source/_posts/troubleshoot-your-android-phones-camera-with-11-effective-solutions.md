@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Your Android Phone's Camera with 11 Effective Solutions
-date: 2024-09-01T08:28:03.262Z
-updated: 2024-09-02T08:28:03.262Z
+date: 2024-12-31T21:59:55.176Z
+updated: 2025-01-06T09:27:15.532Z
 tags:
   - android
 categories:
@@ -41,22 +41,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The Apps tab in the Android Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apps-in-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  Search for the "Camera" app in the list of apps.
 
 ![Camera app in list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/camera-app-in-list-of-app-settings.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tap onthe "Force Stop" or "Force Close" button (usually at the bottom of the screen).
 
 ![Force stop the app in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/force-stop-app-in-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, when you open your camera, it will hopefully work smoothly without a crash.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ###  2\. How to Restart an Android Phone
 
  If restarting the camera app does not solve the problem, you should restart your phone. A restart gets rid of bugs and glitches and resets ongoing processes.
@@ -65,14 +67,8 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Tap "Restart."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230920_164723_nova-launcher.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  Tap "Restart" and your phone will power off and then power on after a few seconds. Your camera should start working properly now. Your phone may have remapped the power button to a different function, [in which case you'll need to go a different route](https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-8-fix-now-drfone-by-drfone-virtual-ios/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  3\. Allow All Camera Permissions
 
 [Permissions for camera features](https://fox-hovers.techidaily.com/2024-approved-prime-gopro-movie-maker-list/) might have been accidentally denied for the camera app. To allow permissions for the camera app, go to your app list and press and hold the camera icon until a menu pops up. Tap on "App Info" or the icon that has the letter "i" in a circle.
@@ -88,13 +84,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![The camera features should be ae allowed in the settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/camera-app-permissions-allowed.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  4\. Close All Apps Using The Camera
 
  Snapchat, Instagram, other third-party camera apps, and editing apps have access to your phone's camera. Having the camera open in any of these apps in the background while trying to use the default camera app can cause it to crash.
 
  It's pretty easy to fix. Go to the Recent Apps on your phone and swipe away all the apps that are making use of the camera. Now, open the default camera app, it should work fine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  5\. Clear Camera App Data
 
@@ -102,49 +107,30 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The Apps tab in the Android Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apps-in-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select the camera app in the list of apps and tap on "Storage."
 
 ![Storage tab in camera app settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/storage-in-camera-app-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  This will open a page showing how much storage space the camera takes; tap the "Clear Data button." This will clear the app data and cache and give the camera app a fresh start.
 
 ![Tap on the clear data button in camera app storage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/clear-data-in-camera-app-storage.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ###  6\. Free Up Storage Space
 
  If your camera app keeps freezing or refuses to take pictures, [freeing up storage space](https://facebook-video-share.techidaily.com/updated-expert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes/) might just be the fix to stop the freezing. You simply have to delete media, documents and other files that are taking up space on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  7\. How to Fix Blurry Pictures on Android
 
 ![The camera on the iPhone 15.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/53213583784_476e3c28ab_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek  
   
  You can fix blurry pictures in your camera by cleaning smudges or dirt on your lens with a clean soft cloth. You should also make sure to tap the screen to focus on the subject of your picture before capturing it. This would help you get clear focused pictures.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  8\. Carry Out A Software Update
 
  Keep your phone running smoothly by [staying up-to-date with the latest software](https://common-error.techidaily.com/simple-solutions-troubleshooting-and-enhancing-your-file-explorer-on-windows-11/). To update your Android OS, open the Settings app and tap on "Software Update." You may need to go to "System" first.
@@ -159,7 +145,15 @@ Corbin Davenport / How-To Geek
 
 ![Screenshot showing blue download button software updates.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/blue-download-button-software-updates.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This update will potentially clear out the bug causing the problem, and you will be able to take pictures with the camera app again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  9\. Install a Third Party Android Camera
 
@@ -167,14 +161,15 @@ Corbin Davenport / How-To Geek
 
  Ensure that you only install these apps from trusted sources like the Google Play Store so that you don't open your phone up to malware and viruses. Apps like [Cymera](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000728/https://play.google.com/store/apps/details?id=com.cyworld.camera), [Relens](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000728/https://play.google.com/store/apps/details?id=com.accordion.pro.camera), and [Open Camera](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000728/https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) are ideal alternatives for the default camera. All you need to do is to download them and start using them to take pictures and videos.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  10\. Factory Reset Your Phone
 
  A factory reset is an extreme action. It clears all your data, media, and apps from your phone permanently and returns it to its default settings. Since this will return your camera app to how it was when the phone was brand new, it should resolve any problems that have occurred since.
 
  To factory reset your phone, go to the Settings app. Navigate to General Management/System > Reset > Factory Data Reset. Check out our [guide on how to factory reset Android phones](https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-14-in-the-best-ways-by-drfone-ios/) for detailed steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  11\. Take Your Device For Repair
 
@@ -186,8 +181,6 @@ Corbin Davenport / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +188,20 @@ Corbin Davenport / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlock-the-magic-creating-breathtaking-gopro-time-lapse-videos/"><u>[New] 2024 Approved Unlock the Magic Creating Breathtaking GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-cutting-edge-ways-of-shooting-with-a-fisheye-lens-for-2024/"><u>[Updated] Cutting-Edge Ways of Shooting with a Fisheye Lens for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-production-to-publication-streamlining-video-submission-for-2024/"><u>[Updated] From Production to Publication Streamlining Video Submission for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporating-creative-effects-into-your-zoom-meetings-step-by-step/"><u>2024 Approved Incorporating Creative Effects Into Your Zoom Meetings Step-by-Step</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-tech-gurus-guide-to-why-you-need-an-apple-watch-unveil-the-reasons-at-zdnet/"><u>A Tech Guru's Guide to Why You Need an Apple Watch – Unveil the Reasons at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/android-wear-evolved-how-does-the-google-pixel-watch-stack-up-against-the-apple-series-expert-insights-from-zdnet/"><u>Android Wear Evolved: How Does the Google Pixel Watch Stack Up Against the Apple Series? Expert Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-watch-ultra-durability-challenge-a-full-year-assessment-on-endurance-and-performance/"><u>Apple Watch Ultra Durability Challenge: A Full-Year Assessment on Endurance and Performance</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-detailed-guide-to-dollar-counts-a-stepwise-strategy-to-track-youtube-earnings/"><u>In 2024, Detailed Guide to Dollar Counts A Stepwise Strategy to Track YouTube Earnings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/innovative-social-networking-sites-that-challenge-tiktoks-dominance/"><u>Innovative Social Networking Sites That Challenge TikTok's Dominance</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/seamlessly-enhancing-your-mac-with-catalina/"><u>Seamlessly Enhancing Your Mac with Catalina</u></a></li>
+<li><a href="https://win-hot.techidaily.com/soluzioni-efficaci-per-quando-la-clonazione-disco-di-acronis-fallisce-consigli-e-passaggi-dettagliati/"><u>Soluzioni Efficaci per Quando La Clonazione Disco Di Acronis Fallisce: Consigli E Passaggi Dettagliati.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-enhancements-discover-watchos-11s-top-notch-additions-for-your-apple-watch-techzine/"><u>Unveiling New Enhancements: Discover WatchOS 11'S Top-Notch Additions for Your Apple Watch | TechZine</u></a></li>
+</ul></div>
 

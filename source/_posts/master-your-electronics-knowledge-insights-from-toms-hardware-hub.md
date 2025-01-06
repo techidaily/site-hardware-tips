@@ -1,7 +1,7 @@
 ---
 title: "Master Your Electronics Knowledge: Insights From Tom's Hardware Hub"
-date: 2024-08-23T13:02:38.367Z
-updated: 2024-08-24T13:02:38.367Z
+date: 2025-01-03T05:27:11.598Z
+updated: 2025-01-06T08:37:08.182Z
 tags:
   - cooling
 categories:
@@ -51,6 +51,10 @@ Lamptron ST060  (Image credit: Caseking)
 
  German retailer Caseking sells the Lamptron ST060 for around[$273](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1459285694511670858&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-6-zoll-display-schwarz-luls-381.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , excluding VAT (value-added tax). The ARGB model with black fans seems to retail for the[same price](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F9735574776972625510&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-argb-mit-6-zoll-display-schwarz-luls-382.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , so it really just comes down to preference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,14 +63,11 @@ Lamptron ST060  (Image credit: Caseking)
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,12 +76,24 @@ Lamptron ST060  (Image credit: Caseking)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-starting-off-right-must-haves-for-youtube-enthusiasts/"><u>[Updated] Starting Off Right Must-Haves for YouTube Enthusiasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-screenshot-on-mac-5-simple-ways/"><u>2024 Approved How to Screenshot on Mac - 5 Simple Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/8-plus-edition-ideal-for-devoted-amazon-enthusiasts/"><u>8 Plus Edition - Ideal for Devoted Amazon Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-quality-discover-why-this-android-tablet-is-a-total-game-changer-exclusive-review-on-zdnet/"><u>Affordable Quality: Discover Why This Android Tablet Is a Total Game-Changer - Exclusive Review on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-exclusive-deal-snag-a-4tb-samsung-t5-portable-ssd-at-an-unbelievable-050-off-price-zdnet-alert/"><u>Amazon's Exclusive Deal: Snag a 4TB Samsung T5 Portable SSD at an Unbelievable $0.50 Off Price | ZDNet Alert!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-missing-out-discover-the-best-tablet-discounts-of-prime-day-202n-curated-by-zdnet/"><u>Avoid Missing Out: Discover the Best Tablet Discounts of Prime Day 202N – Curated by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-price-tag-how-a-2-cuartoandroid-tablet-outshines-predictions-reviewed-by-zdnet/"><u>Beyond the Price Tag: How a $2 cuartoAndroid Tablet Outshines Predictions | Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-audio-barriers-the-ultimate-speaker-system-that-beats-bose-and-sonos-zdnet-recommendation/"><u>Breaking Audio Barriers: The Ultimate Speaker System That Beats Bose and Sonos (ZDNet Recommendation)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/download-ios-16-early-access-tips-on-getting-your-iphone-updated-immediately-though-considering-a-delay/"><u>Download iOS 16 Early Access: Tips on Getting Your iPhone Updated Immediately (Though Considering a Delay)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-ideal-tablets-for-academic-success-in-depth-guide-zdnet/"><u>Expert Analysis of Ideal Tablets for Academic Success - In-Depth Guide | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-easily-transform-a-gif-into-moving-image-format-a-3-step-quicktime-conversion-guide/"><u>How to Easily Transform a GIF Into Moving Image Format: A 3-Step QuickTime Conversion Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-reno-8t-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo Reno 8T 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-streamline-your-workflow-with-these-5-obs-editing-hacks/"><u>In 2024, Streamline Your Workflow with These 5 OBS Editing Hacks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unplugging-pauses-from-social-streams-a-2023-approach-to-fixing-livestream-issues/"><u>In 2024, Unplugging Pauses From Social Streams A 2023 Approach to Fixing Livestream Issues</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/key-figures-in-the-taiping-uprising-unveiling-the-commanders-behind-the-movement-insights-by-yl-tech/"><u>Key Figures in the Taiping Uprising: Unveiling the Commanders Behind the Movement - Insights by YL Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-hp-victus-15-gaming-notebook-at-a-steal-only-515-during-prime-day-special-shop-now-on-bestbuy/"><u>Snag HP Victus 15 Gaming Notebook at a Steal: Only $515 During Prime Day Special - Shop Now on BestBuy!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-collective-evaluation-of-vllo-for-2024/"><u>The Collective Evaluation of VLLO for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Introducing Apple's Latest Upgrade: The MacBook Air Now Comes in 13 & 15 Sizes Featuring the Powerful M3 Chip - Discover All You Need to Know"
-date: 2024-12-23T20:54:04.815Z
-updated: 2024-12-27T18:18:41.704Z
+date: 2025-01-03T20:07:21.702Z
+updated: 2025-01-06T06:13:03.058Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,17 +118,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-reviews.techidaily.com/battle-of-titans-expert-review-of-samsung-galaxy-s10plus-vs-galaxy-s20-performance-and-features/"><u>Battle of Titans: Expert Review of Samsung Galaxy S10+ vs Galaxy S20 Performance & Features</u></a></li>
-<li><a href="https://facebook.techidaily.com/career-development-tips-integrating-facebook-into-your-plan/"><u>Career Development Tips: Integrating Facebook Into Your Plan</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-hacker-intentions-the-curious-case-of-targeting-chatgpt-accounts/"><u>Decoding Hacker Intentions: The Curious Case of Targeting ChatGPT Accounts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/evolution-of-apples-mobile-os-tracing-the-development-from-ios-10-to-18/"><u>Evolution of Apple's Mobile OS: Tracing the Development From iOS 1.0 to 18.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-ai-revolutionizes-hardware-the-future-of-enhanced-pc-specifications/"><u>How AI Revolutionizes Hardware: The Future of Enhanced PC Specifications</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-i-successfully-silenced-unwanted-white-hissing-sound-from-my-audio-system/"><u>How I Successfully Silenced Unwanted White Hissing Sound From My Audio System</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-non-programmers-can-harness-the-power-of-keyboard-macros-in-their-routine/"><u>How Non-Programmers Can Harness the Power of Keyboard Macros in Their Routine</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-intel-reasons-behind-the-recent-spike-in-desktop-processor-malfunctions/"><u>Inside Intel: Reasons Behind the Recent Spike in Desktop Processor Malfunctions</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-pop-7-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pop 7 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/transforming-your-content-delivery-the-power-of-onestream-for-2024/"><u>Transforming Your Content Delivery The Power of OneStream for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-adventure-a-guide-for-when-granblue-fantasy-relink-wont-start/"><u>Unstick Your Adventure: A Guide for When Granblue Fantasy Relink Won't Start</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-strategic-utilization-of-azure-voice-to-text-capabilities/"><u>[New] 2024 Approved Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-supercharge-videos-download-premium-effs/"><u>[Updated] 2024 Approved Supercharge Videos - Download Premium Effs!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>2024 Approved Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-influence-essential-marketing-expressions-explained/"><u>2024 Approved The Art of Influence Essential Marketing Expressions Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chromebook-invasion-students-battle-bedbug-outbreak-in-school-devices-again-tech-news/"><u>Chromebook Invasion: Students Battle Bedbug Outbreak in School Devices Again | Tech News</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elevate-your-live-recordings-on-facebook-with-4-methods-for-2024/"><u>Elevate Your Live Recordings on Facebook with 4 Methods for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-finding-and-adding-new-software-to-your-samsung-smart-tv-device/"><u>Guide: Finding and Adding New Software to Your Samsung Smart TV Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-narzo-60-pro-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme Narzo 60 Pro 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/optimal-series-professional-webcam-stabilizers/"><u>Optimal Series Professional Webcam Stabilizers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/section-amoebas/"><u>Section Amoebas!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/strategies-for-storing-real-time-webcam-talks-for-2024/"><u>Strategies for Storing Real-Time Webcam Talks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-webcams-of-2024-comprehensive-reviews-by-industry-experts/"><u>Top-Rated Streaming Webcams of 2024: Comprehensive Reviews by Industry Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-display-quality-grab-this-budget-friendly-laptop-deal-today-gadgetsreview/"><u>Unbeatable Display Quality: Grab This Budget-Friendly Laptop Deal Today | GadgetsReview</u></a></li>
 </ul></div>
 

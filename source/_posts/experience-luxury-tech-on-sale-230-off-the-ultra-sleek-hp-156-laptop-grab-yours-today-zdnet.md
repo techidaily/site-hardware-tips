@@ -1,7 +1,7 @@
 ---
 title: "Experience Luxury Tech on Sale: $230 Off the Ultra-Sleek HP 15.6” Laptop - Grab Yours Today @ ZDNET!"
-date: 2024-12-26T17:38:51.158Z
-updated: 2024-12-27T20:13:01.402Z
+date: 2025-01-03T19:49:38.171Z
+updated: 2025-01-06T04:17:49.822Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,14 +138,24 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-clips-to-classrooms-harnessing-youtubes-potential-for-teaching/"><u>[Updated] In 2024, From Clips to Classrooms Harnessing YouTube's Potential for Teaching</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-epic-launcher-backups/"><u>Essential Tips for Epic Launcher Backups</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-google-pixel-fold-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Google Pixel Fold to Another | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovation-in-dining-robots-filling-shifts-for-sparse-restaurant-crew-and-the-future-of-human-servers-explored-zdnet/"><u>Innovation in Dining: Robots Filling Shifts for Sparse Restaurant Crew, and the Future of Human Servers Explored | ZDNET</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211383487-9798330236978-selfish-healing/"><u>Selfish Healing | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/small-in-size-massive-in-cleaning-capability-discover-the-mighty-dinner-plate-sized-robot-vacuum-featured-on-zdnet/"><u>Small in Size, Massive in Cleaning Capability: Discover the Mighty Dinner Plate-Sized Robot Vacuum Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/smart-savings-guide-expert-review-compares-economy-to-luxury-robot-vacuums-for-cost-conscious-consumers/"><u>Smart Savings Guide: Expert Review Compares Economy to Luxury Robot Vacuums for Cost-Conscious Consumers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-4-kid-friendly-ipad-models-comprehensive-review-by-zdnet/"><u>Top 4 Kid-Friendly iPad Models - Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-feline-hygiene-with-innovation-how-our-cats-embrace-the-smart-litter-solution-zdnet/"><u>Transforming Feline Hygiene with Innovation: How Our Cats Embrace the Smart Litter Solution | ZDNET</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-compose-cringe-inducing-gifs-with-giphy/"><u>[New] 2024 Approved Compose Cringe-Inducing Gifs with Giphy</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pricing-guide-to-film-a-bands-music-visual/"><u>[New] Pricing Guide to Film a Band's Music Visual</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-cutting-edge-filmmaking-techniques-youtubes-insights-and-competitors/"><u>[Updated] Cutting-Edge Filmmaking Techniques YouTube's Insights & Competitors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-art-of-youtube-video-submissions-for-maximum-reach/"><u>[Updated] Mastering the Art of YouTube Video Submissions for Maximum Reach</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-revolutionized-my-tech-setup-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How One Change Revolutionized My Tech Setup | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-productivity-the-revolutionary-device-that-converts-phones-into-extra-screens-for-computers-tech-insights-on-zdnet/"><u>Boost Your Productivity: The Revolutionary Device That Converts Phones Into Extra Screens for Computers | Tech Insights on ZDNET</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-your-youtube-earnings-with-effective-adsense-use/"><u>Boost Your YouTube Earnings with Effective AdSense Use</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-selection-find-dells-greatest-deals-of-cyber-monday-across-best-buy-amazon-newegg-et-al-insights-by-zdnet/"><u>Explore the Ultimate Selection: Find Dell's Greatest Deals of Cyber Monday Across Best Buy, Amazon, Newegg, Et Al. - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-laptops-how-lenovo-addresses-rising-demands-for-advanced-artificer-intelligence-and-robust-cybersecurity-tech-analysis/"><u>Future-Proof Laptops: How Lenovo Addresses Rising Demands for Advanced Artificer Intelligence and Robust Cybersecurity Tech Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-back-in-the-game-fixes-when-multiversus-wont-open-on-your-computer/"><u>Get Back in the Game: Fixes When MultiVersus Won't Open on Your Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-s24plus-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy S24+ Face Lock?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-minimal-time-maximum-effect/"><u>In 2024, Minimal Time, Maximum Effect</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-to-mp3-conversion-process-walkthrough/"><u>Instagram to MP3 Conversion Process Walkthrough</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-tab-extreme-vs-ipad-pro-the-underestimated-contender-taking-on-tech-giants/"><u>Lenovo Tab Extreme Vs. IPad Pro: The Underestimated Contender Taking on Tech Giants</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-new-research-warns-against-potential-data-theft-by-pc-repair-experts-insights-from-zdnet/"><u>Protect Your Privacy: New Research Warns Against Potential Data Theft by PC Repair Experts - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-workspace-the-ultimate-guide-to-the-surprising-power-feature-in-the-latest-12-port-thunderbolt-dock-for-enhanced-windows-experience-zdnet53/"><u>Revolutionize Your Workspace: The Ultimate Guide to the Surprising Power Feature in the Latest 12-Port Thunderbolt Dock for Enhanced Windows Experience | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-save-big-on-the-ultimate-game-audio-experience-from-amazon-discovered/"><u>Unbeatable Deal Alert: Save Big on the Ultimate Game Audio Experience From Amazon – Discovered</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmatched-savings-alert-how-this-superior-windows-ultrabook-surpasses-the-macbook-air-and-is-currently-on-sale-exclusive-tips-from-zdnet/"><u>Unmatched Savings Alert: How This Superior Windows Ultrabook Surpasses the MacBook Air & Is Currently on Sale | Exclusive Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/winter-woes-for-your-tech-gadgets-why-apples-ipad-macbook-and-iphone-may-cease-charging-during-the-cold-months-a-deep-dive-by-zdnet/"><u>Winter Woes for Your Tech Gadgets: Why Apple's iPad, MacBook, and iPhone May Cease Charging During the Cold Months - A Deep Dive by ZDNet</u></a></li>
 </ul></div>
 

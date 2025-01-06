@@ -1,7 +1,7 @@
 ---
 title: Mastering Modern Electronics with Tom's Expert Hardware Analysis
-date: 2024-08-23T13:00:34.970Z
-updated: 2024-08-24T13:00:34.970Z
+date: 2025-01-02T16:01:30.604Z
+updated: 2025-01-06T13:15:17.729Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,26 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlock-free-music-anytime-facebook-app/"><u>[New] In 2024, Unlock Free Music, Anytime - Facebook App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevate-your-iphone-x-experience-with-pro-animoji-use/"><u>[Updated] Elevate Your iPhone X Experience with Pro Animoji Use</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-streamline-vimeo-video-publicity-tactics/"><u>[Updated] In 2024, Streamline Vimeo Video Publicity Tactics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-finest-thermal-travel-mugs-ideal-for-tea-coffee-and-more-zdnet/"><u>2022'S Finest Thermal Travel Mugs: Ideal for Tea, Coffee & More | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-driving-with-elite-radar-detectors-vetted-by-specialists-at-zdnet-the-complete-selection-list/"><u>Ace Your Driving with Elite Radar Detectors Vetted by Specialists at ZDNet: The Complete Selection List!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/autonomous-deliveries-on-the-rise-with-uber-leading-the-way-according-to-zdnet/"><u>Autonomous Deliveries on the Rise with Uber Leading the Way, According to ZDNet</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/can-upgrading-your-ram-speed-up-an-underperforming-pc-insights-by-yl-software/"><u>Can Upgrading Your RAM Speed Up an Underperforming PC? - Insights by YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-the-leading-unboxing-yt-channels/"><u>Discover the Leading Unboxing YT Channels</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-12-mini-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 12 mini to Samsung | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/407277-9780307555410-the-creation-of-health/"><u>The Creation of Health | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-savings-alert-book-your-next-flight-at-just-6-of-the-price-with-dollar-flight-club-exclusive-insider-info-from-zdnet/"><u>Unbelievable Savings Alert! Book Your Next Flight at Just 6% of the Price with Dollar Flight Club | Exclusive Insider Info From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-complexities-of-the-updated-electric-vehicle-tax-incentive-eligibility-criteria-revealed/"><u>Understanding the Complexities of the Updated Electric Vehicle Tax Incentive: Eligibility Criteria Revealed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-x7b-by-drfone-android/"><u>Universal Unlock Pattern for Honor X7b</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-future-of-food-retail-discover-zdnets-1-ai-innovation-transforming-shopping-trips/"><u>Unlock the Future of Food Retail: Discover ZDNet's #1 AI Innovation Transforming Shopping Trips!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-redesign-of-your-uber-application-essential-insights-revealed-by-zdnet/"><u>Upcoming Redesign of Your Uber Application: Essential Insights Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-kalk-cake-electric-bike-your-eco-friendly-work-to-play-transporter-with-a-utilitarian-edge/"><u>ZDNet Reveals Kalk Cake Electric Bike: Your Eco-Friendly Work-to-Play Transporter with a Utilitarian Edge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-guide-to-emporia-energys-economical-electric-vehicle-charger-with-enhanced-data-features/"><u>ZDNet's Comprehensive Guide to Emporia Energy’s Economical Electric Vehicle Charger with Enhanced Data Features</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

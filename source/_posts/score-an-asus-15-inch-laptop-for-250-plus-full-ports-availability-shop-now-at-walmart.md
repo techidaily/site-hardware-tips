@@ -1,7 +1,7 @@
 ---
 title: Score an Asus 15-Inch Laptop for $250 + Full Ports Availability | Shop Now at Walmart
-date: 2024-12-25T16:25:45.209Z
-updated: 2024-12-27T18:49:30.116Z
+date: 2024-12-30T23:06:59.980Z
+updated: 2025-01-06T06:59:06.233Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,20 +87,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-game-masters-guide-to-4k-monitors/"><u>2024 Approved Game Masters' Guide to 4K Monitors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-software-selection-upload-videos-for-twitter/"><u>2024 Approved Premium Software Selection Upload Videos for Twitter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-your-perfect-travel-companion-discovering-the-most-innovative-portable-photo-printers-of-2024-techadvise/"><u>Find Your Perfect Travel Companion: Discovering the Most Innovative Portable Photo Printers of 2024 | TechAdvise</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/headphones-wont-appear-in-my-listening-options-fixing-device-recognition-problems-on-a-windows-10-computer/"><u>Headphones Won't Appear in My Listening Options: Fixing Device Recognition Problems on a Windows 10 Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-7-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 7 Plus</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-most-caring-android-solutions-for-3ds-games/"><u>In 2024, The Most Caring Android Solutions for 3DS Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-errors-in-creating-directx-graphics-hardware-interface/"><u>Resolved: Fixing Errors in Creating DirectX Graphics Hardware Interface</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/safeguard-your-electronics-the-risks-of-incompatible-usb-c-connections-and-how-to-prevent-them-zdnet/"><u>Safeguard Your Electronics: The Risks of Incompatible USB-C Connections & How to Prevent Them | ZDNet</u></a></li>
-<li><a href="https://fox-info.techidaily.com/simplified-approach-to-crafting-xml-for-podcasts/"><u>Simplified Approach to Crafting XML for Podcasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/snapchat-friend-management-guide-how-to-unfriend-several-contacts/"><u>Snapchat Friend Management Guide: How to Unfriend Several Contacts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-a-traditional-workspace-into-a-hub-of-efficiency-and-teamwork-insights-from-a-success-story/"><u>Transforming a Traditional Workspace Into a Hub of Efficiency & Teamwork - Insights From a Success Story</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-digital-workflows-why-every-creative-professional-needs-a-16-port-usb-hub-insights-from-zdnet/"><u>Transforming Digital Workflows: Why Every Creative Professional Needs a 16-Port USB Hub | Insights From ZDNet</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/tutorial-paso-a-paso-para-transferir-archivos-pst-de-microsoft-outlook-al-almacenamiento-en-linea-de-onedrive/"><u>Tutorial Paso a Paso Para Transferir Archivos PST De Microsoft Outlook Al Almacenamiento en Línea De OneDrive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-these-ecological-interactions-is-vital-for-biodiversity-conservation-predicting-ecosystem-changes-and-managing-wildlife-populations/"><u>Understanding These Ecological Interactions Is Vital for Biodiversity Conservation, Predicting Ecosystem Changes, and Managing Wildlife Populations.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-features-of-mavix-m9-gaming-chair-the-epitome-of-ergonomic-design-and-personalization-zdnet-review/"><u>Unraveling the Features of Mavix M9 Gaming Chair: The Epitome of Ergonomic Design & Personalization | ZDNET Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-accessible-alternatives-googles-simplicity-versus-samsungs-innovation-for-2024/"><u>[New] Accessible Alternatives Google's Simplicity Versus Samsung's Innovation for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-chill-vibes-current-hits-to-match-your-yt-short-tunes/"><u>[Updated] In 2024, Chill Vibes Current Hits to Match Your YT Short Tunes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ignite-your-passion-launching-an-epic-youtube-game-streaming-venture/"><u>[Updated] In 2024, Ignite Your Passion Launching an Epic YouTube Game-Streaming Venture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-tech-manual-for-saving-web-streamed-television/"><u>[Updated] The Ultimate Tech Manual for Saving Web-Streamed Television</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acers-powerhouse-for-gamers-now-under-650-at-newegg-in-depth-deal-analysis/"><u>Acer's Powerhouse for Gamers, Now Under $650 at Newegg: In-Depth Deal Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-luxury-for-your-laptop-needs-top-reviews-of-stunning-displays-on-a-lightweight-model-featured-by-zdnet/"><u>Affordable Luxury for Your Laptop Needs: Top Reviews of Stunning Displays on a Lightweight Model - Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boosting-chromeos-development-with-your-feedback-a-guide-tech-insights-by-zdnet/"><u>Boosting ChromeOS Development with Your Feedback - A Guide | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-essential-google-chrome-update-for-enhanced-security-and-performance-tips-from-zdnet-this-weekend/"><u>Don't Miss Out: Essential Google Chrome Update for Enhanced Security and Performance - Tips From ZDNet This Weekend!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-insights-on-acquiring-budget-friendly-surface-pro-11-top-3-discoveries-revealed-techwise/"><u>Experts' Insights on Acquiring Budget-Friendly Surface Pro 11 - Top 3 Discoveries Revealed | TechWise</u></a></li>
+<li><a href="https://win11.techidaily.com/freedom-from-epic-game-launcher-in-windows-11-steps-explained/"><u>Freedom From Epic Game Launcher in Windows 11: Steps Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fresh-chromeos-enhancement-introduces-windows-11-features-to-your-chromebook-zdnet-insights/"><u>Fresh ChromeOS Enhancement Introduces Windows 11 Features to Your Chromebook - ZDNet Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-oppo-a59-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Oppo A59 5G?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-pcs-best-vr-top-10-immersive-360-video-players/"><u>In 2024, PC's Best VR Top 10 Immersive 360 Video Players</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-for-gradual-mix-adjustments-in-pro-tools/"><u>In 2024, Techniques for Gradual Mix Adjustments in Pro Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-microsofts-cutting-edge-surface-pro-10-and-laptop-nv6-with-advanced-ai-integration-the-latest-innovations-unveiled/"><u>Introducing Microsoft's Cutting-Edge Surface Pro 10 and Laptop Nv6 with Advanced AI Integration - The Latest Innovations Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swap-screen-direction-on-win7-pcs/"><u>Swap Screen Direction on Win7 PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-lenovo-laptop-picks-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Lenovo Laptop Picks - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-microsoft-wireless-display-adapter-for-windows-11-a-step-by-step-guide/"><u>Troubleshooting Your Microsoft Wireless Display Adapter for Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-players-comparing-leading-gaming-laptops-in-202amongst-razer-acer-msi-and-others-expert-review-by-zdnet/"><u>Unveiling the Power Players: Comparing Leading Gaming Laptops in 202Amongst Razer, Acer, MSI & Others | Expert Review by ZDNET</u></a></li>
 </ul></div>
 

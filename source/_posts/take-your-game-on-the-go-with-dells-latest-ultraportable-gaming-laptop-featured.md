@@ -1,7 +1,7 @@
 ---
 title: Take Your Game On-The-Go with Dell’s Latest Ultraportable Gaming Laptop – Featured
-date: 2024-12-25T22:36:31.562Z
-updated: 2024-12-27T18:25:30.769Z
+date: 2025-01-02T12:37:13.899Z
+updated: 2025-01-05T20:20:45.492Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,14 +114,24 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-platform-face-off-going-live-with-obstwitch/"><u>[New] The Platform Face-Off Going Live with OBS/Twitch</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-expert-strategies-to-achieve-professional-3d-text-in-photoshoot-for-2024/"><u>[Updated] Expert Strategies to Achieve Professional 3D Text in Photoshoot for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/foremost-suggestions-premium-iphone-tone-makers/"><u>Foremost Suggestions Premium iPhone Tone Makers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-perfect-companion-to-your-mac-mini-a-powerful-mini-pc-tailored-for-windows-enthusiasts-zdnet/"><u>Introducing the Perfect Companion to Your Mac Mini: A Powerful Mini PC Tailored for Windows Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-microsofts-future-at-risk-with-potential-decline-in-surface-sales-insights-and-analysis/"><u>Is Microsoft's Future at Risk with Potential Decline in Surface Sales? Insights & Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-to-disperse-icons-on-windows-11-taskbar/"><u>Learn to Disperse Icons on Windows 11 Taskbar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/preventing-logofail-intrusions-top-strategies-for-securing-your-devices-insights-from-zdnet/"><u>Preventing LogoFAIL Intrusions: Top Strategies for Securing Your Devices - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-keyboards-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Keyboards : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-zte-axon-40-lite-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When ZTE Axon 40 Lite Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-pinnacle-enterprise-data-vaulting/"><u>[New] Pinnacle Enterprise Data Vaulting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-spotlight-on-best-selling-ae-plugins-for-instagram-for-2024/"><u>[New] Spotlight on Best-Selling AE Plugins for Instagram for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-visual-transcript-maker-for-2024/"><u>Audio Visual Transcript Maker for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-10-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 10 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-apple-pc-substitute-how-this-exceptional-asus-notebook-surpasses-a-macbook-in-key-areas-insights-by-zdnet/"><u>Discover the Ultimate Apple PC Substitute: How This Exceptional Asus Notebook Surpasses a MacBook in Key Areas - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-performance-with-the-top-ranking-dell-inspiron-a-comprehve-analysis/"><u>Experience Unmatched Performance with the Top-Ranking Dell Inspiron – A Comprehve Analysis</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/future-proof-inverter-choices-top-performing-models-in-the-market-now/"><u>Future-Proof Inverter Choices: Top Performing Models in the Market Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-adonit-nest-for-only-65-top-rated-usb-hub-upgrade-for-remote-workers-spotted/"><u>Get the Adonit Nest for Only $65! Top-Rated USB Hub Upgrade for Remote Workers Spotted</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-gamecast-viewers-take/"><u>In 2024, GameCast Viewer's Take</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-high-impact-text-visual-effects/"><u>In 2024, High-Impact Text Visual Effects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-top-5-secure-downloader-apps-for-fb-video-extraction/"><u>In 2024, Top 5 Secure Downloader Apps for FB Video Extraction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-lenovo-laptop-picks-for-2c24-in-depth-reviews-and-ratings/"><u>Leading Lenovo Laptop Picks for 2C24: In-Depth Reviews and Ratings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/seamless-cutting-techniques-5-top-tips-to-trim-and-edit-vimeo-videos-flawlessly-for-2024/"><u>Seamless Cutting Techniques 5 Top Tips to Trim & Edit Vimeo Videos Flawlessly for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-surprisingly-stellar-performance-of-the-unassuming-asus-workstation-for-creatives-tech-insights-by-zdnet/"><u>The Surprisingly Stellar Performance of the Unassuming Asus Workstation for Creatives | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-must-have-accessories-enhancing-your-pcs-capability-with-8k-monitors-support-spotted/"><u>Top Pick: Must-Have Accessories Enhancing Your PC's Capability with 8K Monitors Support – Spotted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-best-13-inch-laptops-for-business-trips-excluding-dell-xps-and-macbook-insights-from-zdnet/"><u>Top Picks: Best 13-Inch Laptops for Business Trips (Excluding Dell XPS & MacBook) - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-powerdirector-guide-for-2024/"><u>Ultimate PowerDirector Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-googles-latest-innovation-the-chromebookplus-with-amazing-generative-ai-capabilities-my-impressions-from-a-comprehensive-test/"><u>Unveiling Google's Latest Innovation: The Chromebook+ with Amazing Generative AI Capabilities – My Impressions From a Comprehensive Test</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-this-top-recommended-windows-laptop-matches-macbook-airs-performance-at-a-lower-price/"><u>Why This Top-Recommended Windows Laptop Matches MacBook Air's Performance at a Lower Price</u></a></li>
 </ul></div>
 

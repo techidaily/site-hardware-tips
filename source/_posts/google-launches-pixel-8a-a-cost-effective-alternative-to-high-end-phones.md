@@ -1,7 +1,7 @@
 ---
 title: Google Launches Pixel 8A - A Cost-Effective Alternative to High-End Phones
-date: 2024-09-05T21:30:44.283Z
-updated: 2024-09-06T21:30:44.283Z
+date: 2024-12-31T13:08:20.742Z
+updated: 2025-01-06T08:58:54.952Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixel-8a_obsidian_lifestyle-copy.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google Launches Pixel 8A - A Cost-Effective Alternative to High-End Phones
 
 Google's Pixel phones still don't sell all that well, but they are popular with people looking for a solid Android smartphone without the sometimes-overwhelming software features on Samsung Galaxy devices. The Pixel 8 arrived last year, and now Google has revealed the Pixel 8a as a budget-friendly alternative.
@@ -25,12 +19,6 @@ Google's Pixel phones still don't sell all that well, but they are popular with 
 
 ![Pixel 8a_Porcelain 1 copy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixel-8a_porcelain-1-copy.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Google
 
  The most important difference between the Pixel 8 and the new Pixel 8a is the camera. Instead of the excellent 50MP sensor packed in both the Pixel 8 and the Pixel 8 Pro, we're getting a lower-range (but still good thanks to Google's post-processing magic) 64MP sensor with a 0.8 μm pixel width and a ƒ/1.89 aperture. The secondary sensor is a 13 MP ultrawide with a 120° field of view. The battery is also slightly smaller, at 4,492 mAh compared to the 4,575 mAh in the Pixel 8, and it also charges a bit slower, with 18W charging rather than 27W. You get 8GB of RAM, the exact same amount as the Pixel 8, as well as up to 256GB of storage and Android 14 out of the box, with the same 7 year update promise that comes attached with the Pixel 8 series.
@@ -45,8 +33,6 @@ Google
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,4 +40,26 @@ Google
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-podcast-ideas-into-proficient-scriptwriting-techniques-samples/"><u>[Updated] Transform Your Podcast Ideas Into Proficient Scriptwriting (Techniques, Samples)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-quickly-master-time-lapse-techniques-for-samsung-phones/"><u>2024 Approved Quickly Master Time Lapse Techniques for Samsung Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-android-3d-player-showcase/"><u>2024 Approved Ultimate Android 3D Player Showcase</u></a></li>
+<li><a href="https://win-community.techidaily.com/can-windows-security-impact-speed-uncover-the-truth-with-yl-software-analysis/"><u>Can Windows Security Impact Speed? Uncover the Truth with YL Software Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-environmental-impact-of-smartphones-and-eco-friendly-alternatives/"><u>Exploring the Environmental Impact of Smartphones & Eco-Friendly Alternatives</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-and-furious-games-boost-your-windows-fps/"><u>Fast and Furious Games: Boost Your Windows FPS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-microsofts-expanded-xbox-and-azure-offerings-contribute-to-its-rising-greenhouse-gas-emissions-insights-from-zdnet/"><u>How Microsoft's Expanded Xbox and Azure Offerings Contribute to Its Rising Greenhouse Gas Emissions - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/imminent-crisis-the-hidden-dangers-of-apples-and-ecosystems-on-the-brink/"><u>Imminent Crisis: The Hidden Dangers of Apples and Ecosystems on the Brink</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-eco-friendly-chips-derived-from-mushrooms-revolutionize-powering-electronics-greentechinsights/"><u>Innovative Eco-Friendly Chips Derived From Mushrooms Revolutionize Powering Electronics | GreenTechInsights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-eco-friendly-speakers-creating-sound-from-recycled-ocean-plastic-a-detailed-making-process/"><u>Innovative Eco-Friendly Speakers: Creating Sound From Recycled Ocean Plastic - A Detailed Making Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-future-of-flawless-gardens-with-dandys-robotic-grass-guardian-back-saving-technology-by-zdnet/"><u>Meet the Future of Flawless Gardens with Dandy's Robotic Grass Guardian, Back Saving Technology by ZDNET.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-sustainable-innovation-overcoming-hurdles-in-todays-tech-scene-insights-from-zdnet/"><u>Pioneering Sustainable Innovation: Overcoming Hurdles in Today's Tech Scene | Insights From ZDNET</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streaming-perfection-techniques-for-clear-webcam-feed/"><u>Streaming Perfection Techniques for Clear Webcam Feed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/your-iphones-creative-edge-top-10-best-no-cost-collages-and-editing-tools-for-2024/"><u>Your iPhone’s Creative Edge – Top 10 Best, No-Cost Collages & Editing Tools for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

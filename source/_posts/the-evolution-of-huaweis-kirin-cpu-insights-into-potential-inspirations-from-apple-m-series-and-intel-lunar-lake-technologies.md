@@ -1,7 +1,7 @@
 ---
 title: The Evolution of Huawei's Kirin CPU - Insights Into Potential Inspirations From Apple M-Series and Intel Lunar Lake Technologies
-date: 2024-08-23T13:01:34.898Z
-updated: 2024-08-24T13:01:34.898Z
+date: 2024-12-30T01:36:21.227Z
+updated: 2025-01-06T07:46:41.946Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,20 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-detailed-app-analysis-the-ultimate-az-recorder-guide/"><u>[New] 2024 Approved Detailed App Analysis - The Ultimate AZ Recorder Guide</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-freemake-video-converter-evaluation-security-cost-free-features-and-value-assessment/"><u>1. Freemake Video Converter Evaluation: Security, Cost-Free Features & Value Assessment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-free-meme-templates/"><u>2024 Approved Best Free Meme Templates</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-effortless-steps-to-obtain-free-audio-for-videos/"><u>2024 Approved Effortless Steps to Obtain Free Audio for Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-y56-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fixes-for-overcoming-e-1030003-bug-on-armstrongs-rainbow-six-tarkov/"><u>Comprehensive Fixes for Overcoming E-1030#003 Bug on Armstrong's Rainbow Six: Tarkov</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g84-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G84 5G Phone without PIN</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kalk-cake-electric-bike-the-perfect-fusion-of-utility-and-fun-rides-for-commuting-and-adventures-zdnet/"><u>Kalk Cake Electric Bike: The Perfect Fusion of Utility & Fun Rides for Commuting & Adventures | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/major-tesla-vehicle-recall-self-parking-software-glitch-prompts-action-on-360k-units-details-by-zdnet/"><u>Major Tesla Vehicle Recall: Self-Parking Software Glitch Prompts Action on 360K Units, Details by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-70-discount-on-the-huffy-oslo-folding-electric-bicycle-limited-time-offer/"><u>Massive 70% Discount on the Huffy Oslo Folding Electric Bicycle - Limited Time Offer!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-challenges-of-in-flight-internet-access-potential-solutions-in-the-horizon/"><u>Navigating the Challenges of In-Flight Internet Access: Potential Solutions in the Horizon</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-foundation-defining-electronic-storytelling-for-2024/"><u>The Foundation Defining Electronic Storytelling for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-memory-recovery-with-astrodatarestore-available-for-purchase/"><u>Ultimate iPhone Memory Recovery with AstroDataRestore - Available for Purchase</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

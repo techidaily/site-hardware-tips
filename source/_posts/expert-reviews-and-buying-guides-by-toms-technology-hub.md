@@ -1,7 +1,7 @@
 ---
 title: Expert Reviews & Buying Guides by Tom’s Technology Hub
-date: 2024-08-23T12:59:35.422Z
-updated: 2024-08-24T12:59:35.422Z
+date: 2025-01-04T05:13:50.005Z
+updated: 2025-01-05T18:54:40.087Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
 
  However, an AIO may not always be ideal, particularly if your SFF or slim case of choice doesn't happen to have the free fan slot(s) you need to make the most of it. And finally, performance-wise,[reviews suggest](https://youtu.be/xZQwKgf%5FIYU?t=380) that the original Noctua NH-D12L performs on par with much larger CPU coolers as well, which means it should outperform most 120 mm AIOs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,20 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-mycams-evolution-a-new-era-of-home-video-capture-for-2024/"><u>[New] MyCam's Evolution A New Era of Home Video Capture for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-futuristic-enlightenment-the-best-30-virtual-musings/"><u>[Updated] Futuristic Enlightenment The Best 30 Virtual Musings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premier-mobile-gaming-best-android-gb-simulators/"><u>[Updated] In 2024, Premier Mobile Gaming Best Android GB Simulators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-energy-expenses-made-easy-discover-the-5-tv-adjustments-that-worked-for-me-zdnet/"><u>Cutting Energy Expenses Made Easy: Discover the 5 TV Adjustments that Worked for Me (ZDNET)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ning-an-editorial-epilogue-for-2024/"><u>Designing an Editorial Epilogue for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-exceptional-alternatives-to-samsung-and-lg-with-our-best-qled-picks-hdtv-experts-at-zdnet/"><u>Discover Exceptional Alternatives to Samsung and LG with Our Best QLED Picks | HDTV Experts at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-viewing-pleasure-expert-tips-to-optimize-projector-settings-for-stunning-imagery-zdnet/"><u>Enhance Your Viewing Pleasure: Expert Tips to Optimize Projector Settings for Stunning Imagery | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-list-of-superior-tv-racks-for-2er-2023-insights-from-zdnet/"><u>Explore the Ultimate List of Superior TV Racks for 2Er 2023 - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-1500-discount-how-the-samsung-qn95a-oled-surpassed-all-my-expectations-shop-today/"><u>Huge $1,500 Discount: How the Samsung QN95A OLED Surpassed All My Expectations - Shop Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-on-the-new-85-tcl-smart-led-only-900-before-labor-day-shop-now/"><u>Huge Savings on the New 85 TCL Smart LED - Only $900 Before Labor Day! Shop Now!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-speedy-tiktok-video-acquisition-guide/"><u>In 2024, Speedy TikTok Video Acquisition Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-the-ideal-lenovo-device-for-seamless-hybrid-working-at-a-steep-discount-spotted-by-zdnet/"><u>Top Pick: The Ideal Lenovo Device for Seamless Hybrid Working at a Steep Discount - Spotted by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-cpu-consumption-from-audio-device-graph-in-windows-systems/"><u>Troubleshooting High CPU Consumption From Audio Device Graph in Windows Systems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->

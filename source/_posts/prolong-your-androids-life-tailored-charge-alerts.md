@@ -1,7 +1,7 @@
 ---
 title: Prolong Your Android's Life - Tailored Charge Alerts
-date: 2024-09-01T08:28:56.320Z
-updated: 2024-09-02T08:28:56.320Z
+date: 2025-01-04T22:10:38.011Z
+updated: 2025-01-06T08:38:10.180Z
 tags:
   - android
 categories:
@@ -35,13 +35,25 @@ Keeping your phone’s battery levels between 80% and 20% can help it age better
 
 ![Configuring Battery Guru for the first use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-29-13-57-47-640_com-paget96-batteryguru.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close 
 
  Accept the privacy policy and tap “Get Started.” The next screen shows what the app can do. Tap “Got it.” We also need to grant necessary permissions. Go ahead and allow Battery Guru to send you notifications and read usage info. Tap “Next.” To complete the setup, tap “Configure” and then “Finish.”
 
 ![Accepting the Battery Guru privacy policy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-29-13-57-49-773_com-paget96-batteryguru.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Battery Guru feature list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-29-13-57-53-012_com-paget96-batteryguru.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Granting Battery Guru usage access.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-29-13-57-56-857_com-paget96-batteryguru.jpg) 
 
@@ -81,6 +93,10 @@ Close
 
 ![Setting the low battery notification alert in Battery Charge Notifier.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/low.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Typing the low battery threshold percentage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-09-06-729_com-utopi-batterychargenotifier.jpg) 
 
 Close 
@@ -89,15 +105,16 @@ Close
 
 ![Notification settings to configure repeating charging alerts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/optmize.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Setting an interval of five minute for repeating charging alerts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-29-14-26-21-856_com-utopi-batterychargenotifier.jpg) 
 
 Close 
 
  Repeat the same steps for Discharging to get multiple notifications when the battery level drops below 20%.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Create Custom Charging Alerts Manually
 
  There’s a manual way to create battery alerts too. It’s a little more involved but it gives you the most control. We’ll use [MacroDroid](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003396/https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en%5FUS)for this job. It’s an automation tool that lets you create routines with ease.
@@ -107,20 +124,26 @@ Close
 ![Installing the MacroDroid app from Google Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-17-17-861_com-android-vending.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Launching the MacroDroid app from Google Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-17-11-983_com-android-vending.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![MacroDroid being set up on first launch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-29-20-22-14-216_com-arlosoft-macrodroid.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
  The MacroDroid home is packed with a ton of buttons, but you only need to use the “Add Macro” tile. Select it, then tap the plus icon next to Triggers. Select “Battery/Power” to expand it.
 
 ![Creating a new macro in MacroDroid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-29-21-50-54-637_com-arlosoft-macrodroid.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Creating a new trigger in MacroDroid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-30-38-834_com-arlosoft-macrodroid.jpg) 
 
@@ -130,9 +153,6 @@ Close
 
 ![Creating a battery level trigger in MacroDroid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-30-44-268_com-arlosoft-macrodroid.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Configuring the high battery level trigger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-30-51-097_com-arlosoft-macrodroid.jpg) 
 
 Close 
@@ -141,14 +161,12 @@ Close
 
 ![Creating a new action in MacroDroid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-31-31-542_com-arlosoft-macrodroid.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Notification action highlighted in the actions menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-31-37-424_com-arlosoft-macrodroid.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Expanded notification action menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-33-33-650_com-arlosoft-macrodroid.jpg) 
 
 ![Manually entering notification text and title for the macro action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-29-20-40-03-503_com-arlosoft-macrodroid.jpg) 
@@ -160,9 +178,9 @@ Close
 ![Giving the new macro a name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-32-25-319_com-arlosoft-macrodroid.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Steps for testing and saving a new macro in MacroDroid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-32-35-597_com-arlosoft-macrodroid.jpg) 
 
 ![Testing the charging notification alert macro in MacroDroid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-29-20-50-23-309_com-arlosoft-macrodroid.jpg) 
@@ -177,25 +195,16 @@ Close
 
 ![Configuring the low battery trigger in MacroDroid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-33-25-274_com-arlosoft-macrodroid.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Close 
 
  With the trigger ready, we just need the corresponding action. Tap the plus icon next to Actions and expand Notifications. Now tap “Display Notification” and give your alert a title and text. Give the macro a name, test it, and save it using the three-dot menu button.
 
 ![Creating a new action in MacroDroid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-31-31-542_com-arlosoft-macrodroid.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Notification action highlighted in the actions menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-31-37-424_com-arlosoft-macrodroid.jpg) 
 
 ![Expanded notification action menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-33-33-650_com-arlosoft-macrodroid.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Creating the low battery alert in MacroDroid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-05-07-39-990_com-arlosoft-macrodroid.jpg) 
 
 Close 
@@ -204,9 +213,6 @@ Close
 
 ![Both notification alert macros active in the Macros tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-30-04-34-40-198_com-arlosoft-macrodroid.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Battery optimization can sometimes interfere with the macros, so I recommend disabling it for MacroDroid. Hop over to the Settings tab and tap “Ignore Battery Optimization.” Finally, tap “Allow."
@@ -221,8 +227,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +234,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-verify-your-youtube-account-in-2024/"><u>[New] How to Verify Your YouTube Account, In 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-instant-subtitling-hacks-for-all-your-facebook-videos-for-2024/"><u>[Updated] Instant Subtitling Hacks for All Your Facebook Videos for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-individual-tracks-to-albums-building-a-personalized-soundtrack-on-web-and-mobile/"><u>2024 Approved From Individual Tracks to Albums Building a Personalized Soundtrack on Web & Mobile</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-maximizing-earnings-on-snapchat-platforms/"><u>2024 Approved Maximizing Earnings on Snapchat Platforms</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/detecting-graphics-card-failures-expert-advice-by-yl-software/"><u>Detecting Graphics Card Failures: Expert Advice by YL Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-12-pro-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Realme 12 Pro 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nokia-c300-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nokia C300</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-price-drop-on-lg-c2-4k-oled-42-tv-save-500-now-at-just-800-tech-news-roundup/"><u>Massive Price Drop on LG C2 4K OLED 42 TV - Save $500, Now at Just $800 | Tech News Roundup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-market-professional-insights-on-selecting-your-ideal-32-television-this-year-zdnet/"><u>Navigating the Market: Professional Insights on Selecting Your Ideal 32 Television This Year | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamped-sonos-interface-brings-enhanced-personalization-with-custom-home-panel-and-unified-search-feature-technews/"><u>Revamped Sonos Interface Brings Enhanced Personalization with Custom Home Panel & Unified Search Feature | TechNews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revealed-the-hidden-gaming-power-of-this-samsung-projector-save-now-with-200-discount-at-zdnet/"><u>Revealed: The Hidden Gaming Power of This Samsung Projector - Save Now with $200 Discount at ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-roku-experience-the-ultimate-solution-for-finding-lost-remotes-now-available/"><u>Revolutionize Your Roku Experience: The Ultimate Solution for Finding Lost Remotes, Now Available!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-stealthy-gamification-projector-turned-game-console-with-200-savings-at-checkout-featured-on-zdnet/"><u>Samsung's Stealthy Gamification: Projector Turned Game Console with $200 Savings at Checkout - Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-huge-savings-on-your-fire-tv-stick-bundle-plus-xbox-game-pass-for-just-20-grab-it-before-the-labor-day-holiday-exclusive-deal-from-zdnet/"><u>Score Huge Savings on Your Fire TV Stick Bundle + Xbox Game Pass for Just $20! Grab It Before the Labor Day Holiday - Exclusive Deal From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-misplacing-your-remote-control-learn-about-the-new-revolutionary-solution-for-roku-users-by-zdnet/"><u>Tired of Misplacing Your Remote Control? Learn About the New Revolutionary Solution for Roku Users by ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/top-5-ios-tools-to-download-facebook-movies-and-clips-for-2024/"><u>Top 5 iOS Tools to Download Facebook Movies & Clips for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Marking a Decade of Innovation, Creality Brings Colorful Technology to the World with New 3D Printer Release
-date: 2024-08-23T13:00:49.841Z
-updated: 2024-08-24T13:00:49.841Z
+date: 2025-01-03T16:57:13.456Z
+updated: 2025-01-06T09:39:44.821Z
 tags:
   - printer
 categories:
@@ -22,6 +22,10 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
  I would still recommend the Anycubic Kobra 2 Max over the previous[Kobra Max](https://www.tomshardware.com/reviews/anycubic-kobra-max) for the increase in speed and the more forgiving flexible built surface. Despite its flaws, it worked well on most materials once I got past the early firmware issues and figured out my own (slower) speed settings. The bed leveling issues and lack of fast profiles in the printer’s own custom slicer prevents me from putting it on the list of[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications: Anycubic Kobra 2 Max
 
@@ -44,6 +48,10 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4ZsPyqu2r2NYMAn7fDRKMC-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Anycubic Kobra 2 Max comes with everything you need to get started: tools to build and maintain the printer, grease and a USB stick. You also get a spare nozzle and small sample of PLA.
@@ -51,8 +59,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
  There’s a paper copy of the quick start guide to help you build the printer. The printer has sample models in the memory, and the UBB card has a PDF copy of the manual, Anycubic Slicer and a profile for PLA to get you started.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Assembling the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4Hz6pRRyeuh3iXnHHtfBiC-320-80.jpg)
@@ -64,8 +73,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
  Please note, the Kobra 2 Max has two Y axis belts. You’ll want to make sure each belt has about the same amount of tension for smooth printing. It takes about 30 minutes to carefully assemble.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Leveling the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/KP58JTX4y2LWi7y8a7NA5D-320-80.jpg)
@@ -76,6 +86,10 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  To level the bed, select Control → Auto-level. The machine will home itself, preheat and then double tap 49 spots in a grid across the bed surface.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Loading Filament in the Anycubic Kobra 2 Max
 
  To load filament, press Prepare on the main menu. Select Filament. Now select Filament In or Filament Remove. The machine will now heat up to 230 C, taking about 60 seconds. Put your spool on the spool holder, and place the end of the filament into the runout sensor. Press Filament In and wait for the filament to be pulled to the extruder, or pinch the tension release on the front of the extruder and push it through by hand. Press Stop when the filament is coiling below the hotend.
@@ -83,8 +97,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
  Removing the filament works the same, just in reverse. Let the hotend preheat, select Filament Remove and let the gears back the filament out. Feel free to manually pull the filament out of the Bowden tube as soon as it’s left the hotend.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Design of the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/zxKpUzUZPxsNhyuXx9kDxB-320-80.jpg)
@@ -109,27 +124,12 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4GQbb2fqoUPZGRxNwHD5XC-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Anycubic Kobra 2 Max comes with a copy of Anycubic Slicer, which is based off Prusa Slicer. Despite being a brand new slicer made by Anycubic, the one printing profile was included separately and needed to be installed myself.
 
  Anycubic has recently launched a mobile app to accompany their printers, but I did not find it very useful. Without a camera or the ability to change the printer’s settings, all it can do is announce prints are done. Anycubic is still working on the app, and claims you will soon have more control, the ability to monitor prints and slice models from your phone.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Printing with the Anycubic Kobra 2 Max
 
  Big printers mean big prints, so knowing where to get the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) is essential. The Kobra 2 Max only came with a sample coil, so you’ll want to stock up immediately.
@@ -146,9 +146,6 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/N6QEzKnBBdR9ZMvGotUjmB-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [_Rubber Duck_](https://www.thingiverse.com/thing:4820726) _by Chr5500_  (Image credit: Tom's Hardware)
 
  Next up was a practical print: a clip for a bike air pump. This was made in Tinkercad to custom fit the bike frame and the size of the pump. The print turned out wonderfully smooth with no stringing. 42 minutes and 12 seconds, at a .2 layer height and 230 mm/s. I printed it in[Greengate recycled Purple Reign PETG.](https://greengate3d.com/products/purple-reign-pet-g-filament)
@@ -163,9 +160,6 @@ _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
 
 [_Vase Mode Ship_](https://www.printables.com/model/235746) _, by LJ Prints_  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Anycubic Kobra 2 Max is a massive machine reasonably priced at $569 and currently on sale for $519\. It’s a good fit for prop makers and cosplayers who want to make large costume pieces without needing to slice up their printers. You do have to be in the mood to tinker with the slicer to get the best balance of speed and precision.
@@ -176,14 +170,11 @@ _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
 
  If you want a massive printer that works great out of the box, the[Elegoo Neptune 3 Max](https://www.tomshardware.com/reviews/elegoo-neptune-3-max) is still your best bet, and quite a steal at $409\. It remains our[Editor's choice for large format printers.](https://www.tomshardware.com/best-picks/best-3d-printers#section-best-for-props-and-cosplay)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,4 +183,24 @@ _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-a-convenient-compilation-finding-your-yt-comments/"><u>[Updated] In 2024, A Convenient Compilation Finding Your YT Comments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oneplus-ace-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from OnePlus Ace 2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/alleviate-problem-buffering-tweets-in-chromebook/"><u>Alleviate Problem Buffering Tweets in Chromebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-unveiling-the-essentials-of-vision-pros-travel-mode-a-complete-pre-trip-guide-zdnet/"><u>Get Ready! Unveiling the Essentials of Vision Pro’s Travel Mode - A Complete Pre-Trip Guide | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-sky-high-savings-lock-in-lower-airfare-prices-with-the-exclusive-deals-from-dollar-flight-club-secure-your-passage-now/"><u>Get Sky-High Savings: Lock in Lower Airfare Prices with the Exclusive Deals From Dollar Flight Club - Secure Your Passage Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-bmws-wireless-charging-system-could-affect-iphone-models-beyond-m15-insights-from-zdnet/"><u>How BMW's Wireless Charging System Could Affect iPhone Models Beyond M15 - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-purpose-in-film-our-selection-of-top-motivational-titles/"><u>In 2024, Finding Purpose in Film Our Selection of Top Motivational Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-key-to-smooth-auditory-transitions/"><u>In 2024, The Key to Smooth Auditory Transitions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-approach-in-airline-industry-southwest-boosts-customer-experience-says-zdnet-analysis/"><u>Innovative Approach in Airline Industry: Southwest Boosts Customer Experience, Says ZDNet Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/integration-of-qualcomm-technology-in-hyundais-next-gen-pbv-infotainment-revealed-by-zdnet/"><u>Integration of Qualcomm Technology in Hyundai's Next-Gen PBV Infotainment, Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/investigation-launched-into-fords-autonomous-driving-tech-following-tragic-accidents-key-insights/"><u>Investigation Launched Into Ford’s Autonomous Driving Tech Following Tragic Accidents: Key Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-pocketing-your-parcel-by-drone-on-consumers-wishlist-the-prospects-and-pricing/"><u>Is Pocketing Your Parcel by Drone on Consumer's Wishlist? The Prospects and Pricing!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mega-cyber-monday-specials-snag-dji-mini-2-drones-and-accessories-for-up-to-65-off-save-big/"><u>Mega Cyber Monday Specials: Snag DJI Mini 2 Drones & Accessories for Up To 65% Off - Save Big !</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722572079765-nba-2k19-ultimate-virtual-hoops-experience/"><u>NBA 2K19: Ultimate Virtual Hoops Experience</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-finding-and-managing-installed-applications-through-windows-control-panel-tips-from-yl-tech-solutions/"><u>Step-by-Step Guide: Finding and Managing Installed Applications Through Windows Control Panel - Tips From YL Tech Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mobile-vpn-services-in-depth-analysis-and-reviews-techradar/"><u>Top-Ranking Mobile VPN Services : In-Depth Analysis & Reviews - TechRadar</u></a></li>
+</ul></div>
 

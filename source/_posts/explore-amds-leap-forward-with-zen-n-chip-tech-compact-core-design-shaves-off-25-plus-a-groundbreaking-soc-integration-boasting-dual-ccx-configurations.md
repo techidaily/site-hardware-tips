@@ -1,7 +1,7 @@
 ---
 title: Explore AMD's Leap Forward with Zen N Chip Tech - Compact Core Design Shaves Off 25%%, Plus a Groundbreaking SoC Integration Boasting Dual CCX Configurations
-date: 2024-08-23T12:58:37.335Z
-updated: 2024-08-24T12:58:37.335Z
+date: 2025-01-05T05:20:32.599Z
+updated: 2025-01-05T18:44:58.463Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,20 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-digital-room-for-screen-dance-duels-for-2024/"><u>[New] Digital Room for Screen Dance Duels for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-6-pillars-of-effective-facebook-live-website-integration/"><u>[New] The 6 Pillars of Effective Facebook Live Website Integration</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-the-world-of-virtual-engagements-effects-filters-and-more/"><u>[Updated] Navigating the World of Virtual Engagements Effects, Filters, & More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-method-purging-every-correspondence-via-gmail-app-on-mobile-devices/"><u>Comprehensive Method: Purging Every Correspondence via Gmail App on Mobile Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/continue-enjoying-prime-day-prices-get-the-8tb-samsung-t5-ssd-now-at-an-unbeatable-36-off-savvy-shoppers-guide-with-zdnet/"><u>Continue Enjoying Prime Day Prices: Get the 8TB Samsung T5 SSD Now at an Unbeatable 36% Off | Savvy Shopper's Guide with ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-insight-metas-october-prime-day-special-on-the-new-512gb-oculus-quest-3-a-once-in-a-lifetime-deal/"><u>Exclusive Insight: Meta's October Prime Day Special on the New 512GB Oculus Quest 3 – A Once-in-a-Lifetime Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-apple-m3-macbook-air-my-favorite-innovations-unveiled-gadgetsphere/"><u>Exploring the Latest Apple M3 MacBook Air: My Favorite Innovations Unveiled | GadgetSphere</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/full-list-of-taylor-swifts-acting-roles-for-a-complete-viewing-experience/"><u>Full List of Taylor Swift's Acting Roles for a Complete Viewing Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-integration-with-updated-wacom-intuos-controls-effortless-driver-download/"><u>Seamless Integration with Updated Wacom Intuos Controls - Effortless Driver Download</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-bargain-hunting-guide-pre-prime-day-202n-exclusive-tips-by-zdnet/"><u>Ultimate Bargain Hunting Guide Pre-Prime Day 202N: Exclusive Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-pro-performance-essential-qualities-that-make-this-lenovo-laptop-shine-on-zdnet/"><u>Unlocking Pro Performance: Essential Qualities That Make This Lenovo Laptop Shine on ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290331579-mp3/"><u>オススメ MP3 再生デバイス・ソフトウェア・アプリ【信頼できる品質のポータブル選び】</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

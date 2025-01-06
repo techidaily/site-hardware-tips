@@ -1,7 +1,7 @@
 ---
 title: How iOS 16 Borrowed These 13 Ideas From Android, According to Tech Experts
-date: 2024-09-01T08:28:46.673Z
-updated: 2024-09-02T08:28:46.673Z
+date: 2024-12-30T04:28:06.814Z
+updated: 2025-01-06T11:12:32.492Z
 tags:
   - android
 categories:
@@ -17,7 +17,15 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
 ![iPhone iOS 18 home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-home-screen.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  iPhone users can finally freely move icons around on the home screen. While your icons still have to conform to the invisible grid, you can place them wherever you wish to free up space and see your wallpaper. This has been a thing on Android (and other operating systems) since the beginning, and I'm surprised that Apple didn't add it when they added [widgets to iOS](https://tech-haven.techidaily.com/chatgpt-now-on-ios-download-the-cutting-edge-ai-assistant-today/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Custom App Icon Colors
 
@@ -29,49 +37,50 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  Android has had [custom icon packs for years](https://fox-http.techidaily.com/updated-in-2024-navigating-the-complexities-of-mac-and-mixer-streaming/), and since you can download third-party icon packs, you can pick from a wide range of art styles. Nevertheless, I'm excited about this iOS addition because we'll likely see improved custom icon support among app developers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Game Mode
 
  Game Mode made its way from [macOS](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y17s-without-them-knowing-drfone-by-drfone-virtual-android/) to iOS, a feature that the first wave of Android gaming phones pioneered before it got baked into [Android 12](https://developer.android.com/games/optimize/adpf/gamemode/about-API-and-interventions) in 2021\. Game mode minimizes background activity and focuses processing power on your game to achieve better in-game performance and lower latency for accessories like AirPods and wireless controllers.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  RCS Messaging
 
 ![iPhone Messages RCS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-messages-rcs.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/) (Rich Communication Service) is a mobile communication protocol that significantly improves upon traditional SMS messaging by offering richer chat functionalities like file and media sharing. RCS has been available since Android 5 (2014), and it's finally coming to iPhones with iOS 18\. RCS support means you'll finally be able to chat properly and share stickers and high-res images with your Android friends.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  App Lock
 
 ![iPhone iOS 18 app lock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-ios-18-app-lock.png) 
 
  App locking is a new privacy feature that lets you lock any app you wish so that others can't access it, even if your phone is unlocked. When you want to open a locked app, you'll be required to use Face ID, Touch ID, or your passcode to unlock it. Previously, only authenticators and bank apps required authorization before you could access them. My [2019 Android 11 phone](https://fox-glue.techidaily.com/new-advanced-data-analytics-methods-for-market-research-analysis-for-2024/) has this feature, and I wouldn't be surprised to learn that it's available on Android devices that are even older.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Hiding Apps
 
  Another feature that's been around for years on Android phones is hidden apps. Similar to app lock, it's a privacy feature that ensures your friends don't see your most embarrassing apps on your home screen. When you hide an app on iOS 18, it goes into a locked "Hidden" folder that you can access just like any other locked app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Custom Lock Screen Shortcuts
 
 ![Custom lock screen shortcuts in iOS 18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/newvoideop-1.png) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 [Apple](https://www.apple.com/mt/newsroom/2024/06/ios-18-makes-iphone-more-personal-capable-and-intelligent-than-ever/)
 
  The default lock screen shortcuts on iPhone are the camera on the right and the flashlight on the left. These shortcuts are nothing new, but what _is_ new is that you can now customize or even fully remove them. I'm surprised to see that Apple will let people launch third-party apps; Snapchat was shown as a shortcut example. Again, custom lock screen shortcuts are old news for Android users, as they've had this feature since Android 14.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ##  Password Manager
 
 ![iPhone Passwords](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-passwords.png) 
@@ -80,16 +89,10 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  You can actually use Google Password Manager on iOS as well, but it's great to see that Apple is now adding a first-party Passwords app. It'll store your Wi-Fi passwords, passcodes, and verification codes as well, so it'll be a real log-in one-stop shop.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  More Customization in the Control Center
 
 ![iOS 18 control center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios-18-control-center.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  Apple's Control Center is getting a customization overhaul with iOS 18\. You can change the layout completely by adding custom groups and resizing individual settings. The most exciting part is that you'll now be able to add third-party features directly from the Control Center, such as remote car unlock. [Quick settings customization](https://video-content-creator.techidaily.com/updated-in-2024-uncover-the-best-green-screen-software-for-mac-video-editing/) and third-party options have always been available on custom Android skins, but they were added to the OS with Android 6 in 2015.
 
 ##  Apple Mail Categories
@@ -100,12 +103,13 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  Credit where credit is due: I quite like the new digest view that consolidates all emails from a business into one window. This view allows you to quickly check snippets of all emails from a business without having to fiddle around with the search function.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ##  Calendar Reminders
 
  The Calendar app will now show tasks you create in Reminders. Although this is a simple change, it's a game-changer for busy individuals who rely on their notes to keep track of daily tasks. Google Calendar does the same with Google Tasks and, to a lesser extent, Google Keep, but we'll see [Keep and Tasks sync up](https://fox-helps.techidaily.com/new-unveil-image-by-removing-surroundings-for-2024/) sometime soon. Ultimately, both Android and iOS will have identical calendar functions when these changes come around.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  AI Photo Editing
 
@@ -113,12 +117,13 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  On-Device AI
 
 ![Apple Intelligence presentation slide at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_splash.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -138,8 +143,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +150,24 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-full-breakdown-samsungs-immersive-camera-technology/"><u>[New] 2024 Approved Full Breakdown Samsung's Immersive Camera Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-your-potential-full-guide-to-powerdirectors-2024-edition/"><u>[Updated] Unleash Your Potential Full Guide to PowerDirector's 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-the-highest-quality-4k-projectors-insights-from-zdnet/"><u>2024'S Ultimate Guide to the Highest Quality 4K Projectors: Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/durable-protection-best-belted-leather-straps-and-sturdy-cases-for-apple-watches-and-galaxy-z-fold-4-techradar/"><u>Durable Protection: Best Belted Leather Straps & Sturdy Cases for Apple Watches & Galaxy Z Fold 4 | TechRadar</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-steps-to-record-your-macbooks-display-for-2024/"><u>Essential Steps to Record Your MacBook's Display for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-and-prevent-mir4-from-freezing-or-crashing-an-essential-guide-for-windows-enthusiasts/"><u>Fix and Prevent MIR4 From Freezing or Crashing: An Essential Guide for Windows Enthusiasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-honor-80-pro-straight-screen-edition-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Honor 80 Pro Straight Screen Edition FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-review-for-runners-uncovering-the-mighty-potential-of-garmin-forerunner-955-solar-watch-explored-by-zdnet/"><u>In-Depth Analysis and Review for Runners: Uncovering the Mighty Potential of Garmin Forerunner 955 Solar Watch | Explored by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-how-apples-series-7-proves-size-matters-in-smartwatches-a-comprehensive-review-by-zdnet/"><u>In-Depth Analysis: How Apple's Series 7 Proves Size Matters in Smartwatches - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/major-apple-smartwatch-revamp-anticipated-insights-and-speculations/"><u>Major Apple Smartwatch Revamp Anticipated : Insights and Speculations</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-effective-email-subject-lines-with-massmail-a-comprehensive-guide/"><u>Mastering Effective Email Subject Lines with MassMail: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-with-the-apple-watch-series-10-at-best-buy-for-under-100-order-in-advance-and-save-full-tips-covered-by-zdnet/"><u>Score Big Savings with the Apple Watch Series 10 at Best Buy for Under $100 - Order in Advance & Save! Full Tips Covered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-rise-of-intelligent-rings-how-this-new-tech-trend-is-set-to-revolutionize-the-wearable-industry/"><u>The Rise of Intelligent Rings: How This New Tech Trend Is Set to Revolutionize the Wearable Industry</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transformative-ai-in-online-content-discovery/"><u>Transformative AI in Online Content Discovery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-early-purchase-strategies-for-iphone-15-apple-watch-s9-and-ultra-2-score-amazing-bargains-tips-by-zdnet-exclusive/"><u>Unlock Early Purchase Strategies for iPhone 15, Apple Watch S9 and Ultra 2; Score Amazing Bargains | Tips by ZDNET Exclusive</u></a></li>
+</ul></div>
 

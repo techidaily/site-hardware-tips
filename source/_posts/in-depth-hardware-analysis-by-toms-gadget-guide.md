@@ -1,7 +1,7 @@
 ---
 title: In-Depth Hardware Analysis by Tom's Gadget Guide
-date: 2024-08-23T12:57:55.620Z
-updated: 2024-08-24T12:57:55.620Z
+date: 2025-01-02T12:32:14.060Z
+updated: 2025-01-06T01:29:14.805Z
 tags:
   - printer
 categories:
@@ -35,9 +35,6 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  4\. After applying the settings,**click** **Generate 3D Model,** and it will display in the right section, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,8 +52,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/khwqMMpGmzs5M6nAkDZ9zj-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  6.**Download the STL file** by clicking**Save as STL** .
@@ -70,8 +68,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/tsJQZmm39QiQPGfsVLCW7i-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  2.**Install the Modify G-Code extension** in Cura. You can find it on Extensions > Post Processing.
@@ -86,6 +85,10 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/8orVU3p927KeesoLinZFxi-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  5.**Re-slice the design** and send the G-code to your 3D printer.
@@ -94,10 +97,6 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/4xcS97zTMB8PBdc5dabbs3-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The next step will be to paint the QR code part to distinguish it from the rest of the sections so the camera can pick up the code. You can use a small brush or a black marker pen and must ensure that you do it precisely to avoid distorting the QR code.
@@ -106,10 +105,11 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Multi-Color 3D Printing QR Codes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Multi-Color 3D Printing QR Codes
 
@@ -122,17 +122,15 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/m4MEJHFS56AzRS7daHbRDk-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  2.**Click on the file** , then go to**Color Painting** .
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/7uAmWAo35AkGqy3NPuToqk-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  3.**Select the height range** option and**put the depth value** you specified earlier when creating the QR code. For my case, I used the website's default value, which was 1\. Apply on it then change the color of the second filament to black and you will see a design similar to the one shown below
@@ -161,27 +159,22 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/UKm5mC5ZTXUzCtE7Wdg2in-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 TinkerCAD will automatically convert the SVG file into a 3D model.
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/pP45uzzcJyxsusznxMoXjk-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Add the base frame using a cube and then download and import it to your 3D slicer. Besides TinkerCAD, there are many other tools that you can use to convert 2D images to 3D models, such as Blender, Alpha3d, Embossify, and many others.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Creating a QR Code in a 3D Modeling Software
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Creating a QR Code in a 3D Modeling Software
 
  The software we will use is TinkerCAD as it has the QR code option. Follow the steps:
@@ -192,9 +185,6 @@ TinkerCAD will automatically convert the SVG file into a 3D model.
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/VAPfJUVZLoEKBCZeCMynKm-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  3.**Add the link** in the**Text** section, and you will see the shape changing.
@@ -216,8 +206,9 @@ Use the align tool to center them correctly.
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/4TRtXNAERPZnk4v6JmMvCn-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  6\. You can**add a logo to the design** by going to**Import** section and then go to where you have stored it. Ensure that the logo is in SVG format.
@@ -225,8 +216,9 @@ Use the align tool to center them correctly.
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/h9D8NLWXHXtrwBDYzPSNVn-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  7.**Export the file in STL format** and**slice it** . For multi-color 3D printing, you can follow the steps we highlighted above. If you don’t have a dual-extruder 3D printer, you will paint it after 3D printing, most preferably with a white filament. I imported mine to Cura, scaled it before 3D printing, and after painting, I got the design below.
@@ -254,8 +246,9 @@ Use the align tool to center them correctly.
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/NMs7mhj65SBzCiTWTo9xim-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  3.**Click Generate** to modify the QR code.
@@ -263,6 +256,10 @@ Use the align tool to center them correctly.
  4\. You can also**adjust the dimensions** and appearance of the QR code, add other options like a keyring hole or a label, and then**click** **Generate** .
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/4xcS97zTMB8PBdc5dabbs3-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -272,9 +269,6 @@ Use the align tool to center them correctly.
 
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/hKShdgwdFsmchSy8PeuaA6-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The[Ultimate QR Code Stand](https://makerworld.com/en/models/481160#profileId-392872) in Makerworld is a great option.
@@ -285,14 +279,11 @@ Use the align tool to center them correctly.
 
 **MORE:** [**Best Resin 3D Printers**](https://www.tomshardware.com/best-picks/best-resin-3d-printers)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -301,4 +292,26 @@ Use the align tool to center them correctly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-5-ways-to-remove-stickers-from-a-tiktok-video/"><u>[New] 5 Ways to Remove Stickers From a TikTok Video</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-giggle-galore-exploring-the-best-tweets-on-social-media/"><u>[Updated] 2024 Approved Giggle Galore Exploring the Best Tweets on Social Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-comprehensive-youtube-video-editing-with-finalcut-pro-skills/"><u>[Updated] In 2024, Comprehensive YouTube Video Editing with FinalCut Pro Skills</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-opening-doors-to-collective-listening-on-youtube/"><u>[Updated] Opening Doors to Collective Listening on YouTube</u></a></li>
+<li><a href="https://win-info.techidaily.com/conversione-gratuita-online-da-mkv-a-3gp-con-movavi-guida-rapida/"><u>Conversione Gratuita Online Da MKV a 3GP Con Movavi - Guida Rapida</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-black-friday-and-holiday-promotions-at-newegg-zdnet-exclusive-list/"><u>Discover the Ultimate Black Friday & Holiday Promotions at Newegg | ZDNET Exclusive List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-list-of-best-laptop-deals-from-hp-to-razer-prime-day-savings-galore-zdnet-exclusive/"><u>Discover the Ultimate List of Best Laptop Deals From HP to Razer: Prime Day Savings Galore | ZDNET Exclusive!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-power-a-comprehensive-guide-to-using-the-baseus-100w-multi-device-power-bank-gizmogeek-blog/"><u>Experience the Power: A Comprehensive Guide to Using the Baseus 100W Multi-Device Power Bank | GizmoGeek Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-lenovo-thinkpad-x13s-an-in-depth-look-at-its-arm-power-advanced-5g-capabilities-and-extended-battery-performance-techreview/"><u>Exploring the Lenovo ThinkPad X13s: An In-Depth Look at Its ARM Power, Advanced 5G Capabilities, & Extended Battery Performance - TechReview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-best-value-computers-under-1k-cyber-monday-deals-at-amazon-costco-and-dell-zdnet-insights/"><u>Find the Best Value Computers: Under $1K Cyber Monday Deals at Amazon, Costco, and Dell | ZDNET Insights</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15-gaming-laptop-now-available-for-a-steal-at-only-530-from-best-buy-tech-insights/"><u>HP Victus 15 Gaming Laptop Now Available for a Steal at Only $530 From Best Buy - Tech Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/preserve-your-virtual-adventures-with-top-pc-screen-techniques-for-2024/"><u>Preserve Your Virtual Adventures with Top PC Screen Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-steps-to-display-your-fps-in-counter-strike-global-offensive/"><u>Simple Steps to Display Your FPS in Counter-Strike: Global Offensive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-usb-c-accessories-that-bridge-your-devices-to-ultra-hd-monitors-exclusive-tips-on-zdnet/"><u>Top Recommended USB-C Accessories That Bridge Your Devices to Ultra HD Monitors | Exclusive Tips on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transitioning-to-an-ergonomic-split-board-a-one-week-experience-that-changed-my-outlook-on-computer-accessories-insights-from-zdnet/"><u>Transitioning to an Ergonomic Split Board: A One-Week Experience that Changed My Outlook on Computer Accessories - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/understanding-the-dynamics-of-instagram-unfollows-for-2024/"><u>Understanding the Dynamics of Instagram Unfollows for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-potential-hypers-innovative-hubs-docks-and-ssd-cases-expand-laptop-capabilities-insights-from-zdnet/"><u>Unleashing Potential: Hyper's Innovative Hubs, Docks & SSD Cases Expand Laptop Capabilities - Insights From ZDNet</u></a></li>
+</ul></div>
 

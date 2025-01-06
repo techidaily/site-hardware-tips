@@ -1,7 +1,7 @@
 ---
 title: The Lightweight Powerhouse That Outperformed MacBook Air in My Hands-On Tests | Tech Analysis
-date: 2024-12-22T22:04:03.744Z
-updated: 2024-12-27T22:37:06.673Z
+date: 2025-01-04T18:50:18.503Z
+updated: 2025-01-05T22:15:58.163Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -87,7 +87,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -126,22 +126,21 @@ The Surface Laptop is a flagship mid-range device that's well-rounded enough to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/1716069455147-new-in-2024-a-user-friendly-guide-to-seamless-collaboration-across-different-operating-systems-via-skype-group-chats/"><u>[New] In 2024, A User-Friendly Guide to Seamless Collaboration Across Different Operating Systems via Skype Group Chats.</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-premier-mp4-to-fb-video-transforming-tools/"><u>[New] In 2024, Premier MP4 to FB Video Transforming Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-crafting-winning-titles-and-tags-for-your-youtube-videos/"><u>[Updated] In 2024, Crafting Winning Titles & Tags for Your YouTube Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-windows-navigation-methods-without-ls-command/"><u>Advanced Windows Navigation Methods Without LS Command</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-and-high-speed-the-compact-sandisk-usb-drive-reviewed-by-tech-experts-at-zdnet/"><u>Affordable & High-Speed: The Compact SanDisk USB Drive Reviewed by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-new-drop-compact-desktop-speakers-immersive-audio-experience-below-130-discover-more-on-zdnet/"><u>Affordable New Drop Compact Desktop Speakers: Immersive Audio Experience Below $130 - Discover More on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipated-shifts-in-tech-the-impact-of-eus-unified-charger-mandate-on-devices-like-iphones-zdnet/"><u>Anticipated Shifts in Tech: The Impact of EU's Unified Charger Mandate on Devices Like iPhones | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyerdynamic-mmx-200-a-sound-perspective/"><u>Beyerdynamic MMX 200: A Sound Perspective</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-the-mavix-m9-gaming-chair-unparalleled-adjustability-and-design-a-detailed-insight-from-zdnet/"><u>Comprehensive Analysis of the Mavix M9 Gaming Chair: Unparalleled Adjustability and Design - A Detailed Insight From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-byo-ai-empowers-user-freedom-and-fuels-creativity-the-risks-of-model-lock-in-techanalysis/"><u>How BYO AI Empowers User Freedom and Fuels Creativity: The Risks of Model Lock-In | TechAnalysis</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-version-of-arcadegeddon-no-more-frequent-crashes/"><u>PC Version of Arcadegeddon - No More Frequent Crashes!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speednova-soundscape-in-depth-analysis-of-cetras-rog-headset-ultimate-for-gamers-seeking-zero-lag-audio/"><u>SpeedNova Soundscape: In-Depth Analysis of Cetra's Rog Headset – Ultimate for Gamers Seeking Zero Lag Audio</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-the-ultimate-guide-to-the-best-portable-photo-printers-features-and-reviews-zdnet/"><u>Top Picks: The Ultimate Guide to the Best Portable Photo Printers - Features & Reviews [ZDNet]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-and-testing-the-innocn-27c1u-monitor-brightness-and-speed-assessed-by-zdnet-experts/"><u>Unboxing and Testing the Innocn 27C1U Monitor: Brightness & Speed Assessed by ZDNet Experts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-display-settings-visibility-restored/"><u>Windows 10 Display Settings: Visibility Restored</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-handy-quick-reference-for-the-most-innovative-on-the-go-picture-makers-of-202n4-insights-from-zdnet/"><u>Your Handy Quick Reference for the Most Innovative On-The-Go Picture Makers of 202N4 - Insights From ZDNET</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-10-subtitle-converters-no-cost-for-srt-files/"><u>[New] 2024 Approved Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs-for-2024/"><u>[New] Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-evaluating-the-impact-of-reduced-shake-on-photoshop-usability/"><u>[New] Evaluating the Impact of Reduced Shake on Photoshop Usability</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-best-practices-in-selecting-youtube-video-extractor-apps-for-android-for-2024/"><u>[Updated] Best Practices in Selecting YouTube Video Extractor Apps for Android for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-boosting-your-youtube-earnings-on-mobile-devices-a-comprehensive-guide/"><u>[Updated] In 2024, Boosting Your YouTube Earnings on Mobile Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-tiktok-visual-transformation-switch-backgrounds-with-3-simple-tricks/"><u>[Updated] TikTok Visual Transformation Switch Backgrounds with 3 Simple Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-lenovo-and-dell-discover-the-most-affordable-2-in-1-laptop-recommended-ahead-of-prime-day-insights/"><u>Beyond Lenovo & Dell: Discover the Most Affordable 2-in-1 Laptop Recommended Ahead of Prime Day | Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-game-launch-errors-a-step-by-step-solution-for-granblue-fantasy-relink-issue/"><u>Fix Your Game Launch Errors: A Step-by-Step Solution for Granblue Fantasy Relink Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-best-deal-top-rated-macbook-usb-c-chargers-under-70-available-on-amazon-insights-from-zdnet/"><u>Get the Best Deal: Top-Rated MacBook USB-C Chargers Under $70 Available on Amazon - Insights From ZDNET</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-gigabyte-z370-driver-update-for-enhanced-performance/"><u>Get the Newest Gigabyte Z370 Driver Update for Enhanced Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mac-keyboard-guide-step-by-step-process-of-reconfiguring-your-command-key/"><u>Mac Keyboard Guide: Step-by-Step Process of Reconfiguring Your Command Key</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-air-challenged-by-lgs-new-gram-pro-laptops-outperformed-in-key-areas-analysis/"><u>MacBook Air Challenged by LG's New Gram Pro Laptops, Outperformed in Key Areas Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-gaming-on-cyber-monday-with-the-huge-920-savings-on-razer-blade-14-exclusive-deal-alerts-by-zdnet/"><u>Maximize Your Gaming on Cyber Monday with the Huge $920 Savings on Razer Blade 14 - Exclusive Deal Alerts by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-best-october-2024-prime-day-like-savings-on-laptops-tips/"><u>Top Picks: Best October 2024 Prime Day-Like Savings on Laptops - Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-insights-setting-up-time-limited-sessions-with-obs/"><u>Ultimate Insights Setting Up Time-Limited Sessions with OBS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-truth-behind-customer-service-at-apple-stores-an-eye-opening-account-featured-in-zdnet/"><u>Unveiling the Truth Behind Customer Service at Apple Stores – An Eye-Opening Account Featured in ZDNet</u></a></li>
 </ul></div>
 

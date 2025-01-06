@@ -1,7 +1,7 @@
 ---
 title: 'Liquid Freezer III' Coolers From Arctic May Void CPU Warranties – Protect Your Intel Chip with a Dedicated Contact Frame.
-date: 2024-08-23T12:58:14.252Z
-updated: 2024-08-24T12:58:14.252Z
+date: 2024-12-30T21:31:08.544Z
+updated: 2025-01-06T13:01:28.986Z
 tags:
   - cooling
 categories:
@@ -39,6 +39,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
 ![DeepCool AN400 CPU Cooler for SFF builds](https://cdn.mos.cms.futurecdn.net/XTMjAMoPpBDMfxZ74ADFBB-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: DeepCool)
 
  Additionally, DeepCool has new low-profile AN400 series CPU coolers to ensure adequate cooling for compact PC builds, with a choice of nickel-plated and black-anodized heatsinks. There are no bells or whistles, which means no RGB something that many HTPC builders will appreciate.  
@@ -55,15 +59,27 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PC chassis, accessories and new power supplies
 
  Image 1 of 4
 
 ![BTF compatible DeepCool CH560R PC Case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
 
 ![BTF compatible DeepCool CH560R PC Case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
 
@@ -83,6 +99,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
 ![DeepCool  LP Matrix AIO Series in 240mm and 360mm  variants](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: DeepCool)
 
 ![New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -100,8 +120,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  DeepCool cases and power supplies are designed to be future-ready, with support for the latest motherboards designs and power supply standards. The company has been making PC accessories for a while now and tends to do a good job, and the new ability to customize cases with silicone bits may appeal to a certain demographic. We look forward to seeing the retail products over the coming months.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -110,14 +131,11 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +144,24 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-portable-tools-dominating-video-editing-landscape/"><u>[Updated] Top 10 Portable Tools Dominating Video Editing Landscape</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-audio-editing-with-garageband/"><u>2024 Approved Navigating the World of Audio Editing with GarageBand</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725288056435-dvd/"><u>最新DVDリッパープログラム：高性能なフリーダウンロード満載</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-solving-metro-exodus-pc-stability-problems/"><u>Comprehensive Guide to Solving Metro Exodus PC Stability Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-why-samsungs-latest-copilotplus-is-a-must-have-for-savvy-pc-shoppers-techinsights/"><u>Discover Why Samsung's Latest Copilot+ Is a Must-Have for Savvy PC Shoppers | TechInsights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-your-guide-to-choosing-the-ideal-youtube-downloader-android/"><u>In 2024, Your Guide to Choosing the Ideal YouTube Downloader (Android)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-minute-bargain-of-the-year-the-ultimate-guide-to-scoring-an-asus-laptop-for-only-99-bucks-on-best-buys-exclusive-sale-expert-advice-by-zdnet/"><u>Last-Minute Bargain of the Year: The Ultimate Guide to Scoring an ASUS Laptop for Only 99 Bucks on Best Buy's Exclusive Sale – Expert Advice by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/octobers-must-have-prime-gaming-bargains-for-gamers-save-big-on-the-latest-releases/"><u>October's Must-Have Prime Gaming Bargains for Gamers: Save Big on the Latest Releases</u></a></li>
+<li><a href="https://techidaily.com/repair-office-2016-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2016 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/resolving-display-dilemmas-a-step-by-step-guide-by-yl-software/"><u>Resolving Display Dilemmas: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-an-unbeatable-bargain-with-the-apple-macbook-air-m2-for-only-749-this-prime-day-dont-miss-out-on-amazons-ultimate-october-sale/"><u>Score an Unbeatable Bargain with the Apple MacBook Air (M2) for Only $749 This Prime Day – Don't Miss Out on Amazon's Ultimate October Sale!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-s21-fe-5g-2023-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy S21 FE 5G (2023) Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-10-most-popular-tracks-for-2024/"><u>The Ultimate 10 Most Popular Tracks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-bargain-acers-chromebook-plus-strikes-gold-under-400-outshines-competitors-zdnet/"><u>The Ultimate Bargain: Acer's Chromebook Plus Strikes Gold Under $400, Outshines Competitors | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-prime-day-bargains-on-video-games-october-2024-preview-pcworld/"><u>Top Prime Day Bargains on Video Games: October 2024 Preview - PCWorld</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Rated Laptops : Comprehensive Testing & Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-touchscreen-laptops-on-the-market-in-depth-analysis-pro-reviewers/"><u>Ultimate Guide to the Best Touchscreen Laptops on the Market - In-Depth Analysis Pro Reviewers</u></a></li>
+</ul></div>
 

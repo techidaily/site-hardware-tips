@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Surface Laptop with Copilot+ Outperforms Apple MacBook Air by Threefold - A Comprehensive Review
-date: 2024-12-21T19:31:37.883Z
-updated: 2024-12-27T22:21:17.747Z
+date: 2025-01-05T04:28:38.382Z
+updated: 2025-01-06T11:12:31.683Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc9919522-685b-4aa9-983b-c7ff321ae869%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,19 +125,20 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ersatile-viewing-cycle-and-catch-up-with-youtube-videos-on-tv/"><u>[New] Versatile Viewing Cycle and Catch Up with YouTube Videos on TV</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-techs-browser-recording-software-roundup-2023-edition/"><u>[Updated] In 2024, Leading Tech's Browser Recording Software Roundup, 2023 Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-troubleshooting-iphone-camera-failing-to-autofocus/"><u>[Updated] Troubleshooting iPhone Camera Failing to Autofocus</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-your-inner-comedian-9gag-meme-creation-guide/"><u>[Updated] Unleash Your Inner Comedian 9GAG Meme Creation Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-usb-hub-reviews-of-2023-according-to-tech-experts-at-zdnet-top-5-selections/"><u>Best USB Hub Reviews of 2023 According to Tech Experts at ZDNET | Top 5 Selections</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-gaming-performance-instantly-with-a-discounted-rtx-nvidia-geforce-3070-shop-now-at-pcworld/"><u>Boost Gaming Performance Instantly with a Discounted RTX nVidia GeForce 3070 - Shop Now at PCWorld!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/capture-your-screen-easy-guide-to-taking-screenshots-on-dell-and-lenovo-computers/"><u>Capture Your Screen: Easy Guide to Taking Screenshots on Dell and Lenovo Computers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-social-apps-to-expand-your-circle-of-acquaintances/"><u>Discover the Best Social Apps to Expand Your Circle of Acquaintances</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-recall-misconceptions-why-theres-no-need-to-fear-for-your-data-privacy-zdnet/"><u>Microsoft Recall Misconceptions - Why There's No Need to Fear for Your Data Privacy | ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-couldnt-load-plugin-chrome-error-on-windows-11/"><u>Solved: Couldn't Load Plugin Chrome Error on Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-xcover-6-pro-tactical-edition-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy XCover 6 Pro Tactical Edition FRP</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-tech-expert-forecasts-for-the-new-era-of-mac-pro-with-apple-chips/"><u>Transforming Tech: Expert Forecasts for the New Era of Mac Pro with Apple Chips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-secrets-of-high-performance-gadgets-with-toms-tech-advice/"><u>Unlocking the Secrets of High-Performance Gadgets with Tom's Tech Advice</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-swiftly-flip-and-swivel-movies-for-a-better-viewing-experience-using-vlc/"><u>[Updated] 2024 Approved Swiftly Flip and Swivel Movies for a Better Viewing Experience Using VLC</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-top-23-alive-and-kicking-labor-day-sweetheart-offers-on-computers-spotted-by-zdnet/"><u>Exclusive Guide: Top 23 Alive-and-Kicking Labor Day Sweetheart Offers on Computers - Spotted by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-lenovos-innovative-thinkpad-x1-fold-a-curious-blend-of-playful-design-and-premium-pricing/"><u>Exploring Lenovo’s Innovative ThinkPad X1 Fold: A Curious Blend of Playful Design & Premium Pricing</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-to-know-you-your-pc-unveiling-the-brand-and-model/"><u>Getting to Know You (Your PC): Unveiling the Brand and Model</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-webcams-elevating-podcast-production/"><u>In 2024, Ideal Webcams Elevating Podcast Production</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rainbow-six-sieges-2024-forecast-no-cost-enhancements-for-gamers-awaited/"><u>Rainbow Six Siege's 2024 Forecast: No Cost Enhancements for Gamers Awaited</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-the-game-an-insiders-look-at-dells-luxury-laptop-with-mind-blowing-features-breakdown-and-analysis-for-gamers/"><u>Revolutionizing the Game: An Insider's Look at Dell's Luxury Laptop with Mind-Blowing Features | Breakdown & Analysis for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/still-on-sale-the-ultimate-list-of-top-deals-for-the-october-prime-day-2024-at-best-buy-featured-by-zdnet/"><u>Still on Sale! The Ultimate List of Top Deals for the October Prime Day 2024 at Best Buy - Featured by ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-funny-image-makers-for-ios-and-android-users-for-2024/"><u>Top Funny Image Makers for iOS and Android Users for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-notebooks-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Touchscreen Notebooks: In-Depth Analysis & Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workflow-with-lenovos-cutting-edge-ai-thinkpads-the-ultimate-laptops-for-todays-business-users-as-featured-on-zdnet/"><u>Transform Your Workflow with Lenovo's Cutting-Edge AI ThinkPads – The Ultimate Laptops for Today’s Business Users, as Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-tests-lenovos-innovative-convertible-laptop-with-android-tablet-functionality-unveiling-its-impressive-capabilities/"><u>ZDNet Tests Lenovo's Innovative Convertible Laptop with Android Tablet Functionality – Unveiling Its Impressive Capabilities</u></a></li>
 </ul></div>
 

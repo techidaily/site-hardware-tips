@@ -1,7 +1,7 @@
 ---
 title: My Experience with the New Apple M2 MacBook Air - Tears of Joy or Frustration? A Deep Dive
-date: 2024-12-24T21:32:08.908Z
-updated: 2024-12-27T22:56:06.333Z
+date: 2025-01-01T01:59:48.856Z
+updated: 2025-01-05T22:55:17.091Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Cliff Joseph/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -44,6 +44,10 @@ Until I'm sure I don't just want it, but need it.
 
 Oh, all right, I may occasionally have a flexible definition of _need_.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The weakness. I just can't bear the weakness
 
 I worried, though, when Apple released the [M2 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). 
@@ -60,10 +64,6 @@ But the M2 MacBook Air seemed to represent a departure from the old Air design. 
 
 There were two things I kept staring at: the midnight color and the new, non-tapered shape.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best MagSafe accessories: Top choices for the iPhone 12 and 13 Want to try the iPhone's MagSafe tech but not sure where to start? We'll show you some of our favorite accessories thus far.  Read now](https://www.zdnet.com/article/best-magsafe-accessory/)
@@ -78,13 +78,13 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -120,7 +120,7 @@ So, as I write this, I'm staring into space, blaring at myself for being so impu
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -169,17 +169,22 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-transforming-your-media-expertise-in-itunes-recordings/"><u>[New] In 2024, Transforming Your Media Expertise in iTunes Recordings</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-smooth-transition-uploading-imovie-films-into-vimeo/"><u>[New] Smooth Transition Uploading iMovie Films Into Vimeo</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-step-by-step-ppt-and-vo-integration-tutorial/"><u>[Updated] 2024 Approved Step-by-Step PPT & VO Integration Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-beyond-the-slim-profile-the-three-essential-factors-that-truly-define-your-televisions-performance/"><u>1. Beyond the Slim Profile: The Three Essential Factors That Truly Define Your Television's Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-the-purpose-of-mock-modules-in-custom-computer-systems-unveiling-the-use-of-dummy-ram/"><u>1. The Purpose of Mock Modules in Custom Computer Systems: Unveiling the Use of Dummy RAM</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-unbeatable-technology-offers-grab-the-latest-on-beat-studio-pro-headphones-lenovos-yoga-9i-laptop-and-top-rated-portable-chargers/"><u>1. Unbeatable Technology Offers: Grab the Latest on Beat Studio Pro Headphones, Lenovo's Yoga 9I Laptop & Top-Rated Portable Chargers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-m2-ssd-upgrade-raspberry-pi-5-with-enhanced-storage-capabilities/"><u>Affordable M.2 SSD Upgrade: Raspberry Pi 5 with Enhanced Storage Capabilities</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-access-get-your-lenovo-x220-up-and-running-latest-driver-downloads/"><u>Quick Access: Get Your Lenovo X220 Up and Running – Latest Driver Downloads</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/top-6-free-pdf-reader-apps-for-windows-in-2020-a-comprehensive-guide/"><u>Top 6 Free PDF Reader Apps for Windows in 2020: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-audio-issues-automatic-startup-fixes-for-wake/"><u>Troubleshooting Audio Issues: Automatic Startup Fixes for Wake</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-your-smart-home-needs-a-detailed-activity-record-benefits-and-necessity-of-incorporating-logs/"><u>Why Your Smart Home Needs a Detailed Activity Record: Benefits and Necessity of Incorporating Logs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-crafting-high-quality-igtv-footage-on-smartphonesdslrs/"><u>[New] 2024 Approved Crafting High-Quality IGTV Footage on Smartphones/DSLRs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-leverage-youtubes-potential-through-strategic-backlinking/"><u>[Updated] Leverage YouTube's Potential Through Strategic Backlinking</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-love-in-action-top-9-premium-wedding-films-on-youtube-and-vimeo-for-2024/"><u>[Updated] Love in Action Top 9 Premium Wedding Films on YouTube and Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-motivating-hr-chronicles-the-best-ten-vids-for-2024/"><u>[Updated] Motivating HR Chronicles - The Best Ten Vids for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beginning-languages-adventure-resolution-of-2024/"><u>Beginning Languages Adventure: Resolution of 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/best-10-tools-for-stunning-insta-grid-designs/"><u>Best 10 Tools for Stunning Insta Grid Designs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-productivity-with-swift-the-power-of-macos-spotlight-suggestions-unveiled/"><u>Boost Your Productivity with Swift: The Power of macOS Spotlight Suggestions Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-blend-how-chromeos-now-mirrors-windows-11-functionality-for-a-seamless-user-experience-techtrends/"><u>Discover the Blend: How ChromeOS Now Mirrors Windows 11 Functionality for a Seamless User Experience | TechTrends</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-razr-40-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Razr 40? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-laptop-release-how-hp-outshines-apple-with-bold-new-strategy-insights/"><u>Innovative Laptop Release: How HP Outshines Apple with Bold New Strategy - Insights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-technical-hurdles-of-freesync/"><u>Overcoming Technical Hurdles of FreeSync</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rebinding-the-command-key-on-apples-latest-mac-models-easy-tutorial-from-zdnet/"><u>Rebinding the Command Key on Apple's Latest Mac Models – Easy Tutorial From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scarce-deal-alert-samsungs-8tb-portable-ssd-holds-a-steady-36-discount-on-amazon-post-prime-day-insights/"><u>Scarce Deal Alert: Samsung's 8TB Portable SSD Holds a Steady 36% Discount on Amazon Post-Prime Day – Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-clutter-discover-the-ultimate-11-in-1-docking-station-at-a-44-discount-insights-from-zdnet/"><u>Slash Your Clutter: Discover the Ultimate 11-in-1 Docking Station at a 44% Discount - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/todays-agenda-accessing-the-microsoft-ai-showcase-on-surface-and-windows-what-you-need-to-know-for-future-tech-trends/"><u>Today's Agenda: Accessing the Microsoft AI Showcase on Surface and Windows – What You Need To Know for Future Tech Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-student-friendly-chromebook-picks-in-depth-reviews-and-comparison-by-experts-zdnet/"><u>Top-Rated Student-Friendly Chromebook Picks: In-Depth Reviews & Comparison by Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-critique-unveiling-the-truth-about-microsoft-surface-laptop-n-a-balanced-review-beyond-madness/"><u>ZDNET Critique: Unveiling the Truth About Microsoft Surface Laptop N – A Balanced Review Beyond Madness</u></a></li>
 </ul></div>
 

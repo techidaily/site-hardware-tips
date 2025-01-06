@@ -1,7 +1,7 @@
 ---
 title: "Stay Chilled Under Pressure: Cooler Master's Innovative AIO & Air Cools Tackle Over 300 Watt Heat Output"
-date: 2024-08-23T12:59:48.745Z
-updated: 2024-08-24T12:59:48.745Z
+date: 2025-01-03T17:19:46.317Z
+updated: 2025-01-06T13:50:57.349Z
 tags:
   - cooling
 categories:
@@ -69,6 +69,10 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
   
  The Freezer 36 sells for[$25.40](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG6NBSJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8205773312092432340-20) , while the Freezer 36 Black will set you back[$28.48](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH14935%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-9363665590588779081-20) . Meanwhile, the Freezer 36 CO retails for[$27.71](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG62KBZ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3116022598048932967-20) . The RGB versions carry a slightly higher premium, with the Freezer 36 A-RGB White and Freezer 36 A-RGB Black selling at[$33.87](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH4YDS9%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8017403963971760368-20) and[$33.10](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH22MT1%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1231453507516044270-20) , respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -77,14 +81,11 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -93,9 +94,24 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-a-billion-view-empire-your-step-by-step-youtube-strategy/"><u>[New] In 2024, Building a Billion-View Empire Your Step-by-Step Youtube Strategy</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-navigating-new-skies-with-syma-x5c-an-experts-take-for-novices/"><u>[New] In 2024, Navigating New Skies with Syma X5C – An Expert’s Take for Novices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-xsplit-digest-detailed-video-game-reviews/"><u>[New] XSplit Digest Detailed Video Game Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-8-immersive-titles-with-oculus-support/"><u>2024 Approved Top 8 Immersive Titles with Oculus Support</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/buy-one-get-one-free-macxdvd-discounts-exclusive-summer-sale-deal/"><u>Buy One Get One Free MacXDVD Discounts: Exclusive Summer Sale Deal!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-basic-steps-for-saving-youtube-content/"><u>In 2024, Basic Steps for Saving YouTube Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-stream-reversal-hacks-an-overview-of-eight-simple-steps/"><u>In 2024, Stream Reversal Hacks An Overview of Eight Simple Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-roadmap-to-crafting-high-quality-srt-files/"><u>In 2024, The Ultimate Roadmap to Crafting High-Quality SRT Files</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/transform-wtv-files-into-mp4-with-our-user-friendly-wtv-converter-tool/"><u>Transform WTV Files Into MP4 with Our User-Friendly WTV Converter Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-hosting-a-memorable-labor-day-bash/"><u>Ultimate Guide to Hosting a Memorable Labor Day Bash</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-pick-of-the-5-most-reliable-all-in-one-universal-tv-remotes-zdnet/"><u>Ultimate Pick of the 5 Most Reliable All-in-One Universal TV Remotes (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-on-top-rated-lg-oled-tvs-get-up-to-800-off-this-labor-day-insider-scoop-from-zdnet/"><u>Unbeatable Deals on Top-Rated LG OLED TVs: Get Up To $800 Off This Labor Day - Insider Scoop From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-labor-day-savings-on-highly-rated-lg-oled-tvs-available-up-to-80t-discounted-only-here-zdns-tech-corner/"><u>Unbeatable Labor Day Savings on Highly Rated LG OLED TVs, Available Up to $80T Discounted Only Here | ZDN's Tech Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-no-cost-enhancements-on-your-roku-tv-the-premium-update-awaits/"><u>Unlock Exclusive, No-Cost Enhancements on Your Roku TV - The Premium Update Awaits!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-and-how-to-purge-your-smart-tvs-memory-for-optimal-performance/"><u>Why and How to Purge Your Smart TV's Memory for Optimal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-ultimate-cheat-sheet-for-turning-your-iphone-into-an-efficient-tv-remote-control/"><u>Your Ultimate Cheat Sheet for Turning Your iPhone Into an Efficient TV Remote Control</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-highlights-exceptional-samsung-tv-performance-matched-with-historically-low-price-point/"><u>ZDNet Highlights: Exceptional Samsung TV Performance Matched with Historically Low Price Point</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->

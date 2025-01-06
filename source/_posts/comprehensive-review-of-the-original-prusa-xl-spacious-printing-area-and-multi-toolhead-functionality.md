@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the Original Prusa XL: Spacious Printing Area & Multi-Toolhead Functionality"
-date: 2024-08-23T13:00:38.489Z
-updated: 2024-08-24T13:00:38.489Z
+date: 2024-12-30T02:29:59.005Z
+updated: 2025-01-06T02:59:26.447Z
 tags:
   - printer
 categories:
@@ -55,9 +55,6 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  I have experience with food printers (I built a[frosting 3D printer](https://youtu.be/Ui0dcF48U9k?si=QU%5F4%5FKeSnI5bEZvQ) based on a[clay extruder design by Constantijn](https://youtu.be/Q3A4NqTPOYY?si=f7zm12XUwmLBKcgq) ) and also with printing chocolate specifically (a[miserable experience with the barely-functional Wiiboox Luckybot](https://www.youtube.com/watch?v=k0Ur98gH8Zo&ab%5Fchannel=AndrewSink) ), so I’ve been excited to try a newer and more simplified process for printing chocolate.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Chocolate Material used by the Cocoa Press
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/zRBQAucC5RWHfzmVgBXA3S-320-80.jpg)
@@ -67,6 +64,10 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
  Cocoa Press[offers material in the form of 65 gram chocolate cores](https://cocoapress.com/products/cocoa-cores?variant=44502779887909) in dark, milk, and white variants. This material is priced at $49 for a 10 pack, which breaks down to under $5 per core. To go further: this is equal to $0.08 per gram, which is roughly three times the[price per gram of a Snicker bar](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fref%3Dtgt%255Fadv%255Fxsp%26AFID%3Dgoogle%26fndsrc%3Dtgtao%26DFA%3D71700000108139139%26CPNG%3DPLA%255FSnacks%252BCandy%252BShopping%255FLocal%257CSnacks%252BCandy%255FEcomm%255FFood%255FBev%26adgroup%3DSC%255FSnacks%252BCandy%26LID%3D700000001170770pgs%26LNM%3DPRODUCT%255FGROUP%26network%3Dg%26device%3Dc%26location%3D9009973%26targetid%3Daud-554348709499%253Apla-702295848632%26gad%255Fsource%3D1%26gclid%3DCjwKCAiA7t6sBhAiEiwAsaieYoaEC%255F9Qg4fsTM1SRZn30aI4wDD7DY%255F7UUvd8sa%255FjtxWfw%255FWeFtCxxoCMBwQAvD%255FBwE%26gclsrc%3Daw.ds%26publisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-3596349578306961031%26url%3Dhttps%253A%252F%252Fwww.target.com%252Fp%252Fsnickers-full-size-chocolate-candy-bar-1-86oz%252F-%252FA-13055565%253Fref%253Dtgt%255Fadv%255Fxsp%2526AFID%253Dgoogle%2526fndsrc%253Dtgtao%2526DFA%253D71700000108139139%2526CPNG%253DPLA%255FSnacks%25252BCandy%25252BShopping%255FLocal%25257CSnacks%25252BCandy%255FEcomm%255FFood%255FBev%2526adgroup%253DSC%255FSnacks%25252BCandy%2526LID%253D700000001170770pgs%2526LNM%253DPRODUCT%255FGROUP%2526network%253Dg%2526device%253Dc%2526location%253D9009973%2526targetid%253Daud-554348709499%253Apla-702295848632%2526gad%255Fsource%253D1%2526gclid%253DCjwKCAiA7t6sBhAiEiwAsaieYoaEC%255F9Qg4fsTM1SRZn30aI4wDD7DY%255F7UUvd8sa%255FjtxWfw%255FWeFtCxxoCMBwQAvD%255FBwE%2526gclsrc%253Daw.ds%26article%255Fname%3DCocoa%2520Press%25203D%2520Printer%2520Review%253A%25203D%2520Print%2520Chocolate%2520at%2520Home%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252F3d-printing%252Fcocoa-press-3d-printer-review) . If you’ve never tried to process chocolate before, this may seem like a high price for a solid bar of chocolate. It’s worth noting that the Cocoa Press is not a locked or proprietary system, but the difficulty in creating a solid block of chocolate will likely come as a surprise to consumers who have never attempted it before.
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/59nhLAG75e8XcV6qV6vPjW-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Cocoa Press)
 
@@ -78,9 +79,6 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -95,29 +93,28 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/upEsmBpXkuqHXMwAevCJYn-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Each box is further labeled, with individual components bagged, tagged, and referenced in the documentation. The assembly process felt like building a LEGO kit or a Gundam model, where each step has all parts labeled and sorted separately so you’re not digging through a giant box full of nuts and bolts when looking for a single washer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Printed Parts on the Cocoa Press
 
  Image 1 of 2
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  A DIY kit 3D printer, the Cocoa Press uses 3D printed parts for several of the brackets, mounts, and other structural components. The parts are offered as a[download on Thangs](https://thangs.com/designer/Cocoa%20Press/3d-model/Cocoa%20Press%203D%20Printed%20Parts-939895) for users who want to print them out themselves and save some money or add a level of customization. The recommended settings are included, as well as information regarding print orientation, color, etc. Several of the parts are also designed to accept a heat set insert, which are included (along with a soldering iron tip designed to fit them) with the kit.
@@ -146,9 +143,6 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -157,18 +151,12 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Make no mistake: this is a kit 3D printer and will require time to assemble. Cocoa Press estimates the assembly[should take about 10 hours](https://cocoapress.com/products/cocoa-press-3d-chocolate-printer-diy-kit) , but it took me about 14 hours split across two days. I spent extra time making sure the aluminum extrusions were square, carefully wrapping the wires, and generally taking my time so I wouldn’t need to go back and fix anything later. I generally enjoy the process of building 3D printers (like the Creality Ender 3 V2,[which I did a 1 hour speedrun on](https://youtu.be/6t0fQTUw2Eg?t=40) when it was released), and the Cocoa Press was no exception.
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/DZEm9qu72yCepiV7dcyW3c-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Cocoa Press has clearly been designed by someone who uses 3D printers, and the attention to detail shows in parts like the motor mounts, hot end Z-offset, and use of thumbscrew as quick-release fasteners. The CoreXY-inspired kinematic system uses an A and B belt to move the carriage across the X/Y plane, and the Z stage drops as the print height increases as opposed to lifting the extruder. Generally speaking, the assembly is similar to building a[DIY kit 3D printer like a Voron](https://www.tomshardware.com/reviews/ldo-voron-01-kit) up until the point where you start to assemble the hot end, which is where the changes become apparent.
@@ -178,21 +166,13 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -205,9 +185,6 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -236,9 +213,6 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Wiring the Cocoa Press is similar to wiring most DIY kit 3D printers, and there are a few screw terminal blocks to connect, both on the 150 watt power supply as well as on the mainboard. This can be a bit daunting for a beginner, and I appreciated that Cocoa Press includes a printed cover for the PSU terminal block to prevent any accidental shorting while preventing access. Like other parts of this project, the best path forward is to work slowly and check the assembly guide regularly.
@@ -249,9 +223,6 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  The Cocoa Press is a tall printer, measuring over 27-inches in Z despite the relatively conservative 5.51 x 5.91 x 5.91 build volume. This is due to the height of the plunger mechanism which pushes the chocolate core through the cartridge. For storage, this assembly can be rotated back using the same process that’s used for swapping out material.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Cocoa Press Documentation and Troubleshooting
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/HpFVyHiiFCZc2FYqwfRaVX-320-80.png)
@@ -262,11 +233,6 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/bKf7skVgvzexkKrkjKqBaY-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  (Image credit: Cocoa Press)
 
  The included[assembly guide](https://help.cocoapress.com/assets/assembly%5Fmanual.pdf) for the Cocoa Press is a jaw-dropping 214 pages long; possibly the longest I’ve seen for a consumer 3D printer. Filled with whimsical references to musical theater (“_Way Down, Hadestown_ ”), pop culture (“_No Touching!_ ”), and generally good advice (“_Trust but Verify_ ”), the manual succeeds in grabbing your attention and guiding you through the assembly process with humor, which can be a challenge for a typically dry piece of technical writing.
@@ -279,9 +245,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/qqyaU565pnT4ZZHpdmt7kd-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Cocoa Press)
 
  Where the assembly guide really shines is in the most difficult parts of assembly, like routing the timing belts for the X and Y axes. This process (indicated in the manual as “_Like tying your shoes but worse_ ”) is a difficult one and can sometimes feel like you need 4 hands to complete it.
@@ -298,10 +261,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/fAhAGEiQtnSzgEJ4eWXLET-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The printer UI has a guided “Probe Mesh” operation which will automatically move the print head to 25 points on the build platform, measure the offset, and store the data. Once complete, the resulting mesh can also be viewed in the printer UI to show the general distortion in the form of a 3D mesh.
@@ -318,9 +277,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/z4VE3q89LmejVwFxw2ekp4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The mats are designed to be washed with soap and water, and I found them to be easy to clean after printing. Because I was careful not to purge my nozzle onto the mat when replacing chocolate, they didn’t get much chocolate on them during use. After printing, I would typically remove the printed part and use the included scraper to remove the purge line, which peels up in a single piece. Similarly, the initial extrusion when loading material can also be popped off and eaten as a quick snack, not typically the case with an FFF-style 3D printer.
@@ -335,6 +291,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Cocoa Press includes several demo models preloaded on the included SD card as well as a[page on Printables](https://www.printables.com/@CocoaPress%5F86286) that has three models available for download. The Fidget Skull by Clockspring is an impressive display of the Vase Mode functionality of the Cocoa Press, which uses a single continuous helical toolpath to create a 3D print. However, this model uses nearly an entire core of material (worth $4.90), which may be more than some users want from a demo model.
@@ -343,16 +303,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Switching to the 1.6mm nozzle, the infill samples are a fun way to show a few different infill patterns while only using a relatively small amount of material. Printed using dark chocolate, these samples all have a different[mouthfeel](https://en.wikipedia.org/wiki/Mouthfeel) , a unique and fun effect caused by the crumbling of the infill as it is being chewed.
@@ -363,9 +321,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/uwijAa5tCzfmtV9LGhs4ic-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Model:[Cute Octopus Says Hello by Makerbot](https://www.thingiverse.com/thing:27053) (Image credit: Prusa)
 
  The Cocoa Press uses PrusaSlicer to prepare models for printing, a welcome change from manufacturers that will fork and abandon Open Source software to get their name at the top of the application. The latest version of PrusaSlicer includes machine profiles for the Cocoa Press, both with the 0.8mm nozzle and the 1.6mm nozzle.
@@ -381,17 +336,15 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Prusa)
 
  Model:[Heart by Lumorion](https://www.printables.com/model/66175-heart)
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Prusa)
 
  Model:[Heart by Lumorion](https://www.printables.com/model/66175-heart)
@@ -402,18 +355,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Prusa)
 
  Model:[Heart by Lumorion](https://www.printables.com/model/66175-heart)
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  (Image credit: Prusa)
 
  Model:[Heart by Lumorion](https://www.printables.com/model/66175-heart)
@@ -424,9 +371,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Model:[Cute Octopus Says Hello by Makerbot](https://www.thingiverse.com/thing:27053)
@@ -441,6 +385,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/YEFoKe64nnbuRvAUZH7rLU-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Model:[Cute Octopus Says Hello by Makerbot](https://www.thingiverse.com/thing:27053)  (Image credit: Tom's Hardware)
 
  After printing, I noticed there was a line in the model right over the eyebrows. This line was caused by a skipped layer, an issue that appeared and then resolved itself before the next layer. In addition, the tentacle at the front of the model looks a bit warped, likely due to the small cross-sectional area not having enough time to cool between layers. I didn’t encounter the first issue again while printing, but I did notice that tall, thin parts had trouble resolving, an issue shared by other FFF printers but made worse due to the specific material used.
@@ -449,9 +397,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Model:[Cute Octopus Says Hello by Makerbot](https://www.thingiverse.com/thing:27053)
@@ -469,17 +414,15 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Model:[Easy Filament Swap Gingerbread Cookie by Overture3D](https://www.printables.com/model/669856-easy-filament-swap-gingerbread-cookie)
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Model:[Easy Filament Swap Gingerbread Cookie by Overture3D](https://www.printables.com/model/669856-easy-filament-swap-gingerbread-cookie)
@@ -506,9 +449,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Prusa)
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -527,9 +467,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Prusa)
 
  Model:[Chocolate Bunny by ncsandor](https://www.printables.com/model/498780-chocolate-bunny)
@@ -550,9 +487,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Going for a more ambitiously featured model, I printed the Benchy (a standard geometry typically used as a[speed benchmark for the fastest 3D printers](https://www.tomshardware.com/news/3d-printer-speed-hierarchy) ) using white chocolate. I let the chocolate warm up for the recommended 20 minutes, but the first print (pictured above on the left) looked a bit uneven in the thin spots, and there were multiple lines in the hull.
@@ -564,8 +498,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/8dvCRgFUiSNR3YnXZNs3bL-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  At $1,499 for[the bare-bones kit](https://cocoapress.com/products/cocoa-press-3d-chocolate-printer-diy-kit) and another[$250 for the printed parts with inserts](<https://cocoapress.com/products/cocoa-press-3d-printed-parts>) , the Cocoa Press is not a cheap printer relative to desktop machines like the[Elegoo Neptune 4 Pro](https://www.tomshardware.com/reviews/elegoo-neptune-4-pro-3d-printer-review) . However, the ability to print chocolate straight out of the box is not something that can be done easily, and the Cocoa Press is one of the least expensive options for printing food at home.
@@ -586,8 +521,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -595,4 +528,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-androids-video-recording-techniques-explored/"><u>[New] Android's Video Recording Techniques Explored</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevate-your-reddit-presence-with-these-essentials/"><u>[New] In 2024, Elevate Your Reddit Presence with These Essentials</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-top-4-strategies-for-success-in-instagram-loop-creation/"><u>[New] Top 4 Strategies for Success in Instagram Loop Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-hostingers-managed-servers-vps-cloud-and-sharing-options/"><u>Comprehensive Analysis of Hostinger's Managed Servers: VPS, Cloud & Sharing Options</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-most-popular-networks-online-facebook-plus-twitter-plus-instagram-plus-youtube/"><u>Discover the Most Popular Networks Online: Facebook + Twitter + Instagram + YouTube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210875184-9780593330890-goddess-energy/"><u>Goddess Energy | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c32-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Nokia C32</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lyfts-cutting-edge-maneuver-to-lead-autonomous-vehicle-innovation-insights-from-zdnet/"><u>Introducing Lyft's Cutting-Edge Maneuver to Lead Autonomous Vehicle Innovation | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-kalk-cake-e-bike-a-versatile-eco-friendly-motorcycle-ideal-for-work-and-leisure-travels-zdnet/"><u>Introducing the Kalk Cake E-Bike: A Versatile, Eco-Friendly Motorcycle Ideal for Work and Leisure Travels | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-android-automotive-update-enhances-user-experience-with-added-bluetooth-headphone-compatibility-tech-news-by-zdnet/"><u>Latest Android Automotive Update Enhances User Experience with Added Bluetooth Headphone Compatibility - Tech News by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discounts-await-at-dollar-flight-club-secure-94-off-flights-today/"><u>Massive Discounts Await at Dollar Flight Club - Secure 94% Off Flights Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-longevity-expert-tips-for-maintaining-your-high-end-e-bikes-premium-battery-zdnet/"><u>Maximizing Longevity: Expert Tips for Maintaining Your High-End E-Bike's Premium Battery (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newly-unveiled-the-arrival-of-the-first-generation-4th-gen-tesla-supercharger-in-arizona-insights-and-specs/"><u>Newly Unveiled: The Arrival of the First Generation 4Th Gen Tesla Supercharger in Arizona - Insights and Specs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-progress-in-driverless-cars-with-machine-learning-dive-into-the-latest-breakthroughs-that-could-accelerate-their-arrival/"><u>Pioneering Progress in Driverless Cars with Machine Learning - Dive Into the Latest Breakthroughs That Could Accelerate Their Arrival</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/simplify-your-pets-diet-using-the-arf-automatic-pet-nourisher/"><u>Simplify Your Pet's Diet Using the Arf Automatic Pet Nourisher</u></a></li>
+</ul></div>
 

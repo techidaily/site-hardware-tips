@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look: The Revolutionary 12-Port Thunderbolt Dock Boasting an Exceptional Power Feature for Windows Enthusiasts | TechRadar"
-date: 2024-12-22T23:30:48.367Z
-updated: 2024-12-27T18:33:00.135Z
+date: 2025-01-03T16:16:19.467Z
+updated: 2025-01-06T11:55:26.879Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cde8d55d1-86d7-400d-9731-1d1296ca9684%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,21 +149,19 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-audio-mastery-top-strategies-for-win10-users/"><u>[New] Audio Mastery Top Strategies for Win10 Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elite-hd-video-preservation-devices/"><u>[New] In 2024, Elite HD Video Preservation Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-enhance-visibility-amplify-impact-video-seo/"><u>[Updated] In 2024, Enhance Visibility, Amplify Impact (Video SEO)</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1-mac-avchd-mkv-wmv-mp4/"><u>1. [官網] Mac 最強影片轉框器 - AVCHD, MKV, WMV, MP4 全能支援！</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-proven-strategies-for-implementing-visual-enhancements-in-media/"><u>2024 Approved Proven Strategies for Implementing Visual Enhancements in Media</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-step-by-step-incorporating-music-into-your-canva-projects/"><u>2024 Approved Step-by-Step Incorporating Music Into Your Canva Projects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/3g-network-discontinuation-uncover-which-gadgets-are-impacted-and-whether-you-need-to-upgrade/"><u>3G Network Discontinuation: Uncover Which Gadgets Are Impacted and Whether You Need to Upgrade</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-cooling-solutions-the-leading-ac-units-for-savings-consumer-digest-ratings/"><u>Affordable Cooling Solutions: The Leading AC Units for Savings – Consumer Digest Ratings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-hps-innovative-subscription-service-really-improve-your-printer-experience-and-love-for-the-brand/"><u>Can HP's Innovative Subscription Service Really Improve Your Printer Experience and Love for the Brand?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-samsungs-latest-innovations-a-detailed-review-of-the-neo-qled-and-oled-models-for-2n23-unlocking-features-and-purchase-info/"><u>Exploring Samsung's Latest Innovations: A Detailed Review of the Neo QLED & OLED Models for 2N23 - Unlocking Features & Purchase Info</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-innovation-to-imposition-government-strikes-back-on-big-tech/"><u>From Innovation to Imposition: Government Strikes Back on Big Tech</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-unique-laptop-pen-that-writes-on-paper-a-standout-discovery-at-the-ces-showcase-explored-by-zdnet/"><u>The Unique Laptop Pen That Writes on Paper: A Standout Discovery at the CES Showcase - Explored by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-budget-friendly-webcams-comprehensive-guide-by-zdnet/"><u>Top 5 Budget-Friendly Webcams : Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-smart-outlet-devices-expert-reviews-by-zdnet/"><u>Top 5 Smart Outlet Devices - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-hasty-heists-of-history-recovering-deleted-reddit-posts-for-2024/"><u>[New] Hasty Heists of History Recovering Deleted Reddit Posts for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/best-7-fixes-for-your-ipads-connection-issues-with-itunes/"><u>Best 7 Fixes for Your iPad's Connection Issues with iTunes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-innovative-swivel-design-a-firsthand-look-at-their-cutting-edge-laptop-unveiled-at-ifa-202/"><u>Experiencing Lenovo's Innovative Swivel Design: A Firsthand Look at Their Cutting-Edge Laptop Unveiled at IFA 202</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-advice-on-fixing-recurrerent-graphics-driver-glitches/"><u>Expert Advice on Fixing Recurrerent Graphics Driver Glitches</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-honor-x8b-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Honor X8b Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions/"><u>In 2024, Comprehensive Approach to Integrating Whiteboards in Zoom Sessions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-recording-internet-radios-simplified-tips-and-tricks/"><u>In 2024, Recording Internet Radios Simplified Tips and Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-apples-top-charging-station-picks-limited-time-60-off-deal-alert-trusted-tips/"><u>Score Big Savings on Apple's Top Charging Station Picks, Limited-Time $60 Off Deal Alert | Trusted Tips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/syncing-fb-vids-with-whatsapp-a-step-by-step-guide-for-2024/"><u>Syncing FB Vids with WhatsApp A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-power-bank-for-your-laptop-at-a-steep-discount-quality-assurance-through-the-years/"><u>Top-Rated Power Bank for Your Laptop at a Steep Discount: Quality Assurance Through the Years</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-audio-issues-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-for-tech-lovers-save-a-whopping-250-on-the-sleek-dell-inspiron-16-inch-2-in-1-notebook-this-black-friday-zdnet/"><u>Unmissable Deal Alert for Tech Lovers! Save a Whopping $250 on the Sleek Dell Inspiron 16-Inch 2-in-1 Notebook This Black Friday | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-release-apple-prepares-to-unveil-new-macbook-air-and-ipad-models-by-march-latest/"><u>Upcoming Release: Apple Prepares to Unveil New MacBook Air & iPad Models by March - Latest</u></a></li>
 </ul></div>
 

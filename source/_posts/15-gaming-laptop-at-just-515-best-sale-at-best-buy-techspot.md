@@ -1,7 +1,7 @@
 ---
 title: 15 Gaming Laptop at Just $515 - Best Sale at Best Buy | TechSpot
-date: 2024-12-26T23:35:49.217Z
-updated: 2024-12-28T00:11:54.504Z
+date: 2024-12-31T08:41:15.900Z
+updated: 2025-01-05T17:51:03.790Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-crafting-silent-scenes-audio-fade-techniques-in-adobe-premiere-pro/"><u>[New] 2024 Approved Crafting Silent Scenes Audio Fade Techniques in Adobe Premiere Pro</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-pathway-to-professional-fb-reel-development/"><u>[Updated] In 2024, The Pathway to Professional FB Reel Development</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-10-innovative-podcast-microphone-picks/"><u>[Updated] In 2024, Top 10 Innovative Podcast Microphone Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-innovative-earwaxcam-now-at-a-steep-discount-black-friday-exclusive-on-zdnet/"><u>Discover the Innovative EarWaxCam Now at a Steep Discount - Black Friday Exclusive on ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-x100-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo X100 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-11-pro-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 11 Pro</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-transforming-ordinary-footage-to-ig-masterpieces/"><u>In 2024, Transforming Ordinary Footage to IG Masterpieces</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-depth-guide-to-installation-of-wm6-for-2024/"><u>In-Depth Guide to Installation of WM6 for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-the-gateway-to-fluent-communication/"><u>Mondly: The Gateway to Fluent Communication</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-handling-cxfreeze-critical-failures/"><u>Quick Fixes for Handling Cx_Freeze Critical Failures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-fate-of-floppy-disks-from-obsolescence-to-unlikely-survivors-in-modern-transportation/"><u>The Fate of Floppy Disks: From Obsolescence to Unlikely Survivors in Modern Transportation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-8-essential-gadgets-for-productive-business-travels-insights-from-zdnet/"><u>Top 8 Essential Gadgets for Productive Business Travels - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-ergonomic-computer-mice-comprehensive-reviews-and-buyers-guide/"><u>Top Rated Ergonomic Computer Mice - Comprehensive Reviews & Buyer's Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uniting-tech-worlds-how-incharge-x-became-the-go-to-universal-charger-covered-by-zdnet/"><u>Uniting Tech Worlds: How InCharge X Became the Go-To Universal Charger Covered by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-top-tier-performance-meets-high-cost-in-the-fastest-wi-fi-router-ever-tested/"><u>ZDNet Exclusive: Top-Tier Performance Meets High Cost in the Fastest Wi-Fi Router Ever Tested</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-easy-peasy-youtube-tutorials-making-content-that-works-for-all/"><u>[New] 2024 Approved Easy-Peasy YouTube Tutorials Making Content That Works for All</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-epic-escapades-10-roguelite-games-reviewed-for-2024/"><u>[New] Epic Escapades #10 Roguelite Games Reviewed for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-preventing-sickness-while-engaging-with-vr/"><u>2024 Approved Preventing Sickness While Engaging with VR</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-decode-the-digital-dollar-with-youtube-an-effective-triple-step-method-for-income-analysis/"><u>In 2024, Decode the Digital Dollar with YouTube An Effective Triple Step Method for Income Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-optimum-locations-magnifying-youtube-videos/"><u>In 2024, Optimum Locations Magnifying YouTube Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-transition-seamless-macos-sonoma-upgrades-for-your-macbook-pro-and-imac-insights-from-zdnet/"><u>Mastering the Transition: Seamless macOS Sonoma Upgrades for Your MacBook Pro and iMac - Insights From ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcome-your-windows-11-hurdle-effective-fixes-for-the-sleep-feature-glitch/"><u>Overcome Your Windows 11 Hurdle: Effective Fixes for the Sleep Feature Glitch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/perfect-study-buddy-choose-the-best-2-in-1-laptop-for-seamless-college-life-balance-of-work-and-play-insights-from-zdnet-experts/"><u>Perfect Study Buddy: Choose the Best 2-in-1 Laptop for Seamless College Life Balance of Work and Play - Insights From ZDNET Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teamgees-offer-slash-120-off-the-dual-screen-laptop-display-smart-purchase-alert/"><u>TeamGee's Offer: Slash $120 Off the Dual-Screen Laptop Display - Smart Purchase Alert!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-new-era-of-advertising-embracing-the-metaverse-for-2024/"><u>The New Era of Advertising Embracing the Metaverse for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-buying-a-new-linux-laptop-in-2-5-by-tech-gurus-zdnet-exclusive/"><u>The Ultimate Guide to Buying a New Linux Laptop in 2#! (5) by Tech Gurus | ZDNET Exclusive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secret-workplace-advantage-why-this-years-most-impressive-dual-purpose-gadget-deserves-attention/"><u>Unveiling the Secret Workplace Advantage: Why This Year's Most Impressive Dual-Purpose Gadget Deserves Attention</u></a></li>
 </ul></div>
 

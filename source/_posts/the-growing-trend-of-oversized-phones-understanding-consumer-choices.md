@@ -1,7 +1,7 @@
 ---
 title: "The Growing Trend of Oversized Phones: Understanding Consumer Choices"
-date: 2024-09-01T08:27:57.770Z
-updated: 2024-09-02T08:27:57.770Z
+date: 2024-12-31T18:35:42.231Z
+updated: 2025-01-06T01:06:50.126Z
 tags:
   - android
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
 
  We can be annoyed at smartphone makers, but really, it's not their fault. It's ours, and it's time to look in the mirror and admit what we've done to our phones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  ​Small Phones Don't Sell
 
  Whenever a company launches a small version of a phone alongside a larger model, it simply does not move as many units. This is even the case for Apple, a company with all the clout and brand recognition you could want.
@@ -38,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
  This phenomenon is true even when you compare across different brands. iPhones used to be smaller than Samsung Galaxy phones and other Android devices. Getting a bigger screen was a reason to prefer an Android phone over an iPhone, and back then, Apple didn't have as strong a hold on the market as it does now. Apple responded with larger displays on the iPhone 5 and 6, with the trend continuing until you can now get an iPhone screen as big as most of the competition's—as long as you don't want one that folds.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  ​The Way We Use Our Phones Has Changed
 
 ![A Motorola Edge+ inside a Razer Kishi v2 game controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/motorola-edge-plus-razer-kishi-v2.JPG) 
@@ -53,16 +58,17 @@ Bertel King / How-To Geek
  For many of us, our smartphone is our only computer. For some, like myself, it's a conscious choice. My [book-style foldable with Samsung Dex](https://printer-issues.techidaily.com/turn-your-non-printing-canon-into-a-reliable-device-with-tips/) does all I need. But for many, this same conclusion is reached out of financial necessity. If you can only afford one device, you make sure that device has as big a screen as you can get.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  ​Small Phones Have Less Room for Components
 
 ![The camera on the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-camera-on-the-oneplus-12r-3jpg_53484088527_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  In order to do all the things we want our smartphones to do, manufacturers have to pack far more electronics inside each one. Technology has gotten much smaller than it used to be, but there are still physical constraints that must be dealt with.
@@ -71,16 +77,10 @@ Sergio Rodriguez / How-To Geek
 
  Smartphone cameras may rely heavily on processing, but a larger lens still allows for more light and a better photo. Size constraints are the reason that the thinner Galaxy Z Fold has less capable cameras compared to the Galaxy S Ultra, which costs several hundred dollars less. Considering how many people weigh their buying decision based on the quality of the camera. That's reason enough to get a bigger phone.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  ​Larger Phones Can Run Cooler
 
 ![Titanium frame and flat display on the Samsung Galaxy S24 Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/titanium-frame-and-flat-display-on-the-samsung-galaxy-s24-ultra-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Smartphones rely on passive cooling, and powerful CPUs need space to dissipate heat. They need room for heat sinks and air flow. This is part of the reason that when a small version of a phone does launch, it tends to be less powerful than its larger sibling. If you have to throttle a powerful CPU to make it function at all, you might as well ship a cheaper CPU and save money.
@@ -94,8 +94,9 @@ Justin Duino / How-To Geek
 ![Samsung Galaxy and Google Pixel phones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/samsung-galaxy-google-pixel.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  It doesn't matter whether your phone's brand is based in China, Europe, Korea, or the US. Just about all phones are products that consist of parts shipped from all over the world. That device in your hand is an international team effort.
@@ -116,8 +117,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +124,21 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-speakers-file-extract-and-analysis/"><u>[Updated] In 2024, Speaker's File Extract & Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-scout-out-best-spots-for-vr-experiences/"><u>[Updated] Scout Out Best Spots for VR Experiences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-video-thumbnail-making-for-popular-content/"><u>2024 Approved The Art of Video Thumbnail Making for Popular Content</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-and-resolving-liquid-detected-in-charging-port-alarms-on-iphones/"><u>Diagnosing and Resolving 'Liquid Detected in Charging Port' Alarms on iPhones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-sports-watches-of-the-year-2nny-thoroughly-tested-and-analyzed-for-performance-pcmag/"><u>Leading Sports Watches of the Year 2Nny: Thoroughly Tested and Analyzed for Performance | PCMag</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/metodos-simples-para-restaurar-dados-perdidos-no-windows-11-ou-10-sem-backup-previo/"><u>Métodos Simples Para Restaurar Dados Perdidos No Windows 11 Ou 10 Sem Backup Prévio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-watch-fall-detection-feature-and-terms-that-imply-helpful-content-such-as-guide-and-benefits-explained/"><u>Pixel Watch, Fall Detection Feature, and Terms that Imply Helpful Content, Such as Guide and Benefits Explained.</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/scarica-gratis-myrecover-data-recovery-program-per-windows-11/"><u>Scarica Gratis MyRecover Data Recovery Program per Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-benefits-of-owning-an-apple-watch-insights-from-a-leading-wearable-tech-guru-on-zdnet/"><u>Top 6 Benefits of Owning an Apple Watch: Insights From a Leading Wearable Tech Guru on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-sale-offers-on-apple-watches-exclusive-june-2023-promotions-zdnet/"><u>Top-Rated Sale Offers on Apple Watches: Exclusive June 2023 Promotions - ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-glitchy-audio-in-your-airpods-proven-techniques-for-crystal-clear-sound/"><u>Troubleshoot Glitchy Audio in Your AirPods: Proven Techniques for Crystal Clear Sound</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievably-affordable-the-top-rated-ultra-resilient-smartwatch-you-dont-want-to-miss/"><u>Unbelievably Affordable: The Top-Rated, Ultra-Resilient Smartwatch You Don't Want to Miss</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-savings-the-apple-watch-ultra-hits-record-lows-before-holiday-shopping-season-exclusive-insight/"><u>Unlocking Savings: The Apple Watch Ultra Hits Record Lows Before Holiday Shopping Season - Exclusive Insight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-date-drivers-for-enhancing-performance-of-nvidias-rtx-2080-across-various-windows-os/"><u>Up-to-Date Drivers for Enhancing Performance of NVIDIA's RTX 2080 Across Various Windows OS</u></a></li>
+</ul></div>
 

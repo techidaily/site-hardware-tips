@@ -1,7 +1,7 @@
 ---
 title: "Navigating Hardware with Tom: Expert Insights on Cutting-Edge Technology Today!"
-date: 2024-08-23T13:03:10.904Z
-updated: 2024-08-24T13:03:10.904Z
+date: 2025-01-05T06:45:08.986Z
+updated: 2025-01-05T20:55:54.998Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,22 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/solved-chrome-being-slow-quickly-and-easily/"><u>[SOLVED] Chrome Being Slow | Quickly & Easily!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-free-online-tools-for-youtube-channel-starters-for-2024/"><u>[Updated] Free Online Tools for YouTube Channel Starters for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-nextv-networks-the-ultimate-streamers-global-guide/"><u>[Updated] NexTV Networks The Ultimate Streamer's Global Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-fast-paced-artistry-expert-valorant-thumbnails-in-a-blink/"><u>2024 Approved Fast-Paced Artistry Expert Valorant Thumbnails in a Blink</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-brilliance-unboxing-and-testing-the-hisense-40h5590f-smart-led-tv-setup/"><u>Budget-Friendly Brilliance: Unboxing and Testing the Hisense 40H5590F Smart LED TV Setup</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-20-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 20 Without Password | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-make-purchases-on-iphone-se-2022-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID make purchases on iPhone SE (2022) ?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inshot-editors-guide-to-fluid-cut-techniques/"><u>In 2024, Inshot Editor's Guide to Fluid Cut Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-proven-ipad-display-shields-protection-insights-from-cnet/"><u>Ultimate List: Proven iPad Display Shields Protection - Insights From CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-ipad-air-sleeves-for-2ecoming-year-comprehensive-assessment-by-gadget-specialists-zdnet/"><u>Ultimate Selection of iPad Air Sleeves for 2Ecoming Year: Comprehensive Assessment by Gadget Specialists | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-ipad-anti-scratch-shields-ratings-tips-and-where-to-get-them-zdnet/"><u>Ultimate Selection of iPad Anti-Scratch Shields : Ratings, Tips and Where to Get Them - ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-audio-experience-discovering-the-top-non-bose-non-polk-speaker-system-a-revelation/"><u>Unbeatable Audio Experience: Discovering the Top Non-Bose, Non-Polk Speaker System - A Revelation!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-potential-with-stage-manager-for-ipad-boost-efficiency-and-stay-organized-according-to-experts-at-zdnet/"><u>Unleash Your Potential with Stage Manager for iPad: Boost Efficiency & Stay Organized, According to Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secret-technique-for-enhanced-updates-management-in-ios-and-ipados-a-guide/"><u>Unlocking the Secret Technique for Enhanced Updates Management in iOS & iPadOS: A Guide</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->

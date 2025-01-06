@@ -1,7 +1,7 @@
 ---
 title: "Understanding Extended RAM on Android Devices: Feature or Marketing Hype?"
-date: 2024-09-05T21:30:34.536Z
-updated: 2024-09-06T21:30:34.536Z
+date: 2025-01-01T10:09:01.066Z
+updated: 2025-01-06T09:03:30.058Z
 tags:
   - android
 categories:
@@ -9,20 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/12dc2166b099f1b9b6e7bdda75dc13c8e66e7fa737e2f8ad58e5a356ea3ce1b4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding Extended RAM on Android Devices: Feature or Marketing Hype?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What is Extended RAM](https://facebook-video-recording.techidaily.com/new-in-2024-social-network-stardom-top-10-music-video-countdown/)
@@ -32,18 +24,16 @@ thumbnail: https://thmb.techidaily.com/12dc2166b099f1b9b6e7bdda75dc13c8e66e7fa73
 
  You might have seen “Extended RAM” in your Android phone’s settings or spec sheet. Some companies call it RAM Plus, Virtual RAM, Memory Fusion, Dynamic Memory, or Expanded RAM. The feature supposedly “adds” extra memory to your phone. Let’s find out how (and if) it actually works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is Extended RAM
 
  When you download an app, your phone saves it in its internal storage. But when you open that app, it has to be loaded into temporary memory while you’re using it. That’s because the internal storage isn’t fast enough to run the app. The temporary memory is your phone’s [RAM](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/). And it’s a lot faster than [flash storage](https://screen-capture.techidaily.com/capturing-your-macbook-pro-screens-a-step-by-step-tutorial-for-2024/). The more RAM you have, the more apps you can keep open without stutter or lag.
 
  Extended RAM is not part of the fast temporary memory. It’s actually just a piece of slower internal storage, repurposed to function as RAM, kind of. When companies market a phone’s memory as 8GB+5GB, that extra 5 gigs is just taken out of the internal storage. So, if the phone’s internal storage is 128GB, you will only have 123GB available to you (ignoring the space the operating system needs). The rest is reserved for the Extended Memory feature. The RAM expansion feature gets its own partition in the phone’s internal storage. That’s why you can adjust its size in the phone’s settings, too.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Does it Work on Android
 
  Many Android phones and tablets that offer virtual RAM expansion have it enabled by default. And you can change how much storage the feature borrows in the phone’s settings. Most phones let you disable it too. You might have to modify the settings menu using [ADB](https://techtrends.techidaily.com/how-to-successfully-obtain-a-refund-for-your-purchased-games-on-steam/) to disable it on some older devices though. Here’s how it works.
@@ -57,11 +47,9 @@ Close
  That’s all virtual RAM does. It’s a temporary storage space where Android holds low-priority apps when it’s running out of memory.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Extended RAM Can't Do
 
  Now that you understand what extended RAM actually is and how it works, it should be easy to see why it can’t replace physical RAM. Apps are never loaded directly to it, only off-loaded. So even if your phone had 8GB of virtual RAM, it wouldn’t boost its performance. Flash storage is much, much slower than physical RAM (even the latest [UFS 3.1](https://extra-information.techidaily.com/effortless-music-extraction-top-8-android-compatible-downloader-apps/) standard is no match). Active apps never run in flash storage.
@@ -69,21 +57,17 @@ Close
 ![Android memory screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230925-100854.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That’s why gaming or other resource-heavy apps don't run faster with virtual memory enabled. Quite the opposite, actually. Since moving apps back and forth between physical RAM and internal storage takes time and computing power, virtual RAM can potentially slow things down. While that’s happening in the background, you might notice fps drops and throttling. Killing low-priority apps is faster than moving them around.
 
  Secondly, a phone’s internal storage has a limited lifespan because it degrades with every read/write cycle. Virtual RAM stresses that lifespan just to keep inactive apps running in the background. Besides, you have that much less storage available for your personal use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Is It Just a Gimmick?
 
  For modern phones with 8GB or 12GB of memory onboard, extended RAM doesn’t do much of anything. It can be useless at best and inhibiting at worst. For older, cheaper phones with less than 8GB of memory, extended RAM can help with multitasking. These phones run out of memory quicker, so it makes sense for them to offload inactive apps to storage. Depending on the context, extended RAM can be a gimmick. In either case, it does not make your phone or apps run faster.
@@ -98,8 +82,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +89,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-saving-big-on-final-cut-pro-without-paying/"><u>[New] 2024 Approved Saving Big on Final Cut Pro without Paying</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-the-secrets-of-smooth-and-seamless-keying-in-videography/"><u>[New] 2024 Approved Unlock the Secrets of Smooth and Seamless Keying in Videography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-essential-checklist-for-yt-creator-mastery/"><u>[Updated] The Essential Checklist for YT Creator Mastery</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-restore-bluetooth-detection-functionality-in-windows-11/"><u>Effective Solutions to Restore Bluetooth Detection Functionality in Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-review-why-the-samsung-galaxy-tab-s7-is-ideal-for-middle-of-the-road-tablet-users/"><u>Expert Review: Why the Samsung Galaxy Tab S7 Is Ideal for Middle-of-the-Road Tablet Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-artificial-intelligence-is-revolutionizing-the-supermarket-experience-the-top-trend-techinsight/"><u>How Artificial Intelligence Is Revolutionizing the Supermarket Experience: The Top Trend | TechInsight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-ecoflow-portable-battery-kept-all-household-devices-running-amidst-power-failures-a-real-life-account/"><u>How the EcoFlow Portable Battery Kept All Household Devices Running Amidst Power Failures: A Real-Life Account</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-ecoflow-portable-battery-saved-my-home-energy-needs-during-blackouts-a-review-by-zdnet/"><u>How the EcoFlow Portable Battery Saved My Home Energy Needs During Blackouts: A Review by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-long-lasting-fixable-cordless-vacuum-offers-timeless-lessons-zdnet-insights/"><u>How the Long-Lasting, Fixable Cordless Vacuum Offers Timeless Lessons | ZDNet Insights</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-save-twitter-videos-seamlessly-on-your-android/"><u>In 2024, How to Save Twitter Videos Seamlessly on Your Android</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/john-deere-launches-innovative-battery-operated-machinery-for-agriculture-and-building-sites-zdnet/"><u>John Deere Launches Innovative Battery-Operated Machinery for Agriculture & Building Sites - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/john-deeres-latest-innovation-unveiling-battery-operated-machinery-for-agriculture-and-construction-zdnet/"><u>John Deere's Latest Innovation: Unveiling Battery-Operated Machinery for Agriculture & Construction - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lasting-quality-insights-lessons-from-a-durable-cordless-vacuum-cleaner-analysis-on-zdnet/"><u>Lasting Quality Insights: Lessons From a Durable Cordless Vacuum Cleaner - Analysis on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-lush-gardens-the-ultimate-guide-growth-and-greenery/"><u>Mastering the Art of Lush Gardens: The Ultimate Guide | Growth & Greenery</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/resolve-your-goodnotes-synchronization-issue-with-mac-a-guide-to-three-simple-solutions/"><u>Resolve Your GoodNotes Synchronization Issue with Mac: A Guide to Three Simple Solutions</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/unlock-the-secrets-of-your-apps-file-structure-with-yl-softwares-step-by-step-instructions/"><u>Unlock the Secrets of Your App's File Structure with YL Software’s Step-by-Step Instructions</u></a></li>
+</ul></div>
 

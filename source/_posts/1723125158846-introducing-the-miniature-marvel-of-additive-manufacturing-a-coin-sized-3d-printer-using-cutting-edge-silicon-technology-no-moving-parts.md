@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Miniature Marvel of Additive Manufacturing: A Coin-Sized 3D Printer Using Cutting-Edge Silicon Technology, No Moving Parts"
-date: 2024-08-23T12:58:40.893Z
-updated: 2024-08-24T12:58:40.893Z
+date: 2025-01-03T21:42:54.913Z
+updated: 2025-01-05T16:17:56.428Z
 tags:
   - printer
 categories:
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
  3D printing has quickly changed over the years since it was first introduced. Today, we are getting[metal 3D printers in the International Space Station](https://www.tomshardware.com/3d-printing/the-international-space-station-is-getting-the-first-metal-3d-printer-made-for-space-designed-by-airbus-and-the-esa) that can print tools and parts needed for moon and Mars missions, as well as[cheap $77 AliExpress 3D printers](https://www.tomshardware.com/3d-printing/dollar77-3d-printer-from-aliexpress-is-actually-usable-reviewer-says) that let you start making your own builds at a fraction of the cost. We’ve even seen affordable new 3D printers that are[large enough to print a small child](https://www.tomshardware.com/3d-printing/elegoo-making-3d-printer-large-enough-to-print-a-toddler) . If this project makes it to retail, then, soon enough, we’ll have a 3D printer you can fit in your pocket.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,14 +49,11 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,8 +62,24 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastering-volume-transitions-in-lumafusion/"><u>[New] 2024 Approved Mastering Volume Transitions in Lumafusion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-tips-and-tricks-to-attract-product-sponsors-to-your-youtube-channel/"><u>[Updated] 2024 Approved Tips and Tricks to Attract Product Sponsors to Your Youtube Channel</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-extracting-youtube-music-three-secure-ways-without-financial-burden-for-2024/"><u>[Updated] Extracting YouTube Music Three Secure Ways Without Financial Burden for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-superior-screen-refinement-software-for-video-lovers/"><u>[Updated] In 2024, Superior Screen Refinement Software for Video Lovers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-stars-brief-moment-analysis-for-2024/"><u>[Updated] Star's Brief Moment Analysis for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-exclusive-list-the-most-reliable-10-vimeo-downloader-apps/"><u>2024 Approved Exclusive List The Most Reliable 10 Vimeo Downloader Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lightrooms-top-grading-tools-a-curated-list-of-best-rated-luts/"><u>2024 Approved Lightroom's Top Grading Tools – A Curated List of Best-Rated LUTs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-at-ces-2e-new-alienware-gaming-laptops-teased-release-insights/"><u>Discover the Latest at CES 2E: New Alienware Gaming Laptops Teased Release | Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-snag-the-deal-on-apples-m2-macbook-air-for-just-749-this-october-with-amazon-prime-day-highlights-insights/"><u>Don’t Miss Out: Snag the Deal on Apple's M2 MacBook Air for Just $749 This October with Amazon Prime Day Highlights | Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dual-world-mastery-in-frameworks-latest-chromebook-merging-power-and-portability/"><u>Dual-World Mastery in Framework's Latest Chromebook: Merging Power and Portability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-reimagined-unveiling-the-power-of-lenovos-dual-display-workstation-for-enhanced-efficiency-featured/"><u>Experience Reimagined: Unveiling the Power of Lenovo's Dual-Display Workstation for Enhanced Efficiency | Featured</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15-gamer-notebook-now-available-for-530-at-bestbuy-technewstoday/"><u>HP Victus 15 Gamer Notebook Now Available For $530 At BestBuy - TechNewsToday</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-ultrabooks-and-desktops-of-2amo24-unveiled-in-depth-analysis-and-testing-by-professionals-zdnet/"><u>Leading Ultrabooks & Desktops of 2Amo24 Unveiled: In-Depth Analysis and Testing by Professionals | ZDNET</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/strategic-blending-elevating-video-sequence-harmony/"><u>Strategic Blending Elevating Video Sequence Harmony</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-roadmap-to-exceptional-spotify-ad-performance/"><u>The Roadmap to Exceptional Spotify Ad Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-macbook-non-lenovo-laptop-for-students-exclusive-testing-review-with-200-discount-revealed-on-zdnet/"><u>Top Non-Macbook, Non-Lenovo Laptop for Students: Exclusive Testing Review with $200 Discount Revealed on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-college-laptops-insider-ratings-tests-and-expert-choices-zdnet/"><u>Ultimate Guide to College Laptops: Insider Ratings, Tests, and Expert Choices - ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

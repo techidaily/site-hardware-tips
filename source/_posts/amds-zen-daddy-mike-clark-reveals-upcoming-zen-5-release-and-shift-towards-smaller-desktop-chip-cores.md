@@ -1,7 +1,7 @@
 ---
 title: AMD's 'Zen Daddy' Mike Clark Reveals Upcoming Zen 5 Release & Shift Towards Smaller Desktop Chip Cores
-date: 2024-08-23T13:01:22.494Z
-updated: 2024-08-24T13:01:22.494Z
+date: 2025-01-02T18:38:15.821Z
+updated: 2025-01-05T19:05:07.164Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  Intel isn't sharing many deep-dive details about the bug yet but says it will continue its validation process to ensure the microcode fully addresses the issues. The company will release more details about the bug itself in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,6 +43,10 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  Intel has not issued a recall of its processors; sources close to the matter tell us that isn't expected. We have both of Intel's statements below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Intel statement on 13th- and 14th-Gen instability
 
  _"Based on extensive analysis of Intel Core 13th/14th Gen desktop processors returned to us due to instability issues, we have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors. Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor."_
@@ -48,8 +56,9 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  _"Intel is committed to making this right with our customers, and we continue asking any customers currently experiencing instability issues on their Intel Core 13th/14th Gen desktop processors reach out to Intel Customer Support for further assistance."_
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Intel statement on via oxidation
 
 **Short answer:** We can confirm there was a via Oxidation manufacturing issue (addressed back in 2023) but it is not related to the instability issue.
@@ -58,14 +67,11 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  _For the Instability issue, we are delivering a microcode patch which addresses exposure to elevated voltages which is a key element of the Instability issue. We are currently validating the microcode patch to ensure the instability issues for 13th/14th Gen are addressed. -_ Intel representative[via Reddit](https://www.reddit.com/r/intel/comments/1e9mf04/comment/lefz09c/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -74,4 +80,19 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-breaking-the-internet-hashtag-wisdom-for-short-films/"><u>[New] 2024 Approved Breaking the Internet Hashtag Wisdom for Short Films</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unveiling-the-secret-sauce-for-astonishing-gifs-from-vimeo-videos-for-2024/"><u>[New] Unveiling the Secret Sauce for Astonishing GIFs From Vimeo Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-nurturing-relationships-inspiring-connections-with-your-viewers-for-2024/"><u>[Updated] Nurturing Relationships Inspiring Connections With Your Viewers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-dialogue-and-direction-in-film-scripts/"><u>Crafting Dialogue and Direction in Film Scripts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/go-full-screen-with-ease-masterful-mac-scaling-methods-for-insta-posts/"><u>Go Full Screen with Ease Masterful Mac Scaling Methods for Insta Posts</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/grossere-hdd-in-kleineren-clustern-clonen-bootvorgange/"><u>Größere HDD in Kleineren Clustern Clonen - Bootvorgänge</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-itel-p40-lock-screen-password-by-drfone-android/"><u>How To Change Itel P40 Lock Screen Password?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-portable-jump-starters-featured-on-zdnet-by-industry-experts/"><u>Ultimate Guide to the Best Portable Jump Starters , Featured on ZDNET by Industry Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-flyer-discounts-save-25-on-flights-with-your-amazon-prime-benefits-insight-from-zdnet/"><u>Unlock Flyer Discounts: Save $25 on Flights with Your Amazon Prime Benefits - Insight From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unpacking-delta-airlines-controversial-move-that-alienated-long-time-supporters-why-did-they-do-it-business-traveller-blog/"><u>Unpacking Delta Airlines’ Controversial Move that Alienated Long-Time Supporters: Why Did They Do It? | Business Traveller Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tech-at-ces-202e-how-lg-is-falling-for-ai-and-launching-revolutionary-products-insights-from-zdnet/"><u>Unveiling the Future of Tech at CES 202E: How LG Is Falling for AI and Launching Revolutionary Products - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-review-of-tesla-vehicles-for-202n-which-model-stands-out-among-s-3-x-and-y/"><u>ZDNet's Comprehensive Review of Tesla Vehicles for 202N: Which Model Stands Out Among S, 3, X, and Y?</u></a></li>
+</ul></div>
 

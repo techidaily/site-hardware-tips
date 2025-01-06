@@ -1,7 +1,7 @@
 ---
 title: "Waterproof Wonders: Unveiling Freeze's Latest Sport Cooling Device with Superior Active Cooling - Perfect for Subaqueous Fun"
-date: 2024-08-23T13:00:10.737Z
-updated: 2024-08-24T13:00:10.737Z
+date: 2025-01-02T20:20:07.010Z
+updated: 2025-01-06T12:11:59.648Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
  In terms of performance, the air-cooled CPU was seen to deliver about 38,300cb with the AiO-cooled chip achieving just over 39,100cb. The CPU clocks were much more steady at 5.6 GHz using the AiO, but with the air cooler in place they often dipped to 5.4 GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +45,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/wmRXDJgtnnLnPhD5DLfZMJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Der8auer)
 
  It may be unfortunate timing for the new EK-Nucleus AIO CR360 Direct Die D-RGB all-in-one CPU cooler, as we are nearly at the end of the Socket 1700 era. Der8auer admitted he didn’t know what might need to be done to make the AiO Intel 15th Gen CPU compatible.
@@ -49,18 +57,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/DwdkCF27CRpbAtFLxxyV8J-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: EKWB)
 
  For some further context, last July we reviewed the closely related EK Nucleus AIO CR360 Lux D-RGB for fully clothed CPUs. Despite price concerns and a slight noise disadvantage against the best rival AiOs, our review crowned it the[new king of AiO cooling](https://www.tomshardware.com/reviews/ek-nucleus-aio-cr360-lux-d-rgb) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +78,24 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-shock-free-footage-leading-smartphones-with-superior-ois-features/"><u>[New] Shock-Free Footage Leading Smartphones with Superior OIS Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-apple-tv-4k-analysis-unveiling-value-deals-in-tech-zdnet/"><u>Affordable Apple TV 4K Analysis - Unveiling Value Deals in Tech | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/april-24-202amoors/"><u>April 24, 202Amoors,</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-big-brands-discovering-the-top-immersive-soundbar-that-isnt-from-vizio-or-jbl/"><u>Beyond Big Brands: Discovering The Top Immersive Soundbar That Isn't From Vizio or JBL</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-discovering-the-ultimate-in-depth-sound-experience-with-my-latest-speaker-test/"><u>Beyond Bose & Sonos: Discovering the Ultimate In-Depth Sound Experience with My Latest Speaker Test</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-in-soundbars-expert-review-highlights-top-sonybose-alternative-at-zdnet/"><u>Breakthrough in Soundbars! Expert Review Highlights Top Sony/Bose Alternative at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-best-picture-quality-neo-qled-or-oled-televisions-compared/"><u>Choosing the Best Picture Quality: Neo QLED or OLED Televisions Compared</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-best-tv-brand-lg-or-samsung-a-comprehensive-review-zdnet/"><u>Choosing the Best TV Brand: LG or Samsung? A Comprehensive Review - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/claim-your-exclusive-offer-samsungs-limited-time-promo-for-a-complimentary-65-4k-television-act-fast-before-it-ends/"><u>Claim Your Exclusive Offer: Samsung's Limited-Time Promo for a Complimentary 65 4K Television - Act Fast Before It Ends!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-app-issues-with-expert-error-handling/"><u>Eliminate Windows App Issues with Expert Error Handling</u></a></li>
+<li><a href="https://article-tips.techidaily.com/essential-techniques-for-securing-product-placements-on-youtube-for-2024/"><u>Essential Techniques for Securing Product Placements on Youtube for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-safely-delete-photos-from-icloud-and-preserve-your-iphones-collection/"><u>How to Safely Delete Photos From iCloud & Preserve Your iPhone's Collection</u></a></li>
+<li><a href="https://fox-where.techidaily.com/optimizing-system-performance-custom-execution-parameters-interface/"><u>Optimizing System Performance: Custom Execution Parameters Interface</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-s18e-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo S18e Phone Now with These Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restarting-location-services-on-an-iphone-a-comprehensive-fix-guide/"><u>Restarting Location Services on an iPhone: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-mastering-facebook-twitter-instagram-youtube/"><u>The Ultimate Guide to Mastering Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unbound-zen-audio-releases-for-2024/"><u>Unbound Zen Audio Releases for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->

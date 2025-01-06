@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Treasures From the Big Tech Treehouse: Unveiling of Apple’s New M4 Mac Mini, Enhanced iPad Lineup, and Latest Innovations at October's Special Event - The Insightful Guide"
-date: 2024-12-24T17:40:44.825Z
-updated: 2024-12-28T00:33:17.967Z
+date: 2024-12-31T09:31:28.021Z
+updated: 2025-01-06T03:03:53.639Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,16 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-easily-share-your-camera-roll-in-a-snap-tips-and-tricks/"><u>[Updated] 2024 Approved Easily Share Your Camera Roll in a Snap - Tips & Tricks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unleash-creativity-harnessing-gs-power-in-kinemaster/"><u>[Updated] Unleash Creativity Harnessing GS Power in KineMaster</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-honor-magic-vs-2-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Honor Magic Vs 2.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Phone without Any Data Loss</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-inspection-immersing-in-virtual-reality-with-gear-360/"><u>In 2024, Full Inspection Immersing in Virtual Reality with Gear 360</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lenovo-tab-4-evaluation-affordable-android-device-with-some-restrictions/"><u>Lenovo Tab 4 Evaluation: Affordable Android Device with Some Restrictions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/low-on-laptop-space-discover-these-3-effective-remedies-insights-from-zdnet/"><u>Low on Laptop Space? Discover These 3 Effective Remedies! - Insights From ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210324985-9781507217573-the-modern-witchcraft-guide-to-runes/"><u>The Modern Witchcraft Guide to Runes | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-39-unbeatable-laptop-bargains-this-season-including-brands-like-apple-dell-and-hp-find-out-now-at-zdnet/"><u>Top 39 Unbeatable Laptop Bargains This Season Including Brands Like Apple, Dell & HP – Find Out Now at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-headsets-comprehensive-reviews-and-testing-by-tech-experts-zdnet/"><u>Top-Rated Gaming Headsets - Comprehensive Reviews & Testing by Tech Experts | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-and-save-on-your-surface-pro-with-our-quick-7-step-storage-expansion-guide-cut-costs-by-hundreds/"><u>Upgrade & Save on Your Surface Pro with Our Quick 7-Step Storage Expansion Guide – Cut Costs by Hundreds!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-boosting-skypes-performance-with-advanced-zoom-functionalities/"><u>[New] 2024 Approved Boosting Skype's Performance with Advanced Zoom Functionalities</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-advanced-srt-modification-strategies-for-pc-and-macos/"><u>[New] In 2024, Advanced SRT Modification Strategies for PC and macOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-action-cams-that-keep-moving-steady/"><u>[New] Leading Action Cams That Keep Moving Steady</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-25-animated-visionaries-shaping-tiktok-trends/"><u>[Updated] 25 Animated Visionaries Shaping TikTok Trends</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-go-global-with-gifs-converting-vimeo-video-to-animation/"><u>[Updated] Go Global with GIFs Converting Vimeo Video to Animation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-swiftly-adjust-video-speeds-a-users-guide-to-youtube-features/"><u>[Updated] Swiftly Adjust Video Speeds A User's Guide to YouTube Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-ultimate-prime-day-october-2024-guide-unlock-the-hottest-offers-and-products-still-on-sale/"><u>Best Buy's Ultimate Prime Day October 2024 Guide: Unlock the Hottest Offers and Products Still on Sale!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-macbooks-shadow-a-surprising-tech-marvel-emerges-as-one-of-the-top-performers-tested/"><u>Beyond MacBook's Shadow: A Surprising Tech Marvel Emerges as One of the Top Performers Tested</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/check-out-the-amazing-300-sale-on-asus-vivobook-pro-available-only-on-amazon-insights-from-zdnet/"><u>Check Out the Amazing $300 Sale on Asus VivoBook Pro Available Only on Amazon | Insights From ZDNET</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficiently-update-intel-hd-graphics-on-a-microsoft-os/"><u>Efficiently Update Intel HD Graphics on a Microsoft OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-unveils-futuristic-auto-swivel-laptop-a-first-look-from-ifa-2024/"><u>Lenovo Unveils Futuristic Auto-Swivel Laptop - A First Look From IFA 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-hp-savings-during-cyber-week-monitors-and-laptops-at-a-steep-71-reduction-zdnet/"><u>Massive HP Savings During Cyber Week: Monitors and Laptops at a Steep 71% Reduction | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-unveils-innovative-tool-granting-windows-experience-on-chromebooks-and-macs-to-eligible-users-spotlight-by-zdnet/"><u>Microsoft Unveils Innovative Tool Granting Windows Experience on Chromebooks & Macs to Eligible Users - Spotlight by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-preview-discover-the-best-value-2-in-1-laptop-beyond-lenovo-and-dell-at-unbeatable-prices/"><u>Prime Day Preview: Discover the Best Value 2-in-1 Laptop Beyond Lenovo and Dell at Unbeatable Prices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategy-to-eradicate-error-0x80300024-on-pcs/"><u>Strategy to Eradicate Error 0X80300024 on PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-unbeatable-laptop-promotions-in-july-2024-discovered/"><u>Top Picks: Unbeatable Laptop Promotions in July 2024 - Discovered</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-potential-on-twitch-tips-for-quality-content/"><u>Unlocking Potential on Twitch: Tips for Quality Content</u></a></li>
 </ul></div>
 

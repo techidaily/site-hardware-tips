@@ -1,7 +1,7 @@
 ---
 title: Closer Than Ever to Flawlessness - A Comprehensive Look at the Samsung Galaxy S22
-date: 2024-09-01T08:28:20.885Z
-updated: 2024-09-02T08:28:20.885Z
+date: 2024-12-31T22:28:14.054Z
+updated: 2025-01-06T11:32:15.661Z
 tags:
   - android
 categories:
@@ -54,9 +54,17 @@ _Justin Duino / Review Geek_
 
  If you want a two-tone design, you'll have to [buy your Galaxy S22 directly from Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s22%2Fbuy%2F). The company sells exclusive Graphite, Cream, Sky Blue, and Violet colors with contrasting camera bumps that match the frame's paint job.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Display
 
 ![Samsung Galaxy S22's App Drawer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/26f62a65.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Justin Duino / Review Geek_
 
@@ -74,15 +82,13 @@ Related: [Samsung Galaxy S22 Ultra Review: The Total Package](https://www.review
  Now that isn't to say the smaller refresh rate window is terrible. Yes, dropping the rate down to 1Hz would be great for battery life, but it's a feature you'll probably forget about within a week. All that matters is that the 120Hz refresh rate display makes for enjoyable scrolling within apps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Software and Performance
 
 ![Samsung Galaxy S22's quick settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/260821ab.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Justin Duino / Review Geek_
 
 * Android 12, One UI 4.1
@@ -108,8 +114,9 @@ Related: [Newer Samsung Galaxy Devices Now Get Four Years of Security Updates](h
  Lastly, I want to highlight the built-in ultrasonic fingerprint sensor. Although I still prefer the simplicity and ease of using a [rear-facing fingerprint sensor](https://www.reviewgeek.com/50494/rear-fingerprint-sensors-are-the-best-fingerprint-sensors/) or the infrared Face ID system on the iPhone, the biometric system on the Galaxy S22 is fantastic. Coming from the [Pixel 6 Pro](https://www.reviewgeek.com/103821/pixel-6-pro-review-imperfectly-perfect/) with an optical sensor that is slow and hardly works, I have had no issue quickly unlocking the phone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Cameras
 
 ![Samsung Galaxy S22's rear cameras](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/c55d7a7a.jpg) 
@@ -134,6 +141,10 @@ Close
 
  Now, if you hate letting Samsung's camera app decide what makes a great photo, you can [download the Expert RAW app](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgalaxystore.samsung.com%2Fprepost%2F000005977497%3FlangCd%3Den) from the Galaxy App Store. In addition to saving images in a [RAW format](https://on-screen-recording.techidaily.com/updated-in-2024-quick-capture-screen-grabs-on-windows-pcs/) that makes for easy editing in Lightroom and Photoshop, it also allows you to manually adjust the [ISO](https://youtube-clips.techidaily.com/new-adding-audio-descriptions-to-videos-on-youtube/), [shutter speed](https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-f54-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/), [white balance](https://extra-approaches.techidaily.com/in-2024-20plus-funny-metaverse-memes-and-how-to-make-your-own-memes/), focus point, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Front-Facing Camera
 
 ![Samsung Galaxy S22's front-facing camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/b67814e1.jpg) 
@@ -148,18 +159,6 @@ Close
 
  The Galaxy S22 series also comes with a new AI stereo depth map that will make Portrait mode better. According to Samsung, hair should no longer accidentally blend into the fake bokeh background. While that mostly is true in my Portrait mode image above, there is still a halo effect happening that is really visible around my hair.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Nightography
 
  New this year is a low-light shooting mode that Samsung is calling "Nightography." The company claims this new feature, using "enhanced AI technology powered by the new NPU," allows you to capture more true-to-life colors and details when snapping photos at night.
@@ -170,16 +169,10 @@ Close
 
  If you plan on taking photos at night, I recommend sticking with the primary 50MP camera. It has the widest aperture and will let in the most light. Night mode on the other two sensors didn't look nearly as sharp or clean.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Battery Life
 
 ![Samsung Galaxy S22's overview menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/5f081a11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
 _Justin Duino / Review Geek_
@@ -198,9 +191,17 @@ _Justin Duino / Review Geek_
 
  The battery life also depended on if I was primarily on Wi-Fi or cellular. Days when I never left my home/Wi-Fi saw the best battery life compared to being on 5G for several hours. I will note that the handset would frequently disconnect from my Wi-Fi network if it wasn't happy with its stability. Thankfully, it would reconnect within a couple of minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Samsung Galaxy S21?
 
 ![Samsung Galaxy S22 in-hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/9c8b40d1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Justin Duino / Review Geek_
 
@@ -212,9 +213,6 @@ _Justin Duino / Review Geek_
 
 ![f5d573f4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/f5d573f4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Samsung Galaxy S22
 
 8/ 10 
@@ -237,8 +235,6 @@ _Justin Duino / Review Geek_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +242,23 @@ _Justin Duino / Review Geek_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-through-content-clutter-youtube-shorts-essentials/"><u>[New] In 2024, Cutting Through Content Clutter YouTube Shorts Essentials</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-essential-steadicams-to-boost-the-performance-of-your-dslr-cameras/"><u>[New] In 2024, Essential Steadicams to Boost the Performance of Your DSLR Cameras</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-primeworld-views-worldwide-channel-accessibility-now/"><u>[New] PrimeWorld Views Worldwide Channel Accessibility Now</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-essentials-of-professional-editing-in-gopro-studio-for-2024/"><u>[New] The Essentials of Professional Editing in GoPro Studio for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-hilarity-unleashed-kinemaster-meme-creation/"><u>[Updated] In 2024, Hilarity Unleashed KineMaster Meme Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-next-gen-video-technology-review-2024-edition/"><u>[Updated] Next-Gen Video Technology Review, 2024 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-factory-reset-a-playstation-4-ps4/"><u>How to Factory Reset a PlayStation 4 (PS4)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy S24+</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-your-smartwatch-equipped-for-offline-navigation-discover-the-google-maps-update-for-wearos-by-zdnet/"><u>Is Your Smartwatch Equipped for Offline Navigation? Discover the Google Maps Update for WearOS by ZDNET</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/leading-identity-provider-applications-in-the-usa-europe-and-asia-pacific-regions/"><u>Leading Identity Provider Applications in the USA, Europe, and Asia-Pacific Regions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/learn-how-to-enable-the-latest-fall-alert-function-in-googles-innovative-pixel-watch-series-a-comprehensive-guide-techwise/"><u>Learn How to Enable the Latest Fall Alert Function in Google's Innovative Pixel Watch Series - A Comprehensive Guide | TechWise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-apple-watch-unlock-the-secrets-of-the-double-tap-control/"><u>Mastering Your Apple Watch: Unlock the Secrets of the Double-Tap Control!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/solving-the-main-issues-with-google-pixel-watch-3-insights-from-zdnet/"><u>Solving the Main Issues with Google Pixel Watch 3 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-amazfit-gtr-3-uncovered-in-depth-review-by-zdnet-experts/"><u>The Amazfit GTR 3 Uncovered - In-Depth Review by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-highest-scoring-android-smartwatches-slashed-for-the-holiday-weekend-inside-scoop-by-zdnet/"><u>Unmissable Deal Alert: Highest Scoring Android Smartwatches Slashed for the Holiday Weekend - Inside Scoop by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-fitness-tracker-with-nomad-goods-new-limited-edition-electric-blue-sport-band-compatible-with-apple-watch-zdnet/"><u>Upgrade Your Fitness Tracker with Nomad Goods' New Limited Edition Electric Blue Sport Band Compatible with Apple Watch | ZDNET</u></a></li>
+</ul></div>
 

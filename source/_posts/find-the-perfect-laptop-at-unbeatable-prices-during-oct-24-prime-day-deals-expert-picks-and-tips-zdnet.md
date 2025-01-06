@@ -1,7 +1,7 @@
 ---
 title: Find the Perfect Laptop at Unbeatable Prices During Oct '24 Prime Day Deals | Expert Picks and Tips | ZDNET
-date: 2024-12-23T20:01:16.732Z
-updated: 2024-12-27T18:06:33.116Z
+date: 2024-12-31T18:40:16.973Z
+updated: 2025-01-06T02:17:10.976Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,16 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-easy-steps-how-to-record-on-vimeo/"><u>[New] 2024 Approved Easy Steps How to Record on Vimeo</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-maximize-your-youtube-channels-financial-potential/"><u>[Updated] Maximize Your YouTube Channel's Financial Potential</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/does-the-new-apple-m3-imac-satisfy-expectations-a-critical-look-at-its-impact-on-27-inch-display-lovers-zdnet/"><u>Does the New Apple M3 iMac Satisfy Expectations? A Critical Look at Its Impact on 27-Inch Display Lovers | ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-features-and-changes-in-the-latest-samsung-galaxy-s21-model-industry-experts-weigh-in/"><u>Exploring the Features and Changes in the Latest Samsung Galaxy S21 Model - Industry Experts Weigh In</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-old-to-gold-how-a-130-flex-monitor-made-my-costly-dell-feel-outdated/"><u>From Old to Gold: How a $130 Flex Monitor Made My Costly Dell Feel Outdated</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-restore-accidentally-erased-videos-on-an-iphone-top-strategies-unveiled/"><u>How to Restore Accidentally Erased Videos on an iPhone - Top Strategies Unveiled</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-x50-gt-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor X50 GT Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/my-computer-screen-upside-down-how-to-fix-it/"><u>My Computer Screen Upside Down - How to Fix It</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/oled-vs-led-screen-technology-determining-the-clear-winner/"><u>OLED Vs. LED Screen Technology - Determining the Clear Winner!</u></a></li>
-<li><a href="https://win-net.techidaily.com/optimizing-your-system-critical-routine-care-tips-by-yl-software/"><u>Optimizing Your System: Critical Routine Care Tips by YL Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revamp-idle-ssds-into-high-performance-externals-for-less-than-15-discover-how-on-zdnet/"><u>Revamp Idle SSDs Into High-Performance Externals for Less Than $15, Discover How on ZDNET</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-360-vs-vr-film-explained/"><u>[New] Unveiling 360° Vs. VR Film Explained</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-exploring-the-expense-of-youtube-channel-growth/"><u>[Updated] Exploring the Expense of YouTube Channel Growth</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/500-discount-top-ranking-gaming-laptop-exclusively-offered-on-zdnet-this-october-prime-day-dont-miss-out/"><u>$500 Discount: Top-Ranking Gaming Laptop Exclusively Offered on ZDNet This October Prime Day - Don't Miss Out!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210677645-9781647842819-5zyl6zqb5pit57at5a245yy77yi5y235lia77yj/"><u>國際易經學史（卷一） | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-hidden-gem-in-top-office-gadgets-the-most-underappreciated-2-in-1-device-of-the-year-insights-from-zdnet/"><u>A Hidden Gem in Top Office Gadgets: The Most Underappreciated 2-in-1 Device of the Year - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-202n3-gaming-blowouts-secure-up-to-1000-in-savings-before-its-too-late-spotlight/"><u>Exclusive October Prime Day 202N3 Gaming Blowouts! Secure Up to $1,000 in Savings Before It's Too Late – Spotlight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-undiscovered-masterpieces-a-look-at-exceptional-laptops-you-may-not-know-yet-digital-innovators/"><u>Exploring Undiscovered Masterpieces: A Look at Exceptional Laptops You May Not Know Yet | Digital Innovators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/extend-your-workspace-for-less-save-hundreds-with-our-dual-monitor-deal-featuring-the-versatile-teamgee-find-out-how/"><u>Extend Your Workspace for Less: Save Hundreds with Our Dual Monitor Deal Featuring the Versatile TeamGee - Find Out How</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-lenovo-screen-software-free-installation-guide/"><u>Get the Newest Lenovo Screen Software - FREE Installation Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-memetic-magic-mastering-the-top-7-techniques-of-gif-craftsmanship/"><u>In 2024, Memetic Magic Mastering the Top 7 Techniques of GIF Craftsmanship</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-guide-to-decoding-tiktoks-pfp-emoji/"><u>In 2024, The Ultimate Guide to Decoding TikTok's PFP Emoji</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-official-wifi-driver-installation-pack-for-windows-users/"><u>Intel's Official WiFi Driver Installation Pack for Windows Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-casts-for-google-listeners-for-2024/"><u>Premier Casts for Google Listeners for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-laptop-outshines-thinkpads-and-macbooks-now-available-at-an-unbeatable-price-for-amazon-prime-members/"><u>Top-Performing Laptop Outshines ThinkPads and MacBooks, Now Available at an Unbeatable Price for Amazon Prime Members!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-must-have-mac-applications-curated-by-cnet-reviewers/"><u>Ultimate List of Must-Have Mac Applications | Curated by CNet Reviewers</u></a></li>
 </ul></div>
 

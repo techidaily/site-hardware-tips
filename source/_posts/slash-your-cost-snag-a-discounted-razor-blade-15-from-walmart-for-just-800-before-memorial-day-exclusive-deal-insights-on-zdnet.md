@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights on ZDNet"
-date: 2024-12-23T22:44:38.367Z
-updated: 2024-12-28T00:15:13.068Z
+date: 2024-12-30T22:56:18.693Z
+updated: 2025-01-05T20:10:42.074Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-immersive-insight-amd-radeon-update/"><u>[New] In 2024, Immersive Insight AMD Radeon Update</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-leveraging-youtubes-community-how-to-find-and-create-collab-videos/"><u>[Updated] Leveraging YouTube's Community How to Find & Create Collab Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-potential-with-filmoras-loved-9-traits/"><u>2024 Approved Unleash Your Potential with Filmora's Loved 9 Traits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-premier-wide-display-monitors-reviewed-and-ranked-on-zdnet/"><u>2024'S Premier Wide-Display Monitors Reviewed and Ranked on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-the-perfect-keyboard-how-key-switches-impact-health-and-work-efficiency-techsavvy/"><u>Choosing the Perfect Keyboard: How Key Switches Impact Health & Work Efficiency | TechSavvy</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/digital-dynamo-recording-on-a-mac-for-2024/"><u>Digital Dynamo Recording on a Mac for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-ergonomic-mouse-picks-for-2ebeck23-2024-by-zdnet-your-ultimate-guide/"><u>Discover the Leading Ergonomic Mouse Picks for 2Ebeck23 2024 by ZDNET: Your Ultimate Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-top-non-apple-keyboards-compatible-with-your-mac-expert-picks/"><u>Discover the Top Non-Apple Keyboards Compatible with Your Mac: Expert Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-performing-levoit-air-purifiers-with-exclusive-post-prime-day-savings-insider-review/"><u>Discover Top-Performing Levoit Air Purifiers With Exclusive Post-Prime Day Savings – Insider Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/finding-the-ultimate-productivity-companion-does-logitechs-mx-master-ebyte-excel-in-business-settings-zdnet-reviews/"><u>Finding the Ultimate Productivity Companion: Does Logitech's MX Master Ebyte Excel in Business Settings - ZDNET Reviews</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-spark-go-2024-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Spark Go (2024) Phone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/g-large-with-youtube-premium-the-inside-story-for-2024/"><u>Living Large with YouTube Premium The Inside Story for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ranking-the-ideal-alternative-keyboards-for-mac-users-a-comprehensive-guide-by-tech-experts/"><u>Ranking the Ideal Alternative Keyboards for Mac Users - A Comprehensive Guide by Tech Experts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-10-strategies-for-achieving-virality-on-tiktok/"><u>Top 10 Strategies for Achieving Virality on TikTok</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-value-the-near-perfect-17-headlamp-reviewed-on-zdnet/"><u>Ultimate Value: The Near-Perfect $17 Headlamp Reviewed on ZDNet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/voice-driven-operations-free-of-charge-for-2024/"><u>Voice-Driven Operations, Free of Charge for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-3-pro-level-plans-to-preserve-precise-gaming-moments-for-2024/"><u>[New] 3 Pro-Level Plans to Preserve Precise Gaming Moments for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-precision-subtitle-tweaking-for-the-mac-pro-user/"><u>[New] Precision Subtitle Tweaking for the Mac Pro User</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-vocal-variations-for-stories-and-reels-an-instagram-expertise/"><u>[Updated] In 2024, Vocal Variations for Stories and Reels – An Instagram Expertise</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-social-media-success-rising-through-the-facebook-leaderboard-for-2024/"><u>[Updated] Unlocking Social Media Success Rising Through the Facebook Leaderboard for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ace-your-earnings-game-in-youtube-shorts-for-2024/"><u>Ace Your Earnings Game in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-nitro-5-gaming-laptop-sale-slash-rs-250-off-now-at-zdnet/"><u>Acer Nitro 5 Gaming Laptop Sale - Slash Rs. 250 Off Now at ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-mastering-the-art-of-web-site-pinging/"><u>Complete Guide: Mastering the Art of Web Site Pinging</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-next-level-immersion-with-game-sound-systems-now-150-cheaper-highly-rated-and-featured-by-tech-experts-at-zdnet/"><u>Experience Next-Level Immersion with Game Sound Systems Now $150 Cheaper | Highly Rated & Featured by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/explore-15-exceptional-vr-cam-solutions-like-gopro-for-2024/"><u>Explore 15 Exceptional VR Cam Solutions Like GoPro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-web-based-converter-para-arquivos-mxf-movavi/"><u>Free Web-Based Converter Para Arquivos MXF - Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-a-stunning-dell-inspiron-16-up-to-250-off-exclusive-black-friday-sale/"><u>Get Your Hands on a Stunning Dell Inspiron 16 - Up to $250 Off: Exclusive Black Friday Sale!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-wont-hibernate-drain-issues-affecting-performance-discover-the-solution-in-this-trusted-utility-endorsed/"><u>MacBook Won't Hibernate? Drain Issues Affecting Performance? Discover the Solution in This Trusted Utility, Endorsed !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-an-unbeatable-price-on-the-hp-victus-15-top-deals-at-under-450-during-best-buys-prime-day-sale-insights-by-zdnet/"><u>Score an Unbeatable Price on the HP Victus 15: Top Deals at Under $450 During Best Buy's Prime Day Sale - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-discounted-hp-victus-15-for-just-515-exclusive-black-friday-at-best-buy-revealed-by-zdnet/"><u>Secure Your Discounted HP Victus 15 for Just $515 – Exclusive Black Friday at Best Buy Revealed by ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-top-virtual-reality-offer-metas-limited-time-promotion-on-the-high-capacity-quest-3-exclusive/"><u>Snag The Top Virtual Reality Offer: Meta's Limited-Time Promotion on the High-Capacity Quest ^3 Exclusive</u></a></li>
 </ul></div>
 

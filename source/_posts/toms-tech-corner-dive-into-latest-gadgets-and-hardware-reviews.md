@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Corner: Dive Into Latest Gadgets and Hardware Reviews!"
-date: 2024-08-23T12:58:05.527Z
-updated: 2024-08-24T12:58:05.527Z
+date: 2025-01-04T13:14:15.555Z
+updated: 2025-01-05T18:16:41.928Z
 tags:
   - cooling
 categories:
@@ -42,11 +42,19 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Packing and included contents
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/HBEL4vNSov3znrPrC4pAqX-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -78,9 +86,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -104,8 +109,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -123,8 +129,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -145,14 +152,12 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
@@ -191,9 +196,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -227,8 +229,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +236,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-playlands-picks-top-10-no-cost-online-roleplayers-for-2024/"><u>[Updated] Playland's Picks Top 10 No-Cost Online Roleplayers for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-realtime-idevice-screen-record-latest-methods-for-2024/"><u>[Updated] Realtime iDevice Screen Record - Latest Methods for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unlocking-hidden-details-roblox-closeup-secrets/"><u>2024 Approved Unlocking Hidden Details Roblox Closeup Secrets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/basic-guide-to-windows-voice-modification-clowns-for-2024/"><u>Basic Guide to Windows Voice Modification - Clowns for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-step-by-step-tutorial-installing-and-updating-the-epson-et-3760-printer-drivers-on-windows/"><u>Complete Step-by-Step Tutorial: Installing and Updating the Epson ET-3760 Printer Drivers on Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/differences-between-british-and-american-english/"><u>Differences Between British And American English</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-top-24-labor-day-sale-unbeatable-laptop-prices-havent-gone-away/"><u>Discover the Latest Top 24 Labor Day Sale: Unbeatable Laptop Prices Haven't Gone Away !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-lenovo-yoga-book-9-ahead-of-its-time-with-revolutionary-dual-screens-in-depth-analysis-by-zdnets-gadget-experts/"><u>Exploring the Lenovo Yoga Book 지이9: Ahead of Its Time with Revolutionary Dual Screens | In-Depth Analysis by ZDNET's Gadget Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-your-5-essential-choices-as-windows-11-officially-loses-mainstream-support/"><u>Facing the Future: Your 5 Essential Choices as Windows 11 Officially Loses Mainstream Support</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-troubleshoot-non-stop-cpu-fans-insights-and-tips-by-zdnet-pros/"><u>How to Troubleshoot Non-Stop CPU Fans? Insights and Tips by ZDNet Pros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-experience-the-ultimate-sound-with-best-buys-discounted-top-rated-speaker-system-featured/"><u>Huge Savings Alert: Experience the Ultimate Sound with Best Buy's Discounted Top-Rated Speaker System - Featured !</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-boosting-youtube-success-mastery-with-tubebuddy/"><u>In 2024, Boosting YouTube Success Mastery with TubeBuddy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reveling-in-4k-an-in-depth-look-at-yis-hero-series/"><u>In 2024, Reveling in 4K An In-Depth Look at Yi’s HERO Series</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/premium-recording-application-chromebook-focus/"><u>Premium Recording Application Chromebook Focus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-save-big-on-the-asus-vivobook-pro-now-just-300-cheaper-shop-now-on-amazon/"><u>Slash Prices: Save Big on the Asus VivoBook Pro - Now Just $300 Cheaper! 🚀 Shop Now on Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-latest-update-apples-expanded-list-of-older-mac-models-considered-obsolete-insights/"><u>The Latest Update: Apple's Expanded List of Older Mac Models Considered 'Obsolete' - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-the-best-laptop-chillers-for-power-users-hardwarehub/"><u>The Ultimate Guide to Choosing the Best Laptop Chillers for Power Users | HardwareHub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-your-laptop-camera-quality-discover-opals-new-miniature-game-changing-clip-on-webcam/"><u>Tired of Your Laptop Camera Quality? Discover Opal's New Miniature, Game-Changing Clip-On Webcam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lenovo-thinkpad-x13s-review-powerful-arm-ultrabook-meets-5g-and-extended-battery-for-professionals-techradar/"><u>Top Lenovo ThinkPad X13s Review - Powerful ARM Ultrabook Meets 5G & Extended Battery for Professionals | TechRadar</u></a></li>
+</ul></div>
 

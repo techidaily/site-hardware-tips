@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Overview of the SK1 Two Trees Chip: Unveiling Its Rapid, Community-Driven Capabilities"
-date: 2024-08-23T12:59:26.211Z
-updated: 2024-08-24T12:59:26.211Z
+date: 2024-12-29T16:15:01.043Z
+updated: 2025-01-06T12:01:53.140Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,21 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-choosing-a-professional-video-editor-filmora-or-democracy-creator/"><u>[New] In 2024, The Ultimate Guide to Choosing a Professional Video Editor (Filmora or Democracy Creator)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-exploring-youtubes-functionality-following-uploaded-videos/"><u>[Updated] In 2024, Exploring YouTube’s Functionality Following Uploaded Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-obs-and-wirecast-clash-which-tops-in-live-broadcasting-for-2024/"><u>[Updated] OBS and Wirecast Clash Which Tops in Live Broadcasting for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-red-magic-9-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Red Magic 9 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-hot-40-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Hot 40? Try These Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-chance-score-amazing-savings-on-tvs-during-prime-day-find-your-perfect-offer-among-the-best-65-deals/"><u>Last Chance! Score Amazing Savings on TVs During Prime Day - Find Your Perfect Offer Among the Best 65 Deals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lgs-top-smart-tv-showdown-g4-vs-g3-oled-battle-choose-your-perfect-purchase/"><u>LG's Top Smart TV Showdown: G4 vs G3 OLED Battle – Choose Your Perfect Purchase!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-black-friday-dates-hot-deals-and-prime-locations-for-unbeatable-bargains-in-2/"><u>Mastering Black Friday: Dates, Hot Deals & Prime Locations for Unbeatable Bargains in 2#</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-quality-on-the-cheapest-large-screen-tvs-secrets-to-enhancing-sound-and-picture-zdnet/"><u>Maximizing Quality on the Cheapest Large Screen TVs: Secrets to Enhancing Sound and Picture | ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/melody-matters-device-reviews-for-2024/"><u>Melody Matters Device Reviews for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-deals-enhance-your-backyard-viewing-experience-with-discounted-outdoor-tvs-at-walmart-insights-from-zdnet/"><u>Memorial Day Deals: Enhance Your Backyard Viewing Experience with Discounted Outdoor TVs at Walmart - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/oled-showdown-in-depth-review-of-flagship-tvs-lg-g3-and-samsung-s95c-for-the-ultimate-home-cinema-setup-zdnet/"><u>OLED Showdown: In-Depth Review of Flagship TVs LG G3 and Samsung S95C for the Ultimate Home Cinema Setup | ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-codegpt-the-ai-revolutionizing-code-generation/"><u>Unveiling CodeGPT: The AI Revolutionizing Code Generation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor Play 8T? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->

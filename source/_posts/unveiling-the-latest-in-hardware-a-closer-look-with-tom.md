@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest in Hardware - A Closer Look with Tom
-date: 2024-08-23T13:02:06.266Z
-updated: 2024-08-24T13:02:06.266Z
+date: 2025-01-04T06:06:38.115Z
+updated: 2025-01-05T18:18:16.619Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
  In terms of performance, the air-cooled CPU was seen to deliver about 38,300cb with the AiO-cooled chip achieving just over 39,100cb. The CPU clocks were much more steady at 5.6 GHz using the AiO, but with the air cooler in place they often dipped to 5.4 GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +45,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/wmRXDJgtnnLnPhD5DLfZMJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Der8auer)
 
  It may be unfortunate timing for the new EK-Nucleus AIO CR360 Direct Die D-RGB all-in-one CPU cooler, as we are nearly at the end of the Socket 1700 era. Der8auer admitted he didn’t know what might need to be done to make the AiO Intel 15th Gen CPU compatible.
@@ -49,18 +57,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/DwdkCF27CRpbAtFLxxyV8J-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: EKWB)
 
  For some further context, last July we reviewed the closely related EK Nucleus AIO CR360 Lux D-RGB for fully clothed CPUs. Despite price concerns and a slight noise disadvantage against the best rival AiOs, our review crowned it the[new king of AiO cooling](https://www.tomshardware.com/reviews/ek-nucleus-aio-cr360-lux-d-rgb) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +78,22 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/tep-by-step-guide-to-perfecting-videos-on-a-pc-for-youtubers-for-2024/"><u>[New] Step-by-Step Guide to Perfecting Videos on a PC for YouTubers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-enhance-content-discovery-with-instagrams-changes/"><u>[Updated] 2024 Approved How to Enhance Content Discovery with Instagram's Changes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-comprehensible-guide-to-documenting-live-sports-events/"><u>2024 Approved Comprehensible Guide to Documenting Live Sports Events</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-zte-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from ZTE .</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-believe-it-southwests-new-strategy-prompts-customers-to-try-something-funny-zdnet-insider/"><u>Can You Believe It? Southwest's New Strategy Prompts Customers to Try Something Funny | ZDNet Insider</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-trust-car-adapters-for-iphone-charging-unveiling-the-truth-after-thorough-tests-and-analysis-zdnet/"><u>Can You Trust Car Adapters for iPhone Charging? Unveiling the Truth After Thorough Tests and Analysis | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choose-teslas-future-supercharger-site-cast-your-vote-in-our-exclusive-twitter-poll-insights-from-zdnet/"><u>Choose Tesla's Future Supercharger Site: Cast Your Vote in Our Exclusive Twitter Poll - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-to-ride-in-style-and-comfort-score-a-high-performance-segway-max-g2-electric-scooter-for-just-400-less-this-memorial-day-experts-weigh-in/"><u>Discover How to Ride in Style and Comfort – Score a High-Performance Segway Max G2 Electric Scooter for Just $400 Less This Memorial Day! Experts Weigh In.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/does-using-a-car-charger-damage-your-iphone-find-out-as-we-put-over-30-devices-to-the-test-zdnet/"><u>Does Using a Car Charger Damage Your iPhone? Find Out as We Put Over 30 Devices to the Test (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dynamic-car-insurance-adjusted-to-your-driving-habits-find-out-how-it-works/"><u>Dynamic Car Insurance Adjusted to Your Driving Habits - Find Out How It Works!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-96-car-tech-upgrade-add-a-lane-departure-and-reverse-camera-without-breaking-the-bank-zdnets-guide/"><u>Easy $96 Car Tech Upgrade: Add a Lane Departure and Reverse Camera Without Breaking the Bank - ZDNET's Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elevate-video-conferencing-skills-google-meet-aesthetics-guide-for-2024/"><u>Elevate Video Conferencing Skills Google Meet Aesthetics Guide for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-s24-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy S24 Activity | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-realtek-hd-audio-manager-opens-a-comprehensive-guide/"><u>Troubleshooting Steps When Realtek HD Audio Manager Opens: A Comprehensive Guide</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

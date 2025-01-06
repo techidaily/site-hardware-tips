@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2024-12-24T16:50:49.327Z
-updated: 2024-12-27T16:19:32.351Z
+date: 2025-01-02T10:43:54.393Z
+updated: 2025-01-06T12:05:24.097Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,21 +114,19 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-tale-of-two-platforms-youtube-and-dailymention/"><u>[New] 2024 Approved The Tale of Two Platforms YouTube and DailyMention</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-live-stream-on-youtube-gaming-for-2024/"><u>[New] How to Live Stream on YouTube Gaming for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-humor-hacks-simplifying-the-process-of-meme-creation/"><u>[New] Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-tiktok-bio-enhancement-with-direct-url-integration-for-2024/"><u>[New] TikTok Bio Enhancement with Direct URL Integration for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-master-your-mp3-ultimate-guide-to-youtube-converters/"><u>[Updated] 2024 Approved Master Your MP3 Ultimate Guide to YouTube Converters</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-effortlessly-integrate-your-apple-podcasts-collection-for-2024/"><u>[Updated] Effortlessly Integrate Your Apple Podcasts Collection for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-immersion-in-the-most-realistic-water-games/"><u>[Updated] In 2024, Immersion in the Most Realistic Water Games</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-dont-purchase-these-4-apple-devices-yet-a-zdnet-insight/"><u>1. Don't Purchase These 4 Apple Devices Yet: A ZDNet Insight</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-top-5-budget-action-camcorders-in-full-hd/"><u>2024 Approved Top 5 Budget Action Camcorders in Full HD</u></a></li>
-<li><a href="https://extra-information.techidaily.com/all-inclusive-list-of-prime-no-money-streaming-applications-and-software/"><u>All-Inclusive List of Prime No-Money Streaming Applications & Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-beast-explore-how-this-compact-computing-marvel-outperforms-giants-at-a-surprising-price-point-gadgetguru/"><u>Budget-Friendly Beast: Explore How This Compact Computing Marvel Outperforms Giants at a Surprising Price Point | GadgetGuru</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/buy-the-ultimate-deal-over-half-off-on-a-4tb-samsung-usb-c-external-ssd-at-amazon-tech-advice/"><u>Buy the Ultimate Deal: Over Half Off on a 4TB Samsung USB-C External SSD at Amazon - Tech Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/embracing-the-future-how-artificial-intelligence-is-redefining-computing-speeds-insights-from-zdnet/"><u>Embracing the Future: How Artificial Intelligence Is Redefining Computing Speeds - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leveraging-local-computing-power-for-ai-model-deployment-managing-dozens-of-models-on-mac-or-pc-without-third-party-clouds-zdnet-insights/"><u>Leveraging Local Computing Power for AI Model Deployment: Managing Dozens of Models on Mac or PC Without Third-Party Clouds | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-prices-snag-the-ultimate-deal-on-an-acer-gamers-dream-computer-under-650-shop-now/"><u>Slash Prices: Snag the Ultimate Deal on an Acer Gamer's Dream Computer Under $650 - Shop Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-macos-stage-manager-a-comprehensive-guide-on-activation-and-features/"><u>Unlocking macOS Stage Manager: A Comprehensive Guide on Activation & Features</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pioneering-digital-storytelling-youtubes-filmmaking-pathway/"><u>[Updated] Pioneering Digital Storytelling YouTube's Filmmaking Pathway</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-precision-adjustments-for-premium-zoom-audio-for-2024/"><u>[Updated] Precision Adjustments for Premium Zoom Audio for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-make-a-striking-yt-preview-with-optimal-thumbnail-sizing/"><u>2024 Approved How to Make a Striking YT Preview with Optimal Thumbnail Sizing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-content-consumption-6-best-free-youtube-short-downloaders/"><u>2024 Approved Maximize Content Consumption 6 Best Free YouTube Short Downloaders</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/a-comprehensible-approach-uploading-snapchat-images-offline/"><u>A Comprehensible Approach Uploading Snapchat Images Offline</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-epic-offer-dive-into-high-definition-game-sounds-for-just-150-less-discover-the-ultimate-speaker-system-honored-by-zdnet-gaming-reviewers/"><u>Amazon's Epic Offer: Dive Into High-Definition Game Sounds for Just $150 Less! Discover the Ultimate Speaker System, Honored by ZDNET Gaming Reviewers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-how-to-erase-the-recovery-section-in-windows/"><u>Expert Tips on How to Erase the Recovery Section in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g230-microphone-issues-a-comprehensive-guide/"><u>Fixing Logitech G230 Microphone Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-htc-u23-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do HTC U23 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-from-ces-2024-the-ultimate-guide-to-the-years-hottest-laptops/"><u>Top Picks From CES 2024: The Ultimate Guide to the Year's Hottest Laptops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-in-depth-analysis-by-tech-experts-zdnet-insights/"><u>Top-Rated Laptops : In-Depth Analysis by Tech Experts | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-security-key-picks-industry-experts-reviews-and-ratings-zdnet/"><u>Top-Rated Security Key Picks : Industry Experts' Reviews and Ratings - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-offer-get-the-high-performance-omen-40l-gaming-pc-at-a-steep-markdown-of-550-on-hp-flash-sale-zdnets-insider-info/"><u>Unmissable Offer! Get the High-Performance Omen 40L Gaming PC at a Steep Markdown of $550 on HP Flash Sale - ZDNet's Insider Info</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-top-pick-for-a-flexible-and-well-built-laptop-wins-over-enthusiasts-alike/"><u>ZDNet's Top Pick for a Flexible and Well-Built Laptop Wins Over Enthusiasts Alike</u></a></li>
 </ul></div>
 

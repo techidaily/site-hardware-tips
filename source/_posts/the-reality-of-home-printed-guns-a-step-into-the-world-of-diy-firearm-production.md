@@ -1,7 +1,7 @@
 ---
 title: The Reality of Home-Printed Guns - A Step Into the World of DIY Firearm Production
-date: 2024-08-23T12:59:18.022Z
-updated: 2024-08-24T12:59:18.022Z
+date: 2025-01-03T01:52:44.421Z
+updated: 2025-01-06T04:38:10.559Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ Six months after joining – and winning — the race for the[fastest consumer 3
 
  Like the K1, the K1C will come pre-assembled for a plug and play experience. Its auto leveling includes the ability to set its own Z height for a perfect first layer, and auto-calibration will handle all the tuning. The K1C will also come standard with an A1 camera to watch for errors and provide real-time monitoring and time-lapse filming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ Six months after joining – and winning — the race for the[fastest consumer 3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,24 @@ Six months after joining – and winning — the race for the[fastest consumer 3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-sony-xperia-xz-premium-high-res-video-capabilities-analyzed/"><u>2024 Approved Sony Xperia XZ Premium High-Res Video Capabilities Analyzed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-12-proplus-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi Redmi Note 12 Pro+ 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/deep-underlying-issues-may-be-addressed-through-specialized-therapy-techniques/"><u>Deep Underlying Issues May Be Addressed Through Specialized Therapy Techniques.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-and-install-the-ultimate-free-windows-10-avi-video-player-step-by-step-guide/"><u>Download & Install the Ultimate FREE Windows 10 AVI Video Player - Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-14-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 14 to iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-special-how-lg-outperforms-samsung-g2-in-3-key-areas-for-its-mini-led-tv-plus-a-huge-300-savings-announced-on-zdnet/"><u>Labor Day Special: How LG Outperforms Samsung G2 in 3 Key Areas for Its Mini LED TV – Plus a Huge $300 Savings Announced on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lg-unveils-cost-efficient-mini-led-tv-surpassing-samsung-galaxy-g2-oled-labor-day-exclusive-deal-on-zdnet/"><u>LG Unveils Cost-Efficient Mini LED TV Surpassing Samsung Galaxy G2 OLED - Labor Day Exclusive Deal on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-alert-save-170-on-the-amazing-new-omni-series-qled-by-amazon-fire-tv-exclusive-deal/"><u>Massive Discount Alert: Save $170 on the Amazing New Omni Series QLED by Amazon Fire TV - Exclusive Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-deal-watch-all-your-beloved-series-on-netflix-using-a-roku-streaming-player-for-only-30/"><u>Memorial Day Deal: Watch All Your Beloved Series on Netflix Using a Roku Streaming Player for Only $30!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-screen-innovations-oled-and-qled-panels-compared-determining-which-suits-your-needs-best/"><u>Navigating Screen Innovations: OLED and QLED Panels Compared - Determining Which Suits Your Needs Best</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-ultra-high-definition-is-an-experts-guide-to-choosing-your-first-8k-tv-worth-it/"><u>Navigating the World of Ultra-High Definition: Is an Expert's Guide to Choosing Your First 8K TV Worth It?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/neo-qled-or-oled-deciding-on-your-ideal-television-screen-zdnet-insights/"><u>Neo QLED or OLED: Deciding on Your Ideal Television Screen | ZDNET Insights</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-storytelling-video-editing-tips-for-compelling-home-movies-for-2024/"><u>New The Art of Storytelling Video Editing Tips for Compelling Home Movies for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/panasonic-re-enters-american-market-with-triad-of-innovative-4k-televisions-reviving-iconic-brand/"><u>Panasonic Re-Enters American Market With Triad of Innovative 4K Televisions, Reviving Iconic Brand</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-ipod-connection-issues-in-windows-11-and-10-causes-and-solutions/"><u>Troubleshooting iPod Connection Issues in Windows 11 & 10: Causes and Solutions</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

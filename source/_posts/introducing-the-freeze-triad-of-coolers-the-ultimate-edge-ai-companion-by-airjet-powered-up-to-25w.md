@@ -1,7 +1,7 @@
 ---
 title: Introducing the Freeze Triad of Coolers - The Ultimate Edge AI Companion by AirJet, Powered up to 25W
-date: 2024-08-23T13:02:02.778Z
-updated: 2024-08-24T13:02:02.778Z
+date: 2024-12-31T23:38:13.355Z
+updated: 2025-01-05T16:43:18.677Z
 tags:
   - cooling
 categories:
@@ -37,6 +37,10 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  Finally, the AI-designed LN2 container proved 20% more efficient than the ElmorLabs design. Using 500mL of liquid nitrogen, the Volcano cooled down to just -100º Celsius, while the AI-designed prototype went down to -133º Celsius.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,14 +61,11 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  With the initial testing out of the way, SkatterBencher and its partners may look into performance and cost optimizations and perhaps change the intended use to be for even higher-power CPUs, like the AMD Ryzen Threadripper. The team would also like to commercialize the design but likely has a fair bit of work ahead of it to make it commercially viable.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,8 +74,24 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-video-calls-discover-the-top-10-apps-for-your-phone/"><u>[New] In 2024, Mastering Video Calls Discover the Top 10 Apps for Your Phone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-embellish-slides-with-sonic-elements/"><u>[Updated] 2024 Approved Embellish Slides with Sonic Elements</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-essential-skillset-how-to-execute-screen-recording-on-mac/"><u>[Updated] In 2024, Essential Skillset How to Execute Screen Recording on Mac</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-superior-websites-to-ditch-twitter-completely/"><u>2024 Approved Superior Websites to Ditch Twitter Completely</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-x9a-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Honor X9a</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Simulate GPS Movement in AR games On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-v30-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo V30 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-data-recovery-recover-lost-data-from-motorola-razr-40-by-fonelab-android-recover-data/"><u>Motorola Data Recovery – recover lost data from Motorola Razr 40</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/on-schedule-elon-musk-confirms-steady-production-of-teslas-cybertruck-reveals-upcoming-platform-innovations-zdnet/"><u>On Schedule: Elon Musk Confirms Steady Production of Tesla's Cybertruck, Reveals Upcoming Platform Innovations - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-tesla-from-the-flipzero-security-breach-essential-safety-measures/"><u>Protect Your Tesla From the FlipZero Security Breach: Essential Safety Measures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-ev-battery-production-plant-funded-by-samsung-sdi-and-general-motors-in-the-usa-a-3-billion-venture-unveiled-zdnet-news/"><u>Revolutionary EV Battery Production Plant Funded by Samsung SDI and General Motors in the USA - A $3 Billion Venture Unveiled | ZDNet News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-cash-and-conserve-gas-explore-eco-friendly-navigation-with-enhanced-features-on-google-maps-zdnet/"><u>Save Cash & Conserve Gas: Explore Eco-Friendly Navigation with Enhanced Features on Google Maps - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-digital-dependence-my-journey-from-gps-to-traditional-map-reading-and-what-it-means-amidst-rising-dementia-concerns/"><u>Say Goodbye to Digital Dependence: My Journey From GPS to Traditional Map Reading and What It Means Amidst Rising Dementia Concerns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sky-high-deliveries-soar-higher-walmart-expands-unmanned-aerial-vehicle-program-for-swift-shipping-solutions-zdnet/"><u>Sky-High Deliveries Soar Higher: Walmart Expands Unmanned Aerial Vehicle Program for Swift Shipping Solutions | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-airfare-by-half-unlock-savings-of-2000plus-through-the-exclusive-dollar-flight-club-revealed-on-zdnet/"><u>Slash Your Airfare by Half: Unlock Savings of $2,000+ Through the Exclusive Dollar Flight Club - Revealed on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-travel-costs-in-half-with-dollar-flight-clubs-insane-sale-up-to-94-off-now-zdnet/"><u>Slash Your Travel Costs in Half with Dollar Flight Club's Insane Sale - Up to 94% Off Now | ZDNET</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->

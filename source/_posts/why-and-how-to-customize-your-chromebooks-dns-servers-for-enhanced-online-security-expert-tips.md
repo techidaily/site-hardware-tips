@@ -1,7 +1,7 @@
 ---
 title: Why and How to Customize Your Chromebook's DNS Servers for Enhanced Online Security - Expert Tips
-date: 2024-12-22T19:49:12.441Z
-updated: 2024-12-27T21:03:19.654Z
+date: 2025-01-04T17:45:03.832Z
+updated: 2025-01-06T09:23:51.641Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,20 +120,20 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://games-able.techidaily.com/achieving-perfect-tv-picture-on-xbox-series-xands/"><u>Achieving Perfect TV Picture on Xbox Series X&S</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210796592-9780008603632-black-women-always-conversations-on-life-culture-and-creativity/"><u>Black Women Always: Conversations on life, culture and creativity | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dive-into-the-world-of-ai-at-bing-how-to-signup/"><u>Dive Into the World of AI at Bing: How-To Signup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-look-at-the-most-effective-irobot-vacuum-cleaners-of-2024-tested-for-you-by-wirecutter/"><u>Exclusive Look at the Most Effective iRobot Vacuum Cleaners of 2024 - Tested for You by Wirecutter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-apples-vision-introducing-an-advanced-robot-assistant-into-everyday-homes-tech-insights-by-zdnet/"><u>Exploring Apple's Vision: Introducing an Advanced Robot Assistant Into Everyday Homes | Tech Insights by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-markets-elite-a-comprehensive-guide-to-the-best-roborock-vacuums-of-2024-professional-insights-and-scrutiny-zdnet/"><u>Exploring the Market's Elite: A Comprehensive Guide to the Best Roborock Vacuums of 2024 - Professional Insights and Scrutiny | ZDNet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/exploring-windows-hdr-video-features-for-2024/"><u>Exploring Windows HDR Video Features for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>In 2024, Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-c33-2023-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme C33 2023</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-14-plus-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 14 Plus Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/month-long-test-discover-the-value-of-a-1900-smart-cleaning-bot-from-your-top-rated-reviews/"><u>Month-Long Test: Discover the Value of a $1,900 Smart Cleaning Bot From Your Top-Rated Reviews!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-human-like-automata-how-openai-and-emerging-tech-firm-unite-to-engineer-sophisticated-artificial-intelligence-models-for-futuristic-humanoid180/"><u>Revolutionizing Human-Like Automata: How OpenAI and Emerging Tech Firm Unite to Engineer Sophisticated Artificial Intelligence Models for Futuristic Humanoid Machines | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-2024-robot-mop-vacuums-comprehensive-testing-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated 2024 Robot Mop Vacuums: Comprehensive Testing & Reviews by Tech Gurus | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-irobot-robotic-vacuums-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Rated iRobot Robotic Vacuums : Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-selection-of-gaming-curve-displays-2024-edition/"><u>Ultimate Selection of Gaming Curve Displays - 2024 Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-uncover-the-globes-secrets-with-these-youtubers/"><u>[New] Uncover the Globe's Secrets with These Youtubers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-angles-the-complete-manual-for-effective-video-turns/"><u>[Updated] 2024 Approved Instagram Angles The Complete Manual for Effective Video Turns</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-step-by-step-to-turn-off-igtv/"><u>[Updated] 2024 Approved Step-by-Step to Turn Off IGTV</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024-thoroughly-assessed-by-tech-gurus-compulist/"><u>2024 - Thoroughly Assessed by Tech Gurus | Compulist</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-errors-to-prevent-in-your-journey-through-generative-ai-technology/"><u>Essential Errors to Prevent in Your Journey Through Generative AI Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-apple-macbook-air-with-m2-chip-now-available-at-749-on-amazons-prime-day-deals-insights/"><u>Exclusive: Apple MacBook Air with M2 Chip Now Available at $749 on Amazon's Prime Day Deals - Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-samsung-galaxy-m34-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy M34 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-tips-to-amplify-your-canva-designs/"><u>In 2024, Pro Tips to Amplify Your Canva Designs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-enhancements-for-dells-elite-laptops-discover-the-updated-xps-15-and-xps-17-on-zdnet/"><u>Next-Gen Enhancements for Dell's Elite Laptops: Discover the Updated XPS 15 and XPS 17 on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-book-3-ultra-unveiled-why-its-a-game-changer-for-samsung-loyalists-comprehensive-review-on-zdnet/"><u>Samsung Galaxy Book 3 Ultra Unveiled: Why It's a Game Changer for Samsung Loyalists | Comprehensive Review on ZDNET</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-elite-set-of-android-photoshoppers/"><u>The Elite Set of Android Photoshoppers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-vpn-providers-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Ranked VPN Providers : Comprehensive Testing & Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-metas-exclusive-offer-the-superior-512gb-quest-3-vr-package-top-pick-for-immersive-experiences/"><u>Unveiling Meta's Exclusive Offer: The Superior 512GB Quest 3 VR Package - Top Pick for Immersive Experiences</u></a></li>
 </ul></div>
 

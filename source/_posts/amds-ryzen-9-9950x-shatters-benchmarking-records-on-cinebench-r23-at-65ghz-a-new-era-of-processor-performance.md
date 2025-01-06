@@ -1,7 +1,7 @@
 ---
 title: "AMD's Ryzen 9 9950X Shatters Benchmarking Records on Cinebench R23 at 6.5GHz: A New Era of Processor Performance"
-date: 2024-08-23T12:58:17.834Z
-updated: 2024-08-24T12:58:17.834Z
+date: 2025-01-01T23:44:50.853Z
+updated: 2025-01-05T18:18:29.825Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,26 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-strategies-for-effective-use-of-zoom-on-win11/"><u>[New] Transformative Strategies for Effective Use of Zoom on Win11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-the-freebie-waters-of-final-cut-pro/"><u>[Updated] Navigating the Freebie Waters of Final Cut Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-guide-of-hdr-photo-on-iphone-camera-for-2024/"><u>[Updated] The Ultimate Guide of HDR Photo on iPhone Camera for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-mp4-to-facebook-video-converter-2023-edition/"><u>2024 Approved Top MP4-to-Facebook Video Converter 2023 Edition</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-6-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 6 Plus How to Bypass?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-lenovo-computers-for-hybrid-working-environments-save-1000-on-amazon-prime-day-in-october-as-featured/"><u>Best Lenovo Computers for Hybrid Working Environments - Save $1,000 on Amazon Prime Day in October, as Featured</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-the-dji-mavic-air-2s-top-quadcopter-in-review/"><u>Comprehensive Guide to the DJI Mavic Air 2S: Top Quadcopter in Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-new-lenovo-laptops-revolutionize-transferring-files-to-iphones-an-essential-insight-for-tech-lovers-zdnet/"><u>Discover How New Lenovo Laptops Revolutionize Transferring Files to iPhones: An Essential Insight for Tech Lovers | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-in-on-it-exclusive-spotlight-on-metas-premier-vr-deal-for-the-512gb-quest-best-value-alert/"><u>Get in On It! Exclusive Spotlight on Meta's Premier VR Deal for the 512GB Quest | Best Value Alert</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-apples-m3-macbook-air-unveiling-my-top-picks-for-its-most-innovative-enhancements-zdnet/"><u>Inside Look at Apple's M3 MacBook Air: Unveiling My Top Picks for Its Most Innovative Enhancements | ZDNET</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premiere-streaming-for-performance-artists-for-2024/"><u>Premiere Streaming for Performance Artists for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sky-archives-reimagined-exploring-the-best-cloud-vaults-of-2024/"><u>Sky Archives Reimagined Exploring the Best Cloud Vaults of 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-unbeatable-prime-day-blowouts-on-laptops-score-yours-before-halloween/"><u>Top Picks: Unbeatable Prime Day Blowouts on Laptops - Score Yours Before Halloween!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-antivirus-solutions-a-comprehensive-guide/"><u>Top Recommended Antivirus Solutions : A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-academic-laptops-thoroughly-tested-and-evaluated-by-professionals-techdigest/"><u>Top-Ranking Academic Laptops: Thoroughly Tested & Evaluated by Professionals | TechDigest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-offer-get-a-second-display-with-your-laptop-and-save-120-using-teamgee-shop-now/"><u>Unbeatable Offer: Get a Second Display with Your Laptop & Save $120 Using TeamGee - Shop Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-presidents-sale-offer-score-300-discount-on-the-latest-m2-macbook-air-shop-now-at-zdnet/"><u>Unbeatable Presidents’ Sale Offer: Score $300 Discount on the Latest M2 MacBook Air - Shop Now at ZDNet!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->

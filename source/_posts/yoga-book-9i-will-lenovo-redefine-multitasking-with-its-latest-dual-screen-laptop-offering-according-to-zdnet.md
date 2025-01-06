@@ -1,7 +1,7 @@
 ---
 title: "Yoga Book ^9I: Will Lenovo Redefine Multitasking with Its Latest Dual-Screen Laptop Offering, According to ZDNet?"
-date: 2024-12-22T19:45:22.365Z
-updated: 2024-12-27T19:14:40.037Z
+date: 2025-01-03T18:33:59.625Z
+updated: 2025-01-06T00:58:03.769Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take screenshots on any laptop
@@ -37,12 +37,16 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
 
@@ -87,7 +91,7 @@ Michael Gariffo/ZDNET
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
@@ -102,10 +106,6 @@ Michael Gariffo/ZDNET
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
@@ -115,7 +115,7 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
@@ -157,21 +157,24 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-breaking-top-tiktok-videos-making-twitter-shout-for-2024/"><u>[New] Breaking Top TikTok Videos Making Twitter Shout for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-maximizing-moolah-on-youtube-a-creators-handbook/"><u>[New] In 2024, Maximizing Moolah on YouTube A Creator's Handbook</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-mastering-srt-file-sharing-on-social-platforms/"><u>[New] Mastering SRT File Sharing on Social Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-subtitles-into-your-online-social-videography-efforts/"><u>2024 Approved Integrating Subtitles Into Your Online Social Videography Efforts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-free-public-domain-pubg-screen-shots/"><u>Best Free Public Domain PUBG Screen Shots</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-debloating-effective-strategies-for-enhancing-windows-performance-on-techspot-zdnet/"><u>Beyond Debloating: Effective Strategies for Enhancing Windows Performance on TechSpot (ZDNet)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-victus-15l-laptop-now-at-520-a-steal-with-almost-40-discount-read-more-on-zdnet/"><u>HP Victus 15L Laptop Now at $520: A Steal with Almost 40% Discount - Read More on ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/improve-audio-quality-in-cyberpunk-2077-how-to-resolve-crackling-sounds/"><u>Improve Audio Quality in Cyberpunk 2077 - How to Resolve Crackling Sounds</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-enhancing-visual-content-turning-youtube-clips-into-animated-gifs/"><u>In 2024, Enhancing Visual Content Turning Youtube Clips Into Animated GIFs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722954112865-latest-update-released-for-logitech-extreme-3d/"><u>Latest Update Released for Logitech Extreme 3D</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/quick-guide-expanding-your-raspberry-pi-model-b-pi-5-with-m2-devices-tips-and-tricks/"><u>Quick Guide: Expanding Your Raspberry Pi Model B (Pi 5) with M.2 Devices - Tips & Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-220-limited-time-offer-on-rtx-3070-upgrades-from-zdnet-shop-now/"><u>Save $220: Limited Time Offer on RTX 3070 Upgrades From ZDNet - Shop Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/saving-smart-with-surface-pro-how-i-chose-the-most-economical-option-without-compromises-gizmogeek-blog/"><u>Saving Smart with Surface Pro - How I Chose the Most Economical Option Without Compromises | GizmoGeek Blog</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-10-most-affordable-cloud-vendors-listed-for-2024/"><u>Top 10 Most Affordable Cloud Vendors Listed for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-headsets-professional-reviews-and-ratings-by-zdnet/"><u>Top-Rated Gaming Headsets : Professional Reviews and Ratings by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-budget-gaming-machine-with-starfield-graphics-building-a-powerful-pc-under-1200/"><u>Ultimate Budget Gaming Machine with Starfield Graphics: Building a Powerful PC Under $1,200</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-leading-call-customization-applications/"><u>[New] In 2024, Leading Call Customization Applications</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-strategy-crafting-video-ads-without-spending-a-dime/"><u>[New] Step-by-Step Strategy Crafting Video Ads without Spending a Dime</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems-for-2024/"><u>[Updated] A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-breakthrough-techniques-for-quick-srt-to-text-file-alteration/"><u>[Updated] In 2024, Breakthrough Techniques for Quick SRT to Text File Alteration</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-echo-chamber-new-tech-insights/"><u>[Updated] In 2024, Echo Chamber New Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unveiling-the-ultimate-299-windows-laptop-your-top-choice-for-savvy-saving-shoppers-zdnet/"><u>1. Unveiling the Ultimate $299 Windows Laptop: Your Top Choice for Savvy Saving Shoppers | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-and-powerful-laptops-of-2024-rankings-by-tech-experts-zdnet/"><u>Affordable & Powerful Laptops of 2024 - Rankings by Tech Experts (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-why-samsungs-new-copilotplus-is-dominating-the-market-as-the-premier-windows-laptop-bargain-of-the-year-tech-insight/"><u>Discover Why Samsung's New Copilot+ Is Dominating the Market as the Premier Windows Laptop Bargain of the Year | Tech Insight .</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dominate-your-games-with-the-alienware-m1eus-laptop-save-300-now-after-labor-day-as-revealed-by-zdnet/"><u>Dominate Your Games with the Alienware M1eus Laptop - Save $300 Now After Labor Day, as Revealed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-lightweight-innovation-with-the-lg-gram-pro-17-and-its-sibling-model-both-available-at-discounted-rates-this-amazon-prime-day-insights-from-zdnet131/"><u>Experience Lightweight Innovation with the LG Gram Pro 17 and Its Sibling Model – Both Available at Discounted Rates This Amazon Prime Day | Insights From ZDNet Gadget Reviews</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-y78plus-t1-edition-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo Y78+ (T1) Edition? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-turn-off-unsolicited-game-suggestions-for-w11/"><u>Learn to Turn Off Unsolicited Game Suggestions for W11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/optimal-energy-solutions-for-gopro-hero5-certified-and-third-party/"><u>Optimal Energy Solutions for GoPro Hero5 Certified & Third-Party</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-innovative-flexibility-of-lenovos-swiveling-laptop-unveiled-at-ifa-2024-an-exclusive-hands-on-review-gadgets/"><u>The Innovative Flexibility of Lenovo's Swiveling Laptop Unveiled at IFA 2024 – An Exclusive Hands-On Review Gadgets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/transforming-viewers-into-active-participants-for-2024/"><u>Transforming Viewers Into Active Participants for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-price-cuts-pre-black-friday-discover-the-best-buy-deals-exclusive-insights/"><u>Ultimate Price Cuts Pre-Black Friday: Discover the Best Buy Deals | Exclusive Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-how-dells-premium-3000-laptop-defies-expectations-with-cutting-edge-specs-pcmag/"><u>Unlocking Performance: How Dell's Premium $3,000 Laptop Defies Expectations with Cutting-Edge Specs | PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-this-asus-notebook-surpasses-the-macbook-in-key-areas-a-detailed-review/"><u>Why This Asus Notebook Surpasses the MacBook in Key Areas: A Detailed Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Uncovering Hidden Gems in Electronic Devices with Tom
-date: 2024-08-23T13:03:14.338Z
-updated: 2024-08-24T13:03:14.338Z
+date: 2024-12-31T04:24:13.798Z
+updated: 2025-01-06T01:27:46.604Z
 tags:
   - cooling
 categories:
@@ -37,6 +37,10 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  Finally, the AI-designed LN2 container proved 20% more efficient than the ElmorLabs design. Using 500mL of liquid nitrogen, the Volcano cooled down to just -100º Celsius, while the AI-designed prototype went down to -133º Celsius.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,14 +61,11 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  With the initial testing out of the way, SkatterBencher and its partners may look into performance and cost optimizations and perhaps change the intended use to be for even higher-power CPUs, like the AMD Ryzen Threadripper. The team would also like to commercialize the design but likely has a fair bit of work ahead of it to make it commercially viable.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,8 +74,24 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-complete-review-of-razer-video-streaming-device/"><u>[New] 2024 Approved Complete Review of Razer Video Streaming Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-chart-success-using-youtube-statistics-to-grow-engagement-for-2024/"><u>[New] Chart Success Using YouTube Statistics to Grow Engagement for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-through-hype-8-best-free-srt-tools-exposed/"><u>Cutting Through Hype 8 Best Free SRT Tools Exposed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-chatgpt-offer-tutorials-for-creating-delicious-and-health-conscious-meals-at-home/"><u>Does ChatGPT Offer Tutorials for Creating Delicious and Health-Conscious Meals at Home?</u></a></li>
+<li><a href="https://discover-data.techidaily.com/exploring-reasons-behind-sporadic-computer-haltings-with-expertise-of-yl-systems/"><u>Exploring Reasons Behind Sporadic Computer Haltings with Expertise of YL Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-tecno-pop-7-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Tecno Pop 7 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-pro-evolution-with-os-version-162-mastering-stage-managers-new-external-monitor-functionality-gadgetguru-insights/"><u>IPad Pro Evolution with OS Version 16.2: Mastering Stage Manager's New External Monitor Functionality | GadgetGuru Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-efficiency-in-your-remote-job-the-ultimate-guide-to-powering-up-with-an-ipad-pro-advice-by-zdnet/"><u>Maximizing Efficiency in Your Remote Job: The Ultimate Guide to Powering Up with an iPad Pro - Advice by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-tablet-for-children-surpasses-ipad-and-goes-on-discount-discover-how/"><u>Next-Gen Tablet for Children Surpasses iPad & Goes On Discount – Discover How!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/precise-voice-adjustments-for-pubg-success/"><u>Precise Voice Adjustments for PUBG Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professionals-guide-to-choosing-a-surface-pro-n8-comprehensive-zdnet-review-and-recommendations/"><u>Professional's Guide to Choosing a Surface Pro N8: Comprehensive ZDNet Review & Recommendations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamp-your-digital-experience-with-an-amazon-fire-tablet-today-score-one-for-only-50-by-trading-in-at-our-spectacular-labor-day-promotion/"><u>Revamp Your Digital Experience with an Amazon Fire Tablet Today | Score One for Only $50 by Trading in at Our Spectacular Labor Day Promotion!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surprising-top-movie-watching-tablet-unveiled-discover-hidden-gems-beyond-popular-brands-insights-by-zdnet/"><u>Surprising Top Movie-Watching Tablet Unveiled: Discover Hidden Gems Beyond Popular Brands - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premier-hotel-management-applications-in-2/"><u>Top 5 Premier Hotel Management Applications in 2</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-7-essential-color-correction-techniques/"><u>Top 7 Essential Color Correction Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-android-tablet-options-beyond-tcl-and-samsung-in-depth-review-on-zdnet/"><u>Top Affordable Android Tablet Options Beyond TCL and Samsung - In-Depth Review on ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

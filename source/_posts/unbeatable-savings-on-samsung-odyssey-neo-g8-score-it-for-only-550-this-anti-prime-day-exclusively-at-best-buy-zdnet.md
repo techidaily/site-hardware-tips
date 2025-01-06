@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Samsung Odyssey Neo G8 - Score It For Only $550 This Anti-Prime Day, Exclusively at Best Buy | ZDNET
-date: 2024-12-22T21:39:06.009Z
-updated: 2024-12-27T21:47:14.062Z
+date: 2025-01-02T21:42:07.205Z
+updated: 2025-01-06T08:37:27.820Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,18 +63,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-streamline-your-audio-preferences-moving-spotify-playlists-to-youtube-music/"><u>[New] 2024 Approved Streamline Your Audio Preferences Moving Spotify Playlists to YouTube Music</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dispelling-darkness-enhancing-youtube-views/"><u>[Updated] 2024 Approved Dispelling Darkness, Enhancing Youtube Views</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-winning-at-movie-watching-leading-windows-phone-apps-for-2024/"><u>[Updated] Winning at Movie Watching Leading Windows Phone Apps for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-11-proplus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme 11 Pro+ Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-unveils-the-upgraded-mac-studio-a-matured-version-of-the-mac-mini-according-to-zdnet/"><u>Apple Unveils the Upgraded Mac Studio - A Matured Version of the Mac Mini, According to ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/buyable-innovations-from-ces-202n-exciting-gadgets-unveiled/"><u>Buyable Innovations From CES 202N - Exciting Gadgets Unveiled!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/connect-with-ease-integrating-internal-solid-state-drives-into-usb-c-systems-for-pcs-and-macbooks-digitaltechadvice/"><u>Connect with Ease: Integrating Internal Solid State Drives Into USB-C Systems for PCs & MacBooks | DigitalTechAdvice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-your-gpu-a-comprehensive-guide-to-identifying-and-updating-graphics-cards-and-drivers-techradar/"><u>Discover Your GPU: A Comprehensive Guide to Identifying & Updating Graphics Cards and Drivers | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-high-speed-2-tb-samsung-990-pro-m2-nvme-ssd-available-for-only-179-shop-today/"><u>Exclusive Offer! High-Speed 2 TB Samsung 990 Pro M.2 NVMe SSD Available for Only $179 – Shop Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-fix-samsung-all-in-one-printer-drivers-in-windows-systems/"><u>How to Fix Samsung All-in-One Printer Drivers in Windows Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/qualified-macbook-buyers-awarded-by-apple-under-new-class-action-agreement-tech-news-update/"><u>Qualified MacBook Buyers Awarded by Apple Under New Class Action Agreement | Tech News Update</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-mp4-to-mp3-conversion-apps-for-mobile/"><u>The Ultimate Guide to MP4 to MP3 Conversion Apps for Mobile</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-addressing-audio-failure-xc00d36b4/"><u>Understanding and Addressing Audio Failure XC00D36B4</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-iphone-gif-management-for-2024/"><u>[Updated] The Ultimate Guide to iPhone GIF Management for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-8-premium-complimentary-streaming-media-processors/"><u>2024 Approved 8 Premium Complimentary Streaming Media Processors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-drones-pairing-perfectly-with-gopros/"><u>Cutting-Edge Drones Pairing Perfectly with GoPros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-apple-m3-macbook-pro-now-at-a-200-discount-in-amazons-spectacular-spring-clearance-event-tech-news/"><u>Discover the Apple M3 MacBook Pro Now at a $200 Discount in Amazon’s Spectacular Spring Clearance Event - Tech News</u></a></li>
+<li><a href="https://article-posts.techidaily.com/effective-online-channels-for-youtube-advertising/"><u>Effective Online Channels for YouTube Advertising</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-instantly-install-bcm20702a0-driver-on-windows/"><u>How to Instantly Install BCM20702A0 Driver on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-nokia-c12-plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Nokia C12 Plus without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-story-wizardry-secrets-revealed/"><u>In 2024, Instagram Story Wizardry Secrets Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/spectacular-display-and-unbeatable-deal-the-thin-and-light-notebook-you-cant-miss-exclusive-sale-alert-techreviewz/"><u>Spectacular Display & Unbeatable Deal: The Thin-and-Light Notebook You Can't Miss - Exclusive Sale Alert! | TechReviewZ</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surprising-performance-showdown-when-microsofts-new-surface-laptop-copilotplus-pc-triumphs-over-a-macbook-air-in-multiple-areas/"><u>Surprising Performance Showdown: When Microsoft's New Surface Laptop Copilot+ PC Triumphs Over a MacBook Air in Multiple Areas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-alienware-game-laptop-lineup-unveiled-at-ces-2023-key-features-revealed-techradar/"><u>Upcoming Alienware Game Laptop Lineup Unveiled at CES 2023 - Key Features Revealed | TechRadar</u></a></li>
 </ul></div>
 

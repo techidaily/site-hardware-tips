@@ -1,7 +1,7 @@
 ---
 title: "Achieve Professional Finishes: Avoid Blisters & Pimples in Your 3D Prints"
-date: 2024-08-23T12:59:40.054Z
-updated: 2024-08-24T12:59:40.054Z
+date: 2025-01-02T03:49:37.221Z
+updated: 2025-01-05T17:05:49.533Z
 tags:
   - printer
 categories:
@@ -18,6 +18,10 @@ Just like any other application, Cura can experience occasional failures and com
  Cura not being able to slice can result from various factors, including problems with the file itself and issues with the software. To fix this, you need to check the model itself and ensure that it’s not too big for your build plate, and if it is, you have to reduce the size. For example, in the image below, the file is too big than the build plate and it generated the error “**Unable to slice** .
 
 ![Common Cura Errors](https://cdn.mos.cms.futurecdn.net/67p8riRUhVNYEhTtefDyAm-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -43,9 +47,6 @@ Just like any other application, Cura can experience occasional failures and com
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. 3D Model Not Manifold
 
  When you face such an error, it means that the model has geometric problems that prevent it from being sliced. These problems can include holes and gaps in the meshes, open edges, and even intersecting faces. The slicer cannot properly slice the file if there are these issues, as it relies on solid, closed geometry to generate toolpaths accurately. If you decide to continue slicing the file even with these issues, the final print will have gaps and missing sections, or it can even fail to print.
@@ -55,8 +56,9 @@ Just like any other application, Cura can experience occasional failures and com
 ![Common Cura Errors](https://cdn.mos.cms.futurecdn.net/7FAuidQeJZHXhXW9Je6ZNm-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  If there is an issue with the file, it will display in the new window that launches, and you can click on**Auto Repair All** to fix it. Another essential tool that you can use to repair your file is the Blender. Once you import your file, you need to activate the 3D printing add-on. To do this, go to**Edit > Preferences > Add-ons** then search for 3D-Print Toolbox and then select the checkbox.
@@ -70,12 +72,9 @@ Just like any other application, Cura can experience occasional failures and com
 ![Common Cura Errors](https://cdn.mos.cms.futurecdn.net/d5fShifF7iXtHmjQySvefj-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  After analyzing, you will see if there is any issue with your 3D model. In my case, I see one non-manifold edge and other problems, as shown in the results section below.
@@ -92,9 +91,6 @@ No advertising on the website.
 
  The software will fill all the gaps, non-manifold edges, and inverted normals. Depending on the complexity of the model, it will take a while to finish. Once it is done and you check again, you will realize the issues have disappeared. You can then export the model and reload it to Cura to slice. Fixing this problem will also, in most cases, fix the other error of the 3D model not being watertight.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 4\. Configuration Errors in Cura
 
  Configuration errors can result from factors like incorrect settings or issues with profiles. But the leading cause is material options. That is, when Cura fails to locate the material previously designated as the default for your specific 3D printer during the last session. This will make the software interpret this as a sign of configuration corruption.
@@ -105,9 +101,6 @@ No advertising on the website.
 
 ![Common Cura Errors](https://cdn.mos.cms.futurecdn.net/B5BwpY7VvYWFbPCabgjdmk-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  After installation, restart Cura, and in the error message box, choose**Disable Affected Profiles** and then restart Cura again, and the message will disappear. This plugin can also help you reduce the amount of time that Cura loads when you choose**Disable loading unused configuration files** .
@@ -116,11 +109,16 @@ No advertising on the website.
 
 ![Common Cura Errors](https://cdn.mos.cms.futurecdn.net/VYv5JwaZ9ztJUwsF8DCw5j-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Cura Not Generating Supports
 
  If the support generation settings are correctly configured and Cura is still failing to generate them or only generating a few, you need to adjust certain settings to fix the issue. But before that, you need to ensure that you update the software to the latest version.
@@ -129,13 +127,14 @@ No advertising on the website.
 
 ![Common Cura Errors](https://cdn.mos.cms.futurecdn.net/pVYrwxpqZqAjwKk4cBSoJk-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Doing this, in most cases, will solve the issue. If the supports appear even in the areas that you don’t want, you can use support blockers to block them in those areas. In addition, to support placement, you must check the**Minimum Support Area** and**Minimum Support Interface Area** settings. These settings determine the minimum surface area required for the supports to be generated and the minimum area for support interfaces. If the values are too high, the software may not generate supports for smaller overhangs. So you lower them a little to allow Cura to generate supports for smaller overhangs.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Cura Settings Error
 
  This error occurs when one inputs values for certain settings that exceed the software’s supported ranges. Just like many other[3D printer slicers](https://www.tomshardware.com/features/6-best-3d-printer-slicers-and-how-to-use-them) , Cura has predefined limits for settings parameters, and when one attempts to exceed those ranges, Cura will generate a message indicating the specific setting causing the problem. Such error messages allow you to adjust the settings to ensure they fall within the supported ranges and this helps prevent errors or print failure.
@@ -150,14 +149,11 @@ No advertising on the website.
 * [**How to Convert OBJ Files to STL Files for 3D Printing**](https://www.tomshardware.com/how-to/convert-obj-files-to-stl)
 * [**How to Clean and Cure Resin Prints**](https://www.tomshardware.com/how-to/clean-and-cure-resin-3d-prints)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +162,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-superior-on-screen-moment-documentation/"><u>[New] In 2024, Superior On-Screen Moment Documentation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-pinnacle-8-webcams-for-high-definition-streaming/"><u>[Updated] Pinnacle 8 Webcams for High-Definition Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-in-windows-11-using-the-built-in-snip-and-sketch-app/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen in Windows 11 Using the Built-In Snip & Sketch App</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/exclusive-recording-gadgets-for-windows-10-gamers-for-2024/"><u>Exclusive Recording Gadgets for Windows 10 Gamers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-updated-drivers-for-your-amd-radeon-pro-w5700-on-windows-11-10-and-7/"><u>Obtain Updated Drivers for Your AMD Radeon Pro W5700 on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://win-guides.techidaily.com/quelle-est-la-surete-des-outils-de-restauration-dinformations-numeriques/"><u>Quelle Est La Sûreté Des Outils De Restauration D'informations Numériques?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-roku-devices-and-streaming-sticks-latest-reviews-on-zdnet/"><u>Top-Ranking Roku Devices & Streaming Sticks - Latest Reviews on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-2024-ps5-compatible-televisions-in-depth-reviews-and-comparisons-by-tech-experts-zdnet/"><u>Top-Rated 2024 PS5 Compatible Televisions: In-Depth Reviews & Comparisons by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-indoor-television-signal-booster-zdnets-comprehensive-review/"><u>Top-Rated Indoor Television Signal Booster - ZDNet's Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-discover-why-this-samsung-tv-is-a-historic-low-price-marvel/"><u>Unbeatable Value: Discover Why This Samsung TV Is a Historic Low Price Marvel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/universal-techniques-to-deactivate-acr-and-minimize-commercials-on-your-television-expert-tips-by-zdnet/"><u>Universal Techniques to Deactivate ACR and Minimize Commercials on Your Television | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-canon-mp560-printer-drivers-with-ease-quick-download-tutorial/"><u>Update Your Canon MP560 Printer Drivers with Ease - Quick Download Tutorial</u></a></li>
+</ul></div>
 

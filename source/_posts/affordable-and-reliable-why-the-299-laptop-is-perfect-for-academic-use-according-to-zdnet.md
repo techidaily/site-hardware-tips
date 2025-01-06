@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Reliable: Why the $299 Laptop Is Perfect for Academic Use, According to ZDNET"
-date: 2024-12-21T23:41:33.468Z
-updated: 2024-12-27T19:28:18.038Z
+date: 2024-12-31T13:15:57.988Z
+updated: 2025-01-05T17:42:25.793Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,24 +77,22 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-android-and-ios-timers-your-guide-to-flawless-big-day-management/"><u>[Updated] 2024 Approved Essential Android & iOS Timers Your Guide to Flawless Big Day Management</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-network-neutralizer-overcoming-facebook-intrusion/"><u>[Updated] In 2024, Network Neutralizer Overcoming Facebook Intrusion</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-hassle-free-tactics-sharing-igtv-in-insta-stories/"><u>2024 Approved Hassle-Free Tactics Sharing IGTV in Insta Stories</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-ideal-choices-7-best-mac-video-apps/"><u>2024 Approved Ideal Choices 7 Best Mac Video Apps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beginners-guide-configuring-your-initial-raspberry-pi-project-tips-from-zdnet/"><u>Beginner's Guide: Configuring Your Initial Raspberry Pi Project - Tips From ZDNet</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-soundscapes-and-visuals-essentials-for-innovative-asmr-videos-for-2024/"><u>Bridging Soundscapes & Visuals – Essentials for Innovative ASMR Videos for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/download-free-how-to-change-heic-images-to-jpg-format-on-windows-11/"><u>Download Free: How to Change HEIC Images to JPG Format on Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-enhanced-self-service-repair-functionality-by-apple-integrating-remote-diagnostic-tools-for-new-models-like-iphone-15-and-m2-mac-insights-on-zdn154/"><u>Explore the Enhanced Self Service Repair Functionality by Apple, Integrating Remote Diagnostic Tools for New Models Like iPhone 15 and M2 Mac - Insights on ZDNET</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/exploring-the-best-action-cams-gopros-max-and-hero-11-face-off-for-2024/"><u>Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-prevent-logofail-hacking-incidents-and-safeguard-your-computers-cybersecurityhub/"><u>How to Prevent LogoFAIL Hacking Incidents and Safeguard Your Computers | CyberSecurityHub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-microsoft-build-2023-key-announcements-await-how-to-catch-the-action-online-and-expert-insights-from-zdnet/"><u>Inside Microsoft Build 2023: Key Announcements Await, How to Catch the Action Online, and Expert Insights From ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-hp-print-and-scan-now-plan-enough-to-ease-your-frustrations-with-printers-find-out-here/"><u>Is the HP Print and Scan Now Plan Enough to Ease Your Frustrations with Printers? Find Out Here!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lg-dualup-1618-display-experience-a-comprehensive-review-and-personal-transition-story-techinsight/"><u>LG DualUp 16:18 Display Experience - A Comprehensive Review and Personal Transition Story | TechInsight</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-dual-network-connectivity-in-windows-os/"><u>Optimizing Dual Network Connectivity in Windows OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlined-solutions-flawlessly-fix-spotify-malfunctions-on-android-auto-with-13-expert-strategies/"><u>Streamlined Solutions: Flawlessly Fix Spotify Malfunctions on Android Auto With 13 Expert Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-essential-hidden-tools-on-your-mac-unlock-them-for-free/"><u>Ultimate Guide: Essential, Hidden Tools on Your Mac - Unlock Them for Free!</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-protection-expert-recommended-antivirus-apps-for-android-in-2e-certified-secure/"><u>Ultimate Protection: Expert-Recommended Antivirus Apps for Android in 2E, Certified Secure</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-speed-and-precision-with-the-latest-gaming-mice-and-clutch-gladiator-xbox-controller/"><u>Unleash Speed and Precision with the Latest Gaming Mice & Clutch Gladiator Xbox Controller</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-repairability-revolution-in-microsofts-latest-laptop-lineup-outshining-rivals-and-puzzling-apple-the-verdict-by-ifixit-zdnet/"><u>Unveiling the Repairability Revolution in Microsoft's Latest Laptop Lineup, Outshining Rivals and Puzzling Apple – The Verdict by iFixit | ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-adv-screen-recorder-review-for-2024/"><u>[New] ADV Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-breaking-down-how-to-find-your-latest-watched-fb-content/"><u>[New] In 2024, Breaking Down How to Find Your Latest Watched FB Content</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-clear-out-conversations-swiftly-on-your-discord-servers-for-2024/"><u>[Updated] How to Clear Out Conversations Swiftly on Your Discord Servers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-the-best-with-top-windows-11-hd-webcams/"><u>[Updated] In 2024, Capture the Best with Top Windows 11 HD Webcams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unveiling-simple-techniques-for-effortless-undersea-vids/"><u>[Updated] In 2024, Unveiling Simple Techniques for Effortless Undersea Vids</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-designing-your-perfect-tiktok-end-screen/"><u>2024 Approved Designing Your Perfect TikTok End Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290371237-dvd-dvd/"><u>DVDリッピングテクニックとその正当性 - 無害なDVDコピー方法のステップバイステップマニュアル</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-revolutionary-lenovo-yoga-book-9i-the-pioneering-laptop-with-dual-oled-screens-explore-more-on-zdnet/"><u>Experience the Revolutionary Lenovo Yoga Book 9I: The Pioneering Laptop with Dual OLED Screens - Explore More on ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-duplicate-your-instagram-posts/"><u>How to Duplicate Your Instagram Posts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-lenovo-hybrid-laptopandroid-tablet-showdown-assessing-its-capabilities-and-envisioning-its-full-potential-techexplorers-review/"><u>The Lenovo Hybrid Laptop/Android Tablet Showdown: Assessing Its Capabilities & Envisioning Its Full Potential | TechExplorers Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-premium-gaming-ssds-compatible-with-pc-playstation-5-and-xbox-expert-review/"><u>Top 6 Premium Gaming SSDs Compatible with PC, PlayStation 5 & Xbox: Expert Review</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-6-youtube-outro-makers-lots-of-free-options/"><u>Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-choice-lenovo-device-perfectly-tailored-for-remote-office-environments-now-at-a-whopping-60-discount-insider-info/"><u>Top Choice Lenovo Device Perfectly Tailored for Remote-Office Environments Now at a Whopping 60% Discount - Insider Info!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-computers-professional-insights-and-reviews-techadvisor/"><u>Top-Rated Touchscreen Computers: Professional Insights & Reviews - TechAdvisor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-alert-acer-porsche-design-notebooks-now-just-600-save-huge-on-tech-today/"><u>Unbelievable Deal Alert: Acer Porsche Design Notebooks Now Just $600 - Save Huge on Tech Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-ultimate-versatility-discover-the-powerful-yet-portable-8-in-1-charger-that-defies-price-point-expectations/"><u>Unlock Ultimate Versatility: Discover the Powerful Yet Portable 8-in-1 Charger that Defies Price Point Expectations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-acer-swift-edge-ultra-lightweight-4k-oled-laptop-revealed-in-our-comprehensive-review-techsavvy-journal/"><u>Unveiling the Acer Swift Edge: Ultra-Lightweight 4K OLED Laptop Revealed in Our Comprehensive Review | TechSavvy Journal</u></a></li>
 </ul></div>
 

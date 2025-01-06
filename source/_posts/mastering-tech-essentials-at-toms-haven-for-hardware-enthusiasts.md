@@ -1,7 +1,7 @@
 ---
 title: Mastering Tech Essentials at Tom's Haven for Hardware Enthusiasts!
-date: 2024-08-23T12:59:52.269Z
-updated: 2024-08-24T12:59:52.269Z
+date: 2025-01-03T19:01:33.109Z
+updated: 2025-01-05T19:38:12.639Z
 tags:
   - cooling
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/ewfXEyapFUArFcTY8jLs5k-320-80.jpg
 The AIO liquid cooler market has become much more competitive in the past year or so, resulting in stronger products available for lower prices than ever. Over the past year, top-performing AIOs have been available for as low as $120 USD. Today we’ll be covering ID-Cooling’s latest 360mm AIO, the FX360 Pro, which is available for only $60 – a price lower than many high-end air coolers.
 
  With such a budget price tag, I have to wonder if it’s actually strong enough to tame a hot CPU like Intel’s i7-13700K. Does the FX 360 Pro have what it takes to earn a spot on our[best AIO coolers](https://www.tomshardware.com/best-picks/best-aio-coolers) list? We’ll have to put it through testing to find out. But first, here are the specifications from ID-Cooling.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cooler specifications
 
@@ -67,8 +71,9 @@ Included in the box are the following:
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -80,6 +85,10 @@ Included in the box are the following:
  As an AIO does not interfere or overhang DIMM slots in any manner, all sizes of RAM, no matter how tall, are compatible with ID-Cooling’s FX360 Pro. The tubes of the of the AIO are braided and are fully rotatable for ease of installation and setup.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -97,9 +106,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
@@ -142,19 +148,17 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing Methodology, and how my testing differs vs the competition
 
@@ -189,8 +193,9 @@ The top of the CPU black features a reflective black etched metal design.
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -218,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,4 +236,24 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-infuse-personality-into-your-content-with-custom-thumbnails/"><u>[New] Infuse Personality Into Your Content with Custom Thumbnails</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-moto-z2-unpacked-a-smartphones-triumph/"><u>[Updated] 2024 Approved Moto Z2 Unpacked A Smartphone's Triumph</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-battle-of-broadcads-vimeo-and-youtubes-face-off/"><u>2024 Approved The Battle of Broadcads Vimeo & YouTube's Face-Off</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722599126716-asus-chromebook-flip-c302ca-outstanding-budget-laptop-with-remarkable-versatility-reviewed/"><u>Asus Chromebook Flip C302CA: Outstanding Budget Laptop with Remarkable Versatility Reviewed!</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-the-go-best-switch-cart-holder-ideas/"><u>Gaming on the Go: Best Switch Cart Holder Ideas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-to-upgrade-your-viewing-experience-a-highly-acclaimed-samsung-tv-goes-for-an-unbelievable-43-off-heres-why-it-made-our-top-list/"><u>Get Ready to Upgrade Your Viewing Experience: A Highly Acclaimed Samsung TV Goes for an Unbelievable 43% Off - Here's Why It Made Our Top List!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-a-deal-exclusive-150-off-sale-for-the-top-rated-amazon-fire-tv-omnni-series-qled-shop-now/"><u>Get Your Hands on a Deal: Exclusive $150 Off Sale for the Top-Rated Amazon Fire TV Omnni Series QLED – Shop Now!</u></a></li>
+<li><a href="https://win-best.techidaily.com/high-resolution-nike-emblem-graphics-professional-hd-desktop-wallpaper-and-image-collections-by-yl-computing/"><u>High-Resolution Nike Emblem Graphics: Professional HD Desktop Wallpaper & Image Collections by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-lgs-latest-mini-led-television-triumphs-over-the-samsung-g2-oled-for-labor-day-get-300-off-zdnet/"><u>How LG's Latest Mini LED Television Triumphs Over the Samsung G2 OLED for Labor Day – Get $300 Off | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-reflect-iphone-content-onto-your-samsung-television/"><u>How to Reflect iPhone Content Onto Your Samsung Television</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/however-we-found-that-it-was-possible/"><u>However, We Found that It Was Possible,</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-sale-alert-save-150-on-the-amazing-fire-tv-omnia-series-qled-shop-now-on-zdnet/"><u>Huge Sale Alert: Save $150 on the Amazing Fire TV Omnia Series QLED - Shop Now on ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-video-content-for-youtube-and-tiktok-audience/"><u>In 2024, Streamlining Video Content for YouTube and TikTok Audience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-hisense-u8h-4k-television-stunning-picture-quality-at-a-wallet-friendly-price-zdnets-exclusive-review/"><u>In-Depth Analysis of the Hisense U8H 4K Television: Stunning Picture Quality at a Wallet-Friendly Price - ZDNET's Exclusive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-register-now-for-invite-only-amazon-prime-day-savings-top-tips-revealed/"><u>Limited Time Offer: Register Now for Invite-Only Amazon Prime Day Savings - Top Tips Revealed!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211266812-9798890612793-the-magic-in-my-clouds/"><u>The Magic In My Clouds | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-job-with-ai-the-ultimate-guide-to-using-chatgpt-as-a-virtual-secretary/"><u>Transform Your Job with AI: The Ultimate Guide to Using ChatGPT as a Virtual Secretary</u></a></li>
+</ul></div>
 

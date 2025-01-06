@@ -1,7 +1,7 @@
 ---
 title: Reliable PC Part Testing and Breakdown by TomHardwareSolutions
-date: 2024-08-23T13:01:41.923Z
-updated: 2024-08-24T13:01:41.923Z
+date: 2025-01-04T11:17:47.766Z
+updated: 2025-01-06T02:03:55.791Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  Some of her mods are fairly standard, like [KevinAkaSam’s Belt Driven Ender 3](https://www.google.com/url?q=https://kevinakasam.com/belt-driven-ender-3/&sa=D&source=editors&ust=1706372670249864&usg=AOvVaw3nEW6Jb3YCWRV5uldb65-0) , which replaced the Z rods with, you guessed it, belts. This allows the printer to run smooth, straight and precisely in sync.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,6 +47,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
 ![Monika McWuff's Floor Blower](https://cdn.mos.cms.futurecdn.net/GDgqorpMCU3Z3FUsEkxY7H-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Monika McWuff)
 
  There isn’t a lot of the original Ender 3 Pro left, just a few aluminum extrusions and part of the bed, now covered in a sheet of carbon fiber. She uses her stock Ender 3 Pro in a tented enclosure to print ABS parts for the project.
@@ -52,6 +60,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
  The hotend is especially interesting, and can [push plastic faster than silly string](https://www.google.com/url?q=https://www.youtube.com/shorts/W-j%5FVufX8Bs&sa=D&source=editors&ust=1706372670250628&usg=AOvVaw1osH1oGrtM2f44ziC2Gy4g) . It’s a Trianglelab STD6 with a ceramic heating core, two extensions and a .4 CHT Volcano nozzle. A recent test clocked the flow rate at 120mm/s³. She’s hoping to get even more out of it by switching to a CHT V6 extender and a .5 Volcano nozzle.
 
 ![Monika McWuff's Volcano Nozzle](https://cdn.mos.cms.futurecdn.net/b7sgzzmodak4xRtngW2QAL-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Monika McWuff)
 
@@ -63,14 +75,11 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  For reference, a stock [Ender 3 Pro](https://www.google.com/url?q=https://www.tomshardware.com/reviews/creality-ender-3-pro-3d-printer&sa=D&source=editors&ust=1706372670252722&usg=AOvVaw0qAFynSpm2QUCmFSp3enTG) running at it’s normal 50mm/s and using Speed Boat settings can print a Benchy in one hour and four minutes. With high-speed, Klipper firmware installed, the stock machine can comfortably run at 150mm/s and print a Benchy in 42 minutes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,8 +88,22 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-getting-started-with-pro-level-youtube-tech/"><u>[New] 2024 Approved Getting Started with Pro-Level YouTube Tech</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-dance-of-words-crafting-bouncing-text-effects/"><u>[New] Dance of Words Crafting Bouncing Text Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gaming-streams-best-recording-programs-for-2024/"><u>[New] Gaming Streams Best Recording Programs for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289799772-dvd/"><u>如何加入或強制字幕到你的DVD上，方法與提示</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/find-your-perfect-match-2024s-best-ergonomic-keyboards-revealed/"><u>Find Your Perfect Match: 2024'S Best Ergonomic Keyboards Revealed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/precision-at-a-glance-elevate-your-hp-laptop-recording-skills/"><u>Precision at a Glance Elevate Your HP Laptop Recording Skills</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/sincronizacao-de-arquivos-offline-com-o-windows-11-explicado/"><u>Sincronização De Arquivos Offline Com O Windows 11 Explicado</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-guide-to-image-spin-on-your-windows-11-pc/"><u>The Complete Guide to Image Spin on Your Windows 11 PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-ranking-2024-best-car-battery-chargers-tested-by-experts-tech-insights-on-zdnet/"><u>Ultimate Ranking: 2024 Best Car Battery Chargers Tested by Experts | Tech Insights on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-superior-benefits-with-the-premium-american-airlines-citi-aadvantage-platinum-select-mastercard-reviews-and-insights/"><u>Uncovering Superior Benefits with the Premium American Airlines Citi® / AAdvantage Platinum Select Mastercard - Reviews & Insights.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-recent-updates-to-ev-tax-breaks-who-meets-the-new-requirements/"><u>Understanding the Recent Updates to EV Tax Breaks - Who Meets the New Requirements?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-united-airlines-request-for-additional-charges-detailed-breakdown/"><u>Understanding United Airlines' Request for Additional Charges | Detailed Breakdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/undisclosed-issues-plague-southwest-airlines-what-passengers-should-be-aware-of/"><u>Undisclosed Issues Plague Southwest Airlines: What Passengers Should Be Aware Of</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/united-states-flight-operations-grounded-due-to-federal-aviation-authority-glitch-comprehensive-overview-technews-today/"><u>United States Flight Operations Grounded Due To Federal Aviation Authority Glitch: Comprehensive Overview | TechNews Today</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722983449220-unveiling-fact-from-fiction-assassins-creed-valhalla-arrival-timeline-confirmed/"><u>Unveiling Fact From Fiction: Assassin's Creed Valhalla Arrival Timeline Confirmed</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

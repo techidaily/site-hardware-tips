@@ -1,7 +1,7 @@
 ---
 title: How These Featherlight Computers Blew My Mind and Outshined the Iconic MacBook Air | ZDNet Review
-date: 2024-12-22T23:14:37.255Z
-updated: 2024-12-28T00:10:22.902Z
+date: 2025-01-05T03:07:00.074Z
+updated: 2025-01-05T20:36:05.578Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -132,24 +132,15 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-seamless-facebook-live-experience-combat-interruptions/"><u>[New] Seamless Facebook Live Experience Combat Interruptions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-mastering-tiktok-integrating-audio-narration-with-videos-for-2024/"><u>[Updated] Mastering TikTok Integrating Audio Narration with Videos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-s3700-blu-ray-box-player-fresh-perspective-for-2024/"><u>[Updated] S3700 Blu-Ray Box Player - Fresh Perspective for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazing-display-quality-of-innocn-27c1u-a-detailed-4k-monitor-evaluation-on-zdnet/"><u>Amazing Display Quality of Innocn 27C1U - A Detailed 4K Monitor Evaluation on ZDNet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/avatar-asymmetry-artistry-designing-your-animated-look-for-2024/"><u>Avatar Asymmetry Artistry Designing Your Animated Look for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deciding-between-apples-powerhouses-comparing-mac-studio-mac-pro-and-mac-mini-for-optimal-performance-zdnet/"><u>Deciding Between Apple's Powerhouses: Comparing Mac Studio, Mac Pro & Mac Mini for Optimal Performance (ZDNET)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-work-travel-companion-a-superior-alternative-to-microsoftlenovo-tablets-featured-in-zdnet-testing/"><u>Discover the Ultimate Work Travel Companion: A Superior Alternative to Microsoft/Lenovo Tablets - Featured in ZDNet Testing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-linuxone-4-express-is-ibms-economical-mainframe-the-perfect-choice-for-your-business-a-deep-dive-by-zdnet/"><u>Discovering LinuxONE 4 Express: Is IBM's Economical Mainframe the Perfect Choice for Your Business? - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-methods-for-restricting-video-sharing-sites-on-apple-tablets/"><u>Effective Methods for Restricting Video Sharing Sites on Apple Tablets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-look-at-the-quietest-gaming-mice-of-2024-in-depth-zdnet-ratings-and-expert-analysis/"><u>Exclusive Look at the Quietest Gaming Mice of 2024: In-Depth ZDNET Ratings and Expert Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gifting-ideas-alert-discover-14-trending-tiktok-kitchen-essentials-to-impress-your-favorite-chefs/"><u>Gifting Ideas Alert! Discover 14 Trending TikTok Kitchen Essentials to Impress Your Favorite Chefs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-crucials-powerful-overclocked-c36-ddr5-memory-sticks-the-road-back-to-enhanced-performance/"><u>In-Depth Analysis of Crucial's Powerful Overclocked C36 DDR5 Memory Sticks: The Road Back to Enhanced Performance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-googles-calling-app-features/"><u>In-Depth Evaluation of Google's Calling App Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-key-to-printing-bliss-inside-hps-latest-subscription-offer-what-you-need-to-know-before-switching/"><u>Is the Key to Printing Bliss Inside HP's Latest Subscription Offer: What You Need to Know Before Switching</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-apple-self-repair-feature-introducing-remote-diagnostics-for-iphone-15-and-m2-mac-pro-exclusive-insights-from-zdnet/"><u>New Apple Self-Repair Feature: Introducing Remote Diagnostics for iPhone 15 & M2 Mac Pro – Exclusive Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-systems-expert-tips-on-preventing-logofail-vulnerabilities-zdnet/"><u>Secure Your Systems: Expert Tips on Preventing LogoFAIL Vulnerabilities | ZDNet</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/conomics-of-t-series-a-deep-dive-into-youtube-earnings/"><u>The Economics of T-Series A Deep Dive Into YouTube Earnings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-2022-review-of-secretlabs-titan-evo-leading-gaming-chair-contender-pcgamerinsights/"><u>Unveiling the Latest: 2022 Review of Secretlab's Titan Evo - Leading Gaming Chair Contender | PCGamerInsights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-11-best-free-youtube-name-generators-you-should-know/"><u>[Updated] 2024 Approved 11 Best Free YouTube Name Generators You Should Know</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cut-the-cord-with-youtube-mp3-conversion-tools/"><u>[Updated] Cut the Cord with YouTube-MP3 Conversion Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-software-to-convert-your-cds-on-windows-11-top-3-picks-with-complete-downloads/"><u>Best Free Software to Convert Your CDs on Windows 11 : Top 3 Picks with Complete Downloads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fresh-chromeos-upgrade-introduces-windows-11-features-to-your-chromebook-insights/"><u>Fresh ChromeOS Upgrade Introduces Windows 11 Features to Your Chromebook - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/harnessing-power-efficiency-and-versatility-the-ultimate-guide-to-a-game-changing-12-in-1-thunderbolt-dock-tailored-for-windows-users-zdnet-revealed/"><u>Harnessing Power Efficiency & Versatility: The Ultimate Guide to a Game-Changing 12-in-1 Thunderbolt Dock Tailored for Windows Users (ZDNet Revealed)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-frames-with-top-rated-tools-24-for-2024/"><u>Mastering the Art of Frames with Top-Rated Tools '24 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-savings-with-metas-exclusive-quest-3-deal-featured-as-the-premier-october-prime-day-discount-by-zdnet/"><u>Secure Your Savings with Meta's Exclusive Quest 3 Deal – Featured as the Premier October Prime Day Discount by ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-v30-lite-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo V30 Lite 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exceptional-value-with-samsung-copilotplus-a-must-read-review-of-the-top-windows-laptop-deals-on-zdnet/"><u>Unlock Exceptional Value with Samsung Copilot+: A Must-Read Review of the Top Windows Laptop Deals on ZDNET!</u></a></li>
 </ul></div>
 

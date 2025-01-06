@@ -1,7 +1,7 @@
 ---
 title: Discover Tom's Hardware Reviews and Insights Online
-date: 2024-08-23T12:58:06.555Z
-updated: 2024-08-24T12:58:06.555Z
+date: 2025-01-01T08:52:15.133Z
+updated: 2025-01-05T19:08:50.613Z
 tags:
   - cooling
 categories:
@@ -48,6 +48,10 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/HBEL4vNSov3znrPrC4pAqX-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 * [ID-Cooling FX360 Pro 360mm AIO at Amazon for $59.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FID-COOLING-FX360-PRO-Cooler-360mm%2Fdp%2FB0CZMPHCPG%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1232051116226633791-20)
@@ -64,7 +68,15 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Features of ID-Cooling’s FX 360 Pro
 
@@ -79,8 +91,9 @@ Included in the box are the following:
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -103,9 +116,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -121,6 +131,10 @@ The top of the CPU black features a reflective black etched metal design.
  I say this on almost every cooler review, but there’s more to a cooler than just the heatsink or radiator. The bundled fans have a significant impact on cooling and noise levels, as well as how the cooler looks in your case.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -142,9 +156,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ## LGA1700 Socket Bending
@@ -153,9 +164,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -188,9 +196,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -218,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,4 +236,24 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-screen-recording-the-benefits-of-using-bandicam/"><u>[New] In 2024, Mastering Screen Recording The Benefits of Using Bandicam</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-facetunes-new-features-review-and-walkthrough/"><u>2024 Approved Unveiling Facetune's New Features Review and Walkthrough</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-2024-showcases-massive-savings-on-premium-nvidia-gaming-laptops-find-your-perfect-match-according-to-zdnet/"><u>Amazon Prime Day 2024 Showcases Massive Savings on Premium NVIDIA Gaming Laptops – Find Your Perfect Match According to ZDNET</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/audio-capturing-in-android-without-rooting-guide/"><u>Audio Capturing in Android - Without Rooting [Guide]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-a-close-to-ideal-computer-powerhouse-for-only-3600-in-depth-analysis-by-zdnet/"><u>Exploring a Close-to-Ideal Computer Powerhouse for Only $3,600! In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/immerse-yourself-in-lifelike-3d-artwork-directly-from-your-new-asus-laptop-screen-sans-vrar-wearables-insights-available-at-zdnet/"><u>Immerse Yourself in Lifelike 3D Artwork Directly From Your New Asus Laptop Screen, Sans VR/AR Wearables – Insights Available at ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-sonys-console-controller-into-pcmac-setup/"><u>Integrating Sony's Console Controller Into PC/Mac Setup</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/microsoft-reveals-why-engineers-are-enthralled-by-windows-11-tech-news-digest/"><u>Microsoft Reveals: Why Engineers Are Enthralled by Windows 11 | Tech News Digest</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mov-a-m4a-conversion-en-ligne-gratuite-par-movavi-assistance-rapide-et-facile/"><u>MOV À M4A : Conversion en Ligne Gratuite Par Movavi | Assistance Rapide Et Facile</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-major-savings-dont-miss-these-amazing-best-buy-offers-for-the-upcoming-oct-24-prime-day-shopping-extravaganza/"><u>Score Major Savings! Don't Miss These Amazing Best Buy Offers for the Upcoming Oct '24 Prime Day Shopping Extravaganza!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smoothly-alter-color-grades-with-luts-abroad/"><u>Smoothly Alter Color Grades with LUTs, Abroad</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-data-resurrection-story/"><u>Stellar's Data Resurrection Story</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-downloading-and-updating-your-mbox-ter-for-windows-systems/"><u>Step-by-Step Instructions: Downloading & Updating Your MBox Ter for Windows Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-98-must-have-steals-on-cyber-monday-2022-insider-picks-from-zdnet/"><u>Top 98 Must-Have Steals on Cyber Monday 2022: Insider Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-windows-laptop-picks-for-2e24-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Windows Laptop Picks for 2E24: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-chromebook-for-education-authoritative-expert-reviews-gizmotech-blog/"><u>Ultimate Guide to Choosing the Best Chromebook for Education: Authoritative Expert Reviews | GizmoTech Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/winter-woes-understanding-why-your-ios-devices-may-lose-charge-during-the-cold-season-insights-from-zdnet/"><u>Winter Woes: Understanding Why Your iOS Devices May Lose Charge During the Cold Season - Insights From ZDNet</u></a></li>
+</ul></div>
 

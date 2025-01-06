@@ -1,7 +1,7 @@
 ---
 title: "Encode High Capacity Data on Everyday Plastics: Discovering the Potential of 3D-Printed Holographic Storage"
-date: 2024-08-23T12:58:58.444Z
-updated: 2024-08-24T12:58:58.444Z
+date: 2025-01-04T07:05:50.825Z
+updated: 2025-01-06T03:22:51.370Z
 tags:
   - printer
 categories:
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
 
  3D printing has quickly changed over the years since it was first introduced. Today, we are getting[metal 3D printers in the International Space Station](https://www.tomshardware.com/3d-printing/the-international-space-station-is-getting-the-first-metal-3d-printer-made-for-space-designed-by-airbus-and-the-esa) that can print tools and parts needed for moon and Mars missions, as well as[cheap $77 AliExpress 3D printers](https://www.tomshardware.com/3d-printing/dollar77-3d-printer-from-aliexpress-is-actually-usable-reviewer-says) that let you start making your own builds at a fraction of the cost. We’ve even seen affordable new 3D printers that are[large enough to print a small child](https://www.tomshardware.com/3d-printing/elegoo-making-3d-printer-large-enough-to-print-a-toddler) . If this project makes it to retail, then, soon enough, we’ll have a 3D printer you can fit in your pocket.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,14 +49,11 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,8 +62,26 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-dynamic-youtube-content-as-animated-gifs-without-downloads/"><u>[New] 2024 Approved Crafting Dynamic YouTube Content as Animated GIFs Without Downloads</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-digital-canvas-delight-premier-apps-for-ipados-artistry/"><u>[New] 2024 Approved Digital Canvas Delight Premier Apps for iPadOS Artistry</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-top-screen-picks-for-professional-image-enhancers/"><u>[New] In 2024, Top Screen Picks for Professional Image Enhancers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-master-your-media-comprehensive-guide-to-instagram-converters-windowsmac/"><u>[Updated] 2024 Approved Master Your Media Comprehensive Guide to Instagram Converters (Windows/Mac)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-october-prime-day-deal-apple-m2-macbook-air-available-at-749-exclusive-insights-from-zdnet/"><u>Amazon's October Prime Day Deal: Apple M2 MacBook Air Available at $749 - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/complete-tutorial-for-implementing-the-arctic-zephyr-2-design-into-kodi-environment/"><u>Complete Tutorial for Implementing the Arctic Zephyr 2 Design Into Kodi Environment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciding-between-apples-latest-tech-marvels-in-depth-analysis-of-m3-and-m2-macbook-air-options-for-consumers/"><u>Deciding Between Apple's Latest Tech Marvels: In-Depth Analysis of M3 & M2 MacBook Air Options for Consumers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-festive-bargains-apple-devices-smart-tvs-and-high-performance-laptops-save-big-this-season-expert-tips/"><u>Discover the Ultimate Festive Bargains: Apple Devices, Smart TVs, and High-Performance Laptops - Save Big This Season | Expert Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-why-chromebooks-are-ideal-for-daily-computing-needs-a-comparative-guide/"><u>Discover Why Chromebooks Are Ideal for Daily Computing Needs - A Comparative Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-birds-guide-to-the-greatest-buy-out-prices-preceding-prime-day-2eek-june-2023/"><u>Early Bird's Guide to the Greatest Buy-Out Prices Preceding Prime Day 2Eek, June 2023</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effective-strategies-to-avoid-pc-issues-on-windows-expert-advice-by-yl-computing/"><u>Effective Strategies to Avoid PC Issues on Windows - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-labor-day-promotions-on-dell-electronics-school-supplies-including-monitors-and-laptops-tech/"><u>Exclusive Labor Day Promotions on Dell Electronics: School Supplies Including Monitors & Laptops Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-10-top-value-hd-cameras-for-extreme-sports/"><u>In 2024, 10 Top Value HD Cameras for Extreme Sports</u></a></li>
+<li><a href="https://media-tips.techidaily.com/lyrics-re-available-on-spotify-for-basic-users-at-zero-additional-charge/"><u>Lyrics Re-Available on Spotify for Basic Users at Zero Additional Charge!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-a-guide-to-playing-modern-warfare-successfully-on-a-pc/"><u>Overcoming Launch Problems: A Guide to Playing Modern Warfare Successfully on a PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-hp-victus-15-pro-at-an-unbelievable-price-of-530-dont-miss-out-on-our-in-depth-review-and-prime-day-blowout/"><u>Secure Your HP Victus 15 Pro at an Unbelievable Price of $530! Don't Miss Out on Our In-Depth Review & Prime Day Blowout!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-guide-to-professional-thumbnail-dimensions-for-youtube-for-2024/"><u>The Essential Guide to Professional Thumbnail Dimensions for YouTube for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-budget-laptops-(1k-comprehensive-expert-reviews/"><u>Top-Ranking Budget Laptops (<$1K) - Comprehensive Expert Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-bargain-alert-snag-an-asus-laptop-for-a-sweet-99-before-time-runs-out-zdnet/"><u>Unmissable Bargain Alert! Snag an Asus Laptop for a Sweet $99 Before Time Runs Out | ZDNET</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

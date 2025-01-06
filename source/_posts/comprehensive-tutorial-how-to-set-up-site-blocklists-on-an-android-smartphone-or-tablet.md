@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: How to Set Up Site Blocklists on an Android Smartphone or Tablet"
-date: 2024-09-05T21:29:47.727Z
-updated: 2024-09-06T21:29:47.727Z
+date: 2025-01-01T00:13:35.771Z
+updated: 2025-01-06T06:35:33.342Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b136dab287938aeaf206fdd815.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comprehensive Tutorial: How to Set Up Site Blocklists on an Android Smartphone or Tablet
 
 ### Quick Links
@@ -22,18 +16,6 @@ thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b13
 * [Block Websites on Android With a Third-Party App](https://screen-mirror.techidaily.com/best-3-infinix-hot-40-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/)
 * [Block a Website on Android Without an App](https://extra-approaches.techidaily.com/updated-pivotal-ideas-in-tech-driven-story-weaving/)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
  To block websites on Android, install a third-party app like BlockSite, or use Mozilla Firefox as your browser and get a website-blocking add-on. Switching to a custom DNS server will also block a wide swath of time-wasting and inappropriate websites at once for all Android browsers.
@@ -41,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b13
  Do you want to [block a specific site so it won't distract you](https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-15-plus-how-to-fix-by-drfone-ios/) when you're working? Or maybe you want to restrict access to inappropriate sites? You can block websites on Android either with or without a dedicated app, and we'll show you how to do both.
 
 Related: [How to Stop Annoying Website Notifications in Chrome on Android](https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-15-plus-how-to-fix-by-drfone-ios/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Block Websites on Android With a Third-Party App
 
@@ -54,18 +40,6 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 
 ![Select "Blocklist" and tap "+."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/1-blocksite-add-site.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the "Add Sites/Apps" screen, at the top, tap the text field and type the URL (web link) to the site you want to block. For example, to block 
 
         `wikipedia.org`
@@ -80,12 +54,6 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 
 ![Specify the sites and tap "Done."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/2-blocksite-specify-site.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Done" in the prompt.
 
 ![Choose "Done" in the prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/3-blocksite-site-added.png) 
@@ -102,22 +70,10 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 
 ![Configure the block schedule.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/5-blocksite-configure-schedule.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's all there is to it. Your specified sites are now inaccessible in your phone's web browsers. If you try to access one of those sites, you'll see a message from BlockSite instead of the actual site content.
 
 ![BlockSite's message for a blocked site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/6-blocksite-blocked-site.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Block a Website on Android Without an App
 
  If you don't wish to use a third-party app to block sites on your Android phone, you can either restrict website access inside Mozilla Firefox or put a blanket ban on adult sites using custom DNS servers.
@@ -132,6 +88,10 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 
 ![Select "Add-Ons" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/7-firefox-mobile-add-ons.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the "Add-Ons" page, next to the "LeechBlock NG" add-on, tap the "+" (plus) option.
 
 ![Install the "LeechBlock NG" add-on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/8-firefox-mobile-add-leechblock-add-on.png) 
@@ -141,42 +101,40 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 ![Select "Add" in the bottom-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/9-firefox-mobile-install-leechblock-add-on.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the add-on is installed, select "Okay, Got It."
 
 ![Choose "Okay, Got It."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/10-firefox-mobile-leechblock-add-on-added.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Access Firefox's "Add-Ons" page by tapping the three dots in the browser's top-right corner and choosing "Add-Ons."
 
  Then, tap "LeechBlock NG."
 
 ![Select "LeechBlock NG."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/11-firefox-mobile-open-leechblock-add-on.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select "Settings."
 
 ![Choose "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/12-firefox-mobile-leechblock-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tap the large text field and enter the site URLs you want to block. Specify the schedule for when these sites should remain blocked.
 
  Then, scroll down the page and tap "Save Options & Close."
 
 ![Specify the sites to block and tap "Save Options & Close."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/13-firefox-mobile-block-sites.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that's it.
 
@@ -185,11 +143,9 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 Related: [How to Block Facebook (or Any Distracting Website)](https://some-approaches.techidaily.com/updated-the-alliance-formula-youtube-partnerships-with-brands/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Use Custom DNS Servers to Block Adult Sites
 
  If you're looking to put a blanket ban on websites containing adult content, pirated media, and malware on your Android phone, [use OpenDNS' free FamilyShield DNS servers](https://instagram-clips.techidaily.com/new-becoming-a-master-of-instagram-auditory-aesthetics/). These servers ensure your phone doesn't load those kinds of websites on your local network.
@@ -203,11 +159,9 @@ Related: [How to Block Facebook (or Any Distracting Website)](https://some-appro
 ![Tap "Wi-Fi."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/14-samsung-wi-fi-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next to the Wi-Fi network you're connected to, tap the gear icon.
 
  You'll have to specify these DNS servers for each Wi-Fi network you use. Android won't automatically apply these servers to all your wireless networks.
@@ -242,8 +196,6 @@ Related: [How to Set App Time Limits and Block Apps on Android](https://eaxpv-in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,4 +203,22 @@ Related: [How to Set App Time Limits and Block Apps on Android](https://eaxpv-in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-amazon-primes-trending-series-twitters-choice-2023-for-2024/"><u>[New] Amazon Prime's Trending Series - Twitter's Choice, 2023 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-echo-chambers-tech-updates/"><u>[New] Echo Chambers Tech Updates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-soundscape-journeys-with-seamless-audacity-mixes/"><u>[Updated] 2024 Approved Crafting Soundscape Journeys with Seamless Audacity Mixes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-effortlessly-record-circles-iphone-techniques-for-fb-feed/"><u>2024 Approved Effortlessly Record Circles IPhone Techniques for FB Feed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/from-business-idea-to-boardroom-on-instagram/"><u>From Business Idea to Boardroom on Instagram</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oneplus-ace-3-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from OnePlus Ace 3 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-ai-powered-inkjet-smart-sprinkler-cutting-down-on-water-consumption-with-zeal/"><u>Innovative AI-Powered Inkjet Smart Sprinkler: Cutting Down on Water Consumption with Zeal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-revolutionary-slim-9i-a-pioneering-leap-as-the-first-ever-carbon-neutral-certified-laptop-explore-more-on-zdnet/"><u>Introducing Lenovo's Revolutionary Slim #9I: A Pioneering Leap as the First-Ever Carbon Neutral Certified Laptop - Explore More on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/iphone-component-reuse-policy-apple-now-permits-refurbished-pieces-in-select-repair-work/"><u>IPhone Component Reuse Policy: Apple Now Permits Refurbished Pieces in Select Repair Work</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/join-ubers-eco-friendly-initiative-track-your-carbon-footprint-reduction-with-the-latest-riders-emission-tracker/"><u>Join Uber's Eco-Friendly Initiative: Track Your Carbon Footprint Reduction with the Latest Riders Emission Tracker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leveraging-insights-from-the-paris-olympics-for-sustainable-energy-practices-in-upcoming-games/"><u>Leveraging Insights From the Paris Olympics for Sustainable Energy Practices in Upcoming Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/making-the-switch-to-latest-smartphone-model-learn-how-to-responsibly-recycle-or-donate-your-previous-handset/"><u>Making the Switch to Latest Smartphone Model? Learn How to Responsibly Recycle or Donate Your Previous Handset</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-work-with-zendures-superbase-pro-2000-a-comprehensive-hands-on-review-for-ultimate-efficiency/"><u>Master Your Work with Zendure's Superbase PRO 2000: A Comprehensive Hands-On Review for Ultimate Efficiency</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-clearing-the-dns-resolver-cache-on-ubuntu-systems/"><u>Step-by-Step Guide: Clearing the DNS Resolver Cache on Ubuntu Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasforma-i-tuoi-video-wma-in-m4a-per-free-con-la-guida-passo-passo-di-movavi-online/"><u>Trasforma I Tuoi Video WMA in M4A per Free Con La Guida Passo-Passo Di Movavi Online</u></a></li>
+</ul></div>
 
