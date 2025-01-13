@@ -1,7 +1,7 @@
 ---
 title: Navigating the Digital Labyrinth with Tom'n'Tech Wisdom - Hardware Edition
-date: 2024-08-19T04:00:54.375Z
-updated: 2024-08-20T04:00:54.375Z
+date: 2025-01-11T21:51:38.039Z
+updated: 2025-01-13T01:24:54.211Z
 tags:
   - cooling
 categories:
@@ -42,11 +42,19 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Packing and included contents
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/HBEL4vNSov3znrPrC4pAqX-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -78,9 +86,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -97,14 +102,15 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -114,9 +120,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶[**TF-12025-Pro 120mm fans**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FID-COOLING-120mm-Cooler-Radiator-Chassis%2Fdp%2FB0BV8ZRJMW%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1257997566399542543-20)
@@ -145,10 +148,11 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## LGA1700 Socket Bending
 
@@ -156,10 +160,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -192,6 +192,10 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -219,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -237,4 +236,22 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-content-for-success-a-step-by-step-channel-guide/"><u>[New] 2024 Approved Crafting Content for Success A Step-by-Step Channel Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-beyond-marketing-honest-review-of-recordcast/"><u>[Updated] 2024 Approved Beyond Marketing Honest Review of RecordCast</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ghostly-glimpses-video-review/"><u>[Updated] In 2024, Ghostly Glimpses Video Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-achieve-and-share-your-most-lengthy-instagram-videos/"><u>[Updated] In 2024, How to Achieve and Share Your Most Lengthy Instagram Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huawei-matebook-x-pro-unveiled-a-matchup-against-the-leading-ultraportable-laptops-reviewed-by-zdnet/"><u>Huawei MateBook X Pro Unveiled - A Matchup Against the Leading Ultraportable Laptops Reviewed by ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-apple-iphone-12-pro-max-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for Apple iPhone 12 Pro Max and Android Phones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/inconsistent-stellar-video-editing-results/"><u>Inconsistent Stellar Video Editing Results</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/iphoneipad-probleme-losungen-fur-den-fehler-kein-nutzer-gefunden-in-airdrop/"><u>IPhone/iPad-Probleme: Lösungen Für Den Fehler Kein Nutzer Gefunden in AirDrop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-on-cyber-monday-get-the-ultra-thin-and-sleek-lg-gram-17-for-a-steal-save-400-now-at-zdnets-exclusive-deals/"><u>Massive Discount on Cyber Monday: Get the Ultra-Thin and Sleek LG Gram 17 for a Steal - Save $400 Now at ZDNet's Exclusive Deals!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-reverting-from-windows-11-back-to-windows-10-with-essential-considerations-insights-by-zdnet/"><u>Step-by-Step Guide: Reverting From Windows 11 Back to Windows 10 with Essential Considerations - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-macbook-pro-m3-max-unveiled-how-apple-secured-its-position-with-a-superior-pro-artificial-intelligence-laptop/"><u>Top Rated MacBook Pro (M3 Max) Unveiled: How Apple Secured Its Position with a Superior Pro Artificial Intelligence Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-microphones-expert-picks/"><u>Top-Rated Streaming Microphones : Expert Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-mobile-device-into-an-extra-monitor-with-this-smart-laptop-docking-station-featuring-the-latest-review/"><u>Transform Your Mobile Device Into an Extra Monitor with This Smart Laptop Docking Station - Featuring the Latest Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-savings-discover-the-best-44-deals-for-storing-your-data-this-festive-season-including-ssd-bargains-guide-2023/"><u>Ultimate Savings: Discover the Best 44 Deals for Storing Your Data This Festive Season, Including SSD Bargains! Guide 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-ai-sidekick-reigns-supreme-for-developers-github-copilot-or-chatgpt/"><u>Which AI Sidekick Reigns Supreme for Developers? GitHub Copilot or ChatGPT?</u></a></li>
+</ul></div>
 

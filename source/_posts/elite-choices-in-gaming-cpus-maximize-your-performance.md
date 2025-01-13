@@ -1,7 +1,7 @@
 ---
 title: "Elite Choices in Gaming CPUs: Maximize Your Performance"
-date: 2024-08-19T04:02:25.521Z
-updated: 2024-08-20T04:02:25.521Z
+date: 2025-01-06T19:49:47.321Z
+updated: 2025-01-12T22:28:58.742Z
 tags:
   - best-picks
 categories:
@@ -21,6 +21,10 @@ The[Raspberry Pi](https://www.tomshardware.com/news/raspberry-pi) is an awesome 
  The release of the[Raspberry Pi 5](https://www.tomshardware.com/reviews/raspberry-pi-5) surprised many, including HAT and addon creators who are working to patch their boards for use with the latest Raspberry Pi. The issues that they face are two-fold. Firstly there are changes to how[Python works on the Debian 12 Bookworm-based OS](https://www.tomshardware.com/how-to/install-python-modules-raspberry-pi) . The changes boil down to that we can no longer install Python modules directly to the OS. Instead we need to install into[virtual environments.](https://www.tomshardware.com/how-to/install-python-modules-raspberry-pi) Secondly, due to the new RP1 chip, how the GPIO is accessed has changed. This has lead to many HATs being incompatible with the Pi 5, for now. Progress is being made by developers who maintain the software behind our favorite boards.
 
  Raspberry Pi has released the first HAT+ standard board[ \[PDF\]](https://datasheets.raspberrypi.com/hat/hat-plus-specification.pdf) , the[[PDF]](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review) . But we are still some way from a wave of new boards that will use this standard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Raspberry Pi HAT Shopping Tips
 
@@ -48,15 +52,24 @@ When buying a Raspberry Pi HAT, ask yourself these questions:
 11. Adafruit Capacitive Touch HAT
 12. Raspberry Pi M.2 HAT+
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Raspberry Pi HATs
 
 ![Pimoroni Inventor HAT Mini](https://cdn.mos.cms.futurecdn.net/Pdgb5CBBk68VjxQGeN8GFE-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Pimoroni Inventor HAT Mini
 
 Best General Purpose Raspberry Pi HAT
@@ -113,9 +126,6 @@ Simple Python module
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Build HAT
 
 Best Raspberry Pi HAT for Lego Projects
@@ -175,9 +185,14 @@ Incompatible with some HATs
 ![Pimoroni IO Expander](https://cdn.mos.cms.futurecdn.net/SQrSEuZVAMiyJb8SAwwfkB-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Pimoroni IO Expander  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Pimoroni IO Expander
 
@@ -226,9 +241,14 @@ Add 14 GPIO pins
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/m7hyCqNXZXwVbdfCjGR8wb-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Pimoroni)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Pimoroni Picade X HAT
 
@@ -320,14 +340,8 @@ Works with Python and Scratch
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/nnELAU9czPx2B3uyGbnzPc-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Pimoroni)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Pimoroni Breakout Garden
 
  Best Raspberry Pi HAT for Using Multiple Sensors
@@ -366,14 +380,8 @@ Breakout I2C boards can be expensive
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/k2TyrkgDpqcA5UXZ9HNXdc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Raspberry Pi Trading)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 7\. Raspberry Pi PoE HAT
 
  Best Raspberry Pi HAT for Power over Ethernet
@@ -464,6 +472,10 @@ Initial purchase is expensive
 
  (Image credit: Les Pounder)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9\. Cyntech Pibrella
 
 Best Raspberry Pi HAT for Younger Makers
@@ -508,18 +520,6 @@ Designed for older Raspberry Pi
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/SaHprzZd3GTCwshUTz5Eyc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Adafruit)
 
 ### 10\. Adafruit Perma-Proto HAT
@@ -562,14 +562,8 @@ Expensive for multiple boards
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/sXxxJqFKieeChEYF2U6z4d-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Adafruit)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### 11\. Adafruit Capacitive Touch HAT
 
  Best Raspberry Pi HAT for Inspiring Creativity
@@ -660,9 +654,6 @@ Plastic screws GPIO access is awkward
 
 **Read:** [Raspberry Pi M.2 HAT+ Review](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Finding Discounts on the Best Raspberry Pi HATs
 
  Whether you're shopping for one of the best Raspberry Pi HATs or one that didn't quite make our list, you may find savings by checking out the latest[SparkFun promo codes](https://www.tomshardware.com/coupons/sparkfun.com) ,[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) ,[Amazon promo codes](https://www.tomshardware.com/coupons/amazon.com) or[Micro Center coupons](https://www.tomshardware.com/coupons/category/ssds-motherboards-and-hardware) .
@@ -721,8 +712,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -730,4 +719,21 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-unite-chords-and-visuals-on-powerpoint-for-2024/"><u>[New] Unite Chords and Visuals on PowerPoint for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-ventures-steps-for-monetizing-content/"><u>[New] YouTube Ventures Steps for Monetizing Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-gotomeet-pc-and-mobile-recording-tutorial/"><u>[Updated] 2024 Approved Capturing GoToMeet PC & Mobile Recording Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-quickly-transform-sluggish-videos-on-android/"><u>[Updated] 2024 Approved Quickly Transform Sluggish Videos on Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-efficient-techniques-to-record-your-idevice/"><u>2024 Approved Efficient Techniques to Record Your iDevice</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-elevate-your-earnings-on-social-media-youtube-mastery-on-the-networking-powerhouse/"><u>2024 Approved Elevate Your Earnings on Social Media YouTube Mastery on the Networking Powerhouse</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-laptop-steals-the-spotlight-at-best-buys-flash-sale-just-99-dollars-away/"><u>ASUS Laptop Steals the Spotlight at Best Buy's Flash Sale – Just 99 Dollars Away</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-unveils-latest-laptops-and-chromebooks-for-seamless-hybrid-working-environments-explore-the-innovation-tech-news/"><u>HP Unveils Latest Laptops and Chromebooks for Seamless Hybrid Working Environments - Explore the Innovation | Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-savings-on-cyber-monday-2022-razer-blade-14-laptops-slashed-by-920-find-the-best-deal/"><u>Massive Savings on Cyber Monday 2022: Razer Blade 14 Laptops Slashed by $920 - Find the Best Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-setup-for-laptop-to-tv-connection-expert-advice/"><u>Quick Setup for Laptop-to-TV Connection: Expert Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-tech-budget-grab-the-ultimate-multi-device-charger-at-35-off-today-a-must-have-hub-for-gadgets-lovers/"><u>Slash Your Tech Budget: Grab the Ultimate Multi-Device Charger at 35% Off Today! - A Must-Have Hub for Gadgets Lovers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-anker-powercoreplus-26800b-battery-kit-breakdown-and-performance-testing/"><u>The Ultimate Anker PowerCore+ 26800B Battery Kit Breakdown and Performance Testing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-power-banks-for-macbook-pro-expert-picks-and-reviews/"><u>Top Recommended Power Banks for MacBook Pro: Expert Picks and Reviews</u></a></li>
+</ul></div>
 

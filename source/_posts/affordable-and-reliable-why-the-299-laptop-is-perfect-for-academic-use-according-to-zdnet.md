@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Reliable: Why the $299 Laptop Is Perfect for Academic Use, According to ZDNET"
-date: 2024-12-31T13:15:57.988Z
-updated: 2025-01-05T17:42:25.793Z
+date: 2025-01-06T20:53:53.939Z
+updated: 2025-01-13T03:22:35.520Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,22 +77,19 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-adv-screen-recorder-review-for-2024/"><u>[New] ADV Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-breaking-down-how-to-find-your-latest-watched-fb-content/"><u>[New] In 2024, Breaking Down How to Find Your Latest Watched FB Content</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-clear-out-conversations-swiftly-on-your-discord-servers-for-2024/"><u>[Updated] How to Clear Out Conversations Swiftly on Your Discord Servers for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-the-best-with-top-windows-11-hd-webcams/"><u>[Updated] In 2024, Capture the Best with Top Windows 11 HD Webcams</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unveiling-simple-techniques-for-effortless-undersea-vids/"><u>[Updated] In 2024, Unveiling Simple Techniques for Effortless Undersea Vids</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-designing-your-perfect-tiktok-end-screen/"><u>2024 Approved Designing Your Perfect TikTok End Screen</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290371237-dvd-dvd/"><u>DVDリッピングテクニックとその正当性 - 無害なDVDコピー方法のステップバイステップマニュアル</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-revolutionary-lenovo-yoga-book-9i-the-pioneering-laptop-with-dual-oled-screens-explore-more-on-zdnet/"><u>Experience the Revolutionary Lenovo Yoga Book 9I: The Pioneering Laptop with Dual OLED Screens - Explore More on ZDNet</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-duplicate-your-instagram-posts/"><u>How to Duplicate Your Instagram Posts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-lenovo-hybrid-laptopandroid-tablet-showdown-assessing-its-capabilities-and-envisioning-its-full-potential-techexplorers-review/"><u>The Lenovo Hybrid Laptop/Android Tablet Showdown: Assessing Its Capabilities & Envisioning Its Full Potential | TechExplorers Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-premium-gaming-ssds-compatible-with-pc-playstation-5-and-xbox-expert-review/"><u>Top 6 Premium Gaming SSDs Compatible with PC, PlayStation 5 & Xbox: Expert Review</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-6-youtube-outro-makers-lots-of-free-options/"><u>Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-choice-lenovo-device-perfectly-tailored-for-remote-office-environments-now-at-a-whopping-60-discount-insider-info/"><u>Top Choice Lenovo Device Perfectly Tailored for Remote-Office Environments Now at a Whopping 60% Discount - Insider Info!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-computers-professional-insights-and-reviews-techadvisor/"><u>Top-Rated Touchscreen Computers: Professional Insights & Reviews - TechAdvisor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-alert-acer-porsche-design-notebooks-now-just-600-save-huge-on-tech-today/"><u>Unbelievable Deal Alert: Acer Porsche Design Notebooks Now Just $600 - Save Huge on Tech Today!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-ultimate-versatility-discover-the-powerful-yet-portable-8-in-1-charger-that-defies-price-point-expectations/"><u>Unlock Ultimate Versatility: Discover the Powerful Yet Portable 8-in-1 Charger that Defies Price Point Expectations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-acer-swift-edge-ultra-lightweight-4k-oled-laptop-revealed-in-our-comprehensive-review-techsavvy-journal/"><u>Unveiling the Acer Swift Edge: Ultra-Lightweight 4K OLED Laptop Revealed in Our Comprehensive Review | TechSavvy Journal</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-androids-budget-friendly-video-call-leaders/"><u>[New] 2024 Approved Android's Budget-Friendly Video Call Leaders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-online-media-crafter/"><u>[New] 2024 Approved Online Media Crafter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-trustworthy-advice-from-toms-hardware/"><u>Advanced Tech Insights: Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambu-lab-unveils-quick-printing-bed-slinger-meet-the-advanced-a1-3d-printer-available-december-14th/"><u>Bambu Lab Unveils Quick Printing 'Bed Slinger': Meet the Advanced A1 3D Printer – Available December 14Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambulab-x1-carbon-assessment-pinnacle-of-modern-3d-printing-technology/"><u>BambuLab X1-Carbon Assessment: Pinnacle of Modern 3D Printing Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-computer-specs-with-toms-hardware-experts/"><u>Decoding Computer Specs with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-tech-specs-toms-hardware-rundown/"><u>Decoding Tech Specs: Tom's Hardware Rundown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-productivity-with-self-crafted-windows-11-shortcuts/"><u>Enhance Productivity with Self-Crafted Windows 11 Shortcuts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guia-para-localizar-y-solucionar-problemas-con-la-carpeta-programdata-en-windows-1110/"><u>Guía Para Localizar Y Solucionar Problemas Con La Carpeta 'ProgramData' En Windows 11/10</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-smart-7-hd-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Smart 7 HD? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-ideal-video-editor-unleashed-for-vimeo-videos/"><u>In 2024, Ideal Video Editor Unleashed for Vimeo Videos</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/resolving-datastore-stuck-state-overcoming-in-use-resource-locks-for-deletion/"><u>Resolving Datastore Stuck State: Overcoming In-Use Resource Locks for Deletion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175724515-ultimate-comparison-of-best-cooling-solutions-for-m2-ssds-exploring-30-contenders-including-id-coolings-m05-and-m1nus/"><u>Ultimate Comparison of Best Cooling Solutions for M.2 SSDs - Exploring 30 Contenders Including ID-Cooling's M05 & M1nus!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Secure Your Exclusive $8 iPhone Shoot-Out Gear on Sale - Final Deals of Cyber Monday Event | ZDNET.
-date: 2025-01-03T20:07:03.290Z
-updated: 2025-01-06T02:54:33.599Z
+date: 2025-01-10T00:49:33.325Z
+updated: 2025-01-12T17:40:49.079Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,20 +81,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-a-beginners-guide-to-personal-brand-craftsmanship-for-2024/"><u>[Updated] A Beginner's Guide to Personal Brand Craftsmanship for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-cutting-edge-tips-for-making-masterpieces-with-snaps-for-2024/"><u>[Updated] Cutting-Edge Tips for Making Masterpieces with Snaps for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unraveling-online-video-discussions/"><u>[Updated] In 2024, Unraveling Online Video Discussions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-deals-revealed-save-up-to-900-on-high-performance-lenovo-workstations-pre-prime-day-exclusive-zdnet-report/"><u>Amazon Deals Revealed: Save Up to $900 on High-Performance Lenovo Workstations Pre-Prime Day | Exclusive ZDNET Report</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-innovative-travel-gizmos-for-2e25-featured-on-zdnet-expert-review/"><u>Discover the Most Innovative Travel Gizmos for 2E25 Featured on ZDNet | Expert Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-savings-where-to-find-the-hottest-dell-offers-this-holiday-season-at-leading-retailers-featuring-insider-info/"><u>Discover the Ultimate Guide to Savings: Where to Find The Hottest Dell Offers This Holiday Season at Leading Retailers - Featuring Insider Info</u></a></li>
-<li><a href="https://android-frp.techidaily.com/efficient-data-retrieval-advanced-tools-for-recovering-lost-or-damaged-disk-partitions/"><u>Efficient Data Retrieval: Advanced Tools for Recovering Lost or Damaged Disk Partitions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y27-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y27 4G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-apex-legends-effective-fixes-for-error-code-23-bugs/"><u>Mastering Apex Legends: Effective Fixes for Error Code 23 Bugs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-dusk-drawers-of-microsoft-paint/"><u>The Dusk Drawers of Microsoft Paint</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premium-5g-notebooks-expert-reviews-and-rankings/"><u>Top 5 Premium 5G Notebooks : Expert Reviews and Rankings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-walmart-savings-in-july-2024-exclusive-finds-featured-on-zdnet/"><u>Top Walmart Savings in July 2024: Exclusive Finds Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-savings-with-apples-m3-macbook-pro-avail-at-a-200-discount-on-amazons-spectacular-spring-clearance-event-insights-from-zdnet/"><u>Unlock Savings with Apple's M3 MacBook Pro: Avail at a $200 Discount on Amazon's Spectacular Spring Clearance Event - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-cloud-gaming-laptop-the-acer-chromebook-n516-ge-reviewed-by-zdnet/"><u>Unveiling the Best Cloud Gaming Laptop: The Acer Chromebook N516 GE Reviewed by ZDNET</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-stream-start-small-see-big-on-youtube/"><u>[New] In 2024, Earning Stream Start Small, See Big on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-guide-to-investing-in-quality-8-5k-panels/"><u>[New] In 2024, The Ultimate Guide to Investing in Quality #8 5K Panels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ace-your-brand-strategy-with-these-reddit-mastery-methods/"><u>[Updated] 2024 Approved Ace Your Brand Strategy with These Reddit Mastery Methods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-viewers-interest-with-innovative-valorant-thumbnail-ideas/"><u>[Updated] In 2024, Enhancing Viewers' Interest with Innovative Valorant Thumbnail Ideas</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-silliness-set-to-sound-10-hilarious-hits/"><u>[Updated] In 2024, Silliness Set to Sound 10 Hilarious Hits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/addressing-the-elephants-foot-advanced-strategies-for-perfect-3d-prints/"><u>Addressing the 'Elephant's Foot': Advanced Strategies for Perfect 3D Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-economical-pcie-40-motherboards-the-ultimate-buy-guide-to-b550-chipset-options/"><u>AMD's Economical PCIe 4.0 Motherboards - The Ultimate Buy Guide to B550 Chipset Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175727359-beat-the-heat-in-style-unbeatable-deal-on-the-best-air-cooler-ever-thermalrights-peerless-assassin-120-se-at-just-33/"><u>Beat the Heat in Style - Unbeatable Deal on the Best Air Cooler Ever, Thermalright's Peerless Assassin 120 SE at Just $33</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-modern-retro-consoles/"><u>The Best Modern Retro Consoles</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125145273-transform-your-design-with-the-affordable-elegoo-neptune-x4-pro-for-only-284/"><u>Transform Your Design with the Affordable Elegoo Neptune X4 Pro for Only $284</u></a></li>
 </ul></div>
 

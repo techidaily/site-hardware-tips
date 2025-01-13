@@ -1,7 +1,7 @@
 ---
 title: "Noctua Enhances SFF Computing: Introducing the NH-L12Sx77 Low-Profile CPU Cooler for Optimal Ram Placement & Superior VRM Temperature Control"
-date: 2024-08-23T12:55:29.454Z
-updated: 2024-08-24T12:55:29.454Z
+date: 2025-01-06T17:18:11.958Z
+updated: 2025-01-12T22:08:28.162Z
 tags:
   - cooling
 categories:
@@ -58,6 +58,10 @@ __be quiet! Light Base case pricing and availability__
 
  The updated Light Wings LX fans offer high airflow while operating quietly and feature reverse fan blades for the side fans. Because of this, the fan's more aesthetically pleasing front side is facing out for all to see.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -67,6 +71,10 @@ __be quiet! Light Base case pricing and availability__
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
 ![Light Wings LX case fans](https://cdn.mos.cms.futurecdn.net/NWSSnnfg9Avnuh5hjMoPvR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -93,14 +101,11 @@ __be quiet! Light Wings LX pricing and availability__
 
  Be quiet! will start shipping the Light Base cases in September or October 2024\. The Light Wings LX fans will also ship in September.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,8 +114,23 @@ __be quiet! Light Wings LX pricing and availability__
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-ultimate-youtube-branding-guide-top-names-for-successful-video-blogging-keep-it-to-or-under-156-characters/"><u>[New] 2024 Approved Ultimate YouTube Branding Guide Top Names for Successful Video Blogging (Keep It to or Under 156 Characters)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-in-converting-videos-sdr-to-hdr-video-enhancement-techniques/"><u>2024 Approved Precision in Converting Videos SDR to HDR Video Enhancement Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/7-ideal-planning-platforms-for-content-release-management/"><u>7 Ideal Planning Platforms for Content Release Management</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comprehensive-walkthrough-for-reviving-damaged-hard-disk-sectors/"><u>Comprehensive Walkthrough for Reviving Damaged Hard Disk Sectors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-bargain-on-high-performance-computing-secure-your-new-gigabyte-aero-16-at-half-price-endorsed-for-gamers-and-professionals-alike/"><u>Discover the Best Bargain on High-Performance Computing: Secure Your New Gigabyte Aero 16 at Half Price, Endorsed for Gamers and Professionals Alike!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-budget-college-laptop-that-outshines-macbooks-and-thinkpads-for-students-now-with-a-sweet-200-off-deal-reviews/"><u>Discover the Ultimate Budget College Laptop That Outshines MacBooks and ThinkPads for Students - Now With a Sweet 200 Off Deal! Reviews</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-tecno-camon-20-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Tecno Camon 20?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-through-the-best-artifice-intelligence-prompt-marketplaces-on-earth/"><u>Navigate Through the Best Artifice Intelligence Prompt Marketplaces on Earth</u></a></li>
+<li><a href="https://discover-best.techidaily.com/optimize-your-enterprise-transformation-journey-through-process-intelligence-techniques/"><u>Optimize Your Enterprise Transformation Journey Through Process Intelligence Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-unresponsive-backspace-keys-a-comprehensive-guide/"><u>Resolving Issues with Unresponsive Backspace Keys: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-displays-of-2024-in-depth-analysis-and-comparisons-techradar/"><u>Top Rated Portable Displays of 2024 - In-Depth Analysis & Comparisons | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-linux-laptop-picks-for-253-comprehensive-reviews-and-benchmarks-by-tech-experts-pcmag/"><u>Top-Rated Linux Laptop Picks for 2^53: Comprehensive Reviews & Benchmarks by Tech Experts - PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-discovering-top-notch-featherlight-laptops-ideal-for-remote-professionals-insights-from-an-expert-review/"><u>Ultimate Guide: Discovering Top-Notch Featherlight Laptops Ideal for Remote Professionals - Insights From an Expert Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-extra-usb-ports-for-macbookipad-pro-the-definitive-add-on-strategy-by-zdnet-experts/"><u>Unlock Extra USB Ports for MacBook/iPad Pro: The Definitive Add-On Strategy by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-nvidias-latest-powerhouse-laptops-for-creatives-record-breaking-gpu-performance-detailed-by-zdnet/"><u>Unveiling Nvidia's Latest Powerhouse Laptops for Creatives: Record-Breaking GPU Performance Detailed by ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/windows-11-gamers-guide-to-stunning-game-recordings/"><u>Windows 11 Gamers' Guide to Stunning Game Recordings</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

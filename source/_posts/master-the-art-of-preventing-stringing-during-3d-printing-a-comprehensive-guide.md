@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Preventing Stringing During 3D Printing: A Comprehensive Guide"
-date: 2024-08-19T04:02:05.501Z
-updated: 2024-08-20T04:02:05.501Z
+date: 2025-01-10T17:29:26.381Z
+updated: 2025-01-12T16:53:51.123Z
 tags:
   - printer
 categories:
@@ -65,16 +65,17 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
  We also received a few bonus items for the review: an adapter to use traditional nozzles, extra build plates, and several rolls of filament.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Design of the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6hj6fUJjafrEzDmqAJN5TS-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Original Prusa XL is a new machine that doesn’t stray far from the Prusa design and color branding. Its boxy frame is black with orange accents, and logos are printed on both the toolhead and back cover. It’s a beefy boi with Bowden tubes that arch over the top and spool holders that mount on both sides. The frame is C shaped, keeping the front open and easily accessible to reach in and grab your prints, or just to set up a camera for timelapses. LED lights tucked under the top frame provide enough light for observation and most camera needs.
@@ -104,8 +105,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6oi6svYawnAUqBAQzbAw2S-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Prusa XL we reviewed came semi assembled and “only” needed the toolheads mounted. This is still quite a process, and installing five toolheads and calibrating each of them took several hours. As with the MK4, the printer itself will guide you through the calibration process.
@@ -114,9 +116,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Note: if you purchased the DIY kit version of the XL you’ll need to set aside a weekend to assemble and calibrate it, but you will save $500.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Calibrating the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/SSpJM3ayMuiPMPoLkAYK9U-320-80.jpg)
@@ -130,8 +129,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  You should run the included calibration print to make sure the print heads are in sync with each other. You can make minute adjustments to each print head, but I found that my initial calibrations were off because the nozzles had tiny bits of filament on them, leftover from the factory test. Once the nozzles were scrubbed clean, the printer was able to achieve perfect calibration.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Loading Filament on the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/DvYcZbzQoaT2pwSMG62ixT-320-80.jpg)
@@ -148,12 +148,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  To remove material, go to the Filament menu from the main screen and click unload. It will remember what material was last installed, determine if the filament is still there, and then heat to the appropriate temperature. Once hot, it will retract the plastic until you can easily remove it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preparing Files / Software for Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/P52DrZpk9Ahw76CiUPJj9T-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -163,13 +164,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/BTWJwfhHRAoUkaGd9Vu9qR-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Prusa Connect is a more feature rich cloud based program, and can be used to control a single printer or a fleet of Prusa machines. It is not configured to work for 3rd party printers.
@@ -180,9 +174,6 @@ No advertising on the website.
 
  Prusa Research is committed to data[security](https://www.tomshardware.com/tag/security) and does not require your machine to be online in order to operate. File transfers and firmware updates can all be handled with a USB stick.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Printing on the Original Prusa XL
 
  The XL comes with a full roll of Prusament PLA Galaxy Black, but it has room for four more spools. You should really check out our guide to the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) for more suggestions.
@@ -193,9 +184,6 @@ No advertising on the website.
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/V6mQWwSnSaRFuce8DjaykT-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
 
  To test how efficient the XL is with multicolor printing, I printed a dragon using four colors:[eSun Silk Rainbow](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FeSUN-Filament-Multicolored-Gradient-Multicolor%2Fdp%2FB081Q78248%2Fref%3Dasc%5Fdf%5FB081Q78248%2F%3FlinkCode%3Ddf0%26hvadid%3D652400517330%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D573292372013942951%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022877%26hvtargid%3Dpla-888225060708%26mcid%3D19a63deefbae3c1183ab527d1fb74239%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7689802732742375363-20) (main body), Printed Solid Silk Red (coming soon) for the hearts, and[Prusament](https://www.prusa3d.com/en/category/prusament/) in Galaxy Black and Pristine White on the eyes. The prime tower to the right is the only waste produced for this print, which took 13 hours and 51 minutes using default speeds of 170mm/s on the walls and a .2 mm layer height. (The same print took 8 hours longer on my faster Bambu Lab P1P and wasted 70 grams of filament.)
@@ -214,6 +202,10 @@ No advertising on the website.
 
 ![Original Prusa XL](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Original Prusa XL](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -226,15 +218,16 @@ No advertising on the website.
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/kFFgowbmKCF7qBa3yB3XFS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Phone case_](https://www.printables.com/model/46536-iphone-12-pro-max-flexible-case) _by BluecornNM_  (Image credit: Tom's Hardware)
 
 ## Bottom Line
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/metJPCsBo3TqcVxRaxZJeS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Because of its tool changer, the Prusa Original XL is a dream come true for many 3D printing fans. It’s a large format, multicolor, multi-material machine that nibbles on plastic instead of wasting it by the bucket. The XL is easy to use, with truly hands free auto bed leveling and the ability to set its own Z height. Plus, it's backed by Joseph Prusa’s commitment to Open Source, quality service and data security.
@@ -265,13 +258,15 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,4 +275,22 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-borders-a-list-of-top-quality-apps-and-tools/"><u>[Updated] 2024 Approved Mastering Instagram Borders A List of Top-Quality Apps & Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-explore-these-14-fascinating-text-based-animations/"><u>[Updated] Explore These 14 Fascinating Text-Based Animations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/a-comprehensive-guide-free-conversion-from-epub-to-pdf-format/"><u>A Comprehensive Guide: Free Conversion From EPUB to PDF Format</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-a-revolutionary-12-port-thunderbolt-dock-designed-to-empower-windows-pcs/"><u>Discover the Hidden Gem: A Revolutionary 12-Port Thunderbolt Dock Designed to Empower Windows PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-scoop-unleash-ultimate-performance-with-our-picked-powerhouse-gaming-notebook-now-500-less-on-octobers-prime-event/"><u>Exclusive Scoop: Unleash Ultimate Performance with Our Picked Powerhouse Gaming Notebook, Now $500 Less on October's Prime Event</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-netgear-adapter-driver-version-free-download-here/"><u>Get the Newest NETGEAR Adapter Driver Version - Free Download Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-grab-the-hottest-laptop-offers-before-prime-day-in-oct-24-insider-secrets-from-zdnet/"><u>How to Grab the Hottest Laptop Offers Before Prime Day in Oct '24 - Insider Secrets From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-use-microsoft-copilot-on-your-mac/"><u>How to Install and Use Microsoft Copilot on Your Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-durable-notebooks-of-2024-expert-picks-revealed-by-zdnet/"><u>Top Durable Notebooks of 2024: Expert Picks Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-lenovo-notebooks-for-efficiently-managing-remote-and-office-tasks-avail-our-suggested-model-at-a-whopping-1000-discount-insights/"><u>Top-Rated Lenovo Notebooks for Efficiently Managing Remote and Office Tasks: Avail Our Suggested Model at a Whopping $1,000 Discount - Insights</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-guide-how-to-resolve-usb-file-transfer-issues-on-windows-11-top-5-solutions/"><u>Troubleshooting Guide: How to Resolve USB File Transfer Issues on Windows 11 (Top 5 Solutions)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-apple-m3-macbook-air-the-three-key-improvements-that-impressed-us-most-zdnet/"><u>Unboxing the Apple M3 MacBook Air: The Three Key Improvements That Impressed Us Most | ZDNET</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-potential-of-audience-feedback-on-youtube-for-2024/"><u>Unlock the Potential of Audience Feedback on YouTube for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c300-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia C300 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-enhanced-features-of-samsungs-latest-copilotplus-desktop-discover-its-advanced-ai-capabilities-on-zdnet/"><u>Unveiling the Enhanced Features of Samsung's Latest Copilot+ Desktop - Discover Its Advanced AI Capabilities on ZDNet</u></a></li>
+</ul></div>
 

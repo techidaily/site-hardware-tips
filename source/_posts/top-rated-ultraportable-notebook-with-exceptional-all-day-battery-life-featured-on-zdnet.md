@@ -1,7 +1,7 @@
 ---
 title: Top Rated Ultraportable Notebook with Exceptional All-Day Battery Life Featured on ZDNet
-date: 2025-01-03T01:25:13.361Z
-updated: 2025-01-05T23:53:15.464Z
+date: 2025-01-09T22:05:38.624Z
+updated: 2025-01-12T19:24:53.946Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,19 +218,22 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-copypaste-dilemma-sudden-vid-deletion-for-2024/"><u>[New] Copypaste Dilemma Sudden Vid Deletion for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-traversing-youtube-dialogue-pathways/"><u>[Updated] Traversing YouTube Dialogue Pathways</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-review-on-asus-bw-16d1x-u-blu-ray-burner-attractive-design-with-distinct-traits/"><u>A Review on Asus BW-16D1X-U Blu-Ray Burner: Attractive Design with Distinct Traits</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/avoiding-common-nocturnal-photography-errors/"><u>Avoiding Common Nocturnal Photography Errors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-permanently-remove-private-files-on-a-windows-machine-safely-and-free-of-charge-expert-advice/"><u>How To Permanently Remove Private Files on a Windows Machine Safely and Free of Charge – Expert Advice</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-s23-fe-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy S23 FE Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reprogramming-your-macs-command-key-a-step-by-step-guide/"><u>Reprogramming Your Mac's Command Key: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/smartwatch-innovation-fbs-possible-double-camera-design/"><u>Smartwatch Innovation: FB's Possible Double-Camera Design</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rt-of-perfect-thumbnails-sizing-and-proportions-mastered/"><u>The Art of Perfect Thumbnails Sizing & Proportions Mastered</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-ai-chromium-addons-to-supercharge-your-daily-tasks-and-enhance-efficiency/"><u>Top 8 AI Chromium Addons to Supercharge Your Daily Tasks and Enhance Efficiency</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-discounts-on-laptops-during-amazons-october-2024-prime-day-blowout-insights-by-zdnet/"><u>Top-Rated Discounts on Laptops During Amazon's October 2024 Prime Day Blowout - Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-macbook-peripherals-comprehensive-reviews-by-tech-specialists/"><u>Top-Rated MacBook Peripherals : Comprehensive Reviews by Tech Specialists</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-cyber-monday-bargains-top-laptops-below-500-and-a-special-offer-at-only-99/"><u>Unbeatable Cyber Monday Bargains: Top Laptops Below $500 & a Special Offer at Only $99</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-samsungs-latest-offer-the-ultimate-guide-to-copilotplus-top-windows-laptop-bargain/"><u>Unveiling Samsung's Latest Offer: The Ultimate Guide to Copilot+ - Top Windows Laptop Bargain</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hero-vs-hero-upgraded-edition/"><u>[New] Hero Vs Hero Upgraded Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-step-by-step-guide-to-switch-game-recording-for-2024/"><u>[New] Step-by-Step Guide to Switch Game Recording for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-channel-size-independent-strategies-for-securing-sponsors/"><u>[Updated] Channel-Size-Independent Strategies for Securing Sponsors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-dynamics-in-design-illustrating-motion-in-photos/"><u>[Updated] Dynamics in Design Illustrating Motion in Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tips-for-perfect-3d-printing-overcoming-the-challenge-of-pillow-like-texture-defects/"><u>Advanced Tips for Perfect 3D Printing: Overcoming the Challenge of Pillow-Like Texture Defects</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/boosting-like-counts-tips-for-tiktok-unboxings/"><u>Boosting Like Counts Tips for TikTok Unboxings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cut-the-stream-of-automatically-played-podcasts-in-spotify-for-2024/"><u>Cut the Stream of Automatically Played Podcasts in Spotify for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125151375-grab-the-deal-on-phrozens-premium-8k-mini-s-resolution-resin-3d-printer-price-drops-to-325/"><u>Grab the Deal on Phrozen's Premium 8K Mini S Resolution Resin 3D Printer - Price Drops to $325</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-ultimate-video-guide-from-youtube-to-twitter/"><u>In 2024, Ultimate Video Guide From YouTube to Twitter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/telechargeur-de-films-hd-et-4k-mac-gratuit-meilleure-solution-pour-le-streaming-en-haute-definition/"><u>Téléchargeur De Films HD Et 4K Mac Gratuit - Meilleure Solution Pour Le Streaming en Haute Définition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125176874-the-ultimate-guide-to-the-original-prusa-xls-impressive-size-and-concurrent-toolhead-operations/"><u>The Ultimate Guide to the Original Prusa XL's Impressive Size and Concurrent Toolhead Operations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-discoveries-from-toms-world-of-technology/"><u>Unveiling the Latest in Hardware - Discoveries From Tom's World of Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-gear-guide/"><u>Unveiling the Latest in PC Components with Tom's Gear Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-gear-a-spotlight-on-toms-hardware-findings/"><u>Unveiling the Latest in Technology Gear - A Spotlight on Tom's Hardware Findings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-3d-printing-process-save-time-and-money-with-the-149-elegoo-dip-n-cure-system/"><u>Upgrade Your 3D Printing Process: Save Time & Money With the $149 Elegoo Dip-N-Cure System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175695115-upgrade-your-pcs-cooling-game-lamptrons-st0ns-cpu-cooler-now-includes-a-six-inch-lcd-display-similar-in-size-to-the-proposed-iphone-15/"><u>Upgrade Your PC's Cooling Game - Lamptron's ST0nS CPU Cooler Now Includes a Six-Inch LCD Display Similar in Size to the Proposed iPhone 15</u></a></li>
 </ul></div>
 

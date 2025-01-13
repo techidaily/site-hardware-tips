@@ -1,7 +1,7 @@
 ---
 title: Tom's Tech Review - Expert Insights on Latest Hardware
-date: 2024-08-19T03:59:50.304Z
-updated: 2024-08-20T03:59:50.304Z
+date: 2025-01-07T23:13:21.072Z
+updated: 2025-01-12T22:14:52.566Z
 tags:
   - cooling
 categories:
@@ -42,6 +42,10 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Packing and included contents
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
@@ -66,6 +70,10 @@ Included in the box are the following:
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -78,9 +86,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -97,14 +102,15 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -122,10 +128,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -146,9 +148,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ## LGA1700 Socket Bending
@@ -158,8 +157,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -192,6 +192,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -219,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -237,4 +236,24 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-make-a-channel-trailer/"><u>[New] 2024 Approved How to Make a Channel Trailer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-guide-to-loops-in-ios-video-playback/"><u>[New] In 2024, Expert Guide to Loops in iOS Video Playback</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-aquatic-quest-enhanced-the-best-cameras-reviewed-here/"><u>[Updated] Aquatic Quest Enhanced The Best Cameras Reviewed Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-best-innovations-premium-resin-3d-printers-ranked/"><u>2024'S Best Innovations: Premium Resin 3D Printers Ranked</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-online-privacy-with-top-tier-vpn-services-in-depth-testing-insights/"><u>Ace Your Online Privacy with Top-Tier VPN Services - In-Depth Testing Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-pc-temperature-control-with-deepcools-as500-plus-at-just-under-45-on-amazon/"><u>Affordable PC Temperature Control with DeepCool's AS500 Plus at Just Under $45 on Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/airbus-and-esa-unveil-revolutionary-metal-3d-printing-technology-aboard-iss/"><u>Airbus & ESA Unveil Revolutionary Metal 3D Printing Technology Aboard ISS</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprehensive-troubleshooting-steps-for-the-windows-1011-red-screen-of-death/"><u>Comprehensive Troubleshooting Steps for the Windows 10/11 'Red Screen of Death'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175718586-expertly-selected-best-aio-cooling-units-of-2024-beat-the-heat/"><u>Expertly Selected Best AIO Cooling Units of 2024: Beat the Heat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-wonderfox-download-ultimate-dvd-ripper-and-hd-video-transformation-tool/"><u>Free WonderFox Download - Ultimate DVD Ripper & HD Video Transformation Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-swap-tech-in-action-examining-the-razer-blackwidow-v4/"><u>Hot Swap Tech in Action - Examining the Razer BlackWidow V4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125187876-is-the-creality-k1-carbon-revolutionizing-carbon-3d-printing-heres-what-you-need-to-know/"><u>Is the Creality K1-Carbon Revolutionizing Carbon 3D Printing? Here's What You Need to Know!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keep-your-windows-7-computer-up-to-date-with-the-newest-amd-radeon-graphics-card-drivers/"><u>Keep Your Windows 7 Computer Up-to-Date with the Newest AMD Radeon Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125161585-maximize-your-printing-minimize-your-spending-with-80-off-elegoos-neptune-3plus/"><u>Maximize Your Printing, Minimize Your Spending with $80 Off Elegoo's Neptune 3+!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-clear-mobile-apps-and-chatgpt-concerns/"><u>Stay Clear: Mobile Apps and ChatGPT Concerns</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-checklist-of-key-elements-in-tagging-a-video/"><u>The Ultimate Checklist of Key Elements in Tagging a Video</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-at-toms-technology-review/"><u>Unveiling the Latest in Computing at Tom's Technology Review</u></a></li>
+</ul></div>
 

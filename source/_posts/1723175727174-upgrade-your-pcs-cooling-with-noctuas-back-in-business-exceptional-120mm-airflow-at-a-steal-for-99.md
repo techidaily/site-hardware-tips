@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your PC's Cooling with Noctua's Back in Business – Exceptional 120Mm Airflow at a Steal for $99
-date: 2024-08-19T04:00:45.505Z
-updated: 2024-08-20T04:00:45.505Z
+date: 2025-01-07T22:29:13.922Z
+updated: 2025-01-12T23:04:53.502Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
 
  However, an AIO may not always be ideal, particularly if your SFF or slim case of choice doesn't happen to have the free fan slot(s) you need to make the most of it. And finally, performance-wise,[reviews suggest](https://youtu.be/xZQwKgf%5FIYU?t=380) that the original Noctua NH-D12L performs on par with much larger CPU coolers as well, which means it should outperform most 120 mm AIOs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,22 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-chart-a-course-to-success-youtube-studio-blueprint-for-2024/"><u>[New] Chart a Course to Success YouTube Studio Blueprint for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-comprehensive-studio-study-xvideo-studio-insights-for-2024/"><u>[New] Comprehensive Studio Study XVideo Studio Insights for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-hidden-shotsnappers-advanced-techniques-for-invisible-image-capturing-on-snapchat/"><u>[Updated] 2024 Approved Hidden ShotSnappers Advanced Techniques for Invisible Image Capturing on Snapchat</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-online-destinations-featuring-3d-art-and-metallic-text/"><u>[Updated] Prime Online Destinations Featuring 3D Art & Metallic Text</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-ideal-thinkpad-for-the-modern-hybrid-professional-not-just-the-latest-lenovo-release-insights/"><u>1. Ideal ThinkPad for the Modern Hybrid Professional: Not Just The Latest Lenovo Release - Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/empire-building-in-offworld-trading-game-a-comprehensive-review-of-strategies-and-success-stories/"><u>Empire Building in Offworld Trading Game: A Comprehensive Review of Strategies and Success Stories</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620241095-maximize-your-iphone-capacity-effortless-ways-to-clear-a-packed-memory/"><u>Maximize Your iPhone Capacity: Effortless Ways to Clear a Packed Memory!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-prime-day-savings-on-laptops-unbeatable-offers-await-this-oct-24-techradar/"><u>Top Pick Prime Day Savings on Laptops – Unbeatable Offers Await This Oct '24 | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-chromebooks-a-comprehensive-review-of-hp-lenovo-and-competitors-by-zdnet/"><u>Top-Ranking Chromebooks : A Comprehensive Review of HP, Lenovo & Competitors by ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-infinix-hot-30i-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Infinix Hot 30i without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-alert-dell-latitude-n-5491-now-for-a-steal-at-219-shop-smart-with-zdnets-deals/"><u>Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-savings-on-samsung-odyssey-neo-g8-score-it-for-only-550-this-anti-prime-day-exclusively-at-best-buy-zdnet/"><u>Unbeatable Savings on Samsung Odyssey Neo G8 - Score It For Only $550 This Anti-Prime Day, Exclusively at Best Buy | ZDNET</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-secrets-of-macos-preview-mastering-the-built-in-image-editing-tool/"><u>Unveiling the Secrets of macOS Preview: Mastering the Built-In Image Editing Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-essential-guide-to-navigating-black-friday-2ebs-2022-schedule-and-prime-discount-discoveries/"><u>Your Essential Guide to Navigating Black Friday 2Ebs - 2022 Schedule and Prime Discount Discoveries .</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->

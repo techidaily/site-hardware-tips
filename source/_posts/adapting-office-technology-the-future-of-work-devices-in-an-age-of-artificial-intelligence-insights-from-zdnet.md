@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet"
-date: 2024-12-30T07:28:42.902Z
-updated: 2025-01-06T09:44:31.547Z
+date: 2025-01-11T19:07:54.522Z
+updated: 2025-01-12T19:59:27.485Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,20 +134,21 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-endgame-permanently-blocking-access-to-youtube-shorts/"><u>[New] 2024 Approved The Endgame Permanently Blocking Access to YouTube Shorts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-step-by-step-guide-to-watching-facebook-live-events/"><u>[New] Step-by-Step Guide to Watching Facebook Live Events</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-quick-fix-guide-to-instagram-popularity-accelerate-your-visibility-with-15-tricks-of-the-trade-for-2024/"><u>[New] The Quick-Fix Guide to Instagram Popularity Accelerate Your Visibility with 15 Tricks of the Trade for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-behind-the-scenes-of-podcast-scripts-tips-and-examples/"><u>[Updated] Behind the Scenes of Podcast Scripts Tips and Examples</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-effortless-webm-creation-10-best-youtube-video-transformers/"><u>[Updated] Effortless WebM Creation 10 Best YouTube Video Transformers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-guide-mastering-screenshot-and-screen-record-on-mac-for-2024/"><u>[Updated] Quick Guide Mastering Screenshot & Screen Record on Mac for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/136-discount-how-the-hp-chromebook-simplifies-life-without-windows-insights-from-a-tech-guru/"><u>$136 Discount: How the HP Chromebook Simplifies Life Without Windows - Insights From a Tech Guru</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-apple-device-experience-with-these-simple-steps-for-adding-more-ports/"><u>Enhance Your Apple Device Experience with These Simple Steps for Adding More Ports!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-testing-of-leading-2024-laptop-models-comprehensive-guide-by-zdnet/"><u>Expert Reviews & Testing of Leading 2024 Laptop Models | Comprehensive Guide by ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hevc-to-h264-conversion-guide-effortless-transcode-techniques/"><u>HEVC to H.264 Conversion Guide - Effortless Transcode Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sale-alert-grab-the-4tb-samsung-t5-ssd-in-stock-at-a-steal-on-amazon-up-to-50-off-detailed-review-by-zdnet/"><u>Sale Alert: Grab the 4TB Samsung T5 SSD In Stock at a Steal on Amazon, Up to 50% Off – Detailed Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-using-and-evaluating-the-highly-functional-dell-inspiron-a-comprehensive-review/"><u>The Ultimate Guide to Using and Evaluating the Highly Functional Dell Inspiron - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-budget-laptops-under-1k-in-depth-analysis-by-tech-gurus/"><u>Top-Rated Budget Laptops (Under $1K) - In-Depth Analysis by Tech Gurus</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-productivity-perks-and-score-big-savings-exclusive-93-off-flip-out-monitor-offer-for-prime-day-shoppers/"><u>Unlock Productivity Perks & Score Big Savings: Exclusive $93 Off Flip-Out Monitor Offer for Prime Day Shoppers!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-taskmgr-incorporating-command-prompt-toolbar/"><u>Windows 11 TaskMgr: Incorporating Command Prompt Toolbar</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-digital-duo-dynamics-joining-instagram-and-tiktok-powerfully/"><u>[New] 2024 Approved Digital Duo Dynamics Joining Instagram and TikTok Powerfully</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-your-music-library-top-6-free-ios-apps-for-audio-conversion/"><u>[New] 2024 Approved Enhance Your Music Library Top 6 Free iOS Apps for Audio Conversion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-efficient-screen-recording-on-xbox-explained/"><u>[Updated] Efficient Screen Recording on Xbox Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-price-history-of-games-on-steam/"><u>Deciphering the Price History of Games on Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-vocal-inputs-to-text-output-a-comprehensible-guide-for-windows-users/"><u>From Vocal Inputs to Text Output: A Comprehensible Guide for Windows Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-choices-premier-mac-video-capture-apps/"><u>In 2024, Top Choices Premier Mac Video Capture Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/masterclass-softening-audio-endings/"><u>Masterclass Softening Audio Endings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/medical-and-health-facebook-ads-campaign-tips/"><u>Medical And Health Facebook Ads Campaign Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-ek-custom-heat-sinks-optimal-cooling-for-delidded-amd-ryzen-am5-processors/"><u>Revolutionary EK Custom Heat Sinks: Optimal Cooling for Delidded AMD Ryzen AM5 Processors</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-journey-across-devices-windows-launches-for-apples-tech-ecosystem/"><u>Seamless Journey Across Devices: Windows Launches for Apple's Tech Ecosystem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/streamline-gpu-cooling-with-cooler-masters-compact-2-fan-replacement-over-traditional-triple-fans/"><u>Streamline GPU Cooling with Cooler Master's Compact 2-Fan Replacement Over Traditional Triple Fans</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tackling-thick-footprint-troubles-a-how-to-on-3d-print-perfection/"><u>Tackling Thick Footprint Troubles: A How-To on 3D Print Perfection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teamgroup-unveils-the-future-of-pc-maintenance-with-magnetic-features-on-their-iconic-t-force-siren-aio-cpu-coolers/"><u>TeamGroup Unveils the Future of PC Maintenance with Magnetic Features on Their Iconic T-Force Siren AIO CPU Coolers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-guide-to-electronics-toms-insights/"><u>The Comprehensive Guide to Electronics - Tom's Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-5-benefits-that-make-buying-a-veil-printer-irresistible-this-black-friday/"><u>The Ultimate List of 5 Benefits That Make Buying a Veil Printer Irresistible This Black Friday</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-precision-tools-for-computers-and-hardware-enthusiasts/"><u>Tom's Precision Tools for Computers and Hardware Enthusiasts</u></a></li>
 </ul></div>
 

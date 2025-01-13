@@ -1,7 +1,7 @@
 ---
 title: "Elevate Gaming Performance: Experience Ultra-Fast Cooling with Our $10K Custom LN2 Container - Tested and Certified"
-date: 2024-08-23T12:55:16.823Z
-updated: 2024-08-24T12:55:16.823Z
+date: 2025-01-07T00:29:57.603Z
+updated: 2025-01-12T22:10:07.416Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Software designer Cal Bryant created a PC cooling app for his liquid-cooled Ryze
 
  With this method of RPM control, he was able to significantly reduce the spiky nature of his cooler's default fan profile and make the cooler more performant only when needed. Having the pump speed up based on the CPU temperature allows the cooler to extract heat more quickly from the CPU. Coolant takes a long time to warm up under a heavy load compared to[air coolers](https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html) . Having the fans connected to the coolant temperature, in turn, allows the cooler to only run the fans at a high RPM when the coolant is warm. In an AIO, the fans aren't cooling the[CPU](https://www.tomshardware.com/reviews/best-cpus,3986.html) , they are cooling down the liquid that is extracting heat from the CPU.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Software designer Cal Bryant created a PC cooling app for his liquid-cooled Ryze
 
  The app can be downloaded for free from a link in Cal Bryant's article. However, the it's specifically fine-tuned to his system, meaning that users would need to edit the code he created to make the cooling app work on their systems.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,18 @@ Software designer Cal Bryant created a PC cooling app for his liquid-cooled Ryze
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-discover-the-top-8-services-to-amplify-video-content/"><u>[Updated] Discover the Top 8 Services to Amplify Video Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-elite-media-reader-unmatched-for-all-devices-type/"><u>[Updated] In 2024, Elite Media Reader - Unmatched for All Devices Type</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-kid-approved-drone-choices-summarized/"><u>[Updated] In 2024, Top Kid-Approved Drone Choices Summarized</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-macbooks-shadow-a-surprising-tech-marvel-emerges-as-one-of-the-top-performers-tested-by-zdnet/"><u>Beyond MacBook's Shadow: A Surprising Tech Marvel Emerges as One of the Top Performers Tested by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-hp-touchscreen-notebook-with-keyboard-and-mouse-combo-plus-free-microsoft-office-suite-only-400-on-zdnet/"><u>Budget-Friendly HP Touchscreen Notebook with Keyboard & Mouse Combo + Free Microsoft Office Suite - Only $400 on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-track-pinpointing-your-virtual-gaming-number/"><u>Fast Track: Pinpointing Your Virtual Gaming Number</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-shakes-up-laptop-industry-with-innovative-approach-that-even-apple-cant-match-expert-analysis-by-zdnet/"><u>HP Shakes Up Laptop Industry with Innovative Approach that Even Apple Can't Match | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-a-childs-fortune-the-wealthy-world-of-youtubes-youngest-star/"><u>In 2024, A Child’s Fortune The Wealthy World of YouTube’s Youngest Star</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-list-of-prompts-overcoming-tech-disruptions-with-chatgpt/"><u>Ultimate List of Prompts: Overcoming Tech Disruptions with ChatGPT</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultra-hd-1920x12-similar-problem/"><u>Ultra HD 1920X12 # Similar Problem:</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-simplified-non-windows-living-a-look-at-the-budget-friendly-hp-chromebook-with-a-136-discounted-price-on-zdnet/"><u>Unveiling Simplified Non-Windows Living: A Look at the Budget-Friendly HP Chromebook with a 136% Discounted Price on ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: In-Depth Reviews & Guides by Tom's Hardware Team
-date: 2024-08-23T12:55:32.877Z
-updated: 2024-08-24T12:55:32.877Z
+date: 2025-01-09T02:48:01.336Z
+updated: 2025-01-13T01:18:31.495Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,26 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-dissecting-the-components-of-mixed-reality/"><u>[New] 2024 Approved Dissecting the Components of Mixed Reality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-mac-preview-a-compreranary-reference-guide-for-2024/"><u>[New] Mastering Mac Preview A Compreranary Reference Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-in-depth-assessment-comprehensive-camstudio-review/"><u>[Updated] 2024 Approved In-Depth Assessment Comprehensive CamStudio Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-compiling-ultimate-list-of-virtual-controls/"><u>[Updated] Compiling Ultimate List of Virtual Controls</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-insights-into-crafting-responses-to-youtube-comments/"><u>[Updated] Insights Into Crafting Responses to YouTube Comments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-shopping-list-with-prime-days-elite-gaming-offers-for-october-202/"><u>Ace Your Shopping List with Prime Day's Elite Gaming Offers for October 202</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-nitro-5-gaming-savings-alert-slash-your-budget-by-250-spotlight-feature/"><u>Acer Nitro 5 Gaming Savings Alert: Slash Your Budget by $250 - Spotlight Feature !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-quality-display-on-this-budget-friendly-laptop-reviewed-by-zdnet/"><u>Affordable High-Quality Display on This Budget-Friendly Laptop Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-2024-exclusive-guide-to-october-deals-for-top-tier-laptops-zdnet-reviews/"><u>Amazon Prime Day 2024: Exclusive Guide to October Deals for Top-Tier Laptops | ZDNET Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-october-prime-day-snag-apple-m2-macbook-air-at-unbeatable-price-of-749-latest-deals/"><u>Amazon's October Prime Day: Snag Apple M2 MacBook Air at Unbeatable Price of $749 - Latest Deals!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-concealed-trackpoint-and-more-in-this-portable-lenovo-laptop-exclusive-insights-from-zdnet/"><u>Discover the Concealed TrackPoint and More in This Portable Lenovo Laptop - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-game-changing-workflow-with-lenovos-new-dual-display-laptop-a-firsthand-review/"><u>Experience Game-Changing Workflow with Lenovo's New Dual-Display Laptop - A Firsthand Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211935910-fix-lidadll-gone-restore-now/"><u>Fix Lida.dll Gone, Restore Now</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-essential-component-failures-on-windows-10-solutions-explored/"><u>Fixing Essential Component Failures on Windows 10 - Solutions Explored</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-infinix-hot-40-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Infinix Hot 40 Phone Hassle-Free</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-se-2020-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone SE (2020) on MetroPCS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lost-access-learn-to-retrieve-passwords-and-recover-old-laptop-files-with-ease/"><u>Lost Access? Learn to Retrieve Passwords and Recover Old Laptop Files with Ease!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/stunning-joker-movie-2019-wallpaper-collection-and-backgrounds-by-yl-computing-a-comprehensive-visual-guide/"><u>Stunning Joker Movie 2019 Wallpaper Collection & Backgrounds by YL Computing: A Comprehensive Visual Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-starter-linux-distros-comprehensive-guide-and-expert-reviews-zdnet/"><u>Top-Rated Starter Linux Distros: Comprehensive Guide & Expert Reviews - ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->

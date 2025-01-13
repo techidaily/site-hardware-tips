@@ -1,7 +1,7 @@
 ---
 title: Score an Asus 15-Inch Laptop for $250 + Full Ports Availability | Shop Now at Walmart
-date: 2024-12-30T23:06:59.980Z
-updated: 2025-01-06T06:59:06.233Z
+date: 2025-01-07T23:07:14.870Z
+updated: 2025-01-12T20:21:45.564Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,24 +87,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-accessible-alternatives-googles-simplicity-versus-samsungs-innovation-for-2024/"><u>[New] Accessible Alternatives Google's Simplicity Versus Samsung's Innovation for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-chill-vibes-current-hits-to-match-your-yt-short-tunes/"><u>[Updated] In 2024, Chill Vibes Current Hits to Match Your YT Short Tunes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ignite-your-passion-launching-an-epic-youtube-game-streaming-venture/"><u>[Updated] In 2024, Ignite Your Passion Launching an Epic YouTube Game-Streaming Venture</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-tech-manual-for-saving-web-streamed-television/"><u>[Updated] The Ultimate Tech Manual for Saving Web-Streamed Television</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/acers-powerhouse-for-gamers-now-under-650-at-newegg-in-depth-deal-analysis/"><u>Acer's Powerhouse for Gamers, Now Under $650 at Newegg: In-Depth Deal Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-luxury-for-your-laptop-needs-top-reviews-of-stunning-displays-on-a-lightweight-model-featured-by-zdnet/"><u>Affordable Luxury for Your Laptop Needs: Top Reviews of Stunning Displays on a Lightweight Model - Featured by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boosting-chromeos-development-with-your-feedback-a-guide-tech-insights-by-zdnet/"><u>Boosting ChromeOS Development with Your Feedback - A Guide | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-essential-google-chrome-update-for-enhanced-security-and-performance-tips-from-zdnet-this-weekend/"><u>Don't Miss Out: Essential Google Chrome Update for Enhanced Security and Performance - Tips From ZDNet This Weekend!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experts-insights-on-acquiring-budget-friendly-surface-pro-11-top-3-discoveries-revealed-techwise/"><u>Experts' Insights on Acquiring Budget-Friendly Surface Pro 11 - Top 3 Discoveries Revealed | TechWise</u></a></li>
-<li><a href="https://win11.techidaily.com/freedom-from-epic-game-launcher-in-windows-11-steps-explained/"><u>Freedom From Epic Game Launcher in Windows 11: Steps Explained</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fresh-chromeos-enhancement-introduces-windows-11-features-to-your-chromebook-zdnet-insights/"><u>Fresh ChromeOS Enhancement Introduces Windows 11 Features to Your Chromebook - ZDNet Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-oppo-a59-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Oppo A59 5G?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-pcs-best-vr-top-10-immersive-360-video-players/"><u>In 2024, PC's Best VR Top 10 Immersive 360 Video Players</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-for-gradual-mix-adjustments-in-pro-tools/"><u>In 2024, Techniques for Gradual Mix Adjustments in Pro Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-microsofts-cutting-edge-surface-pro-10-and-laptop-nv6-with-advanced-ai-integration-the-latest-innovations-unveiled/"><u>Introducing Microsoft's Cutting-Edge Surface Pro 10 and Laptop Nv6 with Advanced AI Integration - The Latest Innovations Unveiled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swap-screen-direction-on-win7-pcs/"><u>Swap Screen Direction on Win7 PCs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-lenovo-laptop-picks-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Lenovo Laptop Picks - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-microsoft-wireless-display-adapter-for-windows-11-a-step-by-step-guide/"><u>Troubleshooting Your Microsoft Wireless Display Adapter for Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-players-comparing-leading-gaming-laptops-in-202amongst-razer-acer-msi-and-others-expert-review-by-zdnet/"><u>Unveiling the Power Players: Comparing Leading Gaming Laptops in 202Amongst Razer, Acer, MSI & Others | Expert Review by ZDNET</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-strategy-for-bio-linking-on-tiktok/"><u>[Updated] Ultimate Strategy for Bio Linking on TikTok</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-step-by-step-solution-for-non-shown-shorts-thumbnails-on-youtube/"><u>2024 Approved Step-by-Step Solution for Non-Shown Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-high-performance-systems-through-toms-expertise/"><u>Decoding High-Performance Systems Through Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-tutorials-and-testing-from-toms-hardware-experts/"><u>Detailed Tutorials & Testing From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/edible-tech-bites-learn-about-our-new-3d-printed-scannable-qr-codes/"><u>Edible Tech Bites: Learn About Our New 3D Printed, Scannable QR Codes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-evaluation-of-the-powerful-and-silent-corsair-air-a115-heatsink-with-a-high-price-point/"><u>Expert Evaluation of the Powerful and Silent Corsair Air A115 Heatsink with a High Price Point</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insight-on-the-mingda-magic-pen-pro-2-balancing-high-power-with-quiet-print-technology/"><u>Expert Insight on the Mingda Magic Pen Pro 2: Balancing High Power with Quiet Print Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-the-latest-frozn-a62n-air-cooler-from-id-cooling-premium-performance-at-an-unbeatable-price/"><u>Expert Insights on the Latest Frozn A62n Air Cooler From ID-Cooling – Premium Performance at an Unbeatable Price</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-insights-on-the-latest-in-technology-toms-gear-hub/"><u>Expert Reviews and Insights on the Latest in Technology - Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-by-tom-unveiling-the-latest-in-pc-components/"><u>Expert Reviews by Tom: Unveiling the Latest in PC Components</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-8-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 8 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-10-camera-lenses-to-use/"><u>In 2024, Best 10 Camera Lenses to Use</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-s17e-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo S17e</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sony-bdp-s3700-overhaul-a-new-perspective-review/"><u>In 2024, Sony BDP-S3700 Overhaul A New Perspective Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ct-thumbnail-size-for-click-through-rates/"><u>Perfect Thumbnail Size for Click-Through Rates</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-integrating-alternate-antivirus-without-defenders-restrictions/"><u>Tips for Integrating Alternate Antivirus without Defender’s Restrictions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-m34-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy M34 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

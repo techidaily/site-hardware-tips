@@ -1,7 +1,7 @@
 ---
 title: "The Next Wave in Additive Manufacturing: Maker-Built Submerged 3D Printer Designed for Water Settings"
-date: 2024-08-19T04:02:21.218Z
-updated: 2024-08-20T04:02:21.218Z
+date: 2025-01-09T19:07:29.951Z
+updated: 2025-01-13T00:34:52.592Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,23 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cutting-edge-clarity-optimal-4k-panels-for-video-production/"><u>[New] 2024 Approved Cutting-Edge Clarity Optimal 4K Panels for Video Production</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-developing-a-user-friendly-direct-url-for-yt-subscription/"><u>[New] Developing a User-Friendly Direct URL for YT Subscription</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-experts-choice-the-10-best-movie-making-cameras/"><u>[Updated] Expert's Choice The 10 Best Movie Making Cameras</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/charge-all-your-gadgets-on-the-go-with-this-140w-multi-device-companion-lasts-until-next-charge/"><u>Charge All Your Gadgets on the Go with This 140W Multi-Device Companion - Lasts Until Next Charge</u></a></li>
+<li><a href="https://common-error.techidaily.com/cursor-no-more-solutions-for-halting-persistent-blinking-issues/"><u>Cursor No More! Solutions for Halting Persistent Blinking Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-long-lasting-laptop-of-the-year-featuring-sleek-portability-and-extended-battery-life-zdnet/"><u>Discover the Best Long-Lasting Laptop of the Year - Featuring Sleek Portability and Extended Battery Life | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-savings-exclusive-july-2024-deals-on-laptops-featured/"><u>Discover the Ultimate Savings: Exclusive July 2024 Deals on Laptops Featured</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/expert-guide-to-converting-xmlssattml-into-srt/"><u>Expert Guide to Converting XML/SSA/TTML Into SRT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-score-the-ultimate-immersive-sound-with-discounted-premium-gaming-speakers-at-amazon-review/"><u>Huge Savings Alert! Score the Ultimate Immersive Sound with Discounted Premium Gaming Speakers at Amazon Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-c55-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme C55</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-narzo-60x-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme Narzo 60x 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-spark-10c-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Spark 10C Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/lyrx-software-version-11010-update-available-download-the-latest-maintenance-release/"><u>LYRX Software Version 1.10.1.0 Update Available: Download the Latest Maintenance Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/savings-alert-grab-the-8tb-samsung-t5-ssd-on-amazon-up-to-36-less-post-prime-day-zdnet-tech-reviews/"><u>Savings Alert: Grab the 8TB Samsung T5 SSD on Amazon Up to 36% Less Post-Prime Day | ZDNet Tech Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-discounted-hp-victus-15-gaming-laptop-at-just-515-during-amazon-prime-day-exclusive-best-buy-offer-featured-on-zdnet/"><u>Secure Your Discounted HP Victus 15 Gaming Laptop at Just $515 During Amazon Prime Day - Exclusive Best Buy Offer Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-cluttered-desk-into-a-tech-haven-explore-the-ultimate-11-in-1-docking-station-at-44-off-featured/"><u>Transform Your Cluttered Desk Into a Tech Haven: Explore the Ultimate 11-in-1 Docking Station at 44% Off | Featured</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Revealed: The New AMD EPYC 5 128-Core Processor with Impressive 512MB L3 Caching Capabilities"
-date: 2024-08-19T04:01:45.659Z
-updated: 2024-08-20T04:01:45.659Z
+date: 2025-01-07T21:29:03.830Z
+updated: 2025-01-12T23:58:29.375Z
 tags:
   - cpu
 categories:
@@ -32,6 +32,10 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 
  As always, take these results with a pinch of salt. The conditions in which the Core Ultra 7 was running are unknown. However, we won't see what Arrow Lake is capable of until in a few months, as Intel's next-generation chips have been rumored to launch in October, while AMD's Ryzen 9000 lineup is just right around the corner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -40,14 +44,11 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -56,8 +57,22 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-tools-for-every-videographers-kit/"><u>[New] 2024 Approved Essential Tools for Every Videographer's Kit</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unveiling-top-15-cost-saving-web-editors-rated-best/"><u>[New] 2024 Approved Unveiling Top 15 Cost-Saving Web Editors - Rated Best</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-removing-aerial-video-pulsation-effects/"><u>[Updated] Removing Aerial Video Pulsation Effects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/benefits-of-upgrading-to-an-nvidia-rtx-card-is-it-worth-it/"><u>Benefits of Upgrading to an NVIDIA RTX Card: Is It Worth It?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-presidents-day-offer-save-big-on-the-2023-apple-m2-macbook-air-get-300-discount-techsavvy/"><u>Exclusive Presidents' Day Offer: Save Big on the 2023 Apple M2 MacBook Air - Get $300 Discount | TechSavvy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-non-lenovo-non-dell-office-2-in-1-laptops-recommended-models-from-zdnet/"><u>Expert Advice on Non-Lenovo, Non-Dell Office 2-in-1 Laptops | Recommended Models From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-expert-techniques-to-upload-strikingly-good-content-on-tiktok-via-mac-and-windows/"><u>In 2024, Expert Techniques to Upload Strikingly Good Content on TikTok via Mac and Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/minecraft-wont-start-top-fixes-and-workarounds-for-common-windows-glitches/"><u>Minecraft Won't Start? Top Fixes and Workarounds for Common Windows Glitches</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-cutting-edge-techniques-for-pitch-modification-in-audacity-keeping-the-sound-crisp/"><u>New In 2024, Cutting-Edge Techniques for Pitch Modification in Audacity Keeping the Sound Crisp</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/struggling-with-windows-11-master-these-tricks-to-recreate-the-windows-10-experience/"><u>Struggling with Windows 11? Master These Tricks to Recreate the Windows 10 Experience!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-2024-prime-gaming-sales-exclusive-offers-and-discounts/"><u>Top October 2024 Prime Gaming Sales: Exclusive Offers & Discounts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-test-of-the-trendy-wrinkle-resistant-usb-c-charger-a-must-have-for-your-next-adventure-zdnet/"><u>Ultimate Test of the Trendy 'Wrinkle-Resistant' USB-C Charger - A Must-Have for Your Next Adventure! | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-game-changing-perks-of-dells-premium-3k-gaming-rig-a-comprehensive-review/"><u>Unveiling the Game-Changing Perks of Dell's Premium $3K Gaming Rig: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-why-the-wii-u-became-a-noteworthy-success-story/"><u>Unveiling Why The Wii U Became A Noteworthy Success Story</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

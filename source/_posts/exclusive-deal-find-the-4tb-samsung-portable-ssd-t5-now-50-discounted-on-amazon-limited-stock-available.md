@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal: Find the 4TB Samsung Portable SSD (T5) Now 50%% Discounted on Amazon – Limited Stock Available"
-date: 2024-12-31T18:45:23.162Z
-updated: 2025-01-06T06:21:19.708Z
+date: 2025-01-10T18:57:05.509Z
+updated: 2025-01-12T17:09:14.466Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -75,7 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -87,7 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -124,18 +124,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-perfect-practices-in-livestreaming-athletic-competitions/"><u>[New] 2024 Approved Perfect Practices in Livestreaming Athletic Competitions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-upside-down-visuals-instagrams-guide-to-flipping-and-sharing-videos/"><u>[New] In 2024, Upside Down Visuals Instagram's Guide to Flipping & Sharing Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-screen-savers-guide-to-recording-tech/"><u>[Updated] In 2024, The Screen Saver's Guide to Recording Tech</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-greatest-of-all-time-reddits-favorite-threads/"><u>2024 Approved Greatest of All Time Reddit's Favorite Threads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazons-prime-day-deals-endure-secure-the-8tb-samsung-t5-nvme-ssd-with-a-steep-36-discount-on-zdnet/"><u>Amazon's Prime Day Deals Endure: Secure the 8TB Samsung T5 NVMe SSD with a Steep 36% Discount on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/black-friday-blowout-save-big-with-this-deal-250-off-the-versatile-power-packed-dell-inspiron-16-inch-2-in-1-laptop/"><u>Black Friday Blowout! Save Big with This Deal: $250 Off the Versatile, Power-Packed Dell Inspiron 16-Inch 2-in-1 Laptop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-an-extreme-bargain-snag-a-premium-512gb-m1-macbook-pro-for-less-than-ever-before-at-just-450-off-zdnet-deals/"><u>Get an Extreme Bargain: Snag a Premium 512GB M1 MacBook Pro for Less Than Ever Before at Just $450 Off | ZDNET Deals</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/idt-hd-sound-driver-installation-hacks-and-solutions-for-windows-11-users-a-comprehensive-guide/"><u>IDT HD Sound Driver Installation Hacks & Solutions for Windows 11 Users – A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-v27-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo V27 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-individuality-with-ai-instructing-chatgpt-to-reflect-you/"><u>The Art of Individuality with AI: Instructing ChatGPT to Reflect You</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-y55s-5g-2023-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo Y55s 5G (2023) Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-best-buy-bargains-in-june-2024-find-your-next-purchase-on-zdnet/"><u>Top-Rated Best Buy Bargains in June 2024: Find Your Next Purchase on ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pixels-and-players-advanced-tactics-for-recording-gaming-for-2024/"><u>[New] Pixels and Players Advanced Tactics for Recording Gaming for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-skys-best-hd-pics-top-website-guide/"><u>[New] Sky's Best HD Pics Top Website Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-instagrams-vertical-vortex-sideways-media-mystery/"><u>[Updated] 2024 Approved Instagram's Vertical Vortex Sideways Media Mystery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-no-cost-nintendo-switch-virtual-games/"><u>[Updated] No-Cost Nintendo Switch Virtual Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-adobe-premiere-soundtrack-guide/"><u>2024 Approved The Ultimate Adobe Premiere Soundtrack Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-redmi-k70e-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi Redmi K70E Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-recommendations-top-resin-3d-printing-systems-of-2024/"><u>Expert Recommendations: Top Resin 3D Printing Systems of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-network-adapters-extend-connectivity-range-and-escalate-information-flow/"><u>High-Performance Network Adapters: Extend Connectivity Range & Escalate Information Flow</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-motorola-edge-2023-is-unlocked-by-drfone-android/"><u>How To Check if Your Motorola Edge 2023 Is Unlocked</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-gadget-analysis-by-toms-hardware/"><u>In-Depth Gadget Analysis by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-insights-by-tom-gear-up-your-system-smartly/"><u>In-Depth Hardware Insights by Tom - Gear Up Your System Smartly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-features-and-performance-analysis-of-the-lian-li-hydroshift-360s-gaming-chassis/"><u>Innovative Features and Performance Analysis of the Lian Li HydroShift 360S Gaming Chassis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-devices-through-toms-electronic-wisdom/"><u>Mastering Modern Devices Through Tom's Electronic Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-choices-wisdom-from-toms-hardware-experts/"><u>Mastering Tech Choices: Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-toms-hardware-wisdom/"><u>Mastering Technology with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastery-guide-overcoming-layer-misalignment-challenges-in-3d-print-technology/"><u>Mastery Guide: Overcoming Layer Misalignment Challenges in 3D Print Technology</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/professional-4k-capture-selecting-top-gimbals/"><u>Professional 4K Capture Selecting Top Gimbals</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574032401-trouble-printing-on-windows-11-lets-fix-it/"><u>Trouble Printing on Windows 11? Let's Fix It!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-13-ultra-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi 13 Ultra without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

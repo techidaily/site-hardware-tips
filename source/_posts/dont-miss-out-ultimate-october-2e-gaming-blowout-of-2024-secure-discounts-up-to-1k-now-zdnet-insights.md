@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out: Ultimate October 2E Gaming Blowout of 2024 – Secure Discounts Up to $1K Now | ZDNET Insights"
-date: 2025-01-01T18:11:48.669Z
-updated: 2025-01-05T19:22:19.426Z
+date: 2025-01-08T00:17:16.580Z
+updated: 2025-01-12T22:19:47.457Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
 
@@ -106,7 +102,7 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 gaming deals still available
@@ -125,6 +121,10 @@ ZDNET
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals still available
 
@@ -168,6 +168,10 @@ Nintendo/ZDNET
 * [Bayonetta 3 for $44 (save $16 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBayonetta-3-Nintendo-Switch%2F838016510%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Bayonetta returns to take on an invading host of bioweapons called the Homunculi. She'll use her signature pistols, magic abilities, and new companion, Viola, to take down monsters and save reality from destruction.
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals still available
 
@@ -215,29 +219,25 @@ Samsung/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -304,21 +304,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-uploading-and-showcasing-videos-on-instagram-made-easy/"><u>[New] Uploading and Showcasing Videos on Instagram Made Easy</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-delightful-stream-extractor-report/"><u>[Updated] In 2024, Delightful Stream Extractor Report</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-and-top-quality-(70-macbook-usb-c-chargers-available-on-amazon-recommended-by-tech-experts-at-zdnet/"><u>Affordable & Top-Quality <$70 MacBook USB-C Chargers Available on Amazon - Recommended by Tech Experts at ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-unleashes-stunning-oled-mastery-in-latest-laptop-range-top-contender-among-thousands/"><u>Asus Unleashes Stunning OLED Mastery in Latest Laptop Range - Top Contender Among Thousands</u></a></li>
-<li><a href="https://win-studio.techidaily.com/exploring-the-future-of-dex-mixing-software-in-2018-insights-from-a-dj-perspective/"><u>Exploring the Future of DEX 지 Mixing Software in 2018: Insights From a DJ Perspective</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-infinix-note-30-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Infinix Note 30 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-microsofts-bold-bet-on-new-ai-processor-technology-poised-to-outshine-macbook-exclusive-zdnet-insight/"><u>Inside Microsoft's Bold Bet on New AI Processor Technology Poised to Outshine MacBook - Exclusive ZDNet Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/shockingly-discounted-get-an-8tb-samsung-t5-ssd-now-at-just-36-off-post-amazon-prime-day-spotted-by-zdnet/"><u>Shockingly Discounted: Get an 8TB Samsung T5 SSD Now At Just 36% Off Post-Amazon Prime Day, Spotted by ZDNet!</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-change-your-windows-11-username/"><u>Steps to Change Your Windows 11 Username</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/streamline-and-stand-out-twitters-video-directive-for-2024/"><u>Streamline and Stand Out Twitter's Video Directive for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/tecnicas-gratuitas-para-modificar-archivos-pdf-herramientas-eficaces-que-no-requieren-pago/"><u>Técnicas Gratuitas Para Modificar Archivos PDF: Herramientas Eficaces Que No Requieren Pago</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-game-changing-ai-processor-set-to-power-the-next-generation-of-laptops-breakthrough-analysis-on-benefits-by-zdnet/"><u>The Game-Changing AI Processor Set to Power the Next Generation of Laptops | Breakthrough Analysis on Benefits by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-why-this-reliable-ipad-pro-usb-c-hub-stands-out-featured-on-zdnet/"><u>The Ultimate Guide: Why This Reliable iPad Pro USB-C Hub Stands Out - Featured on ZDNet</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-f5-pro-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from F5 Pro 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-the-most-portable-laptop-with-unbeatable-full-day-battery-a-comprehensive-review/"><u>Top Pick: The Most Portable Laptop with Unbeatable Full-Day Battery – A Comprehensive Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-independent-game-apps-for-screen-free-android-playing/"><u>[New] 2024 Approved Top Independent Game Apps for Screen-Free Android Playing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-detailed-exposition-on-harnessing-power-of-adobes-cloud-data-vaults/"><u>[New] A Detailed Exposition on Harnessing Power of Adobe's Cloud Data Vaults</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-building-a-community-through-periscope-streams/"><u>[Updated] Building a Community Through Periscope Streams</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-cutting-edge-tools-for-youtube-content-capture-for-2024/"><u>[Updated] Cutting-Edge Tools for YouTube Content Capture for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-social-score-best-tools-for-post-and-engagement/"><u>[Updated] Elevate Your Social Score Best Tools for Post and Engagement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cooler-master-unveils-epic-57-ultra-widescreen-gaming-display-with-stunning-mini-led-technology/"><u>Cooler Master Unveils Epic 57 Ultra Widescreen Gaming Display with Stunning Mini LED Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elegoos-high-tech-3d-printer-neptune-x4-pro-now-a-steal-at-284/"><u>Elegoo's High-Tech 3D Printer - Neptune X4 Pro Now a Steal at $284</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensuring-solidity-how-to-eliminate-porosities-in-your-3d-models/"><u>Ensuring Solidity: How to Eliminate Porosities in Your 3D Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-overcoming-invisible-problems-during-3d-printing-process/"><u>Expert Advice: Overcoming Invisible Problems During 3D Printing Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-hardware-review-team/"><u>Expert Insights From Tom's Hardware Review Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-tech-dive-into-toms-hardware-guide/"><u>Expert Insights Into Tech - Dive Into Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-computing-articles-from-toms-hardware/"><u>Exploring Cutting-Edge Computing: Articles From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-electronics-with-tom-comprehensive-hardware-insights/"><u>Exploring Electronics with Tom - Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-computing-with-toms-hardware-experts/"><u>Exploring the Latest in Computing with Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-resolved-genshin-impact-mishap-code-4201/"><u>Fixing the Issue: Resolved Genshin Impact Mishap Code 4201</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y02t-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y02T is off? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synthesizing-sound-and-slides-incorporating-melodies-in-ppt/"><u>In 2024, Synthesizing Sound and Slides Incorporating Melodies in PPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-lab-expert-hardware-evaluations-unveiled/"><u>Inside Tom's Electronics Lab - Expert Hardware Evaluations Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/price-vs-design-the-motorola-ones-attempt-to-emulate-the-iphone-experience-affordably/"><u>Price Vs. Design: The Motorola One's Attempt to Emulate the iPhone Experience Affordably</u></a></li>
 </ul></div>
 

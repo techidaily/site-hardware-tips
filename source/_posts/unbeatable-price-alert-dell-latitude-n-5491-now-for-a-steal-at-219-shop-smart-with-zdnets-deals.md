@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!"
-date: 2024-12-31T16:07:56.529Z
-updated: 2025-01-05T17:37:53.910Z
+date: 2025-01-10T17:55:00.056Z
+updated: 2025-01-12T19:00:58.141Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,15 +87,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-clueless-to-confident-configuring-zoom-made-simple/"><u>[New] From Clueless to Confident Configuring Zoom Made Simple</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-top-8-best-apps-to-get-likes-on-facebook-android-and-iphone/"><u>[New] Top 8 Best Apps to Get Likes on Facebook (Android and iPhone)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-crafting-memorable-announcements-the-key-to-successful-facebook-giving-posts/"><u>[Updated] In 2024, Crafting Memorable Announcements The Key to Successful Facebook Giving Posts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beware-of-invasive-pc-repair-workers-snooping-on-personal-data-recent-study-warns-zdnet/"><u>Beware of Invasive PC Repair Workers Snooping on Personal Data, Recent Study Warns | ZDNET</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/changing-screen-aspects-digitally/"><u>Changing Screen Aspects Digitally</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-malfunctioning-mouse-context-menus/"><u>Mastery Over Malfunctioning Mouse Context Menus</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-laptops-lifespan-with-easy-steps-to-turn-on-google-chromes-energy-saver-mode-a-must-read-guide/"><u>Maximize Your Laptop's Lifespan with Easy Steps to Turn On Google Chrome's Energy Saver Mode: A Must-Read Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mega-discount-on-high-performance-gaming-pcs-up-to-57-savings-on-gigabyte-aero-16-techsavvy/"><u>Mega Discount on High-Performance Gaming PCs - Up to 57% Savings on Gigabyte Aero 16 | TechSavvy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-the-revolutionary-lg-gram-pro-17-a-featherlight-powerhouse-perfect-for-prime-day-deals-exclusive-review-by-zdnet/"><u>Unboxing the Revolutionary LG Gram Pro 17: A Featherlight Powerhouse Perfect for Prime Day Deals - Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-by-step-approach-to-conquering-igtv/"><u>[New] 2024 Approved Step-By-Step Approach to Conquering IGTV</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-maximizing-gameplay-preservation-on-the-newest-windows-11/"><u>[Updated] 2024 Approved Maximizing Gameplay Preservation on the Newest Windows 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok/"><u>[Updated] In 2024, Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-securing-youtube-srt-files-a-threefold-procedure/"><u>2024 Approved Securing YouTube SRT Files A Threefold Procedure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-resolving-failed-to-set-user-settings-for-drivers-quickly-and-effectively/"><u>Expert Advice: Resolving 'Failed to Set User Settings for Drivers' Quickly and Effectively</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/qidi-tech-q1-pro-assessment-ignite-your-creativity-and-focus/"><u>QIDI Tech Q1 Pro Assessment - Ignite Your Creativity & Focus!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-stereolithography-micronics-unveils-portable-cost-effective-desktop-3d-printer-at-2999-price-tag/"><u>The Future of Stereolithography: Micronics Unveils Portable, Cost-Effective Desktop 3D Printer at $2,999 Price Tag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-building-and-upgrades-featuring-toms-hardware/"><u>The Ultimate Guide to PC Building and Upgrades - Featuring Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-premium-gaming-computers-for-2pertinade-year/"><u>The Ultimate Selection of Premium Gaming Computers for 2Pertinade Year</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-essentials-the-definitive-guide/"><u>Tom's Computing Essentials: The Definitive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-reviews-and-guides-by-toms-hardware/"><u>Tom's Tech Hub: In-Depth Reviews and Guides by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-reviews-and-news/"><u>Tom's Tech Insights: Comprehensive Computer Reviews and News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-computer-and-electronics-guides/"><u>Tom's Tech Reviews: Comprehensive Computer and Electronics Guides</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ate-gear-premium-lenses-for-vloggers/"><u>Ultimate Gear Premium Lenses for Vloggers</u></a></li>
 </ul></div>
 

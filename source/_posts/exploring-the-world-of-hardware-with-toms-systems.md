@@ -1,7 +1,7 @@
 ---
 title: Exploring the World of Hardware with Tom's Systems
-date: 2024-08-19T03:59:26.195Z
-updated: 2024-08-20T03:59:26.195Z
+date: 2025-01-10T16:52:32.625Z
+updated: 2025-01-12T18:57:58.029Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  Intel isn't sharing many deep-dive details about the bug yet but says it will continue its validation process to ensure the microcode fully addresses the issues. The company will release more details about the bug itself in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,6 +43,10 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  Intel has not issued a recall of its processors; sources close to the matter tell us that isn't expected. We have both of Intel's statements below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Intel statement on 13th- and 14th-Gen instability
 
  _"Based on extensive analysis of Intel Core 13th/14th Gen desktop processors returned to us due to instability issues, we have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors. Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor."_
@@ -48,8 +56,9 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  _"Intel is committed to making this right with our customers, and we continue asking any customers currently experiencing instability issues on their Intel Core 13th/14th Gen desktop processors reach out to Intel Customer Support for further assistance."_
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Intel statement on via oxidation
 
 **Short answer:** We can confirm there was a via Oxidation manufacturing issue (addressed back in 2023) but it is not related to the instability issue.
@@ -58,14 +67,11 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  _For the Instability issue, we are delivering a microcode patch which addresses exposure to elevated voltages which is a key element of the Instability issue. We are currently validating the microcode patch to ensure the instability issues for 13th/14th Gen are addressed. -_ Intel representative[via Reddit](https://www.reddit.com/r/intel/comments/1e9mf04/comment/lefz09c/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -74,4 +80,19 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-make-a-mark-as-an-hdr-photography-pro-with-lightroom/"><u>[New] In 2024, How to Make a Mark as an HDR Photography Pro with Lightroom</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/earn-cinematic-techniques-with-youtube-veterans-and-novices-for-2024/"><u>[New] Learn Cinematic Techniques with YouTube Veterans and Novices for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-a78-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo A78 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/america-blocks-deepcool-exports-to-russia-as-tensions-rise-over-ukraine-impact-on-tech-industry/"><u>America Blocks DeepCool Exports to Russia as Tensions Rise Over Ukraine; Impact on Tech Industry</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-in-fast-3d-printing-mits-innovative-method-utilizing-leftover-metal-and-glass-bead-substrates/"><u>Breakthrough in Fast 3D Printing: MIT's Innovative Method Utilizing Leftover Metal & Glass Bead Substrates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-better-systems-with-advice-from-toms-hardware-specialists/"><u>Building Better Systems with Advice From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-lian-li-galahad-ii-360-lcd-all-in-one-cpu-cooler-for-intel-i9-14900k-performance/"><u>Comprehensive Analysis of Lian Li Galahad II 360 LCD All-in-One CPU Cooler for Intel I9 14900K Performance</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-12-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi 12 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-windows-system-fresh-usb-30-ethernet-driver-software/"><u>How to Update Your Windows System: Fresh USB 3.0 Ethernet Driver Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-best-asmr-microphones-with-amazing-performance-and-affordable-price/"><u>In 2024, Best ASMR Microphones with Amazing Performance and Affordable Price</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-chromes-file-uploading-frustrations-on-a-pc/"><u>Overcome Chrome's File Uploading Frustrations on a PC</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-infinix-smart-8-hd-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Smart 8 HD Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

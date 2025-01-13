@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights From ZDNet"
-date: 2025-01-03T11:44:03.875Z
-updated: 2025-01-05T21:42:31.565Z
+date: 2025-01-08T00:29:49.469Z
+updated: 2025-01-12T16:49:25.217Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,24 +116,17 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-tips-for-using-switch-pro-controller-with-steam/"><u>[New] 2024 Approved Essential Tips for Using Switch Pro Controller with Steam</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-tier-android-video-and-image-recording-tools-reviewed/"><u>[Updated] 2024 Approved Top-Tier Android Video & Image Recording Tools Reviewed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-learn-to-link-zoom-effortlessly-with-email-clients-like-gmail/"><u>[Updated] In 2024, Learn to Link Zoom Effortlessly with Email Clients Like Gmail</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-in-depth-look-the-prime-snipping-options-on-macos/"><u>2024 Approved In-Depth Look The Prime Snipping Options on macOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergo-split-keyboard-how-one-change-transformed-my-tech-experience-zdnet/"><u>A Week with an Ergo-Split Keyboard: How One Change Transformed My Tech Experience | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/acer-chromebook-516-gs-deep-dive-exceptional-performance-in-cloud-gaming-zdnet/"><u>Acer Chromebook 516 GS Deep Dive: Exceptional Performance in Cloud Gaming - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-power-unveiling-the-surprisingly-advanced-features-of-an-inexpensive-8-port-usb-hub-a-review-by-techexplorer/"><u>Affordable Power: Unveiling the Surprisingly Advanced Features of an Inexpensive 8-Port USB Hub - A Review by TechExplorer</u></a></li>
-<li><a href="https://techidaily.com/applying-pitch-strategies-to-enhance-smart-automation-projects/"><u>Applying Pitch Strategies to Enhance Smart Automation Projects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boosting-power-play-key-strategies-for-longer-windows-laptop-battery-performance/"><u>Boosting Power Play: Key Strategies for Longer Windows Laptop Battery Performance</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/discover-the-1-5-editors-perfect-for-your-macos-sierra-setup/"><u>Discover the #1-#5 Editors Perfect for Your MacOS Sierra Setup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-oled-laptops-expertly-tested-and-reviewed-insights/"><u>Elite Selection of OLED Laptops : Expertly Tested and Reviewed Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-efficacy-of-mcafees-new-ai-deepfake-audio-detector-does-it-meet-security-standards/"><u>Exploring the Efficacy of McAfee's New AI Deepfake Audio Detector – Does It Meet Security Standards?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guia-gratuita-para-convertir-archivos-apng-a-png-con-eficiencia-online/"><u>Guía Gratuita Para Convertir Archivos APNG a PNG Con Eficiencia Online</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-12-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 12? Heres the Best Fixes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-grove-memetic-magic-for-all-ages/"><u>In 2024, Giggle Grove Memetic Magic for All Ages</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-hps-bold-new-laptop-design-a-fearless-challenge-to-the-norm-unlikely-from-apple-insights/"><u>Introducing HP's Bold New Laptop Design: A Fearless Challenge to the Norm, Unlikely From Apple - Insights</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ating-the-process-of-verifying-your-youtube-id-for-2024/"><u>Navigating the Process of Verifying Your YouTube ID for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-find-the-ultimate-gaming-audio-experience-with-a-150-discount-on-amazon-exclusively-featured-by-zdnet/"><u>Unbeatable Bargain: Find the Ultimate Gaming Audio Experience with a $150 Discount on Amazon - Exclusively Featured by ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-power-of-new-macbook-pro-chips-a-detailed-review-of-the-m3-m3-pro-and-m3-max-processors/"><u>Understanding the Power of New MacBook Pro Chips: A Detailed Review of the M3, M3 Pro, and M3 Max Processors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/op-7-best-fmovie-alternatives2023-updates-for-2024/"><u>[New] Top 7 Best Fmovie Alternatives[2023 Updates] for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-essential-apps-to-extract-and-save-your-vimeo-videos/"><u>[Updated] 2024 Approved Essential Apps to Extract and Save Your Vimeo Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-rx-memory-revamp-for-2024/"><u>[Updated] RX Memory Revamp for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/diy-instagram-alert-tunes-a-step-by-step-guide/"><u>DIY Instagram Alert Tunes A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-find-n3-flip-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Find N3 Flip Phone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-oculus-quest-2-superb-value-for-premium-vr-gaming/"><u>In-Depth Analysis of the Oculus Quest 2: Superb Value for Premium VR Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-gadgets-and-computer-equipment/"><u>Tom's Tech Review: The Ultimate Guide to Gadgets and Computer Equipment</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-14-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi 14 Ultra to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-waste-into-art-how-recycled-plastics-become-excellent-3d-printing-materials/"><u>Transforming Waste Into Art: How Recycled Plastics Become Excellent 3D Printing Materials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-solving-stringing-issues-in-your-3d-print-projects/"><u>Ultimate Guide: Solving Stringing Issues in Your 3D Print Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-the-bloom-high-performance-computing-with-aromatic-heavenly-thermal-compound/"><u>Unleash the Bloom: High-Performance Computing with Aromatic, Heavenly Thermal Compound!</u></a></li>
 </ul></div>
 

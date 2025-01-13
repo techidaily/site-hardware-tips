@@ -1,7 +1,7 @@
 ---
 title: Advanced Cura Enhancements to Upgrade Your 3D Printing Process
-date: 2024-08-23T12:55:20.227Z
-updated: 2024-08-24T12:55:20.227Z
+date: 2025-01-05T19:49:00.749Z
+updated: 2025-01-13T02:40:10.873Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,22 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-getting-prepared-for-macos-11-big-sur-upgrade/"><u>[New] Getting Prepared for MacOS 11 Big Sur Upgrade</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hort-film-synopsis-must-know-points-for-2024/"><u>[New] Short Film Synopsis Must-Know Points for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-direct-video-transmission-from-twitters-to-whatsapp/"><u>[Updated] In 2024, Direct Video Transmission From Twitters to WhatsApp</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-total-byte-requirement-for-a-days-movie-watching/"><u>[Updated] Total Byte Requirement for a Day's Movie Watching</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-build-diy-virtual-reality-google-cardboard-hack/"><u>2024 Approved Build DIY Virtual Reality Google Cardboard Hack</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-epic-offer-dive-into-high-definition-game-sounds-for-just-150-less-discover-the-ultimate-speaker-system-honored-gaming-reviewers/"><u>Amazon's Epic Offer: Dive Into High-Definition Game Sounds for Just $150 Less! Discover the Ultimate Speaker System, Honored Gaming Reviewers</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-elite-collection-of-oled-laptops-in-202email-protected-in-depth-analysis-and-ratings-zdnet/"><u>Discover the Elite Collection of OLED Laptops in 202([Email Protected]) - In-Depth Analysis and Ratings | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultra-portable-lg-gram-pro-17-exceptional-experience-and-sales-alert-during-amazon-prime-day-exclusive-insights/"><u>Discover the Ultra-Portable LG Gram Pro 17: Exceptional Experience & Sales Alert During Amazon Prime Day - Exclusive Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-limited-stock-on-the-massive-8tb-samsung-t5-ssd-deeply-discounted-to-36-after-amazons-october-prime-day-flurry-insights/"><u>Don't Miss Out! Limited Stock on the Massive 8TB Samsung T5 SSD – Deeply Discounted to 36% After Amazon's October Prime Day Flurry | Insights .</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminating-faults-the-six-no-goes-of-ai-chatting/"><u>Eliminating Faults: The Six No-Goes of AI Chatting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-mysterious-black-screen-on-discord-while-you-share-content/"><u>Fixing the Mysterious Black Screen on Discord While You Share Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ifa-2024-showcase-discovering-the-wonders-of-lenovos-revolutionary-auto-swivel-laptop-zdnet/"><u>IFA 2024 Showcase: Discovering the Wonders of Lenovo's Revolutionary Auto-Swivel Laptop | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-repairability-in-new-microsoft-laptops-surprises-ifixit-challenges-rivals-to-step-up-apple-under-scrutiny-zdnet/"><u>Revolutionary Repairability in New Microsoft Laptops Surprises iFixit - Challenges Rivals to Step Up (Apple Under Scrutiny) | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-expertly-tested-and-reviewed-linux-distros-perfect-for-newbies-get-started-with-confidence/"><u>Top Picks: Expertly Tested & Reviewed Linux Distros Perfect for Newbies - Get Started with Confidence!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

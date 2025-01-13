@@ -1,7 +1,7 @@
 ---
 title: Innovative Space-Grade Metal 3D Printer From Airbus & ESA to Launch at ISS
-date: 2024-08-19T04:00:05.147Z
-updated: 2024-08-20T04:00:05.147Z
+date: 2025-01-09T03:11:21.003Z
+updated: 2025-01-12T22:37:54.841Z
 tags:
   - printer
 categories:
@@ -30,6 +30,10 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
  I should note that many early adopters have complained about quality issues, and you may see some troubling videos on YouTube from content creators who received early units. It appears the first batch of XLs shipped with .6 mm nozzles and were poorly tuned. Our test machine came from a later batch with better firmware, better input shaping and .4mm nozzles. I firmly believe that if you order an XL today, you will receive the top quality you expect to get from a Prusa. Sometimes, it’s good to wait.
 
  The Prusa Original XL is a feat of engineering and one of the[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) we’ve ever tested.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications: Original Prusa XL
 
@@ -65,15 +69,13 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
  We also received a few bonus items for the review: an adapter to use traditional nozzles, extra build plates, and several rolls of filament.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Design of the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6hj6fUJjafrEzDmqAJN5TS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Original Prusa XL is a new machine that doesn’t stray far from the Prusa design and color branding. Its boxy frame is black with orange accents, and logos are printed on both the toolhead and back cover. It’s a beefy boi with Bowden tubes that arch over the top and spool holders that mount on both sides. The frame is C shaped, keeping the front open and easily accessible to reach in and grab your prints, or just to set up a camera for timelapses. LED lights tucked under the top frame provide enough light for observation and most camera needs.
@@ -98,9 +100,17 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
  The XL has built in WiFi, another new feature we love seeing on printers. This allows you to securely access your machine from a local area network or through Prusa Research’s cloud based Prusa Connect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Assembling the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6oi6svYawnAUqBAQzbAw2S-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -111,8 +121,9 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
  Note: if you purchased the DIY kit version of the XL you’ll need to set aside a weekend to assemble and calibrate it, but you will save $500.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Calibrating the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/SSpJM3ayMuiPMPoLkAYK9U-320-80.jpg)
@@ -126,8 +137,9 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
  You should run the included calibration print to make sure the print heads are in sync with each other. You can make minute adjustments to each print head, but I found that my initial calibrations were off because the nozzles had tiny bits of filament on them, leftover from the factory test. Once the nozzles were scrubbed clean, the printer was able to achieve perfect calibration.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Loading Filament on the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/DvYcZbzQoaT2pwSMG62ixT-320-80.jpg)
@@ -144,13 +156,14 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
  To remove material, go to the Filament menu from the main screen and click unload. It will remember what material was last installed, determine if the filament is still there, and then heat to the appropriate temperature. Once hot, it will retract the plastic until you can easily remove it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Preparing Files / Software for Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/P52DrZpk9Ahw76CiUPJj9T-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Original Prusa XL currently works best with its own slicer, PrusaSlicer. It uses the same color painting method developed for Prusa’s MMU system, which also forms the basis for Bambu Studio. The slicer is free to download and can be used with most other brands of 3D printers.
@@ -159,9 +172,6 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/BTWJwfhHRAoUkaGd9Vu9qR-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Prusa Connect is a more feature rich cloud based program, and can be used to control a single printer or a fleet of Prusa machines. It is not configured to work for 3rd party printers.
@@ -172,9 +182,6 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
  Prusa Research is committed to data[security](https://www.tomshardware.com/tag/security) and does not require your machine to be online in order to operate. File transfers and firmware updates can all be handled with a USB stick.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Printing on the Original Prusa XL
 
  The XL comes with a full roll of Prusament PLA Galaxy Black, but it has room for four more spools. You should really check out our guide to the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) for more suggestions.
@@ -185,9 +192,6 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/V6mQWwSnSaRFuce8DjaykT-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
 
  To test how efficient the XL is with multicolor printing, I printed a dragon using four colors:[eSun Silk Rainbow](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FeSUN-Filament-Multicolored-Gradient-Multicolor%2Fdp%2FB081Q78248%2Fref%3Dasc%5Fdf%5FB081Q78248%2F%3FlinkCode%3Ddf0%26hvadid%3D652400517330%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D573292372013942951%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022877%26hvtargid%3Dpla-888225060708%26mcid%3D19a63deefbae3c1183ab527d1fb74239%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7689802732742375363-20) (main body), Printed Solid Silk Red (coming soon) for the hearts, and[Prusament](https://www.prusa3d.com/en/category/prusament/) in Galaxy Black and Pristine White on the eyes. The prime tower to the right is the only waste produced for this print, which took 13 hours and 51 minutes using default speeds of 170mm/s on the walls and a .2 mm layer height. (The same print took 8 hours longer on my faster Bambu Lab P1P and wasted 70 grams of filament.)
@@ -210,6 +214,10 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
 ![Original Prusa XL](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 [_Prusa Research Toolbox_](https://www.printables.com/model/556185-prusa-box) _by Frikarte3D_
@@ -220,16 +228,10 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
 [_Phone case_](https://www.printables.com/model/46536-iphone-12-pro-max-flexible-case) _by BluecornNM_  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Bottom Line
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/metJPCsBo3TqcVxRaxZJeS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Because of its tool changer, the Prusa Original XL is a dream come true for many 3D printing fans. It’s a large format, multicolor, multi-material machine that nibbles on plastic instead of wasting it by the bucket. The XL is easy to use, with truly hands free auto bed leveling and the ability to set its own Z height. Plus, it's backed by Joseph Prusa’s commitment to Open Source, quality service and data security.
@@ -266,8 +268,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -275,4 +275,16 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-pure-greenprints-accessible-templates-to-amplify-your-filmmaking-expertise/"><u>[New] Pure Greenprints Accessible Templates to Amplify Your Filmmaking Expertise</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-definitive-guide-to-proportion-perfection-in-youtube/"><u>[New] The Definitive Guide to Proportion Perfection in YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-compilation-best-tools-for-vimeo-files/"><u>[Updated] Ultimate Compilation Best Tools for Vimeo Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/30plus-trending-youtube-shorts-hashtags-to-make-videos-go-viral-for-2024/"><u>30+ Trending YouTube Shorts Hashtags to Make Videos Go Viral for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-in-computing-cooling-noctuas-prototype-for-efficient-non-pump-aio-liquid-systems/"><u>Breakthrough in Computing Cooling: Noctua's Prototype for Efficient, Non-Pump AIO Liquid Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chinese-tech-marvel-tryx-reveals-a-game-changing-all-in-one-cooler-with-advanced-curved-amoled-display/"><u>Chinese Tech Marvel: Tryx Reveals a Game-Changing All-In-One Cooler with Advanced Curved AMOLED Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-scythe-mugen-and-mugen-black-edition-superior-silent-performance-for-an-affordable-cost/"><u>Comprehensive Review of Scythe Mugen Ⅵ & Mugen Ⅵ - Black Edition: Superior Silent Performance for an Affordable Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-gadgets-and-gizmos-at-toms-digital-workshop/"><u>Decoding Gadgets and Gizmos at Tom's Digital Workshop</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effective-techniques-to-rectify-video-file-errors/"><u>Effective Techniques to Rectify Video File Errors</u></a></li>
+</ul></div>
 

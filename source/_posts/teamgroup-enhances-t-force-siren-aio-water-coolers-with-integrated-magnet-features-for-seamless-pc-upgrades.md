@@ -1,7 +1,7 @@
 ---
 title: TeamGroup Enhances T-Force Siren AIO Water Coolers with Integrated Magnet Features for Seamless PC Upgrades
-date: 2024-08-23T12:56:15.183Z
-updated: 2024-08-24T12:56:15.183Z
+date: 2025-01-10T03:24:07.435Z
+updated: 2025-01-13T00:36:21.038Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
  In terms of performance, the air-cooled CPU was seen to deliver about 38,300cb with the AiO-cooled chip achieving just over 39,100cb. The CPU clocks were much more steady at 5.6 GHz using the AiO, but with the air cooler in place they often dipped to 5.4 GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +45,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/wmRXDJgtnnLnPhD5DLfZMJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Der8auer)
 
  It may be unfortunate timing for the new EK-Nucleus AIO CR360 Direct Die D-RGB all-in-one CPU cooler, as we are nearly at the end of the Socket 1700 era. Der8auer admitted he didn’t know what might need to be done to make the AiO Intel 15th Gen CPU compatible.
@@ -49,18 +57,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/DwdkCF27CRpbAtFLxxyV8J-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: EKWB)
 
  For some further context, last July we reviewed the closely related EK Nucleus AIO CR360 Lux D-RGB for fully clothed CPUs. Despite price concerns and a slight noise disadvantage against the best rival AiOs, our review crowned it the[new king of AiO cooling](https://www.tomshardware.com/reviews/ek-nucleus-aio-cr360-lux-d-rgb) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +78,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-discover-spiritual-soundtracks-for-daily-life/"><u>[New] Discover Spiritual Soundtracks for Daily Life</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-frame-freezing-banishing-blurry-bites/"><u>[Updated] In 2024, Frame Freezing Banishing Blurry Bites</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-captivating-customer-revelation/"><u>2024 Approved Captivating Customer Revelation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-syma-x8c-battery-life/"><u>2024 Approved Exploring Syma X8C Battery Life</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-laptop-vs-macbook-the-superior-performance-youve-been-missing-out-on/"><u>Asus Laptop Vs. MacBook: The Superior Performance You've Been Missing Out On</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-alert-score-a-steal-with-the-last-minute-79-lenovo-chromebook-shop-now-before-theyre-gone/"><u>Cyber Monday Alert: Score a Steal with the Last-Minute $79 Lenovo Chromebook - Shop Now Before They're Gone!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-tactical-edition-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Tactical Edition PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-y02t-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo Y02T without App | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-bard-googles-newest-ai-contender-against-chatgpt/"><u>Introducing Bard: Google's Newest AI Contender Against ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-ultimate-bargain-apple-macbook-air-with-m2-chip-available-now-for-749-on-amazon-prime-day-zdnet-insights/"><u>Snag the Ultimate Bargain: Apple MacBook Air with M2 Chip Available Now for 749 on Amazon Prime Day | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-dell-non-lenovo-workstation-my-go-to-pick-unveiled-on-zdnet/"><u>Top Non-Dell, Non-Lenovo Workstation: My Go-To Pick Unveiled on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-display-showdown-how-asus-takes-the-lead-with-stunning-oled-on-their-new-laptop-model-techspectrum-daily/"><u>Ultimate Display Showdown: How Asus Takes the Lead with Stunning OLED on Their New Laptop Model | TechSpectrum Daily</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

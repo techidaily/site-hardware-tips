@@ -1,7 +1,7 @@
 ---
 title: Find the Perfect Laptop at Unbeatable Prices During Oct '24 Prime Day Deals | Expert Picks and Tips | ZDNET
-date: 2024-12-31T18:40:16.973Z
-updated: 2025-01-06T02:17:10.976Z
+date: 2025-01-09T01:01:02.206Z
+updated: 2025-01-12T17:14:51.541Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-360-vs-vr-film-explained/"><u>[New] Unveiling 360° Vs. VR Film Explained</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-exploring-the-expense-of-youtube-channel-growth/"><u>[Updated] Exploring the Expense of YouTube Channel Growth</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/500-discount-top-ranking-gaming-laptop-exclusively-offered-on-zdnet-this-october-prime-day-dont-miss-out/"><u>$500 Discount: Top-Ranking Gaming Laptop Exclusively Offered on ZDNet This October Prime Day - Don't Miss Out!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210677645-9781647842819-5zyl6zqb5pit57at5a245yy77yi5y235lia77yj/"><u>國際易經學史（卷一） | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-hidden-gem-in-top-office-gadgets-the-most-underappreciated-2-in-1-device-of-the-year-insights-from-zdnet/"><u>A Hidden Gem in Top Office Gadgets: The Most Underappreciated 2-in-1 Device of the Year - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-202n3-gaming-blowouts-secure-up-to-1000-in-savings-before-its-too-late-spotlight/"><u>Exclusive October Prime Day 202N3 Gaming Blowouts! Secure Up to $1,000 in Savings Before It's Too Late – Spotlight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-undiscovered-masterpieces-a-look-at-exceptional-laptops-you-may-not-know-yet-digital-innovators/"><u>Exploring Undiscovered Masterpieces: A Look at Exceptional Laptops You May Not Know Yet | Digital Innovators</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/extend-your-workspace-for-less-save-hundreds-with-our-dual-monitor-deal-featuring-the-versatile-teamgee-find-out-how/"><u>Extend Your Workspace for Less: Save Hundreds with Our Dual Monitor Deal Featuring the Versatile TeamGee - Find Out How</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-lenovo-screen-software-free-installation-guide/"><u>Get the Newest Lenovo Screen Software - FREE Installation Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-memetic-magic-mastering-the-top-7-techniques-of-gif-craftsmanship/"><u>In 2024, Memetic Magic Mastering the Top 7 Techniques of GIF Craftsmanship</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-guide-to-decoding-tiktoks-pfp-emoji/"><u>In 2024, The Ultimate Guide to Decoding TikTok's PFP Emoji</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intels-official-wifi-driver-installation-pack-for-windows-users/"><u>Intel's Official WiFi Driver Installation Pack for Windows Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-casts-for-google-listeners-for-2024/"><u>Premier Casts for Google Listeners for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-laptop-outshines-thinkpads-and-macbooks-now-available-at-an-unbeatable-price-for-amazon-prime-members/"><u>Top-Performing Laptop Outshines ThinkPads and MacBooks, Now Available at an Unbeatable Price for Amazon Prime Members!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-must-have-mac-applications-curated-by-cnet-reviewers/"><u>Ultimate List of Must-Have Mac Applications | Curated by CNet Reviewers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-most-popular-tweet-chronicles-2023-edition/"><u>[New] In 2024, Most Popular Tweet Chronicles - 2023 Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revamp-chrome-browsing-sharper-social-media-videos/"><u>[Updated] 2024 Approved Revamp Chrome Browsing Sharper Social Media Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-achieving-ideal-mac-resized-instagram-video-content/"><u>[Updated] Achieving Ideal Mac-Resized Instagram Video Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-podcasts-peak-listening-times/"><u>2024 Approved Unveiling Podcasts Peak Listening Times</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-your-animated-gifs-into-static-jpg-images-for-free/"><u>Convert Your Animated GIFs Into Static JPG Images for Free</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dialogue-design-mastery-using-gpt-to-build-unique-bots/"><u>Dialogue Design Mastery: Using GPT to Build Unique Bots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-top-performer-tech-devices-with-toms-review-digest/"><u>Explore Top Performer Tech Devices with Tom's Review Digest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-electronics-with-tom-your-go-to-source/"><u>Exploring the Latest in Electronics with Tom - Your Go-To Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-a-comprehensive-review/"><u>Exploring Tom's Hardware: A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-tech-essentials-the-creme-de-la-creme-of-wireless-keyboards/"><u>Future Tech Essentials: The Crème De La Crème of Wireless Keyboards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-guide-to-the-quickest-quality-and-affordable-rgb-memory-of-2024/"><u>Gamer's Guide to the Quickest, Quality, and Affordable RGB Memory of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grizzlys-revolutionary-heatspreader-technology-reduces-cpu-temp-by-up-to-15c/"><u>Grizzly's Revolutionary Heatspreader Technology Reduces CPU Temp by Up to 15°C</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-stream-interruptions-is-twitch-down-globally-or-just-for-you/"><u>Understanding Stream Interruptions: Is Twitch Down Globally or Just For You?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Buying the Best 144Hz Gaming Displays with 4K Clarity and Curved Designs, Updated
-date: 2024-08-23T12:56:03.702Z
-updated: 2024-08-24T12:56:03.702Z
+date: 2025-01-06T18:56:53.876Z
+updated: 2025-01-13T01:06:37.747Z
 tags:
   - best-picks
 categories:
@@ -16,6 +16,10 @@ Your PC's power supply (aka PSU) plays a significant role in determining your sy
  Of course, you'll also have different concerns depending on whether your power supply will be pushing a monster mining rig, an always-churning workstation, or a basic productivity or[gaming PC](https://www.tomshardware.com/best-picks/best-gaming-pcs) . We’ll help you find the best power supply for your next desktop PC below.
 
  Finally, one of the significant changes that the[ATX12V v3.0 spec](https://www.tomshardware.com/news/intel-atx-v3-psu-standard) brings is the addition of a 12+4 pin PCIe connector to every PSU with more than 450W max power. This means that PSUs lacking this connector won't be compatible with new GPU generations and will soon be rendered obsolete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quick Power Supply Shopping Tips
 
@@ -46,6 +50,10 @@ Your PC's power supply (aka PSU) plays a significant role in determining your sy
 ![Corsair CX450](https://cdn.mos.cms.futurecdn.net/tw7pndz5QGYMown3KNF2mP-320-80.jpg)
 
 Corsair CX450  (Image credit: Corsair)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [1. Corsair CX450](https://www.tomshardware.com/reviews/corsair-cx450-psu,5678.html)
 
@@ -130,6 +138,10 @@ Not as quiet as the CWT-made CX450
 ---
 
 ![Corsair CX550F RGB](https://cdn.mos.cms.futurecdn.net/6Awr7xo28qvVbRcyUWEXsE-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Corsair CX550F RGB  (Image credit: Corsair)
 
@@ -247,14 +259,6 @@ Lower than 17ms hold-up time
 
 ![Corsair RM550x (2021)](https://cdn.mos.cms.futurecdn.net/Re2rASUVFu9qjHvAxT76fS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Corsair RM550x (2021)  (Image credit: Tom's Hardware)
 
 ### [3. Corsair RM550x](https://www.tomshardware.com/reviews/corsair-rm550x-power-supply,4484.html)
@@ -337,14 +341,12 @@ Single EPS connector
 
 ![XPG Core Reactor 650W](https://cdn.mos.cms.futurecdn.net/H5i6mEj6Z8wWiedKoEYaN4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 XPG Core Reactor 650W  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [4. XPG Core Reactor 650W](https://www.tomshardware.com/reviews/xpg-core-reactor-650w-power-supply-review)
 
 Best PSU: Up to 650 Watts
@@ -429,9 +431,6 @@ Two EPS connectors on the same cable
 
 Cooler Master V750 Gold V2  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [5. Cooler Master V750 Gold V2](https://www.tomshardware.com/reviews/cooler-master-v750-gold-v2-power-supply-review)
 
 Best PSU: Up to 750 Watts
@@ -538,14 +537,8 @@ Small distance between connectors
 
 ![EVGA 850 G7](https://cdn.mos.cms.futurecdn.net/K3svbq62HdPCjccFvPzoZR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 EVGA SuperNOVA 850 G7  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### [6. EVGA SuperNOVA 850 G7](https://www.tomshardware.com/reviews/evga-supernova-850-g7-power-supply-review)
 
 Best PSU: Up to 850 Watts
@@ -660,6 +653,10 @@ High inrush currents
 
 MSI MEG Ai1000P PCIe5  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [7. MSI MEG Ai1000P PCIe 5](https://www.tomshardware.com/reviews/msi-meg-ai1000p-pcie-5-atx-v30-power-supply-review)
 
 Best PSU: Up to 1250 Watts
@@ -740,11 +737,16 @@ High inrush current with 115V
 
 ![Thermaltake ToughPower GF3 1350](https://cdn.mos.cms.futurecdn.net/h7UgjqyFWuvb7rBDyYkhtS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Thermaltake Toughpower GF3 1350  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [8. Thermaltake Toughpower GF3 1350W](https://www.tomshardware.com/reviews/thermaltake-toughpower-gf3-1350w-atx-v30-power-supply-review)
 
 Best PSU Above 1250-1500 Watts
@@ -818,13 +820,11 @@ Load regulation could be tighter
 ![Corsair AX1600i](https://cdn.mos.cms.futurecdn.net/J5baPqhhaxZgKKnRm9WBHX-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Corsair AX1600i  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [9. Corsair AX1600i](https://www.tomshardware.com/reviews/corsair-ax1600i-psu,5406.html)
 
 Best PSU Above 1500 Watts
@@ -939,10 +939,11 @@ EMI with AVG detector
 
 ![Corsair SF750](https://cdn.mos.cms.futurecdn.net/4aKWQkNrYrBZqyaq8bF8Be-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Corsair SF750  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [10. Corsair SF750](https://www.tomshardware.com/reviews/corsair-sf750-psu,5979.html)
 
@@ -1224,16 +1225,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -1242,4 +1238,18 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ssential-strategies-for-successful-mukbang-production/"><u>[New] Essential Strategies for Successful Mukbang Production</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-navigating-through-channels-aesthetics-with-these-tools/"><u>[New] In 2024, Navigating Through Channels' Aesthetics with These Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-15-standout-stop-motion-films-of-all-time/"><u>[Updated] Explore the Best 15 Standout Stop-Motion Films of All Time</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-perfect-ad-videos-on-youtube-without-expense-for-2024/"><u>Crafting Perfect Ad Videos on YouTube Without Expense for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-2024-offers-at-best-buy-limited-time-tech-news-by-zdnet/"><u>Exclusive October Prime Day 2024 Offers at Best Buy - Limited Time! | Tech News by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-usb-30-driver-software-easily-on-windows-systems/"><u>Installing USB 3.0 Driver Software Easily on Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-cognitive-behavior-and-ai-technologies/"><u>The Intersection of Cognitive-Behavior and AI Technologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-dual-function-device-with-hidden-workplace-perk-tested-insider-review/"><u>Top Recommended Dual-Function Device with Hidden Workplace Perk Tested - Insider Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-gaming-graphics-cards-insights/"><u>Top-Ranking Gaming Graphics Cards - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-lenovo-devices-ideal-for-remote-and-office-work-with-a-1000-discount-zdnet/"><u>Top-Rated Lenovo Devices Ideal for Remote and Office Work with a $1,000 Discount | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-essential-guide-to-the-greatest-prime-day-bargains-of-october-2024-exclusive-deals-on-tech-zdnet/"><u>Your Essential Guide to the Greatest Prime Day Bargains of October 2024 - Exclusive Deals on Tech | ZDNET</u></a></li>
+</ul></div>
 

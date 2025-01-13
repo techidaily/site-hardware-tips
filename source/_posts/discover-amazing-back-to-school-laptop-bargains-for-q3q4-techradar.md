@@ -1,7 +1,7 @@
 ---
 title: Discover Amazing Back-to-School Laptop Bargains for Q3/Q4 | TechRadar
-date: 2025-01-03T03:02:37.627Z
-updated: 2025-01-06T11:05:59.540Z
+date: 2025-01-08T23:46:47.508Z
+updated: 2025-01-12T17:08:54.657Z
 tags:
   - laptops
 categories:
@@ -96,10 +96,14 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternative laptop deals
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Amazon laptop deals
 
@@ -114,10 +118,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -166,7 +166,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What specifications do I need to look for in a laptop?
@@ -179,16 +179,12 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -206,6 +202,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,16 +257,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-edge-editing-meets-online-video-sharing/"><u>[Updated] 2024 Approved Cutting-Edge Editing Meets Online Video Sharing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-narratives-of-the-bravest-our-favorites-in-adventure-games/"><u>[Updated] 2024 Approved Narratives of the Bravest Our Favorites in Adventure Games</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-how-to-fix-the-green-screen-on-youtube-on-mac-in-2024/"><u>[Updated] How to Fix the Green Screen on YouTube on Mac, In 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-score-apple-m2-macbook-air-at-just-749-this-prime-day-dont-miss-out/"><u>Exclusive Deal Alert: Score Apple M2 MacBook Air at Just $749 This Prime Day – Don't Miss Out!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-complete-guide-to-morphvox-voice-changer/"><u>In 2024, Complete Guide to MorphVOX Voice Changer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/post-prime-day-extravaganza-continues-with-8tb-samsung-t5-ssd-offers-enjoy-a-steep-36-discount-now-on-amazon-insights-from-zdnet/"><u>Post-Prime Day Extravaganza Continues with 8TB Samsung T5 SSD Offers: Enjoy a Steep 36% Discount Now on Amazon | Insights From ZDNET</u></a></li>
-<li><a href="https://win-answers.techidaily.com/star-wars-jedi-fallen-order-solving-the-issue-of-failed-launch/"><u>Star Wars Jedi: Fallen Order - Solving the Issue of Failed Launch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-disappointing-reality-of-the-asus-expertbook-b3-detachable-a-closer-look-on-its-shortcomings/"><u>The Disappointing Reality of the ASUS ExpertBook B3 Detachable – A Closer Look on Its Shortcomings</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-hdmi-splitter-reviews-find-the-ideal-one/"><u>Top-Rated HDMI Splitter Reviews: Find the Ideal One</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-the-power-of-multi-device-connection-with-our-discounted-10-in-1-hub-saving-you-35-exclusively/"><u>Unleash the Power of Multi-Device Connection with Our Discounted 10-in-1 Hub – Saving You 35%, Exclusively !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-extravagant-perks-of-dells-3k-high-end-gamer-an-in-depth-review-from-zdnet/"><u>Unveiling the Extravagant Perks of Dell's $3K High-End Gamer: An In-Depth Review From ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leading-steps-to-mute-movie-filming/"><u>[New] Leading Steps to Mute Movie Filming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-maximizing-video-playback-speed-on-facebook/"><u>[Updated] Maximizing Video Playback Speed on Facebook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-free-guide-recording-youtube-videos-on-screencasts/"><u>2024 Approved Free Guide Recording YouTube Videos on Screencasts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-the-differences-echo-pop-stacked-up-against-echo-dot/"><u>Decoding the Differences: Echo Pop Stacked Up Against Echo Dot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-gadgets-for-your-raspberry-pi-pico/"><u>Essential Gadgets for Your Raspberry Pi Pico</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-digital-gadgets-by-toms-electronics-guide/"><u>Expert Analysis of Digital Gadgets by Tom's Electronics Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-toms-comprehensive-guide-on-hardware/"><u>Expert Review: Tom's Comprehensive Guide on Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-gadgetry-top-picks-and-analyses-from-toms-technological-vault/"><u>Explore Advanced Gadgetry: Top Picks and Analyses From Tom's Technological Vault</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-movies-for-free-simple-video-player-software-for-2024/"><u>Explore Movies for Free Simple VIDEO Player Software for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-f25-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo F25 Pro 5G Phone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revealed-employee-testimonial-why-you-might-prefer-not-to-work-at-apple-according-to-insiders/"><u>Revealed: Employee Testimonial – Why You Might Prefer Not to Work at Apple According to Insiders</u></a></li>
+<li><a href="https://win11.techidaily.com/use-external-tools-explore-third-party-software-like-flux-redshift-or-display-temp-to-customize-display-behavior-according-to-time-of-day-and-ambient-light-32/"><u>Use External Tools: Explore Third-Party Software Like f.lux, Redshift, or Display Temp to Customize Display Behavior According to Time of Day and Ambient Light Conditions.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028830976-windows-10mp4/"><u>フリーウェアによるWindows 10上でのMP4動画回転手順</u></a></li>
 </ul></div>
 

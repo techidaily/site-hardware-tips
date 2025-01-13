@@ -1,7 +1,7 @@
 ---
 title: "Unboxing Performance: Comprehensive Benchmark Results for AMD's Latest CPU Powerhouses - Ryzen 9900X, 9700X & 9600X in Cinebench Tests"
-date: 2024-08-23T12:56:16.315Z
-updated: 2024-08-24T12:56:16.315Z
+date: 2025-01-07T00:20:36.250Z
+updated: 2025-01-12T22:45:56.568Z
 tags:
   - cpu
 categories:
@@ -42,6 +42,10 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,14 +54,11 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -66,8 +67,20 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-10plus-free-apps-to-convert-youtube-videos-on-demand/"><u>[New] 2024 Approved 10+ Free Apps to Convert YouTube Videos on Demand</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-ultimate-shortcut-for-endless-youtube-video-repetition/"><u>[Updated] 2024 Approved The Ultimate Shortcut for Endless YouTube Video Repetition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-virtual-escapades-explained-the-core-principles/"><u>[Updated] Virtual Escapades Explained The Core Principles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-your-instant-offline-playlist-how-to-pull-youtube-videos-onto-idevices/"><u>[Updated] Your Instant Offline Playlist How to Pull YouTube Videos Onto iDevices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-youtube-copyright-laws-and-content-capture/"><u>2024 Approved YouTube Copyright Laws and Content Capture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-powered-laptop-13-new-insights-from-the-frameworks-latest-announcement/"><u>AMD-Powered Laptop 13: New Insights From the Framework's Latest Announcement</u></a></li>
+<li><a href="https://games-able.techidaily.com/disable-gaming-mode-in-discord-settings/"><u>Disable Gaming Mode in Discord Settings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-ordinary-to-extraordinary-how-this-overlooked-laptop-gadget-revolutionized-my-devices-performance/"><u>From Ordinary to Extraordinary: How This Overlooked Laptop Gadget Revolutionized My Device's Performance.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-for-gamers-get-a-whopping-920-off-the-razer-blade-14-during-cyber-mondays-epic-2022-sale-zdnet/"><u>Huge Savings Alert for Gamers: Get a Whopping $920 Off the Razer Blade 14 During Cyber Monday's Epic 2022 Sale | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-latest-innovation-the-ideal-ai-powered-thinkpad-designed-specifically-for-business-professionals-insights/"><u>Introducing Lenovo's Latest Innovation: The Ideal AI-Powered ThinkPad Designed Specifically for Business Professionals - Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hannel-theme-images-and-templates-for-2024/"><u>MCB Channel Theme Images and Templates for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/sharpened-social-insights-facebooks-experimental-business-recommendations/"><u>Sharpened Social Insights: Facebook's Experimental Business Recommendations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-deal-alert-hps-victus-15-gaming-notebook-slashed-to-530-shop-today-at-best-buy-insider-tips/"><u>Ultimate Deal Alert! HP's Victus 15 Gaming Notebook Slashed to $530 - Shop Today at Best Buy | Insider Tips</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

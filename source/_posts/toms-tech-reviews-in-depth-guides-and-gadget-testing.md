@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: In-Depth Guides & Gadget Testing"
-date: 2024-08-23T12:55:38.718Z
-updated: 2024-08-24T12:55:38.718Z
+date: 2025-01-11T02:07:23.608Z
+updated: 2025-01-13T01:58:17.071Z
 tags:
   - cooling
 categories:
@@ -78,6 +78,10 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -101,8 +105,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -111,10 +116,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶[**TF-12025-Pro 120mm fans**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FID-COOLING-120mm-Cooler-Radiator-Chassis%2Fdp%2FB0BV8ZRJMW%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1257997566399542543-20)
@@ -124,8 +125,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -146,10 +148,11 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## LGA1700 Socket Bending
 
@@ -157,9 +160,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -192,6 +192,10 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -219,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -237,4 +236,22 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twit-favorites-of-the-year-amazon-primes-peak-series/"><u>[New] 2024 Approved Twit-Favorites of the Year Amazon Prime's Peak Series</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-8-photo-montage-synthesizer-online/"><u>[New] Ultimate 8 Photo Montage Synthesizer Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/among-us-lag-fix-escaping-the-endless-boot-loop/"><u>Among Us Lag Fix: Escaping the Endless Boot Loop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/becoming-a-voice-alteration-virtuoso-with-morphvox-for-2024/"><u>Becoming a Voice Alteration Virtuoso with MorphVOX for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-cost-effective-gaming-laptops-in-depth-testing-results-from-authorities-in-tech-zdnet/"><u>Discover the Ultimate Guide to Cost-Effective Gaming Laptops: In-Depth Testing Results From Authorities in Tech | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-apple-m2-macbook-air-now-during-amazon-prime-day-sale-for-just-749-exclusive-info/"><u>Get the Apple M2 MacBook Air Now During Amazon Prime Day Sale for Just $749 – Exclusive Info !</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-with-this-clever-best-buy-strategy-to-obtain-a-free-macbook-air-m3-detailed-instructions/"><u>Maximize Savings with This Clever Best Buy Strategy to Obtain a Free MacBook Air M3 - Detailed Instructions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/no-frills-screensaver-windows-compatible/"><u>No Frills Screensaver - Windows Compatible</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-conversion-how-this-hidden-base-turns-your-laptop-into-high-performance-desktop-powerhouse-insights-from-zdnet/"><u>Seamless Conversion: How This Hidden-Base Turns Your Laptop Into High-Performance Desktop Powerhouse - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solutions-for-unresponsive-scanners-a-guide-by-yl-computing/"><u>Solutions for Unresponsive Scanners: A Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-laptops-in-2nndyear-comprehensive-experts-reviews-and-ratings-zdnet/"><u>Top-Rated Affordable Laptops in 2Nnd_year - Comprehensive Experts' Reviews & Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptops-comprehensive-reviews-and-comparisons-insights-from-tech-experts/"><u>Top-Rated Touchscreen Laptops: Comprehensive Reviews & Comparisons - Insights From Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-lenovo-thinkpad-x13s-a-high-end-arm-equipped-ultraportable-with-cutting-edge-5g-features-and-robust-battery-performance/"><u>Unveiling the Lenovo ThinkPad X13s: A High-End Arm-Equipped Ultraportable with Cutting-Edge 5G Features and Robust Battery Performance</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-nubia-z50s-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Nubia Z50S Pro</u></a></li>
+</ul></div>
 

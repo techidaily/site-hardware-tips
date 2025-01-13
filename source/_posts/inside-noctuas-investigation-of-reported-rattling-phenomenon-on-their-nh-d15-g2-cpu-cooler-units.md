@@ -1,7 +1,7 @@
 ---
 title: Inside Noctua’s Investigation of Reported Rattling Phenomenon on Their NH-D15 G2 CPU Cooler Units
-date: 2024-08-23T12:57:53.283Z
-updated: 2024-08-24T12:57:53.283Z
+date: 2025-01-10T00:02:12.793Z
+updated: 2025-01-12T21:12:01.010Z
 tags:
   - cooling
 categories:
@@ -18,6 +18,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  Image 1 of 4
 
 ![Assassin IV VC Vision CPU cooler, including its heatsink](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Assassin IV VC Vision CPU cooler, including its heatsink  (Image credit: DeepCool)
 
@@ -55,6 +59,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PC chassis, accessories and new power supplies
 
  Image 1 of 4
@@ -69,9 +77,17 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
 ![DeepCool CH160 MESH ITX Case Series](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  DeepCool CH160 MESH ITX Case Series  (Image credit: DeepCool)
 
 ![DeepCool CH170 DIGITAL ITX Case with digital monitoring screen](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  DeepCool CH170 DIGITAL ITX Case with digital monitoring screen  (Image credit: DeepCool)
 
@@ -83,9 +99,17 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
 ![DeepCool  LP Matrix AIO Series in 240mm and 360mm  variants](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: DeepCool)
 
 ![New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards  (Image credit: DeepCool)
 
@@ -99,9 +123,6 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
   
  DeepCool cases and power supplies are designed to be future-ready, with support for the latest motherboards designs and power supply standards. The company has been making PC accessories for a while now and tends to do a good job, and the new ability to customize cases with silicone bits may appeal to a certain demographic. We look forward to seeing the retail products over the coming months.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -110,14 +131,11 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +144,21 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/apture-and-store-videos-effortlessly-with-our-top-list-for-2024/"><u>[New] Capture & Store Videos Effortlessly with Our Top List for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-superstar-status-secrets-a-step-by-step-plan-for-lightning-fame-on-social-media-giant-instagram/"><u>[New] In 2024, Superstar Status Secrets A Step-by-Step Plan for Lightning Fame on Social Media Giant Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-efficiently-traverse-youtubes-votes-and-reaction-space/"><u>[Updated] 2024 Approved Efficiently Traverse YouTube’s Votes and Reaction Space</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/audio-problem-on-youtube-for-windows-11-heres-how-you-can-solve-it/"><u>Audio Problem on YouTube for Windows 11? Here’s How You Can Solve It!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-high-performance-laptops-for-serious-gamers-in-202-comparing-elite-models-from-razer-acer-msi-and-beyond-insights-by-zdnet/"><u>Best High-Performance Laptops for Serious Gamers in 202# Comparing Elite Models From Razer, Acer, MSI, and Beyond | Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-innovations-in-microsofts-latest-surface-laptop-studio-2-why-youll-want-one-digital-trends/"><u>Exploring the Innovations in Microsoft's Latest Surface Laptop Studio 2 – Why You’ll Want One! | Digital Trends</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-zte-nubia-z60-ultra-easily-by-drfone-android/"><u>In 2024, How To Unlock a ZTE Nubia Z60 Ultra Easily?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-time-travel-mastering-prolonged-photo-captures/"><u>In 2024, IPhone Time Travel Mastering Prolonged Photo Captures</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-cable-modem-and-wireless-router-hybrids-for-enhanced-connectivity/"><u>Leading Cable Modem and Wireless Router Hybrids for Enhanced Connectivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-prime-deals-apple-m3-macbook-air-now-at-a-250-discount-on-amazon/"><u>October Prime Deals: Apple M3 MacBook Air Now at a $250 Discount on Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-expenses-grab-an-instant-200-save-on-the-latest-m1-macbook-air-unveiled/"><u>Slash Your Expenses! Grab an Instant $200 Save on the Latest M1 MacBook Air - Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-affordable-laptops-on-cyber-monday-exclusive-offers-from-costco-amazon-and-dell-for-under-1k-zdnet-guide/"><u>Top 3 Affordable Laptops on Cyber Monday: Exclusive Offers From Costco, Amazon & Dell for Under $1K - ZDNet Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ultraportable-laptop-with-long-lasting-battery-expert-reviews-on-zdnet/"><u>Top Rated Ultraportable Laptop with Long-Lasting Battery - Expert Reviews on ZDNet</u></a></li>
+<li><a href="https://discover-great.techidaily.com/transfert-rapide-des-donnees-donedrive-vers-votre-pc-windows-11-guide-complet-et-facile-a-suivre/"><u>Transfert Rapide Des Données D'OneDrive Vers Votre PC Windows 11 : Guide Complet Et Facile À Suivre</u></a></li>
+</ul></div>
 

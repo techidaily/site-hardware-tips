@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Lamptron CPU Cooler Features an Oversized Screen Comparable to iPhone 15 - The ST0nS Model with Six-Inch Full HD LCD for Dual Monitor Setup
-date: 2024-08-23T12:55:30.545Z
-updated: 2024-08-24T12:55:30.545Z
+date: 2025-01-06T22:44:13.620Z
+updated: 2025-01-12T21:35:46.814Z
 tags:
   - cooling
 categories:
@@ -51,6 +51,10 @@ Lamptron ST060  (Image credit: Caseking)
 
  German retailer Caseking sells the Lamptron ST060 for around[$273](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1459285694511670858&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-6-zoll-display-schwarz-luls-381.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , excluding VAT (value-added tax). The ARGB model with black fans seems to retail for the[same price](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F9735574776972625510&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-argb-mit-6-zoll-display-schwarz-luls-382.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , so it really just comes down to preference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,14 +63,11 @@ Lamptron ST060  (Image credit: Caseking)
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,8 +76,18 @@ Lamptron ST060  (Image credit: Caseking)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-pulse-of-innovation-selecting-top-quality-dj-visual-downloads/"><u>[Updated] 2024 Approved Pulse of Innovation Selecting Top-Quality DJ Visual Downloads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-gamers-masterclass-advanced-recording-tips-unveiled/"><u>[Updated] In 2024, Gamers' Masterclass Advanced Recording Tips Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-work-and-travel-companion-a-top-performing-tablet-not-from-microsoft-or-lenovo-insights/"><u>Discover the Ultimate Work and Travel Companion: A Top Performing Tablet Not From Microsoft or Lenovo | Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-charged-the-top-ps5-dualsense-controllers-of-2024/"><u>Efficiently Charged: The Top PS5 DualSense Controllers of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-microsoft-innovations-surface-pro-10-and-laptop-press6-reveal-enhanced-ai-capabilities-insights/"><u>Exploring the Latest Microsoft Innovations: Surface Pro 10 & Laptop Press6 Reveal Enhanced AI Capabilities - Insights</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-quickly-refresh-your-windows-graphics-driver-with-yls-simple-troubleshooting-tips/"><u>How to Quickly Refresh Your Windows Graphics Driver with YL's Simple Troubleshooting Tips</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lighten-the-digital-landscape-kapwings-meme-builder/"><u>Lighten the Digital Landscape Kapwing's Meme Builder</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sale-alert-limited-time-offer-on-4tb-samsung-t5-external-ssd-at-nearly-half-price-on-amazon-expert-insights-by-zdnet/"><u>Sale Alert: Limited-Time Offer on 4TB Samsung T5 External SSD at Nearly Half Price on Amazon | Expert Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-apple-savings-and-offers-in-july-2024-iphone-discounts-apple-watch-bargains-affordable-ipad-deals-find-them-all/"><u>Top Apple Savings & Offers in July 2024: IPhone Discounts, Apple Watch Bargains, Affordable iPad Deals – Find Them All !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-hidden-gems-how-dell-delivers-top-tier-functionality-with-affordable-pricing-in-their-lesser-known-laptops/"><u>Unlocking Hidden Gems: How Dell Delivers Top-Tier Functionality with Affordable Pricing in Their Lesser-Known Laptops</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

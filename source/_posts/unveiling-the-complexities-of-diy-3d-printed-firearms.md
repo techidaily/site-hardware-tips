@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Complexities of DIY 3D-Printed Firearms
-date: 2024-08-23T12:55:19.126Z
-updated: 2024-08-24T12:55:19.126Z
+date: 2025-01-07T18:04:27.005Z
+updated: 2025-01-13T00:04:33.299Z
 tags:
   - printer
 categories:
@@ -19,6 +19,10 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
  It’s also advisable to increase the fan's speed to prevent overheating of the layers before the next ones are deposited, which leads to excess melted filament, which later forms blobs on the object.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Optimize Retraction Settings
 
  Retraction plays an essential role in pulling the filament back slightly when the nozzle is not moving between different locations. This helps prevent oozing which can result in blobs and other issues like[stringing in 3D prints](https://www.tomshardware.com/3d-printing/how-to-fix-stringing-in-3d-prints) .
@@ -33,9 +37,6 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
  As you make the adjustments, you can also 3D print a[retraction test model](https://www.thingiverse.com/thing:909901) and use it to adjust the settings until you achieve the sweet spot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -47,24 +48,19 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/bf3r7C9s6nZACJhsioefLA-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  You can begin with a lower retraction distance, like 2mm, print the model, and then check how it appears. It might have strings and other imperfections, and you can continue increasing by 0.5mm until you see improvement. You can then shift to retraction speed and start with a lower value, like 30 mm/s, and increase it gradually as you observe how the prints appear until you find the optimal value.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Use Coasting
 
  When you activate coasting settings, it stops the extruding filament slightly before the end of the path when the nozzle is about to travel over an area without printing. This is helpful as it minimizes the pressure build-up in the nozzle, which causes the filament to ooze out and turn into blobs or zits. You can find the coasting setting in the**Experimental** section, and check the**Enable coasting** box to activate it.
 
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/WcERQDGybguB9i8aCqZ5jA-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  When you enable it, other settings appear, like**Coasting Volume** ,**Minimum Volume Before Coasting** , and**Coasting Speed** .
@@ -72,9 +68,9 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/dddhLGSrhmwrGxEcJzAHYA-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Coasting volume is the amount or size of the material that is not extruded at the end of each layer. You need to find the appropriate value because if it’s too high, the printer might not extrude enough filament, resulting in under-extrusion.
@@ -85,6 +81,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  As you enable coasting to eliminate blobs and zits, you need to remember that its effectiveness depends on the geometry of your 3D model, 3D printing speed, and the type of filament you are using. So you need to tweak the settings until you achieve the best results.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Adjust 3D printing Speed and Temperature
 
  Adjusting how fast your 3D printer prints as well as the temperature you are using can also help fix the issue as these settings influence the extrusion rate and the cooling time for the layers. A higher 3D printing speed than necessary can result in increased pressure in the nozzle, which can cause the excess filament to ooze out, causing issues on the print as the nozzle moves.
@@ -92,8 +92,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  The standard speed is usually between 50-60 mm/s, and anything above this can result in problems. If the temperature is too high, the filament can become too fluid and start oozing out. Alternatively, if it is too low, there can be incomplete melting which results in uneven extrusion which causes irregularities and inconsistencies in the printed layers. You must adjust the temperature until you find the perfect settings for your filament and printer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable Power Recovery Feature
 
  If none of the above options don’t work, you should consider turning off the power recovery option if it’s turned on. Even though this feature helps save your 3D print instead of starting to print from scratch in case of power interruption, it can introduce blobs. This is because when the feature is activated, the 3D printers utilize the SD card to write “check-points” or the print job state to the card, which will help in resuming the print and this might start competing with the standard printing operation, resulting in blobs.
@@ -110,14 +111,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 **More:** [How to Use PrusaSlicer: A Beginners Guide](https://www.tomshardware.com/how-to/use-prusaslicer)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +124,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-incorporating-melodies-into-youtube-repertoire-for-2024/"><u>[Updated] Incorporating Melodies Into Youtube Repertoire for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-leading-edge-technology-15-high-quality-recorders/"><u>[Updated] Leading Edge Technology 15 High-Quality Recorders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-black-friday-electronics-sales-unbeatable-october-202-laptop-discounts-you-cant-miss/"><u>Ace Black Friday Electronics Sales: Unbeatable October 202_ Laptop Discounts You Can't Miss</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cephalopods-such-as-squids-using-dynamic-color-changing-displays-for-camouflage-or-signaling-to-potential-mates-or-rivals-demonstrating-a-complex-visual-lan113/"><u>Cephalopods Such as Squids Using Dynamic Color-Changing Displays for Camouflage or Signaling to Potential Mates or Rivals, Demonstrating a Complex Visual Language.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-microsoft-application-now-bridges-windows-to-chromebooks-and-macs-select-user-access-featured-by-zdnet/"><u>Exclusive Microsoft Application Now Bridges Windows to Chromebooks & Macs, Select User Access Featured by ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-honor-90-pro-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Honor 90 Pro lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-fix-the-latest-broken-version-of-emeditor-beta-comprehensive-guide/"><u>How to Fix the Latest Broken Version of EmEditor Beta: Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unresponsive-plugins-in-fcpx-heres-what-you-need-to-do/"><u>New 2024 Approved Unresponsive Plugins in FCPX? Heres What You Need to Do</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newly-declared-obsolete-apple-updates-its-mac-model-catalog-implications-explored-by-zdnet/"><u>Newly Declared Obsolete: Apple Updates Its Mac Model Catalog – Implications Explored by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-premium-storage-drives-for-enhanced-gaming-performance-on-pc-and-consoles/"><u>Top 6 Premium Storage Drives for Enhanced Gaming Performance on PC & Consoles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-black-friday-laptop-savings-guide-premier-deals-awaiting-in-oct-24/"><u>Ultimate Black Friday Laptop Savings Guide: Premier Deals Awaiting in Oct '24</u></a></li>
+</ul></div>
 

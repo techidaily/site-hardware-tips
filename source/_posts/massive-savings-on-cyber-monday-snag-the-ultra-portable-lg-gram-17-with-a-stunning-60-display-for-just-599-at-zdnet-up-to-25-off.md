@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings on Cyber Monday: Snag the Ultra Portable LG Gram 17 with a Stunning 60 Display for Just $599 at ZDNet - Up to 25%% Off!"
-date: 2024-12-30T21:31:24.594Z
-updated: 2025-01-06T07:13:04.026Z
+date: 2025-01-06T18:11:44.422Z
+updated: 2025-01-12T21:43:23.828Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9df070ed-bda2-4543-9019-9a0e1f642df9%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,22 +65,22 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-groundbreaking-filmmakers-first-work-insight-and-alternate-films/"><u>[Updated] In 2024, Groundbreaking Filmmaker's First Work Insight & Alternate Films</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/10-best-classic-family-vacation-movie-for-this-summer-for-2024/"><u>10 Best Classic Family Vacation Movie for This Summer for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-streaming-mic-selection-by-experts/"><u>2024'S Ultimate Guide to Streaming Mic Selection by Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazingly-clear-display-at-an-unbeatable-price-discover-this-budget-friendly-ultrabook/"><u>Amazingly Clear Display at an Unbeatable Price: Discover This Budget-Friendly Ultrabook</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-x9a-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor X9a to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-degree-of-view-analysis/"><u>Comprehensive Degree of View Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-deal-of-the-year-refurbished-128gb-microsoft-surface-laptop-at-just-320-featured-on-zdnet/"><u>Discover the Deal of the Year: Refurbished 128GB Microsoft Surface Laptop at Just $320 - Featured on ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007321465-how-to-fix-sims-4-lagging-on-pc-pro-tips-2024/"><u>How to Fix Sims 4 Lagging on PC - Pro Tips 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-x7-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find X7 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/july-4th-new-york-times-insightful-puzzles-389-edition-solutions-inside/"><u>July 4Th New York Times Insightful Puzzles: #389 Edition - Solutions Inside</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/king-trollex-premium-trolls-theme-graphics-and-desktop-walls-by-yl-computing/"><u>King Trollex: Premium Trolls Theme Graphics & Desktop Walls by YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-shatters-repair-expectations-with-latest-laptop-line-a-challenge-thrown-down-to-competitors-like-apple-insights-from-ifixit/"><u>Microsoft Shatters Repair Expectations with Latest Laptop Line: A Challenge Thrown Down to Competitors Like Apple - Insights From iFixit</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/nintendo-switch-photography-expert-tips-for-screen-shotting-and-video-clips/"><u>Nintendo Switch Photography: Expert Tips for Screen Shotting & Video Clips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sale-alert-get-a-whopping-8tb-of-storage-with-the-discounted-samsung-t5-ssd-on-amazon-check-it-out-now/"><u>Sale Alert: Get a Whopping 8TB of Storage with the Discounted Samsung T5 SSD on Amazon - Check It Out Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-black-friday-gaming-steals-for-october-202n4-exclusive-deals-featured-by-zdnet/"><u>Ultimate Black Friday Gaming Steals for October 202N4: Exclusive Deals Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-top-rated-gaming-soundbar-now-just-150-cheaper-on-amazon-exclusive-review-by-zdnet/"><u>Unbeatable Deal Alert: Top-Rated Gaming Soundbar Now Just $150 Cheaper on Amazon - Exclusive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-on-day-2-of-ces-2023-top-innovations-and-breakthroughs-insights-from-zdnet/"><u>Unveiling the Future on Day 2 of CES 2023: Top Innovations and Breakthroughs - Insights From ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-instantly-share-selfies-the-step-by-step-walkthrough/"><u>[Updated] In 2024, Instantly Share Selfies The Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-industrys-leading-heavy-duty-drone-picks/"><u>2024 Approved Industry's Leading Heavy-Duty Drone Picks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-parchment-creators/"><u>2024 Approved Premier Parchment Creators</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/catalan-conquest-mastery-with-daily-dedication/"><u>Catalan Conquest: Mastery with Daily Dedication</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-electronics-with-tom-the-ultimate-hardware-hub/"><u>Decoding Electronics with Tom: The Ultimate Hardware Hub</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-ios-email-solutions-find-your-perfect-match/"><u>Essential iOS Email Solutions : Find Your Perfect Match</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125175149-exclusive-deal-on-high-quality-black-tpu-filament-save-big-at-just-16-per-kilo/"><u>Exclusive Deal on High-Quality Black TPU Filament – Save Big at Just $16 Per Kilo</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-hot-40-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Hot 40 Phone Screen?</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-a58-4g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo A58 4G phone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175681761-maximize-speed-with-corsairs-innovative-single-twist-pc-fan-screw-build-your-rig-in-record-time/"><u>Maximize Speed with Corsair's Innovative Single-Twist PC Fan Screw - Build Your Rig in Record Time!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-a-breakthrough-in-3d-printing-the-worlds-first-chip-based-device-that-fits-in-your-pocket-with-zero-motion-components/"><u>Unveiling a Breakthrough in 3D Printing: The World’s First Chip-Based Device That Fits in Your Pocket with Zero Motion Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-computer-secrets-at-toms-hardware-fortress/"><u>Unveiling Computer Secrets at Tom's Hardware Fortress</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-with-toms-computer-and-electronics/"><u>Unveiling Gadgets with Tom's Computer & Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-superior-strength-miniature-3d-printed-metal-surpasses-size-of-viruses/"><u>Unveiling Superior Strength: Miniature 3D-Printed Metal Surpasses Size of Viruses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-tech-toms-hardware-deep-dive/"><u>Unveiling the Latest in Tech – Tom's Hardware Deep-Dive</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-slow-motion-video-editing-solutions/"><u>Updated In 2024, The Ultimate List Slow Motion Video Editing Solutions</u></a></li>
 </ul></div>
 

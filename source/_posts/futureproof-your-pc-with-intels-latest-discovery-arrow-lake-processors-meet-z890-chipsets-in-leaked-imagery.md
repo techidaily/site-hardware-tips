@@ -1,7 +1,7 @@
 ---
 title: "Futureproof Your PC with Intel's Latest Discovery: Arrow Lake Processors Meet Z890 Chipsets in Leaked Imagery"
-date: 2024-08-23T12:57:43.878Z
-updated: 2024-08-24T12:57:43.878Z
+date: 2025-01-07T03:16:50.056Z
+updated: 2025-01-13T00:34:56.337Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,26 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-viral-vortex-keywords-that-propel-you-into-social-media-spotlight/"><u>[New] 2024 Approved Viral Vortex Keywords that Propel You Into Social Media Spotlight</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-money-multiplier-how-to-maximize-youtube-profits-with-mobile-viewers/"><u>[New] In 2024, Money Multiplier How to Maximize YouTube Profits with Mobile Viewers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-7-fps-gaming-list/"><u>[New] In 2024, The Ultimate 7 FPS Gaming List</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-vivid-imagery-with-nikon-j5s-4k-capability-revealed/"><u>[Updated] 2024 Approved Vivid Imagery with Nikon J5's 4K Capability Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-powerhouse-top-rated-lenovo-laptops-at-half-price-for-the-modern-workforce/"><u>Affordable Powerhouse: Top-Rated Lenovo Laptops at Half Price for the Modern Workforce</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipated-march-debut-for-apples-upcoming-macbook-air-ipad-pro-and-ipad-air-latest-news-covered/"><u>Anticipated March Debut for Apple's Upcoming MacBook Air, iPad Pro and iPad Air – Latest News Covered</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-metas-premium-octobers-prime-day-offer-on-512gb-quest-3-beats-competitors-top-picks-by-zdnet/"><u>Best Value: Meta's Premium Octobers Prime Day Offer on 512GB Quest 3 Beats Competitors - Top Picks by ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driving-windows-home-smoothly-with-ndis-tips/"><u>Driving Windows Home Smoothly with NDIS Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oneplus-11r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on OnePlus 11R Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-13-mini-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 13 mini online without jailbreak</u></a></li>
+<li><a href="https://win-community.techidaily.com/master-the-art-of-pricing-your-mobile-dj-business-with-tips-from-john-youngs-pcdj-guide/"><u>Master the Art of Pricing Your Mobile DJ Business with Tips From John Young's PCDJ Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-remote-work-setup-with-lenovo-thinkbook-and-wireless-docking-station-insights-from-zdnet/"><u>Revolutionize Your Remote Work Setup with Lenovo ThinkBook and Wireless Docking Station - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-retrieve-lost-information-from-sandisk-sd-cards-using-windows-tools/"><u>Step-by-Step Guide: Retrieve Lost Information From Sandisk SD Cards Using Windows Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-premier-selection-of-mesh-wi-fi-systems-for-seamless-internet-experience/"><u>The Premier Selection of Mesh Wi-Fi Systems for Seamless Internet Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-highlights-from-ces-2024-expert-recommendations-by-zdnet-analysts/"><u>Top Highlights From CES 2024: Expert Recommendations by ZDNet Analysts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-prime-day-game-discounts-for-october-2024-find-them/"><u>Top Prime Day Game Discounts for October 2024 - Find Them !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-leading-touchscreen-laptops-in-depth-analysis-and-ratings/"><u>Ultimate Guide to the Leading Touchscreen Laptops: In-Depth Analysis & Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-best-buy-offer-claim-your-complimentary-macbook-air-m3-step-by-step-guide-revealed/"><u>Unlock Exclusive Best Buy Offer: Claim Your Complimentary MacBook Air M3 – Step-by-Step Guide Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-apple-m3-macbook-air-innovations-my-must-know-findings-after-an-exclusive-test-drive-tech-analysis/"><u>Unveiling the Latest Apple M3 MacBook Air Innovations: My Must-Know Findings After an Exclusive Test Drive | Tech Analysis</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->

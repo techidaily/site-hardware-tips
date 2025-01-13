@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Workers, Get Ready to Upgrade! Exclusive Deal Alert: Prime Day's $1K Off on the Best Lenovo Laptop Picked by ZDNet."
-date: 2025-01-04T12:10:19.101Z
-updated: 2025-01-06T06:46:12.262Z
+date: 2025-01-05T18:00:10.249Z
+updated: 2025-01-12T19:08:55.012Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,24 +79,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-efficient-media-mastery-from-ssaxml-to-high-quality-srt/"><u>[New] 2024 Approved Efficient Media Mastery From SSA/XML to High-Quality SRT</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-how-tos-selecting-free-powerful-iphoneipad-edits/"><u>[New] In 2024, How-To's Selecting Free, Powerful iPhone/iPad Edits</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2023-online-facebook-video-to-mp3-converters/"><u>[Updated] 2023 Online Facebook Video to MP3 Converters</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-artisans-path-to-crafting-confidential-snaps/"><u>[Updated] 2024 Approved The Artisan's Path to Crafting Confidential Snaps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-art-of-transcribing-top-4-tactics-for-fb-chat-recordings/"><u>[Updated] In 2024, The Art of Transcribing Top 4 Tactics for FB Chat Recordings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024-ultimate-guide-to-the-best-linux-laptops-in-depth-analysis-and-ratings-from-professionals/"><u>2024 Ultimate Guide to the Best Linux Laptops: In-Depth Analysis and Ratings From Professionals</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1726220247519-mov/"><u>適用於 MOV 壓縮的前七大最佳工具：減少檔案體積的方法</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-laptop-revives-popular-term-from-techs-past-era-insights/"><u>Affordable Laptop Revives Popular Term From Tech's Past Era: Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-discreet-marvel-a-design-that-hides-stellar-creative-capabilities-revealed/"><u>Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-brainstorming-skills-combining-mind-maps-and-ai-chat-gpt-for-ideas/"><u>Boost Your Brainstorming Skills: Combining Mind Maps and AI Chat GPT for Ideas</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-pre-prime-day-savings-guide-unveiled-retail-experts/"><u>Exclusive Pre-Prime Day Savings Guide | Unveiled Retail Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experts-guide-to-saving-on-microsofts-latest-surface-pro-11-top-affordable-picks-revealed/"><u>Experts' Guide to Saving on Microsoft's Latest Surface Pro 11 - Top Affordable Picks Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206584186-hp-laptop-usb-issues-heres-how-you-can-get-them-fixed/"><u>HP Laptop USB Issues? Here's How You Can Get Them Fixed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-smilesphere-endless-possibrancies-in-meme-land/"><u>In 2024, SmileSphere Endless Possibrancies in Meme Land</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-building-your-perfect-gamers-paradise-tips-and-tricks/"><u>The Complete Guide to Building Your Perfect Gamer's Paradise - Tips & Tricks</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-experts-approach-to-inserting-subtitlescc-on-youtube-videos/"><u>The Expert's Approach to Inserting Subtitles/CC on YouTube Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-your-inner-gamers-with-the-ultimate-sound-system-on-sale-at-best-buy-as-reviewed/"><u>Unleash Your Inner Gamers with the Ultimate Sound System on Sale at Best Buy, as Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmatched-clarity-awaits-with-our-lightweight-laptops-exceptional-screen-now-discounted/"><u>Unmatched Clarity Awaits with Our Lightweight Laptop's Exceptional Screen, Now Discounted !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-and-how-to-change-the-default-dns-addresses-on-your-chromebook-for-enhanced-security-and-privacy/"><u>Why and How to Change the Default DNS Addresses on Your Chromebook for Enhanced Security & Privacy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-convenient-ways-to-archive-your-insta-story/"><u>[Updated] In 2024, Convenient Ways to Archive Your Insta Story</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-5-cozy-winter-scenes-for-video-aesthetics/"><u>[Updated] Top 5 Cozy Winter Scenes for Video Aesthetics</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-achieving-profitability-on-youtube-average-view-count-for-success/"><u>2024 Approved Achieving Profitability on YouTube Average View Count for Success</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/brave-move-alerting-owners-anycubic-3d-printing-devices-targeted-in-cybersecurity-breach/"><u>Brave Move Alerting Owners: Anycubic 3D Printing Devices Targeted in Cybersecurity Breach</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/build-your-dream-pc-with-simplicity-using-hytes-nexus-link-big-screen-cooling-unit-and-effortless-assembly/"><u>Build Your Dream PC With Simplicity Using Hyte’s Nexus Link – Big-Screen Cooling Unit & Effortless Assembly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-by-the-experts-at-toms-tech/"><u>Comprehensive Hardware Guides by the Experts at Tom’s Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-insights-by-toms-tech-site/"><u>Comprehensive Hardware Insights by Tom's Tech Site</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y200e-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo Y200e 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unresolved-problem-viewing-videos-on-sony-a6400/"><u>In 2024, Unresolved Problem Viewing Videos on Sony A6400</u></a></li>
 </ul></div>
 

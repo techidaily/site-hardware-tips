@@ -1,7 +1,7 @@
 ---
 title: "Love at First Click: The Ultra-Portable LG Gram Pro 17 Shines During Sales Events - Exclusive Amazon Prime Day Deals!"
-date: 2024-12-31T06:42:35.476Z
-updated: 2025-01-06T09:46:18.215Z
+date: 2025-01-11T21:38:58.343Z
+updated: 2025-01-13T02:07:26.070Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,14 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-your-perfect-playlist-best-12-pc-games-to-enjoy-more-clicks/"><u>[New] 2024 Approved Your Perfect Playlist Best 12 PC Games to Enjoy More Clicks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-best-8-mirrorless-cameras-to-elevate-your-vlogging-game-for-2024/"><u>[Updated] Best 8 Mirrorless Cameras to Elevate Your Vlogging Game for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-effective-engagement-incorporating-youtube-videos-into-slides-for-2024/"><u>[Updated] Effective Engagement Incorporating YouTube Videos Into Slides for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-miniature-homes-japanese-and-chinese-inspirations-for-2024/"><u>[Updated] Miniature Homes Japanese & Chinese Inspirations for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-cutting-edge-tech-microsofts-new-wave-with-surface-pro-10-and-laptop-6-ai-features-detailed-analysis-by-zdnet/"><u>Discovering Cutting-Edge Tech: Microsoft's New Wave with Surface Pro 10 and Laptop 6 AI Features, Detailed Analysis by ZDNET</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-achieving-high-quality-videos-with-your-cellphone-webcam/"><u>In 2024, Achieving High-Quality Videos with Your Cellphone Webcam</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/just-one-step-from-perfection-discover-the-impressive-3600-laptop-that-almost-meets-all-your-needs-insights/"><u>Just One Step From Perfection: Discover the Impressive $3,600 Laptop That Almost Meets All Your Needs - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-productivity-with-dual-monitor-setup-for-your-m3-macbook-pro-just-as-effortlessly-as-on-an-m3-macbook-air/"><u>Maximize Productivity with Dual Monitor Setup for Your M3 MacBook Pro, Just as Effortlessly as on an M3 MacBook Air</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-recommended-windows-laptop-deal-a-great-substitute-for-the-macbook-air-at-discounted-price/"><u>ZDNet's Recommended Windows Laptop Deal: A Great Substitute for the MacBook Air at Discounted Price</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-stop-obs-from-skipping-audio-for-2024/"><u>[Updated] Stop OBS From Skipping Audio for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-guide-to-state-of-the-art-screen-recorders/"><u>[Updated] The Essential Guide to State-of-the-Art Screen Recorders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-guide-to-final-cut-pro-for-film-professionals-for-2024/"><u>Complete Guide to Final Cut Pro for Film Professionals for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-video-to-audio-best-apps-for-ios-and-android-for-2024/"><u>Convert Video to Audio Best Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-failed-to-connect-hurdle-in-hitman-3-gameplay/"><u>How to Overcome the 'Failed to Connect' Hurdle in Hitman 3 Gameplay</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 13 Passcode without Computer?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-proplus-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro+ 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-components-with-toms-gear-analysis/"><u>Navigating the World of Components with Tom's Gear Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimized-ram-and-vrm-heat-management-with-noctuas-latest-addition-the-sff-compatible-nh-l12sx77-low-profile-cpu-cooler/"><u>Optimized RAM and VRM Heat Management with Noctua's Latest Addition: The SFF-Compatible NH-L12Sx77 Low-Profile CPU Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-discoveries-in-pc-components-by-toms-hardware-experts/"><u>Pioneering Discoveries in PC Components by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/preventing-the-common-problem-of-layer-shifting-in-3d-printing/"><u>Preventing the Common Problem of Layer Shifting in 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quality-scandal-rocks-aio-radiator-industry-as-caseking-pulls-barrow-dabel-products-off-the-market-after-unsettling-test-results-revealed-presence-of-harmfu6/"><u>Quality Scandal Rocks AIO Radiator Industry as CaseKing Pulls Barrow Dabel Products Off the Market After Unsettling Test Results Revealed Presence of Harmful Materials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamped-noctua-nh-d1-g2-subdued-fan-operation-boosted-thermal-conductivity-via-new-heatpipe-array-and-innovative-design/"><u>Revamped Noctua NH-D1# G2: Subdued Fan Operation, Boosted Thermal Conductivity via New Heatpipe Array and Innovative Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/taming-the-beast-an-engineers-journey-to-silence-with-a-python-powered-nzxt-kraken-aio-control-system/"><u>Taming the Beast: An Engineer's Journey to Silence with a Python-Powered NZXT Kraken AIO Control System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/test-drive-the-lian-li-galahad-ii-ultimate-guide-to-an-advanced-aio-cpu-cooler-for-gamers-and-streamers/"><u>Test Drive the Lian Li Galahad II - Ultimate Guide to an Advanced AIO CPU Cooler for Gamers and Streamers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96505198-9781617208690-the-science-of-being-great/"><u>The Science of Being Great | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-tools-leveraging-chatgpt-for-interactive-document-analysis-and-conversation/"><u>Top 6 Tools Leveraging ChatGPT for Interactive Document Analysis & Conversation</u></a></li>
 </ul></div>
 

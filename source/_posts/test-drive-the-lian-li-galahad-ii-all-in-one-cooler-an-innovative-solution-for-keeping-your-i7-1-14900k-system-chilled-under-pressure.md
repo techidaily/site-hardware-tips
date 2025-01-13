@@ -1,7 +1,7 @@
 ---
 title: Test Drive the Lian Li Galahad II All-in-One Cooler - An Innovative Solution for Keeping Your I7 1 14900K System Chilled Under Pressure
-date: 2024-08-19T03:59:39.745Z
-updated: 2024-08-20T03:59:39.745Z
+date: 2025-01-08T23:38:11.812Z
+updated: 2025-01-12T23:53:07.757Z
 tags:
   - cooling
 categories:
@@ -35,9 +35,17 @@ Today’s review will cover Lian Li’s latest AIO cooler, the Galahad II 360 LC
 | **Installed Size (with fans)** | 399.5mm (L) x 120 mm (W) x 55mm (D)                            |
 | **Warranty**                   | 6 years                                                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Packing and included contents
 
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/K7RyskU59M6odLZZtEudRk-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -73,6 +81,10 @@ Included in the box with the cooler are the following:
 
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/xtrD6jYWFa4DJ6A6Cf3Mqj-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 **L-Connect 3 Software Suite**
@@ -83,9 +95,6 @@ Included in the box with the cooler are the following:
 
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/5nc5E4Ls2TXB6EVjoHm2w8-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 **8th generation Asetek liquid pump**
@@ -98,9 +107,6 @@ Included in the box with the cooler are the following:
 
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/rRtoFrqYx9CjusSutENj6j-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Asetek)
 
 **Full RAM compatibility**
@@ -118,8 +124,9 @@ Included in the box with the cooler are the following:
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/EmV3Nz8XHzPm9M5vuBc95n-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 **Large Copper Contact Plate, Rotatable Tubing**
@@ -132,9 +139,6 @@ Included in the box with the cooler are the following:
 
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/63u6PjjmzPU2vZRYSnR4Zn-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ## LGA1700 Socket Bending
@@ -142,6 +146,10 @@ Included in the box with the cooler are the following:
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  To prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing methodology
 
@@ -165,9 +173,6 @@ b.) Power limited to 125W to emulate a low intensity workload
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s an incredibly small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -286,15 +291,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -303,4 +307,20 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-accelerated-mp4-conversion-for-fb-media/"><u>[Updated] Accelerated MP4 Conversion for FB Media</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-maximizing-zoom-meeting-insight-through-grid-view-settings/"><u>[Updated] In 2024, Maximizing Zoom Meeting Insight Through Grid View Settings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/5-secrets-to-preventing-blank-scenes-with-obs-recording/"><u>5 Secrets to Preventing Blank Scenes with OBS Recording</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-benefits-and-drawbacks-of-using-webex-for-remote-collaboration/"><u>Analyzing the Benefits and Drawbacks of Using Webex for Remote Collaboration</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-inside-story-of-the-latest-ps5-slim-model/"><u>The Inside Story of the Latest PS5 Slim Model</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-elite-laser-cutter-models/"><u>The Ultimate Selection: Elite Laser Cutter Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-premium-computing-equipment-and-accessories/"><u>Tom's Guide to Premium Computing Equipment and Accessories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-cutting-edge-reviews-and-insights/"><u>Tom's Tech Hub: Cutting-Edge Reviews & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-reviews-and-hardware-guides/"><u>Tom's Tech Insights: Expert Reviews & Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-on-the-latest-gadgets/"><u>Tom's Tech Review: In-Depth Insights on the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guide-on-computer-gear/"><u>Tom's Tech Reviews: Comprehensive Guide on Computer Gear</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-infinix-note-30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Infinix Note 30 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/worldwide-celebrations-a-tapestry-of-easter-speeches/"><u>Worldwide Celebrations: A Tapestry of Easter Speeches</u></a></li>
+</ul></div>
 

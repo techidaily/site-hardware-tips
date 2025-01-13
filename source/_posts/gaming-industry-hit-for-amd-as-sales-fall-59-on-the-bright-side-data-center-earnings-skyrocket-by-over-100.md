@@ -1,7 +1,7 @@
 ---
 title: Gaming Industry Hit for AMD as Sales Fall -59%%; On the Bright Side, Data Center Earnings Skyrocket by Over 100%%
-date: 2024-08-19T04:01:37.936Z
-updated: 2024-08-20T04:01:37.936Z
+date: 2025-01-07T02:22:33.500Z
+updated: 2025-01-13T01:43:33.454Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  Intel isn't sharing many deep-dive details about the bug yet but says it will continue its validation process to ensure the microcode fully addresses the issues. The company will release more details about the bug itself in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,6 +43,10 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  Intel has not issued a recall of its processors; sources close to the matter tell us that isn't expected. We have both of Intel's statements below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Intel statement on 13th- and 14th-Gen instability
 
  _"Based on extensive analysis of Intel Core 13th/14th Gen desktop processors returned to us due to instability issues, we have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors. Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor."_
@@ -48,8 +56,9 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  _"Intel is committed to making this right with our customers, and we continue asking any customers currently experiencing instability issues on their Intel Core 13th/14th Gen desktop processors reach out to Intel Customer Support for further assistance."_
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Intel statement on via oxidation
 
 **Short answer:** We can confirm there was a via Oxidation manufacturing issue (addressed back in 2023) but it is not related to the instability issue.
@@ -58,14 +67,11 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  _For the Instability issue, we are delivering a microcode patch which addresses exposure to elevated voltages which is a key element of the Instability issue. We are currently validating the microcode patch to ensure the instability issues for 13th/14th Gen are addressed. -_ Intel representative[via Reddit](https://www.reddit.com/r/intel/comments/1e9mf04/comment/lefz09c/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -74,4 +80,20 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-for-the-digital-novice-a-beginners-guide-to-visual-clarity-and-pixel-perfect-images-for-2024/"><u>[New] For the Digital Novice A Beginner's Guide to Visual Clarity and Pixel-Perfect Images for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-steam-pro-controllers-on-switch/"><u>[Updated] In 2024, The Ultimate Guide to Steam Pro Controllers on Switch</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-prime-biz-vault-services-for-data-for-2024/"><u>[Updated] Prime Biz Vault Services for Data for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-efficiently-export-facebook-features-via-chrome-plug-ins/"><u>2024 Approved Efficiently Export Facebook Features via Chrome Plug-Ins</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/6-equipped-with-advanced-ai-capabilities-insights-and-updates/"><u>6 Equipped with Advanced AI Capabilities - Insights and Updates</u></a></li>
+<li><a href="https://win-community.techidaily.com/como-mejorar-la-entrega-de-notificaciones-por-email/"><u>Cómo Mejorar La Entrega De Notificaciones Por Email</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/empower-chromeos-creators-through-user-reviews-the-importance-of-sharing-exclusive-tips/"><u>Empower ChromeOS Creators Through User Reviews - The Importance of Sharing Exclusive Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-top-pick-magsafe-charger-discounted-by-60-perfect-for-your-iphone-and-macbook/"><u>Exclusive Deal: Top-Pick MagSafe Charger Discounted by $60 - Perfect for Your iPhone and MacBook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-metas-unbeatable-512gb-quest-3-offer-top-tier-virtual-reality-bargain-of-the-moment-detailed-review-by-zdnet/"><u>Get Your Hands on Meta's Unbeatable 512GB Quest 3 Offer: Top-Tier Virtual Reality Bargain of the Moment - Detailed Review by ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-y100-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo Y100 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-intense-presentation-review-8x-version/"><u>In 2024, Intense Presentation Review 8X Version</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-latest-microsoft-innovation-surface-pro-10-and-laptop-vee-6-enhanced-with-artificial-intelligence-explore-the-updates/"><u>Introducing the Latest Microsoft Innovation: Surface Pro 10 & Laptop Vee 6 Enhanced with Artificial Intelligence – Explore the Updates!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-vegaspro-the-19-edition-for-2024/"><u>Unveiling VegasPro The '19 Edition for 2024</u></a></li>
+</ul></div>
 

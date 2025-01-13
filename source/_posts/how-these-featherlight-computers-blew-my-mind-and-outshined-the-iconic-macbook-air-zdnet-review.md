@@ -1,7 +1,7 @@
 ---
 title: How These Featherlight Computers Blew My Mind and Outshined the Iconic MacBook Air | ZDNet Review
-date: 2025-01-05T03:07:00.074Z
-updated: 2025-01-05T20:36:05.578Z
+date: 2025-01-11T17:16:48.932Z
+updated: 2025-01-12T19:38:40.881Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -132,15 +132,18 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-11-best-free-youtube-name-generators-you-should-know/"><u>[Updated] 2024 Approved 11 Best Free YouTube Name Generators You Should Know</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-cut-the-cord-with-youtube-mp3-conversion-tools/"><u>[Updated] Cut the Cord with YouTube-MP3 Conversion Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-free-software-to-convert-your-cds-on-windows-11-top-3-picks-with-complete-downloads/"><u>Best Free Software to Convert Your CDs on Windows 11 : Top 3 Picks with Complete Downloads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fresh-chromeos-upgrade-introduces-windows-11-features-to-your-chromebook-insights/"><u>Fresh ChromeOS Upgrade Introduces Windows 11 Features to Your Chromebook - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/harnessing-power-efficiency-and-versatility-the-ultimate-guide-to-a-game-changing-12-in-1-thunderbolt-dock-tailored-for-windows-users-zdnet-revealed/"><u>Harnessing Power Efficiency & Versatility: The Ultimate Guide to a Game-Changing 12-in-1 Thunderbolt Dock Tailored for Windows Users (ZDNet Revealed)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-frames-with-top-rated-tools-24-for-2024/"><u>Mastering the Art of Frames with Top-Rated Tools '24 for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-savings-with-metas-exclusive-quest-3-deal-featured-as-the-premier-october-prime-day-discount-by-zdnet/"><u>Secure Your Savings with Meta's Exclusive Quest 3 Deal – Featured as the Premier October Prime Day Discount by ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-v30-lite-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo V30 Lite 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-exceptional-value-with-samsung-copilotplus-a-must-read-review-of-the-top-windows-laptop-deals-on-zdnet/"><u>Unlock Exceptional Value with Samsung Copilot+: A Must-Read Review of the Top Windows Laptop Deals on ZDNET!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/etention-mastery-on-youtube-top-6-methods-for-engaged-audience-growth/"><u>[New] Retention Mastery on YouTube Top 6 Methods for Engaged Audience Growth</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rgbs-legacy-and-how-srgb-is-paving-the-way-forward/"><u>[New] RGB's Legacy and How Srgb Is Paving the Way Forward</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-flavorful-filmmaking-made-easy-the-best-tips-for-food-videography/"><u>[Updated] 2024 Approved Flavorful Filmmaking Made Easy The Best Tips for Food Videography</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-hear-the-hd-story-from-youtube-to-twitters-vids/"><u>[Updated] In 2024, Hear the HD Story From YouTube to Twitter's Vids</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unveiling-magix-video-pro-x-capabilities/"><u>[Updated] Unveiling Magix Video Pro X Capabilities</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-strategy-combined-coverage-of-the-wnb/"><u>Social Strategy: Combined Coverage of the WNB</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-insights-and-analysis-by-toms-hardware-experts/"><u>Tech Insights and Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/thangz-3d-printer-add-ons-by-felicia-day-now-available-for-download/"><u>Thangz 3D Printer Add-Ons by Felicia Day Now Available for Download</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-thrifty-beginner-4k-resin-revolution-unleash-your-creativity-with-a-staggering-44-off-this-black-friday/"><u>The 'Thrifty Beginner 4K Resin' Revolution: Unleash Your Creativity with a Staggering 44% Off This Black Friday!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-gaming-control-unveiling-2n24s-best-mouses/"><u>The Future of Gaming Control: Unveiling 2N24's Best Mouses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-into-the-latest-gadgets/"><u>Tom's Tech Review - In-Depth Insights Into the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-hardware-components/"><u>Tom's Tech Review: The Ultimate Guide to Hardware Components</u></a></li>
 </ul></div>
 

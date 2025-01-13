@@ -1,7 +1,7 @@
 ---
 title: "Massive Discount on Cyber Monday: Get the Ultra-Thin and Sleek LG Gram 17 for a Steal - Save $400 Now at ZDNet's Exclusive Deals!"
-date: 2024-12-31T20:43:59.186Z
-updated: 2025-01-05T16:24:18.585Z
+date: 2025-01-05T16:00:58.842Z
+updated: 2025-01-12T20:17:11.814Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,18 +128,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-introduce-audio-files-to-premiere-pro-timeline-for-2024/"><u>[Updated] Introduce Audio Files to Premiere Pro Timeline for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-lenovo-ideapad-gaming-chromebook-unveiled-exploring-the-real-limits-of-cloud-based-gaming-performance-insights-from-zdnet/"><u>1. Lenovo IdeaPad Gaming Chromebook Unveiled: Exploring the Real Limits of Cloud-Based Gaming Performance - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-device-ipad-pro-or-macbook-air-find-your-best-fit-with-zdnets-comparison/"><u>Choosing the Right Device: IPad Pro or MacBook Air – Find Your Best Fit with ZDNet's Comparison</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dell-unveils-a-compact-powerful-gaming-laptop-ideal-for-professionals-on-the-go/"><u>Dell Unveils a Compact, Powerful Gaming Laptop Ideal for Professionals on the Go</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063424571-enhance-huion-h420-for-windows-easy-steps-ahead/"><u>Enhance Huion H420 for Windows - Easy Steps Ahead</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y78-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y78 5G Is Unlocked</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-openais-grip-on-chatgpt-starting-to-slip-away/"><u>Is OpenAI's Grip on ChatGPT Starting to Slip Away?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prime-day-prep-score-zdnets-top-laptop-selection-for-50-off-now-on-amazon-act-fast/"><u>Prime Day Prep: Score ZDNet's Top Laptop Selection for 50% Off Now on Amazon – Act Fast!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recognizing-unseen-sd-card-fix-for-windows-explorer/"><u>Recognizing Unseen SD Card: Fix for Windows Explorer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-october-2024-prime-day-like-offers-on-laptops-exclusive-shopping-guide-by-zdnet/"><u>Top October 2024 Prime Day-Like Offers on Laptops: Exclusive Shopping Guide by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upgrade-your-smartphone-experience-a-comprehensive-guide-to-iphones-16-vs-15-on-apples-official-platform-zdnet/"><u>Upgrade Your Smartphone Experience: A Comprehensive Guide to iPhones 16 Vs. 15 on Apple's Official Platform | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-picks-for-gamers-experience-the-best-audio-with-a-staggering-30-off-at-amazon/"><u>ZDNet's Ultimate Picks for Gamers: Experience the Best Audio with a Staggering 30% Off at Amazon!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-comprehensive-kinetic-study-2023/"><u>[New] Comprehensive Kinetic Study 2023</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iscover-new-heights-top-10-adventure-channels/"><u>[New] Discover New Heights Top 10 Adventure Channels</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-essential-techniques-to-elevate-your-channels-visibility/"><u>[Updated] In 2024, Essential Techniques to Elevate Your Channel's Visibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-slowing-screen-speed-with-simple-steps/"><u>Cure Slowing Screen Speed with Simple Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-captures-delving-into-iphone-xs-camera/"><u>Cutting Edge Captures Delving Into iPhone X's Camera</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>In 2024, Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-perspectives-on-hardware-with-toms-guide/"><u>Professional Perspectives on Hardware with Tom's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-tom-guide-to-high-performance-computing-equipment/"><u>The Tom Guide to High-Performance Computing Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-advisor-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Advisor: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-to-computer-components/"><u>Tom's Tech Insights: Comprehensive Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unveiling-the-latest-in-hardware/"><u>Tom's Tech Insights: Unveiling the Latest in Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-source-for-computer-hardware-insights/"><u>Tom's Tech Review: Your Source for Computer Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-and-comparisons/"><u>Tom's Tech Reviews: In-Depth Analysis and Comparisons</u></a></li>
+<li><a href="https://extra-information.techidaily.com/upgraded-multitasking-with-microsofts-multi-display-feature-in-edge/"><u>Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-v27-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo V27 Pro? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

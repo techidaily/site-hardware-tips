@@ -1,7 +1,7 @@
 ---
 title: "Under-$20 A/C Breeze: In-Depth Evaluation of UpHere C5C & D6Sec Portable Coolers"
-date: 2024-08-19T04:01:52.235Z
-updated: 2024-08-20T04:01:52.235Z
+date: 2025-01-10T03:15:32.340Z
+updated: 2025-01-13T01:12:23.601Z
 tags:
   - cooling
 categories:
@@ -47,6 +47,10 @@ Valkyrie has just released its[AL125 CPU air cooler](https://www.ithome.com/0/78
 
  However, our limited experience with Valkyrie CPU air coolers hasn’t been the best. Back in June, we reviewed the premium-priced ($72)[Valkyrie Vind SL125](https://www.tomshardware.com/pc-components/air-cooling/valkyrie-vind-sl125-review) CPU air cooler and while we liked the anime aesthetics, the product was a so-so performer and could get loud. If you care about products meeting their touted performance and noise, it may be wise to wait for a third-party reviewer to pass judgment on the Valkyrie AL125.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,14 +59,11 @@ Valkyrie has just released its[AL125 CPU air cooler](https://www.ithome.com/0/78
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +72,26 @@ Valkyrie has just released its[AL125 CPU air cooler](https://www.ithome.com/0/78
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-method-for-facetime-screen-record/"><u>[New] In 2024, The Ultimate Method for FaceTime Screen Record</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-pocket-sized-picture-playwriting/"><u>[Updated] 2024 Approved Pocket-Sized Picture Playwriting</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-boost-engagement-by-personalizing-your-twitter-videos-with-new-thumbnails/"><u>[Updated] In 2024, Boost Engagement by Personalizing Your Twitter Videos with New Thumbnails</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-social-sharing-coordinating-vids-on-tweets-plus-tumbles/"><u>[Updated] Streamlining Social Sharing Coordinating Vids on Tweets + Tumbles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adapting-office-gear-the-future-of-tech-tools-amidst-artificial-intelligence-advancements-insights/"><u>Adapting Office Gear: The Future of Tech Tools Amidst Artificial Intelligence Advancements - Insights</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-secure-foundation-of-your-websites-personalization/"><u>Cookiebot: The Secure Foundation of Your Website's Personalization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-chromebooks-outshine-other-laptops-with-these-6-compelling-benefits-insights/"><u>Discover How Chromebooks Outshine Other Laptops with These 6 Compelling Benefits - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-surprising-creative-power-within-elegant-asus-laptop-models-what-designers-should-know-zdnet/"><u>Discover the Surprising Creative Power Within Elegant Asus Laptop Models - What Designers Should Know | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-get-the-apple-macbook-air-m2-chip-at-unbeatable-prices-this-cyber-monday-limited-time-offer-zdnet/"><u>Don't Miss Out: Get the Apple MacBook Air (M2 Chip) at Unbeatable Prices This Cyber Monday - Limited Time Offer | ZDNET</u></a></li>
+<li><a href="https://discover-help.techidaily.com/error-404-the-missing-pages-on-your-website/"><u>Error 404: The Missing Pages on Your Website</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-top-picks-for-premium-windows-laptops-of-202-infobox/"><u>Experts' Top Picks for Premium Windows Laptops of 202 [Infobox]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-optimizing-visual-performance-in-forza-horizon-5s-latest-upgrade/"><u>Fixes for Optimizing Visual Performance in Forza Horizon #5'S Latest Upgrade</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-14-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 14 with iTunes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lgs-revolutionary-lightweight-laptop-showdown-gram-pro-17-vs-earlier-model-exclusive-sale-for-prime-day-tech-insights/"><u>LG's Revolutionary Lightweight Laptop Showdown: Gram Pro 17 Vs. Earlier Model, Exclusive Sale for Prime Day | Tech Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/photographic-tapestry-assembly-techniques/"><u>Photographic Tapestry Assembly Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-best-portable-laptops-for-telecommuters-according-to-zdnet-tests/"><u>The Ultimate Guide to the Best Portable Laptops for Telecommuters, According to ZDNet Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-lenovonon-dell-2-in-1-laptop-affordable-options-preceding-prime-day-insights-from-zdnet/"><u>Top Non-Lenovo/Non-Dell 2-in-1 Laptop: Affordable Options Preceding Prime Day - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-chromebooks-should-be-your-first-choice-the-ultimate-guide-to-their-benefits-by-zdnet/"><u>Why Chromebooks Should Be Your First Choice – The Ultimate Guide to Their Benefits by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on the Enhanced Build Platform & Multi-Head Technology Featured in Original Prusa XL
-date: 2024-08-19T04:02:16.824Z
-updated: 2024-08-20T04:02:16.824Z
+date: 2025-01-11T22:47:43.145Z
+updated: 2025-01-13T01:09:36.136Z
 tags:
   - printer
 categories:
@@ -93,15 +93,13 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
  The XL has built in WiFi, another new feature we love seeing on printers. This allows you to securely access your machine from a local area network or through Prusa Research’s cloud based Prusa Connect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Assembling the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6oi6svYawnAUqBAQzbAw2S-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Prusa XL we reviewed came semi assembled and “only” needed the toolheads mounted. This is still quite a process, and installing five toolheads and calibrating each of them took several hours. As with the MK4, the printer itself will guide you through the calibration process.
@@ -111,16 +109,17 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
  Note: if you purchased the DIY kit version of the XL you’ll need to set aside a weekend to assemble and calibrate it, but you will save $500.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Calibrating the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/SSpJM3ayMuiPMPoLkAYK9U-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Bed leveling is a no-brainer as the XL Is fully automatic. There are no manual adjustments and no need for adjusting the Z offset. The printer uses a load cell sensor connected to the nozzle, which physically taps the print surface for precise measurement.
@@ -128,6 +127,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  The printer trams the bed and calculates the required z height before each print.
 
  You should run the included calibration print to make sure the print heads are in sync with each other. You can make minute adjustments to each print head, but I found that my initial calibrations were off because the nozzles had tiny bits of filament on them, leftover from the factory test. Once the nozzles were scrubbed clean, the printer was able to achieve perfect calibration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Loading Filament on the Original Prusa XL
 
@@ -146,15 +149,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  To remove material, go to the Filament menu from the main screen and click unload. It will remember what material was last installed, determine if the filament is still there, and then heat to the appropriate temperature. Once hot, it will retract the plastic until you can easily remove it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Preparing Files / Software for Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/P52DrZpk9Ahw76CiUPJj9T-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Original Prusa XL currently works best with its own slicer, PrusaSlicer. It uses the same color painting method developed for Prusa’s MMU system, which also forms the basis for Bambu Studio. The slicer is free to download and can be used with most other brands of 3D printers.
@@ -163,18 +168,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/BTWJwfhHRAoUkaGd9Vu9qR-320-80.png)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Prusa Connect is a more feature rich cloud based program, and can be used to control a single printer or a fleet of Prusa machines. It is not configured to work for 3rd party printers.
@@ -185,18 +178,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Prusa Research is committed to data[security](https://www.tomshardware.com/tag/security) and does not require your machine to be online in order to operate. File transfers and firmware updates can all be handled with a USB stick.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Printing on the Original Prusa XL
 
  The XL comes with a full roll of Prusament PLA Galaxy Black, but it has room for four more spools. You should really check out our guide to the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) for more suggestions.
@@ -229,6 +210,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Original Prusa XL](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 [_Prusa Research Toolbox_](https://www.printables.com/model/556185-prusa-box) _by Frikarte3D_
@@ -238,17 +223,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/kFFgowbmKCF7qBa3yB3XFS-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [_Phone case_](https://www.printables.com/model/46536-iphone-12-pro-max-flexible-case) _by BluecornNM_  (Image credit: Tom's Hardware)
 
 ## Bottom Line
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/metJPCsBo3TqcVxRaxZJeS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Because of its tool changer, the Prusa Original XL is a dream come true for many 3D printing fans. It’s a large format, multicolor, multi-material machine that nibbles on plastic instead of wasting it by the bucket. The XL is easy to use, with truly hands free auto bed leveling and the ability to set its own Z height. Plus, it's backed by Joseph Prusa’s commitment to Open Source, quality service and data security.
@@ -285,8 +268,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +275,23 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-examining-streaming-platform-powerhouses-twitch-and-youtube-comparison/"><u>[Updated] 2024 Approved Examining Streaming Platform Powerhouses Twitch and YouTube Comparison</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-apowersoft-screenshot-suite-comprehensive-free-analysis/"><u>[Updated] Apowersoft Screenshot Suite Comprehensive Free Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-get-more-followers-on-igtv-5-ways-for-2024/"><u>[Updated] How to Get More Followers on IGTV [5 Ways] for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-brilliant-backdrops-using-light-to-enchant-audiences/"><u>2024 Approved Brilliant Backdrops Using Light to Enchant Audiences</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-tuf-g70j-ux381t-review-an-exceptional-dual-screen-laptop-with-highs-and-lows-in-user-experience-and-battery-life/"><u>ASUS TUF G70J UX381T Review - An Exceptional Dual Screen Laptop with Highs and Lows in User Experience & Battery Life</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-price-cut-discover-the-ideal-laptop-for-hybrid-professionals-at-1k-less-from-lenovo/"><u>Best Price Cut: Discover the Ideal Laptop for Hybrid Professionals at $1K Less From Lenovo</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-performance-in-dayz-instant-solutions-to-increase-fps/"><u>Boosting Performance in DayZ: Instant Solutions to Increase FPS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-birds-guide-to-amazon-prime-day-savings-exclusive-oct-24-deals-for-your-next-laptop-upgrade/"><u>Early Bird's Guide to Amazon Prime Day Savings: Exclusive Oct '24 Deals for Your Next Laptop Upgrade</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-guide-downloading-and-using-your-epson-et-2750-windows-driver/"><u>Essential Guide: Downloading and Using Your Epson ET-2750 Windows Driver</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/microsoft-alert-enduring-reminders-vs-overbearing-commercials-a-users-plea-for-balance/"><u>Microsoft Alert: Enduring Reminders Vs. Overbearing Commercials – A User's Plea for Balance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-secondhand-marketplace-pro-tips-to-avoid-frauds-and-score-great-bargains-on-used-macbooks-zdnet-insights/"><u>Navigating the Secondhand Marketplace: Pro Tips to Avoid Frauds and Score Great Bargains on Used MacBooks | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-2024-prime-day-final-countdown-exclusive-game-deals-galore-save-hundreds-now/"><u>October 2024 Prime Day Final Countdown: Exclusive Game Deals Galore! Save Hundreds Now .</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-evolution-growth-post-internet-exit/"><u>Social Evolution: Growth Post-Internet Exit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/still-36-cheaper-grab-the-8tb-samsung-t5-ssd-at-a-steep-price-cut-after-prime-day-tech-insights-by-zdnet/"><u>Still 36% Cheaper: Grab the 8TB Samsung T5 SSD at a Steep Price Cut After Prime Day | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-hp-victus-15-laptop-price-slashed-to-530-by-best-buy-zdnet-exclusive/"><u>Unbeatable Deal Alert: HP Victus 15 Laptop Price Slashed to $530 by Best Buy - ZDNET Exclusive!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winning-techniques-for-newbies-in-pokemn-unite-arena/"><u>Winning Techniques for Newbies in Pokémn Unite Arena</u></a></li>
+</ul></div>
 

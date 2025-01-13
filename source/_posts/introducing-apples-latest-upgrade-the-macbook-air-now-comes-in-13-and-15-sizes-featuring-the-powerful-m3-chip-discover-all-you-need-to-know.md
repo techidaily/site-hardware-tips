@@ -1,7 +1,7 @@
 ---
 title: "Introducing Apple's Latest Upgrade: The MacBook Air Now Comes in 13 & 15 Sizes Featuring the Powerful M3 Chip - Discover All You Need to Know"
-date: 2025-01-03T20:07:21.702Z
-updated: 2025-01-06T06:13:03.058Z
+date: 2025-01-06T02:56:55.430Z
+updated: 2025-01-12T17:47:38.791Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,18 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-strategic-utilization-of-azure-voice-to-text-capabilities/"><u>[New] 2024 Approved Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-supercharge-videos-download-premium-effs/"><u>[Updated] 2024 Approved Supercharge Videos - Download Premium Effs!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>2024 Approved Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-influence-essential-marketing-expressions-explained/"><u>2024 Approved The Art of Influence Essential Marketing Expressions Explained</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chromebook-invasion-students-battle-bedbug-outbreak-in-school-devices-again-tech-news/"><u>Chromebook Invasion: Students Battle Bedbug Outbreak in School Devices Again | Tech News</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elevate-your-live-recordings-on-facebook-with-4-methods-for-2024/"><u>Elevate Your Live Recordings on Facebook with 4 Methods for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-finding-and-adding-new-software-to-your-samsung-smart-tv-device/"><u>Guide: Finding and Adding New Software to Your Samsung Smart TV Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-narzo-60-pro-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme Narzo 60 Pro 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/optimal-series-professional-webcam-stabilizers/"><u>Optimal Series Professional Webcam Stabilizers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/section-amoebas/"><u>Section Amoebas!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/strategies-for-storing-real-time-webcam-talks-for-2024/"><u>Strategies for Storing Real-Time Webcam Talks for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-webcams-of-2024-comprehensive-reviews-by-industry-experts/"><u>Top-Rated Streaming Webcams of 2024: Comprehensive Reviews by Industry Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-display-quality-grab-this-budget-friendly-laptop-deal-today-gadgetsreview/"><u>Unbeatable Display Quality: Grab This Budget-Friendly Laptop Deal Today | GadgetsReview</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-multitasking-firefox-picture-in-picture-explained-for-2024/"><u>[Updated] Mastering Multitasking Firefox Picture-in-Picture Explained for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-panoramic-pictures-through-image-fusion/"><u>2024 Approved Building Panoramic Pictures Through Image Fusion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvdmp4aviwmvwindows-113/"><u>无成本转换DVD片段为MP4/AVI/WMV：针对Windows 11用户的精选3款工具</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/aural-and-visual-summary-synthesizer/"><u>Aural and Visual Summary Synthesizer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ahead-with-superior-discounts-on-state-of-the-art-3d-printers-this-year/"><u>Get Ahead with Superior Discounts on State-of-the-Art 3D Printers This Year</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-cheap-yet-powerful-video-editing-software/"><u>In 2024, Best Cheap yet Powerful Video Editing Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-dive-into-the-deep-end-of-facebook-meme-culture/"><u>In 2024, Dive Into The Deep End of Facebook Meme Culture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-cutting-edge-graphics-cards-with-expertise-from-toms-hardware-source/"><u>In-Depth Analysis of Cutting-Edge Graphics Cards with Expertise From Tom's Hardware Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-electronics-uncovered-by-toms-hardware-hub/"><u>Innovative Electronics Uncovered by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-techniques-for-3d-printing-personalized-qr-codes/"><u>Innovative Techniques for 3D Printing Personalized QR Codes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-adatas-innovative-hybrid-airwater-cooling-solution-unveiled-at-computex-plus-upcoming-psus-and-pcie-50-ssds/"><u>Introducing Adata's Innovative Hybrid Air/Water Cooling Solution Unveiled at Computex - Plus Upcoming PSUs & PCIe 5.0 SSDs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-hdd-options-best-picks-for-optimizing-your-pc-and-nas-systems/"><u>Leading HDD Options : Best Picks for Optimizing Your PC and NAS Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-laser-cutting-systems-in-2e24-buyers-guide/"><u>Leading Laser Cutting Systems in 2E24 - Buyer's Guide</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/top-16-audio-editing-tools-for-macos-users-the-ultimate-guide-by-movavi/"><u>Top 16 Audio Editing Tools for macOS Users: The Ultimate Guide by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-application-switching-aids-mac-to-windows-migration-made-easy/"><u>Top 5 Application Switching Aids: Mac-to-Windows Migration Made Easy</u></a></li>
 </ul></div>
 

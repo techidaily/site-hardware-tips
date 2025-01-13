@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Processors, RAM & More at Tom's Hardware Hub
-date: 2024-08-19T04:01:51.262Z
-updated: 2024-08-20T04:01:51.262Z
+date: 2025-01-07T16:05:13.635Z
+updated: 2025-01-13T02:13:06.365Z
 tags:
   - cooling
 categories:
@@ -66,9 +66,6 @@ Included in the box are the following:
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -82,8 +79,9 @@ Included in the box are the following:
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -106,9 +104,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -117,9 +112,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶[**TF-12025-Pro 120mm fans**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FID-COOLING-120mm-Cooler-Radiator-Chassis%2Fdp%2FB0BV8ZRJMW%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1257997566399542543-20)
@@ -127,6 +119,10 @@ The top of the CPU black features a reflective black etched metal design.
  I say this on almost every cooler review, but there’s more to a cooler than just the heatsink or radiator. The bundled fans have a significant impact on cooling and noise levels, as well as how the cooler looks in your case.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -149,18 +145,20 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing Methodology, and how my testing differs vs the competition
 
@@ -221,13 +219,15 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,4 +236,22 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-the-mechanisms-of-noteworthy-youtube-discussions/"><u>[New] 2024 Approved Exploring the Mechanisms of Noteworthy YouTube Discussions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-shadowplay-vs-obs-pick-your-preferred-gaming-recorder/"><u>[New] 2024 Approved ShadowPlay Vs OBS - Pick Your Preferred Gaming Recorder</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-rescue-hidden-fb-watch-icon/"><u>[New] In 2024, Rescue Hidden FB Watch Icon</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-watching-social-network-vids-through-the-television-glass-in-2024/"><u>[New] Watching Social Network Vids Through the Television Glass, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-and-tough-discovering-the-ultimate-rugged-laptops-of-2024-according-to-industry-experts-at-zdnet/"><u>Future-Proof and Tough: Discovering the Ultimate Rugged Laptops of 2024, According to Industry Experts at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-dell-transformed-my-expectations-with-a-laptop-packed-full-of-bells-and-whistles-at-just-300e-insights-review/"><u>How Dell Transformed My Expectations with a Laptop Packed Full of Bells and Whistles at Just $3,00E | Insights Review</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-x-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone X?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-s23-tactical-edition-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy S23 Tactical Edition Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-skyrocket-your-e-commerce-game-with-these-essential-15-social-media-insights/"><u>In 2024, Skyrocket Your E-Commerce Game with These Essential 15 Social Media Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-microsofts-latest-surface-laptop-5-satisfaction-marginally-lower-than-anticipated-tech-analysis-on-zdnet/"><u>In-Depth Look at Microsoft's Latest Surface Laptop 5: Satisfaction Marginally Lower than Anticipated | Tech Analysis on ZDNET</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/mastering-file-name-changes-with-yl-software-ultimate-tips-and-tricks/"><u>Mastering File Name Changes with YL Software - Ultimate Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-savings-on-cyber-monday-with-exceptional-laptop-deals-for-under-500-plus-bonus-item-just-99-insider-tips/"><u>Maximize Your Savings on Cyber Monday with Exceptional Laptop Deals for Under $500 + Bonus Item Just $99 - Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-for-gamers-intel-arc-powered-pcs-comes-with-valuable-game-collection-worth-more-than-450-insights/"><u>Score Big Savings for Gamers! Intel Arc-Powered PCs Comes With Valuable Game Collection Worth More Than $450 Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-latest-lenovo-thinkpad-2-in-1-upgrade-a-game-changer-for-professional-users-insights/"><u>The Latest Lenovo ThinkPad 2-in-1 Upgrade: A Game-Changer for Professional Users - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-travel-essentials-discover-the-ideal-work-ready-13-laptop-that-outshines-dell-xps-and-macbook-options/"><u>ZDNet's Travel Essentials: Discover the Ideal Work-Ready 13 Laptop That Outshines Dell XPS and MacBook Options</u></a></li>
+</ul></div>
 

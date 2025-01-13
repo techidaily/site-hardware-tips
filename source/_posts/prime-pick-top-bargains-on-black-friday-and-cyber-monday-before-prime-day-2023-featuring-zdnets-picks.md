@@ -1,7 +1,7 @@
 ---
 title: "Prime Pick: Top Bargains on Black Friday & Cyber Monday Before Prime Day 2023 - Featuring ZDNet's Picks"
-date: 2025-01-04T08:21:52.596Z
-updated: 2025-01-06T05:29:58.017Z
+date: 2025-01-07T21:16:58.329Z
+updated: 2025-01-12T23:00:07.527Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ Whether you want to get an early head start on your holiday gift list or treat y
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Our favorite 48-Hour Flash Sale deals at Best Buy
 
 * [Samsung Galaxy S24 Ultra for $1,050 (save $250)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-s24-ultra-256gb-unlocked-titanium-violet%2F6570302.p%3FskuId%3D6570302&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Best Buy is offering a steep discount on the latest Samsung flagship, which comes with a large 6.8-inch display, a built-in S Pen stylus, and a quad-camera setup.
@@ -37,10 +33,6 @@ Whether you want to get an early head start on your holiday gift list or treat y
 * [HP Omen 16.1-inch Gaming Laptop for $1,000 (save $400)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omen-16-1-165hz-full-hd-gaming-laptop-intel-core-i9-16gb-ddr5-memory-nvidia-geforce-rtx-4060-1tb-ssd-shadow-black%2F6589390.p%3FskuId%3D6589390&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Features an Intel Core i9 processor, 16GB DDR5 memory, NVIDIA GeForce RTX 4060 graphics, and 1TB SSD storage.
 * [Jabra Elite 10 Earbuds for $200 (save $50)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjabra-elite-10-dolby-atmos-true-wireless-in-ear-heaphones-titanium-black%2F6553257.p%3FskuId%3D6553257&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Jabra's latest wireless earbuds have a comfortable and secure fit, good noise cancellation, and excellent sound quality.
 * [TP-Link Wireless 2K Security Camera System for $340 (save $110)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftp-link-tapo-4-pack-outdoor-battery-powered-wireless-2k-qhd-security-camera-with-4-solar-panels-white%2F6581709.p%3FskuId%3D6581709&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This comprehensive outdoor surveillance solution combines four battery-powered 2K QHD security cameras with four solar panels for easy installation and nonstop power.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy deals under $30
 
@@ -53,7 +45,7 @@ Best Buy/ZDNET
 * [Bella Pro Series 3-qt. Air Fryer for $30 (save $20)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbella-pro-series-3-qt-analog-air-fryer-black%2F6541802.p%3FskuId%3D6541802&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This air fryer can cook enough food to feed as many as four people and has adjustable temperature settings up to 400 degrees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals
@@ -83,6 +75,10 @@ Samsung/ZDNET
 
 **Also:** [**Best Prime Day Apple deals**](https://www.zdnet.com/article/best-early-prime-day-apple-deals/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Buy appliance deals
 
 LG/ZDNET
@@ -93,23 +89,27 @@ LG/ZDNET
 * [Maytag Dishwasher with Stainless Steel Tub for $550 (save $245)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmaytag-24-front-control-built-in-dishwasher-with-stainless-steel-tub-dual-power-filtration-50-dba-stainless-steel%2F6420940.p%3FskuId%3D6420940&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Quiet operation (50 dBA), fingerprint-resistant finish, and an advanced dual power filtration system make this deal a win for $245 off.
 * [GE Profile High-Efficiency Smart Top Load Washer for $680 (save $220)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fge-profile-5-0-cu-ft-high-efficiency-smart-top-load-washer-with-smarter-wash-technology-easier-reach-microban-technology-diamond-gray%2F6472680.p%3FskuId%3D6472680&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This washer features adaptive smart technology that optimizes cleaning power and fabric care depending on your cycle. It also has built-in Wi-Fi so that you can monitor your laundry from anywhere.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Will Best Buy have sales during Prime Day?
 
 Yes. Best Buy's 48-Hour Flash Sale runs Oct. 8-9, the same days as Amazon's October Prime Big Deal Days event. These deals reflect some of the best discounts on items in a range of categories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Does Best Buy price match Amazon Prime Day deals?
 
 No. Best Buy's Price Match Guarantee does not apply to discounts that are exclusive to membership or loyalty programs offered by other retailers. Consequently, member-only events such as Amazon's October Prime Day are not eligible for price matching at Best Buy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Best Buy 48-Hour Flash Sale deals?
 
@@ -147,18 +147,16 @@ We also looked over customer reviews to find out what matters to real people who
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-canon-camera-insights-for-stunning-time-lapse-vids/"><u>[New] Canon Camera Insights for Stunning Time-Lapse Vids</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-snapchat-tips-uploading-twitter-videos-for-max-impact/"><u>[New] In 2024, SnapChat Tips Uploading Twitter Videos for Max Impact</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-directly-upload-and-share-videos-to-twitter-from-your-phone/"><u>[Updated] 2024 Approved Directly Upload and Share Videos to Twitter From Your Phone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-amplify-content-with-free-audio-samples/"><u>[Updated] Amplify Content with Free Audio Samples</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-make-every-sound-count-comprehensive-guide-to-free-youtube-video-transcriptions/"><u>[Updated] In 2024, Make Every Sound Count Comprehensive Guide to Free YouTube Video Transcriptions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/efficiently-clearing-up-disk-space-on-macos-a-comprehensive-guide-for-better-performance/"><u>Efficiently Clearing Up Disk Space on macOS: A Comprehensive Guide for Better Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experts-selection-ideal-sierra-dvd-creators-for-2024/"><u>Expert’s Selection Ideal Sierra DVD Creators for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-discord-overlay-failure-a-step-by-step-guide/"><u>Fixing Windows Discord Overlay Failure: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-launches-new-lineup-of-chromebooks-designed-for-the-dynamic-lifestyle-of-students-and-on-the-go-workers-expert-review-by-zdnet/"><u>HP Launches New Lineup of Chromebooks Designed for the Dynamic Lifestyle of Students and On-the-Go Workers | Expert Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-samsung-t5-ssds-slashed-by-half-months-ahead-of-amazons-prime-day-shop-now/"><u>Huge Discount Alert: Samsung T5 SSDs Slashed by Half Months Ahead of Amazon's Prime Day - Shop Now!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-p40-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel P40 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-quickening-vimeo-content-streams/"><u>In 2024, Quickening Vimeo Content Streams</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-grab-the-massive-discount-on-an-8tb-samsung-t5-ssd-from-amazon-now-just-36-cheaper-tech-news/"><u>Save Big: Grab the Massive Discount on an 8TB Samsung T5 SSD From Amazon, Now Just 36% Cheaper - Tech News</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-experience-the-ps3-gaming-prowess-on-modern-pcs/"><u>[New] Experience the PS3 Gaming Prowess on Modern PCs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-7-best-monitors-for-photo-editing-worth-trying/"><u>[New] In 2024, 7 Best Monitors for Photo Editing Worth Trying</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-gastronomes-blueprint-filming-feasts/"><u>[Updated] 2024 Approved The Gastronome’s Blueprint Filming Feasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-to-cropped-video-content-on-instagram/"><u>[Updated] In 2024, The Ultimate Guide to Cropped Video Content on Instagram</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-freeplayvid-seamless-recording-for-the-avid-player/"><u>2024 Approved FreePlayVid Seamless Recording for the Avid Player</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cartoon-video-creation-made-easy-10-best-mobile-apps/"><u>New In 2024, Cartoon Video Creation Made Easy 10 Best Mobile Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782028-9781620554715-the-grail/"><u>The Grail | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tom-hardware-discoveries-advanced-pc-components-unveiled/"><u>Tom Hardware Discoveries: Advanced PC Components Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gadget-reviews-and-tech-comparisons-by-toms-hardware/"><u>Top-Rated Gadget Reviews and Tech Comparisons by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-raspberry-pi-enclosures-of-2024/"><u>Top-Rated Raspberry Pi Enclosures of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-creativity-top-rated-eleegoo-neptune-4-pro-available-at-a-steal-for-only-240-on-newegg/"><u>Unlock Creativity: Top-Rated Eleegoo Neptune 4 Pro Available at a Steal for Only $240 on Newegg</u></a></li>
 </ul></div>
 

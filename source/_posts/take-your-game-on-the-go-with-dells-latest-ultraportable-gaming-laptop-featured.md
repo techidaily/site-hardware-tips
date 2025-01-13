@@ -1,7 +1,7 @@
 ---
 title: Take Your Game On-The-Go with Dell’s Latest Ultraportable Gaming Laptop – Featured
-date: 2025-01-02T12:37:13.899Z
-updated: 2025-01-05T20:20:45.492Z
+date: 2025-01-10T17:45:52.568Z
+updated: 2025-01-13T01:42:26.106Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,24 +114,16 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-pinnacle-enterprise-data-vaulting/"><u>[New] Pinnacle Enterprise Data Vaulting</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-spotlight-on-best-selling-ae-plugins-for-instagram-for-2024/"><u>[New] Spotlight on Best-Selling AE Plugins for Instagram for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-visual-transcript-maker-for-2024/"><u>Audio Visual Transcript Maker for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-10-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 10 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-apple-pc-substitute-how-this-exceptional-asus-notebook-surpasses-a-macbook-in-key-areas-insights-by-zdnet/"><u>Discover the Ultimate Apple PC Substitute: How This Exceptional Asus Notebook Surpasses a MacBook in Key Areas - Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-performance-with-the-top-ranking-dell-inspiron-a-comprehve-analysis/"><u>Experience Unmatched Performance with the Top-Ranking Dell Inspiron – A Comprehve Analysis</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/future-proof-inverter-choices-top-performing-models-in-the-market-now/"><u>Future-Proof Inverter Choices: Top Performing Models in the Market Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-the-adonit-nest-for-only-65-top-rated-usb-hub-upgrade-for-remote-workers-spotted/"><u>Get the Adonit Nest for Only $65! Top-Rated USB Hub Upgrade for Remote Workers Spotted</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-gamecast-viewers-take/"><u>In 2024, GameCast Viewer's Take</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-high-impact-text-visual-effects/"><u>In 2024, High-Impact Text Visual Effects</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-top-5-secure-downloader-apps-for-fb-video-extraction/"><u>In 2024, Top 5 Secure Downloader Apps for FB Video Extraction</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-lenovo-laptop-picks-for-2c24-in-depth-reviews-and-ratings/"><u>Leading Lenovo Laptop Picks for 2C24: In-Depth Reviews and Ratings</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/seamless-cutting-techniques-5-top-tips-to-trim-and-edit-vimeo-videos-flawlessly-for-2024/"><u>Seamless Cutting Techniques 5 Top Tips to Trim & Edit Vimeo Videos Flawlessly for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-surprisingly-stellar-performance-of-the-unassuming-asus-workstation-for-creatives-tech-insights-by-zdnet/"><u>The Surprisingly Stellar Performance of the Unassuming Asus Workstation for Creatives | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-must-have-accessories-enhancing-your-pcs-capability-with-8k-monitors-support-spotted/"><u>Top Pick: Must-Have Accessories Enhancing Your PC's Capability with 8K Monitors Support – Spotted</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-best-13-inch-laptops-for-business-trips-excluding-dell-xps-and-macbook-insights-from-zdnet/"><u>Top Picks: Best 13-Inch Laptops for Business Trips (Excluding Dell XPS & MacBook) - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ultimate-powerdirector-guide-for-2024/"><u>Ultimate PowerDirector Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-googles-latest-innovation-the-chromebookplus-with-amazing-generative-ai-capabilities-my-impressions-from-a-comprehensive-test/"><u>Unveiling Google's Latest Innovation: The Chromebook+ with Amazing Generative AI Capabilities – My Impressions From a Comprehensive Test</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-this-top-recommended-windows-laptop-matches-macbook-airs-performance-at-a-lower-price/"><u>Why This Top-Recommended Windows Laptop Matches MacBook Air's Performance at a Lower Price</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-rehabilitating-faulty-obs-camera-connection/"><u>[New] 2024 Approved Rehabilitating Faulty OBS Camera Connection</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/xplore-top-7-live-streaming-iosandroid-apps-perfect-for-youtube-channel-creators-for-2024/"><u>[New] Explore Top 7 Live Streaming iOS/Android Apps Perfect for YouTube Channel Creators for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-with-toms-expert-guides-and-comprehensive-tests/"><u>Dive Into Hardware with Tom's Expert Guides and Comprehensive Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-toms-hardware-wisdom-for-cutting-edge-devices/"><u>Dive Into Tom's Hardware Wisdom for Cutting-Edge Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-fixes-for-a-clogged-3d-printer-nozzle-a-comprehensive-walkthrough/"><u>Easy Fixes for a Clogged 3D Printer Nozzle: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flavor-meets-functionality-the-invention-of-3d-printed-edible-qr-code-treats/"><u>Flavor Meets Functionality: The Invention of 3D-Printed, Edible QR Code Treats</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-cooling-the-leading-cpu-aio-and-air-coolers-of-2024-reviewed/"><u>Future-Proof Cooling: The Leading CPU AIO and Air Coolers of 2024 Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-12-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 12 Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-13-pro-max-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 13 Pro Max Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-turn-your-videos-into-a-revenue-stream-with-these-tips/"><u>In 2024, Turn Your Videos Into a Revenue Stream with These Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-flight-control-best-motor-selections-unveiled/"><u>Mastering Flight Control Best Motor Selections Unveiled</u></a></li>
 </ul></div>
 

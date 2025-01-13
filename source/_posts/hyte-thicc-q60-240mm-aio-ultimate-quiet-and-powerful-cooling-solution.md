@@ -1,7 +1,7 @@
 ---
 title: Hyte THICC Q60 240MM AIO - Ultimate Quiet & Powerful Cooling Solution
-date: 2024-08-19T04:01:39.029Z
-updated: 2024-08-20T04:01:39.029Z
+date: 2025-01-06T22:29:51.390Z
+updated: 2025-01-12T17:13:40.621Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
  In terms of performance, the air-cooled CPU was seen to deliver about 38,300cb with the AiO-cooled chip achieving just over 39,100cb. The CPU clocks were much more steady at 5.6 GHz using the AiO, but with the air cooler in place they often dipped to 5.4 GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +45,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/wmRXDJgtnnLnPhD5DLfZMJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Der8auer)
 
  It may be unfortunate timing for the new EK-Nucleus AIO CR360 Direct Die D-RGB all-in-one CPU cooler, as we are nearly at the end of the Socket 1700 era. Der8auer admitted he didn’t know what might need to be done to make the AiO Intel 15th Gen CPU compatible.
@@ -49,18 +57,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/DwdkCF27CRpbAtFLxxyV8J-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: EKWB)
 
  For some further context, last July we reviewed the closely related EK Nucleus AIO CR360 Lux D-RGB for fully clothed CPUs. Despite price concerns and a slight noise disadvantage against the best rival AiOs, our review crowned it the[new king of AiO cooling](https://www.tomshardware.com/reviews/ek-nucleus-aio-cr360-lux-d-rgb) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +78,20 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-empower-yourself-learning-the-ins-and-outs-of-io-screen-recorder/"><u>[New] In 2024, Empower Yourself Learning the Ins and Outs of IO Screen Recorder</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-social-exploration-pinpointing-popular-videos-on-the-worlds-biggest-network/"><u>[New] Social Exploration Pinpointing Popular Videos on the World's Biggest Network</u></a></li>
+<li><a href="https://fox-links.techidaily.com/celebrating-maker-spirits-creative-otu-packs/"><u>Celebrating Maker Spirits Creative OTU Packs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/contributing-to-chromes-future-the-essential-role-of-user-feedback-and-how-it-shapes-development-exclusive-tips-zdnet/"><u>Contributing to Chrome's Future: The Essential Role of User Feedback and How It Shapes Development (Exclusive Tips) | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-future-of-computing-with-dells-new-xps-14-laptop-exclusively-tested-and-reviewed-by-zdnet/"><u>Discover the Future of Computing with Dell's New XPS 14 Laptop, Exclusively Tested and Reviewed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-a-budget-friendly-asus-15-inch-laptop-with-essential-ports-at-walmart-for-only-250-the-ultimate-deal/"><u>Get Your Hands on a Budget-Friendly Asus 15-Inch Laptop with Essential Ports at Walmart for Only $250 – The Ultimate Deal!</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-greatness-perfecting-palette-on-your-pc/"><u>Guaranteeing Greatness: Perfecting Palette on Your PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-resolution-of-fatal-error-1603-during-software-setup-expert-advice/"><u>Mastering the Resolution of Fatal Error 1603 During Software Setup: Expert Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/presidents-day-savings-alert-snag-a-discounted-new-macbook-pro-featuring-m3-pro-chip-for-200-less-techdeals-on-zdnet/"><u>President’s Day Savings Alert: Snag a Discounted New MacBook Pro Featuring M3 Pro Chip for $200 Less | TechDeals on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-savings-exclusive-guide-to-early-bird-deals-on-high-performance-laptops-for-octobers-prime-shopping-event-zdnet/"><u>Secure Your Savings: Exclusive Guide to Early Bird Deals on High-Performance Laptops for October's Prime Shopping Event | ZDNET</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/red-thumbnails-elevating-your-video-visibility-on-youtube/"><u>Tailored Thumbnails Elevating Your Video Visibility on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-laptops-in-2-comprehensive-2024-reviews-by-brand-razer-acer-msi-and-others/"><u>Top Rated Gaming Laptops in 2#: Comprehensive 2024 Reviews by Brand - Razer, Acer, MSI & Others</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

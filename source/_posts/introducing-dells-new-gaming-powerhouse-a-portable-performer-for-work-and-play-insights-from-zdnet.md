@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2025-01-02T10:43:54.393Z
-updated: 2025-01-06T12:05:24.097Z
+date: 2025-01-10T02:51:15.251Z
+updated: 2025-01-12T20:15:55.485Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,19 +114,20 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-pioneering-digital-storytelling-youtubes-filmmaking-pathway/"><u>[Updated] Pioneering Digital Storytelling YouTube's Filmmaking Pathway</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-precision-adjustments-for-premium-zoom-audio-for-2024/"><u>[Updated] Precision Adjustments for Premium Zoom Audio for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-how-to-make-a-striking-yt-preview-with-optimal-thumbnail-sizing/"><u>2024 Approved How to Make a Striking YT Preview with Optimal Thumbnail Sizing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-content-consumption-6-best-free-youtube-short-downloaders/"><u>2024 Approved Maximize Content Consumption 6 Best Free YouTube Short Downloaders</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/a-comprehensible-approach-uploading-snapchat-images-offline/"><u>A Comprehensible Approach Uploading Snapchat Images Offline</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazons-epic-offer-dive-into-high-definition-game-sounds-for-just-150-less-discover-the-ultimate-speaker-system-honored-by-zdnet-gaming-reviewers/"><u>Amazon's Epic Offer: Dive Into High-Definition Game Sounds for Just $150 Less! Discover the Ultimate Speaker System, Honored by ZDNET Gaming Reviewers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-how-to-erase-the-recovery-section-in-windows/"><u>Expert Tips on How to Erase the Recovery Section in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g230-microphone-issues-a-comprehensive-guide/"><u>Fixing Logitech G230 Microphone Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-htc-u23-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do HTC U23 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-from-ces-2024-the-ultimate-guide-to-the-years-hottest-laptops/"><u>Top Picks From CES 2024: The Ultimate Guide to the Year's Hottest Laptops</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-in-depth-analysis-by-tech-experts-zdnet-insights/"><u>Top-Rated Laptops : In-Depth Analysis by Tech Experts | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-security-key-picks-industry-experts-reviews-and-ratings-zdnet/"><u>Top-Rated Security Key Picks : Industry Experts' Reviews and Ratings - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-offer-get-the-high-performance-omen-40l-gaming-pc-at-a-steep-markdown-of-550-on-hp-flash-sale-zdnets-insider-info/"><u>Unmissable Offer! Get the High-Performance Omen 40L Gaming PC at a Steep Markdown of $550 on HP Flash Sale - ZDNet's Insider Info</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-top-pick-for-a-flexible-and-well-built-laptop-wins-over-enthusiasts-alike/"><u>ZDNet's Top Pick for a Flexible and Well-Built Laptop Wins Over Enthusiasts Alike</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-video-storage-hours-to-gb-estimation/"><u>[New] 2024 Approved Video Storage Hours to GB Estimation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-virtual-adventure-awaits-with-these-top-12-pc-clickers-for-2024/"><u>[Updated] Virtual Adventure Awaits with These Top 12 PC Clickers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-dissecting-video-production-mastery-with-xmedia-studio-suite/"><u>2024 Approved Dissecting Video Production Mastery with XMedia Studio Suite</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-metaphorical-realities-30plus-inspirational-vr-expressions/"><u>2024 Approved Metaphorical Realities 30+ Inspirational VR Expressions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-recorded-speech-retrieval-and-evaluation/"><u>2024 Approved Recorded Speech Retrieval & Evaluation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-a-vibrant-youtube-experience-with-tracks-for-2024/"><u>Craft a Vibrant Youtube Experience with Tracks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-value-cpu-picks-for-2abies-as-tested-and-evaluated-by-toms-hardware/"><u>Discover the Best Value CPU Picks for 2Abies, as Tested and Evaluated by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-tech-with-toms-hardware-reviews/"><u>Discover the Latest in Tech with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-gaming-chair-models-of-2-for-optimal-play-comfort/"><u>Discover the Leading Gaming Chair Models of 2# for Optimal Play Comfort</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-secrets-behind-the-popular-creality-ender-3-v3-ke-a-detailed-seo-guide-for-savvy-shoppers/"><u>Discovering the Secrets Behind the Popular Creality Ender 3 V3 Ke - A Detailed SEO Guide for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-top-tier-performance-save-75-with-the-editors-choice-elegoo-neptune-4-pro/"><u>Don't Miss Out on Top-Tier Performance - Save $75 with the Editor's Choice, Elegoo Neptune 4 Pro!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ekwb-owns-up-company-apologizes-for-late-remittances-vows-improved-practices/"><u>EKWB Owns Up: Company Apologizes for Late Remittances, Vows Improved Practices</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/essential-tips-for-securely-saving-your-iphones-information-prior-to-a-fresh-start/"><u>Essential Tips for Securely Saving Your iPhone's Information Prior to a Fresh Start</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-time-for-podcast-debuts/"><u>In 2024, Prime Time for Podcast Debuts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-energy-efficiency-activating-battery-saving-features-on-your-apple-watch-a-guide/"><u>Unlocking Energy Efficiency: Activating Battery Saving Features on Your Apple Watch - A Guide</u></a></li>
 </ul></div>
 

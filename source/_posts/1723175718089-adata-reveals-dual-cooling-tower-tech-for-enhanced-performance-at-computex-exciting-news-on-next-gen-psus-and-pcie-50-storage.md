@@ -1,7 +1,7 @@
 ---
 title: "Adata Reveals Dual-Cooling Tower Tech for Enhanced Performance at Computex: Exciting News on Next-Gen PSUs & PCIe 5.0 Storage"
-date: 2024-08-23T12:56:55.336Z
-updated: 2024-08-24T12:56:55.336Z
+date: 2025-01-10T17:45:23.528Z
+updated: 2025-01-12T21:59:35.418Z
 tags:
   - cooling
 categories:
@@ -53,6 +53,10 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Packing and Included Contents
 
  ID-Cooling’s ZERO M05 arrives in a small 12 (L) x 6.5 (W) x 2 (D) cm box. The M15 is the same but with a larger depth of 4.5cm. The M15 is protected by molded foam for the protection of the heatsink, whereas the M05 arrives in molded plastic. Included with each unit are the heatsink, screws, and thermal pads necessary to use the product.
@@ -61,6 +65,10 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
 ![ID-Cooling Zero M05 and M15](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![ID-Cooling Zero M05 and M15](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -68,8 +76,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Installation
 
  The installation of the NVMe heatsinks is simple and generally quick to complete.
@@ -78,9 +87,6 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/4VxDCVYJvpaQpgLidEaEum-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  2\. Place your M.2 NVMe SSD onto the thermal pad. Take the second thermal pad, and place it on top.
@@ -93,14 +99,15 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/zM8urppv6XUk7ePM9j7CR8-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  4\. The last step is to place the unit into an m.2 slot and secure it using a screw or a latch if you have a fancier motherboard.
 
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/LzHTKkM6pRkxWeBtmobzAo-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -117,8 +124,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/M5p4GAuseXo8axuCSkSR5-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶ **M15: Tall and thick heatsink for maximum cooling**
@@ -131,9 +139,6 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/ZFAzSXoiJYomVHeA9JfKb6-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As this is a taller heatsink, there will be some compatibility restrictions. You won’t be able to install this next to a CPU with some air coolers like[DeepCool’s Assassin IV](https://www.tomshardware.com/reviews/deepcool-assassin-iv) \- the heatpipes of the unit interfere with it. Other air coolers like[ID-Cooling’s A720](https://www.tomshardware.com/pc-components/cooling/id-cooling-frozn-a720-and-a620-review) , and virtually all liquid coolers, shouldn’t have compatibility issues and you can install taller heatsinks like the M15 next to them.
@@ -150,9 +155,6 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  This test will cause throttling when paired with lower-end heatsinks. For those heatsinks, we’ll be looking at the IOPS of the drive during testing. The more advanced heatsinks and coolers will be capable of keeping the SSD under its peak temperature – for these units, we’ll compare the actual temperatures of the TeamGroup Z540 SSD.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How hot is too hot? Does cooling even matter for a SSD?
 
  When I was determining how to test these units, I consulted with many storage industry experts before I started testing. They emphasized that modern PCIe 5.0 drives need at least some sort of cooling to avoid throttling and that even basic workloads can be impacted by minor throttling without a heatsink.
@@ -166,6 +168,10 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
  In theory if your NVMe SSD arrives with a heatsink from the manufacturer, you shouldn’t need to worry about a heatsink at all. Most of the heatsinks I’ve seen paired with high end PCIe 5 SSDs are more than capable enough of handling strong thermal loads. However, many drives do not include a heatsink with the purchase of a SSD and you would be a fool to run a high-speed PCIe 5 SSD entirely uncooled as performance will suffer even in common workloads.
 
  When it comes to heatsinks for SSDs, the important thing to take away here is that every expert I’ve spoken to in the storage industry agrees that it is best practice to minimize temperature variations for the health and longevity of your SSD. How strong of a heatsink you’ll need is another matter for debate. In common scenarios, most users will be fine with basic heatsinks - but professionals or users with storage intensive workloads might want to invest in a stronger heatsink.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing configuration – Intel LGA1700 platform
 
@@ -201,8 +207,6 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +214,21 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-broadcast-battlegrounds-where-does-streaming-technology-stand-strongest/"><u>[New] Broadcast Battlegrounds Where Does Streaming Technology Stand Strongest?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevating-content-sharing-link-instagram-and-tiktok/"><u>[New] Elevating Content Sharing Link Instagram & TikTok</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/audience-favorite-discover-the-ultimate-combination-of-power-and-durability-in-todays-best-laptops-reviews/"><u>Audience Favorite: Discover the Ultimate Combination of Power & Durability in Today's Best Laptops Reviews</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-find-x6-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Find X6 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-save-on-your-ideal-lenovo-laptop-designed-for-hybrid-professionals-get-1000-off-this-octobers-amazon-prime-day/"><u>Exclusive Offer: Save on Your Ideal Lenovo Laptop Designed for Hybrid Professionals - Get $1,000 Off This October's Amazon Prime Day!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-list-the-best-5g-notebook-picks-for-tech-enthusiasts-featured-on-zdnet/"><u>Explore the Ultimate List: The Best 5G Notebook Picks for Tech Enthusiasts - Featured on ZDNET</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-14-pro-max-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone 14 Pro Max The Right Way</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-moto-e13-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Moto E13 for Free? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-sourav-joshis-income-tactics-the-future-of-monetizing-content/"><u>In 2024, Sourav Joshi's Income Tactics The Future of Monetizing Content</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-7-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 7 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maintaining-high-quality-visuals-techniques-for-shrinking-large-4gb-videos/"><u>Maintaining High-Quality Visuals: Techniques for Shrinking Large 4GB Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-tecno-camon-20-premier-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Tecno Camon 20 Premier 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-for-professional-video-editors-in-depth-reviews-and-comparisons-techradar/"><u>Top-Rated Laptops for Professional Video Editors: In-Depth Reviews & Comparisons - TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-experience-the-ultimate-immersive-sound-with-a-top-rated-gaming-speaker-now-60-off-on-amazon-featured-by-zdnet/"><u>Unbeatable Deal: Experience the Ultimate Immersive Sound with a Top-Rated Gaming Speaker Now 60% Off on Amazon - Featured by ZDNet</u></a></li>
+</ul></div>
 

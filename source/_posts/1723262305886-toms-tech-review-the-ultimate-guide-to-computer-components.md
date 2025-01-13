@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: The Ultimate Guide To Computer Components"
-date: 2024-08-23T12:57:38.056Z
-updated: 2024-08-24T12:57:38.056Z
+date: 2025-01-08T16:39:30.481Z
+updated: 2025-01-13T01:17:23.462Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,23 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-obs-alternatives-and-enhancements/"><u>[Updated] 2024 Approved OBS Alternatives and Enhancements</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-easy-pc-capture-tool-windows-10-free-version/"><u>2024 Approved Easy PC Capture Tool - Windows 10 Free Version</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-ai-driven-shooting-modes-in-todays-cameras/"><u>2024 Approved Exploring the AI-Driven Shooting Modes in Today's Cameras</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buy-prime-day-preview-top-savings-and-offers-zdnet-insights/"><u>Best Buy Prime Day Preview: Top Savings & Offers | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-the-msi-steam-deck-challenge-nintendo-and-sony-in-the-mobile-gaming-arena-a-deep-dive-into-its-prospects-for-triumph/"><u>Can the MSI Steam Deck Challenge Nintendo and Sony in the Mobile Gaming Arena? A Deep Dive Into Its Prospects for Triumph</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chromebook-infestation-alert-students-discover-bedbugs-in-school-laptops-for-the-second-occasion-a-growing-concern/"><u>Chromebook Infestation Alert: Students Discover Bedbugs in School Laptops for the Second Occasion – A Growing Concern</u></a></li>
+<li><a href="https://fox-info.techidaily.com/filmmakers-checklist-on-the-go-gear-guide/"><u>Filmmaker's Checklist On-the-Go Gear Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-gionee-f3-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Gionee F3 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-bring-your-ideas-to-life-top-cartoon-video-makers-for-mobile/"><u>New In 2024, Bring Your Ideas to Life Top Cartoon Video Makers for Mobile</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/ps-tips-for-perfecting-photo-shades-and-saturation-for-2024/"><u>PS Tips for Perfecting Photo Shades and Saturation for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/review-of-the-eufy-security-solocam-s34-top-notch-solar-powered-motion-detector-for-enhanced-safety/"><u>Review of the Eufy Security Solocam S34#: Top-Notch Solar-Powered Motion Detector for Enhanced Safety</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-budget-friendly-refurbished-surface-pro/"><u>Score a Budget-Friendly Refurbished Surface Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-for-portable-powerhouses-a-minimalist-chromebook-that-packs-a-punch-insights-from-zdnets-testing/"><u>Top Pick for Portable Powerhouses: A Minimalist Chromebook That Packs a Punch – Insights From ZDNet's Testing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-the-best-alternative-laptops-for-business-trips-beyond-the-dell-xps-and-macbook-insider-advice/"><u>Top Picks: The Best Alternative Laptops for Business Trips, Beyond the Dell XPS and MacBook - Insider Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-wireless-routers-features-and-reviews-on-zdnet/"><u>Top Rated Wireless Routers - Features & Reviews on ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

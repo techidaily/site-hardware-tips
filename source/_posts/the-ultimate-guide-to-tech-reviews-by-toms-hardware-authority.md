@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Tech Reviews by Tom's Hardware Authority
-date: 2024-08-23T12:57:12.989Z
-updated: 2024-08-24T12:57:12.989Z
+date: 2025-01-06T17:02:17.779Z
+updated: 2025-01-12T18:07:49.376Z
 tags:
   - cooling
 categories:
@@ -64,7 +64,15 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Features of ID-Cooling’s FX 360 Pro
 
@@ -79,8 +87,9 @@ Included in the box are the following:
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -97,14 +106,15 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -122,9 +132,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -148,8 +155,9 @@ The top of the CPU black features a reflective black etched metal design.
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
@@ -188,9 +196,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -218,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,4 +236,20 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-can-i-view-all-shared-videos-and-photos-on-messenger-in-2024/"><u>[New] Can I View All Shared Videos And Photos on Messenger, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-sturdy-laptop-models-the-ultimate-guide-according-to-zdnet/"><u>Discover the Most Sturdy Laptop Models - The Ultimate Guide According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultimate-game-sound-top-rated-gaming-speakers-now-discounted-at-best-buy-find-out-why-they-made-our-list/"><u>Experience Ultimate Game Sound: Top-Rated Gaming Speakers Now Discounted at Best Buy - Find Out Why They Made Our List!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-drivers-issue-22-resolved/"><u>GPU Drivers: Issue #22 Resolved</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/hddwindows-112/"><u>HDD一括移行：Windows 11上で実践する2つの最良手法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-anno-1800-directx-compatibility-issues-for-smooth-gameplay/"><u>How to Fix 'Anno 1800' DirectX Compatibility Issues for Smooth Gameplay</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-legally-obtain-fc2-videos-at-zero-price-point/"><u>How to Legally Obtain FC2 Videos at Zero Price Point</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-14-ultra-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi 14 Ultra online without jailbreak</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagrams-edge-transforming-your-videography-with-precision-cropping-for-2024/"><u>Instagram's Edge Transforming Your Videography with Precision Cropping for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-lenovos-new-yoga-book-9i-the-game-changer-for-dual-screen-laptop-innovation/"><u>Is Lenovo's New Yoga Book 9I the Game Changer for Dual-Screen Laptop Innovation?</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-oculus-graphics-glitches-optimizing-your-drivers-effectively/"><u>Overcoming Oculus Graphics Glitches: Optimizing Your Drivers Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-98-unmissable-cyber-monday-offers-featuring-exclusive-zdnet-picks/"><u>Top 98 Unmissable Cyber Monday Offers - Featuring Exclusive ZDNet Picks!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-media-player-dvd-dvd/"><u>Windows Media Player 지원 제품 - DVD/영상 콘테네이터에서 최고의 웹사이트(DVD 리퍼, 비디오 컨버터, 아이폰 전송)</u></a></li>
+</ul></div>
 

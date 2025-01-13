@@ -1,7 +1,7 @@
 ---
 title: "Budget Chill Masters: Thorough Testing and Reviews of UpHere's C5C and D6Sec Air Conditioners Under $20"
-date: 2024-08-19T04:01:49.956Z
-updated: 2024-08-20T04:01:49.956Z
+date: 2025-01-08T21:52:06.425Z
+updated: 2025-01-12T17:00:02.385Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
  In terms of performance, the air-cooled CPU was seen to deliver about 38,300cb with the AiO-cooled chip achieving just over 39,100cb. The CPU clocks were much more steady at 5.6 GHz using the AiO, but with the air cooler in place they often dipped to 5.4 GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +45,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/wmRXDJgtnnLnPhD5DLfZMJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Der8auer)
 
  It may be unfortunate timing for the new EK-Nucleus AIO CR360 Direct Die D-RGB all-in-one CPU cooler, as we are nearly at the end of the Socket 1700 era. Der8auer admitted he didn’t know what might need to be done to make the AiO Intel 15th Gen CPU compatible.
@@ -49,18 +57,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/DwdkCF27CRpbAtFLxxyV8J-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: EKWB)
 
  For some further context, last July we reviewed the closely related EK Nucleus AIO CR360 Lux D-RGB for fully clothed CPUs. Despite price concerns and a slight noise disadvantage against the best rival AiOs, our review crowned it the[new king of AiO cooling](https://www.tomshardware.com/reviews/ek-nucleus-aio-cr360-lux-d-rgb) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +78,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-setting-benchmarks-a-look-at-successful-igtv-videos/"><u>[Updated] In 2024, Setting Benchmarks A Look at Successful IGTV Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>2024 Approved The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-an-older-gamepad-dock-support-switchs-oled-model/"><u>Can an Older Gamepad Dock Support Switch's OLED Model?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chromebooks-take-center-stage-key-reasons-unveiled-by-zdnet/"><u>Chromebooks Take Center Stage : Key Reasons Unveiled by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-vetted-ultimate-laptop-selections-for-university-students-reviews-and-comparisons-zdnet/"><u>Expertly Vetted Ultimate Laptop Selections for University Students: Reviews & Comparisons - ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-narratives-in-motion-transforming-thoughts-into-words/"><u>In 2024, Narratives in Motion Transforming Thoughts Into Words</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-alert-samsung-4tb-portable-ssd-t5-now-available-on-amazon-for-just-under-half-the-original-price-zdnet/"><u>Massive Discount Alert: Samsung 4TB Portable SSD (T5) Now Available on Amazon for Just Under Half the Original Price - ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-top-10-camera-recording-devices-of-2024-reviews/"><u>The Top 10 Camera Recording Devices of 2024 – Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-65-affordable-laptops-for-festive-season-gamers-unbeatable-offers/"><u>Top 65 Affordable Laptops for Festive Season Gamers: Unbeatable Offers!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-iphone-and-ipad-vpn-apps-comprehensive-tests-and-reviews-by-tech-gurus/"><u>Top-Ranking iPhone & iPad VPN Apps: Comprehensive Tests and Reviews by Tech Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/update-your-apple-devices-transition-from-high-sierra-to-macos-mojave-with-ease/"><u>Update Your Apple Devices: Transition From High Sierra to macOS Mojave with Ease</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

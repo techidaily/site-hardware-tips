@@ -1,7 +1,7 @@
 ---
 title: Liquid Nitrogen Overclocking Elevates AMD's Ryzen #9 9950X to Unprecedented 6.7GHz, Breaking World Records
-date: 2024-08-19T03:59:36.736Z
-updated: 2024-08-20T03:59:36.736Z
+date: 2025-01-11T16:05:30.929Z
+updated: 2025-01-13T02:33:11.201Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,21 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-harnessing-viral-potential-the-20-best-tiktok-caption-insights/"><u>[New] In 2024, Harnessing Viral Potential The 20 Best TikTok Caption Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-10-high-fidelity-4k-laptops-for-gamers/"><u>[New] Top 10 High-Fidelity 4K Laptops for Gamers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-gamers-roadmap-navigating-a-successful-youtube-channel/"><u>[Updated] In 2024, The Gamers' Roadmap Navigating a Successful YouTube Channel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delve-into-hardware-with-toms-insights-comprehensive-guide-and-reviews/"><u>Delve Into Hardware with Tom's Insights – Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-tech-trends-at-toms-electronics-insight/"><u>Discover Cutting-Edge Tech Trends at Tom's Electronics Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-ranked-raspberry-pi-hat-options-of-2024-ideal-additions-to-any-electronics-project/"><u>Discover the Top-Ranked Raspberry Pi HAT Options of 2024: Ideal Additions to Any Electronics Project</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-rated-computers-and-peripherals-at-toms-electronics-reviews/"><u>Discover Top-Rated Computers and Peripherals at Tom's Electronics Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-best-gaming-graphics-cards-exceptional-quality-at-competitive-prices-2024-edition/"><u>Elite Selection of Best Gaming Graphics Cards - Exceptional Quality at Competitive Prices, 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-toms-pc-components-and-gadgets/"><u>Expert Insights Into Tom's PC Components and Gadgets</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Samsung Galaxy Z Fold 5.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-adobe-premiere-pro-crashes-on-windows-11-and-10/"><u>Resolved: Fixing Adobe Premiere Pro Crashes on Windows 11 and 10</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/trasferimento-automatico-e-semplice-di-cartelle-con-il-programma-backupper-come-copiare-file-facilmente/"><u>Trasferimento Automatico E Semplice Di Cartelle Con Il Programma Backupper: Come Copiare File Facilmente</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-k11-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from K11 5G.</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/wiederherstellung-von-durch-viren-beschadigten-dateien/"><u>Wiederherstellung Von Durch Viren Beschädigten Dateien</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->

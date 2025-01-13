@@ -1,7 +1,7 @@
 ---
 title: "Unleashing New Era in AI Performance: Ampere's Cutting-Edge 512-Core AmpereOne Aurora Processor with Custom AI Engine Capabilities and HBM Memory Support Redefining Computational Excellence"
-date: 2024-08-23T12:57:45.046Z
-updated: 2024-08-24T12:57:45.046Z
+date: 2025-01-09T21:45:54.671Z
+updated: 2025-01-13T00:06:23.987Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,9 +59,18 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-mac-screen-capturing-substitutes-for-bandicam/"><u>[New] Essential Mac Screen Capturing Substitutes for Bandicam</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-long-lasting-friendship-on-snapchat-ideas-and-insights-for-2024/"><u>[New] Long-Lasting Friendship on Snapchat Ideas and Insights for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-mute-chrome-prompts-on-windows/"><u>Guide to Mute Chrome Prompts on Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ist-todays-youtube-sensations-for-2024/"><u>Hot List Today's YouTube Sensations for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/how-to-efficiently-compress-mp4-files-while-maintaining-excellent-video-clarity-a-step-by-step-tutorial/"><u>How to Efficiently Compress MP4 Files While Maintaining Excellent Video Clarity: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-tech-guru-reveals-asus-superior-oled-display-surpasses-hundreds-of-models-innovations/"><u>In-Depth Analysis by Tech Guru Reveals Asus' Superior OLED Display Surpasses Hundreds of Models Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sickened-by-your-words/"><u>Sickened by Your Words</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-hp-victus-15-for-just-515-unbeatable-prime-day-offer-at-best-buy-according-to-zdnet/"><u>Snag the HP Victus 15 for Just $515 – Unbeatable Prime Day Offer at Best Buy, According to ZDNet!</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-utorrent-downloads-a-guide-for-windows-users/"><u>Tackling uTorrent Downloads: A Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-24-amazing-christmas-and-festive-season-bargains-on-pcs-exploring-the-best-offers-from-best-buy-amazon-newegg-etc-insights/"><u>Top 24 Amazing Christmas & Festive Season Bargains on PCs: Exploring the Best Offers From Best Buy, Amazon, Newegg, Etc. - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-hidden-savings-at-best-buy-for-a-free-macbook-air-m3-discover-the-stealth-technique-now/"><u>Unlock Hidden Savings at Best Buy for a Free MacBook Air M3 - Discover the Stealth Technique Now!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->

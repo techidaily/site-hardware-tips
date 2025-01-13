@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: Navigating Device Innovations in the Age of Artificial Intelligence - Insights"
-date: 2024-12-31T01:25:05.976Z
-updated: 2025-01-06T08:31:26.339Z
+date: 2025-01-11T17:43:43.619Z
+updated: 2025-01-12T17:21:51.232Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,24 +134,24 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-dissecting-video-platform-features-youtube-vs-dailymention/"><u>[New] In 2024, Dissecting Video Platform Features YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-practical-ways-to-preserve-your-instagram-stories/"><u>[New] Practical Ways to Preserve Your Instagram Stories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-soundscapes-synopsis-a-guide-to-visual-tunes/"><u>[Updated] Soundscapes Synopsis A Guide to Visual Tunes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-x-flip-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo X Flip Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-lenovo-laptops-ideal-for-remote-and-office-based-professionals-save-up-to-1k/"><u>Affordable Lenovo Laptops Ideal for Remote and Office-Based Professionals - Save Up To $1K</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-15-inch-laptop-at-an-unbeatable-price-only-250-at-walmart-complete-with-necessary-ports/"><u>Asus 15-Inch Laptop at an Unbeatable Price: Only $250 at Walmart - Complete with Necessary Ports</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-blue-light-filtering-monitor-covers/"><u>Best Blue Light Filtering Monitor Covers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boosting-chrome-os-a-step-by-step-guide-on-providing-valuable-feedback-to-developers-insights/"><u>Boosting Chrome OS: A Step-by-Step Guide on Providing Valuable Feedback to Developers - Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-steps-for-fixing-missing-media-device-drivers-on-windows/"><u>Essential Steps for Fixing Missing Media Device Drivers on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exceptional-display-premium-quality-laptop-at-a-steep-sale-discover-top-picks-featured/"><u>Exceptional Display: Premium Quality Laptop at a Steep Sale - Discover Top Picks Featured !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-the-perfect-portable-laptop-companion-for-efficient-work-from-home-productivity-zdnet-insights/"><u>Expert Review: The Perfect Portable Laptop Companion for Efficient Work-From-Home Productivity | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-leading-antivirus-solutions-for-2e4-a-comprehensive-review-by-zdnet-experts/"><u>Explore the Leading Antivirus Solutions for 2E4: A Comprehensive Review by ZDNET Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-ultimate-list-of-2023s-best-laptops-for-extended-battery-performance-insights/"><u>Exploring the Ultimate List of 2023'S Best Laptops for Extended Battery Performance - Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-slow-motion-video-gear/"><u>In 2024, Top 5 Slow-Motion Video Gear</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/sharing-stories-every-day-best-practices-in-personal-videography/"><u>Sharing Stories Every Day Best Practices in Personal Videography</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-10-christmas-themed-chromebook-bargains-find-your-perfect-device-on-zdnet/"><u>Top 10 Christmas-Themed Chromebook Bargains - Find Your Perfect Device on ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-oled-laptop-picks-thoroughly-analyzed-and-endorsed-by-professionals-techradar/"><u>Top-Ranking OLED Laptop Picks : Thoroughly Analyzed & Endorsed by Professionals | TechRadar</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-scriptsmiths-network/"><u>Ultimate Scriptsmiths Network</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-snippets-overview-explained/"><u>[New] YouTube Snippets Overview Explained</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-building-profitable-collaborations-with-brands-on-youtube/"><u>[Updated] In 2024, Building Profitable Collaborations with Brands on Youtube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-uncovering-snapchats-hidden-symbolism/"><u>[Updated] Uncovering Snapchat's Hidden Symbolism</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-closer-look-at-two-trees-sk1-review-accelerated-performance-with-open-source-technology/"><u>A Closer Look at 'Two Trees' SK1 Review: Accelerated Performance with Open Source Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-affordably-shop-the-coolest-arctic-high-performance-liquid-freezer-aiold2018a-v2-at-74-now/"><u>Beat the Heat Affordably – Shop the Coolest Arctic High-Performance Liquid Freezer (AIOLD2018A v2) at $74 Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175674253-comprehensive-analysis-of-the-id-cooling-fx360-pro-top-performance-for-under-70/"><u>Comprehensive Analysis of the ID-Cooling FX360 Pro - Top Performance for Under $70</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-computer-analysis-by-tom-the-ultimate-source/"><u>Comprehensive Computer Analysis by Tom - The Ultimate Source</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/dare-to-differentiate-using-square-videos-for-social-media-standout-for-2024/"><u>Dare to Differentiate Using Square Videos for Social Media Standout for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-computer-components-with-toms-hardware-explorations/"><u>Decoding Computer Components with Tom's Hardware Explorations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-electronics-evolution-with-authoritative-toms-reviews/"><u>Decoding Electronics Evolution with Authoritative Tom’s Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-review-expansive-bed-size-and-multiple-toolhead-operation-in-the-original-prusa-xl-3d-printer/"><u>Detailed Review: Expansive Bed Size & Multiple Toolhead Operation in the Original Prusa XL 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125240412-discover-the-best-gaming-pc-power-supplies-our-top-picks-for-2amoy-2024/"><u>Discover the Best Gaming PC Power Supplies: Our Top Picks for 2Amoy 2024!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125169383-elevate-your-3d-creations-master-resin-wash-and-cure-with-elegoos-essential-1econd-kit/"><u>Elevate Your 3D Creations: Master Resin Wash and Cure with Elegoo's Essential $1Econd Kit!</u></a></li>
+<li><a href="https://location-fake.techidaily.com/final-fix-addressing-fifa-21-game-installation-and-boot-up-issues/"><u>Final Fix: Addressing FIFA 21 Game Installation and Boot-Up Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-idea-to-action-creating-custom-window-pattern-loops/"><u>From Idea to Action: Creating Custom Window Pattern Loops</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-x9a-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor X9a Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-retro-editing-magic-cutting-classical-cinematography/"><u>In 2024, Retro Editing Magic Cutting Classical Cinematography</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/keyword-optimization-for-higher-youtube-viewership-for-2024/"><u>Keyword Optimization for Higher YouTube Viewership for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mycam-reviewed-does-it-deliver-on-performance-promises-for-2024/"><u>MyCam Reviewed Does It Deliver on Performance Promises for 2024</u></a></li>
 </ul></div>
 

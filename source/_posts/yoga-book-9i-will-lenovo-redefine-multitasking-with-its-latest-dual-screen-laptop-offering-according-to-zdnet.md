@@ -1,7 +1,7 @@
 ---
 title: "Yoga Book ^9I: Will Lenovo Redefine Multitasking with Its Latest Dual-Screen Laptop Offering, According to ZDNet?"
-date: 2025-01-03T18:33:59.625Z
-updated: 2025-01-06T00:58:03.769Z
+date: 2025-01-11T21:42:10.474Z
+updated: 2025-01-12T20:03:09.988Z
 tags:
   - laptops
 categories:
@@ -26,29 +26,25 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take screenshots on any laptop
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1: The old fashioned way**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -90,10 +86,6 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -104,7 +96,15 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
 
@@ -115,7 +115,7 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
@@ -157,24 +157,19 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-leading-call-customization-applications/"><u>[New] In 2024, Leading Call Customization Applications</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-step-by-step-strategy-crafting-video-ads-without-spending-a-dime/"><u>[New] Step-by-Step Strategy Crafting Video Ads without Spending a Dime</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems-for-2024/"><u>[Updated] A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-breakthrough-techniques-for-quick-srt-to-text-file-alteration/"><u>[Updated] In 2024, Breakthrough Techniques for Quick SRT to Text File Alteration</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-echo-chamber-new-tech-insights/"><u>[Updated] In 2024, Echo Chamber New Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-unveiling-the-ultimate-299-windows-laptop-your-top-choice-for-savvy-saving-shoppers-zdnet/"><u>1. Unveiling the Ultimate $299 Windows Laptop: Your Top Choice for Savvy Saving Shoppers | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-and-powerful-laptops-of-2024-rankings-by-tech-experts-zdnet/"><u>Affordable & Powerful Laptops of 2024 - Rankings by Tech Experts (ZDNet)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-why-samsungs-new-copilotplus-is-dominating-the-market-as-the-premier-windows-laptop-bargain-of-the-year-tech-insight/"><u>Discover Why Samsung's New Copilot+ Is Dominating the Market as the Premier Windows Laptop Bargain of the Year | Tech Insight .</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dominate-your-games-with-the-alienware-m1eus-laptop-save-300-now-after-labor-day-as-revealed-by-zdnet/"><u>Dominate Your Games with the Alienware M1eus Laptop - Save $300 Now After Labor Day, as Revealed by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-lightweight-innovation-with-the-lg-gram-pro-17-and-its-sibling-model-both-available-at-discounted-rates-this-amazon-prime-day-insights-from-zdnet131/"><u>Experience Lightweight Innovation with the LG Gram Pro 17 and Its Sibling Model – Both Available at Discounted Rates This Amazon Prime Day | Insights From ZDNet Gadget Reviews</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-y78plus-t1-edition-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo Y78+ (T1) Edition? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-to-turn-off-unsolicited-game-suggestions-for-w11/"><u>Learn to Turn Off Unsolicited Game Suggestions for W11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/optimal-energy-solutions-for-gopro-hero5-certified-and-third-party/"><u>Optimal Energy Solutions for GoPro Hero5 Certified & Third-Party</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-innovative-flexibility-of-lenovos-swiveling-laptop-unveiled-at-ifa-2024-an-exclusive-hands-on-review-gadgets/"><u>The Innovative Flexibility of Lenovo's Swiveling Laptop Unveiled at IFA 2024 – An Exclusive Hands-On Review Gadgets</u></a></li>
-<li><a href="https://article-tips.techidaily.com/transforming-viewers-into-active-participants-for-2024/"><u>Transforming Viewers Into Active Participants for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-price-cuts-pre-black-friday-discover-the-best-buy-deals-exclusive-insights/"><u>Ultimate Price Cuts Pre-Black Friday: Discover the Best Buy Deals | Exclusive Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-how-dells-premium-3000-laptop-defies-expectations-with-cutting-edge-specs-pcmag/"><u>Unlocking Performance: How Dell's Premium $3,000 Laptop Defies Expectations with Cutting-Edge Specs | PCMag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-this-asus-notebook-surpasses-the-macbook-in-key-areas-a-detailed-review/"><u>Why This Asus Notebook Surpasses the MacBook in Key Areas: A Detailed Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors/"><u>[New] In 2024, The Best in Class Evaluating the Top 8 Sub to SRT Convertors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-speedy-movie-making-hacks-tips-to-learn-and-apply-at-home/"><u>[New] Speedy Movie Making Hacks Tips to Learn and Apply at Home</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-becoming-a-director-top-film-tips-and-tricks-on-youtube/"><u>[Updated] 2024 Approved Becoming a Director Top Film Tips & Tricks on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-captureit-all-the-complete-screen-recorder-hack/"><u>[Updated] In 2024, CaptureIt All The Complete Screen Recorder Hack</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-pick-processors-specially-engineered-for-powerhouse-computing-stations/"><u>2024'S Top Pick: Processors Specially Engineered for Powerhouse Computing Stations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/computex-showcase-highlights-adatas-breakthrough-hybrid-cooling-system-future-unveiling-of-powerful-psus-and-fast-pcie-ssds/"><u>Computex Showcase Highlights Adata's Breakthrough Hybrid Cooling System - Future Unveiling of Powerful PSUs and Fast PCIe SSDs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deepcools-latest-innovations-next-gen-coolers-psus-and-more-now-featuring-customizable-pixel-silicone-design-accents/"><u>DeepCool's Latest Innovations: Next-Gen Coolers, PSUs & More - Now Featuring Customizable Pixel Silicone Design Accents</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delaware-welcomes-prusas-production-of-3d-printing-equipment-and-materials/"><u>Delaware Welcomes Prusa’s Production of 3D Printing Equipment and Materials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-rated-all-in-one-heat-sinks-and-liquid-coolers-for-enhanced-gaming-rigs-2024-edition/"><u>Discover the Top-Rated All-in-One Heat Sinks and Liquid Coolers for Enhanced Gaming Rigs, 2024 Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-moto-g24-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Moto G24 Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-defy-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Defy 2 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-from-mere-color-to-spectacle-hdr-vs-sdr-in-editing/"><u>In 2024, From Mere Color to Spectacle HDR vs SDR in Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-profiles-in-metaverse-promotion-case-studies-and-more/"><u>In 2024, Profiles in Metaverse Promotion Case Studies and More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175727739-why-the-id-cooling-fx360-pro-is-your-best-bet-for-adequate-cooling-under-60/"><u>Why the ID-Cooling FX360 Pro Is Your Best Bet for Adequate Cooling Under $60!</u></a></li>
 </ul></div>
 

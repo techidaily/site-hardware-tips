@@ -1,7 +1,7 @@
 ---
 title: Top 5 Quickest 3D Printing Models Reviewed for Ultra-Fast Performance
-date: 2024-08-19T04:01:44.484Z
-updated: 2024-08-20T04:01:44.484Z
+date: 2025-01-07T17:24:30.337Z
+updated: 2025-01-13T00:15:04.027Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,24 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-chromatic-balance-and-visual-storytelling/"><u>[New] Chromatic Balance and Visual Storytelling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comparing-streaming-tools-the-verdict-on-xsplit-and-obs/"><u>2024 Approved Comparing Streaming Tools The Verdict on XSplit & OBS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/captured-words-top-10-mobile-writing-tools-for-images/"><u>Captured Words Top 10 Mobile Writing Tools for Images</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dr-elizabeth-sterling-linda-your-work-on-narrative-fragmentation-and-historical-metafiction-has-truly-redefined-our-understanding-of-literary-periods/"><u>Dr. Elizabeth Sterling: Linda, Your Work on Narrative Fragmentation and Historical Metafiction Has Truly Redefined Our Understanding of Literary Periods.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-versatility-of-lenovos-windows-and-android-fusion-device-an-in-depth-test-and-insights-into-its-remarkable-potential/"><u>Exploring the Versatility of Lenovo's Windows & Android Fusion Device: An In-Depth Test and Insights Into Its Remarkable Potential</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-find-x7-lock-screen-password-by-drfone-android/"><u>How To Change Oppo Find X7 Lock Screen Password?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-move-your-windows-operating-system-upgrade-from-one-computer-to-another-insights-and-tips/"><u>How to Move Your Windows Operating System Upgrade From One Computer to Another - Insights and Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-11-proplus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme 11 Pro+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-bringing-text-to-life-3d-techniques-in-illustrator/"><u>In 2024, Bringing Text to Life 3D Techniques in Illustrator</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s24-ultra-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S24 Ultra Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-alert-unbeatable-price-on-highly-rated-lenovo-and-dell-alternative-2-in-1-laptop-zdnets-top-picks/"><u>Prime Day Alert: Unbeatable Price on Highly Rated Lenovo and Dell Alternative 2-in-1 Laptop | ZDNET's Top Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-an-amazing-discount-on-the-hp-victus-15-top-sellers-at-just-515-during-targeted-anti-black-friday-event-exclusive-insight-by-zdnet/"><u>Score an Amazing Discount on the HP Victus 15: Top Sellers at Just $515 During Targeted Anti-Black Friday Event - Exclusive Insight by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-gaming-laptop-showdown-of-2024-including-razer-acer-msi-and-others-an-expert-review-by-zdnet/"><u>Top-Ranked Gaming Laptop Showdown of 2024: Including Razer, Acer, MSI & Others - An Expert Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-premium-streaming-microphones-released-features-and-reviews-cnet/"><u>Ultimate List of Premium Streaming Microphones Released : Features and Reviews | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-up-to-230-off-on-the-ultimate-156-hp-laptop-with-touch-display-insider-info/"><u>Unbeatable Bargain Alert! Up to $230 Off on the Ultimate 15.6 HP Laptop with Touch Display - Insider Info .</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-gfx-bug-overcome-interface-functions-correctly/"><u>Win GFX Bug Overcome, Interface Functions Correctly</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

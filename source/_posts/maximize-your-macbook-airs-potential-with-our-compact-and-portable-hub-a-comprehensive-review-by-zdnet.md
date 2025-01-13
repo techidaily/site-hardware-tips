@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your MacBook Air's Potential with Our Compact and Portable Hub: A Comprehensive Review by ZDNet"
-date: 2025-01-03T11:18:50.548Z
-updated: 2025-01-05T17:40:47.948Z
+date: 2025-01-09T20:38:19.918Z
+updated: 2025-01-12T17:53:46.658Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ Luckily, [we've gone hands-on](https://www.zdnet.com/article/how-we-test-laptops
 
 Our pick for the overall best laptop in 2024 is the [MacBook Pro (M3 Max)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-14-laptop-m3-max-chip-36gb-memory-30-core-gpu-1tb-ssd-latest-model-space-black%2F6534620.p%3FskuId%3D6534620&publisher_slug=itechdaily19598&exclusive=1). It's hard to beat the MacBook Pro's 22-hour battery life, its suite of powerful hardware, and its gorgeous 120Hz refresh rate display, all in a super portable and sleek package. This is a laptop that checks off all the boxes and looks as good as it performs. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best laptops of 2024: Expert tested
 
 Show less 
@@ -43,10 +47,6 @@ Cons
 * Loud fans
 
 ## MacBook Pro (M3 Max)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best laptop overall
 
@@ -81,6 +81,10 @@ Cons
 * Not the best speakers
 * Pricey
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## LG Gram Pro 16 2-in-1
 
 ### Best lightweight laptop
@@ -113,10 +117,6 @@ Cons
 
 ## Dell XPS 16
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Windows laptop
 
 With so many fantastic Windows laptops out there, it was hard to pick just one, but we had to give it to the XPS 16\. It is such a good computer. We feel confident that it's good enough to become your primary device. Dell's machine has a stunning 4K resolution display surrounded by thin bezels. Having a thin frame is a slight touch, but it makes the screen seem significantly more prominent than it is.
@@ -147,11 +147,11 @@ Cons
 * Heavy and bulky
 * Best while plugged in
 
-## Alienware m18 R2
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Alienware m18 R2
 
 ### Best gaming laptop
 
@@ -183,7 +183,7 @@ Cons
 ## Acer Aspire Go 15
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best laptop under $500
@@ -245,10 +245,6 @@ ZDNET's top pick for the best laptop is Apple's MacBook M3 Max, which features a
 | Acer Aspire Go 15     | $299               | Intel Core i3-N305, Intel UHD                         | 8GB, 128GB               |
 | Asus Vivobook Pro 15  | $1,299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050      | 16GB, 1TB                |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which is the right laptop for you?
 
 The main question when buying a laptop is: "What do you want to do with it?" Once you've established that, you can focus your research on finding the right machine for you.
@@ -267,6 +263,10 @@ Here's a well-researched (and tested) list of our favorite laptops for a wide ar
 | Asus Vivobook Pro 15                    | A laptop designed specifically for content creators with a brilliant OLED display and solid hardware that doesn't break the bank.                                                  |
 | |                                       |                                                                                                                                                                                    |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test laptops
 
 Kyle Kucharski/ZDNET
@@ -283,6 +283,10 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are some factors to consider when choosing the best laptops?
 
 Multiple factors influence the choice of laptops for this list. We look for machines with great designs, performance, and effective storage and RAM. We also considered the different purposes for which you may need or use your laptop and the overall value (including the price point) that the laptop promises. 
@@ -292,10 +296,6 @@ Multiple factors influence the choice of laptops for this list. We look for mach
 * **Storage and RAM:** It's likely you'll use a laptop to store key documents or memories, and the best models have plenty of room for you to do so.
 * **Purpose:** We strive to answer the question, "What laptop should I get if \_\_\_" as we know you have different workflow and entertainment needs and preferences, from graphic design to gaming.
 * **Value:** The best laptop can be a pricey investment, so we considered qualities that assure you'll get your money's worth.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why should you buy a laptop, and not a desktop or a tablet?
 
@@ -310,7 +310,7 @@ While every computing platform has its loyal supporters, most people end up usin
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What brand of laptop is best?
@@ -333,15 +333,15 @@ It really depends on the student, but there are some common factors to consider 
 
 You'll also want something with at least an 8-hour battery life to get through a typical school day without needing to plug in (which is excellent for younger kids who may be forgetful and leave their charging cable at home). Also look for a laptop with at least 4GB of RAM, 256GB of storage, and cloud-storage backup to create duplicate copies of important files and classwork. You'll also want to avoid laptops with dedicated graphics cards aimed toward gaming to help cut down misuse and procrastination
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best laptops for business?
 
 Whether you're looking for a single laptop for yourself or a fleet for your business, the best laptops for work not only offer great performance but also multiple connectivity options and durable builds. 
 
 You'll want to look for a model that has at least 8GB of RAM, a 512GB storage drive, a quad-core CPU, and a display that is large enough to work on without being too bulky to travel with. You'll also want a model with, at least, 8 hours of battery life to get through a typical shift without needing to plug in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best laptops for video editing?
 
@@ -352,7 +352,7 @@ We strongly recommend getting a [MacBook Pro (M3 Max)](https://www.apple.com/sho
 Therefore, Apple MacBook Pros are a popular choice as are any laptops with powerful processors, dedicated graphics cards, and high-resolution displays such as the Dell XPS 13 and 15\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other laptops we've tested
@@ -403,16 +403,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/450-away-with-hp-victus-15-gaming-laptop-this-prime-day-top-deals-on-tech-discovered-by-zdnet/"><u>$450 Away with HP Victus 15 Gaming Laptop This Prime Day – Top Deals on Tech | Discovered by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-elite-picks-for-15-inch-laptops-in-depth-testing-and-expert-analysis/"><u>2024'S Elite Picks for 15-Inch Laptops: In-Depth Testing & Expert Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipating-the-arrival-an-insight-into-googles-upcoming-chromebook-x-the-latest-in-premium-laptop-innovation/"><u>Anticipating the Arrival: An Insight Into Google's Upcoming Chromebook X - The Latest in Premium Laptop Innovation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/could-dells-breakthrough-concept-luna-assembled-with-building-blocks-revolutionize-the-tech-world-zdnet/"><u>Could Dell’s Breakthrough Concept Luna, Assembled with Building Blocks, Revolutionize the Tech World? | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/downloading-high-quality-audiovideo-songs-online-without-costs-secure-and-easy-methods-explained/"><u>Downloading High-Quality Audio/Video Songs Online Without Costs – Secure & Easy Methods Explained</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-picks-for-the-ultimate-chromebook-selection-of-202-hp-lenovo-and-other-contenders-evaluated-cnet-gadgets/"><u>Expert Picks for the Ultimate Chromebook Selection of 202지날: HP, Lenovo and Other Contenders Evaluated | CNET Gadgets</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-realme-gt-neo-5mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme GT Neo 5Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-lava-yuva-2-by-fonelab-android-recover-video/"><u>How to recover old videos from your Lava Yuva 2</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-14-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 14 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-itel-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Itel Phone Hassle-Free</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/omparing-free-and-premium-youtube-experiences-whats-best-for-2024/"><u>[New] Comparing Free and Premium YouTube Experiences What's Best for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proving-your-phones-ability-ios-11-camera-enhancements/"><u>[New] Proving Your Phone's Ability IOS 11 Camera Enhancements</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-harvest-happiness-best-agricultural-titles-to-play-with-friends/"><u>[Updated] 2024 Approved Harvest Happiness Best Agricultural Titles to Play With Friends</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-photographicperfection-how-to-fine-tune-insta-images-and-videos/"><u>2024 Approved PhotographicPerfection How to Fine-Tune Insta Images & Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-reliable-mirari-child-sized-wake-up-buddy/"><u>Expert Insights on the Reliable Mirari Child-Sized Wake-Up Buddy</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-itel-a60-frp-by-drfone-android/"><u>How Can We Bypass Itel A60 FRP?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-13c-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi 13C 5G Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-financials-of-additive-manufacturing-precise-cost-projection-techniques/"><u>Navigating the Financials of Additive Manufacturing: Precise Cost Projection Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-expertise/"><u>Navigating the World of Gadgets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-new-releases-at-toms-hardware-hub/"><u>Navigating Through New Releases at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-microscopic-metal-manufacturing-superior-strength-in-structures-tinier-than-a-virus/"><u>Pioneering Microscopic Metal Manufacturing: Superior Strength in Structures Tinier Than a Virus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-and-hardware-analysis-by-toms-hardware-experts/"><u>Pioneering PC & Hardware Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-pcb-cooling-with-the-new-pink-caulk-gun-applicator-for-tim-ideal-for-component-voids-and-gap-sealing/"><u>Revolutionize PCB Cooling with the New Pink 'Caulk Gun' Applicator for TIM - Ideal for Component Voids & Gap Sealing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-update-of-acer-predator-xb271h-high-refresh-rate-monitor-software/"><u>Seamless Update of Acer Predator XB271H High Refresh Rate Monitor Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategies-for-securing-dialogues-against-gpt-retention/"><u>Strategies for Securing Dialogues Against GPT' Retention</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-gamers-selection-top-vr-headsets-to-transform-your-pc-experience/"><u>The Gamer's Selection: Top VR Headsets to Transform Your PC Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-most-efficient-and-quality-solderers-for-professionals/"><u>The Most Efficient & Quality Solderers for Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-best-gaming-tower-chassis-our-thoroughly-tested-recommendations/"><u>The Ultimate Guide to the Best Gaming Tower Chassis : Our Thoroughly Tested Recommendations</u></a></li>
 </ul></div>
 

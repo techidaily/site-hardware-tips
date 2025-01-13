@@ -1,7 +1,7 @@
 ---
 title: "Inside Look at PC and Gadget Performance: Tips Straight From Tom's Hardware"
-date: 2024-08-19T04:00:09.369Z
-updated: 2024-08-20T04:00:09.369Z
+date: 2025-01-11T22:38:55.820Z
+updated: 2025-01-12T22:45:50.042Z
 tags:
   - printer
 categories:
@@ -56,6 +56,10 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/u3GWhTYMzUfQNN4dJCARdT-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Original Prusa XL we reviewed came semi-assembled, but still needed the toolheads installed. It comes with the full tool kit you would get with the build-it-yourself version, plus a handbook, paper catalog of filaments, stickers and a giant bag of Haribo Gummy Bears.
@@ -64,25 +68,10 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
  We also received a few bonus items for the review: an adapter to use traditional nozzles, extra build plates, and several rolls of filament.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design of the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6hj6fUJjafrEzDmqAJN5TS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Original Prusa XL is a new machine that doesn’t stray far from the Prusa design and color branding. Its boxy frame is black with orange accents, and logos are printed on both the toolhead and back cover. It’s a beefy boi with Bowden tubes that arch over the top and spool holders that mount on both sides. The frame is C shaped, keeping the front open and easily accessible to reach in and grab your prints, or just to set up a camera for timelapses. LED lights tucked under the top frame provide enough light for observation and most camera needs.
@@ -107,9 +96,6 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
  The XL has built in WiFi, another new feature we love seeing on printers. This allows you to securely access your machine from a local area network or through Prusa Research’s cloud based Prusa Connect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Assembling the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6oi6svYawnAUqBAQzbAw2S-320-80.jpg)
@@ -122,12 +108,13 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
  Note: if you purchased the DIY kit version of the XL you’ll need to set aside a weekend to assemble and calibrate it, but you will save $500.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Calibrating the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/SSpJM3ayMuiPMPoLkAYK9U-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -138,11 +125,16 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
  You should run the included calibration print to make sure the print heads are in sync with each other. You can make minute adjustments to each print head, but I found that my initial calibrations were off because the nozzles had tiny bits of filament on them, leftover from the factory test. Once the nozzles were scrubbed clean, the printer was able to achieve perfect calibration.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Loading Filament on the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/DvYcZbzQoaT2pwSMG62ixT-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -159,6 +151,10 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 ## Preparing Files / Software for Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/P52DrZpk9Ahw76CiUPJj9T-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -178,10 +174,6 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
  Prusa Research is committed to data[security](https://www.tomshardware.com/tag/security) and does not require your machine to be online in order to operate. File transfers and firmware updates can all be handled with a USB stick.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Printing on the Original Prusa XL
 
  The XL comes with a full roll of Prusament PLA Galaxy Black, but it has room for four more spools. You should really check out our guide to the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) for more suggestions.
@@ -192,6 +184,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/V6mQWwSnSaRFuce8DjaykT-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
 
  To test how efficient the XL is with multicolor printing, I printed a dragon using four colors:[eSun Silk Rainbow](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FeSUN-Filament-Multicolored-Gradient-Multicolor%2Fdp%2FB081Q78248%2Fref%3Dasc%5Fdf%5FB081Q78248%2F%3FlinkCode%3Ddf0%26hvadid%3D652400517330%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D573292372013942951%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022877%26hvtargid%3Dpla-888225060708%26mcid%3D19a63deefbae3c1183ab527d1fb74239%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7689802732742375363-20) (main body), Printed Solid Silk Red (coming soon) for the hearts, and[Prusament](https://www.prusa3d.com/en/category/prusament/) in Galaxy Black and Pristine White on the eyes. The prime tower to the right is the only waste produced for this print, which took 13 hours and 51 minutes using default speeds of 170mm/s on the walls and a .2 mm layer height. (The same print took 8 hours longer on my faster Bambu Lab P1P and wasted 70 grams of filament.)
@@ -200,9 +196,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/SgjpBwU7BRRmJ9VbEnncXU-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Of course, I needed to see how the XL could work multiple materials together. The real problem is that most materials don’t want to stick together. They didn’t need to for this Prusa Research toolbox I found on Printables which uses PLA, PETG and TPU. The three materials are in four colors: black and orange Prusament PETG, white Prusament PLA, and red[Ninjatek Cheeta](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fstores%2Fpage%2F55A62856-F883-42CF-917A-74F1D4F21D17%3Fingress%3D2%26visitId%3Dd8c69182-0349-4ab2-ad9a-26926bc8537d%26ref%5F%3Dast%5Fbln%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3421307589983500022-20) for a gasket.
@@ -213,22 +206,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Original Prusa XL](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Original Prusa XL](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 [_Prusa Research Toolbox_](https://www.printables.com/model/556185-prusa-box) _by Frikarte3D_
@@ -239,12 +224,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 [_Phone case_](https://www.printables.com/model/46536-iphone-12-pro-max-flexible-case) _by BluecornNM_  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bottom Line
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/metJPCsBo3TqcVxRaxZJeS-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -276,16 +262,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,4 +275,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-harmonic-halo-melodies-enriching-chats-on-whatsapp/"><u>[New] 2024 Approved Harmonic Halo Melodies Enriching Chats on WhatsApp</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-amplifying-audio-and-visual-quality-in-your-youtube-videos/"><u>[Updated] Amplifying Audio and Visual Quality in Your YouTube Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-rethink-your-youtube-videos-with-these-non-youtube-edits/"><u>[Updated] Rethink Your YouTube Videos with These Non-Youtube Edits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/discover-the-power-of-mycam-recording-features/"><u>Discover the Power of MyCam Recording Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellent-top-5-apps-for-iphone-auditory-delight-for-2024/"><u>Excellent Top 5 Apps for iPhone Auditory Delight for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-4-advancement-the-5-pivotal-shifts-from-gpt-35/"><u>GPT-4 Advancement: The 5 Pivotal Shifts From GPT-3.5</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 6s Plus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-rog-phone-8-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Asus ROG Phone 8 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://techidaily.com/metas-horizon-os-the-collaborative-venture-between-asus-lenovo-in-developing-next-gen-vr-headsets/"><u>Meta's Horizon OS: The Collaborative Venture Between ASUS, Lenovo in Developing Next-Gen VR Headsets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-with-precision-expert-guides-from-toms-technology-corner/"><u>Navigating New Gadgets With Precision: Expert Guides From Tom's Technology Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landsebeam-the-ultimate-guide-to-pc-components-by-tom/"><u>Navigating the Tech Landsebeam: The Ultimate Guide to PC Components by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-with-toms-hardware-guides/"><u>Navigating the World of Tech with Tom's Hardware Guides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opening-windows-secrets-with-precision/"><u>Opening Windows Secrets with Precision</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-assessment-of-economical-id-cooling-frozn-series-a410-and-a610-models/"><u>Performance Assessment of Economical ID-Cooling FROZN Series - A410 and A^610 Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-advice-from-toms-hardware-experts/"><u>Pioneering PC Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-performance-choosing-the-right-components-with-toms-hardware/"><u>Precision Performance - Choosing the Right Components with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-casing-designs-with-the-lian-li-hydroshift-lcd-360s/"><u>Revolutionizing Casing Designs with the Lian Li Hydroshift LCD 360S</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-technology-trends-discoveries-from-toms-experts/"><u>Stay Ahead of Technology Trends - Discoveries From Tom’s Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-resource-for-high-performance-pcs-toms-hardware/"><u>The Complete Resource for High-Performance PCs - Tom's Hardware</u></a></li>
+</ul></div>
 

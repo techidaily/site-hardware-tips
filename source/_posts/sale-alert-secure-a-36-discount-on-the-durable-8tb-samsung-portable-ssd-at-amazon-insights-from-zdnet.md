@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Secure a 36%% Discount on the Durable 8TB Samsung Portable SSD at Amazon - Insights From ZDNet"
-date: 2024-12-30T22:07:50.969Z
-updated: 2025-01-05T18:19:52.221Z
+date: 2025-01-09T03:33:12.314Z
+updated: 2025-01-13T02:37:38.920Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5d25efea-41c2-4721-bece-33eaed47020a%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,24 +65,19 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-handbook-for-saving-insta-content/"><u>[New] In 2024, The Ultimate Handbook for Saving Insta Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-instagram-media-the-finest-downloading-options/"><u>2024 Approved Mastering Instagram Media The Finest Downloading Options</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-poco-x5-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Poco X5 Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/accelerating-your-online-experience-quick-tips-from-yl-computings-expert-guide/"><u>Accelerating Your Online Experience: Quick Tips From YL Computing's Expert Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/achat-gratuit-de-conversion-reduisez-les-fichiers-h264-a-h265-avec-une-perte-minime-de-qualite-video/"><u>Achat Gratuit De Conversion : Réduisez Les Fichiers H.264 À H.265 Avec Une Perte Minime De Qualité Vidéo</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/balancing-academia-and-leisure-discover-the-best-2-in-1-laptop-for-college-that-seamlessly-transitions-from-study-to-play-expert-recommendations-on-zdnet/"><u>Balancing Academia & Leisure: Discover the Best 2-in-1 Laptop for College that Seamlessly Transitions From Study to Play – Expert Recommendations on ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/converti-file-mmf-a-formato-wav-gratuito-online-con-movavi/"><u>Converti File MMF a Formato WAV Gratuito Online Con Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deep-black-friday-discounts-unleashed-score-lenovos-13-thinkpad-x1-gen-3-tablet-for-a-steal-at-1900-less/"><u>Deep Black Friday Discounts Unleashed: Score Lenovo's 13 ThinkPad X1 Gen 3 Tablet for a Steal at $1,900 Less!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-tech-cooperation-with-samsung-flow-link/"><u>Effortless Tech Cooperation with Samsung Flow Link</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-insight-microsofts-revolutionary-ai-chip-poised-to-outshine-apple-macbook-firsthand-experience-zdnet/"><u>Exclusive Insight: Microsoft's Revolutionary AI Chip Poised to Outshine Apple MacBook - Firsthand Experience | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-reality-purchase-the-newest-ar-laptop-featuring-a-massive-100-screen-without-additional-monitors-tech-insights/"><u>Experience Enhanced Reality: Purchase the Newest AR Laptop Featuring a Massive 100 Screen Without Additional Monitors | Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-amazon-prime-deals-apple-macbook-air-with-m3-chip-now-at-a-250-discount-full-coverage-by-zdnet/"><u>October Amazon Prime Deals: Apple MacBook Air with M3 Chip Now at a $250 Discount - Full Coverage by ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/peak-performance-packages-best-converters-for-srt-systems-on-macwin-for-2024/"><u>Peak Performance Packages Best Converters for SRT Systems on Mac/Win for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-october-sales-metas-512gb-quest-2-pro-offers-top-value-during-prime-day-events-exclusive-insights/"><u>Unbeatable October Sales: Meta's 512GB Quest 2 Pro Offers Top Value During Prime Day Events - Exclusive Insights</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-15-pro-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 15 Pro Before the Plan Expires</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-the-250-off-15-inch-macbook-air-is-an-unbeatable-deal-you-shouldnt-miss/"><u>Why the $250-Off 15-Inch MacBook Air Is an Unbeatable Deal You Shouldn't Miss!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-review-reveals-apples-powerful-new-macbook-pro-m3-max-the-leading-pro-artificial-intelligence-laptop-on-the-market/"><u>ZDNet Review Reveals Apple's Powerful New MacBook Pro (M3 Max) - The Leading Pro Artificial Intelligence Laptop on the Market</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-unveils-crowds-favorite-multifunctional-laptop-with-impressive-performance-chops-a-must-read-review/"><u>ZDNet Unveils Crowd's Favorite Multifunctional Laptop with Impressive Performance Chops – A Must-Read Review!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-skys-palette-explored-top-websites-showcasing-hd-imagery/"><u>[New] Sky's Palette Explored - Top Websites Showcasing HD Imagery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[Updated] In 2024, From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-zoom-companion-for-snapchat-enthusiasts/"><u>[Updated] The Ultimate Zoom Companion for Snapchat Enthusiasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tips-to-develop-captivating-vlogs-a-scriptwriting-approach/"><u>[Updated] Tips to Develop Captivating Vlogs A Scriptwriting Approach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-avoiding-malware-downloading-safe-and-gratis-vlc-on-apple-devices/"><u>2024 Approved Avoiding Malware Downloading Safe and Gratis VLC on Apple Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-selection-of-omnidirectional-recording-devices/"><u>2024 Approved Ultimate Selection of Omnidirectional Recording Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/access-the-latest-ios-18-preview-release-today/"><u>Access the Latest iOS 18 Preview Release Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-knowledge-on-electronics-features-by-toms-experts/"><u>Inside Knowledge on Electronics - Features by Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-next-gen-computer-cooler-tryxs-one-of-a-kind-curved-amoled-screen-by-chinas-leading-manufacturer/"><u>Introducing the Next-Gen Computer Cooler: Tryx's One-of-a-Kind Curved AMOLED Screen by China's Leading Manufacturer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/make-the-most-of-black-friday-here-are-5-reasons-why-you-need-a-3d-printer-now/"><u>Make the Most of Black Friday - Here Are 5 Reasons Why You Need a 3D Printer Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-flawless-3d-printing-no-more-blisters-or-pimples/"><u>Master the Art of Flawless 3D Printing: No More Blisters or Pimples</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-inside-perspective-by-toms-hardware/"><u>Mastering Gadgets and Systems - Inside Perspective by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mo-ra-iv-600-premium-heavy-duty-pc-radiator-with-9x200mm-fans-over-35lbs-cooling-power-for-under-600/"><u>MO-RA IV 600: Premium Heavy-Duty PC Radiator with 9X200mm Fans - Over 35Lbs Cooling Power for Under $600</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/safeguarding-your-digital-wealth-expert-tips-on-securing-crypto-assets-from-yl-software/"><u>Safeguarding Your Digital Wealth: Expert Tips on Securing Crypto Assets From YL Software</u></a></li>
 </ul></div>
 

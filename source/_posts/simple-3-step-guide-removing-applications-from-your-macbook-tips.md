@@ -1,7 +1,7 @@
 ---
 title: "Simple 3-Step Guide: Removing Applications From Your MacBook - Tips"
-date: 2024-12-31T19:17:47.490Z
-updated: 2025-01-06T03:42:49.224Z
+date: 2025-01-07T22:18:07.004Z
+updated: 2025-01-12T23:28:19.310Z
 tags:
   - laptops
 categories:
@@ -21,12 +21,16 @@ Image: Tamilisa Miller via iStock/Getty Images
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
 [![dull.png](https://www.zdnet.com/a/img/resize/46440aeab6134c6c72e7fac79ce7789f38626eb9/2021/04/22/d3d18a7c-20db-4a54-aefb-401cea844d6c/dull.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Macs Apple's Mac lineup can be confusing as the company transitions from Intel processors to its own Apple Silicon processors. But we're here to help.  Read now](https://www.zdnet.com/article/best-mac/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Out with the old, in with the new. If you've recently decided to [clear out some extra space](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/) or you finally went through your credit card statement and [canceled those subscriptions](https://www.zdnet.com/home-and-office/home-entertainment/how-to-cancel-apple-music-without-itunes/) you'd forgotten about, then you may be wondering how to delete those apps from your MacBook. 
 
@@ -34,15 +38,7 @@ The truth is that deleting apps in MacOS is as easy as 1, 2, 3, literally. Just 
 
 **Also:** [**I put the Apple Watch Ultra through a Tough Mudder. Here's how it held up**](https://www.zdnet.com/article/apple-watch-ultra-review/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to delete apps on a MacBook
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open Launchpad
 
@@ -60,10 +56,6 @@ Image: Maria Diaz/ZDNET
 
 You can also press Option (the ⌥ key) to make the apps jiggle. When you do this, you have to keep the key pressed while you click on the delete button. The apps will only jiggle while the Option key is pressed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Click on the Delete button
 
 The apps that can be deleted will have a Delete (X) button on the top left corner of the app icon. Click on the Delete button.
@@ -75,6 +67,10 @@ Image: Maria Diaz/ZDNET
 Once you click on the X or Delete button at the top left corner, a message will pop up asking you to confirm if you want to delete it. Click on Delete to confirm. 
 
 Image: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  FAQ
 
@@ -90,12 +86,16 @@ If you can't delete an app from the Launchpad, you can try using Finder to remov
 
 **Also:** [**Here's how to delete apps on an iPhone**](https://www.zdnet.com/article/how-to-delete-apps-on-iphone/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How can I find an app on my Mac?
 
 If you can't find the application you're looking for in the Launchpad, go to the Applications folder in Finder. Alternatively, you can use Spotlight to search for an app by pressing Command (the ⌘ key) and the spacebar. Once you find the app through Spotlight, you can press and hold the Command key again, then double-click on the app; this will show the app in the Applications folder. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Will deleting an app cancel the subscription?
@@ -140,15 +140,16 @@ Simply deleting an app will not cancel any membership or subscription you may ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-elevate-your-tiktok-presence-50plus-captivating-username-suggestions-for-2024/"><u>[New] Elevate Your TikTok Presence - 50+ Captivating Username Suggestions for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-prodigy-playgrounds-top-10-roguelike-creations/"><u>[New] Prodigy Playgrounds Top 10 Roguelike Creations</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-expert-tips-crafting-compelling-facebook-ad-videos/"><u>[Updated] In 2024, Expert Tips Crafting Compelling Facebook Ad Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-sonys-bdp-s6700-a-modernized-take-for-2024/"><u>[Updated] Sony's BDP-S6700 A Modernized Take for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/banish-bluestacks-freezing-issues-a-5-step-guide/"><u>Banish BlueStacks Freezing Issues: A 5-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-gaming-savings-in-octobers-prime-deals-exclusive-access-to-over-1000-in-blowout-prices-zdnet-insider-tips/"><u>Maximize Your Gaming Savings in October's Prime Deals - Exclusive Access to Over $1,000 in Blowout Prices | ZDNET Insider Tips!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-10-amazing-christmas-chromebook-bargains-discover-the-best-savings-on-tech-zdnet/"><u>Top 10 Amazing Christmas Chromebook Bargains: Discover the Best Savings on Tech | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-anticipate-new-innovations-at-apples-october-showcase-m4-mac-mini-and-advanced-ipads-revealed/"><u>Unveiling the Future: Anticipate New Innovations at Apple's October Showcase - M4 Mac Mini & Advanced iPads Revealed!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-you-should-opt-for-a-chromebook-discover-6-compelling-reasons-why-its-ideal-for-most-users-zdnet-exclusive/"><u>Why You Should Opt for a Chromebook: Discover 6 Compelling Reasons Why It's Ideal for Most Users (ZDNet Exclusive)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>[New] 2024 Approved From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-upgrade-your-iphone-cinematic-experience-must-have-equipment/"><u>[New] 2024 Approved Upgrade Your iPhone Cinematic Experience Must-Have Equipment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-x7b-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on X7b.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-innovative-computer-components-with-toms-tech-reviews/"><u>Discover Innovative Computer Components with Tom's Tech Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-picks-from-toms-comprehensive-tests/"><u>Discover Top Hardware Picks From Tom's Comprehensive Tests</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-instructions-for-latest-dell-g15-graphics-and-performance-drivers-windows/"><u>Easy Installation Instructions for Latest Dell G15 Graphics & Performance Drivers (Windows)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/efficiently-cools-up-to-280w-processors-the-xpg-hybrid-dual-fan-cooler-with-pump-loop-and-radiator/"><u>Efficiently Cools Up To 280W Processors: The XPG Hybrid Dual-Fan Cooler with Pump, Loop & Radiator</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-upgrades-for-raspberry-pi-enthusiasts-in-2aboardstrips-2024/"><u>Essential Upgrades for Raspberry Pi Enthusiasts in 2Aboardstrips, 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-pc-equipment-at-tomtechinsight/"><u>Expert Analysis on PC Equipment at TomTechInsight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-out-of-your-money-with-lenovos-chromebook-plus-for-499-a-game-changer-in-affordable-computing-zdnet/"><u>Get the Most Out of Your Money with Lenovo's Chromebook Plus for $499 - A Game-Changer in Affordable Computing! | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
 

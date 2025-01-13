@@ -1,7 +1,7 @@
 ---
 title: "Best 5G Notebooks : Ultimate Guide and Rankings on CNet"
-date: 2025-01-02T06:04:55.775Z
-updated: 2025-01-06T10:23:31.075Z
+date: 2025-01-06T19:04:12.295Z
+updated: 2025-01-12T17:46:02.961Z
 tags:
   - laptops
 categories:
@@ -43,7 +43,7 @@ And with a snafu like no sound, there are a few ways to troubleshoot the issue, 
 Here's how to pull this off in both Windows 10 and 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reset your audio settings in Windows
@@ -74,13 +74,13 @@ Check the audio sources.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Check external speakers
 
 If you use external speakers, double-check for loose wires, unseated connections, and similar physical ailments. (Yes, try unplugging and plugging them in again.) If those all pass the test, then it's time to ask for help from Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn to a Windows troubleshooter
 
@@ -120,10 +120,6 @@ Use the Get Help app.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. In the sound settings screen, check the Volume mixer
 
 In Windows 10, right-click the System Tray Audio icon and select **Open sound settings**. Scroll to the bottom of the sound settings screen and click the setting for **App volume and device preferences**.
@@ -137,6 +133,10 @@ Screenshot by Lance Whitney
 Check the Volume mixer in Windows 11.
 
 Screenshot by Lance Whitney
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Click the Reset button
 
@@ -166,10 +166,6 @@ Turn off audio enhancements.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Find the audio driver in Device Manager
 
 If the sound still isn't working, close all of the sound settings windows. Right-click the Start button and select Device Manager from the menu. Click the right arrow for the entry for **Audio inputs and outputs** and double-click your default audio source. Then click the tab for **Driver**.
@@ -177,6 +173,10 @@ If the sound still isn't working, close all of the sound settings windows. Right
 Open Device Manager.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Click Update driver
 
@@ -187,7 +187,7 @@ Update the driver.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 12\. If this doesn't work, try uninstalling the driver
@@ -259,15 +259,16 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-crafting-compelling-content-on-reddit-a-stepwise-path/"><u>[New] In 2024, Crafting Compelling Content on Reddit - A Stepwise Path</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-comprehensive-guide-to-screenshot-excellence/"><u>[New] In 2024, The Comprehensive Guide to Screenshot Excellence</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-xstream-studios-complete-exploration-in-156-words/"><u>[Updated] Unveiling XStream Studios Complete Exploration in 156 Words</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-aspect-ratios-for-stellar-youtube-thumbnails/"><u>2024 Approved Aspect Ratios for Stellar Youtube Thumbnails</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gaming-evolves-as-major-pc-brands-turn-to-chromebook-solutions-exclusive-zdnet-analysis/"><u>Gaming Evolves as Major PC Brands Turn to Chromebook Solutions | Exclusive ZDNet Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-on-viewing-spider-man-no-pathway-home-online/"><u>Guide on Viewing Spider-Man: No Pathway Home Online</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-uncover-the-10-most-trusted-wedding-timer-apps-androidios-of-2023/"><u>In 2024, Uncover the 10 Most Trusted Wedding Timer Apps (Android/iOS) of 2023</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-displays-expert-reviews-and-comparisons-techradar/"><u>Top Rated Portable Displays : Expert Reviews & Comparisons | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-lenovos-newly-unveiled-mac-studio-clone-could-surpass-apples-in-the-eyes-of-windows-users-exclusive/"><u>Why Lenovo's Newly Unveiled 'Mac Studio' Clone Could Surpass Apple's in the Eyes of Windows Users Exclusive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-exclusive-pick-the-best-laptop-for-hybrid-professionals-now-with-50-off-limited-october-prime-day-offer-from-lenovo/"><u>ZDNet's Exclusive Pick: The Best Laptop for Hybrid Professionals Now with 50% Off – Limited October Prime Day Offer From Lenovo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-6-fixes-for-modern-warfare-2-crashing-on-pc/"><u>[Fixed] 6 Fixes for Modern Warfare 2 Crashing on PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-essential-manual-for-simplified-live-streamers/"><u>2024 Approved The Essential Manual for Simplified Live Streamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehve-toms-electronics-your-go-to-source-for-hardware-trends/"><u>Comprehve Tom’s Electronics: Your Go-To Source for Hardware Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-reviews-toms-tech-wisdom/"><u>Dive Into Hardware Reviews - Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dual-cpu-mastery-discover-the-power-of-silverstones-revolutionary-xe360-dual-aio-cooler/"><u>Dual-CPU Mastery: Discover the Power of SilverStone's Revolutionary XE360-Dual AIO Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/encoding-large-datasets-how-3d-printed-holograms-use-ordinary-plastics-for-secure-storage-of-keys-and-addresses-up-to-576-bits/"><u>Encoding Large Datasets: How 3D-Printed Holograms Use Ordinary Plastics for Secure Storage of Keys & Addresses (Up to 576 Bits)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-computer-hardware-from-tomamazement-channel/"><u>Expert Advice on Computer Hardware From Tom'amazement Channel</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-screen-recorder-showdown-testing-recmeister/"><u>In 2024, The Ultimate Screen Recorder Showdown Testing Recmeister</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prestige-pickers-top-ranked-websites-for-snapping-alert-songs/"><u>Prestige Pickers Top-Ranked Websites for Snapping Alert Songs</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-shaky-videos-be-gone-10-free-online-stabilizers-to-try/"><u>Updated 2024 Approved Shaky Videos Be Gone! 10 Free Online Stabilizers to Try</u></a></li>
 </ul></div>
 

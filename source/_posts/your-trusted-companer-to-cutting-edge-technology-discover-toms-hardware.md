@@ -1,7 +1,7 @@
 ---
 title: "Your Trusted Companer to Cutting-Edge Technology: Discover Tom's Hardware"
-date: 2024-08-19T04:00:25.724Z
-updated: 2024-08-20T04:00:25.724Z
+date: 2025-01-09T16:21:06.411Z
+updated: 2025-01-12T19:44:40.320Z
 tags:
   - cooling
 categories:
@@ -42,11 +42,19 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Packing and included contents
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/HBEL4vNSov3znrPrC4pAqX-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -66,9 +74,6 @@ Included in the box are the following:
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -81,9 +86,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -100,6 +102,10 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
@@ -115,8 +121,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶[**TF-12025-Pro 120mm fans**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FID-COOLING-120mm-Cooler-Radiator-Chassis%2Fdp%2FB0BV8ZRJMW%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1257997566399542543-20)
@@ -125,9 +132,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -188,9 +192,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -219,15 +220,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,4 +236,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-blueprint-for-youtube-video-success/"><u>[New] 2024 Approved The Blueprint for YouTube Video Success</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-transform-your-facebook-presence-with-these-11-video-marketing-tips/"><u>[Updated] 2024 Approved Transform Your Facebook Presence with These 11 Video Marketing Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-richer-screen-content-filter-integration-on-devices/"><u>[Updated] Richer Screen Content Filter Integration on Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-your-videos-the-ultimate-camera-upgrade-list/"><u>2024 Approved Elevate Your Videos - The Ultimate Camera Upgrade List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-rush-for-black-friday-get-your-samsung-t5-ssd-at-a-massive-48-off-before-the-prime-day-extravaganza/"><u>Beat the Rush for Black Friday: Get Your Samsung T5 SSD at a Massive 48% Off Before the Prime Day Extravaganza</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/bridging-language-gaps-with-translated-subs-in-igtv-for-2024/"><u>Bridging Language Gaps with Translated Subs in IGTV for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/capturing-the-essence-streamlined-guide-to-phonescreen-recording-on-snapchat-for-2024/"><u>Capturing the Essence Streamlined Guide to Phonescreen Recording on Snapchat for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dell-upgrades-its-acclaimed-xps-series-now-packed-with-advanced-ai-capabilities-and-stunning-designs-insights-from-zdnet/"><u>Dell Upgrades Its Acclaimed XPS Series: Now Packed with Advanced AI Capabilities and Stunning Designs - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-the-new-macbook-pro-with-advanced-m2-pro-processor-transforms-your-computing-experience-expert-review-by-zdnet/"><u>Discover How the New MacBook Pro with Advanced M2 Pro Processor Transforms Your Computing Experience – Expert Review by ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1721923306768-dont-fall-for-the-google-bard-scam-its-dangerous/"><u>Don't Fall for the Google Bard Scam, It's Dangerous</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-apple-device-experience-a-comprehensive-tutorial-for-installing-extra-ports-on-macbookipad-pro/"><u>Enhance Your Apple Device Experience: A Comprehensive Tutorial for Installing Extra Ports on MacBook/iPad Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-selected-and-evaluated-ultimate-list-of-premium-online-notekeepers-for-purchase/"><u>Expertly Selected & Evaluated Ultimate List of Premium Online Notekeepers for Purchase</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-workspace-with-the-ultimate-multi-device-charging-hub-now-at-a-steep-44-discount-zdnet-deal/"><u>Maximize Your Workspace with the Ultimate Multi-Device Charging Hub: Now at a Steep 44% Discount! [ZDNET Deal]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/my-experience-with-the-new-apple-m2-macbook-air-tears-of-joy-or-frustration-a-deep-dive/"><u>My Experience with the New Apple M2 MacBook Air - Tears of Joy or Frustration? A Deep Dive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-design-how-lenovos-newest-2-in-1-laptop-defies-expectations-a-zdnet-review/"><u>Revolutionary Design: How Lenovo's Newest 2-in-1 Laptop Defies Expectations – A ZDNet Review</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/step-by-step-guide-converting-your-mkv-files-into-ogg-format/"><u>Step-by-Step Guide: Converting Your MKV Files Into OGG Format</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranking-evaluation-of-microsoft-surface-laptop-4-exceptional-quality/"><u>Top Ranking Evaluation of Microsoft Surface Laptop 4 - Exceptional Quality!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-the-hidden-gems-of-professional-laptops-outshining-thinkpads-and-macbooks/"><u>Uncover the Hidden Gems of Professional Laptops Outshining ThinkPads & MacBooks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-immediate-discounts-on-m1-macbook-air-save-hundreds-with-us-today-techguide/"><u>Unlock Immediate Discounts on M1 MacBook Air - Save Hundreds with Us Today! | TechGuide</u></a></li>
+</ul></div>
 

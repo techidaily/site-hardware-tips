@@ -1,7 +1,7 @@
 ---
 title: Top Affordable Gaming Memory Modules of 2024 with Brilliant Lighting Features
-date: 2024-08-19T03:59:52.959Z
-updated: 2024-08-20T03:59:52.959Z
+date: 2025-01-06T23:19:48.554Z
+updated: 2025-01-12T19:01:00.603Z
 tags:
   - best-picks
 categories:
@@ -16,6 +16,10 @@ Your PC's power supply (aka PSU) plays a significant role in determining your sy
  Of course, you'll also have different concerns depending on whether your power supply will be pushing a monster mining rig, an always-churning workstation, or a basic productivity or[gaming PC](https://www.tomshardware.com/best-picks/best-gaming-pcs) . We’ll help you find the best power supply for your next desktop PC below.
 
  Finally, one of the significant changes that the[ATX12V v3.0 spec](https://www.tomshardware.com/news/intel-atx-v3-psu-standard) brings is the addition of a 12+4 pin PCIe connector to every PSU with more than 450W max power. This means that PSUs lacking this connector won't be compatible with new GPU generations and will soon be rendered obsolete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quick Power Supply Shopping Tips
 
@@ -47,9 +51,6 @@ Your PC's power supply (aka PSU) plays a significant role in determining your sy
 
 Corsair CX450  (Image credit: Corsair)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [1. Corsair CX450](https://www.tomshardware.com/reviews/corsair-cx450-psu,5678.html)
 
 Best Cheap PSU ($60/£60 or less)
@@ -134,10 +135,11 @@ Not as quiet as the CWT-made CX450
 
 ![Corsair CX550F RGB](https://cdn.mos.cms.futurecdn.net/6Awr7xo28qvVbRcyUWEXsE-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Corsair CX550F RGB  (Image credit: Corsair)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [2. Corsair CX550F RGB](https://www.tomshardware.com/reviews/corsair-cx550f-rgb-power-supply-review)
 
@@ -254,6 +256,10 @@ Lower than 17ms hold-up time
 ![Corsair RM550x (2021)](https://cdn.mos.cms.futurecdn.net/Re2rASUVFu9qjHvAxT76fS-320-80.jpg)
 
 Corsair RM550x (2021)  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [3. Corsair RM550x](https://www.tomshardware.com/reviews/corsair-rm550x-power-supply,4484.html)
 
@@ -644,8 +650,9 @@ High inrush currents
 MSI MEG Ai1000P PCIe5  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [7. MSI MEG Ai1000P PCIe 5](https://www.tomshardware.com/reviews/msi-meg-ai1000p-pcie-5-atx-v30-power-supply-review)
 
 Best PSU: Up to 1250 Watts
@@ -726,14 +733,12 @@ High inrush current with 115V
 
 ![Thermaltake ToughPower GF3 1350](https://cdn.mos.cms.futurecdn.net/h7UgjqyFWuvb7rBDyYkhtS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Thermaltake Toughpower GF3 1350  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [8. Thermaltake Toughpower GF3 1350W](https://www.tomshardware.com/reviews/thermaltake-toughpower-gf3-1350w-atx-v30-power-supply-review)
 
 Best PSU Above 1250-1500 Watts
@@ -806,15 +811,12 @@ Load regulation could be tighter
 
 ![Corsair AX1600i](https://cdn.mos.cms.futurecdn.net/J5baPqhhaxZgKKnRm9WBHX-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Corsair AX1600i  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### [9. Corsair AX1600i](https://www.tomshardware.com/reviews/corsair-ax1600i-psu,5406.html)
 
 Best PSU Above 1500 Watts
@@ -929,10 +931,11 @@ EMI with AVG detector
 
 ![Corsair SF750](https://cdn.mos.cms.futurecdn.net/4aKWQkNrYrBZqyaq8bF8Be-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Corsair SF750  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [10. Corsair SF750](https://www.tomshardware.com/reviews/corsair-sf750-psu,5979.html)
 
@@ -1025,13 +1028,11 @@ Semi-passive mode can’t be deactivated
 ![Silverstone SX1000 Platinum](https://cdn.mos.cms.futurecdn.net/NB33egmhentEEmhZH2bCkn-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Silverstone SX1000 Platinum  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### [11. SilverStone SX1000 SFX-L](https://www.tomshardware.com/reviews/silverstone-sx1000-sfx-l-power-supply-review)
 
 Best SFX-L PSU
@@ -1118,9 +1119,6 @@ Noisy under high loads
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Finding Discounts on the Best Power Supplies
 
  Whether you're shopping for one of the best power supplies or just looking for an affordable alternative, you may find savings by checking out our lists of the latest[Corsair coupon codes](https://www.tomshardware.com/coupons/corsair.com) ,[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) and[Micro Center coupons](https://www.tomshardware.com/coupons/category/ssds-motherboards-and-hardware) .
@@ -1224,17 +1222,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -1243,4 +1238,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mastery-guide-to-flawless-srt-file-construction/"><u>[Updated] In 2024, Mastery Guide to Flawless SRT File Construction</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-in-depth-investigation-are-you-best-off-with-inshot-app/"><u>2024 Approved In-Depth Investigation Are You Best Off with InShot App?</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/comment-recuperer-votre-mot-de-passe-oublie-dans-windows-10-a-laide-de-linvite-invites/"><u>Comment Récupérer Votre Mot De Passe Oublié Dans Windows 10 À L'aide De L'Invité Invités ?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-preventing-disorientation-in-virtual-environments/"><u>In 2024, Preventing Disorientation in Virtual Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-unfreeze-and-optimize-your-computing-experience/"><u>Quick Fixes to Unfreeze and Optimize Your Computing Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rivalry-heats-up-non-pump-240mm-aio-chiller-falls-short-of-pumped-contenders-by-a-slight-margin-during-performance-tests/"><u>Rivalry Heats Up: Non-Pump 240Mm AIO Chiller Falls Short of Pumped Contenders by a Slight Margin During Performance Tests</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/savvy-photographers-guide-to-pristine-cloud-space-cost-free-and-paid-choices/"><u>Savvy Photographers' Guide to Pristine Cloud Space Cost-Free & Paid Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/speed-masterclass-in-3d-printing-the-fastest-models-ranked-by-production-speed/"><u>Speed Masterclass in 3D Printing: The Fastest Models Ranked by Production Speed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-beginners-guide-to-utilizing-look-up-tables-luts/"><u>The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-components-at-toms-tech-universe/"><u>The Ultimate Guide to Computer Components at Tom's Tech Universe</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-insider-tips-mastering-the-world-of-computing-hardware/"><u>Tom's Insider Tips: Mastering the World of Computing Hardware</u></a></li>
+</ul></div>
 

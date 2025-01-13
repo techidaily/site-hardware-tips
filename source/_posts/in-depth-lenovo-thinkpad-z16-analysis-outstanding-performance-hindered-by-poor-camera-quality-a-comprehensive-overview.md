@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Lenovo ThinkPad Z16 Analysis: Outstanding Performance Hindered by Poor Camera Quality - A Comprehensive Overview"
-date: 2024-12-31T21:00:25.139Z
-updated: 2025-01-06T03:28:39.985Z
+date: 2025-01-08T17:50:17.741Z
+updated: 2025-01-12T18:36:12.071Z
 tags:
   - laptops
 categories:
@@ -45,7 +45,7 @@ Read on to see if this new ThinkPad from Lenovo should be your next laptop.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -60,10 +60,6 @@ Read on to see if this new ThinkPad from Lenovo should be your next laptop.
 | Ports                 | 2 x USB4 40Gbps, 1 x USB-C 3.2 Gen 2, 1 x combo audio jack (3.5mm), SD Card Reader |
 | Connectivity          | Wi-Fi 6E, Bluetooth 5.2                                                            |
 | Weight and dimensions | 3.99lb \| 354.4 x 237.4 x 15.8 mm (13.95 x 9.35 x 0.62 inches)                     |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Build
 
@@ -100,7 +96,7 @@ Michael Gariffo/ZDNET
 I was initially disappointed by the new trackpad. By default, the haptic feedback it uses to replace mechanical clicks was very weak, almost undetectable near its edges. Thankfully, once I'd raised the haptic feedback level in the laptop's settings, it improved dramatically, and was hard to discern from mechanical clicks. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features and ports
@@ -148,7 +144,7 @@ As mentioned in the video, I've given the webcam the best chance to perform well
 It's still better than most budget-laptops. But, the Z16 is a premium model, and you should expect its camera to rise to that designation. Unfortunately, it didn't. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -203,6 +199,10 @@ If you do need to top up mid-day, the included 135W charger makes quick work of 
 
 [Lenovo ThinkPad Z16 $899 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8NVY2FZ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9d7a11a8-80e2-4a96-95cc-a42fb6ddfa05%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 I opened by noting that the [ThinkPad Z16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21D4001VUS-Notebook-Board%2Fdp%2FB0B8NVY2FZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9d7a11a8-80e2-4a96-95cc-a42fb6ddfa05%7Cdtp&dtb=1) is very much a premium laptop, with the high expectations that designation carries. From the build quality, through the performance, to the battery life, I was consistently impressed. The only negative standout was that pesky webcam. If Lenovo hadn't branded the lid with its specs and created a dedicated "Communications Bar" to house it, I might have shrugged at its mediocre performance. But, if you're going to make something a showpiece of a $2,000ish laptop, it had better be a highlight. It wasn't.
@@ -210,7 +210,7 @@ I opened by noting that the [ThinkPad Z16](https://buy.geni.us/Proxy.ashx?TSID=3
 If you want a do-it-all, desktop replacement notebook that will last just about all day, look no further. There are systems that perform just as well for hundreds of dollars less, but none that offer the same level of wow-inducing build quality or the attention to detail that's made Lenovo's ThinkPad line a favorite of business travelers for 30 years. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -261,22 +261,16 @@ If you want something a bit smaller with the same ultra-premium vibes as Lenovo'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-eliminating-fb-live-ads-a-step-by-step-guide/"><u>[New] Eliminating FB Live Ads A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-forward-thinking-ios-for-ps2-emulation-for-2024/"><u>[New] Forward-Thinking iOS for PS2 Emulation for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-11-must-know-tricks-for-effective-fb-video-seo-and-performance/"><u>[Updated] 2024 Approved 11 Must-Know Tricks for Effective FB Video SEO and Performance</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-smart-8-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Smart 8 Unlock Without Password</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-tools-to-replay-ps3-classics-on-pc-for-2024/"><u>Essential Tools to Replay PS3 Classics on PC for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explosive-savings-alert-samsung-t5-ssd-4tb-capacity-goes-half-price-at-amazon-insider-report-by-zdnet/"><u>Explosive Savings Alert: Samsung T5 SSD, 4TB Capacity Goes Half-Price at Amazon - Insider Report by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-traditional-to-ergo-friendly-one-week-on-a-split-keyboard-changed-it-all-gadgetflow/"><u>From Traditional to Ergo-Friendly: One Week on a Split Keyboard Changed It All | GadgetFlow</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-a78-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo A78 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-s17-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo S17 FRP</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-new-mac-studio-alternative-for-windows-enthusiasts-could-it-surpass-apple/"><u>Introducing Lenovo's New Mac Studio Alternative for Windows Enthusiasts: Could It Surpass Apple?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-air-at-an-unbeatable-price-just-280-on-amazon-learn-more/"><u>MacBook Air at an Unbeatable Price: Just $280 on Amazon! [Learn More]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mobiles-leading-free-image-enhancement-and-layer-apps-ranked-for-2024/"><u>Mobile's Leading Free Image Enhancement & Layer Apps Ranked for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/resolving-no-audio-output-on-your-pcs-sound-card-expert-advice-from-yl-software/"><u>Resolving No Audio Output on Your PC's Sound Card: Expert Advice From YL Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-travelers-ultimate-guide-to-the-innovative-hassle-free-usb-c-cable-that-changed-my-journey/"><u>The Traveler's Ultimate Guide to the Innovative, Hassle-Free USB-C Cable That Changed My Journey</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-top-rated-portable-laptop-ideal-for-remote-professionals-a-review-by-zdnet/"><u>The Ultimate Guide: Top-Rated Portable Laptop Ideal for Remote Professionals - A Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-amazon-prime-day-bargains-of-october-2024-top-discounts-you-cant-missbuyers-guide/"><u>Unbeatable Amazon Prime Day Bargains of October 2024 – Top Discounts You Can't Miss![Buyer’s Guide]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-the-2024-dell-xps-14-is-a-must-have-expert-review-and-endorsement-on-zdnet/"><u>Why the 2024 Dell XPS 14 Is a Must-Have: Expert Review & Endorsement on ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-dive-into-making-youtube-shorts-comprehensive-video-guide/"><u>[New] In 2024, Dive Into Making YouTube Shorts Comprehensive Video Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-content-easy-downloads-of-vimeo-hd-videos-mp4/"><u>[Updated] Unlocking Content Easy Downloads of Vimeo HD Videos (MP4)</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-f15-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy F15 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-kinemasters-journey-for-seamless-scene-transitions/"><u>In 2024, Kinemaster's Journey for Seamless Scene Transitions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/insights-and-potential-upsides-on-google-stadias-current-offerings/"><u>Insights and Potential Upsides on Google Stadia's Current Offerings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-thermal-compounds-for-processors-comprehensive-ranking-of-90-options/"><u>Top-Rated Thermal Compounds for Processors - Comprehensive Ranking of 90 Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-the-finest-raspberry-pi-cases-for-2n45s/"><u>Ultimate Selection: The Finest Raspberry Pi Cases for 2N45s</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-gadget-secrets-a-look-at-toms-hardware/"><u>Unlocking Gadget Secrets: A Look at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-in-depth-reviews-from-toms-hardware/"><u>Unlocking Tech Secrets: In-Depth Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-electronics-with-toms-equipment-insights/"><u>Unraveling the World of Electronics with Tom's Equipment Insights</u></a></li>
 </ul></div>
 

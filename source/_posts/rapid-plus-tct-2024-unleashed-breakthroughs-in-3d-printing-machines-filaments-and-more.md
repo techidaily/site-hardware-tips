@@ -1,7 +1,7 @@
 ---
 title: "Rapid + TCT 2024 Unleashed: Breakthroughs in 3D Printing Machines, Filaments & More!"
-date: 2024-08-19T04:00:49.240Z
-updated: 2024-08-20T04:00:49.240Z
+date: 2025-01-11T17:27:04.895Z
+updated: 2025-01-12T23:20:29.362Z
 tags:
   - printer
 categories:
@@ -15,11 +15,19 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  We attended in person to check out all the excitement and see the latest tech and cool innovations in 3D printing for ourselves. Here are a few highlights from the Rapid + TCT 2024 event:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Elegoo boasts Centauri Carbon, Mars 5 and Orange Storm Giga
 
  Image 1 of 3
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -49,9 +57,6 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Anycubic showed off its latest four-color machine, the Kobra 3, and a high-speed resin, the Photon Mono M7 Pro. For more details on features and performance, read our[Kobra 3](https://www.tomshardware.com/3d-printing/anycubic-kobra-3-review) review.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,16 +67,10 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  The Photon Mono M7 Pro is a promising large-format resin machine with a 10-inch light source and 14k resolution. It’s also self-leveling, has a plethora of sensors, and has a tempting sale price of $499\. This machine is currently under review, and we’ll have more details on its performance shortly.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bambu Lab: Nothing New
 
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/hgtGFEzAu9a8CMtvExhcLF-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Bambu Lab may have has suffered a setback from their[A1 recall](https://www.tomshardware.com/3d-printing/bambu-lab-a1-recall-company-asks-owners-to-turn-off-their-3d-printers-as-micro-center-pulls-product-from-shelves) . They did not have any new machines to present, but did showcase the revamped A1 alongside the A1 Mini and X1 Carbon.
@@ -84,6 +83,10 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  We were eager to see the new K2 Plus, Creality’s entry in the color FDM race. However, the machine was demoing a single-color print, which suggests their CFS (Creality Filament System) is not ready for prime time. The combo unit is currently available to order for $1,499 and is slated to ship in October. Reviewers have been promised sample units in August, so we’ll keep you posted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prusa courts the industrial user with its Pro HT90
 
  Image 1 of 3
@@ -91,15 +94,20 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
-
-![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -113,26 +121,29 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Formlabs had a live demo of the new Form 4 resin, a versatile machine with an LCD-based system. The superfast Form 4 is said to rival injection-molded parts while still being small enough to fit on your desktop. Geared for industrial use, with a spicy price tag of $4,500, Formlabs has offered to loan us a machine to check out. Look for our in-depth review of this later this summer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Polymaker launches Panchroma and Fiberon
 
@@ -148,9 +159,6 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Polymaker has thrown down the gauntlet with the announcement of its 160-color Panchroma lineup of PLA. The company claims it will have the world’s largest library of colors and surface effects, with filament going on sale later this summer. All Panchroma colors will be high-speed PLA, capable of keeping up with the tread of newer, faster 3D printers.
@@ -167,8 +175,6 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +182,16 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-leading-lights-youtubes-biggest-brands/"><u>[New] Leading Lights YouTube's Biggest Brands</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-gadgets-for-capturing-zoom-sessions/"><u>[Updated] Essential Gadgets for Capturing Zoom Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves/"><u>2024 Approved Leading Android & iOS Timer Tools Reviewed Your Big Day Planner's Must-Haves</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-expensive-macbook-fixes-and-embrace-savings-with-this-ultimate-laptop-sleeve-expert-review/"><u>Avoid Expensive MacBook Fixes and Embrace Savings with This Ultimate Laptop Sleeve | Expert Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/copilotplus-pcs-unveiled-an-in-depth-review-of-latest-ai-enhancements-that-may-just-live-up-to-the-excitement/"><u>Copilot+ PCs Unveiled: An In-Depth Review of Latest AI Enhancements That May Just Live Up to the Excitement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 14 Plus?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/splendid-savings-get-a-premium-8tb-samsung-t5-nvme-ssd-from-amazon-enjoy-36-discount-now/"><u>Splendid Savings: Get a Premium 8TB Samsung T5 NVMe SSD From Amazon - Enjoy 36% Discount Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-miniature-behemoth-how-a-small-alienware-laptop-defies-expectations-with-monstrous-performance/"><u>Unleashing Miniature Behemoth: How a Small Alienware Laptop Defies Expectations with Monstrous Performance!</u></a></li>
+</ul></div>
 

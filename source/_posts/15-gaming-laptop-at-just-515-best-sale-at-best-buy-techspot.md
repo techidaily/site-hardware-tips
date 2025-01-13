@@ -1,7 +1,7 @@
 ---
 title: 15 Gaming Laptop at Just $515 - Best Sale at Best Buy | TechSpot
-date: 2024-12-31T08:41:15.900Z
-updated: 2025-01-05T17:51:03.790Z
+date: 2025-01-07T22:43:20.452Z
+updated: 2025-01-13T01:53:26.629Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,19 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-easy-peasy-youtube-tutorials-making-content-that-works-for-all/"><u>[New] 2024 Approved Easy-Peasy YouTube Tutorials Making Content That Works for All</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-epic-escapades-10-roguelite-games-reviewed-for-2024/"><u>[New] Epic Escapades #10 Roguelite Games Reviewed for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-preventing-sickness-while-engaging-with-vr/"><u>2024 Approved Preventing Sickness While Engaging with VR</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-decode-the-digital-dollar-with-youtube-an-effective-triple-step-method-for-income-analysis/"><u>In 2024, Decode the Digital Dollar with YouTube An Effective Triple Step Method for Income Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-optimum-locations-magnifying-youtube-videos/"><u>In 2024, Optimum Locations Magnifying YouTube Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-transition-seamless-macos-sonoma-upgrades-for-your-macbook-pro-and-imac-insights-from-zdnet/"><u>Mastering the Transition: Seamless macOS Sonoma Upgrades for Your MacBook Pro and iMac - Insights From ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcome-your-windows-11-hurdle-effective-fixes-for-the-sleep-feature-glitch/"><u>Overcome Your Windows 11 Hurdle: Effective Fixes for the Sleep Feature Glitch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/perfect-study-buddy-choose-the-best-2-in-1-laptop-for-seamless-college-life-balance-of-work-and-play-insights-from-zdnet-experts/"><u>Perfect Study Buddy: Choose the Best 2-in-1 Laptop for Seamless College Life Balance of Work and Play - Insights From ZDNET Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/teamgees-offer-slash-120-off-the-dual-screen-laptop-display-smart-purchase-alert/"><u>TeamGee's Offer: Slash $120 Off the Dual-Screen Laptop Display - Smart Purchase Alert!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-new-era-of-advertising-embracing-the-metaverse-for-2024/"><u>The New Era of Advertising Embracing the Metaverse for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-buying-a-new-linux-laptop-in-2-5-by-tech-gurus-zdnet-exclusive/"><u>The Ultimate Guide to Buying a New Linux Laptop in 2#! (5) by Tech Gurus | ZDNET Exclusive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secret-workplace-advantage-why-this-years-most-impressive-dual-purpose-gadget-deserves-attention/"><u>Unveiling the Secret Workplace Advantage: Why This Year's Most Impressive Dual-Purpose Gadget Deserves Attention</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-terminology-trek-through-the-virtual-landscape/"><u>[New] Terminology Trek Through the Virtual Landscape</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unveiling-the-most-shared-stock-photos-and-backstories/"><u>[Updated] 2024 Approved Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-twilight-assessment-diverse-ideas-for-2024/"><u>[Updated] Twilight Assessment Diverse Ideas for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adata-reveals-dual-cooling-tower-tech-for-enhanced-performance-at-computex-exciting-news-on-next-gen-psus-and-pcie-50-storage/"><u>Adata Reveals Dual-Cooling Tower Tech for Enhanced Performance at Computex: Exciting News on Next-Gen PSUs & PCIe 5.0 Storage!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-3dmakerpros-mole-3d-scanner-a-revolutionary-scanning-experience/"><u>Comprehensive Evaluation of 3DMakerPro's Mole 3D Scanner: A Revolutionary Scanning Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/exiting-others-user-sessions-on-win-11/"><u>Exiting Others' User Sessions on Win 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175701717-experience-faster-pc-builds-with-corsairs-redesigned-screw-installing-in-just-a-single-turn/"><u>Experience Faster PC Builds with Corsair’s Redesigned Screw, Installing in Just a Single Turn!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-lava-storm-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Lava Storm 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-itel-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Itel Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125187704-inside-look-at-toms-hardware-lineup-performance-value-and-more/"><u>Inside Look at Tom's Hardware Lineup – Performance, Value & More!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-exploring-the-best-voice-mimicry-applications-of-the-year/"><u>New In 2024, Exploring the Best Voice Mimicry Applications of the Year</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-x-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone X</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125258219-powerful-gamers-laptops-under-1k-top-picks-revealed/"><u>Powerful Gamers' Laptops Under 1K: Top Picks Revealed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125137767-unbelievable-offer-top-notch-black-nylon-filament-for-3d-printing-at-a-steal-just-16kg/"><u>Unbelievable Offer: Top-Notch Black Nylon Filament for 3D Printing at a Steal – Just $16/Kg!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-hardware/"><u>Unveiling the Latest in PC Components with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-gameplay-with-optimal-screens-a-buyers-guide-for-ps5-and-xbox-series-gamers/"><u>Upgrade Your Gameplay with Optimal Screens: A Buyer's Guide for PS5 & Xbox Series Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgraded-airflow-efficiency-discover-the-strength-of-thermaltakes-latest-br)/"><u>Upgraded Airflow Efficiency: Discover the Strength of Thermaltake's Latest ^Br></u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1728484017209-windows-11/"><u>ボリュームを復元する - Windows 11で失われたファイルの復旧法</u></a></li>
 </ul></div>
 

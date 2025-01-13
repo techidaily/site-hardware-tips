@@ -1,7 +1,7 @@
 ---
 title: "Bambu's A1 Printer Refund Surprise: Faultless Units Shipped Out by Error via TikTok to Unwitting Customers"
-date: 2024-08-19T04:00:00.673Z
-updated: 2024-08-20T04:00:00.673Z
+date: 2025-01-10T01:39:38.414Z
+updated: 2025-01-12T17:48:30.038Z
 tags:
   - printer
 categories:
@@ -13,11 +13,19 @@ thumbnail: https://thmb.techidaily.com/376af438f950837c2d73b8b405a038336106e727f
 
 Blobs are excessive deposits of melted filament that appear as small and irregular protrusions on the print's surface. It occurs mainly when the extruder deposits more material than necessary at specific points due to factors like inconsistent extrusion, incorrect retraction settings, and or insufficient cooling. Zits, on the other hand, are tiny imperfections that look like scars on the surface of a 3D print, and they can also come as a result of inconsistent extrusion, changes in 3D print speed, and variations in cooling, even if you’re using one of the[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) . Zits are generally smaller than blobs, but they still compromise the overall look of the print and affect the print's surface finish. You can fix these issues by implementing the following strategies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Ensure There is Proper Cooling of the Layers
 
  If the layers are overheated due to poor cooling, the excess melted filament will form the blobs on the printed object. You need to optimize the cooling settings to be consistent on all the sections of your 3D print.
 
  It’s also advisable to increase the fan's speed to prevent overheating of the layers before the next ones are deposited, which leads to excess melted filament, which later forms blobs on the object.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Optimize Retraction Settings
 
@@ -28,6 +36,10 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
  The standard retraction distance is usually around 2 to 7 mm, and the speed ranges from 30 to 60 mm/s. You can find these settings on your 3D printer slicer. For example, in Cura, you have to ensure that you check the**Enable** **Retraction** box.
 
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/nainugXq6FRCAXonoEkKyA-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -44,33 +56,25 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/bf3r7C9s6nZACJhsioefLA-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  You can begin with a lower retraction distance, like 2mm, print the model, and then check how it appears. It might have strings and other imperfections, and you can continue increasing by 0.5mm until you see improvement. You can then shift to retraction speed and start with a lower value, like 30 mm/s, and increase it gradually as you observe how the prints appear until you find the optimal value.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use Coasting
 
  When you activate coasting settings, it stops the extruding filament slightly before the end of the path when the nozzle is about to travel over an area without printing. This is helpful as it minimizes the pressure build-up in the nozzle, which causes the filament to ooze out and turn into blobs or zits. You can find the coasting setting in the**Experimental** section, and check the**Enable coasting** box to activate it.
 
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/WcERQDGybguB9i8aCqZ5jA-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  When you enable it, other settings appear, like**Coasting Volume** ,**Minimum Volume Before Coasting** , and**Coasting Speed** .
 
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/dddhLGSrhmwrGxEcJzAHYA-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Coasting volume is the amount or size of the material that is not extruded at the end of each layer. You need to find the appropriate value because if it’s too high, the printer might not extrude enough filament, resulting in under-extrusion.
@@ -82,17 +86,15 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
  As you enable coasting to eliminate blobs and zits, you need to remember that its effectiveness depends on the geometry of your 3D model, 3D printing speed, and the type of filament you are using. So you need to tweak the settings until you achieve the best results.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Adjust 3D printing Speed and Temperature
 
  Adjusting how fast your 3D printer prints as well as the temperature you are using can also help fix the issue as these settings influence the extrusion rate and the cooling time for the layers. A higher 3D printing speed than necessary can result in increased pressure in the nozzle, which can cause the excess filament to ooze out, causing issues on the print as the nozzle moves.
 
  The standard speed is usually between 50-60 mm/s, and anything above this can result in problems. If the temperature is too high, the filament can become too fluid and start oozing out. Alternatively, if it is too low, there can be incomplete melting which results in uneven extrusion which causes irregularities and inconsistencies in the printed layers. You must adjust the temperature until you find the perfect settings for your filament and printer.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Power Recovery Feature
 
  If none of the above options don’t work, you should consider turning off the power recovery option if it’s turned on. Even though this feature helps save your 3D print instead of starting to print from scratch in case of power interruption, it can introduce blobs. This is because when the feature is activated, the 3D printers utilize the SD card to write “check-points” or the print job state to the card, which will help in resuming the print and this might start competing with the standard printing operation, resulting in blobs.
@@ -109,14 +111,11 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
 **More:** [How to Use PrusaSlicer: A Beginners Guide](https://www.tomshardware.com/how-to/use-prusaslicer)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +124,21 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-complete-guide-to-toolwiz-photography-software/"><u>[New] 2024 Approved Complete Guide to Toolwiz Photography Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-harnessing-hues-iphone-low-light-mastery/"><u>[Updated] 2024 Approved Harnessing Hues IPhone Low-Light Mastery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ultimate-screeners-guide-to-8-choices/"><u>[Updated] 2024 Approved Ultimate Screener's Guide to 8 Choices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-avoid-the-quake-optimal-tripod-placement-for-stellar-vlogs/"><u>[Updated] In 2024, Avoid the Quake Optimal Tripod Placement for Stellar Vlogs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-key-to-profit-youtube-shorts-insights/"><u>2024 Approved The Key to Profit YouTube Shorts Insights</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-engaging-e-sports-world-of-nhl-19-gameplay-breakdown/"><u>Exploring the Engaging E-Sports World of NHL '19: Gameplay Breakdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-trends-through-toms-comprehensive-reviews/"><u>Navigating New Tech Trends Through Tom's Comprehensive Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-hardware-a-trip-through-toms-electronic-storehouse/"><u>Navigating the World of Hardware: A Trip Through Tom's Electronic Storehouse</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/premium-network-upgraders-extra-ports-enhanced-speeds/"><u>Premium Network Upgraders: Extra Ports, Enhanced Speeds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chilled-secure-the-ultra-efficient-arctic-aio-cooler-at-an-unbeatable-price-of-only-74/"><u>Stay Chilled: Secure the Ultra-Efficient Arctic AIO Cooler at an Unbeatable Price of Only $74!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-select-picks-quality-3d-printing-filaments-of-2024/"><u>The Best Select Picks: Quality 3D Printing Filaments of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-finest-psu-selection-for-profitable-crypto-farming-power-reliability-for-bitcoin-ethereum/"><u>The Finest PSU Selection for Profitable Crypto Farming: Power Reliability for Bitcoin, Ethereum</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-more-watchers-simple-youtube-growth-hacks-for-2024/"><u>Unlock More Watchers Simple YouTube Growth Hacks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-links-resuscitate-windows-networks/"><u>Unveiling Hidden Links: Resuscitate Windows Networks</u></a></li>
+</ul></div>
 

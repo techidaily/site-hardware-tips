@@ -1,7 +1,7 @@
 ---
 title: "Last Call: Top Gaming Bargains in October's Prime Event - Score Up to $1K Savings! [Best Deals] | TechNews"
-date: 2025-01-05T03:32:17.428Z
-updated: 2025-01-05T23:17:41.949Z
+date: 2025-01-11T20:58:26.304Z
+updated: 2025-01-13T03:31:49.163Z
 tags:
   - laptops
 categories:
@@ -118,6 +118,10 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -173,10 +177,6 @@ Kyle Kucharski/ZDNET
 * [MSI Aegis RS for $1,700 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-rs-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-ti-super-2tb-ssd-black%2F6574690.p%3FskuId%3D6574690&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming and content creation desktop with an Intel Core i7-14700F CPU, Nvidia RTX 4070 Ti Super GPU, 32GB of RAM, and a 2TB SSD.
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals still available
 
 Lenovo
@@ -202,6 +202,10 @@ Samsung/ZDNET
 * [Corsair Scimitar Elite RGB wireless for $100 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-SCIMITAR-ELITE-WIRELESS-Gaming%2Fdp%2FB0CCVYHZ9N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A wireless mouse designed for MOBAs and MMOs with 16 programmable buttons and a 150-hour battery life.
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day graphics card deals still available
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -209,34 +213,30 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -304,21 +304,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-pioneering-techniques-youtube-to-facebook-amplification/"><u>[New] In 2024, Pioneering Techniques YouTube to Facebook Amplification</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unleashing-creativity-how-to-master-io-screen-capture/"><u>[New] Unleashing Creativity How to Master IO Screen Capture</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-launch-your-zoom-meeting-in-a-flash-on-your-android-smartphonetablet/"><u>[Updated] 2024 Approved Launch Your Zoom Meeting in a Flash on Your Android Smartphone/Tablet</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-vector-graphics-innovation-top-apps-to-transform-your-creations-for-2024/"><u>[Updated] Vector Graphics Innovation Top Apps to Transform Your Creations for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/analyzing-asus-expertbook-b3s-shortcomings-when-innovative-design-overlooks-user-needs-according-to-zdnet-experts/"><u>Analyzing ASUS ExpertBook B3's Shortcomings: When Innovative Design Overlooks User Needs, According to ZDNet Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-chromebook-picks-of-2eplus24-how-hp-and-lenovo-stack-up-among-competitors-insights-from-zdnet/"><u>Discover the Ultimate Chromebook Picks of 2E+24: How HP and Lenovo Stack Up Among Competitors | Insights From ZDNET</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-a-comprehensive-guide-to-the-finest-budget-friendly-webm-players/"><u>In 2024, A Comprehensive Guide to the Finest Budget-Friendly WebM Players</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/isolate-subject-a-step-by-step-guide-to-clear-borders/"><u>Isolate Subject – A Step-by-Step Guide to Clear Borders</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lenovo-forecasts-rising-demand-for-laptops-with-advanced-ai-and-enhanced-security-features/"><u>Lenovo Forecasts Rising Demand for Laptops with Advanced AI & Enhanced Security Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-air-at-an-unbeatable-price-just-280-on-amazonlearn-more/"><u>MacBook Air at an Unbeatable Price: Just $280 on Amazon![Learn More]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/returning-to-campus-score-big-savings-on-laptops-tablets-from-samsung-student-deals-by-zdnet/"><u>Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-media-capabilities-unveiled-in-new-budget-friendly-acer-laptop/"><u>Revolutionary Media Capabilities Unveiled in New Budget-Friendly Acer Laptop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-choice-the-ideal-13-business-travelers-laptop-neither-dell-xps-nor-macbook-according-to-experts-on-zdnet/"><u>Top Choice: The Ideal 13 Business Traveler's Laptop - Neither Dell XPS nor MacBook, According to Experts on ZDNet!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/utilizing-free-clip-art-for-graphic-designs/"><u>Utilizing Free Clip Art for Graphic Designs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-step-into-the-future-the-best-10-free-video-call-applications/"><u>[New] 2024 Approved Step Into the Future The Best 10 FREE Video Call Applications</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-uncover-these-ten-youtube-sources-with-the-fastest-growth-rates/"><u>[New] In 2024, Uncover These Ten YouTube Sources with the Fastest Growth Rates</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-melody-matrix-tips-and-tricks-for-social-media-sounds/"><u>[Updated] 2024 Approved Melody Matrix Tips and Tricks for Social Media Sounds</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-curate-chuckling-cartoons/"><u>[Updated] In 2024, Curate Chuckling Cartoons</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-premier-real-time-video-distribution-tools/"><u>[Updated] In 2024, Premier Real-Time Video Distribution Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-tech-at-your-site-name-your-one-stop-resource-like-toms-hardware/"><u>Discover the Latest in Tech at [Your Site Name]: Your One-Stop Resource Like Tom's Hardware!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-with-tom-top-reviews-and-guides/"><u>Dive Into Hardware with Tom: Top Reviews & Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ek-unveils-advanced-custom-water-block-technology-to-keep-your-delidded-amd-ryzen-am5-at-peak-temperatures/"><u>EK Unveils Advanced Custom Water Block Technology to Keep Your Delidded AMD Ryzen AM5 at Peak Temperatures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevating-your-rest-the-thoroughly-tested-guide-to-the-bamboo-lab-a1-slide-bed-for-an-immaculate-king-size-experience/"><u>Elevating Your Rest: The Thoroughly Tested Guide to the Bamboo Lab A1 Slide Bed for an Immaculate King-Size Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-overclocking-potential-with-cooler-masters-innovative-colored-ai-nano-diamond-technology-in-cryofuze-5-paste/"><u>Enhance Overclocking Potential with Cooler Master's Innovative Colored AI Nano-Diamond Technology in CryoFuze 5 Paste</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-connection-performance-lower-pings-and-higher-rates/"><u>Enhancing Connection Performance: Lower Pings and Higher Rates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-computing-equipment-from-toms-hardware-hub/"><u>Expert Advice on Computing Equipment From Tom's Hardware Hub</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-brew-an-awkward-potion-in-minecraft-easily/"><u>Expert Advice: How to Brew an Awkward Potion in Minecraft Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-digital-tools-with-tom-your-guide-to-top-tier-electronics/"><u>Exploring Digital Tools with Tom - Your Guide to Top-Tier Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-value-for-money-cpus-in-depth-tutorial-and-ranking-hardware-central/"><u>Exploring Value for Money CPUs : In-Depth Tutorial and Ranking - Hardware Central</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970685-9781803412399-we-topia/"><u>We-Topia | Free Book</u></a></li>
 </ul></div>
 

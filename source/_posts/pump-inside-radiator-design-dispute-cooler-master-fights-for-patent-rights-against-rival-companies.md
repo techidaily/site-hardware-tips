@@ -1,7 +1,7 @@
 ---
 title: "Pump-Inside-Radiator Design Dispute: Cooler Master Fights for Patent Rights Against Rival Companies"
-date: 2024-08-23T12:57:33.289Z
-updated: 2024-08-24T12:57:33.289Z
+date: 2025-01-09T20:10:35.696Z
+updated: 2025-01-12T18:41:10.915Z
 tags:
   - cooling
 categories:
@@ -32,8 +32,6 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -41,8 +39,26 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-screencapturepro-review-expert-insights-and-comparisons/"><u>[New] 2024 Approved ScreenCapturePro Review Expert Insights and Comparisons</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/asterful-moments-a-deep-dive-into-youtube-to-facebook-sharing-for-2024/"><u>[New] Masterful Moments A Deep Dive Into YouTube-to-Facebook Sharing for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-newest-vr-cam-face-off-hero5-and-yis-latest-battle-for-2024/"><u>[Updated] The Newest VR Cam Face-Off Hero5 and Yi's Latest Battle for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/299-college-students-go-to-laptop-affordable-reliable-choice-reviewed-by-zdnet/"><u>$299 College Student's Go-To Laptop: Affordable, Reliable Choice Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-workstation-in-one-expert-recommendations-for-non-lenovonon-dell-portables-insights-from-zdnet/"><u>Best Workstation in One: Expert Recommendations for Non-Lenovo/Non-Dell Portables | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/developing-partnerships-with-influencers-or-other-brands-that-align-with-the-companys-values-to-expand-its-audience-and-credibility/"><u>Developing Partnerships with Influencers or Other Brands that Align with the Company’s Values to Expand Its Audience and Credibility.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-i-forgot-apples-macbook-air-with-these-incredibly-slim-and-powerful-lightweight-laptops/"><u>How I Forgot Apple's MacBook Air with These Incredibly Slim and Powerful Lightweight Laptops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-change-video-speed-on-instagram-stories-for-2024/"><u>How to Change Video Speed on Instagram Stories for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808244140-how-to-make-google-the-first-thing-you-see-on-launch-easy-methods-inside/"><u>How To Make Google The First Thing You See on Launch: Easy Methods Inside</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-s23plus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy S23+ Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lg-gram-pro-takes-on-the-macbook-air-a-comparative-review-revealing-three-key-victories/"><u>LG Gram Pro Takes on the MacBook Air: A Comparative Review Revealing Three Key Victories</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-galaxy-f34-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Samsung Galaxy F34 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-elite-laptop-picks-of-2nnd4-in-depth-analysis-and-expert-insights-zdnet/"><u>Ultimate Guide to the Elite Laptop Picks of 2Nnd4 - In-Depth Analysis and Expert Insights | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-ultimate-gaming-audio-bliss-save-150-on-top-rated-amazon-speakers/"><u>Unleash Ultimate Gaming Audio Bliss: Save $150 on Top-Rated Amazon Speakers!</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

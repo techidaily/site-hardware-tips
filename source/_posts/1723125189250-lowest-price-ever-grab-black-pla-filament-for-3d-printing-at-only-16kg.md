@@ -1,7 +1,7 @@
 ---
 title: "Lowest Price Ever: Grab Black PLA Filament for 3D Printing at Only $16/Kg"
-date: 2024-08-23T12:56:20.209Z
-updated: 2024-08-24T12:56:20.210Z
+date: 2025-01-05T17:47:27.367Z
+updated: 2025-01-12T22:21:42.790Z
 tags:
   - printer
 categories:
@@ -49,14 +49,11 @@ Getting started with resin 3D printing is a little more difficult and sometimes 
 
  You can find more 3D printer deals on our best[Black Friday 3D printer deals](https://www.tomshardware.com/news/best-3d-printer-deals) and for general tech products, drop by our page full of[best Black Friday tech deals](https://www.tomshardware.com/news/best-deals-on-tech) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,8 +62,25 @@ Getting started with resin 3D printing is a little more difficult and sometimes 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-network-growth-strategies-for-instagram-success/"><u>[New] Navigating Network Growth Strategies for Instagram Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/everse-engineering-a-youtube-ban/"><u>[New] Reverse Engineering a YouTube Ban</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-impact-of-weather-on-syma-x8c-performance-for-2024/"><u>[New] The Impact of Weather on Syma X8C Performance for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/backup-windows-server-2019-in-un-caffe-passaggi-essenziali-per-lutente-principiante/"><u>Backup Windows Server 2019 in Un Caffè: Passaggi Essenziali per L'Utente Principiante</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-opportunity-score-your-dream-laptop-at-unbeatable-prices-this-octobers-prime-day-sale/"><u>Exclusive Opportunity! Score Your Dream Laptop at Unbeatable Prices This October's Prime Day Sale</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-leveraging-zoom-for-high-quality-facebook-live-streams/"><u>In 2024, Leveraging Zoom for High-Quality Facebook LIVE Streams</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-sony-xperia-10-v-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Sony Xperia 10 V</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insiders-guide-to-scoring-top-deals-ahead-of-prime-day-bargain-hunting-tips/"><u>Insider's Guide to Scoring Top Deals Ahead of Prime Day | Bargain Hunting Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-s-ultimate-gaming-laptop-lineup-comparing-features-from-razer-acer-msi-and-beyond-insights/"><u>Top Picks 'S Ultimate Gaming Laptop Lineup: Comparing Features From Razer, Acer, MSI & Beyond - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-laptops-in-2-comprehensive-2024-reviews-by-brand-razer-acer-msi-and-others-on-zdnet/"><u>Top Rated Gaming Laptops in 2#: Comprehensive 2024 Reviews by Brand - Razer, Acer, MSI & Others on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-non-thinkpad-non-macbook-laptop-for-peak-efficiency-get-it-before-the-pricier-models-at-a-30-savings-on-prime-day/"><u>Top-Rated Non-ThinkPad, Non-MacBook Laptop for Peak Efficiency - Get It Before the Pricier Models at a 30% Savings on Prime Day</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-high-tech-solutions-with-tom-the-hardware-enthusiast/"><u>Unveiling High-Tech Solutions with Tom - The Hardware Enthusiast</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps/"><u>Updated How To Remove Vocals In Adobe Audition Unveiling The 6 Easy Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-cost-effective-surface-pro-n-model-unveiled-by-microsoft-expert-affordable-tech-insights/"><u>ZDNet Reviews: Cost-Effective Surface Pro N Model Unveiled by Microsoft Expert | Affordable Tech Insights</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

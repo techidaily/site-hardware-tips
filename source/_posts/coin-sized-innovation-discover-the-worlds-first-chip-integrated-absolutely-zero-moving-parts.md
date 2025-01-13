@@ -1,7 +1,7 @@
 ---
 title: "Coin-Sized Innovation: Discover the World's First Chip-Integrated Absolutely Zero Moving Parts"
-date: 2024-08-23T12:56:59.411Z
-updated: 2024-08-24T12:56:59.411Z
+date: 2025-01-08T20:02:33.448Z
+updated: 2025-01-12T19:54:07.742Z
 tags:
   - printer
 categories:
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
  3D printing has quickly changed over the years since it was first introduced. Today, we are getting[metal 3D printers in the International Space Station](https://www.tomshardware.com/3d-printing/the-international-space-station-is-getting-the-first-metal-3d-printer-made-for-space-designed-by-airbus-and-the-esa) that can print tools and parts needed for moon and Mars missions, as well as[cheap $77 AliExpress 3D printers](https://www.tomshardware.com/3d-printing/dollar77-3d-printer-from-aliexpress-is-actually-usable-reviewer-says) that let you start making your own builds at a fraction of the cost. We’ve even seen affordable new 3D printers that are[large enough to print a small child](https://www.tomshardware.com/3d-printing/elegoo-making-3d-printer-large-enough-to-print-a-toddler) . If this project makes it to retail, then, soon enough, we’ll have a 3D printer you can fit in your pocket.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,14 +49,11 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,8 +62,21 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-leaving-with-honor-a-disconnect-guide-for-servers-for-2024/"><u>[New] Leaving with Honor A Disconnect Guide for Servers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snappy-side-hustles-earning-with-snapchat/"><u>[Updated] 2024 Approved Snappy Side Hustles Earning with Snapchat</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-premium-mobile-experience-with-best-gb-emulators/"><u>[Updated] In 2024, Premium Mobile Experience with Best GB Emulators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024-ultimate-guide-to-the-best-linux-laptops-in-depth-analysis-and-ratings-from-professionals-zdnet/"><u>2024 Ultimate Guide to the Best Linux Laptops: In-Depth Analysis and Ratings From Professionals | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-technology-meets-luxury-pricing-discover-razers-newest-masterpiece-the-blade-18-with-amd-ryzen-9-and-cutting-edge-nvidia-graphics-at-just-4799/"><u>Advanced Technology Meets Luxury Pricing: Discover Razer's Newest Masterpiece - The Blade 18 with AMD Ryzen 9 & Cutting-Edge Nvidia Graphics at Just $4,799</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-metas-latest-512gb-quest-3-bargain-the-ultimate-virtual-reality-headset-on-the-market-today-insights-from-zdnet/"><u>Explore Meta's Latest 512GB Quest 3 Bargain: The Ultimate Virtual Reality Headset on the Market Today - Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-a05-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy A05</u></a></li>
+<li><a href="https://win-lab.techidaily.com/is-making-a-payment-to-hackers-the-right-move-against-cyberattacks/"><u>Is Making a Payment to Hackers the Right Move Against Cyberattacks?</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-w11-app-management-a-complete-wingetuser-journey/"><u>Revolutionize Your W11 App Management: A Complete WingetUser Journey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-dream-laptop-at-unbeatable-early-prime-prices-this-oct-24-expert-tips-from-zdnet/"><u>Secure Your Dream Laptop at Unbeatable Early Prime Prices This Oct '24 | Expert Tips From ZDNET</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smiling-photos-and-videos-iphones-for-2024/"><u>Smiling Photos & Videos (iPhones) for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-exclusive-offers-macbook-pros-and-mini-deals-of-the-month-for-january-2022-insider-tips/"><u>Snag Exclusive Offers: MacBook Pros and Mini Deals of the Month for January 2022 | Insider Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/srt-file-handling-simplified-on-pcmac/"><u>SRT File Handling Simplified on PC/Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-smart-fusion-exploring-the-innovative-lenovo-convertible-laptopandroid-tablet-a-must-see-revelation/"><u>The Smart Fusion: Exploring the Innovative Lenovo Convertible Laptop/Android Tablet - A Must-See Revelation</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->

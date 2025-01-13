@@ -1,7 +1,7 @@
 ---
 title: AMD's Ryzen Ninescore Launch Postponed Due to Quality Concerns, New Date Set for August; All Distributed Units Reassessed Internally
-date: 2024-08-23T12:56:08.293Z
-updated: 2024-08-24T12:56:08.293Z
+date: 2025-01-09T18:38:19.356Z
+updated: 2025-01-12T23:24:48.652Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  The Ryzen 9 9950X's performance is impressive. The CPU leveraged AMD's PBO and Curve Optimizer technologies with speedy RAM. The system utilizes a custom loop to remain cool during the[benchmarks](https://www.tomshardware.com/tag/benchmark) . Extreme overclockers can break world records with this chip once they put it under liquid nitrogen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,21 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-tech-tutorial-exporting-and-storing-your-snaps-safely-for-2024/"><u>[New] Tech Tutorial Exporting and Storing Your Snaps Safely for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-monetization-how-much-creators-earn-per-ad-on-youtube-for-2024/"><u>[Updated] Decoding Monetization How Much Creators Earn Per Ad on YouTube for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-chinese-vr-headset-marketplace-wonders/"><u>[Updated] In 2024, Chinese VR Headset Marketplace Wonders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-record-complete-page-display/"><u>[Updated] In 2024, Record Complete Page Display</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-audiophiles-guide-to-mac-voice-recorders-the-cream-of-the-crop/"><u>2024 Approved Audiophile's Guide to Mac Voice Recorders The Cream of the Crop</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211456557--a-journey-of-thoughts/"><u>A Journey of Thoughts | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-standing-desks-of-2023-comprehensive-comparisons-and-ratings/"><u>Discover the Ultimate Standing Desks of 2023 – Comprehensive Comparisons & Ratings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-envy-laptop-series-5660-drivers-with-ease/"><u>Download and Install HP Envy Laptop Series 5660 Drivers with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-lenovo-thinkpad-z1e-review-exceptional-performance-overshadowed-by-weak-webcam-experience-cnet/"><u>Expert Lenovo ThinkPad Z1e Review: Exceptional Performance Overshadowed by Weak Webcam Experience | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/keep-your-macbook-pro-fresh-and-clean-with-expert-advice/"><u>Keep Your MacBook Pro Fresh and Clean with Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-file-explorer-in-windows-11-tips-and-tricks-for-a-better-experience/"><u>Mastering the File Explorer in Windows 11 - Tips and Tricks for a Better Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exceptional-savings-premier-pc-deals-for-octobers-prime-sale-revealed/"><u>Unlock Exceptional Savings: Premier PC Deals for October's Prime Sale Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-choose-a-high-end-windows-notebook-over-a-macbook-air-top-comparisons-and-reviews-on-zdnet/"><u>Why Choose a High-End Windows Notebook Over a MacBook Air? Top Comparisons and Reviews on ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

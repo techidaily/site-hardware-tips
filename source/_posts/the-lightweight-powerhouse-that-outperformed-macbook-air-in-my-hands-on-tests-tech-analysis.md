@@ -1,7 +1,7 @@
 ---
 title: The Lightweight Powerhouse That Outperformed MacBook Air in My Hands-On Tests | Tech Analysis
-date: 2025-01-04T18:50:18.503Z
-updated: 2025-01-05T22:15:58.163Z
+date: 2025-01-06T18:59:18.148Z
+updated: 2025-01-12T17:13:06.393Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -87,7 +87,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -126,21 +126,24 @@ The Surface Laptop is a flagship mid-range device that's well-rounded enough to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-10-subtitle-converters-no-cost-for-srt-files/"><u>[New] 2024 Approved Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs-for-2024/"><u>[New] Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-evaluating-the-impact-of-reduced-shake-on-photoshop-usability/"><u>[New] Evaluating the Impact of Reduced Shake on Photoshop Usability</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-best-practices-in-selecting-youtube-video-extractor-apps-for-android-for-2024/"><u>[Updated] Best Practices in Selecting YouTube Video Extractor Apps for Android for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-boosting-your-youtube-earnings-on-mobile-devices-a-comprehensive-guide/"><u>[Updated] In 2024, Boosting Your YouTube Earnings on Mobile Devices - A Comprehensive Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-tiktok-visual-transformation-switch-backgrounds-with-3-simple-tricks/"><u>[Updated] TikTok Visual Transformation Switch Backgrounds with 3 Simple Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-lenovo-and-dell-discover-the-most-affordable-2-in-1-laptop-recommended-ahead-of-prime-day-insights/"><u>Beyond Lenovo & Dell: Discover the Most Affordable 2-in-1 Laptop Recommended Ahead of Prime Day | Insights</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-your-game-launch-errors-a-step-by-step-solution-for-granblue-fantasy-relink-issue/"><u>Fix Your Game Launch Errors: A Step-by-Step Solution for Granblue Fantasy Relink Issue</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-the-best-deal-top-rated-macbook-usb-c-chargers-under-70-available-on-amazon-insights-from-zdnet/"><u>Get the Best Deal: Top-Rated MacBook USB-C Chargers Under $70 Available on Amazon - Insights From ZDNET</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-gigabyte-z370-driver-update-for-enhanced-performance/"><u>Get the Newest Gigabyte Z370 Driver Update for Enhanced Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mac-keyboard-guide-step-by-step-process-of-reconfiguring-your-command-key/"><u>Mac Keyboard Guide: Step-by-Step Process of Reconfiguring Your Command Key</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-air-challenged-by-lgs-new-gram-pro-laptops-outperformed-in-key-areas-analysis/"><u>MacBook Air Challenged by LG's New Gram Pro Laptops, Outperformed in Key Areas Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-gaming-on-cyber-monday-with-the-huge-920-savings-on-razer-blade-14-exclusive-deal-alerts-by-zdnet/"><u>Maximize Your Gaming on Cyber Monday with the Huge $920 Savings on Razer Blade 14 - Exclusive Deal Alerts by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-best-october-2024-prime-day-like-savings-on-laptops-tips/"><u>Top Picks: Best October 2024 Prime Day-Like Savings on Laptops - Tips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-insights-setting-up-time-limited-sessions-with-obs/"><u>Ultimate Insights Setting Up Time-Limited Sessions with OBS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-truth-behind-customer-service-at-apple-stores-an-eye-opening-account-featured-in-zdnet/"><u>Unveiling the Truth Behind Customer Service at Apple Stores – An Eye-Opening Account Featured in ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-master-plan-youtube-content-into-mp4-for-2024/"><u>[New] Master Plan YouTube Content Into MP4 for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-amplifying-zoom-picture-quality-insider-secrets/"><u>2024 Approved Amplifying Zoom Picture Quality Insider Secrets</u></a></li>
+<li><a href="https://discover-best.techidaily.com/abbyy-finereader-pro-14-transforming-office-efficiency-in-managing-documents/"><u>ABBYY FineReader Pro 14 - Transforming Office Efficiency in Managing Documents</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-look-at-dji-inspire-1-explored-for-2024/"><u>Complete Look at DJI Inspire 1 Explored for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463395821-dealing-with-an-offline-find-my-iphone-explore-reasons-and-tracking-tricks-here/"><u>Dealing with an Offline Find My iPhone? Explore Reasons and Tracking Tricks Here!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-x-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone X iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-pc-voice-communication-issue-in-among-us-gameplay/"><u>Resolving the PC Voice Communication Issue in Among Us Gameplay</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/samsung-adb-driver-setup-secure-download-steps-and-tips/"><u>Samsung ADB Driver Setup: Secure Download Steps and Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175686979-toms-tech-corner-dive-into-latest-gadgets-and-hardware-reviews/"><u>Tom's Tech Corner: Dive Into Latest Gadgets and Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-microsd-memory-cards-for-optimal-raspberry-pi-performance/"><u>Top MicroSD Memory Cards for Optimal Raspberry Pi Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-3d-printing-materials-of-2024/"><u>Top Recommended 3D Printing Materials of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-quality-gaming-microphones-reviewed-and-compared/"><u>Ultimate List of Quality Gaming Microphones Reviewed and Compared</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-in-computing-with-toms-hardware-wisdom/"><u>Unlocking Performance Secrets in Computing with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-toms-equipment-analysis/"><u>Unveiling the Latest in Technology with Tom's Equipment Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-performance-in-depth-analysis-of-qidi-tech-q1-pro-audio-equipment/"><u>Unveiling the Performance: In-Depth Analysis of QIDI Tech Q1 Pro Audio Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-gear-insights-at-toms-computing-world-forums-and-reviews/"><u>Unveiling Top Gear Insights at Tom's Computing World - Forums and Reviews</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/62845710-youtube-subscriber-awards-the-play-button-awards-for-creators/"><u>YouTube Subscriber Awards! The Play Button Awards for Creators</u></a></li>
 </ul></div>
 

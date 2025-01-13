@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Tech Secrets: An In-Depth Look Into Modern Computer Components by Tom"
-date: 2024-08-19T04:02:14.671Z
-updated: 2024-08-20T04:02:14.671Z
+date: 2025-01-09T23:04:04.931Z
+updated: 2025-01-12T19:27:42.426Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  Some of her mods are fairly standard, like [KevinAkaSam’s Belt Driven Ender 3](https://www.google.com/url?q=https://kevinakasam.com/belt-driven-ender-3/&sa=D&source=editors&ust=1706372670249864&usg=AOvVaw3nEW6Jb3YCWRV5uldb65-0) , which replaced the Z rods with, you guessed it, belts. This allows the printer to run smooth, straight and precisely in sync.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,6 +47,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
 ![Monika McWuff's Floor Blower](https://cdn.mos.cms.futurecdn.net/GDgqorpMCU3Z3FUsEkxY7H-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Monika McWuff)
 
  There isn’t a lot of the original Ender 3 Pro left, just a few aluminum extrusions and part of the bed, now covered in a sheet of carbon fiber. She uses her stock Ender 3 Pro in a tented enclosure to print ABS parts for the project.
@@ -52,6 +60,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
  The hotend is especially interesting, and can [push plastic faster than silly string](https://www.google.com/url?q=https://www.youtube.com/shorts/W-j%5FVufX8Bs&sa=D&source=editors&ust=1706372670250628&usg=AOvVaw1osH1oGrtM2f44ziC2Gy4g) . It’s a Trianglelab STD6 with a ceramic heating core, two extensions and a .4 CHT Volcano nozzle. A recent test clocked the flow rate at 120mm/s³. She’s hoping to get even more out of it by switching to a CHT V6 extender and a .5 Volcano nozzle.
 
 ![Monika McWuff's Volcano Nozzle](https://cdn.mos.cms.futurecdn.net/b7sgzzmodak4xRtngW2QAL-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Monika McWuff)
 
@@ -63,14 +75,11 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  For reference, a stock [Ender 3 Pro](https://www.google.com/url?q=https://www.tomshardware.com/reviews/creality-ender-3-pro-3d-printer&sa=D&source=editors&ust=1706372670252722&usg=AOvVaw0qAFynSpm2QUCmFSp3enTG) running at it’s normal 50mm/s and using Speed Boat settings can print a Benchy in one hour and four minutes. With high-speed, Klipper firmware installed, the stock machine can comfortably run at 150mm/s and print a Benchy in 42 minutes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,8 +88,24 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-tutorial-for-apple-music-and-video-mix/"><u>[New] The Ultimate Tutorial for Apple Music & Video Mix</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-quality-display-on-a-portable-laptop-a-surprising-gem-discovered/"><u>Affordable High-Quality Display on a Portable Laptop: A Surprising Gem Discovered</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-unforgettable-experiences-for-more-subscribers-with-these-6-tips/"><u>Craft Unforgettable Experiences for More Subscribers with These 6 Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-my-experience-with-dells-premium-3k-gaming-laptop-the-game-changer-with-surprising-perks/"><u>Discover My Experience with Dell’s Premium $3K Gaming Laptop – The Game Changer with Surprising Perks!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-superior-locations-for-purchasing-youtube-ringtone-content/"><u>In 2024, Superior Locations for Purchasing YouTube Ringtone Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-solutions-for-handling-libxml2dll-not-detected-bugs-without-a-glitch/"><u>In-Depth Solutions for Handling 'Libxml2.dll Not Detected' Bugs Without a Glitch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/my-experience-swapping-my-macbook-for-a-dell-xps-15-no-regrets-gadget-review/"><u>My Experience Swapping My MacBook for a Dell XPS 15 - No Regrets! | Gadget Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-interruptions-resolving-starcraft-2-crash-issues-for-windows-users/"><u>No More Interruptions - Resolving StarCraft 2 Crash Issues for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-work-efficiency-lenovos-latest-ai-powered-thinkpads-tailored-for-modern-professionals-insights-from-zdnet/"><u>Revolutionizing Work Efficiency: Lenovo's Latest AI-Powered ThinkPads Tailored for Modern Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-paradigm-shifts-exploring-4-media-induced-changes/"><u>Social Paradigm Shifts: Exploring 4 Media-Induced Changes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-motorola-moto-g04-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Motorola Moto G04 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-16-best-hp-laptop-bargains-this-festive-season-insider-tips/"><u>Top 16 Best HP Laptop Bargains This Festive Season - Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premier-computer-mouse-mats-a-2022-review/"><u>Top 5 Premier Computer Mouse Mats - A 2022 Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-15-inch-laptops-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Rated 15-Inch Laptops : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-gaming-how-top-pc-manufacturers-innovate-with-chrome-based-devices-zdnet-insights/"><u>Transforming Gaming: How Top PC Manufacturers Innovate with Chrome-Based Devices | ZDNet Insights</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-comprehensive-analysis-of-audio-editing-software-sound-forge-edition-for-2024/"><u>Updated Comprehensive Analysis of Audio Editing Software Sound Forge Edition for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

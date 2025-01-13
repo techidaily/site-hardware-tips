@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Samsung Odyssey Neo G8 - Score It For Only $550 This Anti-Prime Day, Exclusively at Best Buy | ZDNET
-date: 2025-01-02T21:42:07.205Z
-updated: 2025-01-06T08:37:27.820Z
+date: 2025-01-09T20:35:37.318Z
+updated: 2025-01-12T22:04:09.883Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,16 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-iphone-gif-management-for-2024/"><u>[Updated] The Ultimate Guide to iPhone GIF Management for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-8-premium-complimentary-streaming-media-processors/"><u>2024 Approved 8 Premium Complimentary Streaming Media Processors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-drones-pairing-perfectly-with-gopros/"><u>Cutting-Edge Drones Pairing Perfectly with GoPros</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-apple-m3-macbook-pro-now-at-a-200-discount-in-amazons-spectacular-spring-clearance-event-tech-news/"><u>Discover the Apple M3 MacBook Pro Now at a $200 Discount in Amazon’s Spectacular Spring Clearance Event - Tech News</u></a></li>
-<li><a href="https://article-posts.techidaily.com/effective-online-channels-for-youtube-advertising/"><u>Effective Online Channels for YouTube Advertising</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-instantly-install-bcm20702a0-driver-on-windows/"><u>How to Instantly Install BCM20702A0 Driver on Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-nokia-c12-plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Nokia C12 Plus without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-story-wizardry-secrets-revealed/"><u>In 2024, Instagram Story Wizardry Secrets Revealed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/spectacular-display-and-unbeatable-deal-the-thin-and-light-notebook-you-cant-miss-exclusive-sale-alert-techreviewz/"><u>Spectacular Display & Unbeatable Deal: The Thin-and-Light Notebook You Can't Miss - Exclusive Sale Alert! | TechReviewZ</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/surprising-performance-showdown-when-microsofts-new-surface-laptop-copilotplus-pc-triumphs-over-a-macbook-air-in-multiple-areas/"><u>Surprising Performance Showdown: When Microsoft's New Surface Laptop Copilot+ PC Triumphs Over a MacBook Air in Multiple Areas</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-alienware-game-laptop-lineup-unveiled-at-ces-2023-key-features-revealed-techradar/"><u>Upcoming Alienware Game Laptop Lineup Unveiled at CES 2023 - Key Features Revealed | TechRadar</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-intuitivestepsforyoucamuseandrecording/"><u>[Updated] 2024 Approved IntuitiveStepsForYouCamUseAndRecording</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mememolding-cutter/"><u>[Updated] 2024 Approved MemeMolding Cutter</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-the-secrets-of-video-editing-on-youtube/"><u>[Updated] 2024 Approved Unveiling the Secrets of Video Editing on YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-experts-pick-essential-plugins-to-elevate-your-ae-projects-for-2024/"><u>[Updated] Expert's Pick Essential Plugins to Elevate Your AE Projects for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-performance-graphic-cards-in-2e24-the-best-picks-for-gamers-on-a-budget/"><u>Affordable High-Performance Graphic Cards in 2E24: The Best Picks for Gamers on a Budget</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-affordable-led-ram-modules-for-gamers/"><u>Best Affordable LED RAM Modules for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-pick-rp2040-based-single-board-computers-coming/"><u>Best Pick: RP2040-Based Single Board Computers Coming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-high-speed-wi-fi-routers-of-202n4-optimized-for-wi-fi-6-6e-and-future-standards-wi-fi-7/"><u>Best Value High-Speed Wi-Fi Routers of 202N4: Optimized for Wi-Fi 6, 6E and Future Standards (Wi-Fi 7)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-analysis-by-toms-guides/"><u>Comprehensive Hardware Analysis by Tom’s Guides</u></a></li>
+<li><a href="https://fox-access.techidaily.com/converting-mb-to-seconds-a-20mb-scenario/"><u>Converting MB to Seconds A 20MB Scenario</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-atandt-wireless-policies-on-roaming-services/"><u>Deciphering AT&T Wireless Policies on Roaming Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-devices-the-toms-hardware-review-series/"><u>Delving Into Devices: The Tom's Hardware Review Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-advanced-computing-with-toms-hardware-analysis/"><u>Dive Into Advanced Computing with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eliminate-invisible-anomalies-a-step-by-step-guide-to-fix-ghosts-in-3d-prints/"><u>Eliminate Invisible Anomalies: A Step-by-Step Guide to Fix Ghosts in 3D Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhanced-thermal-performance-with-eks-tailored-waterblock-solutions-for-your-amd-ryzen-am5-cpu-upgrades/"><u>Enhanced Thermal Performance with EK's Tailored Waterblock Solutions for Your AMD Ryzen AM5 CPU Upgrades</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nspr4dll-missing-or-mia-resolving-common-issues-efficiently/"><u>Nspr4.dll Missing or MIA: Resolving Common Issues Efficiently</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-and-tricks-elevating-your-images-with-text-editing/"><u>Tips & Tricks Elevating Your Images with Text Editing</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-8-downloaded-audio-tracks-capturing-natural-precipitation-sounds/"><u>Updated 2024 Approved Top 8 Downloaded Audio Tracks Capturing Natural Precipitation Sounds</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What You Need To Know About Bambu Lab's Guaranteed Enhancements in Printing Technology
-date: 2024-08-19T04:01:53.129Z
-updated: 2024-08-20T04:01:53.129Z
+date: 2025-01-06T16:15:25.057Z
+updated: 2025-01-12T18:00:41.255Z
 tags:
   - printer
 categories:
@@ -15,12 +15,20 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  We attended in person to check out all the excitement and see the latest tech and cool innovations in 3D printing for ourselves. Here are a few highlights from the Rapid + TCT 2024 event:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Elegoo boasts Centauri Carbon, Mars 5 and Orange Storm Giga
 
  Image 1 of 3
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -28,6 +36,10 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -41,6 +53,10 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Elegoo also had the impressive Orange Store Giga on display. It's the largest consumer 3D printer currently on the market, which comes with an 800 x 800 x 1000 mm build volume. The printer launched as a Kickstarter and is currently in beta testing. Tom’s Hardware has a unit in our reviewer’s living room and will release a review once pricing has been set.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Anycubic shows Photon Mono M7 and Kobra 3
 
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/GZbfPmGcPxYsBegbXPaAef-320-80.jpg)
@@ -49,9 +65,6 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Anycubic showed off its latest four-color machine, the Kobra 3, and a high-speed resin, the Photon Mono M7 Pro. For more details on features and performance, read our[Kobra 3](https://www.tomshardware.com/3d-printing/anycubic-kobra-3-review) review.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,30 +75,29 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  The Photon Mono M7 Pro is a promising large-format resin machine with a 10-inch light source and 14k resolution. It’s also self-leveling, has a plethora of sensors, and has a tempting sale price of $499\. This machine is currently under review, and we’ll have more details on its performance shortly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Bambu Lab: Nothing New
 
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/hgtGFEzAu9a8CMtvExhcLF-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Bambu Lab may have has suffered a setback from their[A1 recall](https://www.tomshardware.com/3d-printing/bambu-lab-a1-recall-company-asks-owners-to-turn-off-their-3d-printers-as-micro-center-pulls-product-from-shelves) . They did not have any new machines to present, but did showcase the revamped A1 alongside the A1 Mini and X1 Carbon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Creality brings out the K2 Plus
 
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/p374ZNnLKuMUM4Qb6WUqTk-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  We were eager to see the new K2 Plus, Creality’s entry in the color FDM race. However, the machine was demoing a single-color print, which suggests their CFS (Creality Filament System) is not ready for prime time. The combo unit is currently available to order for $1,499 and is slated to ship in October. Reviewers have been promised sample units in August, so we’ll keep you posted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prusa courts the industrial user with its Pro HT90
 
@@ -93,16 +105,10 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -113,31 +119,19 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  The Prusa team also had on display its well-known consumer units, the MK4, XL and Mini. The MK4 and XL are both exceptional printers with places on our list of[Best 3D Printers](https://www.tomshardware.com/best-picks/best-3d-printers#section-fastest-3d-printer) .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Formlabs demos Professional Resin
 
  Image 1 of 3
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -161,6 +155,10 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Polymaker has thrown down the gauntlet with the announcement of its 160-color Panchroma lineup of PLA. The company claims it will have the world’s largest library of colors and surface effects, with filament going on sale later this summer. All Panchroma colors will be high-speed PLA, capable of keeping up with the tread of newer, faster 3D printers.
@@ -177,8 +175,6 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +182,20 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-essence-of-whatsapp-call-conversations/"><u>[New] 2024 Approved The Essence of WhatsApp Call Conversations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ebating-platform-preferences-igtv-versus-youtube-video-sharing-for-2024/"><u>[New] Debating Platform Preferences IGTV Versus YouTube Video Sharing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-1-to-10-superior-4k-screen-selections/"><u>[New] In 2024, 1 to #10 Superior 4K Screen Selections</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-decelerating-music-dynamics-step-by-step-guide-in-premiere-pro-for-2024/"><u>[Updated] Decelerating Music Dynamics Step-by-Step Guide in Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-mount-tech-for-smooth-sensor-motion/"><u>[Updated] Innovative Mount Tech for Smooth Sensor Motion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tactics-to-triumph-secrets-of-successful-social-media-videos/"><u>[Updated] Tactics to Triumph Secrets of Successful Social Media Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-obvious-discovering-an-exceptional-productivity-powerhouse-thats-neither-lenovo-nor-macbook-insights-from-zdnet/"><u>Beyond the Obvious: Discovering an Exceptional Productivity Powerhouse That's Neither Lenovo nor MacBook | Insights From ZDNET</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-game-crashing-centipede-error-in-destiny/"><u>Overcoming the Game-Crashing Centipede Error in Destiny</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-exacting-windows-ram-type-identification/"><u>Step-by-Step: Exacting Windows RAM Type Identification</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-touchscreen-laptop-showdown-in-depth-reviews-and-ratings-curated-professionals/"><u>Ultimate Touchscreen Laptop Showdown: In-Depth Reviews & Ratings Curated Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-powerhouse-performance-with-the-hp-omen-gaming-pc-secure-up-to-550-off-in-this-exclusive-flash-sale-by-zdnet/"><u>Unleash Powerhouse Performance with the HP Omen Gaming PC | Secure Up to $550 Off in This Exclusive Flash Sale by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-lenovos-transformative-laptoptablet-hybrid-exceptional-potential-for-a-seamless-experience-zdnet/"><u>Unveiling Lenovo's Transformative Laptop/Tablet Hybrid: Exceptional Potential for a Seamless Experience | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-nearly-ideal-portable-powerhouse-the-new-lenovo-thinkpad-a-comprehensive-review-by-zdnet/"><u>Unveiling the Nearly Ideal Portable Powerhouse: The New Lenovo ThinkPad - A Comprehensive Review by ZDNet</u></a></li>
+</ul></div>
 

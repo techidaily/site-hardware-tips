@@ -1,7 +1,7 @@
 ---
 title: "The Best Raspberry Pi HAT Selections of the Year: Find Your Perfect 2024 Add-On Solution!"
-date: 2024-08-23T12:57:00.428Z
-updated: 2024-08-24T12:57:00.428Z
+date: 2025-01-05T17:27:10.346Z
+updated: 2025-01-12T22:46:08.418Z
 tags:
   - best-picks
 categories:
@@ -21,6 +21,10 @@ For a college student, there is no more important tool than a laptop. It's a cat
   
  Also, don't forget get whatever student discounts are available. Many vendors may give you some percentage off, a gift card, or a free extra when you can prove that you're a student, either with a .edu email address or a college ID card.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Quick College Laptop Shopping Tips
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -38,10 +42,9 @@ For a college student, there is no more important tool than a laptop. It's a cat
  The MacBook Air with M2 is the best college laptop you can buy with a thin design and plenty of power.  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [1. MacBook Air (M2)](https://www.tomshardware.com/reviews/apple-macbook-air-m2-2022)
 
 Popular in the Lecture Hall
@@ -125,13 +128,11 @@ Display notch will bother some people
 ![MacBook Air (15-inch)](https://cdn.mos.cms.futurecdn.net/UDoAbddJqaTrP6izFdnHC-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### [2. MacBook Air (15-inch)](https://www.tomshardware.com/reviews/macbook-air-15-inch-m2)
 
 Bigger screen, better speakers
@@ -196,6 +197,10 @@ M2 allows for just one external display
 
 ![HP Pavilion Plus (14-eh0097nr)](https://cdn.mos.cms.futurecdn.net/CLE6RyXdXug55sCbreZT4D-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The HP Pavilion Plus 14 is one of the best college laptops thanks to top tier screen specs at a good price.  (Image credit: Tom's Hardware)
 
 ### [3. HP Pavilion Plus 14](https://www.tomshardware.com/reviews/hp-pavilion-plus-14)
@@ -258,9 +263,6 @@ Lots of pre-loaded software
 
 ![Lenovo Yoga 9i Gen 8](https://cdn.mos.cms.futurecdn.net/crqHCD8yzziQKcv75mx5X4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  The Lenovo Yoga 9i is one of the best college laptops with great sound and a variety of ports.  (Image credit: Tom's Hardware)
 
 ### [4. Lenovo Yoga 9i (Gen 8)](https://www.tomshardware.com/reviews/lenovo-yoga-9i-gen-8)
@@ -335,7 +337,15 @@ Loud fans
 
 ![Microsoft Surface Pro 9 (SQ3)](https://cdn.mos.cms.futurecdn.net/EidfnU4aQkBJYZNrtyDiu3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [5. Microsoft Surface Pro 9](https://www.tomshardware.com/reviews/microsoft-surface-pro-9-sq3-arm)
 
@@ -403,11 +413,12 @@ Keyboard adds a lot to the starting price
 
 ![Acer Nitro 5 (2022)](https://cdn.mos.cms.futurecdn.net/JkffBxR9pgpZeYTCtnEgFG-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [6. Acer Nitro 5](https://www.tomshardware.com/reviews/acer-nitro-5-2022-review-gaming-under-dollar1000)
 
 For Budget College Gamers
@@ -528,10 +539,11 @@ Port selection could be better
 
 ![Asus ROG Zephyrus G14](https://cdn.mos.cms.futurecdn.net/uygXtWBTEyYRsMrbDLLHcH-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [8. Asus ROG Zephyrus G14](https://www.tomshardware.com/reviews/asus-rog-zephyrus-g14-amd-ryzen-6900hs-radeon-rx-6800s)
 
@@ -599,13 +611,6 @@ Pricey
   
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Finding Discounts on the Best College Laptops
 
  Whether you're shopping for one of the best gaming laptops or another model that didn't quite make our list, you may find some savings by checking out our lists of[Dell coupon codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fdell.com) ,[HP coupon codes](https://www.tomshardware.com/coupons/hp.com) ,[Lenovo coupon codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Flenovo.com) ,[Razer promo codes](https://www.tomshardware.com/coupons/razer.com) or[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) .
@@ -620,9 +625,6 @@ Round up of today's best deals
 
 [![Apple - MacBook Air 13.6"...](https://images.fie.futurecdn.net/hh3xtiyvqrmx3xkj-16681794209212.jpg "Apple - MacBook Air 13.6"...")](https://images.fie.futurecdn.net/hh3xtiyvqrmx3xkj-16681794209212.jpg "Apple - MacBook Air 13.6"...") ](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 [Apple MacBook Air M2 2022](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)
 
 [Best Buy](https://images.fie.futurecdn.net/logos/merchants/ns2bwjiwdvqv2pfx-16049184768113-100-80.png "Best Buy") ](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)
@@ -721,16 +723,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -739,4 +736,20 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-visual-storytelling-adding-context-to-your-pictures-through-text/"><u>[New] Perfecting Visual Storytelling Adding Context to Your Pictures Through Text</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-effortless-pathways-to-scour-for-mass-video-downloads-on-tiktok/"><u>[Updated] 2024 Approved Effortless Pathways to Scour for Mass Video Downloads on TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/frozen-frenzy-2022s-ultimate-showdown-on-snowy-olympic-rivers-for-2024/"><u>Frozen Frenzy 2022'S Ultimate Showdown on Snowy Olympic Rivers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-savings-your-go-to-msi-laptop-for-hardcore-gamers-now-drops-by-a-steep-550/"><u>Get Ready for Savings! Your Go-To MSI Laptop for Hardcore Gamers Now Drops by a Steep $550.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/head-to-head-showdown-how-the-dell-xps-1-crushes-competition-against-macbook-pro-cnet-review/"><u>Head-to-Head Showdown: How the Dell XPS 1# Crushes Competition Against MacBook Pro | CNET Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-freeze-flaws-in-adobes-pc-artist-suite/"><u>Mending Freeze Flaws in Adobe's PC Artist Suite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-tech-choices-a-deep-dive-into-apples-top-tier-tablet-versus-macbook-alternatives/"><u>Navigating Tech Choices: A Deep Dive Into Apple's Top-Tier Tablet Versus MacBook Alternatives</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-gfx-210-driver-enhancement-on-w10-os/"><u>NVIDIA GFX-210 Driver Enhancement on W10 OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-2-in-1-laptop-review-surprising-non-hp-non-lenovo-contender-unveiled-on-zdnet/"><u>Top 2-in-1 Laptop Review: Surprising Non-HP, Non-Lenovo Contender Unveiled on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-best-parent-control-solutions-for-internet-safety/"><u>Top 8 Best Parent Control Solutions for Internet Safety</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-laptop-supports-comprehensive-guide-insights-from-zdnet/"><u>Top Rated Laptop Supports - Comprehensive Guide : Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/uncovering-the-excellence-of-linksys-wrt3200acm-the-superior-open-source-wifi-router-on-the-market/"><u>Uncovering the Excellence of Linksys WRT3200ACM – The Superior Open Source WiFi Router on the Market</u></a></li>
+</ul></div>
 

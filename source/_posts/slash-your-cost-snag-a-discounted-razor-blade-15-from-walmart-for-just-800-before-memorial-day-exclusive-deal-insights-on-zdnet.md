@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights on ZDNet"
-date: 2024-12-30T22:56:18.693Z
-updated: 2025-01-05T20:10:42.074Z
+date: 2025-01-10T02:13:37.539Z
+updated: 2025-01-12T19:39:54.963Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-3-pro-level-plans-to-preserve-precise-gaming-moments-for-2024/"><u>[New] 3 Pro-Level Plans to Preserve Precise Gaming Moments for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-precision-subtitle-tweaking-for-the-mac-pro-user/"><u>[New] Precision Subtitle Tweaking for the Mac Pro User</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-vocal-variations-for-stories-and-reels-an-instagram-expertise/"><u>[Updated] In 2024, Vocal Variations for Stories and Reels – An Instagram Expertise</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-social-media-success-rising-through-the-facebook-leaderboard-for-2024/"><u>[Updated] Unlocking Social Media Success Rising Through the Facebook Leaderboard for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/ace-your-earnings-game-in-youtube-shorts-for-2024/"><u>Ace Your Earnings Game in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/acer-nitro-5-gaming-laptop-sale-slash-rs-250-off-now-at-zdnet/"><u>Acer Nitro 5 Gaming Laptop Sale - Slash Rs. 250 Off Now at ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-mastering-the-art-of-web-site-pinging/"><u>Complete Guide: Mastering the Art of Web Site Pinging</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-next-level-immersion-with-game-sound-systems-now-150-cheaper-highly-rated-and-featured-by-tech-experts-at-zdnet/"><u>Experience Next-Level Immersion with Game Sound Systems Now $150 Cheaper | Highly Rated & Featured by Tech Experts at ZDNET</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/explore-15-exceptional-vr-cam-solutions-like-gopro-for-2024/"><u>Explore 15 Exceptional VR Cam Solutions Like GoPro for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-web-based-converter-para-arquivos-mxf-movavi/"><u>Free Web-Based Converter Para Arquivos MXF - Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-a-stunning-dell-inspiron-16-up-to-250-off-exclusive-black-friday-sale/"><u>Get Your Hands on a Stunning Dell Inspiron 16 - Up to $250 Off: Exclusive Black Friday Sale!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-wont-hibernate-drain-issues-affecting-performance-discover-the-solution-in-this-trusted-utility-endorsed/"><u>MacBook Won't Hibernate? Drain Issues Affecting Performance? Discover the Solution in This Trusted Utility, Endorsed !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-an-unbeatable-price-on-the-hp-victus-15-top-deals-at-under-450-during-best-buys-prime-day-sale-insights-by-zdnet/"><u>Score an Unbeatable Price on the HP Victus 15: Top Deals at Under $450 During Best Buy's Prime Day Sale - Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-discounted-hp-victus-15-for-just-515-exclusive-black-friday-at-best-buy-revealed-by-zdnet/"><u>Secure Your Discounted HP Victus 15 for Just $515 – Exclusive Black Friday at Best Buy Revealed by ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-top-virtual-reality-offer-metas-limited-time-promotion-on-the-high-capacity-quest-3-exclusive/"><u>Snag The Top Virtual Reality Offer: Meta's Limited-Time Promotion on the High-Capacity Quest ^3 Exclusive</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-efficient-mobile-methods-for-snapchat-archive/"><u>[New] Efficient Mobile Methods for Snapchat Archive</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-visual-vibrance-essential-gadgets-for-video-for-2024/"><u>[New] Visual Vibrance Essential Gadgets for Video for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-essential-11-guides-on-color-adjustment-excellence/"><u>[Updated] 2024 Approved Essential 11 Guides on Color Adjustment Excellence</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-tricks-for-snagging-youtube-dialogues/"><u>[Updated] 2024 Approved Tricks for Snagging YouTube Dialogues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-discover-the-power-of-dual-screen-viewing-a-complete-guide-for-netflix-users-for-2024/"><u>[Updated] Discover the Power of Dual-Screen Viewing - A Complete Guide for Netflix Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images-for-2024/"><u>[Updated] From Novice to Pro Your Step-by-Step Guide to YouTube Live Images for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-understanding-youtubes-rating-mechanism-nuances/"><u>[Updated] In 2024, Understanding YouTube's Rating Mechanism Nuances</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-improved-zoom-video-quality/"><u>[Updated] The Ultimate Guide to Improved Zoom Video Quality</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-nord-ce-3-lite-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus Nord CE 3 Lite 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 12 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-best-value-3d-printing-offers-of-2024/"><u>Top 5 Best Value 3D Printing Offers of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-hard-drives-of-2024-ultimate-guide-for-desktops-and-nas-solutions/"><u>Top Pick Hard Drives of 2024: Ultimate Guide for Desktops & NAS Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-reviews-of-the-silent-and-mighty-hyte-thicc-q60-240mm-aio-liquid-cpu-cooler/"><u>Top Reviews of the Silent and Mighty Hyte THICC Q60 240Mm AIO Liquid CPU Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-pcs-airflow-opt-for-cooler-masters-advanced-dual-fan-graphics-card-solution/"><u>Transform Your PC's Airflow: Opt for Cooler Master's Advanced Dual-Fan Graphics Card Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-powerful-overclocking-cooler-masters-advanced-aio-and-air-coolers-surpass-300w-heat-dissipation/"><u>Unleash Powerful Overclocking: Cooler Master's Advanced AIO & Air Coolers Surpass 300W Heat Dissipation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-hardware-secrets-with-tom-a-buyers-resource-for-technology-gear/"><u>Unlocking Hardware Secrets with Tom: A Buyer's Resource for Technology Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-flsun-s1-a-comprehensive-review-of-its-rapid-warping-and-innovative-delta-design/"><u>Unveiling the FLSun S1: A Comprehensive Review of Its Rapid-Warping and Innovative Delta Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-wisdom/"><u>Unveiling the Latest Gadgets with Tom's Hardware Wisdom</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: My Experience with the New Apple M2 MacBook Air - Tears of Joy or Frustration? A Deep Dive
-date: 2025-01-01T01:59:48.856Z
-updated: 2025-01-05T22:55:17.091Z
+date: 2025-01-09T02:47:50.620Z
+updated: 2025-01-12T20:31:21.989Z
 tags:
   - laptops
 categories:
@@ -22,16 +22,12 @@ Cliff Joseph/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 How often can a gadget make you confront your own weaknesses, especially the lies you tell yourself?
@@ -45,7 +41,7 @@ Until I'm sure I don't just want it, but need it.
 Oh, all right, I may occasionally have a flexible definition of _need_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The weakness. I just can't bear the weakness
@@ -64,6 +60,10 @@ But the M2 MacBook Air seemed to represent a departure from the old Air design. 
 
 There were two things I kept staring at: the midnight color and the new, non-tapered shape.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best MagSafe accessories: Top choices for the iPhone 12 and 13 Want to try the iPhone's MagSafe tech but not sure where to start? We'll show you some of our favorite accessories thus far.  Read now](https://www.zdnet.com/article/best-magsafe-accessory/)
@@ -78,12 +78,16 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured reviews
@@ -118,10 +122,6 @@ But no tale this positive has a happy ending.
 So, as I write this, I'm staring into space, blaring at myself for being so impulsive.
 
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -169,22 +169,17 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-crafting-high-quality-igtv-footage-on-smartphonesdslrs/"><u>[New] 2024 Approved Crafting High-Quality IGTV Footage on Smartphones/DSLRs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-leverage-youtubes-potential-through-strategic-backlinking/"><u>[Updated] Leverage YouTube's Potential Through Strategic Backlinking</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-love-in-action-top-9-premium-wedding-films-on-youtube-and-vimeo-for-2024/"><u>[Updated] Love in Action Top 9 Premium Wedding Films on YouTube and Vimeo for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-motivating-hr-chronicles-the-best-ten-vids-for-2024/"><u>[Updated] Motivating HR Chronicles - The Best Ten Vids for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/beginning-languages-adventure-resolution-of-2024/"><u>Beginning Languages Adventure: Resolution of 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/best-10-tools-for-stunning-insta-grid-designs/"><u>Best 10 Tools for Stunning Insta Grid Designs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-productivity-with-swift-the-power-of-macos-spotlight-suggestions-unveiled/"><u>Boost Your Productivity with Swift: The Power of macOS Spotlight Suggestions Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-blend-how-chromeos-now-mirrors-windows-11-functionality-for-a-seamless-user-experience-techtrends/"><u>Discover the Blend: How ChromeOS Now Mirrors Windows 11 Functionality for a Seamless User Experience | TechTrends</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-razr-40-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Razr 40? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-laptop-release-how-hp-outshines-apple-with-bold-new-strategy-insights/"><u>Innovative Laptop Release: How HP Outshines Apple with Bold New Strategy - Insights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-technical-hurdles-of-freesync/"><u>Overcoming Technical Hurdles of FreeSync</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rebinding-the-command-key-on-apples-latest-mac-models-easy-tutorial-from-zdnet/"><u>Rebinding the Command Key on Apple's Latest Mac Models – Easy Tutorial From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/scarce-deal-alert-samsungs-8tb-portable-ssd-holds-a-steady-36-discount-on-amazon-post-prime-day-insights/"><u>Scarce Deal Alert: Samsung's 8TB Portable SSD Holds a Steady 36% Discount on Amazon Post-Prime Day – Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-clutter-discover-the-ultimate-11-in-1-docking-station-at-a-44-discount-insights-from-zdnet/"><u>Slash Your Clutter: Discover the Ultimate 11-in-1 Docking Station at a 44% Discount - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/todays-agenda-accessing-the-microsoft-ai-showcase-on-surface-and-windows-what-you-need-to-know-for-future-tech-trends/"><u>Today's Agenda: Accessing the Microsoft AI Showcase on Surface and Windows – What You Need To Know for Future Tech Trends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-student-friendly-chromebook-picks-in-depth-reviews-and-comparison-by-experts-zdnet/"><u>Top-Rated Student-Friendly Chromebook Picks: In-Depth Reviews & Comparison by Experts - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-critique-unveiling-the-truth-about-microsoft-surface-laptop-n-a-balanced-review-beyond-madness/"><u>ZDNET Critique: Unveiling the Truth About Microsoft Surface Laptop N – A Balanced Review Beyond Madness</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instagrams-secure-livestream-your-silent-journey/"><u>[New] Instagram's Secure Livestream Your Silent Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopro-hero-10-secrets-for-flawless-long-exposure-films/"><u>2024 Approved GoPro Hero 10 Secrets for Flawless Long-Exposure Films</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-insights-from-toms-computer-and-peripherals-blog/"><u>Comprehensive Hardware Insights From Tom's Computer & Peripherals Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-the-new-standard-of-overclocking-with-id-coolings-frozn-a620-pro-se-ultimate-value-for-gamers-and-enthusiasts/"><u>Comprehensive Review: The New Standard of Overclocking with ID-Cooling's Frozn A620 Pro SE - Ultimate Value for Gamers and Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/direct-die-and-grizzly-heatsinks-an-admission-of-error-by-der8auer/"><u>Direct Die and Grizzly Heatsinks – An Admission of Error by Der8auer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ek-direct-die-aio-cooler-delivers-stellar-performance-boost-your-13900ks-with-up-to-20-degrees-of-improved-cooling-efficiency/"><u>EK Direct Die AiO Cooler Delivers Stellar Performance: Boost Your 13900KS with Up to 20 Degrees of Improved Cooling Efficiency</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/enhancing-accessibility-documenting-computer-audio-in-audacity-for-2024/"><u>Enhancing Accessibility Documenting Computer Audio in Audacity for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-computer-hardware-by-tom/"><u>Expert Analysis of Computer Hardware by Tom</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-key-strategies-for-high-definition-iptv-logging/"><u>In 2024, Key Strategies for High-Definition IPTV Logging</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/industry-standards-selecting-prime-gear-for-ultimate-4k-results/"><u>Industry Standards Selecting Prime Gear for Ultimate 4K Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-efficiency-installing-windows-11-on-workstation-17/"><u>Unlocking Efficiency: Installing Windows 11 on Workstation 17</u></a></li>
 </ul></div>
 

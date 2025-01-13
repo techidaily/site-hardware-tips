@@ -1,7 +1,7 @@
 ---
 title: In-Depth Reviews & Gadget Guides by Tom's Hardware Experts 📱 | Tom's Hardware
-date: 2024-08-19T04:00:39.369Z
-updated: 2024-08-20T04:00:39.369Z
+date: 2025-01-10T21:07:26.802Z
+updated: 2025-01-12T21:34:43.491Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,22 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-instant-luxury-iphones-extended-shutter-mastery/"><u>[New] 2024 Approved Instant Luxury IPhone's Extended Shutter Mastery</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-8-exceptional-mirrorless-cameras-for-vloggers/"><u>[New] Unveiling 8 Exceptional Mirrorless Cameras for Vloggers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-ultimate-review-why-dells-newest-xps-lineup-excels-in-performance-and-style-insights-from-a-tech-guru/"><u>1. Ultimate Review: Why Dell's Newest XPS Lineup Excels in Performance & Style - Insights From a Tech Guru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/15-gaming-laptop-at-just-515-best-sale-at-best-buy-techspot/"><u>15 Gaming Laptop at Just $515 - Best Sale at Best Buy | TechSpot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adapting-office-technology-the-future-of-work-devices-in-an-age-of-artificial-intelligence-insights-from-zdnet/"><u>Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-latest-offer-get-the-ultimate-game-sound-experience-for-half-off-discover-the-best-gaming-speaker-system-now-at-zdnet/"><u>Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-2024-bargains-at-best-buy-top-picks-and-last-minute-savings/"><u>Exclusive October Prime Day 2024 Bargains at Best Buy: Top Picks & Last-Minute Savings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-future-with-lenovos-premium-thinkpad-x13s-unveiling-arm-powered-ultraportable-tech-enhanced-by-5g-and-extended-battery-life-zdnet-insights/"><u>Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life | ZDNet Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-lava-blaze-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Lava Blaze Pro 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-micro-scripted-movie-plot/"><u>In 2024, Micro-Scripted Movie Plot</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-realms-of-play-top-10-costless-online-roleplayers/"><u>In 2024, Realms of Play Top 10 Costless Online Roleplayers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-oculus-graphics-card-compatibility-problems-swiftly/"><u>Overcoming Oculus Graphics Card Compatibility Problems Swiftly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-apples-m3-series-key-insights-before-your-purchase-decision-zdnet/"><u>Understanding Apple’s M3 Series: Key Insights Before Your Purchase Decision | ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c02-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C02 Device</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-11-8/"><u>Windows 11遗失文件夹修复技巧 | 详解8个解决策略</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

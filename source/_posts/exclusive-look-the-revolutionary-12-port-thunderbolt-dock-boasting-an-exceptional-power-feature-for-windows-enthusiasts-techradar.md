@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look: The Revolutionary 12-Port Thunderbolt Dock Boasting an Exceptional Power Feature for Windows Enthusiasts | TechRadar"
-date: 2025-01-03T16:16:19.467Z
-updated: 2025-01-06T11:55:26.879Z
+date: 2025-01-06T17:27:33.572Z
+updated: 2025-01-12T19:41:42.096Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cde8d55d1-86d7-400d-9731-1d1296ca9684%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,19 +149,15 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-hasty-heists-of-history-recovering-deleted-reddit-posts-for-2024/"><u>[New] Hasty Heists of History Recovering Deleted Reddit Posts for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/best-7-fixes-for-your-ipads-connection-issues-with-itunes/"><u>Best 7 Fixes for Your iPad's Connection Issues with iTunes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-innovative-swivel-design-a-firsthand-look-at-their-cutting-edge-laptop-unveiled-at-ifa-202/"><u>Experiencing Lenovo's Innovative Swivel Design: A Firsthand Look at Their Cutting-Edge Laptop Unveiled at IFA 202</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-advice-on-fixing-recurrerent-graphics-driver-glitches/"><u>Expert Advice on Fixing Recurrerent Graphics Driver Glitches</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-honor-x8b-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Honor X8b Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions/"><u>In 2024, Comprehensive Approach to Integrating Whiteboards in Zoom Sessions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-recording-internet-radios-simplified-tips-and-tricks/"><u>In 2024, Recording Internet Radios Simplified Tips and Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-apples-top-charging-station-picks-limited-time-60-off-deal-alert-trusted-tips/"><u>Score Big Savings on Apple's Top Charging Station Picks, Limited-Time $60 Off Deal Alert | Trusted Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/syncing-fb-vids-with-whatsapp-a-step-by-step-guide-for-2024/"><u>Syncing FB Vids with WhatsApp A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-power-bank-for-your-laptop-at-a-steep-discount-quality-assurance-through-the-years/"><u>Top-Rated Power Bank for Your Laptop at a Steep Discount: Quality Assurance Through the Years</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-audio-issues-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Audio Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-for-tech-lovers-save-a-whopping-250-on-the-sleek-dell-inspiron-16-inch-2-in-1-notebook-this-black-friday-zdnet/"><u>Unmissable Deal Alert for Tech Lovers! Save a Whopping $250 on the Sleek Dell Inspiron 16-Inch 2-in-1 Notebook This Black Friday | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-release-apple-prepares-to-unveil-new-macbook-air-and-ipad-models-by-march-latest/"><u>Upcoming Release: Apple Prepares to Unveil New MacBook Air & iPad Models by March - Latest</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterpiece-models-best-of-the-computer-world/"><u>[Updated] Masterpiece Models Best of the Computer World</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-the-secrets-to-perfect-thumbnails/"><u>[Updated] Unlocking the Secrets to Perfect Thumbnails</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/iphonewindows-114/"><u>将iPhone数据转移到Windows 11平台——顶级4技巧🔥🔥</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/beyond-the-basics-embedding-platforms-reviewed/"><u>Beyond the Basics Embedding Platforms Reviewed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/champion-for-photo-data-rescue/"><u>Champion for Photo Data Rescue</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-a-comprehensive-overview-of-multiscreen-streaming-techniques-on-social-media-platforms-like-facebook/"><u>In 2024, A Comprehensive Overview of Multiscreen Streaming Techniques on Social Media Platforms Like Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-underdog-victory-from-crowdfunding-success-to-corporate-integration-story/"><u>The Underdog Victory: From Crowdfunding Success to Corporate Integration Story</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/thermalright-phantom-spirit-120-evo-assessment-a-domination-not-just-a-contest/"><u>Thermalright Phantom Spirit 120 EVO Assessment: A Domination, Not Just a Contest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-unveiling-the-latest-hardware-innovations/"><u>Tom's Computer Gear: Unveiling the Latest Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-computer-reviews-and-news/"><u>Tom's Tech Hub: In-Depth Computer Reviews and News</u></a></li>
 </ul></div>
 

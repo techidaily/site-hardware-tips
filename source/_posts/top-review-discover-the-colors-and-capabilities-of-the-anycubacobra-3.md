@@ -1,7 +1,7 @@
 ---
 title: "Top Review: Discover the Colors and Capabilities of the Anycubacobra 3"
-date: 2024-08-23T12:57:29.665Z
-updated: 2024-08-24T12:57:29.665Z
+date: 2025-01-09T22:40:29.392Z
+updated: 2025-01-13T03:26:42.220Z
 tags:
   - printer
 categories:
@@ -40,6 +40,10 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 | **Machine Footprint**      | 735 x 640 x 740 mm (28.9x25.1 x 29.1inches)   |
 | **Machine Weight**         | 21 KG (46.3 lbs)                              |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Included in the box: Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4ZsPyqu2r2NYMAn7fDRKMC-320-80.jpg)
@@ -50,37 +54,29 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  There’s a paper copy of the quick start guide to help you build the printer. The printer has sample models in the memory, and the UBB card has a PDF copy of the manual, Anycubic Slicer and a profile for PLA to get you started.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Assembling the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4Hz6pRRyeuh3iXnHHtfBiC-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Despite the size, the Kobra 2 Max is easy to assemble. It ships mostly assembled in two large sections and only needs a handful of screws and bolts to assemble. Four bolts hold the gantry in place, then a brace is attached from the top of the machine to the back. A few more screws attach the touch screen, while the spool holder snaps onto the base.
 
  Please note, the Kobra 2 Max has two Y axis belts. You’ll want to make sure each belt has about the same amount of tension for smooth printing. It takes about 30 minutes to carefully assemble.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Leveling the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/KP58JTX4y2LWi7y8a7NA5D-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Anycubic Kobra 2 Max has the same bed leveling sensors as the[Kobra 2,](https://www.tomshardware.com/reviews/anycubic-kobra-2) which not only levels the bed but also set the Z height. There are no knobs for manual tramming, leaving everything to the automatic sensor. If the Z height is not perfect – and our machine was low in the lower left corner – you don’t have much recourse. I had to shim the bed with a few Post It Notes to get the entire bed level.
 
  To level the bed, select Control → Auto-level. The machine will home itself, preheat and then double tap 49 spots in a grid across the bed surface.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Loading Filament in the Anycubic Kobra 2 Max
 
@@ -109,13 +105,16 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
  The touch screen is the same 4.3-inch display Anycubic has used for the last several years. The menu is still very easy to navigate for beginners, with options in logical locations.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Preparing Files / Software
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4GQbb2fqoUPZGRxNwHD5XC-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -131,9 +130,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/vqVf7UjaTFCF99ALVeRU9C-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
 
  All that build plate was begging for something huge to print, so I printed a giant rubber duck out of PLA – if you have kids, you’ll understand weird requests. This is when I learned that speed and large prints do not mix, as it layer-shifted (see how to[avoid layer shifting on your 3D prints](https://www.tomshardware.com/3d-printing/how-to-avoid-3d-printer-layer-shifting) ) after getting over a kilo of PLA on the bed. I slowed down the overly optimistic travel speeds and got a fairly decent print if you don’t look too hard at the Z seam, which is still a mess.
@@ -142,20 +138,25 @@ The powerful video editing program for your Windows PC</a>
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/N6QEzKnBBdR9ZMvGotUjmB-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [_Rubber Duck_](https://www.thingiverse.com/thing:4820726) _by Chr5500_  (Image credit: Tom's Hardware)
 
  Next up was a practical print: a clip for a bike air pump. This was made in Tinkercad to custom fit the bike frame and the size of the pump. The print turned out wonderfully smooth with no stringing. 42 minutes and 12 seconds, at a .2 layer height and 230 mm/s. I printed it in[Greengate recycled Purple Reign PETG.](https://greengate3d.com/products/purple-reign-pet-g-filament)
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/R9reT9ueiTZtVy3HT2GJGD-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
 
  TPU was less successful. On this vase mode print, it started off very smooth and clear, but then started to under extrude as the layers took less time to complete. This was printed at a 100 mm/s speed using a .28 layer height, and took 1 hour and 37 minutes to print.
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/FhGsvg7cncbhfEtsgT7EtC-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [_Vase Mode Ship_](https://www.printables.com/model/235746) _, by LJ Prints_  (Image credit: Tom's Hardware)
 
@@ -169,14 +170,11 @@ _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
 
  If you want a massive printer that works great out of the box, the[Elegoo Neptune 3 Max](https://www.tomshardware.com/reviews/elegoo-neptune-3-max) is still your best bet, and quite a steal at $409\. It remains our[Editor's choice for large format printers.](https://www.tomshardware.com/best-picks/best-3d-printers#section-best-for-props-and-cosplay)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,4 +183,21 @@ _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-a-step-by-step-approach-to-editing-titles-and-descriptions-for-igtv/"><u>[New] 2024 Approved A Step-by-Step Approach to Editing Titles and Descriptions for IGTV</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-insta-reels-with-tiktok-techniques-for-massive-shares/"><u>[New] 2024 Approved Mastering Insta Reels with TikTok Techniques for Massive Shares</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs-for-2024/"><u>[New] Achieving Broadcast Excellence From Recordings to Livestreams on OBS for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-conquer-profits-on-the-go-youtube-studio-monetization-explained/"><u>[Updated] 2024 Approved Conquer Profits On-the-Go YouTube Studio Monetization Explained</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-highest-rated-10-online-subtitle-tools/"><u>[Updated] Highest-Rated 10 Online Subtitle Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-choosing-a-superior-lenovo-laptop-professional-insights-and-reviews-toms-hardware/"><u>2024'S Ultimate Guide to Choosing a Superior Lenovo Laptop: Professional Insights and Reviews - Tom’s Hardware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-breakthroughs-set-to-amplify-capabilities-of-m4-ipad-pro-announced-for-worldwide-developers-conference-showcase-tech-analysis/"><u>AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-this-miniature-chromebook-outshines-in-flexibility-insiders-review/"><u>Discover How This Miniature Chromebook Outshines in Flexibility - Insider's Review !</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discover-the-ultimate-list-of-accessible-turkish-shows-in-2er-featuring-english-dubs-for-non-turkish-speakers-insights/"><u>Discover the Ultimate List of Accessible Turkish Shows in 2Er, Featuring English Dubs for Non-Turkish Speakers - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-get-your-hands-on-a-discounted-8tb-samsung-t5-ssd-during-amazon-october-prime-day/"><u>Don't Miss Out! Get Your Hands on a Discounted 8TB Samsung T5 SSD During Amazon October Prime Day</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/professionelle-anleitung-fur-die-aufrustung-der-ssd-in-deinem-hp-omen-30l/"><u>Professionelle Anleitung Für Die Aufrüstung Der SSD in Deinem HP Omen 30L</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options-for-2024/"><u>Step-by-Step to Mastering Adobe's Cloud Storage Capabilities & Options for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ipad-pro-usb-c-hub-unveiled-by-zdnet-a-must-have-accessory-when-you-need-it-most/"><u>Top iPad Pro USB-C Hub Unveiled by ZDNet: A Must-Have Accessory When You Need It Most</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-bargain-hunting-top-scooping-tips-before-prime-day-2024-insights/"><u>Ultimate Bargain Hunting: Top Scooping Tips Before Prime Day 2024 - Insights</u></a></li>
+</ul></div>
 

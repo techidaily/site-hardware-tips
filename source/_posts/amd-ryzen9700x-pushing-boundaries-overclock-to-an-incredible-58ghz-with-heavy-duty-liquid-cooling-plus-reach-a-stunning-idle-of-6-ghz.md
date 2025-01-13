@@ -1,7 +1,7 @@
 ---
 title: "AMD Ryzen^9700X Pushing Boundaries: Overclock to an Incredible 5.8GHz with Heavy Duty Liquid Cooling, Plus Reach a Stunning Idle of 6 GHz!"
-date: 2024-08-19T03:59:32.646Z
-updated: 2024-08-20T03:59:32.646Z
+date: 2025-01-11T16:19:53.958Z
+updated: 2025-01-13T01:31:47.990Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,22 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-techniques-to-reclaim-your-exclusive-snaps-for-2024/"><u>[Updated] Techniques to Reclaim Your Exclusive Snaps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-review-in-depth-analysis-from-toms-hardware-experts/"><u>Advanced PC Review: In-Depth Analysis From Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/an-in-depth-guide-to-every-element-of-srt-for-2024/"><u>An In-Depth Guide to Every Element of SRT for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs-for-2024/"><u>Comparing Livestream Tools Is Streamlabs the Answer to Your Broadcast Needs for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-synergy-how-youtube-aligns-with-brands/"><u>Creating Synergy How YouTube Aligns with Brands</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175682612-hytes-nexus-link-revolutionize-pc-building-with-its-huge-display-aio-cooler-and-magnetic-snap-together-fans/"><u>Hyte's Nexus Link: Revolutionize PC Building with Its Huge Display AIO Cooler and Magnetic Snap Together Fans!</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-mastermind-the-ultimate-audio-game-showdown/"><u>Melody Mastermind: The Ultimate Audio Game Showdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolving-role-of-ai-in-shaping-developer-work-processes/"><u>The Evolving Role of AI in Shaping Developer Work Processes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-the-perfect-sd-card-for-your-raspberry-pi/"><u>Ultimate Guide: Choosing the Perfect SD Card for Your Raspberry Pi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-eliminating-dead-spots-with-the-amplifi-hd-mesh-network/"><u>Ultimate Guide: Eliminating Dead Spots with the Amplifi HD Mesh Network</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-with-toms-hardware-diagnostics/"><u>Unlocking Tech Secrets with Tom's Hardware Diagnostics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-secrets-of-pc-builds-and-upgrades-with-tom/"><u>Unraveling the Secrets of PC Builds and Upgrades with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-a-guide-by-toms-hardware-experts/"><u>Unveiling New Gadgets: A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-first-look-at-ai/"><u>Your First Look at AI</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

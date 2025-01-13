@@ -1,7 +1,7 @@
 ---
 title: Mastering Gadgets and Systems with Tom's Hardware Experts
-date: 2024-08-23T12:55:39.870Z
-updated: 2024-08-24T12:55:39.870Z
+date: 2025-01-08T21:40:52.912Z
+updated: 2025-01-12T17:34:21.212Z
 tags:
   - best-picks
 categories:
@@ -48,11 +48,19 @@ When buying a Raspberry Pi HAT, ask yourself these questions:
 11. Adafruit Capacitive Touch HAT
 12. Raspberry Pi M.2 HAT+
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Raspberry Pi HATs
 
 ![Pimoroni Inventor HAT Mini](https://cdn.mos.cms.futurecdn.net/Pdgb5CBBk68VjxQGeN8GFE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Pimoroni Inventor HAT Mini
 
@@ -109,8 +117,9 @@ Simple Python module
 ![Best Raspberry Pi HAT for Lego Projects](https://cdn.mos.cms.futurecdn.net/ucxn9TryRzNrNxf7QLbmj-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ### 2\. Build HAT
@@ -174,8 +183,9 @@ Incompatible with some HATs
 Pimoroni IO Expander  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Pimoroni IO Expander
 
 ADC and 14 Extra GPIO Pins for Your Pi
@@ -222,9 +232,6 @@ Add 14 GPIO pins
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/m7hyCqNXZXwVbdfCjGR8wb-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  (Image credit: Pimoroni)
 
 ### 4\. Pimoroni Picade X HAT
@@ -273,9 +280,6 @@ Blocks CPU and raises temperature
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/jiysLLyHNsrXxo3nMJDR8c-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  (Image credit: Raspberry Pi Trading)
 
 ### 5\. Raspberry Pi Sense HAT
@@ -323,8 +327,9 @@ Works with Python and Scratch
  (Image credit: Pimoroni)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Pimoroni Breakout Garden
 
  Best Raspberry Pi HAT for Using Multiple Sensors
@@ -363,9 +368,6 @@ Breakout I2C boards can be expensive
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/k2TyrkgDpqcA5UXZ9HNXdc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Raspberry Pi Trading)
 
 ### 7\. Raspberry Pi PoE HAT
@@ -416,9 +418,6 @@ Only works on Pi 3B+ and later
 
  (Image credit: Gareth Halfacree)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 8\. Google AIY Voice Kit (with HAT)
 
  Best Raspberry Pi HAT for Artificial Intelligence
@@ -462,8 +461,9 @@ Initial purchase is expensive
  (Image credit: Les Pounder)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 9\. Cyntech Pibrella
 
 Best Raspberry Pi HAT for Younger Makers
@@ -508,9 +508,6 @@ Designed for older Raspberry Pi
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/SaHprzZd3GTCwshUTz5Eyc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Adafruit)
 
 ### 10\. Adafruit Perma-Proto HAT
@@ -556,8 +553,9 @@ Expensive for multiple boards
  (Image credit: Adafruit)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 11\. Adafruit Capacitive Touch HAT
 
  Best Raspberry Pi HAT for Inspiring Creativity
@@ -602,11 +600,12 @@ Lots of wires for all 12 connections
 
 ![Raspberry Pi M.2 HAT+](https://cdn.mos.cms.futurecdn.net/QfCX4wvRYdUrwwogMp43cA-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [12. Raspberry Pi M.2 HAT+](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review)
 
 Best Raspberry Pi 5 M.2 HAT for Storage
@@ -704,15 +703,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -721,4 +719,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-music-lovers-club-listen-save-analyze-tunes/"><u>[Updated] Music Lovers Club Listen, Save, Analyze Tunes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/799-for-an-innovative-macbook-air-powered-by-m1-chip-dont-miss-the-steal-deals-during-octobers-prime-day-sale-the-tech-rundown-on-zdnet/"><u>$799 for an Innovative MacBook Air Powered by M1 Chip: Don't Miss the Steal Deals During October's Prime Day Sale – The Tech Rundown on ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-the-blockade-how-to-enable-call-functions-on-an-iphone-stuck-in-silence/"><u>Bypassing the Blockade: How to Enable Call Functions on an iPhone Stuck in Silence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrate-our-nations-leaders-score-an-unbeatable-price-on-2023-m2-macbook-air-during-presidents-day-sale-get-it-for-300-less-now/"><u>Celebrate Our Nation's Leaders: Score an Unbeatable Price on 2023 M2 MacBook Air During Presidents' Day Sale – Get It for $300 Less Now !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-msi-audio-driver-for-optimal-windows-experience/"><u>Download and Install Latest MSI Audio Driver for Optimal Windows Experience</u></a></li>
+<li><a href="https://win-web3.techidaily.com/download-videos-and-tv-shows-easily-with-solarmovie-the-ultimate-free-tool/"><u>Download Videos & TV Shows Easily with Solarmovie - The Ultimate Free Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-master-fcs-world-winning-gameplay-on-a-budget-pc/"><u>How to Master FC's World: Winning Gameplay on a Budget PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ifa-2024-spotlight-my-immersive-experience-with-lenovos-game-changing-swivelling-laptop-insights-from-zdnet/"><u>IFA 2024 Spotlight: My Immersive Experience with Lenovo's Game-Changing Swivelling Laptop - Insights From ZDNET</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-time-travelers-treasure-a-look-at-goofy-movie/"><u>In 2024, Time Traveler’s Treasure A Look at 'Goofy Movie'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-file-revival-a-complete-assessment-of-recuvas-capabilities-and-features/"><u>Navigating File Revival: A Complete Assessment of Recuva's Capabilities and Features</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-free-green-screen-apps-for-mobile-creators-for-2024/"><u>New The Ultimate List of Free Green Screen Apps for Mobile Creators for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-portability-unveiling-intels-newest-ai-chip-in-upcoming-laptops-discover-exhilarating-performance-boosts-zdnet/"><u>Revolutionizing Portability: Unveiling Intel's Newest AI Chip in Upcoming Laptops - Discover Exhilarating Performance Boosts! [ZDNet]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steep-discount-secure-your-asus-rog-strix-g115-for-just-600-less-hot-deal-alert/"><u>Score a Steep Discount: Secure Your Asus ROG Strix G1^15 for Just $600 Less | Hot Deal Alert</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/shop-the-cutting-edge-apple-m3-macbook-pro-now-with-a-200-price-reduction-on-amazons-seasonal-blowout-discover-more/"><u>Shop the Cutting-Edge Apple M3 MacBook Pro Now with a $200 Price Reduction on Amazon's Seasonal Blowout – Discover More</u></a></li>
+<li><a href="https://win-trending.techidaily.com/steps-to-disable-veeams-enhanced-link-mode-in-vcenter-server-67/"><u>Steps to Disable Veeam's Enhanced Link Mode in vCenter Server 6.7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premier-5g-notebooks-expert-picks-from-zdnet/"><u>Top 5 Premier 5G Notebooks - Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-powerful-versatility-of-lenovos-tablet-convertible-laptop-insights-and-analysis-from-zdnet/"><u>Unlocking the Powerful Versatility of Lenovo’s Tablet-Convertible Laptop: Insights and Analysis From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-metas-unbeatable-offer-the-512gb-oculus-quest-2023-sale-top-choice-for-virtual-reality-enthusiasts/"><u>Unveiling Meta's Unbeatable Offer: The 512GB Oculus Quest 2023 Sale - Top Choice for Virtual Reality Enthusiasts</u></a></li>
+</ul></div>
 
