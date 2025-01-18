@@ -1,7 +1,7 @@
 ---
 title: Discovering the Exceptional Features of Anycubebic Kobra 2 MAX - A Hidden Treasure Unveiled
-date: 2024-08-19T03:56:24.242Z
-updated: 2024-08-20T03:56:24.242Z
+date: 2025-01-12T19:40:27.925Z
+updated: 2025-01-18T17:12:24.768Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,26 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-adding-youtube-music-to-video/"><u>[New] Adding YouTube Music To Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-instagram-mavens-guide-to-spectaculous-unboxing-reels/"><u>[New] The Instagram Maven's Guide to Spectaculous Unboxing Reels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-transform-your-footage-with-premiere-pros-advanced-techniques-for-360-editing/"><u>[New] Transform Your Footage with Premiere Pro's Advanced Techniques for 360° Editing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-sound-engineering-tips-to-elevate-your-video-content/"><u>[Updated] In 2024, Sound Engineering Tips to Elevate Your Video Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-success-starts-here-best-tutorials-for-starters/"><u>2024 Approved YouTube Success Starts Here Best Tutorials for Starters</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-guide-to-choosing-the-perfect-gaming-motherboard-ranked-by-socket-type-and-core-architecture/"><u>Advanced Guide to Choosing the Perfect Gaming Motherboard – Ranked by Socket Type and Core Architecture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-these-6-common-pitfalls-in-using-cura-expert-fixes-revealed/"><u>Avoid These 6 Common Pitfalls in Using Cura: Expert Fixes Revealed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175671908-exploring-toms-hardware-a-comprehensive-guide/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-obtain-the-newest-logitech-mk710-driver-and-download-for-seamless-functionality/"><u>How to Obtain the Newest Logitech MK710 Driver & Download for Seamless Functionality</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-13-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 13 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-gear-room-unveiling-cutting-edge-computer-technologies/"><u>Inside Tom's Gear Room: Unveiling Cutting-Edge Computer Technologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-revolutionary-evaporative-cooling-the-new-pump-free-aio-liquid-cooler/"><u>Noctua Unveils Revolutionary Evaporative Cooling, the New Pump-Free AIO Liquid Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175677331-revitalize-your-gaming-with-the-99-chromax-black-noctua-cooler-the-highest-quality-in-air-ventilation-technology/"><u>Revitalize Your Gaming with the £99 Chromax Black Noctua Cooler: The Highest Quality in Air Ventilation Technology!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-2024-hard-drive-showdown-expert-picks-for-optimal-performance-and-capacity/"><u>The 2024 Hard Drive Showdown: Expert Picks for Optimal Performance and Capacity</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210064957-9781250784315-the-path-of-greatness-the-game-of-life-and-how-to-play-it-and-other-essential-works/"><u>The Path of Greatness: The Game of Life and How to Play It and Other Essential Works | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guide-to-computer-gear/"><u>Tom's Tech Hub: Comprehensive Guide to Computer Gear</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/turning-on-auto-document-creation-in-ms-word-with-the-power-of-chatgpt/"><u>Turning on Auto-Document Creation in MS Word with the Power of ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-world-of-gadgets-with-toms-expertise/"><u>Unlocking the World of Gadgets with Tom’s Expertise</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "AMD Ryzen 9 9950X Test Results: In-Depth Blender Performance Analysis Across Different Thermal Design Power Configurations"
-date: 2024-08-19T03:56:54.220Z
-updated: 2024-08-20T03:56:54.220Z
+date: 2025-01-14T17:38:57.111Z
+updated: 2025-01-18T19:03:55.140Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,14 +59,17 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-psychoacoustic-enhancement-for-playstation-titles/"><u>[New] Psychoacoustic Enhancement for PlayStation Titles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exploring-popularly-highlighted-video-remarks/"><u>[Updated] In 2024, Exploring Popularly Highlighted Video Remarks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125172275-get-premium-printing-quality-instantly-grab-the-editor-selected-elegoo-neptune-4-pro-for-75-less/"><u>Get Premium Printing Quality Instantly: Grab the Editor-Selected Elegoo Neptune 4 Pro for $75 Less!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-usb-20-essentials-an-overview-of-transfer-speeds-wires-and-interfaces/"><u>Mastering USB 2.0 Essentials: An Overview of Transfer Speeds, Wires, and Interfaces</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astery-in-motion-prime-10-youtube-to-mp3-transformers/"><u>MP3 Mastery in Motion Prime 10 YouTube to Mp3 Transformers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-through-the-premier-10-image-stock-websites/"><u>Navigating Through the Premier 10 Image Stock Websites</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-hardware-resource-from-tech-visionary-tom/"><u>The Ultimate Hardware Resource From Tech Visionary, Tom</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-ntdlldll-issues-across-different-windows-oss/"><u>Troubleshooting Steps for ntdll.dll Issues Across Different Windows OS's</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/xpgs-innovative-cpu-cooler-the-integrated-pump-loop-and-radiator-for-ultimate-high-wattage-control-up-to-280w/"><u>XPG's Innovative CPU Cooler – The Integrated Pump, Loop & Radiator for Ultimate High Wattage Control (Up To 280W)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-go-to-source-for-in-depth-gadget-evaluations-trust-toms-hardware/"><u>Your Go-To Source for In-Depth Gadget Evaluations - Trust Tom's Hardware</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->

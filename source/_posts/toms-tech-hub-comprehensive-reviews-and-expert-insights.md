@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Hub: Comprehensive Reviews & Expert Insights"
-date: 2024-08-19T03:51:26.729Z
-updated: 2024-08-20T03:51:26.729Z
+date: 2025-01-11T18:36:20.448Z
+updated: 2025-01-18T18:10:31.807Z
 tags:
   - cooling
 categories:
@@ -39,6 +39,10 @@ Adata unveiled many new products at[Computex](https://www.tomshardware.com/tag/c
 
  Adata is jumping into the interlocking fans market with its Hurricane Mag fans. Hurricane Mag is a series of 120mm fans that can magnetically lock together, joining the recent trend of bucking daisy-chaining PWM cables in favor of just daisy-chaining fans. Snapping together easily and quickly, the fans promise to make PC building much less painful. The fans will also come equipped with a forward/reverse flow switch, which is a welcome addition. The Hurricane Mag will be slightly above average pricing for its field, selling four fans in one package for $109 starting in August.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,24 +53,29 @@ Adata unveiled many new products at[Computex](https://www.tomshardware.com/tag/c
 
 ![Adata Hurricane Mag 120mm fans](https://cdn.mos.cms.futurecdn.net/j5W4MPdnv9Dn6YaYahutuC-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Rounding out our Adata coverage is another upgrade to an existing Adata product: the Adata Legend 970 Pro NVMe SSD. Not to be confused with Samsung's SSD of a similar name, the Legend 970 Pro succeeds the[Legend 970](https://www.tomshardware.com/pc-components/ssds/adata-legend-970-ssd-review) , a drive that we reviewed highly on release. The Legend 970 Pro has a few changes from its older brother, moving away from the Phison memory controller to an InnoGrit chip. Perhaps it is this change that boosts the Legend 970 Pro up to speeds of 14,000/12,000 MB/s, as compared to the advertised 10,000/10,000 MB/s of its predecessor.
 
 ![Adata Legend 970 Pro SSD](https://cdn.mos.cms.futurecdn.net/4eK59fFGUNm8NkfJqNZCTg-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The most significant change from its predecessor is actually on the heatsink. The tiny fan on the SSD's heatsink now draws its power from the PCIe slot rather than an extra SATA power cable; the heatsink is likely to be just as useless as before, but now installing it is less of a hassle. The price and release date weren't specified to us, but you can expect to pay close to the $169 and $299 price tags of the Legend 970's 1TB and 2TB skews.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,9 +84,20 @@ Adata unveiled many new products at[Computex](https://www.tomshardware.com/tag/c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-google-voice-call-recording-essential-steps/"><u>[New] In 2024, Mastering Google Voice Call Recording Essential Steps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-captivating-concepts-explore-14-innovative-text-movements/"><u>[Updated] In 2024, Captivating Concepts Explore 14 Innovative Text Movements</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-seamlessly-navigate-to-youtube-video-comments-for-2024/"><u>[Updated] Seamlessly Navigate to YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-concealed-identities-quick-tips-for-face-obscuration-in-images/"><u>2024 Approved Concealed Identities Quick Tips for Face-Obscuration in Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-perfecting-your-youtube-presence-a-video-upload-manual/"><u>2024 Approved Perfecting Your YouTube Presence A Video Upload Manual</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-12-proipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 12 Pro/iPad/iPod</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-successfully-add-m4a-tracks-to-your-youtube-videos/"><u>How to Successfully Add M4A Tracks to Your YouTube Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-12-mini-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 12 mini When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide-to-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-offer-the-immersive-24-curved-gaming-experience-from-sceptre-now-for-an-amazing-price-of-79/"><u>Unbelievable Offer: The Immersive, 24 Curved Gaming Experience From Sceptre Now for an Amazing Price of $79</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-electronics-the-ultimate-resource-from-toms-hardware/"><u>Unlocking the Secrets of Electronics: The Ultimate Resource From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-hardware-insights-from-toms-workshop/"><u>Unlocking the Secrets of Hardware: Insights From Tom's Workshop</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->

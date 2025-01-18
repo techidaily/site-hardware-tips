@@ -1,7 +1,7 @@
 ---
 title: "MO-RA IV 600 - Mega PC Liquid Cooling Radiator: 9X200mm Fans, Heavyweight Design for Superior Performance (Over 35Lbs) Under $600"
-date: 2024-08-19T03:52:03.085Z
-updated: 2024-08-20T03:52:03.085Z
+date: 2025-01-15T16:04:43.551Z
+updated: 2025-01-18T16:21:04.145Z
 tags:
   - cooling
 categories:
@@ -26,14 +26,11 @@ A compact and high-performance CPU cooler from Arctic that can keep those multi-
 
  The 240mm Arctic Liquid Freezer II is a neat and tidy solution for your CPU cooling and PC builds, with minimal cables cluttering your case innards as the Arctic Freezer routs the PWM fan cables through the material sleeve of the cooling tubes for a clean look leaving only a short cable run from the pump to the motherboard header. This SKU of the Arctic Liquid Freezer II doesn't have any RGB on the fans, so is perfect for those who don't want the light show but do want a functional cooler.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -42,8 +39,22 @@ A compact and high-performance CPU cooler from Arctic that can keep those multi-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enhance-connection-top-tips-to-craft-compelling-facebook-profiles/"><u>[New] 2024 Approved Enhance Connection Top Tips to Craft Compelling Facebook Profiles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/earn-the-easy-tricks-for-eliminating-unwanted-youtube-content-pcmobile/"><u>[New] Learn the Easy Tricks for Eliminating Unwanted Youtube Content (PC/Mobile)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-masterful-instagram-reel-editors-the-ultimate-top-10-list/"><u>[Updated] Masterful Instagram Reel Editors The Ultimate Top 10 List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gleeful-loginsign-up-step-guide/"><u>In 2024, Gleeful Login/Sign Up Step Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-laughters-playground-top-15-youtube-hits-for-fun/"><u>In 2024, Laughter's Playground Top 15 YouTube Hits for Fun</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/simplified-steps-to-turkish-pronunciation-quick-reference-guide/"><u>Simplified Steps To Turkish Pronunciation: Quick Reference Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-race-for-efficiency-exploring-how-snapdragons-15plus-hour-battery-test-renders-intel-competitors/"><u>The Race for Efficiency: Exploring How Snapdragon's 15+ Hour Battery Test Renders Intel Competitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-expertise-comprehensive-guides-and-advice/"><u>Tom's Computer Gear Expertise: Comprehensive Guides & Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-ultimate-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Hub: Ultimate Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-hardware-reviews-t172386287988218/"><u>Tom's Tech Insights: In-Depth Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-ultimate-guide-to-computer-components-t172386287988319/"><u>Tom's Tech Review: Ultimate Guide to Computer Components</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

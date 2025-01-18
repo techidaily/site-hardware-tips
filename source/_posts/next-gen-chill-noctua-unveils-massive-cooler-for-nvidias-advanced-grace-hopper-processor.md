@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Chill: Noctua Unveils Massive Cooler for Nvidia's Advanced Grace Hopper Processor"
-date: 2024-08-19T03:59:01.619Z
-updated: 2024-08-20T03:59:01.619Z
+date: 2025-01-16T19:21:07.320Z
+updated: 2025-01-18T16:10:22.713Z
 tags:
   - cooling
 categories:
@@ -39,6 +39,10 @@ Adata unveiled many new products at[Computex](https://www.tomshardware.com/tag/c
 
  Adata is jumping into the interlocking fans market with its Hurricane Mag fans. Hurricane Mag is a series of 120mm fans that can magnetically lock together, joining the recent trend of bucking daisy-chaining PWM cables in favor of just daisy-chaining fans. Snapping together easily and quickly, the fans promise to make PC building much less painful. The fans will also come equipped with a forward/reverse flow switch, which is a welcome addition. The Hurricane Mag will be slightly above average pricing for its field, selling four fans in one package for $109 starting in August.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,24 +53,29 @@ Adata unveiled many new products at[Computex](https://www.tomshardware.com/tag/c
 
 ![Adata Hurricane Mag 120mm fans](https://cdn.mos.cms.futurecdn.net/j5W4MPdnv9Dn6YaYahutuC-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Rounding out our Adata coverage is another upgrade to an existing Adata product: the Adata Legend 970 Pro NVMe SSD. Not to be confused with Samsung's SSD of a similar name, the Legend 970 Pro succeeds the[Legend 970](https://www.tomshardware.com/pc-components/ssds/adata-legend-970-ssd-review) , a drive that we reviewed highly on release. The Legend 970 Pro has a few changes from its older brother, moving away from the Phison memory controller to an InnoGrit chip. Perhaps it is this change that boosts the Legend 970 Pro up to speeds of 14,000/12,000 MB/s, as compared to the advertised 10,000/10,000 MB/s of its predecessor.
 
 ![Adata Legend 970 Pro SSD](https://cdn.mos.cms.futurecdn.net/4eK59fFGUNm8NkfJqNZCTg-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The most significant change from its predecessor is actually on the heatsink. The tiny fan on the SSD's heatsink now draws its power from the PCIe slot rather than an extra SATA power cable; the heatsink is likely to be just as useless as before, but now installing it is less of a hassle. The price and release date weren't specified to us, but you can expect to pay close to the $169 and $299 price tags of the Legend 970's 1TB and 2TB skews.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,8 +84,19 @@ Adata unveiled many new products at[Computex](https://www.tomshardware.com/tag/c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-art-of-adding-audio-storytelling-to-video-content/"><u>[New] 2024 Approved The Art of Adding Audio Storytelling to Video Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-fraps-your-go-to-screen-recorder-in-2024/"><u>[New] Fraps Your Go-To Screen Recorder, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-flying-buddies-top-toys-for-children/"><u>[New] Perfect Flying Buddies Top Toys for Children</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-enhance-videos-naturally-free-9-youtube-thumbnail-crafting-tips/"><u>[Updated] 2024 Approved Enhance Videos Naturally - Free 9 YouTube Thumbnail Crafting Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-tech-game-an-in-depth-look-at-crucials-speedy-p310-m2-2280-ssd-performance/"><u>Elevate Your Tech Game: An In-Depth Look at Crucial's Speedy P310 M.2 2280 SSD Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-scrolling-through-engaging-youtube-remarks/"><u>In 2024, The Ultimate Guide to Scrolling Through Engaging YouTube Remarks</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/prepare-your-wallets-microsoft-unveils-plans-to-monetize-windows-11-updates-in-the-coming-year-cost-breakdown-inside-technews/"><u>Prepare Your Wallets: Microsoft Unveils Plans to Monetize Windows 11 Updates in the Coming Year - Cost Breakdown Inside | TechNews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-ranking-of-high-performance-drive-docks-for-pc-users/"><u>The Comprehensive Ranking of High-Performance Drive Docks for PC Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-high-performance-computer-components-by-tom/"><u>The Ultimate Resource for High-Performance Computer Components by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-into-computer-components/"><u>Tom's Tech Review: Expert Insights Into Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: Your Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-external-hdd-and-ssd-docking-stations/"><u>Top-Rated External HDD & SSD Docking Stations</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

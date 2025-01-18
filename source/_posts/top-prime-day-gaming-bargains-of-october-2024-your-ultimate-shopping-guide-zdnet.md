@@ -1,7 +1,7 @@
 ---
 title: "Top Prime Day Gaming Bargains of October 2024: Your Ultimate Shopping Guide | ZDNet"
-date: 2025-01-05T22:50:01.604Z
-updated: 2025-01-13T02:15:27.551Z
+date: 2025-01-16T17:21:24.046Z
+updated: 2025-01-18T17:59:51.547Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ ZDNET editors have been tracking the [best Cyber Monday 2022 sales](https://www.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Latest Cyber Monday deals still available**
@@ -53,7 +53,7 @@ Please refer to the table of contents to quickly navigate our categories**.**
 * [Fire HD 10 tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08XMBMW3H%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $220 (save $50) at Amazon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday TV deals**
@@ -117,7 +117,7 @@ Image: ZDNET
 * [Wacom Intuos Pro Medium Bluetooth Graphics Drawing Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWacom-Digital-Graphic-Drawing-PTH660%2Fdp%2FB01MQU5LW7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $240 (save $26) at Amazon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday gaming deals**
@@ -160,10 +160,6 @@ Amazon
 * [Google Nest Hub Max](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/config/google%5Fnest%5Fhub%5Fmax?hl=en-US) for $164 (save $65) at Google
 * [Blink Outdoor 3 cam kit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBlink-Outdoor-bundle-Echo-Show%2Fdp%2FB08ZN97SWW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $160 (save $175) at Amazon
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Best Cyber Monday streaming deals**
 
 Streaming gives you the best options for entertainment, customizable to your preferences and budget. The Cyber Monday deals below encompass streaming subscriptions to services like YouTube Premium and Apple TV, smart TVs with streaming capabilities, and streaming devices that will transform the TV you have into one compatible with your favorite services. 
@@ -176,6 +172,10 @@ Sherin Shibu
 
 * [Roku Express HD Streaming Device](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRoku-Express-Streaming-Device-High-Speed%2Fdp%2FB0BCH5H2R3%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $18 (save $12) at Amazon
 * [Apple TV HD 32GB](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-TV-HD-32GB-2nd-Generation%2F525801397&subId1=zd-__COM_CLICK_ID__-dtp) for $59 (save $40) at Walmart
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday headphone deals**
 
@@ -198,7 +198,7 @@ Sony
 * [Beats Fit Pro](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbeats-by-dr-dre-beats-fit-pro-true-wireless-noise-cancelling-in-ear-earbuds-black%2F6397391.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $180 (save $20) at Best Buy
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday smartphone deals**
@@ -213,6 +213,10 @@ Samsung
 
 * [Samsung Galaxy S21 FE (128GB) smartphone](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09BFSTTNK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $400 (save $300) at Amazon
 * [Google Pixel 6a](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-6a-Smartphone-Megapixel%2Fdp%2FB0B3PQPNKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $360 (save $89) at Amazon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday smartwatch deals**
 
@@ -274,10 +278,6 @@ June Wan
 * [Blink Outdoor weather-resistant camera kit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB086DKGCFP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $190 (save $190) at Amazon
 * [Aventure Step-Over Ebike](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Faventon-aventure-step-over-ebike-w-45-mile-max-operating-range-and-28-mph-max-speed-socal-sand%2F6487148.p%3FskuId%3D6487148&publisher_slug=itechdaily19598&exclusive=1) for $1,700 (save $300) at Best Buy
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these deals?
 
 ZDNET editors have experience tracking prices and hunting down deals 365 days a year. Take a peek at our Deals hub -- we know how to find bargains. Our process starts by identifying the hottest and most popular products of the year, whether it's the AirPods or the latest iPad, and then we conduct a painstaking process that involves checking major retailers and others you may have never heard about (but are still trusted stores). 
@@ -307,7 +307,7 @@ ZDNET scoured Cyber Monday sales to find the best deals this year, and many are 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by retailer**
@@ -398,19 +398,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ancient-roguelike-tactics-vs-innovative-approaches/"><u>[New] 2024 Approved Ancient Roguelike Tactics Vs. Innovative Approaches</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mobile-magic-unleashed-funimate-pro-apk-exploration/"><u>2024 Approved Mobile Magic Unleashed Funimate Pro APK Exploration</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s23-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S23 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125161671-join-felicia-day-in-the-thangs-3d-community-get-your-free-models-here/"><u>Join Felicia Day in the Thangs 3D Community - Get Your Free Models Here!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/maintain-a-positive-tone-users-are-often-looking-for-solutions-so-use-positive-words-like-guide-or-solutions-that-indicate-you-have-the-answer-theyre-seekin17/"><u>Maintain a Positive Tone: Users Are Often Looking for Solutions, so Use Positive Words Like Guide or Solutions that Indicate You Have the Answer They're Seeking. Avoid Using Negative Connotations in Your Titles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125174867-master-the-art-of-flawless-3d-printing-no-more-blisters-or-pimples/"><u>Master the Art of Flawless 3D Printing: No More Blisters or Pimples!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-prevent-halo-infinite-gameplay-disruptions-on-windows/"><u>Resolved! How to Prevent Halo Infinite Gameplay Disruptions on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007888488-simple-fixes-for-persistent-outriders-game-crashes-get-back-in-action/"><u>Simple Fixes for Persistent Outriders Game Crashes - Get Back in Action!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-hardware-insights/"><u>Tom's Tech Reviews: In-Depth Computer Hardware Insights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unleash-your-creative-potential-free-voice-effects-at-hand/"><u>Unleash Your Creative Potential Free Voice Effects at Hand</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-tips-from-toms-computer-experts/"><u>Unlocking Performance: Tips From Tom's Computer Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-silent-operation-a-closer-look-at-the-levelplay-combat-air-ca4-cooling-solution/"><u>Unveiling the Secrets of Silent Operation: A Closer Look at the Levelplay Combat Air CA4 Cooling Solution</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-effortless-video-editing-how-to-add-effects-in-fcp-x-3-simple-steps/"><u>Updated In 2024, Effortless Video Editing How to Add Effects in FCP X (3 Simple Steps)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-siri-falls-short-effective-strategies-for-improved-digital-assistance/"><u>Why Siri Falls Short: Effective Strategies for Improved Digital Assistance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ideal-emulation-tools-to-relive-sonys-playstation-experience/"><u>[Updated] In 2024, Ideal Emulation Tools to Relive Sony's PlayStation Experience</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-mastery-the-essential-guide-to-smartphone-screen-recording/"><u>[Updated] Snapchat Mastery The Essential Guide to Smartphone Screen Recording</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-ongoing-deals-get-your-8tb-samsung-t5-external-ssd-now-for-a-steep-36-off-after-october-prime-extravaganza-insights/"><u>Amazon's Ongoing Deals: Get Your 8TB Samsung T5 External SSD Now for a Steep 36% Off After October Prime Extravaganza Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-windows-11-7-and-8-compatible-zexmt-bluetooth-dongle-drivers/"><u>Download Windows 11, 7 & 8 Compatible ZEXMT Bluetooth Dongle Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-the-ultimate-tech-resource/"><u>Exploring Tom's Hardware: The Ultimate Tech Resource</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-youtube-studio-edits-demystified-for-aspiring-filmmakers/"><u>In 2024, YouTube Studio Edits Demystified for Aspiring Filmmakers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-solder-iron-and-station-choices-for-electronics-enthusiasts-2024-edition/"><u>Leading Solder Iron & Station Choices for Electronics Enthusiasts - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-heat-therapy-with-grizzly-discover-the-solid-to-liquid-transitioning-pad-effective-from-45c-upwards/"><u>Revolutionize Heat Therapy with Grizzly – Discover the Solid to Liquid Transitioning Pad Effective From 45°C Upwards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-guide-installing-the-usb-to-serial-converter-drivers-on-windows/"><u>Simple Guide: Installing the USB to Serial Converter Drivers on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-electronics-and-gadgets-insights-by-tom/"><u>The Ultimate Guide to Electronics & Gadgets - Insights by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-into-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Insights Into the Latest Hardware</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-galaxy-a05s-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung Galaxy A05s password or pattern lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-warcraft-slowdown-solutions-expert-tips-and-tricks-to-skyrocket-your-fps/"><u>World of Warcraft Slowdown Solutions: Expert Tips & Tricks to Skyrocket Your FPS</u></a></li>
 </ul></div>
 

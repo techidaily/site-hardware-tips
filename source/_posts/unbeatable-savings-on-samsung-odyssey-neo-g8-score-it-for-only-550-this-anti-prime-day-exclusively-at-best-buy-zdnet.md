@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Samsung Odyssey Neo G8 - Score It For Only $550 This Anti-Prime Day, Exclusively at Best Buy | ZDNET
-date: 2025-01-09T20:35:37.318Z
-updated: 2025-01-12T22:04:09.883Z
+date: 2025-01-11T18:13:40.059Z
+updated: 2025-01-18T19:07:25.012Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,24 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-intuitivestepsforyoucamuseandrecording/"><u>[Updated] 2024 Approved IntuitiveStepsForYouCamUseAndRecording</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mememolding-cutter/"><u>[Updated] 2024 Approved MemeMolding Cutter</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-the-secrets-of-video-editing-on-youtube/"><u>[Updated] 2024 Approved Unveiling the Secrets of Video Editing on YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-experts-pick-essential-plugins-to-elevate-your-ae-projects-for-2024/"><u>[Updated] Expert's Pick Essential Plugins to Elevate Your AE Projects for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-high-performance-graphic-cards-in-2e24-the-best-picks-for-gamers-on-a-budget/"><u>Affordable High-Performance Graphic Cards in 2E24: The Best Picks for Gamers on a Budget</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-affordable-led-ram-modules-for-gamers/"><u>Best Affordable LED RAM Modules for Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-pick-rp2040-based-single-board-computers-coming/"><u>Best Pick: RP2040-Based Single Board Computers Coming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-value-high-speed-wi-fi-routers-of-202n4-optimized-for-wi-fi-6-6e-and-future-standards-wi-fi-7/"><u>Best Value High-Speed Wi-Fi Routers of 202N4: Optimized for Wi-Fi 6, 6E and Future Standards (Wi-Fi 7)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-analysis-by-toms-guides/"><u>Comprehensive Hardware Analysis by Tom’s Guides</u></a></li>
-<li><a href="https://fox-access.techidaily.com/converting-mb-to-seconds-a-20mb-scenario/"><u>Converting MB to Seconds A 20MB Scenario</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-atandt-wireless-policies-on-roaming-services/"><u>Deciphering AT&T Wireless Policies on Roaming Services</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delving-into-devices-the-toms-hardware-review-series/"><u>Delving Into Devices: The Tom's Hardware Review Series</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-advanced-computing-with-toms-hardware-analysis/"><u>Dive Into Advanced Computing with Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/eliminate-invisible-anomalies-a-step-by-step-guide-to-fix-ghosts-in-3d-prints/"><u>Eliminate Invisible Anomalies: A Step-by-Step Guide to Fix Ghosts in 3D Prints</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhanced-thermal-performance-with-eks-tailored-waterblock-solutions-for-your-amd-ryzen-am5-cpu-upgrades/"><u>Enhanced Thermal Performance with EK's Tailored Waterblock Solutions for Your AMD Ryzen AM5 CPU Upgrades</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/nspr4dll-missing-or-mia-resolving-common-issues-efficiently/"><u>Nspr4.dll Missing or MIA: Resolving Common Issues Efficiently</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tips-and-tricks-elevating-your-images-with-text-editing/"><u>Tips & Tricks Elevating Your Images with Text Editing</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-8-downloaded-audio-tracks-capturing-natural-precipitation-sounds/"><u>Updated 2024 Approved Top 8 Downloaded Audio Tracks Capturing Natural Precipitation Sounds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-crops-and-cultivation-compilation-for-2024/"><u>[New] The Ultimate Crops & Cultivation Compilation for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-navigating-google-voice-call-logging-with-ease/"><u>[Updated] 2024 Approved Navigating Google Voice Call Logging with Ease</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-conference-call-to-youtube-stream-how-to-broadcast-google-meet/"><u>[Updated] From Conference Call to YouTube Stream - How To Broadcast Google Meet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>[Updated] Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-corsair-cx750f-a-detailed-rgb-power-supply-assessment/"><u>Comprehensive Evaluation of the Corsair CX750F: A Detailed RGB Power Supply Assessment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-gadgets-with-toms-hardware-experts/"><u>Discover Cutting-Edge Gadgets with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hardcore-hardware-insights-by-tom-your-ultimate-guide/"><u>Hardcore Hardware Insights by Tom: Your Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-2-directors-cut-downloads/"><u>In 2024, Top 2 Director's Cut Downloads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-reviews-of-the-gigabyte-ud750gm-high-wattage-power-supply/"><u>In-Depth Analysis & Reviews of the Gigabyte UD750GM High Wattage Power Supply</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-gear-with-tom-in-depth-reviews-from-toms-hardware-experts/"><u>Navigating Computer Gear with Tom: In-Depth Reviews From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-analysis-and-insights-on-the-evga-supernova-85nv-gaming-psu-gen-7-review/"><u>Performance Analysis and Insights on the EVGA SuperNova 85Nv Gaming PSU (Gen 7) Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-asus-thor-series-the-mighty-hammer-shaped-mjolnir-uninterruptible-power-supply/"><u>Revolutionary Asus Thor Series: The Mighty Hammer-Shaped Mjolnir Uninterruptible Power Supply</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/scrutinizing-the-usability-of-vivavideo-app/"><u>Scrutinizing the Usability of VivaVideo App</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-internal-webcam-woes-with-these-simple-fixes-for-windows-users/"><u>Solve Your Internal Webcam Woes with These Simple Fixes for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-hot-40-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Hot 40 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-psus-comprehensive-guide-on-power-supply-units/"><u>Understanding PSUs: Comprehensive Guide on Power Supply Units</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-itel-s23plus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Itel S23+ Phones</u></a></li>
 </ul></div>
 

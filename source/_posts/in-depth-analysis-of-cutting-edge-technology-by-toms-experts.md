@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of Cutting-Edge Technology by Tom's Experts
-date: 2024-08-19T03:54:48.108Z
-updated: 2024-08-20T03:54:48.108Z
+date: 2025-01-13T19:34:26.041Z
+updated: 2025-01-18T18:24:41.219Z
 tags:
   - cooling
 categories:
@@ -64,7 +64,15 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Features of ID-Cooling’s FX 360 Pro
 
@@ -78,9 +86,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -97,18 +102,12 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -124,6 +123,10 @@ The top of the CPU black features a reflective black etched metal design.
  I say this on almost every cooler review, but there’s more to a cooler than just the heatsink or radiator. The bundled fans have a significant impact on cooling and noise levels, as well as how the cooler looks in your case.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -145,9 +148,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ## LGA1700 Socket Bending
@@ -189,8 +189,9 @@ The top of the CPU black features a reflective black etched metal design.
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -219,15 +220,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,4 +236,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-soundquality-synopsis/"><u>[New] SoundQuality Synopsis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-secrets-of-advanced-virtualization/"><u>[New] Unlocking the Secrets of Advanced Virtualization</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-editing-to-sharing-youtube-mastery-with-adobe-premiere/"><u>[Updated] 2024 Approved From Editing to Sharing YouTube Mastery with Adobe Premiere</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-navigating-windows-10-must-have-techniques/"><u>[Updated] In 2024, Navigating Windows 10 Must-Have Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mac-studio-screen-and-sounds-recording-feature/"><u>[Updated] Mac Studio Screen & Sounds Recording Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-9-9950x-sets-new-benchmarking-world-record-in-cinebench-r23-at-65ghz-performance/"><u>AMD Ryzen 9 9950X Sets New Benchmarking World Record in Cinebench R23 at 6.5GHz Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-technology-resource/"><u>Expert Insights From Tom’s Technology Resource</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-room-and-pc-checklist-for-vr/"><u>In 2024, The Ultimate Room and PC Checklist for VR</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-visual-storytelling-scribing-text-over-image-realms-online/"><u>In 2024, Visual Storytelling Scribing Text over Image Realms Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-texturizing-tricks-using-the-fuzzy-skin-option-on-cura-for-superior-3d-printing-results/"><u>Innovative Texturizing Tricks Using the Fuzzy Skin Option on Cura for Superior 3D Printing Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-no-string-perfection-tips-for-better-3d-prints/"><u>Master the Art of No-String Perfection: Tips for Better 3D Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-tom-in-depth-technology-analysis/"><u>Mastering Gadgets with Tom - In-Depth Technology Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-pc-upgrades-tips-from-toms-equipment-rundown/"><u>Mastering Your PC Upgrades: Tips From Tom's Equipment Rundown</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/mp4-vs-mkv-comprehensive-guide-on-choosing-the-right-video-format/"><u>MP4 Vs. MKV: Comprehensive Guide on Choosing the Right Video Format</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computing-with-tomhardware/"><u>Navigating the Latest in Computing with TomHardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pink-tim-caulk-gun-makes-its-debut-a-new-era-in-efficient-heat-sink-application-and-void-filling-technology/"><u>Pink TIM 'Caulk Gun' Makes Its Debut - A New Era in Efficient Heat Sink Application and Void Filling Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-computer-component-reviews/"><u>Tom's Tech Hub: In-Depth Computer Component Reviews</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-synchronizing-video-to-music-techniques/"><u>Updated The Art of Synchronizing Video to Music Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/nsv-mp3-movavi/"><u>오픈 소스 무료 NSV 파일을 MP3로 전환하는 방법 - Movavi</u></a></li>
+</ul></div>
 

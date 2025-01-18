@@ -1,7 +1,7 @@
 ---
 title: Unveiling Top Performers - A Deep Dive Into Tom's Hardware Selection
-date: 2024-08-19T03:51:58.782Z
-updated: 2024-08-20T03:51:58.782Z
+date: 2025-01-12T18:25:11.151Z
+updated: 2025-01-18T18:56:20.525Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,24 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-humorous-highlights-create-with-kapwing-meme-maker/"><u>[Updated] In 2024, Humorous Highlights Create with Kapwing Meme Maker</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlocking-growth-medical-ad-tricks-on-social-media/"><u>[Updated] Unlocking Growth Medical Ad Tricks on Social Media</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715860795098-2024-approved-capture-and-share-your-mac-life-free/"><u>2024 Approved Capture & Share Your Mac Life, FREE!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-market-mastery-strategys-first-impressions/"><u>2024 Approved Market Mastery Strategy's First Impressions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/augmentez-la-qualite-de-vos-videos-en-haute-definition-hd-quatre-kilometres-4k-sur-les-systemes-dexploitation-windows-et-macos/"><u>Augmentez La Qualité De Vos Vidéos en Haute Définition (HD) / Quatre Kilomètres (4K) Sur Les Systèmes D'exploitation Windows Et macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-differences-to-know-roku-express-vs-roku-stick-unpacked/"><u>Essential Differences to Know: Roku Express vs Roku Stick Unpacked</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-visual-and-auditory-elements-adding-music-to-premiere-projects/"><u>In 2024, Bridging Visual and Auditory Elements Adding Music to Premiere Projects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/launch-of-whatsapp-channel-functionality-exploring-its-implementation-and-usage-in-selected-nations-tech-digest/"><u>Launch of WhatsApp Channel Functionality: Exploring Its Implementation and Usage in Selected Nations | Tech Digest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-high-tech-choices-with-toms-hardware-wisdom/"><u>Navigating High-Tech Choices with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computer-hardware-with-toms-resourceful-review/"><u>Navigating the Latest in Computer Hardware with Tom's Resourceful Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landscape-tips-and-tricks-from-toms-hardware-gurus/"><u>Navigating the Tech Landscape: Tips & Tricks From Tom's Hardware Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-components-tips-from-toms-expertise/"><u>Navigating the World of Computer Components: Tips From Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-hardware-the-ultimate-resource-from-tom/"><u>Navigating the World of Hardware: The Ultimate Resource From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-tech-components-through-toms-lens/"><u>Navigating the World of High-Tech Components Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-gaming-at-a-bargain-the-ultimate-deal-on-a-156-msi-katana-laptop-with-nvidia-rtx-4070-gpu-only-1199/"><u>Revolutionize Gaming at a Bargain - The Ultimate Deal on a 15.6 MSI Katana Laptop with NVIDIA RTX 4070 GPU: Only $1,199!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-unbeatable-deal-at-250-off-asus-rog-zephyrus-g16-with-powerful-intel-core-i9-1850h-and-nvidia-rtx-4070/"><u>Slash Prices: Unbeatable Deal at $250 Off - ASUS ROG Zephyrus G16 with Powerful Intel Core I9-1850H & NVIDIA RTX 4070</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unleash-your-vision-the-best-tiktok-editing-guide-for-2024/"><u>Unleash Your Vision The Best TikTok Editing Guide for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->

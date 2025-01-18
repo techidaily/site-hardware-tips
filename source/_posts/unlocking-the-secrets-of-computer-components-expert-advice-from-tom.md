@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Secrets of Computer Components: Expert Advice From Tom"
-date: 2024-08-19T03:55:58.019Z
-updated: 2024-08-20T03:55:58.019Z
+date: 2025-01-13T16:25:33.862Z
+updated: 2025-01-18T16:59:06.298Z
 tags:
   - best-picks
 categories:
@@ -48,6 +48,10 @@ When buying a Raspberry Pi HAT, ask yourself these questions:
 11. Adafruit Capacitive Touch HAT
 12. Raspberry Pi M.2 HAT+
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Raspberry Pi HATs
 
 ![Pimoroni Inventor HAT Mini](https://cdn.mos.cms.futurecdn.net/Pdgb5CBBk68VjxQGeN8GFE-320-80.jpg)
@@ -55,8 +59,9 @@ When buying a Raspberry Pi HAT, ask yourself these questions:
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Pimoroni Inventor HAT Mini
 
 Best General Purpose Raspberry Pi HAT
@@ -111,10 +116,11 @@ Simple Python module
 
 ![Best Raspberry Pi HAT for Lego Projects](https://cdn.mos.cms.futurecdn.net/ucxn9TryRzNrNxf7QLbmj-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Build HAT
 
@@ -270,9 +276,6 @@ Blocks CPU and raises temperature
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/jiysLLyHNsrXxo3nMJDR8c-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Raspberry Pi Trading)
 
 ### 5\. Raspberry Pi Sense HAT
@@ -317,10 +320,11 @@ Works with Python and Scratch
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/nnELAU9czPx2B3uyGbnzPc-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Pimoroni)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Pimoroni Breakout Garden
 
@@ -362,9 +366,6 @@ Breakout I2C boards can be expensive
 
  (Image credit: Raspberry Pi Trading)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 7\. Raspberry Pi PoE HAT
 
  Best Raspberry Pi HAT for Power over Ethernet
@@ -411,14 +412,12 @@ Only works on Pi 3B+ and later
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/5uTCjguWVL9TMTkdQ47Hxd-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  (Image credit: Gareth Halfacree)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8\. Google AIY Voice Kit (with HAT)
 
  Best Raspberry Pi HAT for Artificial Intelligence
@@ -459,12 +458,12 @@ Initial purchase is expensive
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/RA4pe4KswtZXjFnmvx2fsc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Les Pounder)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 9\. Cyntech Pibrella
 
 Best Raspberry Pi HAT for Younger Makers
@@ -509,15 +508,8 @@ Designed for older Raspberry Pi
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/SaHprzZd3GTCwshUTz5Eyc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Adafruit)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### 10\. Adafruit Perma-Proto HAT
 
 Best for Creating Your Own Raspberry Pi HATs
@@ -559,9 +551,14 @@ Expensive for multiple boards
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/sXxxJqFKieeChEYF2U6z4d-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Adafruit)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 11\. Adafruit Capacitive Touch HAT
 
@@ -608,8 +605,9 @@ Lots of wires for all 12 connections
 ![Raspberry Pi M.2 HAT+](https://cdn.mos.cms.futurecdn.net/QfCX4wvRYdUrwwogMp43cA-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ### [12. Raspberry Pi M.2 HAT+](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review)
@@ -714,8 +712,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -723,4 +719,18 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-10-plugin-power-duo-for-final-cut-pro/"><u>[New] The Ultimate 10 Plugin Power Duo for Final Cut Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-manual-for-stunning-slow-motion-with-gopro-hero-10/"><u>[Updated] A Step-by-Step Manual for Stunning Slow Motion with GoPro Hero 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-tips-and-tricks-from-tomntech-expertise/"><u>Advanced Hardware Tips and Tricks From Tom'nTech Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-the-latest-in-pc-and-graphics-cards-by-toms-experts/"><u>Decoding the Latest in PC and Graphics Cards by Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-gamers-choice-discover-the-premier-router-collection-for-peak-playing-experience/"><u>Elite Gamers' Choice: Discover the Premier Router Collection for Peak Playing Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-convertor-list-best-5-online-gif-to-video-apps/"><u>Essential Convertor List Best 5 Online GIF to Video Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-spark-20mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Spark 20Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-sci-fi-virtual-voyages-the-most-immersive-movies-in-the-metaverse-space/"><u>In 2024, Sci-Fi Virtual Voyages The Most Immersive Movies in the Metaverse Space</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-with-a-bang-building-a-youtube-presence/"><u>Starting with a Bang Building a YouTube Presence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-selecting-the-best-3d-printers-of-202-the-best-and-affordable-3d-models-for-diy-enthusiasts-fdm-resin-and-sub-250/"><u>Ultimate Guide to Selecting the Best 3D Printers of 202 The Best and Affordable 3D Models for DIY Enthusiasts (FDM, Resin & Sub-$250)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-mysteries-of-pc-gear-with-toms-hardware-insights/"><u>Unraveling the Mysteries of PC Gear with Tom's Hardware Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Complexities of Tech Gear with Tom's Hardware Wisdom
-date: 2024-08-19T03:59:02.773Z
-updated: 2024-08-20T03:59:02.773Z
+date: 2025-01-12T19:07:54.991Z
+updated: 2025-01-18T16:01:04.841Z
 tags:
   - cooling
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/DhND8bd3GstJEL8fx8saAP-320-80.jpg
 The AIO liquid cooler market has become much more competitive in the past year or so, resulting in stronger products available for lower prices than ever. Over the past year, top-performing AIOs have been available for as low as $120 USD. Today we’ll be covering ID-Cooling’s latest 360mm AIO, the FX360 Pro, which is available for only $60 – a price lower than many high-end air coolers.
 
  With such a budget price tag, I have to wonder if it’s actually strong enough to tame a hot CPU like Intel’s i7-13700K. Does the FX 360 Pro have what it takes to earn a spot on our[best AIO coolers](https://www.tomshardware.com/best-picks/best-aio-coolers) list? We’ll have to put it through testing to find out. But first, here are the specifications from ID-Cooling.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cooler specifications
 
@@ -42,6 +46,10 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Packing and included contents
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
@@ -66,9 +74,6 @@ Included in the box are the following:
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -81,9 +86,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -100,18 +102,12 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -119,6 +115,10 @@ The top of the CPU black features a reflective black etched metal design.
  Included with the AIO is a tube of ID-Cooling’s new premium thermal paste, Frost X45\. The thermal conductivity of this paste is advertised at 15.2W/M-K. We’ll be taking a look at this paste in more detail in our upcoming refreshed[thermal paste tests.](https://www.tomshardware.com/best-picks/best-thermal-paste)
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -150,6 +150,10 @@ The top of the CPU black features a reflective black etched metal design.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
@@ -157,8 +161,9 @@ The top of the CPU black features a reflective black etched metal design.
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -218,17 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -237,4 +236,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-invisible-audiences-viewing-instagram-stories-privately-from-pcandroidios-screens/"><u>[New] 2024 Approved Invisible Audiences Viewing Instagram Stories Privately From PC/Android/iOS Screens</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-step-by-step-process-for-making-a-stellar-podcast-launch-video/"><u>[New] 2024 Approved Step-By-Step Process for Making a Stellar Podcast Launch Video</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-perfect-panning-top-techniques-for-cricket-live-views/"><u>[New] Perfect Panning Top Techniques for Cricket Live Views</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-desktop-systems-for-quality-use/"><u>[Updated] Prime Desktop Systems for Quality Use</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-restore-missing-watch-artwork-for-2024/"><u>[Updated] Restore Missing Watch Artwork for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-social-media-mastery-embedding-twitch-streams-on-fb/"><u>[Updated] Social Media Mastery Embedding Twitch Streams on FB</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-promotional-planning-perfection/"><u>In 2024, Promotional Planning Perfection</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-detailed-breakdowns-from-toms-hardware-guides/"><u>Mastering Tech: Detailed Breakdowns From Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mingda-magic-pen-ii-evaluation-robust-design-and-silent-operation/"><u>Mingda Magic Pen II Evaluation: Robust Design and Silent Operation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-electronics-toms-hardware-resource/"><u>Navigate the World of Electronics - Tom's Hardware Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-showdown-eight-degree-difference-sees-pumpless-giant-trailing-behind-classic-cooling-systems-in-rigorous-assessments/"><u>Performance Showdown: Eight-Degree Difference Sees Pumpless Giant Trailing Behind Classic Cooling Systems in Rigorous Assessments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/phrozen-sonic-mega-8k-s-resin-the-definitive-toolkit-companion-for-professionals-in-print-farming/"><u>Phrozen Sonic Mega 8K S Resin - The Definitive Toolkit Companion for Professionals in Print Farming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-testing-with-tom-hardware-solutions/"><u>Pioneering Computer Testing with Tom Hardware Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-review-top-tier-engravers-and-cutters-of-the-year-2024/"><u>Professional Review: Top-Tier Engravers and Cutters of the Year 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-cooling-tech-asetek-unveils-ai-enhanced-ecam-cold-plate-via-advanced-3d-metal-printing-with-fabric8labs/"><u>Revolutionizing Cooling Tech: Asetek Unveils AI-Enhanced ECAM Cold Plate via Advanced 3D Metal Printing with Fabric8Labs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-money-premium-3d-printer-models-delivering-excellence-without-breaking-your-budget/"><u>Save Money : Premium 3D Printer Models Delivering Excellence Without Breaking Your Budget</u></a></li>
+<li><a href="https://win-dash.techidaily.com/successful-broadcom-network-drivers-installation-guide-gige-version-for-windows-10/"><u>Successful Broadcom Network Drivers Installation Guide - GigE Version for Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-failed-texture-loads-in-call-of-duty-warzone/"><u>Troubleshooting Failed Texture Loads in Call of Duty: Warzone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of Electronic Gadgets by Tom's Guides
-date: 2024-08-19T03:54:12.481Z
-updated: 2024-08-20T03:54:12.481Z
+date: 2025-01-13T16:47:38.249Z
+updated: 2025-01-18T19:26:44.752Z
 tags:
   - best-picks
 categories:
@@ -54,9 +54,6 @@ When buying a Raspberry Pi HAT, ask yourself these questions:
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Pimoroni Inventor HAT Mini
 
 Best General Purpose Raspberry Pi HAT
@@ -111,10 +108,6 @@ Simple Python module
 
 ![Best Raspberry Pi HAT for Lego Projects](https://cdn.mos.cms.futurecdn.net/ucxn9TryRzNrNxf7QLbmj-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ### 2\. Build HAT
@@ -177,6 +170,10 @@ Incompatible with some HATs
 
 Pimoroni IO Expander  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Pimoroni IO Expander
 
 ADC and 14 Extra GPIO Pins for Your Pi
@@ -223,9 +220,6 @@ Add 14 GPIO pins
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/m7hyCqNXZXwVbdfCjGR8wb-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Pimoroni)
 
 ### 4\. Pimoroni Picade X HAT
@@ -276,13 +270,6 @@ Blocks CPU and raises temperature
 
  (Image credit: Raspberry Pi Trading)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### 5\. Raspberry Pi Sense HAT
 
  Best Raspberry Pi HAT for Learning, Experiments
@@ -327,6 +314,10 @@ Works with Python and Scratch
 
  (Image credit: Pimoroni)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Pimoroni Breakout Garden
 
  Best Raspberry Pi HAT for Using Multiple Sensors
@@ -365,10 +356,6 @@ Breakout I2C boards can be expensive
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/k2TyrkgDpqcA5UXZ9HNXdc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  (Image credit: Raspberry Pi Trading)
 
 ### 7\. Raspberry Pi PoE HAT
@@ -417,14 +404,12 @@ Only works on Pi 3B+ and later
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/5uTCjguWVL9TMTkdQ47Hxd-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  (Image credit: Gareth Halfacree)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8\. Google AIY Voice Kit (with HAT)
 
  Best Raspberry Pi HAT for Artificial Intelligence
@@ -464,6 +449,10 @@ Initial purchase is expensive
  To accompany this Raspberry Pi HAT is a robust Python 3 module which simplifies the task of creating a voice assistant. This HAT can be used with all 40 pin models of Raspberry Pi including the Pi Zero W. A great kit to start your AI learning!
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/RA4pe4KswtZXjFnmvx2fsc-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Les Pounder)
 
@@ -511,9 +500,6 @@ Designed for older Raspberry Pi
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/SaHprzZd3GTCwshUTz5Eyc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Adafruit)
 
 ### 10\. Adafruit Perma-Proto HAT
@@ -556,11 +542,12 @@ Expensive for multiple boards
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/sXxxJqFKieeChEYF2U6z4d-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Adafruit)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 11\. Adafruit Capacitive Touch HAT
 
  Best Raspberry Pi HAT for Inspiring Creativity
@@ -606,10 +593,14 @@ Lots of wires for all 12 connections
 ![Raspberry Pi M.2 HAT+](https://cdn.mos.cms.futurecdn.net/QfCX4wvRYdUrwwogMp43cA-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [12. Raspberry Pi M.2 HAT+](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review)
 
@@ -656,8 +647,9 @@ Plastic screws GPIO access is awkward
 **Read:** [Raspberry Pi M.2 HAT+ Review](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Finding Discounts on the Best Raspberry Pi HATs
 
  Whether you're shopping for one of the best Raspberry Pi HATs or one that didn't quite make our list, you may find savings by checking out the latest[SparkFun promo codes](https://www.tomshardware.com/coupons/sparkfun.com) ,[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) ,[Amazon promo codes](https://www.tomshardware.com/coupons/amazon.com) or[Micro Center coupons](https://www.tomshardware.com/coupons/category/ssds-motherboards-and-hardware) .
@@ -711,15 +703,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -728,4 +719,24 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-optimal-filming-equipment-advice-on-choosing-the-best-lenses/"><u>[New] 2024 Approved Optimal Filming Equipment Advice on Choosing the Best Lenses</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-tips-for-crafting-gifs-for-2024/"><u>[Updated] Essential Tips for Crafting GIFs for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-soundscapes-for-social-scenarios-on-facebook-for-2024/"><u>[Updated] Soundscapes for Social Scenarios on Facebook for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bare-essentials-for-relaxation/"><u>2024 Approved Bare Essentials for Relaxation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-pc-upgrade-journey-with-toms-hardware-advice-toms-hardware/"><u>Ace Your PC Upgrade Journey with Tom's Hardware Advice! 🚀 | Tom's Hardware</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-lava-blaze-pro-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-11-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 11 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-the-anycubic-kobra-3-mastering-full-spectrum-prints/"><u>In-Depth Evaluation of the Anycubic Kobra 3 - Mastering Full Spectrum Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptron-exposed-misuse-of-fake-aida64-keysets-in-their-latest-lcd-device-line/"><u>Lamptron Exposed: Misuse of Fake AIDA64 Keysets in Their Latest LCD Device Line</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lihan-lhfm1c039-reviewed-seamless-bluetooth-fm-transmitter-for-in-car-entertainment-upgrade/"><u>LIHAN LHFM1C039 Reviewed: Seamless Bluetooth FM Transmitter for In-Car Entertainment Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/makers-revolutionary-creation-a-fully-functional-underwater-3d-printer-for-aquatic-environments/"><u>Makers' Revolutionary Creation: A Fully Functional Underwater 3D Printer for Aquatic Environments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-horizons-expert-advice-from-toms-hardware/"><u>Navigating New Tech Horizons: Expert Advice From Tom's Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-from-failed-discord-games-detection-on-windows/"><u>Steps to Recover From Failed Discord Games Detection on Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ming-to-the-max-top-5-headset-picks/"><u>Streaming to the Max Top 5 Headset Picks</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pova-5-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 5 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/texas-mansion-for-24m-luxury-living-and-integrated-high-tech-5786-sq-ft-data-haven-featuring-advanced-liquid-cooling/"><u>Texas Mansion for $2.4M: Luxury Living & Integrated High-Tech 5,786 Sq Ft Data Haven Featuring Advanced Liquid Cooling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-computing-rumored-release-schedule-for-intels-arrow-lake-s/"><u>The Future of Computing: Rumored Release Schedule for Intel's Arrow Lake-S</u></a></li>
+</ul></div>
 

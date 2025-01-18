@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Resource for Hardware Enthusiasts by Tom's Team
-date: 2024-08-19T03:58:49.581Z
-updated: 2024-08-20T03:58:49.581Z
+date: 2025-01-15T17:30:13.451Z
+updated: 2025-01-18T16:51:50.923Z
 tags:
   - cooling
 categories:
@@ -42,6 +42,10 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Packing and included contents
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
@@ -65,6 +69,10 @@ Included in the box are the following:
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Features of ID-Cooling’s FX 360 Pro
 
@@ -101,8 +109,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -112,8 +121,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶[**TF-12025-Pro 120mm fans**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FID-COOLING-120mm-Cooler-Radiator-Chassis%2Fdp%2FB0BV8ZRJMW%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1257997566399542543-20)
@@ -122,18 +132,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -155,8 +153,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ## LGA1700 Socket Bending
@@ -197,9 +196,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -227,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -245,4 +236,18 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unveiling-the-best-ways-to-capture-your-minecraft-quests-on-a-mac/"><u>[Updated] In 2024, Unveiling the Best Ways to Capture Your Minecraft Quests on a Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-step-up-your-gameplay-with-a-top-ranked-no-fee-voice-transformation-tool/"><u>[Updated] Step Up Your Gameplay with a Top-Ranked No-Fee Voice Transformation Tool</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-6-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 6</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725284691026-dvd/"><u>DVDセキュリティ突破できないコレクションの管理と解析法</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-mastering-dimming-audio-with-audacity/"><u>In 2024, Mastering Dimming Audio with Audacity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-fixes-for-a-cold-3d-printing-bed-how-to-reignite-the-heating-mechanism/"><u>Step-by-Step Fixes for a Cold 3D Printing Bed: How to Reignite the Heating Mechanism</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/test-results-show-minimal-difference-the-240mm-pumpless-aio-cooler-vs-pump-powered-competitors/"><u>Test Results Show Minimal Difference: The 240Mm Pumpless AiO Cooler Vs. Pump-Powered Competitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-and-tech-insights/"><u>Tom's Computing and Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-3d-printing-materials-of-2024-a-comprehensive-guide/"><u>Top Ranked 3D Printing Materials of 2024 - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-network-expanders-boost-connectivity-and-velocity/"><u>Top-Rated Network Expanders: Boost Connectivity & Velocity</u></a></li>
+</ul></div>
 

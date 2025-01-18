@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Secure a 36%% Discount on the Durable 8TB Samsung Portable SSD at Amazon - Insights From ZDNet"
-date: 2025-01-09T03:33:12.314Z
-updated: 2025-01-13T02:37:38.920Z
+date: 2025-01-16T19:43:10.819Z
+updated: 2025-01-18T16:55:37.037Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5d25efea-41c2-4721-bece-33eaed47020a%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,19 +65,18 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-skys-palette-explored-top-websites-showcasing-hd-imagery/"><u>[New] Sky's Palette Explored - Top Websites Showcasing HD Imagery</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[Updated] In 2024, From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-zoom-companion-for-snapchat-enthusiasts/"><u>[Updated] The Ultimate Zoom Companion for Snapchat Enthusiasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-tips-to-develop-captivating-vlogs-a-scriptwriting-approach/"><u>[Updated] Tips to Develop Captivating Vlogs A Scriptwriting Approach</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-avoiding-malware-downloading-safe-and-gratis-vlc-on-apple-devices/"><u>2024 Approved Avoiding Malware Downloading Safe and Gratis VLC on Apple Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-selection-of-omnidirectional-recording-devices/"><u>2024 Approved Ultimate Selection of Omnidirectional Recording Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/access-the-latest-ios-18-preview-release-today/"><u>Access the Latest iOS 18 Preview Release Today!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-knowledge-on-electronics-features-by-toms-experts/"><u>Inside Knowledge on Electronics - Features by Tom's Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-next-gen-computer-cooler-tryxs-one-of-a-kind-curved-amoled-screen-by-chinas-leading-manufacturer/"><u>Introducing the Next-Gen Computer Cooler: Tryx's One-of-a-Kind Curved AMOLED Screen by China's Leading Manufacturer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/make-the-most-of-black-friday-here-are-5-reasons-why-you-need-a-3d-printer-now/"><u>Make the Most of Black Friday - Here Are 5 Reasons Why You Need a 3D Printer Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-flawless-3d-printing-no-more-blisters-or-pimples/"><u>Master the Art of Flawless 3D Printing: No More Blisters or Pimples</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-inside-perspective-by-toms-hardware/"><u>Mastering Gadgets and Systems - Inside Perspective by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mo-ra-iv-600-premium-heavy-duty-pc-radiator-with-9x200mm-fans-over-35lbs-cooling-power-for-under-600/"><u>MO-RA IV 600: Premium Heavy-Duty PC Radiator with 9X200mm Fans - Over 35Lbs Cooling Power for Under $600</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/safeguarding-your-digital-wealth-expert-tips-on-securing-crypto-assets-from-yl-software/"><u>Safeguarding Your Digital Wealth: Expert Tips on Securing Crypto Assets From YL Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-deciphering-absent-messages-on-snapmap/"><u>[Updated] 2024 Approved Deciphering Absent Messages on Snapmap</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unparalleled-access-8-leading-fb-movie-downloader-list/"><u>[Updated] Unparalleled Access #8 Leading FB Movie Downloader List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-the-most-compelling-8-videomosaic-creators-for-android-devices/"><u>Discovering the Most Compelling #8 Videomosaic Creators for Android Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/essential-tips-for-accessing-mxf-videos-on-your-macbook-5-easy-solutions-to-try-now/"><u>Essential Tips for Accessing MXF Videos on Your Macbook – 5 Easy Solutions to Try Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-hats-review-best-action-cameras-on-two-wheels/"><u>Exclusive Hats Review Best Action Cameras on Two Wheels</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-top-gear-at-toms-computing-emporium-a-detailed-review/"><u>Exploring Top Gear at Tom's Computing Emporium - A Detailed Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-alienware-aw2725df-with-360hz-oled-display-ultimate-gamers-review/"><u>High-Performance Alienware AW2725DF with 360Hz OLED Display - Ultimate Gamer's Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-guide-to-high-quality-mac-frames-max-156-chars/"><u>In 2024, Ultimate Guide to High-Quality Mac Frames (Max 156 Chars)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-asus-proart-pa32ucxr-a-revolution-in-professional-monitor-accuracy-with-mini-leds/"><u>In-Depth Analysis of Asus ProArt PA32UCXR: A Revolution in Professional Monitor Accuracy with Mini LEDs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-toms-hardware-selection/"><u>In-Depth Analysis of Tom's Hardware Selection</u></a></li>
+<li><a href="https://common-error.techidaily.com/prevent-win11-reboots-unexpectedly/"><u>Prevent Win11 Reboots Unexpectedly</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-cannot-connect-to-nvidia-issue-in-windows-1111x-devices/"><u>Steps to Resolve 'Cannot Connect to NVIDIA' Issue in Windows 11/11X Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-process-for-asus-z370-e-drivers-begin-your-update-today/"><u>Streamlined Process for ASUS Z370-E Drivers - Begin Your Update Today</u></a></li>
 </ul></div>
 

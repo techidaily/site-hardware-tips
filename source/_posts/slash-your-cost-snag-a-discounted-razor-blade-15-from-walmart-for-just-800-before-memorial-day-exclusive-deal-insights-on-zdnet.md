@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights on ZDNet"
-date: 2025-01-10T02:13:37.539Z
-updated: 2025-01-12T19:39:54.963Z
+date: 2025-01-15T19:21:56.826Z
+updated: 2025-01-18T19:17:10.892Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,24 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-efficient-mobile-methods-for-snapchat-archive/"><u>[New] Efficient Mobile Methods for Snapchat Archive</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-visual-vibrance-essential-gadgets-for-video-for-2024/"><u>[New] Visual Vibrance Essential Gadgets for Video for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-essential-11-guides-on-color-adjustment-excellence/"><u>[Updated] 2024 Approved Essential 11 Guides on Color Adjustment Excellence</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-tricks-for-snagging-youtube-dialogues/"><u>[Updated] 2024 Approved Tricks for Snagging YouTube Dialogues</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-discover-the-power-of-dual-screen-viewing-a-complete-guide-for-netflix-users-for-2024/"><u>[Updated] Discover the Power of Dual-Screen Viewing - A Complete Guide for Netflix Users for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images-for-2024/"><u>[Updated] From Novice to Pro Your Step-by-Step Guide to YouTube Live Images for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-understanding-youtubes-rating-mechanism-nuances/"><u>[Updated] In 2024, Understanding YouTube's Rating Mechanism Nuances</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-improved-zoom-video-quality/"><u>[Updated] The Ultimate Guide to Improved Zoom Video Quality</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-nord-ce-3-lite-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus Nord CE 3 Lite 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 12 Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-best-value-3d-printing-offers-of-2024/"><u>Top 5 Best Value 3D Printing Offers of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-hard-drives-of-2024-ultimate-guide-for-desktops-and-nas-solutions/"><u>Top Pick Hard Drives of 2024: Ultimate Guide for Desktops & NAS Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-reviews-of-the-silent-and-mighty-hyte-thicc-q60-240mm-aio-liquid-cpu-cooler/"><u>Top Reviews of the Silent and Mighty Hyte THICC Q60 240Mm AIO Liquid CPU Cooler</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-pcs-airflow-opt-for-cooler-masters-advanced-dual-fan-graphics-card-solution/"><u>Transform Your PC's Airflow: Opt for Cooler Master's Advanced Dual-Fan Graphics Card Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-powerful-overclocking-cooler-masters-advanced-aio-and-air-coolers-surpass-300w-heat-dissipation/"><u>Unleash Powerful Overclocking: Cooler Master's Advanced AIO & Air Coolers Surpass 300W Heat Dissipation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-hardware-secrets-with-tom-a-buyers-resource-for-technology-gear/"><u>Unlocking Hardware Secrets with Tom: A Buyer's Resource for Technology Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-flsun-s1-a-comprehensive-review-of-its-rapid-warping-and-innovative-delta-design/"><u>Unveiling the FLSun S1: A Comprehensive Review of Its Rapid-Warping and Innovative Delta Design</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-wisdom/"><u>Unveiling the Latest Gadgets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-next-gen-fb-converter-transform-vids-to-premium-mp4/"><u>[New] Next-Gen FB Converter Transform Vids to Premium MP4</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-snap-shooting-techniques-for-zoom-calls/"><u>[New] Snap Shooting Techniques for Zoom Calls</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-creators-revolutionizing-virtual-environments-for-2024/"><u>[New] Top Creators Revolutionizing Virtual Environments for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-complete-breakdown-lg-bp350-monitors-specifications-and-reviews/"><u>2024 Approved A Complete Breakdown LG BP350 Monitor's Specifications and Reviews</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inshots-playlist-prowess-adding-external-music/"><u>2024 Approved InShot's Playlist Prowess Adding External Music</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/come-cancellare-i-backup-aggiuntivi-con-il-pannello-di-controllo-seagate/"><u>Come Cancellare I Backup Aggiuntivi Con Il Pannello Di Controllo Seagate</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-elite-guide-to-gopro-side-by-side-shopping/"><u>In 2024, The Elite Guide to GoPro Side-By-Side Shopping</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-expert-tips-from-toms-hardware-blog/"><u>Navigating Through Technology: Expert Tips From Tom's Hardware Blog</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-zoom-in-google-for-2024/"><u>New How to Use Zoom in Google for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-gaming-experience-with-the-alienware-aw2725df-an-oled-monitor-built-for-speed-and-immersion-reviewed-here/"><u>Revolutionize Your Gaming Experience with the Alienware AW2725DF - An OLED Monitor Built for Speed and Immersion Reviewed Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-setup-with-the-aoc-agon-pro-ag45nucg-an-in-depth-look-at-the-45-ultrawide-oled-gaming-screen-sharp-performance-meets-stylish-extreme-curv58/"><u>Revolutionize Your Setup with The AOC Agon Pro AG45nUCG - An In-Depth Look at the 45 Ultrawide OLED Gaming Screen: Sharp Performance Meets Stylish Extreme Curve</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/spectacular-size-and-speed-for-gamers-comprehensive-review-of-the-low-priced-monoprice-crystal-pro-40-inch-screen/"><u>Spectacular Size & Speed for Gamers - Comprehensive Review of the Low-Priced Monoprice Crystal Pro 40-Inch Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-cutting-edge-computer-components/"><u>Tom's Tech Insights: Your Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ultrawide-displays-for-gamers-best-picks-2nd3/"><u>Top Ultrawide Displays for Gamers - Best Picks 2nD3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-samsung-pixel-dense-viewfinity-s9-5k-monitor-now-just-899-save-44-on-this-premium-27-ips-display-with-integrated-4k-cam/"><u>Unbeatable Deal: Samsung Pixel-Dense ViewFinity S9 5K Monitor, Now Just $899 - Save 44% on This Premium 27 IPS Display with Integrated 4K Cam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-titan-army-p27a2r-monitor-a-comprehensive-review-of-its-gaming-capabilities-and-affordability/"><u>Unboxing the Titan Army P27A2R Monitor: A Comprehensive Review of Its Gaming Capabilities and Affordability</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-streamline-your-workflow-how-to-optimize-your-macs-storage-for-fcpx/"><u>Updated Streamline Your Workflow How to Optimize Your Macs Storage for FCPX</u></a></li>
 </ul></div>
 

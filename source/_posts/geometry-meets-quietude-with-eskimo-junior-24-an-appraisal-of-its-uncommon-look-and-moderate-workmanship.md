@@ -1,7 +1,7 @@
 ---
 title: "Geometry Meets Quietude with Eskimo Junior 24: An Appraisal of Its Uncommon Look and Moderate Workmanship"
-date: 2024-08-19T03:55:55.358Z
-updated: 2024-08-20T03:55:55.358Z
+date: 2025-01-12T17:29:34.058Z
+updated: 2025-01-18T16:44:33.698Z
 tags:
   - cooling
 categories:
@@ -78,11 +78,19 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/dieTs7KABMJHy4kSKD8QcH-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Nexus Link Type-M connector is fairly large and made up of pins and pads. It has built-in magnets and connects to fans. The same connector and magnets are built into the FP12 fans, allowing them to connect to one another without extra wires.
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/xRruzmfsSgmJiXqdK3AGyF-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -90,15 +98,16 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/BWivYBAugZEavPAUEde2uE-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Hyte includes cables of various lengths and with various connectors in the box with its fans and cooler. There is even a Nexus Type-C to four-pin fan header cable should you want to control your fans that more traditional way, rather than through a node and the company's software.  
   
  During the build process, I never found myself in need of a Nexus Link cable that wasn't included in the box – which is a good thing considering the company doesn't seem to sell these cables separately yet.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -107,9 +116,6 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## NP50 node
 
  We've already covered the Hyte Thicc Q60 AIO cooler elsewhere, but the much-less-expensive way to hop onto the Nexus Link ecosystem is by picking up an NP50 hub. Confusingly, while Hyte calls these nodes, the product itself is labeled as a Nexus Portal. The NP50 isn't for sale by itself yet, but you can pick it up alongside a few of Hyte's fans or light strips for an extra $30\. It has a nice steel frame with a white cover that attaches via magnets. There's a dual USB-C connector that leads to power, USB, and PWM connectors to control your devices and three ports on the bottom for connecting your Nexus Link devices.
@@ -123,15 +129,13 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 ![Hyte Nexus Link](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  At about 0.88 inches thick, the NP50 isn't going to fit in a 2.5-inch drive slot, but it does have 2.5-inch drive mounting holes on the back that will let you mount the hub conveniently behind the motherboard in many modern cases. It comes with similar cables and connections as the Q60 cooler, as well as some stick-on cable clips.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Building a PC with Hyte's Nexus Link
 
  I'm not going to cover the entire build process here, because installing the core components is a pretty standard process – or it would have been had I not somehow bent a single pin on my Asus Prime Z690-A motherboard, causing the system not to boot once I thought I had done most of the work.
@@ -139,8 +143,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/MzJQurpmzSF6Ba2iUCSqiG-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  I eventually swapped it out with a newer[MSI](https://www.tomshardware.com/tag/msi-microstar) Meg Z790 Ace Max, which is why you'll see a mix of both boards in the photos accompanying this story.  
@@ -155,9 +160,6 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  But if you're already using two PCIe connectors for your graphics card and your power supply isn't modular or doesn't have an extra PCIe connector to spare, you'll need to buy a new PSU. Yes, you might need to upgrade your power supply to run your expensive, fancy new AIO cooler. No one ever said making things "easier" wasn't going to be expensive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Prepping the Hyte Y70 case
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/ntUx7ghNMhmAkUaRbeR64H-320-80.jpg)
@@ -168,9 +170,6 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/NT6mgYDiB7LaSrevHKxerH-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Next, it was just a matter of popping the board into its place in the case, with the CPU and RAM pre-installed.
@@ -185,20 +184,16 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/YEbpiC8ag4TEi7TTjjMCVG-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Next up, it was time to mount the top exhaust fans. This was exceedingly easy since they snap simply together via pogo pins and magnets. I held the three in place with one hand and screwed them in from the top of the case.
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/S9xgz56Xrf6k9Hn7jEpqYF-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  After this, I thought I was more or less done with the primary components, so I re-installed the riser cable, plugged in all the usual power,[audio](https://www.tomshardware.com/tag/audio) , USB, and header cables, then installed our Gigabyte 7700 XT graphics card.  
@@ -211,9 +206,6 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/vp5PD2EwqCu6Bhwtk3yDEG-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  With the new MSI board in place and everything plugged back in, I powered the system up and it booted without any further issues. But, I soon realized, I hadn't installed any RGB strips – Hyte sent me five of them for this story, so I felt compelled to use at least one. The Q60's screen does have RGB lights behind it that give off what's probably enough RGB for most builders.  
@@ -225,8 +217,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
  It would also be nice if Hyte would create and include some right-angle adapters for connecting multiple light strips. I would have used more strips in the Y70 case if it were easier to get the lights to bend around corners in a visually pleasing way.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## One more fan
 
  In the process of running the RGB strip I noticed that, if I moved the radiator up slightly, there was just room enough for one more fan under the radiator. Clearly, more intake can't hurt since the case has no front ventilation. So I raised the radiator by loosening and removing some screws, and shoved an additional fan in place below the radiator. It snapped onto the magnetic connectors at the bottom of the radiator fan like it was born to be there. With the fan and RGB strip in place, I powered up the system, installed Windows, and then grabbed Hyte's Nexus Link Software to see.
@@ -236,6 +229,10 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
  Of course, no cooling / RGB ecosystem is complete without software that lets you change the lighting modes, adjust fan speeds, and monitor your system's temps. And I've spent enough frustrating hours with Corsair's iCue, Razer's Chroma, MSI Center, and Asus' Armoury Crate over the years that my expectations for Hyte's Nexus Link program were pretty low. But while there's definitely room for expansion and improvement, I found controlling the screen on the Q60 cooler, the RGB lights, and Hyte's fans a refreshingly intuitive experience. That said, some of the functionality is limited at the moment. So perhaps that's partially why I didn't struggle much doing the things that the software currently lets you do.
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/nTVXvtrAnwKXeTS48HoSVN-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -264,13 +261,18 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 ![Hyte Nexus Link](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Ambition and reality are often far apart, though, and I found the options for controlling the 5-inch screen on the Thicc Q60 cooler to be pretty limiting, at least for now.
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/g7NXKhhHdJb6Uoji3pWqiJ-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -278,9 +280,6 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/VRHuf4rXjJ6TAY5zWcwaRJ-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's great that Hyte is continuing to add new features, but if I'd just spent $299 on a cooler with a large 5-inch display and found out the most interesting thing I could do with it was show the weather, I don't think I'd be particularly happy, no matter how well the cooler performs (and it performs extremely well).  
@@ -307,8 +306,6 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -316,4 +313,20 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-to-mp3-conversion-guide-for-2024/"><u>[New] Instagram to MP3 Conversion Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-ranked-cloud-stores-analysis-and-pricing-insights/"><u>[Updated] In 2024, Top-Ranked Cloud Stores Analysis & Pricing Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturing-the-action-ps4-to-video-using-obs/"><u>2024 Approved Capturing the Action PS4 to Video Using OBS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-step-by-step-techniques-for-seamless-youtube-subtitling-and-captions/"><u>2024 Approved Step-by-Step Techniques for Seamless YouTube Subtitling & Captions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-accessories-to-boost-your-raspberry-pi-projects/"><u>Advanced Accessories to Boost Your Raspberry Pi Projects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-and-hardware-analysis/"><u>Expert Insights From Tom’s Computer & Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-pc-components-a-review-by-toms-hardware-experts/"><u>Inside Look at PC Components - A Review by Tom's Hardware Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-guide-to-fix-idt-hd-audio-codec-driver-quirks-for-a-smooth-experience-with-windows-10/"><u>Master Guide to Fix IDT HD Audio Codec Driver Quirks for a Smooth Experience with Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-users-manual-to-toms-cutting-edge-technology-insights/"><u>The Complete User's Manual to Tom's Cutting-Edge Technology Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-gadget-reviews-and-advice/"><u>Tom's Tech Hub: Expert Gadget Reviews and Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-affordable-4k-ultra-hd-displays-of-2024/"><u>Top Affordable 4K Ultra HD Displays of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-premier-wavy-gaming-screens-2024-edition/"><u>Ultimate Selection: Premier Wavy Gaming Screens - 2024 Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unraveling-the-itunes-radio-download-process-for-2024/"><u>Unraveling the iTunes Radio Download Process for 2024</u></a></li>
+</ul></div>
 

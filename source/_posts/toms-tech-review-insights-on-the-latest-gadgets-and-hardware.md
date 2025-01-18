@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: Insights on the Latest Gadgets and Hardware"
-date: 2024-08-19T03:51:31.090Z
-updated: 2024-08-20T03:51:31.090Z
+date: 2025-01-12T17:08:10.195Z
+updated: 2025-01-18T19:35:01.105Z
 tags:
   - cooling
 categories:
@@ -42,6 +42,10 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Packing and included contents
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
@@ -64,11 +68,12 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -98,17 +103,15 @@ Included in the box are the following:
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -125,9 +128,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -148,9 +148,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ## LGA1700 Socket Bending
@@ -159,9 +156,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -194,6 +188,10 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -221,13 +219,15 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,4 +236,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-background-tunes-to-boost-your-status/"><u>[New] Background Tunes to Boost Your Status</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-the-best-of-moba-on-android-10-lists/"><u>[New] In 2024, Navigating the Best of MOBA on Android - #10 Lists</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-elevate-cinematic-quality-introducing-device-based-filters/"><u>[Updated] 2024 Approved Elevate Cinematic Quality Introducing Device-Based Filters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-hideous-heroes-black-vs-gleaming-guardians-silver/"><u>[Updated] 2024 Approved Hideous Heroes (Black) VS Gleaming Guardians (Silver)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-tutorial-on-vlcs-automatic-screen-recorder/"><u>[Updated] 2024 Approved Tutorial on VLC's Automatic Screen Recorder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-seamless-mp4-to-fb-video-transfer-technology/"><u>[Updated] Seamless MP4-to-FB Video Transfer Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/demystifying-fatal-errors-in-setup-processes-insights-into-correcting-error-1603/"><u>Demystifying Fatal Errors in Setup Processes: Insights Into Correcting Error 1603</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-colors-a-comprehensive-analysis-of-the-asus-rog-swift-49-inch-monitor/"><u>Dive Into Colors: A Comprehensive Analysis of the Asus ROG Swift 49-Inch Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-entertainment-with-a-spectacular-lg-ultragear-monitor-now-at-a-steal-at-499/"><u>Elevate Your Entertainment with a Spectacular LG UltraGear Monitor - Now at a Steal at $499</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-gameplay-with-a-crystal-clear-innocn-27-240hz-gaming-monitor-limited-offer-only-1amonth/"><u>Elevate Your Gameplay with a Crystal-Clear Innocn 27 240Hz Gaming Monitor - Limited Offer: Only $1Amonth</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-visual-experience-with-modos-papers-newly-announced-133-inch-e-ink-display-featuring-stunning-1200p-resolution-open-source-accessibility-and-re72/"><u>Elevate Your Visual Experience with Modos Paper's Newly Announced 13.3-Inch E-Ink Display: Featuring Stunning 1200P Resolution, Open Source Accessibility and Reduced Latency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-immersive-gameplay-on-asuss-newly-revealed-oled-gaming-masterpiece-a-27-non-flickering-screen-with-adaptive-sync-capabilities/"><u>Explore Immersive Gameplay on Asus's Newly Revealed OLED Gaming Masterpiece: A 27 Non-Flickering Screen With Adaptive Sync Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-visual-splendor-of-viewsonics-xg272-2k-monitor-gaming-display-evaluation/"><u>Exploring the Visual Splendor of ViewSonic's XG272-2K Monitor: Gaming Display Evaluation 🎮</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/finding-the-needle-in-the-haystack-expert-tips-for-identifying-files-on-your-windows-pc-with-yl-software-solutions/"><u>Finding the Needle in the Haystack: Expert Tips for Identifying Files on Your Windows PC with YL Software Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadget-analysis-by-toms-technology-hub-your-ultimate-guide/"><u>Gadget Analysis by Tom’s Technology Hub - Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-most-from-your-budget-with-eyoys-em105-a-must-read-for-fans-of-portable-105-monitors/"><u>Get the Most From Your Budget with EYOY's EM105 - A Must-Read for Fans of Portable 10.5 Monitors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-moto-e13-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Moto E13 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-toms-hardware-experts-find-your-perfect-pc-build/"><u>In-Depth Analysis by Tom's Hardware Experts - Find Your Perfect PC Build</u></a></li>
+</ul></div>
 

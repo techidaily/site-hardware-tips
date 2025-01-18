@@ -1,7 +1,7 @@
 ---
 title: "Felicia Day Explores the World of Additive Manufacturing: A Special Offer on Her Custom 3D Models for Enthusiasts!"
-date: 2024-08-19T03:58:26.030Z
-updated: 2024-08-20T03:58:26.030Z
+date: 2025-01-14T17:49:38.344Z
+updated: 2025-01-18T18:24:32.340Z
 tags:
   - printer
 categories:
@@ -19,6 +19,10 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
  It’s also advisable to increase the fan's speed to prevent overheating of the layers before the next ones are deposited, which leads to excess melted filament, which later forms blobs on the object.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Optimize Retraction Settings
 
  Retraction plays an essential role in pulling the filament back slightly when the nozzle is not moving between different locations. This helps prevent oozing which can result in blobs and other issues like[stringing in 3D prints](https://www.tomshardware.com/3d-printing/how-to-fix-stringing-in-3d-prints) .
@@ -33,6 +37,10 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
  As you make the adjustments, you can also 3D print a[retraction test model](https://www.thingiverse.com/thing:909901) and use it to adjust the settings until you achieve the sweet spot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,25 +51,20 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/bf3r7C9s6nZACJhsioefLA-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can begin with a lower retraction distance, like 2mm, print the model, and then check how it appears. It might have strings and other imperfections, and you can continue increasing by 0.5mm until you see improvement. You can then shift to retraction speed and start with a lower value, like 30 mm/s, and increase it gradually as you observe how the prints appear until you find the optimal value.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use Coasting
 
  When you activate coasting settings, it stops the extruding filament slightly before the end of the path when the nozzle is about to travel over an area without printing. This is helpful as it minimizes the pressure build-up in the nozzle, which causes the filament to ooze out and turn into blobs or zits. You can find the coasting setting in the**Experimental** section, and check the**Enable coasting** box to activate it.
 
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/WcERQDGybguB9i8aCqZ5jA-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  When you enable it, other settings appear, like**Coasting Volume** ,**Minimum Volume Before Coasting** , and**Coasting Speed** .
@@ -79,18 +82,15 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
  As you enable coasting to eliminate blobs and zits, you need to remember that its effectiveness depends on the geometry of your 3D model, 3D printing speed, and the type of filament you are using. So you need to tweak the settings until you achieve the best results.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Adjust 3D printing Speed and Temperature
 
  Adjusting how fast your 3D printer prints as well as the temperature you are using can also help fix the issue as these settings influence the extrusion rate and the cooling time for the layers. A higher 3D printing speed than necessary can result in increased pressure in the nozzle, which can cause the excess filament to ooze out, causing issues on the print as the nozzle moves.
 
  The standard speed is usually between 50-60 mm/s, and anything above this can result in problems. If the temperature is too high, the filament can become too fluid and start oozing out. Alternatively, if it is too low, there can be incomplete melting which results in uneven extrusion which causes irregularities and inconsistencies in the printed layers. You must adjust the temperature until you find the perfect settings for your filament and printer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Power Recovery Feature
 
  If none of the above options don’t work, you should consider turning off the power recovery option if it’s turned on. Even though this feature helps save your 3D print instead of starting to print from scratch in case of power interruption, it can introduce blobs. This is because when the feature is activated, the 3D printers utilize the SD card to write “check-points” or the print job state to the card, which will help in resuming the print and this might start competing with the standard printing operation, resulting in blobs.
@@ -98,8 +98,9 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
  Turning this feature on is not easy as not all the[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) have that option on the menu, and you need to use the SD card. Luckily, a YouTuber, Geek Detour, created[G-code files for enabling and disabling power recovery](https://geekdetour.com/3d-printing/blobs-in-your-3d-prints-power-loss-recovery-can-be-the-problem/) and you can download and save them to your SD card and use them. You can also choose to buy a UPS battery to address power challenges if you don’t want the challenge of your print being affected due to power loss.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Related 3D PrintingTutorials
 
 **More:** [5 Ways Fix Z Banding in 3D Printing](https://www.tomshardware.com/how-to/fix-z-banding-in-3d-printing)
@@ -110,14 +111,11 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
 **More:** [How to Use PrusaSlicer: A Beginners Guide](https://www.tomshardware.com/how-to/use-prusaslicer)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +124,22 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-astronomys-best-showcase-10-prime-hd-sky-archives/"><u>[New] Astronomy's Best Showcase - 10 Prime HD Sky Archives</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-inexpensive-capture-apps-reviewed-for-budget-pcs-for-2024/"><u>[New] Inexpensive Capture Apps Reviewed For Budget PCs for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-bridge-the-gap-youtube-tweet-functionality-for-2024/"><u>[Updated] Bridge the Gap YouTube Tweet Functionality for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-top-10-iphone-virtual-reality-games-to-beat-your-high-scores/"><u>[Updated] In 2024, Top 10 iPhone Virtual Reality Games to Beat Your High Scores</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-components-decoded-by-toms-hardware-wisdom/"><u>Advanced PC Components Decoded by Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125192092-dive-into-technology-comprehensive-insights-from-our-tech-hub-post-toms-hardware/"><u>Dive Into Technology: Comprehensive Insights From Our Tech Hub, Post-Tom's Hardware!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/friendly-playgrounds-metaverses-favorites/"><u>Friendly Playgrounds Metaverse's Favorites</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-lava-yuva-2-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Lava Yuva 2 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-approach-stitching-gopro-sequences-in-holoscopic-clips/"><u>Innovative Approach Stitching GoPro Sequences in Holoscopic Clips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175727926-nvme-ssd-uphere-m201-heatsink-review-exceptional-cooling-performance-at-an-unbeatable-5-price/"><u>NVMe SSD UpHere M201 Heatsink Review - Exceptional Cooling Performance at an Unbeatable $5 Price!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125192475-revolutionize-your-resin-output-with-this-power-packed-elegoo-washcure-bundle-all-for-just-149/"><u>Revolutionize Your Resin Output with This Power-Packed Elegoo Wash/Cure Bundle - All for Just $149!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175661042-save-big-on-chill-grab-the-arctic-aiold2018a-v2-air-cooler-now-at-unbeatable-74-price/"><u>Save Big on Chill: Grab the Arctic AIOLD2018A v2 Air Cooler Now at Unbeatable $74 Price!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-tech-trends-with-toms-hardware/"><u>Unveiling the Latest Tech Trends with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-quiet-might-of-deepcool-assassin-4s-graphics-cooler-critique/"><u>Unveiling the Quiet Might of DeepCool Assassin ˈ4s Graphics Cooler Critique</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Best of Tom's Hardware – Expert Analysis Inside
-date: 2024-08-19T03:52:47.280Z
-updated: 2024-08-20T03:52:47.280Z
+date: 2025-01-11T18:05:46.829Z
+updated: 2025-01-18T16:13:19.052Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,9 +100,18 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-elevating-your-subtitling-game-with-advanced-srt-techniques/"><u>[New] In 2024, Elevating Your Subtitling Game with Advanced SRT Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-enhancing-visibility-groundbreaking-techniques-for-health-campaigns/"><u>[Updated] In 2024, Enhancing Visibility Groundbreaking Techniques for Health Campaigns</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-overcoming-shaky-drone-video-quality/"><u>[Updated] Overcoming Shaky Drone Video Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-hidden-potential-essential-edits-for-starters/"><u>[Updated] Unlock Hidden Potential Essential Edits for Starters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expertly-recover-files-using-win-datacare/"><u>Expertly Recover Files Using WIN-DataCare</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-charting-the-peak-1-shorter-videos-downloader-hub/"><u>In 2024, Charting the Peak #1 Shorter Videos Downloader Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-insights-from-toms-hardware-team/"><u>Navigating the World of PC Components: Insights From Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-with-toms-gear-guides/"><u>Unveiling the Latest in Computing with Tom's Gear Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-electronics-insights-from-toms-gadget-analysis/"><u>Unveiling the Latest in Electronics: Insights From Tom's Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-strengths-of-hp-omnibook-x-a-deep-dive-into-its-high-capacity-battery-and-snapdragon-technology/"><u>Unveiling the Strengths of HP OmniBook X - A Deep Dive Into Its High-Capacity Battery and Snapdragon Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-to-an-rtx-4090-gaming-beast-exclusive-offer-on-alienwares-m18-r2-laptop-slash-700-from-the-price/"><u>Upgrade to an RTX 4090 Gaming Beast – Exclusive Offer on Alienware's M18 R2 Laptop, Slash $700 From the Price</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->

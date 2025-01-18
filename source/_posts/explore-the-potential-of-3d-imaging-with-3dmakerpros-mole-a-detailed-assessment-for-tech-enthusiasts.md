@@ -1,7 +1,7 @@
 ---
 title: Explore the Potential of 3D Imaging with 3DMakerPro's Mole - A Detailed Assessment for Tech Enthusiasts.
-date: 2024-08-19T03:58:57.335Z
-updated: 2024-08-20T03:58:57.335Z
+date: 2025-01-14T18:14:23.921Z
+updated: 2025-01-18T16:07:47.118Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,18 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/he-financial-anatomy-of-youtube-shorts-money-splitting-for-2024/"><u>[New] The Financial Anatomy of YouTube Shorts Money Splitting for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-hardware-drivers-on-windows-1110-by-drivereasy-guide/"><u>How to use Device Manager to reinstall hardware drivers on Windows 11/10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oppo-a56s-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Oppo A56s 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-by-tom-for-savvy-hardware-enthusiasts/"><u>In-Depth Reviews by Tom for Savvy Hardware Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-cooling-supremacy-with-the-thermalright-phantom-spirit-120-evo-a-review-of-unmatched-performance/"><u>Mastering Cooling Supremacy with the Thermalright Phantom Spirit 120 EVO - A Review of Unmatched Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-choices-with-toms-expert-guidance/"><u>Mastering Hardware Choices with Tom's Expert Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-innovations-and-specs-wisdom-directed-by-toms-digital-hub/"><u>Mastering PC Innovations and Specs – Wisdom Directed by Tom's Digital Hub</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-multi-tasking-pip-settings-in-safari/"><u>Streamline Your Multi-Tasking PIP Settings in Safari</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/study-diversity-in-fb-video-shapes/"><u>Study Diversity in FB Video Shapes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-best-youtube-thumbnail-size-for-2024/"><u>The Best YouTube Thumbnail Size for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-download-kinemaster-for-macstep-by-step-guide-for-2024/"><u>Updated Download KineMaster for MacStep-by-Step Guide for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->

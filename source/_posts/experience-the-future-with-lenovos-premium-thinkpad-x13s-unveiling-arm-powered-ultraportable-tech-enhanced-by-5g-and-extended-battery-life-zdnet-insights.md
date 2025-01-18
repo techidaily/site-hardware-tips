@@ -1,7 +1,7 @@
 ---
 title: Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life | ZDNet Insights
-date: 2025-01-07T02:52:13.957Z
-updated: 2025-01-12T16:21:59.805Z
+date: 2025-01-14T18:28:39.833Z
+updated: 2025-01-18T17:19:19.879Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,22 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-spawn-a-shared-chuckle/"><u>[New] Spawn a Shared Chuckle</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-a-guide-to-effective-video-capture-methods-for-playstation-4/"><u>[Updated] A Guide to Effective Video Capture Methods for PlayStation 4</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-blueprint-for-subtitle-distribution-on-tiktok-and-twitch/"><u>2024 Approved Comprehensive Blueprint for Subtitle Distribution on TikTok and Twitch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-frostbite-fame-highlights-of-cold-climates-games/"><u>2024 Approved Frostbite Fame Highlights of Cold Climates Games</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-future-of-cooling-noctuas-new-prototype-for-a-pumpless-liquid-system-using-evaporative-techniques/"><u>Experience the Future of Cooling: Noctua's New Prototype for a Pumpless Liquid System Using Evaporative Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-top-tier-cpu-cooling-with-this-ai-crafted-3d-printed-liquid-n2-container-achieve-up-to-triple-the-speed/"><u>Experience Top-Tier CPU Cooling with This AI-Crafted, 3D-Printed Liquid N2 Container – Achieve Up to Triple the Speed!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-components-with-toms-gear-testing/"><u>Exploring Components with Tom's Gear Testing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-assemble-the-perfect-computer-setup-for-cryptocurrency-harvest-chia-coin-edition/"><u>How to Assemble the Perfect Computer Setup for Cryptocurrency Harvest: Chia Coin Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-nvidia-geforce-980-ti-video-card-drivers/"><u>How to Download & Update NVIDIA GeForce 980 Ti Video Card Drivers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/o-transcribe-a-youtube-video-free-for-2024/"><u>How to Transcribe a YouTube Video [FREE] for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ideal-electric-supply-units-for-cryptomining-success-trusted-options-for-btceth-mining/"><u>Ideal Electric Supply Units for Cryptomining Success: Trusted Options for BTC/ETH Mining</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-explore-best-15-cost-free-photo-editors/"><u>In 2024, Explore Best 15 Cost-Free Photo Editors</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-richest-video-content-star-on-earth/"><u>In 2024, The Richest Video Content Star on Earth</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-computing-tools-by-toms-experts/"><u>In-Depth Analysis of Computing Tools by Tom's Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-levelplay-combat-air-ca4-cpu-cooler-silent-efficiency-and-reliable-thermal-management/"><u>In-Depth Analysis of the Levelplay Combat Air CA4 CPU Cooler - Silent Efficiency & Reliable Thermal Management</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-gadget-exploration-with-toms-hardware-guidance/"><u>In-Depth Gadget Exploration with Tom's Hardware Guidance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-tips-on-designing-and-3d-printing-secure-qr-codes-at-home/"><u>Innovative Tips on Designing and 3D Printing Secure QR Codes at Home</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-cost-free-text-animation-techniques-for-2024/"><u>Navigating the World of Cost-Free Text Animation Techniques for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-the-discrepant-nature-of-vr-and-full-sphere-capture-for-2024/"><u>Unraveling the Discrepant Nature of VR and Full Sphere Capture for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-cameras-for-quality-youtube-content/"><u>[New] 2024 Approved Best Cameras for Quality YouTube Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>[New] A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-science-of-choosing-music-for-movie-previews/"><u>[New] In 2024, The Science of Choosing Music for Movie Previews</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-innovating-your-slides-with-youtube-images/"><u>[Updated] In 2024, Innovating Your Slides with YouTube Images</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/clip-conquest-top-tags-for-dominating-video-trends-on-social-media-for-2024/"><u>Clip Conquest Top Tags for Dominating Video Trends on Social Media for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-expertise-with-toms-guide-the-ultimate-insight-destination/"><u>Dive Into Hardware Expertise with Tom's Guide - The Ultimate Insight Destination</u></a></li>
+<li><a href="https://discover-community.techidaily.com/experience-the-vibe-with-travis-scott-inspired-imagery-professional-photographs-hd-pictures-and-creative-wallpaper-designs-by-yl-software-solutions/"><u>Experience the Vibe with Travis Scott Inspired Imagery - Professional Photographs, HD Pictures, and Creative Wallpaper Designs by YL Software Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-with-tom-a-guide-to-cutting-edge-hardware-solutions/"><u>Exploring Advanced Gadgets with Tom: A Guide to Cutting-Edge Hardware Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-maximize-google-photos-for-photography-enthusiasts-for-2024/"><u>How to Maximize Google Photos for Photography Enthusiasts for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-g24-power-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola G24 Power Phone without PIN</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-simplifying-vfx-with-magix-video-pro-x/"><u>In 2024, Simplifying VFX with Magix Video Pro X</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-choices-with-toms-hardware-insights-and-advice/"><u>Navigating Tech Choices with Tom's Hardware Insights & Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-realm-with-toms-equipment-expertise/"><u>Navigating the Digital Realm with Tom's Equipment Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-overclocking-milestone-rtx-3nce-3080-smashes-speed-limit-at-234ghz/"><u>New Overclocking Milestone: RTX 3Nce 3080 Smashes Speed Limit at 2.34GHz!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-world-record-achieved-gskills-ddr4-6666-memory-dominates-performance/"><u>New World Record Achieved: G.Skill's DDR4-6666 Memory Dominates Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-a-trustworthy-guide-to-your-tech-needs/"><u>Tom's Computer Components: A Trustworthy Guide to Your Tech Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-power-achieving-new-records-with-a-258-ghz-overclock-on-the-nvidia-geforce-rtx/"><u>Unleashing Power: Achieving New Records with a 2.58 GHz Overclock on the NVIDIA GeForce RTX 지오</u></a></li>
 </ul></div>
 

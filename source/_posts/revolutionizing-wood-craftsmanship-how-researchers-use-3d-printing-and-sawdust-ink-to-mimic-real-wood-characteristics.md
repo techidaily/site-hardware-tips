@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Wood Craftsmanship: How Researchers Use 3D Printing & Sawdust Ink to Mimic Real Wood Characteristics"
-date: 2024-08-19T03:56:08.878Z
-updated: 2024-08-20T03:56:08.878Z
+date: 2025-01-11T17:08:18.673Z
+updated: 2025-01-18T17:45:28.726Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
  The Prusa Original XL is a feat of engineering and one of the[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) we’ve ever tested.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications: Original Prusa XL
 
  Swipe to scroll horizontally
@@ -52,9 +56,17 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
 [Available at Prusa Store for $1,999](https://www.prusa3d.com/product/original-prusa-xl-2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Original Prusa XL: Included in the Box
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/u3GWhTYMzUfQNN4dJCARdT-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -65,15 +77,13 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
  We also received a few bonus items for the review: an adapter to use traditional nozzles, extra build plates, and several rolls of filament.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Design of the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6hj6fUJjafrEzDmqAJN5TS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Original Prusa XL is a new machine that doesn’t stray far from the Prusa design and color branding. Its boxy frame is black with orange accents, and logos are printed on both the toolhead and back cover. It’s a beefy boi with Bowden tubes that arch over the top and spool holders that mount on both sides. The frame is C shaped, keeping the front open and easily accessible to reach in and grab your prints, or just to set up a camera for timelapses. LED lights tucked under the top frame provide enough light for observation and most camera needs.
@@ -89,6 +99,10 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
  The XL uses the same nozzle as the MK4 that includes the heat break and an all metal filament guide in one sealed unit. You can also purchase an adaptor that fits standard V6 style nozzles. On our test machine, we fitted the first two print heads with CHT nozzles to see if we could improve the flow at high speed.
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/Jk54hBy8BfFZRLYZAdjBhU-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Prusa3d.com)
 
@@ -110,17 +124,10 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
  Note: if you purchased the DIY kit version of the XL you’ll need to set aside a weekend to assemble and calibrate it, but you will save $500.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Calibrating the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/SSpJM3ayMuiPMPoLkAYK9U-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Bed leveling is a no-brainer as the XL Is fully automatic. There are no manual adjustments and no need for adjusting the Z offset. The printer uses a load cell sensor connected to the nozzle, which physically taps the print surface for precise measurement.
@@ -129,16 +136,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  You should run the included calibration print to make sure the print heads are in sync with each other. You can make minute adjustments to each print head, but I found that my initial calibrations were off because the nozzles had tiny bits of filament on them, leftover from the factory test. Once the nozzles were scrubbed clean, the printer was able to achieve perfect calibration.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Loading Filament on the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/DvYcZbzQoaT2pwSMG62ixT-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Loading filament is a little more complex than on the single color Prusa MK4\. Each toolhead has its own spool holder (three on one side, two on the other) and a good 4 feet of Bowden tube. The printer is direct drive, meaning you need to hand feed the filament through a lot of tubing before the extruder gears can take over.
@@ -151,18 +152,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  To remove material, go to the Filament menu from the main screen and click unload. It will remember what material was last installed, determine if the filament is still there, and then heat to the appropriate temperature. Once hot, it will retract the plastic until you can easily remove it.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preparing Files / Software for Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/P52DrZpk9Ahw76CiUPJj9T-320-80.png)
@@ -174,6 +163,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  To use the XL’s WiFi you have to use a separate program, either Prusa Link or Prusa Connect. Prusa Link is a bare bones portal that connects to your printer over LAN or WiFi. You access it by typing in the printers’ network address. Prusa Link only allows you to upload files, start and stop a print, see the thumbnail and a few stats about your machine. However, once Prusa Link is established, you can connect your printer directly from Prusa Slicer and send a file to the printer without needed to open any other programs.
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/BTWJwfhHRAoUkaGd9Vu9qR-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -217,9 +210,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Original Prusa XL](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 [_Prusa Research Toolbox_](https://www.printables.com/model/556185-prusa-box) _by Frikarte3D_
@@ -231,8 +221,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 [_Phone case_](https://www.printables.com/model/46536-iphone-12-pro-max-flexible-case) _by BluecornNM_  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bottom Line
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/metJPCsBo3TqcVxRaxZJeS-320-80.jpg)
@@ -268,15 +259,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -285,4 +275,22 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-simplify-tv-broadcasts-introducing-youtube-content-loops/"><u>[New] In 2024, Simplify TV Broadcasts Introducing YouTube Content Loops</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-best-practices-for-storing-your-digital-coins-safely-with-yl-computing-expert-advice/"><u>1. Best Practices for Storing Your Digital Coins Safely with YL Computing - Expert Advice</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-gaming-melodies-legal-downloadable-links/"><u>2024 Approved Gaming Melodies Legal, Downloadable Links</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/boost-your-tiktok-reach-with-attention-grabbing-unboxings-for-2024/"><u>Boost Your TikTok Reach with Attention-Grabbing Unboxings for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-12-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 12 without the Previous Owner?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-100-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor 100 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-cutting-edge-gear-a-closer-look-by-toms-hardware-experts/"><u>Discovering Cutting-Edge Gear: A Closer Look by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-toms-hardware-insights-and-equipment-analysis/"><u>Dive Into Tom's Hardware Insights and Equipment Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-techniques-to-lower-god-of-wars-system-resource-demands/"><u>Effective Techniques to Lower God of War's System Resource Demands</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-review-cutting-edge-insights-for-your-pc-needs/"><u>Inside Tom's Hardware Review: Cutting Edge Insights for Your PC Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-graphics-cards-advice-from-toms-hardware-experts/"><u>Mastering Gadgets and Graphics Cards - Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-errcachemiss-issue-a-step-by-step-guide-for-chrome-users/"><u>Solving the ERR_CACHE_MISS Issue: A Step-by-Step Guide for Chrome Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-in-technology-with-toms-hardware-analysis/"><u>Stay Ahead in Technology with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-2024-ssd-picks-discover-from-cost-friendly-sata-to-ultra-speedy-nvme-drives/"><u>Top 2024 SSD Picks: Discover From Cost-Friendly SATA to Ultra-Speedy NVMe Drives</u></a></li>
+</ul></div>
 

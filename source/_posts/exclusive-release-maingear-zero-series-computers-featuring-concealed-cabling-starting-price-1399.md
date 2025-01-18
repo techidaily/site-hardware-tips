@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Release: Maingear Zero Series Computers Featuring Concealed Cabling - Starting Price $1,399"
-date: 2024-08-19T03:52:51.138Z
-updated: 2024-08-20T03:52:51.138Z
+date: 2025-01-12T18:00:11.902Z
+updated: 2025-01-18T16:12:49.739Z
 tags:
   - desktop
 categories:
@@ -47,6 +47,10 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,14 +59,11 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +72,20 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-guide-to-video-cuts-windows-edition-made-simple/"><u>[New] The Ultimate Guide to Video Cuts Windows Edition, Made Simple</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-master-the-art-of-canvas-with-these-top-10-secrets/"><u>[Updated] In 2024, Master the Art of Canvas with These Top 10 Secrets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-downloading-and-using-apps-on-samsungs-smart-television-platform/"><u>Complete Guide: Downloading and Using Apps on Samsung's Smart Television Platform</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/crafting-the-perfect-voice-and-vision-for-docs-for-2024/"><u>Crafting the Perfect Voice and Vision for Docs for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-honor-x9b-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor X9b Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-tech-game-discover-how-asus-zenbook-s-and-tuf-a14-integrates-leading-intel-and-amd-chip-technology/"><u>Elevate Your Tech Game: Discover How Asus' ZenBook S and TUF A14 Integrates Leading Intel and AMD Chip Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-latest-in-tech-with-toms-gadget-reviews/"><u>Explore the Latest in Tech with Tom’s Gadget Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-comparison-by-toms-hardware-specialists/"><u>In-Depth Analysis and Comparison by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-unveiling-the-potent-performance-of-asus-tuf-gaming-a14/"><u>In-Depth Review: Unveiling the Potent Performance of Asus TUF Gaming A14</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-gadgets-revealed-on-toms-computer-corner/"><u>Innovative Gadgets Revealed on Tom's Computer Corner</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-your-kodi-experience-with-pin-system-and-obtaining-access-codes-for-secure-addons/"><u>Mastering Your Kodi Experience with Pin System & Obtaining Access Codes for Secure Addons</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/solve-your-laptops-failure-to-boot-problem-with-expert-advice-from-yl-software/"><u>Solve Your Laptop's Failure to Boot Problem with Expert Advice From YL Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722562415255-unleash-lightning-fast-media-experience-with-our-comprehensive-look-at-the-fire-tv-cube/"><u>Unleash Lightning-Fast Media Experience with Our Comprehensive Look at the Fire TV Cube!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

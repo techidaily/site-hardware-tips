@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Downturn for Intel's New CPU Lineup: Data Suggests Four Times More Returns than Predecessor, Outstripping AMD Issues"
-date: 2024-08-19T03:56:50.842Z
-updated: 2024-08-20T03:56:50.842Z
+date: 2025-01-14T17:24:03.603Z
+updated: 2025-01-18T17:21:40.798Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,24 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-effective-social-crossposting-from-twitch-to-fb/"><u>[New] Effective Social Crossposting From Twitch to FB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-no-cost-premiere-pro-resource-pack/"><u>[New] Exclusive, No-Cost Premiere Pro Resource Pack</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-playbook-for-crafting-engaging-podcast-titles/"><u>2024 Approved The Ultimate Playbook for Crafting Engaging Podcast Titles</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-spark-10c-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Spark 10C Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creativity-unleashed-discover-the-stunning-features-and-capabilities-of-crealitys-new-k1c-3d-printer/"><u>Creativity Unleashed! Discover the Stunning Features and Capabilities of Creality's New K1C 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-secure-your-editor-endorsed-elegoo-neptune-amo-now-at-an-amazing-75-off-deal/"><u>Don't Miss Out: Secure Your Editor-Endorsed Elegoo Neptune Amo, Now at an Amazing $75 Off Deal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-digital-to-physical-the-ultimate-guide-to-3d-printed-functional-qr-codes/"><u>From Digital to Physical: The Ultimate Guide to 3D Printed, Functional QR Codes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-high-tech-terrain-wisdom-from-toms-hardware-reviews/"><u>Navigating High-Tech Terrain: Wisdom From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/netflix-no-more-glitches-how-i-stopped-my-streams-from-hanging/"><u>Netflix No More Glitches - How I Stopped My Streams From Hanging</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-list-of-sony-vegas-alternatives-for-windows-video-editors/"><u>New 2024 Approved The Ultimate List of Sony Vegas Alternatives for Windows Video Editors</u></a></li>
+<li><a href="https://common-error.techidaily.com/quickly-restore-bluetooth-functionality-on-your-windows-11-pc-easy-methods-inside/"><u>Quickly Restore Bluetooth Functionality on Your Windows 11 PC: Easy Methods Inside!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ranking-the-top-gaming-machines-dominating-2024/"><u>Ranking the Top Gaming Machines Dominating 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-breakdown-of-the-corsair-air-a115-cooler-striking-balance-between-strength-quiet-operation-and-expense/"><u>The Ultimate Breakdown of the Corsair Air A115 Cooler: Striking Balance Between Strength, Quiet Operation & Expense</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-high-performance-pc-components-by-tom-hardscape/"><u>The Ultimate Guide to High-Performance PC Components by Tom Hardscape</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gear-guide-comprehensive-hardware-reviews-and-ratings/"><u>Tom's Gear Guide: Comprehensive Hardware Reviews & Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-at-toms-gadgets-hub/"><u>Unveiling the Latest in Hardware at Tom's Gadgets Hub</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-this-top-music-reaction-videos-of-2023/"><u>Watch This! Top Music Reaction Videos of 2023</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->

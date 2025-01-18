@@ -1,7 +1,7 @@
 ---
 title: "Fragrant Cooling Solutions: The Battle of the Bots - Comparing Extreme Mugurisu Pink & Kryonaut by Grizzly for PC Enthusiasts"
-date: 2024-08-19T03:52:17.751Z
-updated: 2024-08-20T03:52:17.751Z
+date: 2025-01-17T17:41:17.480Z
+updated: 2025-01-18T18:00:11.461Z
 tags:
   - cooling
 categories:
@@ -19,6 +19,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
 ![Assassin IV VC Vision CPU cooler, including its heatsink](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Assassin IV VC Vision CPU cooler, including its heatsink  (Image credit: DeepCool)
 
 ![DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -26,6 +30,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024  (Image credit: DeepCool)
 
 ![DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase  (Image credit: DeepCool)
 
@@ -47,6 +55,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
 ![DeepCool LP Matrix AIO CPU Coolers with 240mm and 360mm variants.](https://cdn.mos.cms.futurecdn.net/w67VwSrgCufkGWhFrmFEAS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: DeepCool)
 
  For liquid cooling, DeepCool introduced its LP Matrix AIO series that has a dot matrix screen on its waterblock, along with a fifth generation pump and ARGB effects on the fans and the sides of the display. It's available in both 240mm and 360mm form factors.  
@@ -54,6 +66,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  The dot-matrix screen on these blocks seems to be customizable, more than what you can do with typical air cooler displays. Many people may not find it useful to display the CPU status all the time. Being able to show other graphics may appeal to such users, letting them make their PCs stand out.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PC chassis, accessories and new power supplies
 
@@ -72,6 +88,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  DeepCool CH160 MESH ITX Case Series  (Image credit: DeepCool)
 
 ![DeepCool CH170 DIGITAL ITX Case with digital monitoring screen](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  DeepCool CH170 DIGITAL ITX Case with digital monitoring screen  (Image credit: DeepCool)
 
@@ -100,8 +120,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  DeepCool cases and power supplies are designed to be future-ready, with support for the latest motherboards designs and power supply standards. The company has been making PC accessories for a while now and tends to do a good job, and the new ability to customize cases with silicone bits may appeal to a certain demographic. We look forward to seeing the retail products over the coming months.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -110,14 +131,11 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +144,24 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-minicam-snapshot-review-and-substitutes/"><u>[New] 2024 Approved MiniCam Snapshot Review and Substitutes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterpiece-collaborations-a-list-of-top-photo-and-video-making-maestros-with-music/"><u>[New] Masterpiece Collaborations A List of Top Photo & Video Making Maestros with Music</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-transform-your-content-reach-with-strategic-tagging-insight/"><u>[New] Transform Your Content Reach with Strategic Tagging Insight</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-inquiry-exploring-shared-videos-and-images-in-direct-conversations/"><u>[Updated] 2024 Approved Inquiry Exploring Shared Videos & Images in Direct Conversations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-enhancing-windows-photos-with-music-and-custom-filters/"><u>[Updated] In 2024, Enhancing Windows Photos with Music and Custom Filters</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/11/"><u>11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-charting-the-course-of-knowledge-best-history-yt-channels-for-students/"><u>2024 Approved Charting the Course of Knowledge Best History YT Channels for Students</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-deep-into-the-world-of-high-performance-laptops-with-our-review-of-the-asus-zenbook-s1-6-where-we-thoroughly-examine-and-test-its-capabilities-when-pow29/"><u>Dive Deep Into the World of High-Performance Laptops with Our Review of the Asus Zenbook S1 6, Where We Thoroughly Examine and Test Its Capabilities when Powered by the Advanced AMD Ryzen AI 9 HX 370 CPU</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-the-future-of-computing-new-frameworks-laptop-board-compatible-with-risc-v-architecture-teamed-up-with-deepcomputing-for-revolutionary-starfive-so7/"><u>Embracing the Future of Computing: New Framework's Laptop Board Compatible with RISC-V Architecture, Teamed Up with DeepComputing for Revolutionary StarFive SoC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-supreme-gaming-performance-msi-katana-156-inch-laptop-powered-by-nvidia-geforce-rtx-4070-for-just-1199/"><u>Experience Supreme Gaming Performance: MSI Katana 15.ˈ6 Inch Laptop - Powered by NVIDIA GeForce RTX 4070 for Just $1,199</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-hardware-by-tom-your-go-to-resource/"><u>Expert Analysis of Hardware by Tom - Your Go-To Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-cutting-edge-tech-hardware-by-tom/"><u>Expert Analysis on Cutting-Edge Tech Hardware by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-with-toms-hardware-expertise/"><u>Exploring Advanced Computing with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-your-essential-guide-to-pc-gear/"><u>Exploring Hardware with Tom: Your Essential Guide to PC Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-tech-with-tom-comprehensive-hardware-insights/"><u>Exploring Tech with Tom: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-6-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-loop-your-videos-with-ease-10-best-free-online-looping-tools/"><u>Updated In 2024, Loop Your Videos with Ease 10 Best Free Online Looping Tools</u></a></li>
+</ul></div>
 

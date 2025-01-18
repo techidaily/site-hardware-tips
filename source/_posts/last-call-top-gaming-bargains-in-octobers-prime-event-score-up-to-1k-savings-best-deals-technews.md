@@ -1,7 +1,7 @@
 ---
 title: "Last Call: Top Gaming Bargains in October's Prime Event - Score Up to $1K Savings! [Best Deals] | TechNews"
-date: 2025-01-11T20:58:26.304Z
-updated: 2025-01-13T03:31:49.163Z
+date: 2025-01-15T18:46:33.385Z
+updated: 2025-01-18T19:20:29.922Z
 tags:
   - laptops
 categories:
@@ -118,10 +118,6 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -203,7 +199,7 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
@@ -213,6 +209,10 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When was Amazon Prime Day 2024?
@@ -220,7 +220,7 @@ Samsung/ZDNET
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
@@ -228,7 +228,7 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ra
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -236,7 +236,7 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -304,22 +304,15 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-step-into-the-future-the-best-10-free-video-call-applications/"><u>[New] 2024 Approved Step Into the Future The Best 10 FREE Video Call Applications</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-uncover-these-ten-youtube-sources-with-the-fastest-growth-rates/"><u>[New] In 2024, Uncover These Ten YouTube Sources with the Fastest Growth Rates</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-melody-matrix-tips-and-tricks-for-social-media-sounds/"><u>[Updated] 2024 Approved Melody Matrix Tips and Tricks for Social Media Sounds</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-curate-chuckling-cartoons/"><u>[Updated] In 2024, Curate Chuckling Cartoons</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-premier-real-time-video-distribution-tools/"><u>[Updated] In 2024, Premier Real-Time Video Distribution Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-tech-at-your-site-name-your-one-stop-resource-like-toms-hardware/"><u>Discover the Latest in Tech at [Your Site Name]: Your One-Stop Resource Like Tom's Hardware!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-with-tom-top-reviews-and-guides/"><u>Dive Into Hardware with Tom: Top Reviews & Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ek-unveils-advanced-custom-water-block-technology-to-keep-your-delidded-amd-ryzen-am5-at-peak-temperatures/"><u>EK Unveils Advanced Custom Water Block Technology to Keep Your Delidded AMD Ryzen AM5 at Peak Temperatures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevating-your-rest-the-thoroughly-tested-guide-to-the-bamboo-lab-a1-slide-bed-for-an-immaculate-king-size-experience/"><u>Elevating Your Rest: The Thoroughly Tested Guide to the Bamboo Lab A1 Slide Bed for an Immaculate King-Size Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-overclocking-potential-with-cooler-masters-innovative-colored-ai-nano-diamond-technology-in-cryofuze-5-paste/"><u>Enhance Overclocking Potential with Cooler Master's Innovative Colored AI Nano-Diamond Technology in CryoFuze 5 Paste</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-connection-performance-lower-pings-and-higher-rates/"><u>Enhancing Connection Performance: Lower Pings and Higher Rates</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-computing-equipment-from-toms-hardware-hub/"><u>Expert Advice on Computing Equipment From Tom's Hardware Hub</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-brew-an-awkward-potion-in-minecraft-easily/"><u>Expert Advice: How to Brew an Awkward Potion in Minecraft Easily</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-digital-tools-with-tom-your-guide-to-top-tier-electronics/"><u>Exploring Digital Tools with Tom - Your Guide to Top-Tier Electronics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-value-for-money-cpus-in-depth-tutorial-and-ranking-hardware-central/"><u>Exploring Value for Money CPUs : In-Depth Tutorial and Ranking - Hardware Central</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210970685-9781803412399-we-topia/"><u>We-Topia | Free Book</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-from-likes-to-leads-a-comprehensive-guide-to-influencer-driven-marketing/"><u>[Updated] 2024 Approved From Likes to Leads A Comprehensive Guide to Influencer-Driven Marketing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-superior-tools-for-group-online-calls/"><u>[Updated] Superior Tools for Group Online Calls</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-oppo-find-n3-flip-by-drfone-android-unlock-android-unlock/"><u>Device unlock Oppo Find N3 Flip</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964474459-enhance-your-pc-with-corsair-elite-6500-and-elite-nano-atx-motherboards-customizable-wood-or-aluminum-accent-panels-included/"><u>Enhance Your PC with Corsair Elite 6500 & Elite Nano ATX Motherboards: Customizable Wood or Aluminum Accent Panels Included</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-curating-ps5-gaming-membership-benefits/"><u>The Art of Curating PS5 Gaming Membership Benefits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-insights-expert-guides-on-new-hardware-technology/"><u>Tom's Computing Insights: Expert Guides on New Hardware Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-gadget-analysis-t17239718718582/"><u>Tom's Tech Insights: In-Depth Reviews & Gadget Analysis</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ultimate-1920x1080-dragon-background-graphics-set-professional-images-photos-and-pictures-from-yl-software/"><u>Ultimate 1920X1080 Dragon Background Graphics Set – Professional Images, Photos & Pictures From YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-revolutionary-hyte-y7k-touchpc-challenging-conventions-with-4k-pc-case-innovation/"><u>Unveiling the Revolutionary Hyte Y7k TouchPC: Challenging Conventions with 4K PC Case Innovation</u></a></li>
 </ul></div>
 

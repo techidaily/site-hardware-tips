@@ -1,7 +1,7 @@
 ---
 title: AMD Disputes Delay Rumors – Anticipate Ryzen Grooving Into the Market This Month
-date: 2024-08-19T03:58:20.562Z
-updated: 2024-08-20T03:58:20.562Z
+date: 2025-01-13T18:43:55.042Z
+updated: 2025-01-18T18:57:02.053Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,22 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-extreme-sports-gopro-vs-star-sj7-comparison/"><u>[Updated] 2024 Approved Extreme Sports GoPro Vs Star SJ7 Comparison</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-money-on-youtube-without-ads-for-2024/"><u>[Updated] How to Make Money on YouTube Without Ads for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-deep-dive-into-facebooks-world-origins-unveiled-likes-justified-and-pivotal-elements-explained/"><u>A Deep Dive Into Facebook's World: Origins Unveiled, Likes Justified, & Pivotal Elements Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-reviews-unveiling-secrets-of-toms-hardware/"><u>Advanced Tech Reviews: Unveiling Secrets of Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aseteks-groundbreaking-ai-optimized-ecam-cold-plate-created-through-cutting-edge-3d-metal-printing-in-partnership-with-fabric8labs/"><u>Asetek's Groundbreaking AI-Optimized ECAM Cold Plate, Created Through Cutting-Edge 3D Metal Printing in Partnership with Fabric8Labs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/copper-content-discrepancy-in-pc-watercoolers-investigation-finds-false-advertising-prevails-on-two-thirds/"><u>Copper Content Discrepancy in PC Watercoolers: Investigation Finds False Advertising Prevails on Two-Thirds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/critical-safety-alert-for-bambu-lab-users-a1-series-recalled-full-reimbursements-offered-and-use-temporarily-halted/"><u>Critical Safety Alert for Bambu Lab Users: A1 Series Recalled, Full Reimbursements Offered and Use Temporarily Halted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/customizable-wireless-charging-pad-mimicking-a-3d-printer-affordable-diy-solution-by-bambu-labs-under-50/"><u>Customizable Wireless Charging Pad Mimicking a 3D Printer - Affordable DIY Solution by Bambu Labs Under $50</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-quieter-powerful-home-cooling-with-iceberg-thermal-icefloe-series-in-depth-review-of-budget-models-240-and-360/"><u>Discover Quieter, Powerful Home Cooling with Iceberg Thermal IceFLOE Series - In-Depth Review of Budget Models 240 & 360</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-innovative-qualities-of-the-creality-k1-c-carbon-sla-machine/"><u>Evaluating the Innovative Qualities of the Creality K1 C Carbon SLA Machine</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-your-video-content-on-zoom-for-fb-live/"><u>In 2024, Maximizing Your Video Content on ZOOM for FB Live</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mastering-the-art-of-pdf-accessibility-in-windows-environments-with-abc-tutorials/"><u>Mastering the Art of PDF Accessibility in Windows Environments with ABC Tutorials</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/simplified-guide-to-creating-movies-in-windows-8-movie-maker/"><u>Simplified Guide to Creating Movies in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-quintessential-selection-browse-top-6-spots-to-buy-laptops/"><u>The Quintessential Selection: Browse Top 6 Spots To Buy Laptops</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

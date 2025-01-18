@@ -1,7 +1,7 @@
 ---
 title: Exploring Advanced Hardware with Tom - A Comprehensive Guide
-date: 2024-08-19T03:51:14.538Z
-updated: 2024-08-20T03:51:14.538Z
+date: 2025-01-17T18:44:38.112Z
+updated: 2025-01-18T16:33:16.931Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,24 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/rafting-content-cultivating-capital-your-videography-voyage/"><u>[New] Crafting Content, Cultivating Capital Your Videography Voyage</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elevate-your-podcast-with-professional-scriptwriting-strategies/"><u>[New] Elevate Your Podcast with Professional Scriptwriting Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-djis-sky-high-gameplay-showdown-mavic-air-clashes-with-spark/"><u>[New] In 2024, DJI’s Sky-High Gameplay Showdown Mavic Air Clashes with Spark</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syncing-yt-beats-with-visual-timelines/"><u>[New] Syncing YT Beats with Visual Timelines</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/199-on-a-premium-dell-quad-hd-ips-monitor-buy-today/"><u>$199 on a Premium Dell Quad HD IPS Monitor - Buy Today!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-zenith-zooms-ideal-laptops-for-sharp-resolution-crafting/"><u>2024 Approved Zenith Zooms Ideal Laptops for Sharp-Resolution Crafting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/alienware-aw3225qf-sale-alert-dazzle-with-a-200-discount-on-the-ultimate-4k-32-inch-gaming-monitor/"><u>Alienware AW3225QF Sale Alert: Dazzle with a $200 Discount on the Ultimate 4K 32-Inch Gaming Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asrock-pg2nqft2a-in-depth-180hz-gaming-monitor-analysis-unmatched-speed-and-affordability/"><u>ASRock PG2nQFT2a - In-Depth 180Hz Gaming Monitor Analysis: Unmatched Speed & Affordability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-rog-swift-oled-pg32ucdp-a-critics-take-on-reaching-the-pinnacle-of-gaming-displays/"><u>Asus ROG Swift OLED PG32UCDP: A Critic's Take on Reaching the Pinnacle of Gaming Displays</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-a1-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from A1 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buy-the-asus-tuf-24-x-165hz-ips-gaming-display-for-just-99-on-newegg/"><u>Buy the Asus TUF 24 X 165Hz IPS Gaming Display for Just $99 on Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/classic-monitor-sets-new-standard-at-700hz-sacrificing-resolution-to-just-120p/"><u>Classic Monitor Sets New Standard at 700Hz, Sacrificing Resolution to Just 120P</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-by-tom-expertise-in-electronics-and-computing/"><u>Comprehensive Guide by Tom: Expertise in Electronics and Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hands-on-evaluation-of-alienware-m18-r2s-premium-keyboard-and-performance-features/"><u>Hands-On Evaluation of Alienware M18 R2's Premium Keyboard & Performance Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-new-ios-18-update-enables-direct-phone-call-recording-without-external-apps-a-detailed-insight-techradar/"><u>How Apple's New iOS 18 Update Enables Direct Phone Call Recording Without External Apps: A Detailed Insight | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862830203-maximize-visual-impact-and-comfort-the-premium-34-curved-display-from-lg-available-for-just-499/"><u>Maximize Visual Impact and Comfort: The Premium 34 Curved Display From LG, Available for Just $499.</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-perfect-blend-of-exercise-tracking-and-music-streaming-discover-the-garmin-vivoactive-3/"><u>The Perfect Blend of Exercise Tracking & Music Streaming: Discover the Garmin Vivoactive 3</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->

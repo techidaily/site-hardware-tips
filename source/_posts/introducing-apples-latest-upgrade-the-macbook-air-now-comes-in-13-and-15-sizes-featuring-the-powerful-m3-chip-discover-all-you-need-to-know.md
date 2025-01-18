@@ -1,7 +1,7 @@
 ---
 title: "Introducing Apple's Latest Upgrade: The MacBook Air Now Comes in 13 & 15 Sizes Featuring the Powerful M3 Chip - Discover All You Need to Know"
-date: 2025-01-06T02:56:55.430Z
-updated: 2025-01-12T17:47:38.791Z
+date: 2025-01-16T18:42:31.050Z
+updated: 2025-01-18T18:31:52.307Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,20 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-mastering-multitasking-firefox-picture-in-picture-explained-for-2024/"><u>[Updated] Mastering Multitasking Firefox Picture-in-Picture Explained for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-panoramic-pictures-through-image-fusion/"><u>2024 Approved Building Panoramic Pictures Through Image Fusion</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dvdmp4aviwmvwindows-113/"><u>无成本转换DVD片段为MP4/AVI/WMV：针对Windows 11用户的精选3款工具</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/aural-and-visual-summary-synthesizer/"><u>Aural and Visual Summary Synthesizer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-ahead-with-superior-discounts-on-state-of-the-art-3d-printers-this-year/"><u>Get Ahead with Superior Discounts on State-of-the-Art 3D Printers This Year</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-cheap-yet-powerful-video-editing-software/"><u>In 2024, Best Cheap yet Powerful Video Editing Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-dive-into-the-deep-end-of-facebook-meme-culture/"><u>In 2024, Dive Into The Deep End of Facebook Meme Culture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-cutting-edge-graphics-cards-with-expertise-from-toms-hardware-source/"><u>In-Depth Analysis of Cutting-Edge Graphics Cards with Expertise From Tom's Hardware Source</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-electronics-uncovered-by-toms-hardware-hub/"><u>Innovative Electronics Uncovered by Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-techniques-for-3d-printing-personalized-qr-codes/"><u>Innovative Techniques for 3D Printing Personalized QR Codes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-adatas-innovative-hybrid-airwater-cooling-solution-unveiled-at-computex-plus-upcoming-psus-and-pcie-50-ssds/"><u>Introducing Adata's Innovative Hybrid Air/Water Cooling Solution Unveiled at Computex - Plus Upcoming PSUs & PCIe 5.0 SSDs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-hdd-options-best-picks-for-optimizing-your-pc-and-nas-systems/"><u>Leading HDD Options : Best Picks for Optimizing Your PC and NAS Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-laser-cutting-systems-in-2e24-buyers-guide/"><u>Leading Laser Cutting Systems in 2E24 - Buyer's Guide</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/top-16-audio-editing-tools-for-macos-users-the-ultimate-guide-by-movavi/"><u>Top 16 Audio Editing Tools for macOS Users: The Ultimate Guide by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-application-switching-aids-mac-to-windows-migration-made-easy/"><u>Top 5 Application Switching Aids: Mac-to-Windows Migration Made Easy</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-superior-streams-with-av1-activate-on-youtube/"><u>[New] 2024 Approved Superior Streams with AV1 Activate on YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unleash-the-power-of-pixels-expert-tips-on-live-tv-recording-with-windows-pc/"><u>[New] In 2024, Unleash the Power of Pixels Expert Tips on Live TV Recording with Windows PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-techniques-saving-and-recording-ps4-gaming-escapades-for-2024/"><u>[New] Top Techniques Saving and Recording PS4 Gaming Escapades for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-vlogging-mastering-tripod-angles-and-positions/"><u>[Updated] 2024 Approved Elevate Your Vlogging Mastering Tripod Angles and Positions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-straightforward-screen-grabber-w10-edition/"><u>[Updated] In 2024, Straightforward Screen Grabber, W10 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-the-deal-asus-tuf-165-hz-fps-24-inch-ips-gaming-screen-at-only-99-from-newegg/"><u>Grab the Deal! Asus TUF - 165 Hz FPS, 24-Inch IPS Gaming Screen at Only $99 From Newegg</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nizing-your-music-a-youtube-playlist-journey/"><u>Harmonizing Your Music A YouTube Playlist Journey</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-analyzing-the-income-generated-by-every-youtube-viewer/"><u>In 2024, Analyzing the Income Generated by Every YouTube Viewer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xr-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone XR Passcode not Working?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-top-tier-electronics-with-toms-hardware-insights/"><u>Inside Look at Top-Tier Electronics with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-a-guide-to-cutting-edge-technology-evaluations/"><u>Inside Tom's Electronics: A Guide to Cutting-Edge Technology Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/jailbreak-and-upgrade-your-kindle-to-an-enhanced-e-ink-screen-with-devrepos-tutorial/"><u>Jailbreak & Upgrade Your Kindle to an Enhanced E-Ink Screen with DevRepo's Tutorial</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximizing-facebook-viewability-with-ideal-verticalhorizontal-videos-for-2024/"><u>Maximizing Facebook Viewability with Ideal Vertical/Horizontal Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-high-tech-a-deep-dive-into-computer-components-by-tom/"><u>Navigate Through High-Tech: A Deep Dive Into Computer Components by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-and-pc-components-at-toms-hardware-zone/"><u>Navigating New Gadgets and PC Components at Tom's Hardware Zone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-technology-in-depth-reviews-from-toms-hardware/"><u>Navigating New Technology: In-Depth Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-advanced-technology-the-toms-hardware-advantage/"><u>Navigating the World of Advanced Technology: The Tom's Hardware Advantage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-top-picks-by-toms-hardware-hub/"><u>Navigating the World of Computers - Top Picks by Tom’s Hardware Hub</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nsiders-method-for-youtube-livestreaming-in-full-circle-for-2024/"><u>The Insider's Method for Youtube Livestreaming in Full Circle for 2024</u></a></li>
 </ul></div>
 

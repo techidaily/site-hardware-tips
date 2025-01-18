@@ -1,7 +1,7 @@
 ---
 title: QIDI Tech Q1 Pro Assessment - Ignite Your Creativity & Focus
-date: 2024-08-19T03:57:24.918Z
-updated: 2024-08-20T03:57:24.918Z
+date: 2025-01-11T18:23:09.830Z
+updated: 2025-01-18T17:35:40.969Z
 tags:
   - printer
 categories:
@@ -72,6 +72,10 @@ It feels like QIDI Tech has been sitting in the back of the room, taking notes w
 
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/9dhkweTPfTWj9Z5M9XUqzL-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The QIDI Q1 Pro is a modern looking, fully-enclosed Core XY printer. It has a steel frame encased in a plastic shell, which makes the printer feel a bit bigger than it really is. The door and top panel are made of clear acrylic, which is prone to static electricity and difficult to keep clean, especially if you have pets that shed. The door lacks a handle, and instead has a graspable lower corner.
@@ -81,8 +85,9 @@ It feels like QIDI Tech has been sitting in the back of the room, taking notes w
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/BARxcJ3oRgrxXJjKUcf7rM-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Its build plate is 245x245mm with 240mm build height, a size slightly larger than both the Creality K1 and Bambu Lab’s core XY machines. It also has a standard, double-sided textured PEI plate, which doesn’t need glue for ordinary materials like PLA.
@@ -102,20 +107,21 @@ It feels like QIDI Tech has been sitting in the back of the room, taking notes w
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/FXQYKuwu7TXvqihqJ5J9KM-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 (Image credit: QIDI)
 
  Another perk included with the Q1 Pro is a built-in 1080p camera for monitoring prints and even doing timelapses. The camera feed pops up immediately when you access the Klipper interface. The chamber is brightly lit with LED lights.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Assembling the QIDI Q1 Pro
 
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/xqJbDfWEJ2Q6x29eMEVtqP-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The QIDI Q1 Pro is 98% assembled and only needs to be unboxed and unpacked. You’ll need to remove all the packing foam, unscrew a few shipping screws, and pop on the filament holder.
@@ -124,9 +130,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The QIDI Q1 Pro has a full auto leveling program that includes setting the Z height, input shaping and PID tuning with the help of built-in sensors. It runs a full calibration during the set phase. Just push the button and the machine does the rest. The machine also runs through a leveling calibration before each print to make sure that it’s perfect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Loading Filament on the QIDI Q1 Pro
 
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/AamUjgh8E3BMj8rYmUKCzN-320-80.jpg)
@@ -141,9 +144,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  It’s unusual that QIDI doesn’t want to back the filament out of the hotend, but it could be that they are trying to avoid clogs by reversing warm filament through the gears.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Preparing Files / Software for QIDI Q1 Pro
 
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/ejYPbRS2EGwB3vEFxAPTdP-320-80.png)
@@ -159,8 +159,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The only thing you CANNOT do is access the Fluidd screen directly through your printer’s IP address. You are forced to open QIDISlicer first.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Printing on the QIDI Q1 Pro
 
  The QIDI Q1 Pro comes with a small sample coil of PLA. If you want more colors and materials like silks and multicolor filaments, you should check out our guide to the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) for suggestions.
@@ -172,17 +173,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/vCWVw5SvYrQSLCea4MvCQN-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
 
  I ran a first layer test by printing a one layer high square that took up the entire buildable area with the Inland Grey PLA. The print was just the tiniest bit high on the right front corner, but was otherwise clean and smooth.
 
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/3CYdeZ4ibJ4eNz8Bynv2gN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  I’ve been using the QIDI to make a lot of dragons and eggs, which print with excellent speed and crispness. Here’s a sample dragon egg that I printed with nice 0.2 mm smooth layers. The egg printed in two halves, both on the bed at the same time, and took 3 hours and 21 minutes using QIDISlicer’s default settings. Printed in[Polymaker’s Starlight Mercury PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Changeable-Starlight-Filament-Different%2Fdp%2FB0BMVT8C7S%2Fref%3Dasc%5Fdf%5FB0BYJPYMW8%2F%3FlinkCode%3Ddf0%26hvadid%3D673776915052%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D16535774068434485645%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022877%26hvtargid%3Dpla-2204729101640%26mcid%3Ddae185c1e5a437c4a6d02fb545f4043b%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1240343951232811620-20) .
@@ -202,9 +201,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/A3vnuMYHRSw6cSV84wGXnL-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _RC Truck Cab, modified from_ [_Fixumdude’s Print in Place Pickup Truck_](https://www.printables.com/model/504729-fixum-dude-motors-print-in-place-pickup-truck)  (Image credit: Tom's Hardware)
 
 ## Bottom Line
@@ -240,15 +239,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -257,4 +255,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-10-power-players-youtubes-ladies-in-gaming/"><u>[Updated] In 2024, 10 Power Players YouTube's Ladies in Gaming</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-dusk-rising-the-fade-out-process/"><u>[Updated] In 2024, Dusk Rising The Fade Out Process</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-peering-into-youtube-interactive-threads/"><u>2024 Approved Peering Into YouTube Interactive Threads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-if-criticism-is-monetized-in-vids/"><u>Discovering If Criticism Is Monetized in Vids</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-list-the-best-luxury-laptops-and-advanced-ultrabooks-in-2ebyte-market/"><u>Exclusive List: The Best Luxury Laptops and Advanced Ultrabooks in 2Ebyte Market</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/godslayer-chronicles-ragnarok-dawn-for-2024/"><u>Godslayer Chronicles Ragnarok Dawn for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-xcover-7-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy XCover 7 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-s17-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo S17 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/los-mejores-convertidores-h265hevc-del-ano-2023-soluciones-ideales-para-windows-mac-e-inalambricas/"><u>Los Mejores Convertidores H.265/HEVC Del Año 2023: Soluciones Ideales Para Windows, Mac E Inalámbricas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-expert-insights-from-toms-hardware/"><u>Mastering Gadgets & Systems: Expert Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-tech-trends-with-confidence-using-insights-from-toms-experts/"><u>Navigate Tech Trends With Confidence Using Insights From Tom's Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/new-leak-suggests-apple-pushes-back-launch-of-ai-capabilities-to-october-insights/"><u>New Leak Suggests Apple Pushes Back Launch of AI Capabilities to October - Insights</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-converting-mp3-files-into-high-quality-wav-format-using-vlc-media-player/"><u>Step-by-Step Guide: Converting MP3 Files Into High-Quality WAV Format Using VLC Media Player</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-gadgets-navigate-with-ease-through-toms-electronic-emporium/"><u>The Ultimate Guide to Gadgets - Navigate with Ease Through Tom's Electronic Emporium</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-for-affordable-2024-cpus-performance-ratings-from-toms-hardware/"><u>The Ultimate List for Affordable 2024 CPUs - Performance Ratings From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125162534-toms-tech-corner-your-guide-to-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Corner: Your Guide to the Latest in Computer Components and Gadgets!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-a-comprehensive-guide/"><u>Tom's Tech Review: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-choice-for-ergonomic-efficiency-best-wireless-mice-of-the-year-2024/"><u>Top Choice for Ergonomic Efficiency: Best Wireless Mice of the Year 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-tech-the-tom-hardware-analysis-hub/"><u>Unveiling Cutting-Edge Tech - The Tom Hardware Analysis Hub</u></a></li>
+</ul></div>
 

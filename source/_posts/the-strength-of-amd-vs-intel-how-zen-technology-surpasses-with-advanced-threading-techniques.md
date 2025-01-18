@@ -1,7 +1,7 @@
 ---
 title: "The Strength of AMD vs Intel: How Zen Technology Surpasses with Advanced Threading Techniques"
-date: 2024-08-19T03:53:35.872Z
-updated: 2024-08-20T03:53:35.872Z
+date: 2025-01-12T18:15:30.879Z
+updated: 2025-01-18T16:26:30.923Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,24 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-the-art-of-play-navigating-switch-pro-and-steam-games/"><u>[New] 2024 Approved Mastering the Art of Play Navigating Switch Pro and Steam Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-bring-life-to-film-projects-3-inexpensive-techniques-for-iphones-music-integration/"><u>[New] In 2024, Bring Life to Film Projects 3 Inexpensive Techniques for iPhones Music Integration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-insiders-guide-to-recording-on-itunes/"><u>[New] In 2024, The Insider's Guide to Recording on iTunes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-passive-to-profitable-youtube-revenue-techniques/"><u>[Updated] From Passive to Profitable YouTube Revenue Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-xiaomi-redmi-note-13-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Xiaomi Redmi Note 13 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-nubia-red-magic-8s-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Nubia Red Magic 8S Pro+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-gaming-keyboards-for-gamers-in-2er-comparing-full-size-tkl-and-compact-models-mini/"><u>Best Gaming Keyboards for Gamers in 2Er: Comparing Full-Size, TKL, and Compact Models (Mini)</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-advanced-computer-systems-with-expertise-from-toms-hardware/"><u>Navigating Advanced Computer Systems with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-product-of-a-number-x-and-9-less-than-the-number-is-represented-by-x-times-x-9/"><u>The Product of a Number, ( X ), and 9 Less than the Number Is Represented by ( X Times (X - 9) ).</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210158725-9780593296912-this-is-your-mind-on-plants/"><u>This Is Your Mind on Plants | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-comprehensive-guide-to-top-tier-computer-hardware/"><u>Tom's Comprehensive Guide to Top-Tier Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-gear-and-equipment-insights/"><u>Tom's Tech Hub: Gear and Equipment Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-cutting-edge-insights/"><u>Tom's Tech Reviews: Cutting-Edge Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175659648-unboxing-of-noctua-home-series-why-the-nv-fs1-desk-fan-shines-at-just-1n00/"><u>Unboxing of Noctua Home Series - Why the NV-FS1 Desk Fan Shines at Just $1N00!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-exploring-toms-collection/"><u>Unveiling the Latest in Hardware: Exploring Tom's Collection</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-10plus-best-free-online-video-trimmers-to-edit-videos-quickly/"><u>Updated 2024 Approved 10+ Best Free Online Video Trimmers to Edit Videos Quickly</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Cyber Week Blowout: Snag Your Microsoft Surface Pro"
-date: 2025-01-06T23:01:35.438Z
-updated: 2025-01-12T21:32:36.686Z
+date: 2025-01-17T16:24:15.298Z
+updated: 2025-01-18T16:50:43.004Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb333cb2-55bd-4be8-b483-37eb33b9452e%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,19 +125,24 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-marketers-manual-for-recognizing-fabricated-supporters/"><u>[New] In 2024, A Marketer’s Manual for Recognizing Fabricated Supporters</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ethereal-3-clash-veil-4-arises/"><u>[New] In 2024, Ethereal 3 Clash Veil 4 Arises</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-behind-the-scenes-guide-to-elusive-instagram-tools/"><u>[Updated] 2024 Approved Behind-the-Scenes Guide to Elusive Instagram Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much/"><u>[Updated] 2024 Approved Earning Strategies for Successful Youtube Shorts What You Need & How Much?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-gamers-signature-look-essential-template-tips-for-channels/"><u>[Updated] Gamers' Signature Look Essential Template Tips for Channels</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-client-visionaries-shaping-brand-narratives-through-video/"><u>2024 Approved Client Visionaries Shaping Brand Narratives Through Video</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-social-soundtrack-top-10-music-videos-on-facebook/"><u>2024 Approved Social Soundtrack Top 10 Music Videos on Facebook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-playstation-5-experience-with-leading-ssd-upgrades-and-speed-enhancements/"><u>Elevate PlayStation 5 Experience with Leading SSD Upgrades and Speed Enhancements</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-scythe-mugen-6-and-mugen-6-black-edition-cutting-edge-quiet-cooling-at-a-competitive-price-range/"><u>Expert Analysis of the Scythe Mugen 6 and Mugen 6 Black Edition: Cutting-Edge Quiet Cooling at a Competitive Price Range</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-how-does-the-levelplay-combat-air-ca4-keep-your-cpu-cool-and-quiet/"><u>Expert Review: How Does the Levelplay Combat Air CA4 Keep Your CPU Cool and Quiet?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-gear-with-tom-insights-and-analysis/"><u>Exploring Advanced Computing Gear with Tom - Insights & Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-your-go-to-guide/"><u>Exploring Technology with Tom - Your Go-To Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-11-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 11 Apple ID and Apple Pay</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-power-solutions-ultimate-camping-gear-reviews-by-industry-experts-insights-from-zdnet/"><u>Top-Rated Portable Power Solutions: Ultimate Camping Gear Reviews by Industry Experts - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamline-your-gaming-journey-consoles-and-computers-synergy/"><u>[Updated] 2024 Approved Streamline Your Gaming Journey Consoles & Computers Synergy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-to-alternative-screen-recording-software/"><u>[Updated] 2024 Approved The Ultimate Guide to Alternative Screen Recording Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-location-of-saved-wallpaper-image/"><u>Discovering Location of Saved Wallpaper Image</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-logitech-dfgt-racing-wheel-software-compatible-with-win71011/"><u>Download and Install Logitech DFGT Racing Wheel Software – Compatible with Win7/10/11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-zte-nubia-z60-ultra-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass ZTE Nubia Z60 Ultra FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-105-classic-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia 105 Classic FRP?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-prime-low-end-pc-capture-programs-reviewed/"><u>In 2024, Prime Low-End PC Capture Programs Reviewed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-nokia-c12-plus-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Nokia C12 Plus to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-review-of-the-corsair-dominator-platinum-rgb-ddr5-6400-c38-kit-with-2x16gb-memory-sticks/"><u>In-Depth Analysis & Review of the Corsair Dominator Platinum RGB DDR5-6400 C38 Kit with 2X16GB Memory Sticks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-surecores-revolutionary-low-power-cryoquantum-tech-next-gen-memory-functionality-at-minimal-4kelvin/"><u>Introducing SureCore's Revolutionary Low-Power CryoQuantum Tech: Next-Gen Memory Functionality At Minimal 4Kelvin</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maintain-a-natural-and-coherent-speech-pattern-despite-the-constraints-of-embedding-hidden-messages/"><u>Maintain a Natural and Coherent Speech Pattern Despite the Constraints of Embedding Hidden Messages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rising-demand-causes-anticipated-increase-of-up-to-15-in-dram-prices-during-first-quarter-of-2024-industry-production-holds-steady/"><u>Rising Demand Causes Anticipated Increase of Up to 15% in DRAM Prices During First Quarter of 2024: Industry Production Holds Steady</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-releases-revolutionary-lpcamm-technology-offering-laptops-up-to-128gb-ddr5-memory-in-a-compact-60-smaller-footprint/"><u>Samsung Releases Revolutionary LPCAMM Technology, Offering Laptops up to 128GB DDR5 Memory in a Compact 60% Smaller Footprint</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-reviews-and-specs/"><u>Tom's Tech Insights: Comprehensive Reviews & Specs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-the-ultimate-guide-to-computer-components-and-systems/"><u>Tom's Tech: The Ultimate Guide to Computer Components and Systems</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-10-audio-enhancement-software-for-ios-devices-for-2024/"><u>Top 10 Audio Enhancement Software for iOS Devices for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-with-toms-hardware-analysis/"><u>Unlocking Performance Secrets with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-technology-guide/"><u>Unveiling the Latest Gadgets with Tom's Technology Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unveiling-the-secrets-of-facetune-a-comprehensive-review/"><u>Unveiling the Secrets of Facetune A Comprehensive Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Building PCs Smartly: Tips From Tom's Hardware Wisdom"
-date: 2024-08-19T03:51:42.182Z
-updated: 2024-08-20T03:51:42.182Z
+date: 2025-01-14T17:07:04.742Z
+updated: 2025-01-18T18:57:07.608Z
 tags:
   - cooling
 categories:
@@ -27,6 +27,10 @@ On Wednesday, the U.S.[State Department announced](https://www.state.gov/taking-
 
  In other words, if I buy a DeepCool power supply today, I’m technically breaking the law. I might be able to make the case that I’m conducting business with a U.S. company, not the listed company, but such a claim would likely be tenuous at best.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ On Wednesday, the U.S.[State Department announced](https://www.state.gov/taking-
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,20 @@ On Wednesday, the U.S.[State Department announced](https://www.state.gov/taking-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-lights-for-youtube-vlogging/"><u>[New] The Art of Lights for YouTube Vlogging</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-a78-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo A78 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862829558-experience-the-thrill-of-affordable-quality-with-a-sceptre-24-curved-display-at-only-79/"><u>Experience the Thrill of Affordable Quality with a Sceptre 24 Curved Display at Only $79.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-facetime-black-screen-problems-quickly-and-effectively/"><u>How To Resolve FaceTime Black Screen Problems Quickly and Effectively</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-enhancements-in-windows-11-unveiled/"><u>In 2024, The Enhancements in Windows 11 Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862817669-memorial-day-special-unlock-epic-savings-on-dells-32-inch-gaming-display-for-only-279/"><u>Memorial Day Special: Unlock Epic Savings on Dell's 32-Inch Gaming Display for Only $279</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862824038-score-big-savings-on-the-ultrawide-aorus-oled-monitor-from-gigabyte-limited-offer-at-969/"><u>Score Big Savings on the Ultrawide, Aorus OLED Monitor From Gigabyte - Limited Offer at $969</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862813875-unleash-your-game-the-ultimate-offer-on-alienwares-34-inch-oled-monitor-only-749-at-best-buy/"><u>Unleash Your Game: The Ultimate Offer on Alienware's 34-Inch OLED Monitor, Only $749 at Best Buy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-tech-toms-authoritative-hardware-reviews/"><u>Unveiling the Latest in Tech: Tom's Authoritative Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-pc-components-a-deep-dive-by-toms-hardware/"><u>Unveiling the Secrets of PC Components - A Deep Dive by Tom's Hardware</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977798460-wood-species-and-external-drying-conditions-can-significantly-influence-the-thermal-behavior-of-wood-during-processing/"><u>Wood Species and External Drying Conditions Can Significantly Influence the Thermal Behavior of Wood During Processing</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Stay Chill with EK Direct Die AIO Cooler – Achieve Up to 20°C Lower Temps on Your Intel Core I7 13900KS
-date: 2024-08-19T03:58:08.060Z
-updated: 2024-08-20T03:58:08.060Z
+date: 2025-01-16T19:35:22.217Z
+updated: 2025-01-18T16:22:02.953Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
  In terms of performance, the air-cooled CPU was seen to deliver about 38,300cb with the AiO-cooled chip achieving just over 39,100cb. The CPU clocks were much more steady at 5.6 GHz using the AiO, but with the air cooler in place they often dipped to 5.4 GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +45,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/wmRXDJgtnnLnPhD5DLfZMJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Der8auer)
 
  It may be unfortunate timing for the new EK-Nucleus AIO CR360 Direct Die D-RGB all-in-one CPU cooler, as we are nearly at the end of the Socket 1700 era. Der8auer admitted he didn’t know what might need to be done to make the AiO Intel 15th Gen CPU compatible.
@@ -49,18 +57,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/DwdkCF27CRpbAtFLxxyV8J-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: EKWB)
 
  For some further context, last July we reviewed the closely related EK Nucleus AIO CR360 Lux D-RGB for fully clothed CPUs. Despite price concerns and a slight noise disadvantage against the best rival AiOs, our review crowned it the[new king of AiO cooling](https://www.tomshardware.com/reviews/ek-nucleus-aio-cr360-lux-d-rgb) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +78,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/approved-elite-insight-engine-highest-chart-tracker/"><u>2024 Approved Elite Insight Engine Highest Chart Tracker</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-insiders-guide-to-flawless-game-recordings-on-playstation-4/"><u>2024 Approved The Insider’s Guide to Flawless Game Recordings on PlayStation 4</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-next-level-pc-customization-with-hytes-latest-offerings-superior-cooler-technology-rgb-illumination-and-motherboard-header-integration/"><u>Experience Next-Level PC Customization with Hyte's Latest Offerings: Superior Cooler Technology, RGB Illumination, and Motherboard Header Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-electronics-with-toms-hardware-insights/"><u>Exploring the World of Electronics with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175695796-mastering-tech-essentials-at-toms-haven-for-hardware-enthusiasts/"><u>Mastering Tech Essentials at Tom's Haven for Hardware Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/original-prusa-xl-uncovered-benefits-of-a-large-printing-surface-and-multi-tool-use/"><u>Original Prusa XL Uncovered: Benefits of a Large Printing Surface and Multi-Tool Use</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pinnacle-video-devices-for-windows-11-enthusiasts-for-2024/"><u>Pinnacle Video Devices for Windows 11 Enthusiasts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversal-of-extra-privileges-win11-standardization-tutorial/"><u>Reversal of Extra Privileges: Win11 Standardization Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-v27e-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo V27e Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tech-resource-deep-dives-with-tom-hardware-edition/"><u>The Ultimate Tech Resource: Deep Dives with Tom - Hardware Edition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/understanding-gptbot-reasons-behind-its-website-ban/"><u>Understanding GPTBot: Reasons Behind Its Website Ban</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->

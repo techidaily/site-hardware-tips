@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Top Picks: Thermalright Frozen Notte Vs. Aqua Elite 360 White V3 - Comprehensive AIO Reviews"
-date: 2024-08-19T03:52:05.215Z
-updated: 2024-08-20T03:52:05.215Z
+date: 2025-01-17T16:30:14.806Z
+updated: 2025-01-18T16:49:14.572Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
  In terms of performance, the air-cooled CPU was seen to deliver about 38,300cb with the AiO-cooled chip achieving just over 39,100cb. The CPU clocks were much more steady at 5.6 GHz using the AiO, but with the air cooler in place they often dipped to 5.4 GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +45,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/wmRXDJgtnnLnPhD5DLfZMJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Der8auer)
 
  It may be unfortunate timing for the new EK-Nucleus AIO CR360 Direct Die D-RGB all-in-one CPU cooler, as we are nearly at the end of the Socket 1700 era. Der8auer admitted he didn’t know what might need to be done to make the AiO Intel 15th Gen CPU compatible.
@@ -49,18 +57,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/DwdkCF27CRpbAtFLxxyV8J-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: EKWB)
 
  For some further context, last July we reviewed the closely related EK Nucleus AIO CR360 Lux D-RGB for fully clothed CPUs. Despite price concerns and a slight noise disadvantage against the best rival AiOs, our review crowned it the[new king of AiO cooling](https://www.tomshardware.com/reviews/ek-nucleus-aio-cr360-lux-d-rgb) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +78,22 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dismantling-the-profit-strategy-of-tseries-on-digital-platforms-youtube/"><u>[New] In 2024, Dismantling the Profit Strategy of TSeries on Digital Platforms (YouTube)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-most-watched-youtube-videos-within-24-hours/"><u>[New] Top 10 Most Watched YouTube Videos Within 24 Hours</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-learn-from-the-best-youtubes-top-green-screen-techniques/"><u>[Updated] Learn From The Best Youtube’s Top Green Screen Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-boundaries-with-syma-x8c-flight/"><u>Exploring the Boundaries with Syma X8C Flight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-essentials-for-savvy-consumers/"><u>Exploring Tom’s Hardware Essentials for Savvy Consumers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-best-under-a-grand-msi-bravo-laptops-experience-rtx-4060-power/"><u>Find the Best Under-a-Grand MSI Bravo Laptops: Experience RTX 4060 Power</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-sony-xperia-1-v-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Sony Xperia 1 V? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cerebral-quests-the-ultimate-list-of-escape-rooms/"><u>In 2024, Cerebral Quests The Ultimate List of Escape Rooms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-newbie-to-zoom-whiz-in-no-time/"><u>In 2024, From Newbie to Zoom Whiz in No Time</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-the-alienware-m18-r2-tower-pc-powerhouse-performance-and-tactile-keypresses-reviewed/"><u>In-Depth Look at the Alienware M18 R2 Tower PC: Powerhouse Performance & Tactile Keypresses Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-your-new-2024-laptop-future-proof-discover-how-microsofts-copilotplus-outperforms-conventional-ai-pc-models/"><u>Is Your New 2024 Laptop Future-Proof? Discover How Microsoft's Copilot+ Outperforms Conventional AI PC Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-graphics-framework-refresh-enhanced-laptops-featuring-intel-core-ultra-and-amd-ryzen-series/"><u>Latest Graphics Framework Refresh: Enhanced Laptops Featuring Intel Core Ultra & AMD Ryzen Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/live-unveiling-of-snapdragon-powered-laptops-experience-the-future-with-copilotplus/"><u>Live Unveiling of Snapdragon-Powered Laptops - Experience the Future with Copilot+</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-the-essential-guide-to-gadgets-by-toms-digital-insights/"><u>Mastering Tech: The Essential Guide to Gadgets by Tom's Digital Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

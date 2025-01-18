@@ -1,7 +1,7 @@
 ---
 title: "7-Device Charging Capacity: Unmatched 140W Portable Battery Backup That Lasts Longer Between Charges - Spotlight on Tech"
-date: 2025-01-08T22:09:43.153Z
-updated: 2025-01-12T18:19:26.339Z
+date: 2025-01-11T19:05:12.825Z
+updated: 2025-01-18T19:16:55.044Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -81,7 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,14 +130,19 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-beyond-boundaries-channel-youtube-for-exciting-green-screens/"><u>[New] 2024 Approved Beyond Boundaries Channel Youtube for Exciting Green Screens</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-5-gaming-earbuds-for-video-creators/"><u>[New] In 2024, Essential 5 Gaming Earbuds for Video Creators</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-mechanics-behind-youtube-income-for-2024/"><u>[New] The Mechanics Behind YouTube Income for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-dual-cpu-cooling-performance-with-silverstones-latest-aio-marvel-the-xe360-dual/"><u>Experience Unmatched Dual CPU Cooling Performance with SilverStone’s Latest AIO Marvel: The XE360-Dual</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-hardware-discovering-the-future-of-technology-today/"><u>Expert Insights From Tom's Hardware - Discovering the Future of Technology Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-insights-with-tom-your-trusted-resource/"><u>Exploring Technology Insights with Tom - Your Trusted Resource</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-performance-the-deepcool-assassin-amoji-4s-c6-asic-miner-reviewed-for-serene-hashing-power/"><u>Exploring the Performance: The DeepCool Assassin Amoji 4S C6 ASIC Miner Reviewed for Serene Hashing Power</u></a></li>
-<li><a href="https://some-skills.techidaily.com/todays-drone-usage-tomorrows-revolutionary-pathways-for-2024/"><u>Today's Drone Usage, Tomorrow's Revolutionary Pathways for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ultimate-selection-of-excellent-5k-displays-ranked-8-for-2024/"><u>Ultimate Selection of Excellent 5K Displays - Ranked #8 for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-deciphering-youtubes-processing-after-uploading/"><u>[New] Deciphering YouTube's Processing After Uploading</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-capture-conserve-continue-a-guide-to-saving-snapchat-content/"><u>[Updated] In 2024, Capture, Conserve, Continue A Guide to Saving Snapchat Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/crafting-silence-in-gaming-building-a-stealthy-rgb-free-desktop-pc-unveiled-by-toms-hardware/"><u>Crafting Silence in Gaming: Building a Stealthy RGB-Free Desktop PC Unveiled by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-hidden-gems-with-toms-computer-components-guide/"><u>Discover Hidden Gems with Tom's Computer Components Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-advances-in-computing-with-toms-technology-reviews/"><u>Discover the Latest Advances in Computing with Tom's Technology Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-guidelines-for-assembling-your-first-gaming-pc/"><u>Essential Guidelines for Assembling Your First Gaming PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-persistent-pc-crashes-in-ghostwire-tokyo/"><u>Fixes for Persistent PC Crashes in Ghostwire: Tokyo</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nokia-c210-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nokia C210 Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snowy-scores-winter-2022-wonders-unveiled/"><u>In 2024, Snowy Scores Winter 2022 Wonders Unveiled</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-twitpic-saver-streamline-ios-video-downloads-from-tweets/"><u>In 2024, TwitPic Saver Streamline iOS Video Downloads From Tweets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-hardware-evaluations-by-toms-technology-experts/"><u>Professional Hardware Evaluations by Tom’s Technology Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-your-tiktok-profile-altering-account-numbers/"><u>Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-digital-innovations-with-toms-electronics-review/"><u>Unveiling the Latest in Digital Innovations with Tom's Electronics Review</u></a></li>
 </ul></div>
 

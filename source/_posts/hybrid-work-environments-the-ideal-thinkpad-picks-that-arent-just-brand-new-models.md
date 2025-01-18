@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models
-date: 2025-01-05T18:23:46.581Z
-updated: 2025-01-13T00:06:01.245Z
+date: 2025-01-14T19:23:50.680Z
+updated: 2025-01-18T16:17:42.735Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,24 +112,24 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-saving-your-social-media-face-from-spurious-support/"><u>[New] In 2024, Saving Your Social Media Face From Spurious Support</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-7-key-strategies-for-perfect-macro-video-shooting/"><u>[Updated] 7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-business-visual-aids-to-enhance-your-meetings/"><u>[Updated] Free Business Visual Aids to Enhance Your Meetings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-story-hacks-your-path-to-prominence-for-2024/"><u>[Updated] Instagram Story Hacks Your Path to Prominence for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-3d-printing-method-for-crafting-high-tech-three-dimensional-chip-designs/"><u>Advanced 3D Printing Method for Crafting High-Tech Three-Dimensional Chip Designs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-visual-performance-monitors-for-next-gen-console-gamers-ps5xbox-series/"><u>Best Visual Performance Monitors for Next-Gen Console Gamers (PS5/Xbox Series)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comparing-the-240mm-aio-cooler-without-a-pump-surprisingly-close-to-conventional-pump-rivals/"><u>Comparing the 240Mm AIO Cooler Without a Pump: Surprisingly Close to Conventional Pump Rivals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-tutorial-harnessing-power-with-orcaslicer-for-data-analysis/"><u>Comprehensive Tutorial: Harnessing Power with OrcaSlicer for Data Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cutting-edge-reviews-from-toms-technology-realm/"><u>Cutting-Edge Reviews From Tom’s Technology Realm</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discounted-price-alert-high-resolution-8k-phrozen-sonic-mini-s-resin-3d-printer-for-325-only/"><u>Discounted Price Alert: High-Resolution 8K Phrozen Sonic Mini S Resin 3D Printer for $325 Only</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-hardware-excellence-with-toms-comprehensive-guide/"><u>Discover Hardware Excellence with Tom’s Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-how-noctua-is-changing-game-with-its-latest-pumpless-aio-liquid-cooler-design-harnessing-evaporation-power/"><u>Discover How Noctua Is Changing Game with Its Latest Pumpless AIO Liquid Cooler Design Harnessing Evaporation Power</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125186683-elevate-your-3d-prints-say-goodbye-to-blobs-and-zits-forever/"><u>Elevate Your 3D Prints - Say Goodbye to Blobs and Zits Forever!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-14-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 14?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-unresponsive-email-banners-in-outlook-windows/"><u>Tackling Unresponsive Email Banners in Outlook Windows</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/teaching-techniques-with-youtube-a-practical-approach-for-2024/"><u>Teaching Techniques with YouTube A Practical Approach for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/alafdl-5-trk-lizala-krs-mstnskh-mn-windows-11-alklam-oalaamlyat/"><u>الأفضل 5 طرق لإزالة قرص مستنسخ من Windows 11: الكلام والعمليات</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-follow-the-flow-of-forum-fancies/"><u>[New] 2024 Approved Follow the Flow of Forum Fancies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-must-see-mac-video-frames-selection-limited-to-156-characters-for-2024/"><u>[New] Must-See Mac Video Frames Selection (Limited to 156 Characters) for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-ultimate-guide-to-trending-youtubers-for-2024/"><u>[New] The Ultimate Guide to Trending YouTubers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-blueprint-revolutionizing-your-mobile-capture-experience-with-mobizen/"><u>[Updated] In 2024, Ultimate Blueprint Revolutionizing Your Mobile Capture Experience with Mobizen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-techniques-to-ensure-uninterrupted-video-capturing/"><u>[Updated] Techniques to Ensure Uninterrupted Video Capturing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-whats-sweeping-the-web-dive-into-these-8-trending-videos/"><u>[Updated] What's Sweeping the Web? Dive Into These 8 Trending Videos</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/grundlagen-des-reflektiven-einsatzes-von-windows-server-2012-r2-schritt-fur-schritt-anleitungen/"><u>Grundlagen Des Reflektiven Einsatzes Von Windows Server 2012 R2 - Schritt-Für-Schritt Anleitungen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-soundstage-excellence-critical-interface-tips-for-podcasters/"><u>In 2024, Soundstage Excellence Critical Interface Tips for Podcasters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pre-order-now-sabrents-high-performance-rocket-5-ssds-from-just-190/"><u>Pre-Order Now: Sabrent's High-Performance Rocket 5 SSDs From Just $190</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-and-performance-insights-for-the-portable-sk-hynix-tube-t31-equipped-with-m2-technology-via-usb-stick/"><u>Review & Performance Insights for the Portable SK Hynix Tube T31, Equipped with M.2 Technology via USB Stick</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-300tb-ssds-from-sk-hynix-pioneering-the-future-of-storage-for-ai-environments/"><u>Revolutionary 300TB SSDs From SK Hynix: Pioneering the Future of Storage for AI Environments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-data-management-with-4tb-patriot-viper-vp4300-lite-ssd-a-detailed-performance-and-price-guide/"><u>Revolutionize Your Data Management with 4TB Patriot Viper VP4300 Lite SSD - A Detailed Performance & Price Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-storage-exclusive-discounts-on-ssds-and-hdds-2024-edition/"><u>Save Big on Storage: Exclusive Discounts on SSDs & HDDs - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sneak-peek-upcoming-samsung-storage-solutions-the-990-evo-plus-and-9100-pro-hit-patent-office/"><u>Sneak Peek: Upcoming Samsung Storage Solutions - The 990 EVO PLUS & 9100 PRO Hit Patent Office</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-exploring-the-enhanced-performance-and-features-of-the-2tb-wd-sn740-m2-2230-solid-state-drive/"><u>The Ultimate Review: Exploring the Enhanced Performance and Features of the 2TB WD SN740 M.2 2230 Solid-State Drive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-in-depth-reviews-and-insights/"><u>Tom's Computing: In-Depth Reviews and Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unraveling-the-latest-in-computer-gadgets-and-performance/"><u>Tom's Tech Insights: Unraveling the Latest in Computer Gadgets and Performance</u></a></li>
+<li><a href="https://win-docs.techidaily.com/unveiling-the-impact-of-events-on-marketing-a-statistical-analysis-for-2-2013-using-massmail-tools/"><u>Unveiling the Impact of Events on Marketing: A Statistical Analysis for 2지년 (2013) Using Massmail Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Electronics & Gadgets - Insights by Tom
-date: 2024-08-19T03:57:11.534Z
-updated: 2024-08-20T03:57:11.534Z
+date: 2025-01-15T16:54:58.320Z
+updated: 2025-01-18T18:55:53.896Z
 tags:
   - printer
 categories:
@@ -74,6 +74,10 @@ Today's best 3DMakerPro Mole 3D Scanner deals
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/wePFmiBoZLsJBQkcRUqtUU-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 * [3DMakerPro Mole 3D Scanner at Amazon for $674](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C4YJ3L56%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-7484044493359635031-20)
@@ -86,9 +90,6 @@ Today's best 3DMakerPro Mole 3D Scanner deals
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/oHasmMfR2C5T8uFnDHqS5S-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
  Like other 3DMakerPro 3D scanners, the Mole is available in three combo packages: standard, premium, and luxury. The standard combo includes the basics needed to complete a 3D scan, including the Mole 3D scanner, a power cord, and a data cable. For an additional cost, the premium combo also includes a turntable, tripod, and carbon fiber handle while the luxury combo includes a “color kit.”
@@ -101,9 +102,6 @@ Today's best 3DMakerPro Mole 3D Scanner deals
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -114,9 +112,6 @@ Today's best 3DMakerPro Mole 3D Scanner deals
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/tXwcnHsbeaNvKrq8koFWcR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In addition to the ball swivel mount, the Mole includes a tripod and a lightweight carbon fiber handle which can be combined or separated depending on the application. I found the body of the Mole was easy to handle for handheld dynamic scanning, but the included carbon fiber handle is a nice addition for anyone with smaller hands or who is used to a more traditional grip.
@@ -141,12 +136,13 @@ Today's best 3DMakerPro Mole 3D Scanner deals
 
  Using the latest build available for Mac (v2.2.8), the program crashed surprisingly often during the Remove Noise step of post-processing, and I found myself going back and manually removing noise points from the scans before attempting alignment. While this wasn’t a major issue and I never lost any work other than the work in progress, it’s still worth noting and could be a potential headache for users processing complex scans on a tight deadline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3D Scanning with the 3DMakerPro Mole
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/dCjsYJfegMAsHiikDVgDfa-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -157,8 +153,9 @@ Today's best 3DMakerPro Mole 3D Scanner deals
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: 3DMakerPro)
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -171,9 +168,17 @@ _Table Scan_ first initializes the scene by detecting the surface of the turntab
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -187,10 +192,6 @@ _Table Scan_ first initializes the scene by detecting the surface of the turntab
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -203,29 +204,24 @@ _Table Scan_ first initializes the scene by detecting the surface of the turntab
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: 3DMakerPro)
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
  After the alignment is completed, the model is processed in a linear workflow through the steps selected in the_Process_ window. After_Fusion_ and_Remove Noises_ is complete, the model can be repaired and any holes or gaps are automatically filled. If processed automatically, this workflow will sometimes take outlier noise points and connect them to the rest of the mesh, resulting in a small protrusion in the model. JMStudio also offers basic mesh editing capabilities, so the misplaced triangles can be selected, deleted, and the resulting hole can be repaired.
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/9Jg5xJbmpZ79gpRMXbVvcb-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
  The final product is a mesh 3D model that has been made from the three individual point cloud scans, after merging the clouds, removing isolated points, and filling holes. For very large or very complicated models, the JMStudio app also provides a_Simplify_ operation, which will reduce the number of triangles in the model to reduce the overall file size. This operation worked OK in testing, but using a decimate modifier is also a popular step in post-processing software like Blender or my own browser-based decimation tool[lowpoly3d.xyz](https://lowpoly3d.xyz/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3D Scanning Dark Objects with 3DMakerPro Mole
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/MnrRmkPrCEawXnKRHMGuBb-320-80.png)
@@ -236,9 +232,6 @@ _Table Scan_ first initializes the scene by detecting the surface of the turntab
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/jdLa7inqgtJJBczwvPUcZZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  To test this feature, I scanned a black bicycle saddle that has a dull, satin finish and a pattern of shiny black dots. This saddle has several compound curves that make it ideal for 3D scanning, and the dull finish doesn’t require any pre-processing or spraying. The Mole scans at 10 FPS, which is fast enough to capture surfaces while allowing you to reposition the scanner manually during the scan without losing tracking on most wide, flat surfaces.
@@ -253,35 +246,19 @@ _Table Scan_ first initializes the scene by detecting the surface of the turntab
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
  The saddle was scanned a total of four times: two scans of the top surface and sides and two scans of the bottom surface and sides. The top surface appears nearly flawless in the 3D scan, but the glossy appearance of the rendered model in JMStudio makes it difficult to see if the repeating dot texture on the surface was captured as well. The bottom scan looks generally good, but even with a large amount of overlap I was not able to automatically align the scans in the software and the manual alignment wasn’t much better.
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/cdRHUPCSfxZF2RTgi2MHNa-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Blender)
 
@@ -291,16 +268,10 @@ Key features:
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
  The base model 3DMakerPro Mole is compatible with macOS and PC for capturing and processing scans, while use with a mobile phone requires the[optional Connect accessory](https://shareasale.com/r.cfm?b=2296410&u=4338022&m=139161&afftrack=techidaily&urllink=https%3A%2F%2Fcowinaudio.pxf.io%2Fpyx40e) . This accessory is currently offered at $89 for Android and $159 for iOS and still requires a PC or Mac for processing scans, which is worth noting if you plan on using the Mole with a mobile phone.
@@ -312,8 +283,9 @@ Key features:
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/CnSSwXvHzW8gQ8QqHrLakR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The 3DMakerPro Mole is advertised as featuring an accuracy of 0.05mm, or 50 microns. This sub-human-hair-width accuracy should lend itself to scanning highly detailed models, but I found the Mole struggled to capture fine feature details on models as well as fine details on surfaces. Using a[light colored Gundam model](https://newtype.us/p/eDgQ87KvvT3hxyjfQ7O6/h/hggbb-02-gundam-livelance-heaven) that had been sprayed with a matte clear coat, I tested the Mole on_Fine Quality_ mode to see how much detail could be captured.
@@ -332,9 +304,6 @@ Key features:
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/KtcfNMvsvk6CuK3xfMsAVR-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
  The Mole captured the general shape of the model, but still required extensive manual cleaning to get to a semi-complete finished product. The blank area where the windshield would be was filled with floating points, which had to be selected and deleted from each scan before merging to prevent the area from being filled in. The hood, tires, and bumper look good, but some of the darker areas in the backseat were not fully captured.
@@ -349,35 +318,21 @@ Key features:
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
  In JMStudio, I’m able to delete all of the geometry related to the bracket I used to prop up the model, and only merge the surface scan with the scan of the full model. After fusing and cleaning up the point cloud, the mesh model shows a high level of detail, including the excess paint in the top “B” of “Barcelona” that partially fills the recess.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 3D Scanning Textures with the 3DMakerPro Mole
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/EK6rWiyTZmp64CgYV8PDtR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -394,8 +349,9 @@ Key features:
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: 3DMakerPro)
 
  When scanning in_Texture Mode_ , the LED array fires with each frame at full intensity and can be blinding if faced directly. Considering the 3DMakerPro site shows a Mole scanning inches away from the face of a child, this is something to carefully consider if you are planning to scan faces with texture using the Mole.
@@ -416,10 +372,6 @@ Key features:
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  (Image credit: Blender)
 
 ![3DMakerPro Mole 3D Scanner](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -430,9 +382,6 @@ Key features:
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/rSUCBv4dK6srVK62NeGDFX-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  (Image credit: 3DMakerPro)
 
  On the 3DMakerPro site, the Mole is advertised as featuring “Ultra-Clear Texture Mode” when using the optional color kit included with the luxury package. The version shipped to me did not include this package, so I’m not able to test the quality of the color textures.
@@ -441,9 +390,6 @@ Key features:
 
 ![3DMakerPro Mole 3D Scanner](https://cdn.mos.cms.futurecdn.net/27iMfQZCi8BmiHWPKvKPWa-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The 3DMakerPro Mole is a powerful handheld 3D scanner that is capable of making 3D models from real-life objects with virtually no set-up, calibration, or additional post-processing required. I was impressed with the ease-of-use of the JMStudio software, although I did experience several crashes and wished I were able to control some parameters (_Fusion_ ,_Repair_ , etc.) with more precision. The overall detail in scanned models looked good due to the 10 FPS scanning and 0.05 accuracy of the scanner, but some fine features failed to resolve and the manual alignment wasn’t as useful as I would have liked.
@@ -498,8 +444,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -507,4 +451,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-setting-up-the-pip-feature-in-the-youtube-app-for-easy-video-streaming/"><u>[New] 2024 Approved Setting up the PIP Feature in the YouTube App for Easy Video Streaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-enhancing-audio-visual-elements-in-tiktok-via-zoom-for-2024/"><u>[Updated] Enhancing Audio-Visual Elements in TikTok via Zoom for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sjcam-sj6-legend-vs-xiaomi-yi-4k/"><u>[Updated] SJCam SJ6 Legend VS Xiaomi Yi 4K</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-tips-and-tricks-for-exceptional-steam-playback-footage-for-2024/"><u>[Updated] Tips and Tricks for Exceptional Steam Playback Footage for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fcp-without-spending-practical-guide/"><u>2024 Approved FCP Without Spending – Practical Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-to-mitigate-vr-disorientation/"><u>2024 Approved Techniques to Mitigate VR Disorientation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-s21-fe-5g-2023-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy S21 FE 5G (2023) Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-thermal-solutions-surpass-300w-efficaciously-with-cooler-masters-newest-aio-and-air-cooling-tech/"><u>Cutting-Edge Thermal Solutions: Surpass 300[W Efficaciously With Cooler Master's Newest AIO and Air Cooling Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-pcs-cooling-system-with-the-mighty-moora-iv-600-nine-200mm-fans-and-a-bulky-35lbs-radiator-for-under-600/"><u>Enhance Your PC's Cooling System with the Mighty MOORA IV 600: Nine 200Mm Fans and a Bulky 35Lbs Radiator for Under $600</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensuring-solidity-in-3d-printing-stop-layers-from-peeling-apart/"><u>Ensuring Solidity in 3D Printing: Stop Layers From Peeling Apart</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-hardware-with-tom-in-depth-guides-and-reviews/"><u>Exploring Computer Hardware with Tom - In-Depth Guides & Reviews</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-tips-from-toms-hardware-experts/"><u>Mastering PC Building Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-ultra-compact-nh-l12sx77-enhanced-ram-clearance-and-efficient-vrm-cooling-in-sff-rigs/"><u>Noctua Unveils Ultra-Compact NH-L12Sx77: Enhanced Ram Clearance & Efficient VRM Cooling in SFF Rigs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-f5-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175642094-revolutionize-your-pc-cooling-foolproof-thermal-interface-material-tim-applier-by-x-apply-coming-shortly/"><u>Revolutionize Your PC Cooling: 'Foolproof' Thermal Interface Material (TIM) Applier by X-Apply - Coming Shortly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-comprehensive-tech-reviews-and-guides-unveiling-cutting-edge-gadgets/"><u>Tom's Hardware - Comprehensive Tech Reviews & Guides | Unveiling Cutting Edge Gadgets!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-potential-with-openais-bespoke-gpt-tools/"><u>Unlock Your Potential with OpenAI's Bespoke GPT Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-id-cooling-fx360-pro-is-your-best-bet-for-adequate-cooling-under-60/"><u>Why the ID-Cooling FX360 Pro Is Your Best Bet for Adequate Cooling Under $60</u></a></li>
+</ul></div>
 

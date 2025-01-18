@@ -1,7 +1,7 @@
 ---
 title: Discover Amazing Back-to-School Laptop Bargains for Q3/Q4 | TechRadar
-date: 2025-01-08T23:46:47.508Z
-updated: 2025-01-12T17:08:54.657Z
+date: 2025-01-15T17:17:53.022Z
+updated: 2025-01-18T17:25:20.500Z
 tags:
   - laptops
 categories:
@@ -95,14 +95,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Amazon laptop deals
@@ -118,6 +114,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -153,6 +153,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -165,10 +169,6 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -177,10 +177,6 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Graphics card/GPU:** Again, gamers and content creators will want a higher graphics card to reflect the beautiful imagery for their gaming. I personally recommend that gamers opt for at least an RTX 3060 at the moment. However, again, internet surfers and workers shouldn't worry too much about the graphics if you're focusing on building out Word documents.
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
@@ -191,6 +187,10 @@ Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular
 When you're considering your budget for a new laptop, you have to consider what you want to use the device for. 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -204,7 +204,7 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best deals by category
@@ -257,18 +257,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-leading-steps-to-mute-movie-filming/"><u>[New] Leading Steps to Mute Movie Filming</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-maximizing-video-playback-speed-on-facebook/"><u>[Updated] Maximizing Video Playback Speed on Facebook</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-free-guide-recording-youtube-videos-on-screencasts/"><u>2024 Approved Free Guide Recording YouTube Videos on Screencasts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/decoding-the-differences-echo-pop-stacked-up-against-echo-dot/"><u>Decoding the Differences: Echo Pop Stacked Up Against Echo Dot</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-gadgets-for-your-raspberry-pi-pico/"><u>Essential Gadgets for Your Raspberry Pi Pico</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-digital-gadgets-by-toms-electronics-guide/"><u>Expert Analysis of Digital Gadgets by Tom's Electronics Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-toms-comprehensive-guide-on-hardware/"><u>Expert Review: Tom's Comprehensive Guide on Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-advanced-gadgetry-top-picks-and-analyses-from-toms-technological-vault/"><u>Explore Advanced Gadgetry: Top Picks and Analyses From Tom's Technological Vault</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-movies-for-free-simple-video-player-software-for-2024/"><u>Explore Movies for Free Simple VIDEO Player Software for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-f25-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo F25 Pro 5G Phone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revealed-employee-testimonial-why-you-might-prefer-not-to-work-at-apple-according-to-insiders/"><u>Revealed: Employee Testimonial – Why You Might Prefer Not to Work at Apple According to Insiders</u></a></li>
-<li><a href="https://win11.techidaily.com/use-external-tools-explore-third-party-software-like-flux-redshift-or-display-temp-to-customize-display-behavior-according-to-time-of-day-and-ambient-light-32/"><u>Use External Tools: Explore Third-Party Software Like f.lux, Redshift, or Display Temp to Customize Display Behavior According to Time of Day and Ambient Light Conditions.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028830976-windows-10mp4/"><u>フリーウェアによるWindows 10上でのMP4動画回転手順</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-essential-steps-for-fb-file-transfers-on-linux-mac/"><u>[Updated] 2024 Approved Essential Steps for FB File Transfers on Linux, Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>[Updated] Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-performance-top-6-professional-hacks-to-combat-slow-fps-in-escape-from-tarkov/"><u>Boosting Performance: Top 6 Professional Hacks to Combat Slow FPS in Escape From Tarkov</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-reno-8t-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Reno 8T Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-the-definitive-source-for-pc-gear-insights-and-evaluations/"><u>Inside Tom's Hardware: The Definitive Source for PC Gear Insights and Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lian-li-introduces-innovative-l-shape-psus-perfect-for-bi-cable-case-systems/"><u>Lian Li Introduces Innovative L-Shape PSUs Perfect for Bi-Cable Case Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mavic-air-ushers-in-new-era-confronting-dji-sparks-legacy/"><u>Mavic Air Ushers in New Era, Confronting DJI Spark’s Legacy</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-10-best-omegle-alternatives-meet-new-people-online/"><u>New In 2024, 10 Best Omegle Alternatives Meet New People Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-components-msis-new-power-unit-with-yellow-connections-preventing-traditional-pin-meltdown-problems/"><u>Protect Your Components: MSI's New Power Unit with Yellow Connections Preventing Traditional Pin Meltdown Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/reconcile-your-win-plus-print-discrepinasions-with-effective-solutions/"><u>Reconcile Your Win + Print Discrepinasions with Effective Solutions.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-pc-aesthetics-with-lian-lis-strimer-plus-v2-a-comprehensive-review-of-its-dazzling-psu-cable-illumination-upgrade/"><u>Revolutionizing PC Aesthetics with Lian Li's Strimer Plus V2 - A Comprehensive Review of Its Dazzling PSU Cable Illumination Upgrade</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-fixing-windows-stop-error-0xc00-grove-e9-effectively/"><u>Step-by-Step Solutions: Fixing Windows Stop Error 0Xc00 Grove E9 Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-analysis-of-the-latest-hardware/"><u>Tom's Tech Insights: In-Depth Reviews and Analysis of the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-reviews-and-advice/"><u>Tom's Tech Review: In-Depth Reviews and Advice</u></a></li>
 </ul></div>
 

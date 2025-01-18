@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Apple M3 MacBook Air: The Revolutionary, Budget-Friendly AI Device You Can't Miss | Review"
-date: 2025-01-08T01:27:52.874Z
-updated: 2025-01-12T23:20:05.049Z
+date: 2025-01-11T17:19:46.577Z
+updated: 2025-01-18T19:45:07.642Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/70eba607a5493f0dcd7d40fac4dac70e28238f9a9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -72,7 +72,7 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -82,7 +82,7 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
@@ -112,10 +112,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | Photo 3                      | 0:17     |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
 
@@ -159,6 +155,10 @@ Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 **A USB-C port on the right side:** With the M3 MacBook Air becoming more and more of a pro-capable laptop, the biggest thing that it needs is more expansion ports. The two USB-C 4 / Thunderbolt 3 ports limit the amount of pro-level things you can do with the machine without using cumbersome expansion docks and hubs. The fact that both of the USB-C ports are on the left side can also be awkward and inconvenient at times. Apple could solve both problems by simply adding one more USB-C port to the right side of the M3 MacBook Air. 
@@ -186,7 +186,7 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -235,21 +235,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-seamless-incorporation-of-virtual-boards-in-web-conferencing-mobiledesktop-methods/"><u>[New] In 2024, Seamless Incorporation of Virtual Boards in Web Conferencing Mobile/Desktop Methods</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-clarity-chronicles-for-beginners-unraveling-resolution-factors/"><u>[Updated] Clarity Chronicles for Beginners Unraveling Resolution Factors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-swiftly-restore-working-airdrop-between-apple-gadgets-and-macs/"><u>[Updated] Swiftly Restore Working AirDrop Between Apple Gadgets & Macs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-infusing-video-narratives-with-apple-harmony/"><u>2024 Approved Infusing Video Narratives with Apple Harmony</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-synergy-of-business-and-virtual-experience-design/"><u>2024 Approved The Synergy of Business and Virtual Experience Design</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/a-comparative-analysis-of-top-10-budget-friendly-video-calls/"><u>A Comparative Analysis of Top 10 Budget-Friendly Video Calls</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bringing-text-to-life-3d-techniques-in-illustrator-for-2024/"><u>Bringing Text to Life 3D Techniques in Illustrator for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-crafting-professional-ppt-video-content/"><u>In 2024, Crafting Professional PPT Video Content</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-scoop-on-new-releases-your-go-to-source-for-toms-hardware-info/"><u>Inside Scoop on New Releases: Your Go-To Source for Tom's Hardware Info</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-usb-memory-sticks-of-2024-speedy-spacious-and-compact-choices/"><u>Leading USB Memory Sticks of 2024: Speedy, Spacious, and Compact Choices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/major-order-cancellations-lead-asetek-to-discontinue-revenue-forecasts/"><u>Major Order Cancellations Lead Asetek to Discontinue Revenue Forecasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-essentials-guidance-from-toms-resourceful-reviews/"><u>Mastering Hardware Essentials - Guidance From Tom's Resourceful Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-your-digital-world-the-essential-tech-tips-from-tom/"><u>Mastering Your Digital World: The Essential Tech Tips From Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/most-economical-3d-printer-picks-ensuring-excellent-craftsmanship/"><u>Most Economical 3D Printer Picks Ensuring Excellent Craftsmanship</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pcs-and-devices-with-toms-tech-wisdom/"><u>Navigating the World of PCs & Devices with Tom's Tech Wisdom</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-tips-for-recording-fan-favorite-sports-games/"><u>[New] In 2024, Expert Tips for Recording Fan-Favorite Sports Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-periscope-insights-accessibility-costs-and-signup-guide/"><u>[Updated] 2024 Approved Periscope Insights Accessibility, Costs & Signup Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-discover-the-best-offline-ios-games-your-ultimate-guide/"><u>[Updated] Discover the Best Offline iOS Games – Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-scheduling-podcast-drops-with-peak-engagement-times/"><u>[Updated] Scheduling Podcast Drops with Peak Engagement Times</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-who-will-rule-the-roads-comparing-gopro-and-ghost-s-for-2024/"><u>[Updated] Who Will Rule the Roads? Comparing GoPro and Ghost-S for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aws-graviton4-dominates-benchmark-tests-vs-amd-and-intel-showcasing-record-breaking-speeds-for-a-fraction-of-the-cost/"><u>AWS Graviton4 Dominates Benchmark Tests vs AMD & Intel, Showcasing Record-Breaking Speeds for a Fraction of the Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-ai-designed-10000-ln2-container-transform-pc-performance-up-to-3x-faster-than-ordinary-coolers/"><u>Cutting-Edge, AI-Designed $10,000 LN2 Container: Transform PC Performance Up to 3X Faster than Ordinary Coolers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-openai-the-definitive-compendium-on-artificial-intelligence-pioneers/"><u>Decoding OpenAI: The Definitive Compendium on Artificial Intelligence Pioneers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-by-tom-comprehensive-hardware-guides/"><u>Expert Reviews by Tom: Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-zen-5-advances-from-amd-new-era-of-smaller-cores-and-sophisticated-dual-ccx-chip-architecture-revealed/"><u>Exploring the Zen 5 Advances From AMD - New Era of Smaller Cores and Sophisticated Dual CCX Chip Architecture Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-pixel-7a-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Google Pixel 7a PIN</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insight-from-benchmark-maker-a-sparse-56-arm-windows-pcs-undergo-qualcomm-copilotplus-evaluation-in-recent-months/"><u>Insight From Benchmark Maker: A Sparse 56 Arm-Windows PCs Undergo Qualcomm Copilot+ Evaluation in Recent Months</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-top-notch-hardware-insights-and-evaluations-by-tom/"><u>Navigating the Tech World: Top Notch Hardware Insights and Evaluations by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-tech-informed-choices-with-toms-wisdom/"><u>Navigating Through Tech: Informed Choices with Tom’s Wisdom</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-failures-restoring-java-on-windows-devices/"><u>Resolving Failures: Restoring Java on Windows Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unexpected-downturn-for-intels-new-cpu-lineup-data-suggests-four-times-more-returns-than-predecessor-outstripping-amd-issues/"><u>Unexpected Downturn for Intel's New CPU Lineup: Data Suggests Four Times More Returns than Predecessor, Outstripping AMD Issues</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-benefits-of-synology-rt2600ac-exceptional-wi-fi-range-and-robust-parental-control-mechanisms-for-secure-home-networking/"><u>Unveiling the Benefits of Synology RT2600ac – Exceptional Wi-Fi Range and Robust Parental Control Mechanisms for Secure Home Networking</u></a></li>
 </ul></div>
 

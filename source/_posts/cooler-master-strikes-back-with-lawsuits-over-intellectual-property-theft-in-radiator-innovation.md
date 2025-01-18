@@ -1,7 +1,7 @@
 ---
 title: Cooler Master Strikes Back with Lawsuits Over Intellectual Property Theft in Radiator Innovation
-date: 2024-08-19T03:51:19.003Z
-updated: 2024-08-20T03:51:19.003Z
+date: 2025-01-11T18:48:56.308Z
+updated: 2025-01-18T19:05:08.206Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
 
  However, an AIO may not always be ideal, particularly if your SFF or slim case of choice doesn't happen to have the free fan slot(s) you need to make the most of it. And finally, performance-wise,[reviews suggest](https://youtu.be/xZQwKgf%5FIYU?t=380) that the original Noctua NH-D12L performs on par with much larger CPU coolers as well, which means it should outperform most 120 mm AIOs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,18 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-digital-library-step-by-step-guide-for-your-youtube-saved-playlist/"><u>[New] The Art of Digital Library Step-by-Step Guide for Your YouTube Saved Playlist</u></a></li>
+<li><a href="https://app-tips.techidaily.com/dont-panic-five-essential-steps-for-your-windows-11-pre-end-of-support-journey-insights-from-zdnet/"><u>Don't Panic: Five Essential Steps for Your Windows 11 Pre-End-of-Support Journey - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-advice-enhancing-your-microsoft-mouse-functionality-with-a-simple-driver-update-in-windows/"><u>Expert Advice: Enhancing Your Microsoft Mouse Functionality with a Simple Driver Update in Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linguistic-bias-in-ai-chatbots-evidence-from-a-latest-stanford-study-zdnet/"><u>Linguistic Bias in AI Chatbots: Evidence From a Latest Stanford Study | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-tom-detailed-gadget-analyses-unveiled/"><u>Navigating Technology with Tom: Detailed Gadget Analyses Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computing-with-toms-gear-guide/"><u>Navigating the Latest in Computing with Tom's Gear Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-advice/"><u>Navigating the World of Electronics with Tom's Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-components-with-toms-hardware-insights/"><u>Navigating the World of PC Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-gaming-on-a-budget-experience-blur-free-visuals-with-the-159-240-hz-acer-nitro-curved-monitor/"><u>Next-Level Gaming on a Budget: Experience Blur-Free Visuals with the $159, 240 Hz Acer Nitro Curved Monitor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-wireless-power-banks-of-2024-comprehensive-reviews-by-tech-experts-at-pcmag/"><u>Top-Rated Wireless Power Banks of 2024 - Comprehensive Reviews by Tech Experts at PCMag</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-xiaomi-mix-fold-3-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Xiaomi Mix Fold 3 to Gmail | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

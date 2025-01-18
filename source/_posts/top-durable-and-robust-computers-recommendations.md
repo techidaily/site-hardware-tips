@@ -1,7 +1,7 @@
 ---
 title: Top Durable and Robust Computers - Recommendations
-date: 2025-01-08T17:47:25.112Z
-updated: 2025-01-12T16:02:40.547Z
+date: 2025-01-12T16:14:02.016Z
+updated: 2025-01-18T18:56:19.440Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,6 @@ Pros
 Cons 
 * Very expensive
 * Not consumer grade
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getac S510
 
@@ -103,7 +99,7 @@ Cons
 ## Acer Chromebook Spin 512
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best rugged laptop for students
@@ -132,10 +128,14 @@ Cons
 * Short battery life
 * On the heavy side
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus ZenBook Pro Duo 15 OLED
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best rugged laptop splurge
@@ -171,7 +171,7 @@ Cons
 ## Asus TUF A14
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best rugged laptop for gaming
@@ -183,6 +183,10 @@ The rest of the TUF A14 build is just as impressive. It sports an Nvidia GeForce
 **Asus TUF A14 tech specs: Screen size:** 14 inches | **CPU:** AMD Ryzen 7 8845HS or AMD Ryzen AI 9 HX 370 | **RAM:** Up to 16GB | **Storage:** 1TB SSD | **Graphics:** Nvidia GeForce RTX 4060 | **Battery life:** 10 hours | **Resolution:** 2560 x 1600 | **Touchscreen:** No 
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best rugged laptop?
 
@@ -220,10 +224,6 @@ Laptop manufacturers helpfully label these systems as "semi-rugged" or "rugged,"
 
 The rugged laptops listed here are from major manufacturers in the space (Dell, Panasonic, Getac), including some with which ZDNET staff have had hands-on experience. For more on how we test laptops, check out our comprehensive [laptop testing methodology](https://www.zdnet.com/article/how-we-test-laptops/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does "rugged laptop" mean?
 
 A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that is built specifically to handle extreme situations and weather conditions. Many rugged laptops are water- and dirt-resistant, resistant to drops and shocks, and can operate in both very hot and very cold temperatures. 
@@ -240,6 +240,10 @@ Laptops meant for military use are more rigorously tested against a laundry list
 
 At the time of writing, Apple does not have a ruggedized version of any of their MacBooks for sale, either through their official store or authorized sellers. You can, however, purchase rugged cases like the [Urban Armor Gear](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FURBAN-ARMOR-GEAR-Feather-Light-Translucent%2Fdp%2FB08M5KWNW4%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce3da2fa2-7385-4385-824e-43795c9997dc%7Cdtp&dtb=1) for the 13-inch MacBook Pro, the [Ibenezer case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07D848J6V%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce3da2fa2-7385-4385-824e-43795c9997dc%7Cdtp&dtb=1) for the 13-inch MacBook Air, or the [Pelican 1085](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPelican-1095CC-Laptop-Case-Liner%2Fdp%2FB006C21MCU%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce3da2fa2-7385-4385-824e-43795c9997dc%7Cdtp&dtb=1) hardshell carrying case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More rugged laptops to consider
 
 Show less 
@@ -249,7 +253,7 @@ Show less
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lenovo ThinkPad X1 Nano Gen 2
@@ -264,10 +268,6 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Getac B360
 
 I got the chance to test out the Getac B360 and saw first-hand just how tough it really is. Weighing in at a hefty 5.1 pounds, it's both MIL-STD-810H and MIL-STD-416G certified for shock and moisture resistance and can be customized for salt fog and Class I electrical hazard certification. 
@@ -281,7 +281,7 @@ Show less
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Panasonic Toughbook 55
@@ -330,24 +330,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-avoiding-the-common-path-the-route-to-unique-streamer-identities/"><u>[New] 2024 Approved Avoiding the Common Path The Route to Unique Streamer Identities</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-crafting-cinematic-content-with-precision-ratios/"><u>[New] 2024 Approved Crafting Cinematic Content with Precision Ratios</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-sharing-tactics-igtv-for-a-larger-fb-audience/"><u>[New] 2024 Approved Sharing Tactics IGTV for a Larger FB Audience</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-creative-anime-characters-and-scenes-for-viral-tiktoks-for-2024/"><u>[Updated] Creative Anime Characters & Scenes for Viral TikToks for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tailoring-text-features-in-ae-compositions/"><u>[Updated] Tailoring Text Features in AE Compositions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-techniques-succeeding-in-spotify-advertising-for-2024/"><u>[Updated] Top Techniques Succeeding in Spotify Advertising for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cutting-edge-overhead-cooling-system-mo-ra-iv-600-featuring-nine-powerful-200mm-fans-and-a-massive-weight-of-over-35lbs-for-only-600/"><u>Cutting-Edge Overhead Cooling System: MO-RA IV 600 Featuring Nine Powerful 200Mm Fans and a Massive Weight of over 35Lbs for Only $600</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-hardware-secrets-toms-expert-analysis-and-insights/"><u>Decoding Hardware Secrets: Tom's Expert Analysis and Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-advanced-computing-secrets-at-toms-hardware-universe/"><u>Discover Advanced Computing Secrets at Tom's Hardware Universe</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-pc-components-with-toms-hardware-guides/"><u>Discover the Latest in PC Components with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-finest-computer-speakers-of-the-year-balancing-cost-with-superior-audio-experience/"><u>Discovering the Finest Computer Speakers of the Year: Balancing Cost with Superior Audio Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-esports-experience-with-the-best-bluetooth-gaming-headsets-of-2024/"><u>Elevate Your Esports Experience with the Best Bluetooth Gaming Headsets of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevating-nvme-drive-efficiency-in-depth-look-at-the-best-coolers-with-a-closer-look-at-id-cooling-zero-m15-and-m05/"><u>Elevating NVMe Drive Efficiency: In-Depth Look At The Best Coolers With A Closer Look At ID-Cooling Zero M15 & M05</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-list-of-powerful-travel-friendly-and-advanced-type-c-usb-hubs/"><u>Elite List of Powerful, Travel-Friendly & Advanced Type-C USB Hubs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-next-level-overclocking-with-hypertherm-x2-pro-the-revolutionary-2-in-1-aio-cooler/"><u>Experience Next-Level Overclocking with HyperTherm X2-Pro, the Revolutionary 2-in-1 AIO Cooler</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-redmi-k70-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Redmi K70 Pro Phone?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On OnePlus Ace 2? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/mobile-animation-magic-top-stop-motion-apps-revealed/"><u>Mobile Animation Magic Top Stop Motion Apps Revealed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategies-to-swiftly-remove-unwanted-video-post-comments-for-2024/"><u>Strategies to Swiftly Remove Unwanted Video Post-Comments for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-best-practices-for-instagram-video-sharing/"><u>[New] 2024 Approved Best Practices for Instagram Video Sharing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-camera-essentials-for-rookie-filmmakers/"><u>[New] 2024 Approved Camera Essentials for Rookie Filmmakers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimal-flv-to-youtube-transformers-in-a-ranking-list/"><u>[Updated] Optimal FLV to YouTube Transformers in a Ranking List</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/accelerate-your-pcs-response-time-with-expert-advice-from-yl-computing-and-yl-software/"><u>Accelerate Your PC’s Response Time with Expert Advice From YL Computing and YL Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/bestpractiken-zum-kopieren-von-dvds-unter-windows-10-mit-top-qualitats-brennern/"><u>Bestpractiken Zum Kopieren Von DVDs Unter Windows 10 Mit Top-Qualitäts-Brennern</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-bargain-alert-snap-up-the-steelseries-arctis-nova-pro-wireless-at-a-steep-discount-of-64-off-the-leading-sound-experience/"><u>Gamer's Bargain Alert: Snap Up the SteelSeries Arctis Nova Pro Wireless at a Steep Discount of 64% Off – The Leading Sound Experience!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/historic-discount-alert-grab-the-logitech-g-pro-for-just-54-best-offer-yet/"><u>Historic Discount Alert! Grab the Logitech G Pro for Just $54 – Best Offer Yet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-proven-techniques-for-captivating-online-audiences-via-zoom-and-youtube-live/"><u>In 2024, Proven Techniques for Captivating Online Audiences via Zoom & YouTube Live</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-out-essential-vr-dictionary-words-for-2024/"><u>Inside Out Essential VR Dictionary Words for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mass-dismissals-at-wells-fargo-employees-caught-using-mouse-movers-and-software-to-mimic-activity/"><u>Mass Dismissals at Wells Fargo: Employees Caught Using Mouse Movers and Software to Mimic Activity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-with-toms-expert-guidance-and-reviews/"><u>Navigating the Tech World with Tom's Expert Guidance and Reviews</u></a></li>
+<li><a href="https://fox-info.techidaily.com/perfect-your-intro-practical-tips-and-example-scripts-for-2024/"><u>Perfect Your Intro Practical Tips & Example Scripts for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-mordhau-game-crashes-a-comprehensive-guide/"><u>Resolving Mordhau Game Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/super-affordable-logitech-g502-hero-gaming-mouse-unleash-precision-with-25k-dpi-for-just-35/"><u>Super Affordable Logitech G502 Hero Gaming Mouse: Unleash Precision with 25K DPI for Just $35!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-advanced-hardware-explorations/"><u>Tom's Tech Insights: Advanced Hardware Explorations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-insights-into-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-wireless-gaming-headsets-of-2024-compare-features-from-affordable-to-premium/"><u>Top Rated Wireless Gaming Headsets of 2024: Compare Features From Affordable to Premium</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Performance and Cool Down with EK’s Latest Water Block Innovations for Your AMD Ryzen AM5 CPU
-date: 2024-08-19T03:58:22.798Z
-updated: 2024-08-20T03:58:22.798Z
+date: 2025-01-13T18:09:53.068Z
+updated: 2025-01-18T16:03:38.328Z
 tags:
   - cooling
 categories:
@@ -37,6 +37,10 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  Finally, the AI-designed LN2 container proved 20% more efficient than the ElmorLabs design. Using 500mL of liquid nitrogen, the Volcano cooled down to just -100º Celsius, while the AI-designed prototype went down to -133º Celsius.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,14 +61,11 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  With the initial testing out of the way, SkatterBencher and its partners may look into performance and cost optimizations and perhaps change the intended use to be for even higher-power CPUs, like the AMD Ryzen Threadripper. The team would also like to commercialize the design but likely has a fair bit of work ahead of it to make it commercially viable.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,8 +74,20 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-handsonguide-to-yourwebcamrecord/"><u>[New] 2024 Approved HandsOnGuide to YourWebcamRecord</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-swift-moments-visual-and-auditory-sniped/"><u>[New] Swift Moments Visual & Auditory Sniped</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-gaming-quick-fixes-for-slow-steam-running-issues/"><u>Boost Your Gaming: Quick Fixes for Slow Steam Running Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-s18e-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo S18e to New Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/pixel-perfect-preservation-the-best-practices-of-recording-games-for-2024/"><u>Pixel-Perfect Preservation The Best Practices of Recording Games for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-13-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 13 Prevention & Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-geometric-future-eskimo-jr-innovative-layout-and-low-decibels-with-average-functionality/"><u>Review of Geometric Future Eskimo Jr.: Innovative Layout & Low Decibels with Average Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rgb-memory-kits-the-ultimate-guide-to-choosing-the-best-gaming-ram/"><u>RGB Memory Kits: The Ultimate Guide to Choosing the Best Gaming RAM</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chilled-with-eks-premium-custom-cooling-solutions-for-amd-ryzen-am5-processors/"><u>Stay Chilled with EK's Premium Custom Cooling Solutions for AMD Ryzen AM5 Processors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-toms-guide-to-understanding-advanced-hardware/"><u>The Comprehensive Tom's Guide to Understanding Advanced Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-constructing-a-high-performance-machine-for-farming-chia-crypto-assets/"><u>The Ultimate Guide to Constructing a High-Performance Machine for Farming Chia Crypto Assets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tech-source-unveiling-new-trends-in-electronics-at-toms-domain/"><u>The Ultimate Tech Source: Unveiling New Trends in Electronics at Tom's Domain</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/0-no-cost-youtube-sbd-tools/"><u>Top 10 No-Cost YouTube SBD Tools</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

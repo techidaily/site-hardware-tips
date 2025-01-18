@@ -1,7 +1,7 @@
 ---
 title: Noctua's Premium Next-Gen Flagship Cooler Launches - Experience the Power of the NH-D15 G2 for $150
-date: 2024-08-19T03:54:04.034Z
-updated: 2024-08-20T03:54:04.034Z
+date: 2025-01-16T17:09:36.996Z
+updated: 2025-01-18T16:52:29.581Z
 tags:
   - cooling
 categories:
@@ -51,6 +51,10 @@ Noctua has finally[released](https://noctua.at/en/noctua-releases-its-nh-d15-g2-
 
  Buyers of the new Noctua NH-D15 G2 will also get a Torx-based SecuFirm2+ mounting system, screwdriver, a shot of[NT-H2 thermal compound](https://www.tomshardware.com/best-picks/best-thermal-paste) , a thermal paste guard for AM5 chips, and a set of NA-ISW1 shim-washers for improved contact on LGA1700\. Noctua backs its new product with a six-year warranty.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,14 +63,11 @@ Noctua has finally[released](https://noctua.at/en/noctua-releases-its-nh-d15-g2-
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,9 +76,26 @@ Noctua has finally[released](https://noctua.at/en/noctua-releases-its-nh-d15-g2-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-achieving-professional-quality-remotely/"><u>[New] In 2024, Achieving Professional Quality Remotely</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-captivating-imagery-assemblies-your-lifelong-collection/"><u>[New] In 2024, Captivating Imagery Assemblies Your Lifelong Collection</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-grasping-the-advantages-of-av1-in-video-coding/"><u>[Updated] In 2024, Grasping the Advantages of AV1 in Video Coding</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-complete-breakdown-of-downloading-status-videos-on-fb/"><u>[Updated] The Complete Breakdown of Downloading Status Videos on Fb</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-chronicles-unveiled-an-array-of-more-than-a-hundred-inspiring-title-concepts/"><u>2024 Approved Snapchat Chronicles Unveiled An Array of More Than a Hundred Inspiring Title Concepts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-hardware-mysteries-tips-from-toms-desk/"><u>Decoding Hardware Mysteries: Tips From Tom's Desk</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-accessories-every-raspberry-pi-user-needs/"><u>Essential Accessories Every Raspberry Pi User Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-productivity-with-qidi-tech-q1-pro-a-detailed-analysis/"><u>Experience Enhanced Productivity with QIDI Tech Q1 Pro - A Detailed Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-toms-computer-and-component-analysis/"><u>Expert Advice From Tom's Computer & Component Analysis</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guia-paso-a-paso-para-sincronizar-dos-dispositivos-con-windows-10-y-11-casos-de-uso-comunes/"><u>Guía Paso a Paso Para Sincronizar Dos Dispositivos Con Windows 10 Y 11: Casos De Uso Comunes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/levelplays-combat-air-ca4-cpu-cooler-unrivaled-performance-meets-near-silent-functionality/"><u>Levelplay's Combat Air CA4 CPU Cooler: Unrivaled Performance Meets Near-Silent Functionality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210934646-9781782496236-meditation-made-easy/"><u>Meditation Made Easy | Free Book</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-se-2022-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone SE (2022)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supercharge-your-video-subtitling-explore-leading-internet-tools-today-for-2024/"><u>Supercharge Your Video Subtitling Explore Leading Internet Tools Today for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722869593927-the-future-of-personal-assistants-arrives-with-rumored-apple-innovation-price-speculations-inside/"><u>The Future of Personal Assistants Arrives with Rumored Apple Innovation – Price Speculations Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-premium-4k-monitor-with-144hz-for-gamers/"><u>The Ultimate Guide to Choosing a Premium 4K Monitor with 144Hz for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-3d-printer-filaments-of-2024/"><u>Top Recommended 3D Printer Filaments of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175716542-under-45-bucks-keep-your-pc-cool-with-the-deepcool-as500-plus-at-amazon/"><u>Under 45 Bucks? Keep Your PC Cool with the DeepCool AS500 Plus at Amazon!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-amds-innovative-zen/"><u>Unveiling AMD's Innovative Zen</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Intel's Revenue Dip by $1.6B Amidst Challenges in Its Data Center Processing & Semiconductor Fabrication Units
-date: 2024-08-19T03:56:19.907Z
-updated: 2024-08-20T03:56:19.907Z
+date: 2025-01-12T18:19:35.815Z
+updated: 2025-01-18T17:29:31.918Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,21 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-enhancing-video-calls-incorporating-snap-camera-on-teams/"><u>[New] Enhancing Video Calls Incorporating Snap Camera on Teams</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-gems-celebrating-the-best-music-playback-2023-for-2024/"><u>[New] YouTube Gems Celebrating the Best Music Playback, 2023 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-best-6-affordable-high-definition-projectors/"><u>[Updated] 2024 Approved Best 6 Affordable High-Definition Projectors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-crucial-6-platforms-enhancing-commercial-relations/"><u>[Updated] Crucial 6 Platforms Enhancing Commercial Relations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-filming-availability-pledge-downloading-rights/"><u>[Updated] Filming Availability Pledge Downloading Rights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-netflixs-split-screen-functionality/"><u>[Updated] Mastering Netflix's Split Screen Functionality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-from-free-to-focused-financial-goals-the-journey-of-ajays-youtube-success/"><u>2024 Approved From Free to Focused Financial Goals The Journey of Ajay’s Youtube Success</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/asfwmv-wmvasf/"><u>ASFとWMVファイル形式の相違点 - WMVへのASF変換手順</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-down-bambu-labs-new-commitments-on-printer-software-improvements/"><u>Breaking Down Bambu Lab's New Commitments on Printer Software Improvements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deepcools-silent-guardian-a-comprehensive-review-of-the-assassin-4s-cooler/"><u>DeepCool's Silent Guardian: A Comprehensive Review of the Assassin 4S Cooler</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-cutting-edge-technology-insights-at-toms-hardware-zone/"><u>Navigate Through Cutting-Edge Technology Insights at Tom's Hardware Zone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-gear-tips-and-reviews-from-toms-hardware/"><u>Navigating Computer Gear: Tips and Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-components-a-deep-dive-into-toms-hardware/"><u>Navigating the World of PC Components - A Deep Dive Into Tom's Hardware</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: The Apple MacBook Air with M2 Chip Crowned Best Laptop by ZDNET in Annual Product Contest!
-date: 2025-01-06T16:15:12.490Z
-updated: 2025-01-12T18:01:55.039Z
+date: 2025-01-17T18:13:57.886Z
+updated: 2025-01-18T16:13:02.112Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ Getty/MacLife Magazine
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why it's the top product of 2022
@@ -43,7 +43,7 @@ Getty/MacLife Magazine
 One of the other common criticisms of this product when it was first released was that it's now a bit of a tweener in the Mac product line -- with the very-capable [M1 MacBook Air](https://go.shopyourlikes.com/pi/244cb3ab772a00eb37169c21806273bf37215920?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) still on sale and now serving as the entry-level, under-$1,000 Mac laptop and the robust [MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C57XLR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd4f3244e-a7a4-4576-bbf5-65d2a79d96d2%7Cdtp&dtb=1) line being the go-to option for professionals and creators who need more oomph. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -65,7 +65,7 @@ My conclusion: The M2 MacBook Air can now handle about 75% of what you used to n
 That can potentially save you $500-$1,000\. The M2 MacBook Air I tested included the 10-core GPU and 16 GB of RAM and retails for $1,700\. But, a comparable MacBook Pro is going to run you at least $2,000-$2,500.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -95,7 +95,7 @@ While no Apple product ever really flies under the radar, the accomplishments of
 You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Product of the Year as a [YouTube Short](https://www.youtube.com/shorts/SlyOpp2rlKk) (embedded below), [Instagram Reel](https://www.instagram.com/reel/CmtsrSzqrrb/?hl=en), or on [TikTok](https://www.tiktok.com/@zdnet%5Fofficial/video/7182202897806019886).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -142,20 +142,22 @@ You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rom-frame-by-frame-filmmaking-to-financial-flourishing-for-2024/"><u>[New] From Frame-by-Frame Filmmaking to Financial Flourishing for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-automating-your-viewing-on-facebook-a-step-by-step-guide/"><u>[Updated] In 2024, Automating Your Viewing on Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-asus-proart-hdr-master-the-4k-quest-continues/"><u>2024 Approved ASUS ProArt HDR Master The 4K Quest Continues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audible-anomaly-the-truth-behind-the-vocal-change-application-check-out-alternatives/"><u>2024 Approved Audible Anomaly The Truth Behind the Vocal Change Application - Check Out Alternatives</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mobile-studio-kits-convenient-for-filmmakers/"><u>2024 Approved Mobile Studio Kits Convenient for Filmmakers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y36-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y36 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-expert-tips-from-tom/"><u>Mastering Technology with Expert Tips From Tom'</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-your-pc-setup-with-tips-from-toms-hardware/"><u>Mastering Your PC Setup with Tips From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-computer-world-a-deep-look-by-toms-hardware-experts/"><u>Navigating Computer World: A Deep Look by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computing-at-toms-hardware-corner/"><u>Navigating the Latest in Computing at Tom's Hardware Corner</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/public-apology-from-ekwb-on-delayed-disbursements-ensures-swift-action-towards-change/"><u>Public Apology From EKWB on Delayed Disbursements; Ensures Swift Action Towards Change</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reinstate-silenced-bluetooth-back-in-control-panel/"><u>Reinstate: Silenced Bluetooth, Back in Control Panel</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-missing-or-not-found-a-guide-to-the-opengl32dll-file/"><u>Resolving 'Missing' Or 'Not Found': A Guide to the OpenGL32.dll File</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revealing-the-true-potential-of-anycubic-kobra-2-max-unmatched-quality/"><u>Revealing the True Potential of Anycubic Kobra 2 Max - Unmatched Quality</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-redmi-note-12-pro-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi Redmi Note 12 Pro 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-tiktok-audio-integrity-overcoming-silent-intervals-in-videos/"><u>[New] In 2024, TikTok Audio Integrity Overcoming Silent Intervals in Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-hackers-defeat-reclaiming-account-pages/"><u>[Updated] 2024 Approved Hacker's Defeat Reclaiming Account Pages</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-bypass-youtubes-short-video-playback-on-all-devices/"><u>[Updated] Bypass YouTube's Short Video Playback on All Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-optimized-procedures-for-integrating-subtitles-into-live-streams-on-facebook-for-2024/"><u>[Updated] Optimized Procedures for Integrating Subtitles Into Live Streams on Facebook for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-your-perfect-graphics-processing-unit-gpu-an-in-depth-purchase-guide/"><u>Choosing Your Perfect Graphics Processing Unit (GPU): An In-Depth Purchase Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-grab-your-amd-gaming-package-with-ryzen-7000-cpu-and-radeon-rx-7000-gpu-includes-up-to-two-free-games-but-excludes-future-ryzen-9000-models.m9/"><u>Exclusive Deal: Grab Your AMD Gaming Package with Ryzen 7000 CPU and Radeon RX 7000 GPU - Includes Up to Two Free Games, But Excludes Future Ryzen 9000 Models</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-gt-5-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme GT 5 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-tecno-spark-20-proplus-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Tecno Spark 20 Pro+ Without PUK Codes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-lava-yuva-3-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Lava Yuva 3 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-redmi-k70-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Redmi K70 Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-scoop-on-nvidia-blackwell-and-rtx-50-series-gpus-unveiling-detailed-insights-into-features-release-windows-price-points-and-all-current-developments.2/"><u>Inside Scoop on Nvidia Blackwell & RTX 50-Series GPUs Unveiling: Detailed Insights Into Features, Release Windows, Price Points, and All Current Developments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-equipment-choices-with-toms-hardware-expertise/"><u>Mastering Equipment Choices with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/phison-elevates-storage-technology-with-its-newest-pcie-40-ssd-controller-presenting-the-cutting-edge-e29t-at-fms-2024/"><u>Phison Elevates Storage Technology with Its Newest PCIe 4.0 SSD Controller, Presenting the Cutting-Edge E29T at FMS 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-breakthrough-samsung-unveils-worlds-slimmest-memory-chip-the-new-lpddr5x/"><u>Revolutionary Breakthrough: Samsung Unveils World’s Slimmest Memory Chip, the New LPDDR5X</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-computing-unleashed-with-sifives-innovative-p870-d-core-and-its-256-core-risc-v-architecture/"><u>The Future of Computing Unleashed with SiFive’s Innovative P870-D Core and Its 256-Core RISC-V Architecture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-corner-dive-into-the-latest-hardware-reviews-and-comparisons/"><u>Tom's Tech Corner: Dive Into the Latest Hardware Reviews and Comparisons</u></a></li>
 </ul></div>
 

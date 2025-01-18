@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Use of Recycled Plastics: Creating Quality 3D Printing Material"
-date: 2024-08-19T03:52:15.579Z
-updated: 2024-08-20T03:52:15.579Z
+date: 2025-01-14T16:02:43.165Z
+updated: 2025-01-18T18:51:28.185Z
 tags:
   - printer
 categories:
@@ -82,6 +82,10 @@ Today's best Creality K1C deals
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/UfKoS2qJ5iSaQ3DCfMERfN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Creality K1C comes with everything you need to get your printer set up. You get tools to maintain the printer, side cutters, a plastic scraper, and a USB stick. There’s also a sample spool of white Creality Hyper PLA to start your printing journey.
@@ -92,9 +96,6 @@ Today's best Creality K1C deals
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/3RERTHWCCPEjM94Q3TNNZM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Creality K1C is a modern looking, fully-enclosed Core XY printer. It’s nearly identical to the previous K1 with most of the improvements taking place inside the machine.
@@ -109,18 +110,12 @@ Today's best Creality K1C deals
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/KmWQv4nqh4Z92NpqWrzUiM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The best spool holder might be the K1C’s matching filament drier, the[Creality Space Pi](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FOfficial-Creality-Filament-Printer-Dehydrator%2Fdp%2FB0CT59XN7F%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1D1S485JUS6CV%26dib%3DeyJ2IjoiMSJ9.6Igey3jkqAaYBP83K8VBFnBaHQySjsVgW%5FtGi77EklQ2OYMwbmNh9yePuyaPrc4qNKELf9xMWZwgAS8-UgRAIdtkBlMjf47NMKEKtHFUEZzV8NoHPTuki49w9y4WW8EzZ1O36FRL8pr9qSJIzJtzRF7OGW%5FbBwij2nN-0iiCsTYBiZPSJXgumWrykKXTKQRZ8uDtQ2jUTAhs3ve1r4UspUNven-lp3nGzFpwPCu4IGQ.mCRC670fi6uoK9HSCRqvjQMro7OLM-yQUMZ0-AGKUwQ%26dib%5Ftag%3Dse%26keywords%3Dcreality%2Bspace%2Bpi%26qid%3D1712693385%26sprefix%3Dcreality%2Bspace%2Bpi%252Caps%252C144%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1357917695777409794-20) , which is an optional purchase costing $85\. We were sent one for review along with the printer and found it worked well. The drier is helpful when printing hygroscopic material like Nylon, but can be left off when printing more stable material like PLA.
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/nMFPiAhSg8VftPtqkoi3MN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Like the K1, this machine has excellent cooling and an enclosure that makes printing ABS and ASA very easy. Bed leveling has been improved by adding a rubber brush to the build plate to make sure the nozzle is totally clean before probing the bed.
@@ -137,16 +132,10 @@ Today's best Creality K1C deals
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/5Zyw6jfoHByZYMVpR3xE3P-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Creality K1C is 98% assembled and only needs to be unboxed and unpacked. You’ll need to remove all the packing foam, unscrew three screws holding the build plate on, plug in the touch screen, screw on the filament holder and pop a filter on the back of the machine.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Leveling the Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/PZnS2qBbd56RiRcNEKUAMM-320-80.jpg)
@@ -155,13 +144,6 @@ Today's best Creality K1C deals
 
  The Creality K1C has a fully auto leveling program that includes input shaping with the help of built-in sensors. Just push the button and the machine does the rest. It will also recheck the level before each print, but you can turn that feature off during slicing if you’re comfortable skipping the step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Loading Filament on the Creality K1C
 
  Loading filament is a little awkward with the back-mounted spool holder. The side mounted spool holder makes it easier, but you’ll need to print it first. The K1C has a reverse Bowden, which is a tube that guides the filament from the run out sensor at the back corner of the machine, across the top and into the extruder.
@@ -173,16 +155,13 @@ No advertising on the website.
 Reverse the process to remove the filament.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Preparing Files / Software for Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/on77JmCCRPe63uRiGKoTCP-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Creality included a copy of Creality Print, a custom program that integrates file retrieval from the Creality Cloud, with slicer and file delivery. Using the Cloud is completely optional, as you can drag and drop stl files from your hard drive into the slicer and transfer files with LAN or a USB stick.
@@ -190,6 +169,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The program is easy-to-use with lots of presets for filaments. It’s arranged a little differently than Cura or PrusaSlicer, but all the same functions are there. The “device tab” is a simplified Klipper screen where you can see your printer’s file storage, temperatures, motion system and camera.
 
  The device tab can also be accessed by entering your printer’s IP address. This also allows you to drag and drop files from other slicers directly to your printer. There are no built-in profiles for Cura or PrusaSlicer at this time, though they are easy enough to make using an Ender 3 as the base.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Printing on the Creality K1C
 
@@ -201,17 +184,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/dpGRovxpf6dX9PuuXaQUqN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
 
  Creality sent a spool of[high speed carbon fiber PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-Filament-High-Speed-Toughness-Dimensional%2Fdp%2FB0CLTYQP4L%2Fref%3Dsr%5F1%5F4%3Fcrid%3D8OYQEKCEW6WF%26dib%3DeyJ2IjoiMSJ9.FI2zQhPo5wO4rf995czUGWD05eYPkFqkO-3fTpeFo6OfGk6NAhner3pfSqYy3dH1Cvtzczvdoz0eBL12gYmPUx2i%5FXf2-tz%5FE2iYRzma6YDcLcqJ2bS3JZNtUsF%5F9DrSWc1JgPluFn2rsvxjqHOR2RhIrmmmfidAQyIFkTyAEjRigef1Wcqhnkajfws6N3inhXpMlq3vSxA2AukRNR-nxuvPj1XQuSeqj3MI4y3-0dM.VCGg28PaqmKrLcXg8dh-IvVG7cumgTgtcNQ-7DjjzHo%26dib%5Ftag%3Dse%26keywords%3Dcreality%252Bcarbon%252Bfiber%252Bfilament%26qid%3D1712701274%26sprefix%3Dcreality%252Bcarbo%252Caps%252C526%26sr%3D8-4%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1456677865623603382-20) for testing, so I used it to make a side mounted spool holder that I found on the USB stick. One of Carbon Fiber’s benefits is masking layer lines and this print is not only strong but especially smooth. It printed quickly in 52 minutes and 36 seconds, using Creality default settings and a .2mm layer height.
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/gaymHJoVUFV2rnFTjNpqVN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
  To test out PETG, I printed a seat for an RC car in[ProtoPasta Empire Strikes Black PETG](https://proto-pasta.com/collections/all/products/empire-strikes-black-petg) . The seat printed amazing with smooth layers. It only took an hour and 14 minutes, with a .2 mm layer line and Creality Slicer’s default PETG settings.
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/jZ78ShYRhnctovshCQM5tM-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [_Death Racer Seat_](https://www.patreon.com/mrbaddeley/posts) _by Michael Baddeley_  (Image credit: Tom's Hardware)
 
@@ -226,8 +221,9 @@ _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/7AusoMr9NoagoP2Zo4oSCN-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Tinkercad RC car parts_  (Image credit: Tom's Hardware)
 
 ## Bottom Line
@@ -286,13 +282,15 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -301,4 +299,17 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unveiling-the-mystery-behind-professional-looking-time-lapses-in-gopro/"><u>[Updated] 2024 Approved Unveiling the Mystery Behind Professional-Looking Time Lapses in GoPro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fusing-film-and-frequencies-win11-edition/"><u>[Updated] Fusing Film & Frequencies Win11 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-launch-problem-effective-solutions-and-tips-to-resolve-it/"><u>Alan Wake 2 Launch Problem: Effective Solutions and Tips to Resolve It</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/instant-recording-tips-for-facetime-chats-for-2024/"><u>Instant Recording Tips for FaceTime Chats for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/msi-katana-a-stealthy-beast-at-1199-equipped-with-156-display-and-nvidias-latest-rtx-4070-gpu-for-gamers/"><u>MSI Katana – A Stealthy Beast at $1,199! Equipped with 15.6 Display & NVIDIA's Latest RTX 4070 GPU for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/msi-unveils-high-performance-titan/"><u>MSI Unveils High-Performance Titan</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigating the World of Electronics with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pc-manufacturers-criticized-by-framework-the-excessive-use-of-ai-in-marketing/"><u>PC Manufacturers Criticized by Framework: The Excessive Use of 'AI' In Marketing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pricey-apple-vision-pro-to-get-a-budget-friendly-rival-all-eyes-on-the-upcoming-iphone-headset-zdnet-insights/"><u>Pricey Apple Vision Pro to Get a Budget-Friendly Rival? All Eyes on the Upcoming iPhone Headset - ZDNet Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-essential-list-of-20-budget-friendly-1tbplus-cloud-space-providers-for-2024/"><u>The Essential List of 20 Budget-Friendly, 1TB+ Cloud Space Providers for 2024</u></a></li>
+</ul></div>
 

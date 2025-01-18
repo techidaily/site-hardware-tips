@@ -1,7 +1,7 @@
 ---
 title: Intel's Next-Gen CPUs Facing Potential Overheating Issues with New Temperature Tolerances
-date: 2024-08-19T03:58:46.423Z
-updated: 2024-08-20T03:58:46.423Z
+date: 2025-01-16T17:44:20.051Z
+updated: 2025-01-18T17:23:46.085Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ The official name for Intel's next-generation desktop platform and flagship chip
 
 [Previous leaks claim](https://www.tomshardware.com/pc-components/cpus/leaked-intel-arrow-lake-chipset-diagram-show-more-pcie-lanes-no-support-for-ddr4-new-chipset-boasts-two-m2-ssd-ports-connected-directly-to-cpu) that Z890 will be a noteworthy upgrade over Z790, providing integrated Thunderbolt 4 support, thanks to Thunderbolt 4 controller integration from Arrow Lake CPUs. Z890 is also rumored to come with four additional lanes of PCIe 5 storage for dedicated M.2 SSDs and a secondary PCIe 4.0 x 4 interface for a second M.2 drive. Rumors also stated that Intel will adopt the ["200" moniker](https://www.tomshardware.com/pc-components/cpus/intels-next-gen-desktop-cpus-have-leaked-arrow-lake-core-ultra-200-series-share-similar-core-counts-with-raptor-lake-refresh) for Arrow Lake-S, featuring a triple-digit numbering scheme rather than the five we have today. The flagship Arrow Lake-S part is cited as being called the Core Ultra 9 285K.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ The official name for Intel's next-generation desktop platform and flagship chip
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,20 @@ The official name for Intel's next-generation desktop platform and flagship chip
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-endless-display-recorder-app/"><u>[New] 2024 Approved Endless Display Recorder App</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/xperts-choice-top-8-proven-video-marketing-actions-for-2024/"><u>[New] Expert's Choice Top 8 Proven Video Marketing Actions for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-pinnacle-posts-on-reddit-celebrating-the-most-popular-10-for-2024/"><u>[New] Pinnacle Posts on Reddit Celebrating the Most Popular (10) for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-successfully-embed-youtube-playlists-via-web-scripts/"><u>2024 Approved How to Successfully Embed YouTube Playlists via Web Scripts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-procedure-for-removing-stashed-videos-from-watch-later/"><u>2024 Approved Procedure for Removing Stashed Videos From Watch Later</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cut-down-on-setup-time-discover-how-corsairs-one-twist-screw-revolutionizes-pc-building/"><u>Cut Down on Setup Time: Discover How Corsair's One-Twist Screw Revolutionizes PC Building</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-ways-to-ensure-smooth-feeds-preventing-tangles-in-3d-printing-lines/"><u>Easy Ways to Ensure Smooth Feeds: Preventing Tangles in 3D Printing Lines</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-optimizing-your-3d-printers-performance-with-regular-nozzle-maintenance/"><u>Expert Advice: Optimizing Your 3D Printer's Performance with Regular Nozzle Maintenance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-monitor-picks-for-perfect-viewing-experience/"><u>Future-Proof Monitor Picks for Perfect Viewing Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 14 Plus | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nokia-130-music-by-fonelab-android-recover-music/"><u>How to recover old music from your Nokia 130 Music</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-technology-reviews-from-toms-industry-hub/"><u>Innovative Technology Reviews From Tom's Industry Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-m4a-m4v-pc/"><u>Movavi의 무료 M4A, M4V 영상 바꾸기 - 모바일과 PC에서 사용하기 쉬운 페이스닝</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->

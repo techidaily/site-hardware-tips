@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: Expert Guides and In-Depth Analysis"
-date: 2024-08-19T03:58:14.024Z
-updated: 2024-08-20T03:58:14.024Z
+date: 2025-01-15T16:05:09.758Z
+updated: 2025-01-18T17:44:29.681Z
 tags:
   - printer
 categories:
@@ -68,9 +68,6 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6hj6fUJjafrEzDmqAJN5TS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Original Prusa XL is a new machine that doesn’t stray far from the Prusa design and color branding. Its boxy frame is black with orange accents, and logos are printed on both the toolhead and back cover. It’s a beefy boi with Bowden tubes that arch over the top and spool holders that mount on both sides. The frame is C shaped, keeping the front open and easily accessible to reach in and grab your prints, or just to set up a camera for timelapses. LED lights tucked under the top frame provide enough light for observation and most camera needs.
@@ -100,9 +97,9 @@ The wait for a bigger 3D printer from Prusa Research has ended, and they certain
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6oi6svYawnAUqBAQzbAw2S-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Prusa XL we reviewed came semi assembled and “only” needed the toolheads mounted. This is still quite a process, and installing five toolheads and calibrating each of them took several hours. As with the MK4, the printer itself will guide you through the calibration process.
@@ -111,13 +108,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Note: if you purchased the DIY kit version of the XL you’ll need to set aside a weekend to assemble and calibrate it, but you will save $500.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Calibrating the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/SSpJM3ayMuiPMPoLkAYK9U-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Bed leveling is a no-brainer as the XL Is fully automatic. There are no manual adjustments and no need for adjusting the Z offset. The printer uses a load cell sensor connected to the nozzle, which physically taps the print surface for precise measurement.
@@ -126,22 +124,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  You should run the included calibration print to make sure the print heads are in sync with each other. You can make minute adjustments to each print head, but I found that my initial calibrations were off because the nozzles had tiny bits of filament on them, leftover from the factory test. Once the nozzles were scrubbed clean, the printer was able to achieve perfect calibration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Loading Filament on the Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/DvYcZbzQoaT2pwSMG62ixT-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Loading filament is a little more complex than on the single color Prusa MK4\. Each toolhead has its own spool holder (three on one side, two on the other) and a good 4 feet of Bowden tube. The printer is direct drive, meaning you need to hand feed the filament through a lot of tubing before the extruder gears can take over.
@@ -154,16 +144,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  To remove material, go to the Filament menu from the main screen and click unload. It will remember what material was last installed, determine if the filament is still there, and then heat to the appropriate temperature. Once hot, it will retract the plastic until you can easily remove it.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preparing Files / Software for Original Prusa XL
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/P52DrZpk9Ahw76CiUPJj9T-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Original Prusa XL currently works best with its own slicer, PrusaSlicer. It uses the same color painting method developed for Prusa’s MMU system, which also forms the basis for Bambu Studio. The slicer is free to download and can be used with most other brands of 3D printers.
@@ -171,6 +155,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
  To use the XL’s WiFi you have to use a separate program, either Prusa Link or Prusa Connect. Prusa Link is a bare bones portal that connects to your printer over LAN or WiFi. You access it by typing in the printers’ network address. Prusa Link only allows you to upload files, start and stop a print, see the thumbnail and a few stats about your machine. However, once Prusa Link is established, you can connect your printer directly from Prusa Slicer and send a file to the printer without needed to open any other programs.
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/BTWJwfhHRAoUkaGd9Vu9qR-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -182,9 +170,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Prusa Research is committed to data[security](https://www.tomshardware.com/tag/security) and does not require your machine to be online in order to operate. File transfers and firmware updates can all be handled with a USB stick.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Printing on the Original Prusa XL
 
  The XL comes with a full roll of Prusament PLA Galaxy Black, but it has room for four more spools. You should really check out our guide to the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) for more suggestions.
@@ -203,6 +188,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/SgjpBwU7BRRmJ9VbEnncXU-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Of course, I needed to see how the XL could work multiple materials together. The real problem is that most materials don’t want to stick together. They didn’t need to for this Prusa Research toolbox I found on Printables which uses PLA, PETG and TPU. The three materials are in four colors: black and orange Prusament PETG, white Prusament PLA, and red[Ninjatek Cheeta](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fstores%2Fpage%2F55A62856-F883-42CF-917A-74F1D4F21D17%3Fingress%3D2%26visitId%3Dd8c69182-0349-4ab2-ad9a-26926bc8537d%26ref%5F%3Dast%5Fbln%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3421307589983500022-20) for a gasket.
@@ -214,12 +203,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![Original Prusa XL](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Original Prusa XL](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -235,9 +228,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/metJPCsBo3TqcVxRaxZJeS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Because of its tool changer, the Prusa Original XL is a dream come true for many 3D printing fans. It’s a large format, multicolor, multi-material machine that nibbles on plastic instead of wasting it by the bucket. The XL is easy to use, with truly hands free auto bed leveling and the ability to set its own Z height. Plus, it's backed by Joseph Prusa’s commitment to Open Source, quality service and data security.
@@ -269,15 +259,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -286,4 +275,24 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-rhythmic-resonance-in-static-images/"><u>[New] 2024 Approved Rhythmic Resonance in Static Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-chuckle-creation-making-memes-on-kapwing/"><u>[Updated] Chuckle Creation Making Memes on Kapwing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-prime-drones-best-prices-now-for-2024/"><u>[Updated] Prime Drones, Best Prices Now for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-creality-cr-10s-exceptional-performance-meets-an-inconvenient-fit/"><u>Comprehensive Analysis of Creality CR-10S: Exceptional Performance Meets an Inconvenient Fit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creativity-unleashed-discover-the-power-of-crealitys-new-k1c-and-upgraded-ender-3-pro-version/"><u>Creativity Unleashed: Discover the Power of Creality’s New K1C and Upgraded Ender 3 Pro Version</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-digital-tools-trustworthy-insights-on-hardware-from-toms-perspective/"><u>Decoding Digital Tools: Trustworthy Insights on Hardware From Tom's Perspective</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/elevate-your-gameplay-with-the-secretlab-magnus-pro-a-dynamic-desk-for-gamers-and-professionals-alike/"><u>Elevate Your Gameplay with the Secretlab MAGNUS Pro - A Dynamic Desk for Gamers and Professionals Alike</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-strategies-for-swift-and-smooth-media-navigation/"><u>Expert Strategies for Swift and Smooth Media Navigation</u></a></li>
+<li><a href="https://win11.techidaily.com/from-digital-drawer-to-windowed-gallery-moving-vintage-games/"><u>From Digital Drawer to Windowed Gallery: Moving Vintage Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-the-capabilities-of-the-original-prusa-xl-with-its-large-build-plate-and-five-simultaneous-toolheads/"><u>In-Depth Analysis: The Capabilities of the Original Prusa XL with Its Large Build Plate and Five Simultaneous Toolheads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-build-insights-from-toms-hardware-authority/"><u>Mastering Your Build - Insights From Tom's Hardware Authority</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-tips-from-toms-hardware-hub/"><u>Navigating Technology: Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-small-form-factor-pcs-with-noctuas-new-low-profile-cooler-the-nh-l12sx77-features-improved-ram-space-and-vrm-heat-dissipation/"><u>Revolutionizing Small Form Factor PCs with Noctua's New Low-Profile Cooler - The NH-L12Sx77 Features Improved RAM Space and VRM Heat Dissipation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-voice-activated-chatgpt-in-cars/"><u>The Dawn of Voice-Activated ChatGPT in Cars</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-sports-cooling-revealed-by-frore-a-solid-state-fanless-active-system-that-thrives-underwater/"><u>The Future of Sports Cooling Revealed by Frore - A Solid-State, Fanless Active System That Thrives Underwater</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-13-free-dvd-player-software-compatible-with-windows-11-enhance-your-media-experience/"><u>Top 13 Free DVD Player Software Compatible with Windows 11: Enhance Your Media Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval/"><u>Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval</u></a></li>
+</ul></div>
 

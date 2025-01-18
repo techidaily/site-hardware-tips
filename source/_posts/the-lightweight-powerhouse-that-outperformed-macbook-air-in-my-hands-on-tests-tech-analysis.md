@@ -1,7 +1,7 @@
 ---
 title: The Lightweight Powerhouse That Outperformed MacBook Air in My Hands-On Tests | Tech Analysis
-date: 2025-01-06T18:59:18.148Z
-updated: 2025-01-12T17:13:06.393Z
+date: 2025-01-12T16:44:58.756Z
+updated: 2025-01-18T19:32:19.980Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -87,7 +87,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -126,24 +126,24 @@ The Surface Laptop is a flagship mid-range device that's well-rounded enough to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-master-plan-youtube-content-into-mp4-for-2024/"><u>[New] Master Plan YouTube Content Into MP4 for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-amplifying-zoom-picture-quality-insider-secrets/"><u>2024 Approved Amplifying Zoom Picture Quality Insider Secrets</u></a></li>
-<li><a href="https://discover-best.techidaily.com/abbyy-finereader-pro-14-transforming-office-efficiency-in-managing-documents/"><u>ABBYY FineReader Pro 14 - Transforming Office Efficiency in Managing Documents</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-look-at-dji-inspire-1-explored-for-2024/"><u>Complete Look at DJI Inspire 1 Explored for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721463395821-dealing-with-an-offline-find-my-iphone-explore-reasons-and-tracking-tricks-here/"><u>Dealing with an Offline Find My iPhone? Explore Reasons and Tracking Tricks Here!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-x-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone X iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-pc-voice-communication-issue-in-among-us-gameplay/"><u>Resolving the PC Voice Communication Issue in Among Us Gameplay</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/samsung-adb-driver-setup-secure-download-steps-and-tips/"><u>Samsung ADB Driver Setup: Secure Download Steps and Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175686979-toms-tech-corner-dive-into-latest-gadgets-and-hardware-reviews/"><u>Tom's Tech Corner: Dive Into Latest Gadgets and Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-microsd-memory-cards-for-optimal-raspberry-pi-performance/"><u>Top MicroSD Memory Cards for Optimal Raspberry Pi Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-3d-printing-materials-of-2024/"><u>Top Recommended 3D Printing Materials of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-quality-gaming-microphones-reviewed-and-compared/"><u>Ultimate List of Quality Gaming Microphones Reviewed and Compared</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-in-computing-with-toms-hardware-wisdom/"><u>Unlocking Performance Secrets in Computing with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-toms-equipment-analysis/"><u>Unveiling the Latest in Technology with Tom's Equipment Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-performance-in-depth-analysis-of-qidi-tech-q1-pro-audio-equipment/"><u>Unveiling the Performance: In-Depth Analysis of QIDI Tech Q1 Pro Audio Equipment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-gear-insights-at-toms-computing-world-forums-and-reviews/"><u>Unveiling Top Gear Insights at Tom's Computing World - Forums and Reviews</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/62845710-youtube-subscriber-awards-the-play-button-awards-for-creators/"><u>YouTube Subscriber Awards! The Play Button Awards for Creators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-learn-quickly-how-to-film-anywhere-with-one-tech-setup/"><u>[New] In 2024, Learn Quickly How to Film Anywhere with One Tech Setup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-warm-thanks-in-video-closings-paidfree-selection/"><u>[New] Warm Thanks in Video Closings Paid/Free Selection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-t5-action-camera-the-complete-ultimate-video-experience/"><u>[Updated] In 2024, T5 Action Camera The Complete, Ultimate Video Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-jumpstart-with-vrecorder-easy-installation-walkthrough-for-2024/"><u>[Updated] Jumpstart with VRecorder Easy Installation Walkthrough for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-personalized-phone-tones-for-android-users-for-2024/"><u>[Updated] The Ultimate Guide to Personalized Phone Tones for Android Users for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/come-generare-unimmagine-di-sistema-del-tuo-disco-rigido-con-windows-11/"><u>Come Generare Un'Immagine Di Sistema Del Tuo Disco Rigido Con Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ating-youtubes-subtitlecc-landscape-with-expertise-and-speed-for-2024/"><u>Navigating YouTube's Subtitle/CC Landscape with Expertise and Speed for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-s24-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy S24 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-lava-agni-2-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Lava Agni 2 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-top-picks-and-reviews/"><u>Tom's Tech Hub: Top Picks and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide/"><u>Tom's Tech Insights - Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-reviews-and-guides-t17238628801324/"><u>Tom's Tech Insights: Expert Reviews and Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-on-latest-hardware/"><u>Tom's Tech Review: Comprehensive Guide on Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-computer-components/"><u>Tom's Tech Reviews: Expert Insights on Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-pc-and-peripheral-advice-by-toms-hardware-experts/"><u>Ultimate PC and Peripheral Advice by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-innovations-at-toms-hardware-blog/"><u>Uncovering Innovations at Tom's Hardware Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-vivid-colors-and-rapid-refresh-the-full-review-of-the-viewsonic-oled-gaming-masterpiece/"><u>Unleash Vivid Colors and Rapid Refresh: The Full Review of the ViewSonic OLED Gaming Masterpiece</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-gamers-delight-with-bright-colorful-performance-a-critical-look-at-viewsonic-xg272-2k-monitor/"><u>Unleashing Gamers' Delight with Bright, Colorful Performance: A Critical Look at ViewSonic XG272-2K Monitor</u></a></li>
 </ul></div>
 

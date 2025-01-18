@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: In-Depth Reviews & Guides"
-date: 2024-08-19T03:54:30.395Z
-updated: 2024-08-20T03:54:30.395Z
+date: 2025-01-14T19:36:54.782Z
+updated: 2025-01-18T16:22:32.204Z
 tags:
   - cooling
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 The AIO liquid cooler market has become much more competitive in the past year or so, resulting in stronger products available for lower prices than ever. Over the past year, top-performing AIOs have been available for as low as $120 USD. Today we’ll be covering ID-Cooling’s latest 360mm AIO, the FX360 Pro, which is available for only $60 – a price lower than many high-end air coolers.
 
  With such a budget price tag, I have to wonder if it’s actually strong enough to tame a hot CPU like Intel’s i7-13700K. Does the FX 360 Pro have what it takes to earn a spot on our[best AIO coolers](https://www.tomshardware.com/best-picks/best-aio-coolers) list? We’ll have to put it through testing to find out. But first, here are the specifications from ID-Cooling.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cooler specifications
 
@@ -67,8 +71,9 @@ Included in the box are the following:
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -81,9 +86,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -106,9 +108,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -118,9 +117,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶[**TF-12025-Pro 120mm fans**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FID-COOLING-120mm-Cooler-Radiator-Chassis%2Fdp%2FB0BV8ZRJMW%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1257997566399542543-20)
@@ -129,10 +128,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -156,13 +151,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing Methodology, and how my testing differs vs the competition
 
@@ -229,8 +229,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +236,24 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/32397431-new-2024-approved-youtube-streams-optimal-webm-converters-ranked/"><u>[New] 2024 Approved YouTube Streams Optimal WebM Converters Ranked!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-tips-for-high-quality-minecraft-saves-for-2024/"><u>[Updated] Expert Tips for High-Quality Minecraft Saves for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-secure-approach-verifying-your-youtube-login-details/"><u>[Updated] In 2024, Secure Approach Verifying Your YouTube Login Details</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweetvidtowebm-easy-streaming-tools-for-2024/"><u>[Updated] TweetVidToWebM Easy Streaming Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-picks-for-high-quality-resin-3d-printers/"><u>2024'S Top Picks for High-Quality Resin 3D Printers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-detailed-look-at-the-tasty-turmoil-of-overcooked-2/"><u>A Detailed Look at the Tasty Turmoil of Overcooked! 2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-ryzen-ai-9-hx-aster-apples-m3-max-in-speed-a-deep-dive-into-single-core-benchmark-results/"><u>AMD's Ryzen AI 9 HX Aster Apple's M3 Max in Speed - A Deep Dive Into Single-Core Benchmark Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-and-high-quality-the-ultimate-guide-to-choosing-wireless-gaming-headsets-in-202/"><u>Budget-Friendly and High-Quality: The Ultimate Guide to Choosing Wireless Gaming Headsets in 202 #</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/crafting-cold-extremes-at-home-diy-liquid-nitrogen-from-everyday-fridge-components/"><u>Crafting Cold Extremes at Home: DIY Liquid Nitrogen From Everyday Fridge Components</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-non-scrolling-errors-in-excel-windows-edition/"><u>Cure Non-Scrolling Errors in Excel, Windows Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-power-of-amazon-web-services-latest-innovation-an-ai-chatbot-for-businesses-available-to-test-for-free-zdnet-insights/"><u>Discover the Power of Amazon Web Services' Latest Innovation - An AI Chatbot for Businesses, Available to Test for Free | ZDNET Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-unmatched-brightness-with-romers-rechargeable-beam-torch-comprehensive-review/"><u>Experience Unmatched Brightness with Romer's Rechargeable Beam Torch - Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-tips-for-your-pc-from-toms-hardware/"><u>In-Depth Analysis and Tips for Your PC From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterful-3d-printing-techniques-to-prevent-separation-between-layers/"><u>Masterful 3D Printing: Techniques to Prevent Separation Between Layers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/redefining-thermal-management-noctuas-revolutionary-cooler-design-for-the-grace-hopper-gpu/"><u>Redefining Thermal Management: Noctua's Revolutionary Cooler Design for the Grace Hopper GPU</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-computer-components-and-gear-reviews/"><u>Tom's Tech Insights: In-Depth Computer Components and Gear Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-wallet-options-comprehensive-reviews-by-professionals-tech-insights/"><u>Top Rated MagSafe Wallet Options : Comprehensive Reviews by Professionals - Tech Insights</u></a></li>
+</ul></div>
 

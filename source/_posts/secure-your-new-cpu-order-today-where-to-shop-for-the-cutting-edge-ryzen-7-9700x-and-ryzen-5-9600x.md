@@ -1,7 +1,7 @@
 ---
 title: "Secure Your New CPU Order Today: Where to Shop for the Cutting-Edge Ryzen 7 9700X & Ryzen 5 9600X"
-date: 2024-08-19T03:51:41.275Z
-updated: 2024-08-20T03:51:41.275Z
+date: 2025-01-13T18:38:06.354Z
+updated: 2025-01-18T16:25:08.983Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,18 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-restoring-windows-photo-viewer-in-windows-10-step-by-step-guide/"><u>[Updated] 2024 Approved Restoring Windows Photo Viewer in Windows 10 Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-tailored-broadcasting-strategies-for-various-platforms-yt-fb-twitch/"><u>2024 Approved Tailored Broadcasting Strategies for Various Platforms (YT, FB, Twitch)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-screenshopping-save-on-premium-4k-and-gamer-monitors/"><u>2024'S Top Screenshopping: Save on Premium 4K and Gamer Monitors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/audacity/"><u>音量設定ガイド - Audacityで効果的な上げ下げ方法</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-giant-on-a-budget-in-depth-review-of-the-40-monoprice-gaming-monitor-with-crystal-clear-display-and-stunning-gameplay/"><u>Affordable Giant on a Budget: In-Depth Review of the 40 Monoprice Gaming Monitor with Crystal Clear Display & Stunning Gameplay</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-magic-vs-2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic Vs 2 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862831112-huge-savings-alert-acer-nitro-curved-monitor-34-wqhd-slashed-to-2nk-available-only-at-newegg/"><u>Huge Savings Alert: Acer Nitro Curved Monitor, 34 WQHD, Slashed to $2Nk – Available Only at Newegg</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-lava-yuva-2-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Lava Yuva 2</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-infinix-smart-8-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Infinix Smart 8 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862837497-level-up-your-gaming-world-with-the-high-performance-acer-nitro-now-on-sale-at-only-81/"><u>Level Up Your Gaming World with the High-Performance Acer Nitro - Now on Sale at Only $81!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862833576-transform-your-gaming-setup-with-the-incredible-34-alienware-curved-monitor-now-just-749-on-bestbuy/"><u>Transform Your Gaming Setup with The Incredible 34 Alienware Curved Monitor – Now Just $749 on BestBuy!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->

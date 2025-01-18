@@ -1,7 +1,7 @@
 ---
 title: Transforming Sawdust Into Realistic Wooden Items Through Advanced 3D Printing Methods
-date: 2024-08-19T03:52:29.022Z
-updated: 2024-08-20T03:52:29.022Z
+date: 2025-01-17T16:46:44.706Z
+updated: 2025-01-18T19:19:34.539Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,24 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-defining-key-indicators-for-high-impact-igtv-videos/"><u>[New] 2024 Approved Defining Key Indicators for High-Impact IGTV Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevate-your-cinematography-mastering-transitions-in-kinemaster/"><u>[New] Elevate Your Cinematography Mastering Transitions in Kinemaster</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-key-aspects-of-web-based-storytelling/"><u>[Updated] 2024 Approved Key Aspects of Web-Based Storytelling</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-5-essential-gameplay-cams-for-live-streamers/"><u>[Updated] 2024 Approved Top 5 Essential Gameplay Cams for Live Streamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-throughput-your-videos-8-top-android-apps/"><u>2024 Approved Throughput Your Videos 8 Top Android Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-lucky-day-top-discounted-powerhouse-laptops-of-2024-revealed/"><u>Gamers' Lucky Day: Top Discounted Powerhouse Laptops of 2024 Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gaming-enthusiasts-holy-grail-exclusive-2024-alienware-and-dell-savings/"><u>Gaming Enthusiast's Holy Grail: Exclusive 2024 Alienware & Dell Savings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-powerhouse-asus-rog-zephyrus-g14-rtx-laptop-now-discounted-to-1099-at-best-buy/"><u>Get Your Hands on the Powerhouse: Asus ROG Zephyrus G14 RTX Laptop Now Discounted to $1099 at Best Buy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/howling-at-the-moon-the-mythic-tales-of-lunar-deities/"><u>Howling at the Moon: The Mythic Tales of Lunar Deities</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-28-youtube-music-splitters-for-easy-audio-extraction/"><u>In 2024, Top 28 YouTube Music Splitters for Easy Audio Extraction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-experience-microsofts-new-wave-surface-and-surface-pro-meets-copilotplus-tech/"><u>In-Depth Analysis: Experience Microsoft's New Wave – Surface and Surface Pro Meets Copilot+ Tech 🖥️</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insightful-reviews-on-pc-and-laptop-equipment-by-toms-team/"><u>Insightful Reviews on PC and Laptop Equipment by Tom's Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/july-28th-mark-your-calendar-get-ready-to-browse-best-buys-exclusive-listings-for-new-ryzen-ai-300-laptops/"><u>July 28Th - Mark Your Calendar! Get Ready to Browse Best Buy's Exclusive Listings for New Ryzen AI 300 Laptops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-yoga-pro-9i-in-depth-review-highlighting-the-ergonomic-keyboard-and-slim-design/"><u>Lenovo Yoga Pro 9I In-Depth Review: Highlighting the Ergonomic Keyboard & Slim Design</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-how-to-mask-after-dim-setting-on-windows/"><u>Quick Guide: How To Mask After Dim Setting on Windows</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-70-lite-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from 70 Lite 5G</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

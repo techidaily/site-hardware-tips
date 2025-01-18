@@ -1,7 +1,7 @@
 ---
 title: Unlocking Innovations in Computers and Electronics on Tom's Hardware
-date: 2024-08-19T03:54:46.945Z
-updated: 2024-08-20T03:54:46.945Z
+date: 2025-01-11T18:29:53.139Z
+updated: 2025-01-18T16:01:08.099Z
 tags:
   - cooling
 categories:
@@ -51,6 +51,10 @@ Lamptron ST060  (Image credit: Caseking)
 
  German retailer Caseking sells the Lamptron ST060 for around[$273](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1459285694511670858&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-6-zoll-display-schwarz-luls-381.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , excluding VAT (value-added tax). The ARGB model with black fans seems to retail for the[same price](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F9735574776972625510&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-argb-mit-6-zoll-display-schwarz-luls-382.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , so it really just comes down to preference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,14 +63,11 @@ Lamptron ST060  (Image credit: Caseking)
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,8 +76,19 @@ Lamptron ST060  (Image credit: Caseking)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-a-beginners-guide-to-producing-facebook-reels/"><u>[New] 2024 Approved A Beginner's Guide to Producing Facebook Reels</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/drop-in-price-alert-phrozen-high-resolution-8k-ss-resin-3d-printer-now-available-for-just-325/"><u>Drop in Price Alert: Phrozen High-Resolution 8K sS Resin 3D Printer Now Available for Just $325</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-largest-advance-in-additive-manufacturing-shrinks-to-coin-size-revolutionizing-tech-with-no-movable-parts/"><u>How the Largest Advance in Additive Manufacturing Shrinks to Coin Size, Revolutionizing Tech With No Movable Parts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-best-extensions-to-capture-firefox/"><u>In 2024, Best Extensions to Capture Firefox</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-magic-6-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor Magic 6 Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-computing-trustworthy-advice-from-tom/"><u>Navigate the World of Computing: Trustworthy Advice From Tom</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/nikon-j5-unleashed-embracing-4k-camera-technology/"><u>Nikon J5 Unleashed Embracing 4K Camera Technology</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ringtones-from-youtube-a-compilation-of-optimal-download-hubs-for-2024/"><u>Ringtones From YouTube A Compilation of Optimal Download Hubs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sailing-the-skies-easily-how-to-pair-drones-and-propellers/"><u>Sailing the Skies Easily How to Pair Drones and Propellers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-cooling-power-of-the-lian-li-galahad-ii-360-aio-unit-on-intels-14900k-processor-pros-cons-and-verdicts/"><u>Unveiling the Cooling Power of the Lian Li Galahad II 360 AIO Unit on Intel's 14900K Processor: Pros, Cons & Verdicts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/writing-superiority-how-to-outshine-ai-writing-services/"><u>Writing Superiority: How to Outshine AI Writing Services</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->

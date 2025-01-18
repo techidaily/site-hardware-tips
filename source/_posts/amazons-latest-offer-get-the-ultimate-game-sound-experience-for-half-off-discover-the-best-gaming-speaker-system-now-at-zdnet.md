@@ -1,7 +1,7 @@
 ---
 title: Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.
-date: 2025-01-11T23:06:09.845Z
-updated: 2025-01-13T02:49:29.281Z
+date: 2025-01-14T17:37:38.540Z
+updated: 2025-01-18T17:04:27.811Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,24 +128,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-leveraging-famebit-strategies-for-effective-youtube-sponsors/"><u>[New] 2024 Approved Leveraging FameBit Strategies for Effective YouTube Sponsors</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-hacking-facebook-fast-profile-discovery-methods/"><u>[New] Hacking Facebook Fast Profile Discovery Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-speech-recognition-made-accessible-transforming-audio-to-text-with-ease-in-microsoft-word/"><u>[New] Speech Recognition Made Accessible Transforming Audio to Text with Ease in Microsoft Word</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-efficient-game-recordings-in-the-era-of-win10/"><u>[Updated] In 2024, Efficient Game Recordings in the Era of Win10</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/discover-royalty-in-art-lion-family-themes-images-and-wallpapers-from-yl-softwares-creative-library/"><u>Discover Royalty in Art: Lion Family Themes, Images & Wallpapers From YL Software's Creative Library</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/establishing-phone-replacement-regimen/"><u>Establishing Phone Replacement Regimen</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/from-concept-to-capture-the-breakdown-of-apeaks-recorder-software/"><u>From Concept to Capture The Breakdown of Apeak's Recorder Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-se-2020-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone SE (2020) With or Without Password</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-toms-tech-gadgets-and-innovations/"><u>Inside the World of Tom's Tech Gadgets and Innovations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-pc-upgrades-with-insight-from-toms-technology-zone/"><u>Master Your PC Upgrades with Insight From Tom's Technology Zone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-tech-top-pickings-from-toms-circuitry-chronicles/"><u>Master Your Tech: Top Pickings From Tom's Circuitry Chronicles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-latest-in-computer-hardware-with-toms-reviews/"><u>Mastering the Latest in Computer Hardware with Tom's Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-high-tech-purchases-trustworthy-advice-from-toms-hardware-experts/"><u>Navigating High-Tech Purchases: Trustworthy Advice From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-modern-gadgets-with-guidance-from-toms-hardware/"><u>Navigating Modern Gadgets with Guidance From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware/"><u>Navigating the World of Electronics with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-tips-from-toms-hardware-experts/"><u>Navigating the World of Gadgets – Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-advice-by-tom-the-ultimate-guide-to-hardware/"><u>Pioneering PC Advice by Tom - The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-virtual-venue-verdict-navigating-between-obs-and-twitch-streaming/"><u>[Updated] 2024 Approved Virtual Venue Verdict Navigating Between OBS & Twitch Streaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-concepts-to-transform-vhs-imagery-on-computers/"><u>[Updated] Prime Concepts to Transform VHS Imagery on Computers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-step-by-step-methodology-assembling-youtube-playlists/"><u>2024 Approved Step-by-Step Methodology Assembling YouTube Playlists</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/digital-dream-team-best-screen-capture-software-online/"><u>Digital Dream Team Best Screen Capture Software Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-and-utilizing-the-secret-pathbar-feature-in-file-explorer/"><u>Discovering & Utilizing the Secret Pathbar Feature in File Explorer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726026698635-dvdvlc/"><u>DVDをVLCメディアプレーヤーで再生する方法:トラブルシューティングガイド</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-new-hardware-by-toms-technology-blog/"><u>Expert Analysis of New Hardware by Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-hardware-with-tom-in-depth-equipment-insights-and-evaluations/"><u>Exploring the World of Hardware with Tom - In-Depth Equipment Insights & Evaluations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-m14-4g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy M14 4G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-advice-expert-guides-and-reviews/"><u>Tom's Tech Advice: Expert Guides and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-hardware-guide/"><u>Tom's Tech Insights: Comprehensive Computer Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-leading-gadget-reviews-and-comparisons/"><u>Tom's Tech Insights: Leading Gadget Reviews & Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-insights-on-latest-gadgets-t17239718706179/"><u>Tom's Tech Reviews: In-Depth Insights on Latest Gadgets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/ultimate-compilation-best-6-fb-lite-extractors-for-2024/"><u>Ultimate Compilation Best 6 FB Lite Extractors for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-in-depth-analysis-by-toms-computing-guide/"><u>Unlocking Performance: In-Depth Analysis by Tom's Computing Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-potential-of-ddr5-expert-overclocking-session-by-raphael-with-leading-semiconductor-giants-amd-and-samsung/"><u>Unlocking the Potential of DDR5: Expert Overclocking Session by Raphael with Leading Semiconductor Giants, AMD and Samsung</u></a></li>
 </ul></div>
 

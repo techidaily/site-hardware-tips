@@ -1,7 +1,7 @@
 ---
 title: "EK Direct Die AiO Cooler Delivers Stellar Performance: Boost Your 13900KS with Up to 20 Degrees of Improved Cooling Efficiency!"
-date: 2024-08-19T03:56:12.144Z
-updated: 2024-08-20T03:56:12.144Z
+date: 2025-01-13T19:17:11.547Z
+updated: 2025-01-18T17:37:17.753Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
  In terms of performance, the air-cooled CPU was seen to deliver about 38,300cb with the AiO-cooled chip achieving just over 39,100cb. The CPU clocks were much more steady at 5.6 GHz using the AiO, but with the air cooler in place they often dipped to 5.4 GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +45,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/wmRXDJgtnnLnPhD5DLfZMJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Der8auer)
 
  It may be unfortunate timing for the new EK-Nucleus AIO CR360 Direct Die D-RGB all-in-one CPU cooler, as we are nearly at the end of the Socket 1700 era. Der8auer admitted he didn’t know what might need to be done to make the AiO Intel 15th Gen CPU compatible.
@@ -49,18 +57,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/DwdkCF27CRpbAtFLxxyV8J-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: EKWB)
 
  For some further context, last July we reviewed the closely related EK Nucleus AIO CR360 Lux D-RGB for fully clothed CPUs. Despite price concerns and a slight noise disadvantage against the best rival AiOs, our review crowned it the[new king of AiO cooling](https://www.tomshardware.com/reviews/ek-nucleus-aio-cr360-lux-d-rgb) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +78,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-future-of-playtime-analysis-beyond-fbx-solutions/"><u>[New] 2024 Approved The Future of Playtime Analysis Beyond FBX Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elevate-canva-creations-with-these-10-secrets-for-2024/"><u>[Updated] Elevate Canva Creations with These 10 Secrets for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frugal-filmmaking-top-camera-deals/"><u>[Updated] Frugal Filmmaking Top Camera Deals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-pc-components-with-toms-gear-guides/"><u>Exploring High-Performance PC Components with Tom's Gear Guides</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-graphics-accelerator-for-your-pc-nvidia-geforce-rtx-2e-2070-drivers/"><u>Get the Latest Graphics Accelerator for Your PC - NVIDIA GeForce RTX 2E 2070 Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/increase-your-savings-with-a-huge-80-off-the-elegoo-neptune-plus-ideal-for-big-prints/"><u>Increase Your Savings with a Huge $80 Off the Elegoo Neptune Plus – Ideal for Big Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-future-of-chillers-aseteks-new-ai-optimized-ecam-technology-forged-by-high-definition-3d-metal-printing-and-collaborative-expertise-from-fab9/"><u>Introducing the Future of Chillers: Asetek's New AI-Optimized ECAM Technology Forged by High-Definition 3D Metal Printing and Collaborative Expertise From Fabric Grok8 Labs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/e-income-analysis-for-youtube-stars-for-2024/"><u>Online Income Analysis for YouTube Stars for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-top-hardware-solutions-by-tom/"><u>The Ultimate Guide to Choosing Top Hardware Solutions by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-building-high-performance-pcs-tips-and-reviews-from-toms-hardware/"><u>Tom's Guide to Building High Performance PCs: Tips & Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-10-spotlight-on-popular-pop-chansons-for-visual-media-projects-for-2024/"><u>Updated Top 10 Spotlight on Popular Pop Chansons for Visual Media Projects for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/virtual-marketplace-innovation-for-2024/"><u>Virtual Marketplace Innovation for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

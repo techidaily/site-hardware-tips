@@ -1,7 +1,7 @@
 ---
 title: Dive Into Electronics with Tom's Hardware Hub
-date: 2024-08-19T03:52:33.426Z
-updated: 2024-08-20T03:52:33.426Z
+date: 2025-01-12T18:33:01.230Z
+updated: 2025-01-18T16:29:14.667Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
  In terms of performance, the air-cooled CPU was seen to deliver about 38,300cb with the AiO-cooled chip achieving just over 39,100cb. The CPU clocks were much more steady at 5.6 GHz using the AiO, but with the air cooler in place they often dipped to 5.4 GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +45,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/wmRXDJgtnnLnPhD5DLfZMJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Der8auer)
 
  It may be unfortunate timing for the new EK-Nucleus AIO CR360 Direct Die D-RGB all-in-one CPU cooler, as we are nearly at the end of the Socket 1700 era. Der8auer admitted he didn’t know what might need to be done to make the AiO Intel 15th Gen CPU compatible.
@@ -49,18 +57,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/DwdkCF27CRpbAtFLxxyV8J-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: EKWB)
 
  For some further context, last July we reviewed the closely related EK Nucleus AIO CR360 Lux D-RGB for fully clothed CPUs. Despite price concerns and a slight noise disadvantage against the best rival AiOs, our review crowned it the[new king of AiO cooling](https://www.tomshardware.com/reviews/ek-nucleus-aio-cr360-lux-d-rgb) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +78,22 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-making-the-most-of-your-multi-image-story-sessions-on-insta/"><u>[New] Making the Most of Your Multi-Image Story Sessions on Insta</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-brilliant-hd-broadcasts-optimizing-videos-on-fb-for-2024/"><u>[Updated] Brilliant HD Broadcasts Optimizing Videos on FB for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-guide-to-49-amazing-christmas-savings-at-newegg-insights/"><u>Discover the Ultimate Guide to 49 Amazing Christmas Savings at Newegg Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-advice-on-high-performance-gadgets-with-toms-hardware-hub/"><u>Expert Reviews and Advice on High-Performance Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-tech-analysis-and-comparison-at-toms-computer-gear-corner/"><u>Expert Tech Analysis and Comparison at Tom's Computer Gear Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-snapdragon-powered-notebooks-with-live-blog-and-copilotplus-insights/"><u>Exploring the Latest Snapdragon Powered Notebooks with Live Blog and Copilot+ Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fly-high-with-flying-lotus-the-innovative-battery-powered-aio-workstation-blending-laptop-chassis-and-3d-print-tech/"><u>Fly High with Flying Lotus: The Innovative Battery-Powered AIO Workstation Blending Laptop Chassis & 3D Print Tech</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-inside-the-world-of-toolwiz-an-in-depth-software-review/"><u>In 2024, Inside the World of Toolwiz An In-Depth Software Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovos-new-game-changer-thinkpad-t14s-unveiled-with-longest-battery-life-29-hours-high-performance-qualcomm-processor-and-speed-boosting-ssd-storage/"><u>Lenovo's New Game-Changer: ThinkPad T14S Unveiled with Longest Battery Life (29 Hours), High-Performance Qualcomm Processor, and Speed-Boosting SSD Storage</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-multi-platform-content-delivery-youtube-and-beyond/"><u>Mastering Multi-Platform Content Delivery YouTube & Beyond</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-components-with-toms-hardware-guides/"><u>Navigating Computer Components with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-with-toms-hardware-experts/"><u>Navigating the World of Computers with Tom's Hardware Experts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-poco-c51-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Poco C51 FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-digital-twins-for-your-enterprise-with-ai-key-building-blocks-revealed-expert-analysis-by-zdnet/"><u>Unlocking the Potential of Digital Twins for Your Enterprise with AI - Key Building Blocks Revealed | Expert Analysis by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

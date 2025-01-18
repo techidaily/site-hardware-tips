@@ -1,7 +1,7 @@
 ---
 title: "A Vibrant Leap Into the Future: Celebrating Creality’s Tenth Birthday with Their Revolutionary Colored 3D Printing Machine"
-date: 2024-08-19T03:51:33.240Z
-updated: 2024-08-20T03:51:33.240Z
+date: 2025-01-12T17:01:43.980Z
+updated: 2025-01-18T16:36:44.588Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  Some of her mods are fairly standard, like [KevinAkaSam’s Belt Driven Ender 3](https://www.google.com/url?q=https://kevinakasam.com/belt-driven-ender-3/&sa=D&source=editors&ust=1706372670249864&usg=AOvVaw3nEW6Jb3YCWRV5uldb65-0) , which replaced the Z rods with, you guessed it, belts. This allows the printer to run smooth, straight and precisely in sync.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,6 +47,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
 ![Monika McWuff's Floor Blower](https://cdn.mos.cms.futurecdn.net/GDgqorpMCU3Z3FUsEkxY7H-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Monika McWuff)
 
  There isn’t a lot of the original Ender 3 Pro left, just a few aluminum extrusions and part of the bed, now covered in a sheet of carbon fiber. She uses her stock Ender 3 Pro in a tented enclosure to print ABS parts for the project.
@@ -52,6 +60,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
  The hotend is especially interesting, and can [push plastic faster than silly string](https://www.google.com/url?q=https://www.youtube.com/shorts/W-j%5FVufX8Bs&sa=D&source=editors&ust=1706372670250628&usg=AOvVaw1osH1oGrtM2f44ziC2Gy4g) . It’s a Trianglelab STD6 with a ceramic heating core, two extensions and a .4 CHT Volcano nozzle. A recent test clocked the flow rate at 120mm/s³. She’s hoping to get even more out of it by switching to a CHT V6 extender and a .5 Volcano nozzle.
 
 ![Monika McWuff's Volcano Nozzle](https://cdn.mos.cms.futurecdn.net/b7sgzzmodak4xRtngW2QAL-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Monika McWuff)
 
@@ -63,14 +75,11 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  For reference, a stock [Ender 3 Pro](https://www.google.com/url?q=https://www.tomshardware.com/reviews/creality-ender-3-pro-3d-printer&sa=D&source=editors&ust=1706372670252722&usg=AOvVaw0qAFynSpm2QUCmFSp3enTG) running at it’s normal 50mm/s and using Speed Boat settings can print a Benchy in one hour and four minutes. With high-speed, Klipper firmware installed, the stock machine can comfortably run at 150mm/s and print a Benchy in 42 minutes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,8 +88,22 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-propel-your-online-presence-via-creator-studio/"><u>[New] Propel Your Online Presence via Creator Studio</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-discover-the-best-10-photo-sticker-boosters-for-iphoneandroid-users/"><u>[Updated] Discover the Best 10 Photo Sticker Boosters for iPhone/Android Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ahead-of-the-curve-5-critical-ai-innovations-for-entrepreneurs/"><u>Ahead of the Curve: 5 Critical AI Innovations for Entrepreneurs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862772233-amazing-compactness-and-outstanding-affordability-of-eyoy-em105-a-comprehensive-105-portable-monitor-analysis/"><u>Amazing Compactness and Outstanding Affordability of EYOY EM105 - A Comprehensive 10.5 Portable Monitor Analysis!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-tecno-phantom-v-flip-device-sim-by-drfone-android/"><u>Easily Unlock Your Tecno Phantom V Flip Device SIM</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fb-soundbanks-access-anytime-anywhere/"><u>FB Soundbanks Access Anytime, Anywhere</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862807674-gamers-check-out-the-stylish-and-high-performance-features-of-gigabyte-aorus-fo32u2p-our-full-review-inside/"><u>Gamers, Check Out the Stylish & High-Performance Features of Gigabyte Aorus FO32U2P! Our Full Review Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862803703-get-the-most-from-your-budget-with-eyoys-em105-a-must-read-for-fans-of-portable-105-monitors/"><u>Get the Most From Your Budget with EYOY's EM105 - A Must-Read for Fans of Portable 10.5 Monitors!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862790070-get-your-hands-on-the-best-rated-gamers-dream-dell-s3222dgm-for-a-record-low-of-just-229/"><u>Get Your Hands on the Best Rated Gamer's Dream, Dell S3222DGM for a Record Low of Just $229</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigating-picture-in-picture-mode-with-ease-in-microsoft-edge/"><u>Navigating Picture-In-Picture Mode with Ease in Microsoft Edge</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ilmmakers-pathway-to-youtube-success-with-professional-360-video-edits/"><u>The Filmmaker's Pathway to YouTube Success with Professional 360 Video Edits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862794758-unbeatable-deal-samsung-pixel-dense-viewfinity-s9-5k-monitor-now-just-899-save-44-on-this-premium-27-ips-display-with-integrated-4k-cam/"><u>Unbeatable Deal: Samsung Pixel-Dense ViewFinity S9 5K Monitor, Now Just $899 - Save 44% on This Premium 27 IPS Display with Integrated 4K Cam!</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-xs-max-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone XS Max using icloud website</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-guide/"><u>Unveiling the Latest Gadgets with Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-gear-zone/"><u>Unveiling the Latest in PC Components with Tom's Gear Zone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->

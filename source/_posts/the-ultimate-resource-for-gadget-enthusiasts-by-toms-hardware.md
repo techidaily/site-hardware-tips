@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Resource for Gadget Enthusiasts by Tom's Hardware
-date: 2024-08-19T03:54:01.862Z
-updated: 2024-08-20T03:54:01.862Z
+date: 2025-01-16T19:31:47.018Z
+updated: 2025-01-18T18:58:20.440Z
 tags:
   - cooling
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/gW386PDx4hJt2WsrArHo5J-320-80.jpg
 The AIO liquid cooler market has become much more competitive in the past year or so, resulting in stronger products available for lower prices than ever. Over the past year, top-performing AIOs have been available for as low as $120 USD. Today we’ll be covering ID-Cooling’s latest 360mm AIO, the FX360 Pro, which is available for only $60 – a price lower than many high-end air coolers.
 
  With such a budget price tag, I have to wonder if it’s actually strong enough to tame a hot CPU like Intel’s i7-13700K. Does the FX 360 Pro have what it takes to earn a spot on our[best AIO coolers](https://www.tomshardware.com/best-picks/best-aio-coolers) list? We’ll have to put it through testing to find out. But first, here are the specifications from ID-Cooling.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cooler specifications
 
@@ -48,6 +52,10 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/HBEL4vNSov3znrPrC4pAqX-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 * [ID-Cooling FX360 Pro 360mm AIO at Amazon for $59.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FID-COOLING-FX360-PRO-Cooler-360mm%2Fdp%2FB0CZMPHCPG%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1232051116226633791-20)
@@ -66,18 +74,6 @@ Included in the box are the following:
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -91,8 +87,9 @@ Included in the box are the following:
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -115,6 +112,10 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -123,9 +124,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶[**TF-12025-Pro 120mm fans**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FID-COOLING-120mm-Cooler-Radiator-Chassis%2Fdp%2FB0BV8ZRJMW%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1257997566399542543-20)
@@ -134,9 +132,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -157,9 +152,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ## LGA1700 Socket Bending
@@ -167,6 +159,10 @@ The top of the CPU black features a reflective black etched metal design.
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing Methodology, and how my testing differs vs the competition
 
@@ -227,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -245,4 +236,23 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-zero-cost-image-amplifier-desktopmobile-edition/"><u>[New] Top Zero-Cost Image Amplifier Desktop/Mobile Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-360-degree-retail-exploration-tech-for-2024/"><u>[Updated] 360-Degree Retail Exploration Tech for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-avoid-legal-pitfalls-pre-upload-video-copyright-on-tiktok-for-2024/"><u>[Updated] Avoid Legal Pitfalls Pre-Upload Video Copyright on TikTok for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-groundbreaking-films-in-the-vr-world/"><u>[Updated] In 2024, Groundbreaking Films in the VR World</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-11-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on 11 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a14-4g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy A14 4G support AVCHD video?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-your-creations-elite-resin-3d-printers-to-watch/"><u>Futureproof Your Creations: Elite Resin 3D Printers to Watch</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-hot-40-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Hot 40 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-fastest-in-town-speedy-bed-slinger-by-bambu-lab-set-to-debut-december-14th/"><u>Introducing the Fastest in Town: Speedy 'Bed Slinger' By Bambu Lab Set to Debut December 14Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-pick-portable-usb-30-ssdhard-drive-adapters/"><u>Leading Pick: Portable USB 3.0 SSD/Hard Drive Adapters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ntsc-versus-pal-analise-abrangente-dos-diferentes-formatos-de-video-e-seu-desempenho/"><u>NTSC versus PAL: Análise Abrangente Dos Diferentes Formatos De Vídeo E Seu Desempenho</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Hub - Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-score-review-on-amplifi-hd-wi-fi-extender-kit-bid-farewell-to-connectivity-dead-zones/"><u>Top Score Review on Amplifi HD Wi-Fi Extender Kit: Bid Farewell to Connectivity Dead Zones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-power-of-thermalright-phantom-spirit-120-evo-a-comprehensive-overview/"><u>Unleashing the Power of Thermalright Phantom Spirit 120 EVO: A Comprehensive Overview</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-potential-of-bluetooth-on-your-iphone-an-essential-beginners-guide/"><u>Unlock the Potential of Bluetooth on Your iPhone: An Essential Beginner's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/warframe-devs-find-overwhelming-crash-rate-on-intels-latest-i9-and-k-series-processors-in-depth-study/"><u>Warframe Devs Find Overwhelming Crash Rate on Intel's Latest I9 and K-Series Processors - In-Depth Study</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Latest in Computing with Tom's Equipment Reviews
-date: 2024-08-19T03:52:04.156Z
-updated: 2024-08-20T03:52:04.156Z
+date: 2025-01-14T16:40:42.149Z
+updated: 2025-01-18T17:13:49.341Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,22 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-making-an-informed-decision-on-itops-utility-in-2024/"><u>[New] Making an Informed Decision on ITop's Utility, In 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-dive-into-the-art-of-asmr-recording-a-comprehensive-overview/"><u>[Updated] 2024 Approved Dive Into the Art of ASMR Recording – A Comprehensive Overview</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhance-your-screenshot-experience-apple-and-androids-best-sticker-add-ons/"><u>[Updated] Enhance Your Screenshot Experience Apple & Android's Best Sticker Add-Ons</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-essential-apps-best-10-software-to-capture-your-screens/"><u>[Updated] In 2024, Essential Apps Best 10 Software to Capture Your Screens</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/breaking-down-recordcasts-marketing-claims/"><u>Breaking Down RecordCast’s Marketing Claims</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-trustworthy-advice-from-toms-hardware/"><u>Mastering Technology Choices: Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-technology-with-toms-hardware-analyses/"><u>Navigate the World of Technology with Tom's Hardware Analyses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-releases-through-toms-hardware-expertise/"><u>Navigating New Releases Through Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-tips-from-toms-hardware-experts/"><u>Navigating the World of Electronics: Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviewing-the-asus-rog-zephyrus-g16-high-performance-parts-yield-mixed-results-in-gaming/"><u>Reviewing the Asus ROG Zephyrus G16: High-Performance Parts Yield Mixed Results in Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-how-you-work-and-play-with-acemagics-game-changing-x1-dual-display-laptop/"><u>Revolutionize How You Work and Play With Acemagic's Game-Changing X1 Dual-Display Laptop</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-installation-of-updated-dell-d31n-gpu-drivers-for-optimal-performance/"><u>Step-by-Step Installation of Updated Dell D31n GPU Drivers for Optimal Performance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oppo-reno-10-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo Reno 10 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y56 5G | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->

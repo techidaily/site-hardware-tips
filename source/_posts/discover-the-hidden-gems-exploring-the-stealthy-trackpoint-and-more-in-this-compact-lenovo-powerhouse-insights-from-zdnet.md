@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights From ZDNet"
-date: 2025-01-08T00:29:49.469Z
-updated: 2025-01-12T16:49:25.217Z
+date: 2025-01-17T17:48:54.030Z
+updated: 2025-01-18T16:55:28.700Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,17 +116,19 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/op-7-best-fmovie-alternatives2023-updates-for-2024/"><u>[New] Top 7 Best Fmovie Alternatives[2023 Updates] for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-essential-apps-to-extract-and-save-your-vimeo-videos/"><u>[Updated] 2024 Approved Essential Apps to Extract and Save Your Vimeo Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-rx-memory-revamp-for-2024/"><u>[Updated] RX Memory Revamp for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/diy-instagram-alert-tunes-a-step-by-step-guide/"><u>DIY Instagram Alert Tunes A Step-by-Step Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-find-n3-flip-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Find N3 Flip Phone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-oculus-quest-2-superb-value-for-premium-vr-gaming/"><u>In-Depth Analysis of the Oculus Quest 2: Superb Value for Premium VR Gaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-gadgets-and-computer-equipment/"><u>Tom's Tech Review: The Ultimate Guide to Gadgets and Computer Equipment</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-14-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi 14 Ultra to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-waste-into-art-how-recycled-plastics-become-excellent-3d-printing-materials/"><u>Transforming Waste Into Art: How Recycled Plastics Become Excellent 3D Printing Materials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-solving-stringing-issues-in-your-3d-print-projects/"><u>Ultimate Guide: Solving Stringing Issues in Your 3D Print Projects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-the-bloom-high-performance-computing-with-aromatic-heavenly-thermal-compound/"><u>Unleash the Bloom: High-Performance Computing with Aromatic, Heavenly Thermal Compound!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-revolutionizing-home-broadcasts-with-advanced-webcams-for-2024/"><u>[Updated] Revolutionizing Home Broadcasts with Advanced WebCams for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-enabled-msi-desktops-with-front-mounted-1080p-touch-screens-for-interactive-experience/"><u>AI-Enabled MSI Desktops with Front-Mounted 1080P Touch Screens for Interactive Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-correct-dota-2-graphics-api-error-2027-fast-and-simple-fixes/"><u>Expert Tips to Correct 'Dota 2 Graphics API' Error 2027: Fast and Simple Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fast-and-economical-snag-your-elegoo-neptune-4-pro-today-for-up-to-20-quicker-and-save-75/"><u>Fast & Economical: Snag Your Elegoo Neptune 4 Pro Today for Up to 20% Quicker and Save $75</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-creating-engaging-youtube-content-a-step-by-step-approach/"><u>In 2024, Creating Engaging YouTube Content A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/selective-enhancements-for-optimal-gopro-use/"><u>Selective Enhancements for Optimal Gopro Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-eraser-guru-expert-tips-for-psx-users-for-2024/"><u>The Eraser Guru Expert Tips for PSX Users for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-g310-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-infinix-note-30-vip-racing-edition-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Infinix Note 30 VIP Racing Edition to Gmail | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-top-usb-c-laptop-chargers-with-efficient-gan-technology/"><u>Ultimate Guide to Top USB-C Laptop Chargers with Efficient GaN Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-elegoo-neptone-4-pro-laser-cutter-just-284/"><u>Unbeatable Price: Elegoo Neptone 4 Pro Laser Cutter - Just $284!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-gear-with-toms-equipment-insights/"><u>Unveiling the Latest in PC Gear with Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262290492-water-cooling-unleashes-power-the-ryzen-9-9950x-secures-5th-fastest-cpu-title-behind-xeon-and-threadripper-in-extreme-benchmarks/"><u>Water Cooling Unleashes Power: The Ryzen 9 9950X Secures 5Th Fastest CPU Title, Behind Xeon and Threadripper in Extreme Benchmarks!</u></a></li>
 </ul></div>
 

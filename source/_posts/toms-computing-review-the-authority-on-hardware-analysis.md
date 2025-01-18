@@ -1,7 +1,7 @@
 ---
 title: "Tom's Computing Review: The Authority on Hardware Analysis"
-date: 2024-08-19T03:51:27.797Z
-updated: 2024-08-20T03:51:27.797Z
+date: 2025-01-11T18:38:08.993Z
+updated: 2025-01-18T17:43:09.097Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,20 +53,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +76,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-channel-vision-selecting-ideal-content-strategies/"><u>[Updated] 2024 Approved Elevate Your Channel Vision Selecting Ideal Content Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-step-by-step-obs-skype-screen-recording/"><u>[Updated] In 2024, Step-by-Step OBS Skype Screen Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-social-media-gurus-guide-to-exceptional-facebook-broadcasts/"><u>2024 Approved The Social Media Guru's Guide to Exceptional Facebook Broadcasts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-facile-des-chansons-mp3-vers-mp4-gratuite-en-ligne-avec-loutil-de-conversion-de-movavi/"><u>Conversion Facile Des Chansons MP3 Vers MP4 Gratuite en Ligne Avec L'outil De Conversion De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ideal-family-movie-selection-on-netflix-for-young-audiences/"><u>Ideal Family Movie Selection on Netflix for Young Audiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-no-cost-slow-motion-video-capture-options-for-iphonesandroid/"><u>In 2024, Premium No-Cost Slow Motion Video Capture Options for iPhones/Android</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-visual-experience-shop-the-cutting-edge-pixel-dense-viewfinity-s9-monitor-by-samsung-for-just-899-with-a-built-in-4k-webcam-grab-your-dis46/"><u>Revolutionize Your Visual Experience - Shop the Cutting-Edge Pixel-Dense ViewFinity S9 Monitor by Samsung for Just $899 with a Built-In 4K Webcam – Grab Your Discounted Deal Now, Save 44%</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-innocns-27-240hz-ips-gaming-display-quality-and-affordability-at-199/"><u>Save Big on Innocn's 27 240Hz IPS Gaming Display - Quality and Affordability at $199!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-savings-of-100-on-the-alienware-aw3225qf-curved-gaming-monitor-featuring-4k-qd-oled-and-240hz-refresh-for-unmatched-speed/"><u>Score a Savings of $100 on the Alienware AW3225QF Curved Gaming Monitor, Featuring 4K QD-OLED and 240Hz Refresh for Unmatched Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-acers-stunning-34-inch-curved-monitor-goes-down-to-200-at-newegg/"><u>Score Big Savings: Acer's Stunning 34-Inch Curved Monitor Goes Down to $200 at Newegg!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-leading-ultrawide-gaming-screens-of-2024-unveiled/"><u>The Leading Ultrawide Gaming Screens of 2024 Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-advice/"><u>Tom's Tech Insights: In-Depth Reviews & Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whisking-together-a-perfect-dough-base/"><u>Whisking Together a Perfect Dough Base</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

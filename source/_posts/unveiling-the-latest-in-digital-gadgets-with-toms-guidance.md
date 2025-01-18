@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest in Digital Gadgets with Tom's Guidance
-date: 2024-08-19T03:55:15.067Z
-updated: 2024-08-20T03:55:15.067Z
+date: 2025-01-12T18:44:24.723Z
+updated: 2025-01-18T16:11:20.497Z
 tags:
   - best-picks
 categories:
@@ -48,15 +48,24 @@ When buying a Raspberry Pi HAT, ask yourself these questions:
 11. Adafruit Capacitive Touch HAT
 12. Raspberry Pi M.2 HAT+
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Raspberry Pi HATs
 
 ![Pimoroni Inventor HAT Mini](https://cdn.mos.cms.futurecdn.net/Pdgb5CBBk68VjxQGeN8GFE-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Pimoroni Inventor HAT Mini
 
 Best General Purpose Raspberry Pi HAT
@@ -111,14 +120,12 @@ Simple Python module
 
 ![Best Raspberry Pi HAT for Lego Projects](https://cdn.mos.cms.futurecdn.net/ucxn9TryRzNrNxf7QLbmj-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Build HAT
 
 Best Raspberry Pi HAT for Lego Projects
@@ -225,6 +232,10 @@ Add 14 GPIO pins
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/m7hyCqNXZXwVbdfCjGR8wb-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Pimoroni)
 
 ### 4\. Pimoroni Picade X HAT
@@ -273,9 +284,6 @@ Blocks CPU and raises temperature
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/jiysLLyHNsrXxo3nMJDR8c-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  (Image credit: Raspberry Pi Trading)
 
 ### 5\. Raspberry Pi Sense HAT
@@ -360,9 +368,6 @@ Breakout I2C boards can be expensive
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/k2TyrkgDpqcA5UXZ9HNXdc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Raspberry Pi Trading)
 
 ### 7\. Raspberry Pi PoE HAT
@@ -411,9 +416,6 @@ Only works on Pi 3B+ and later
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/5uTCjguWVL9TMTkdQ47Hxd-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Gareth Halfacree)
 
 ### 8\. Google AIY Voice Kit (with HAT)
@@ -457,8 +459,9 @@ Initial purchase is expensive
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/RA4pe4KswtZXjFnmvx2fsc-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Les Pounder)
 
 ### 9\. Cyntech Pibrella
@@ -505,14 +508,12 @@ Designed for older Raspberry Pi
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/SaHprzZd3GTCwshUTz5Eyc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Adafruit)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 10\. Adafruit Perma-Proto HAT
 
 Best for Creating Your Own Raspberry Pi HATs
@@ -553,12 +554,12 @@ Expensive for multiple boards
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/sXxxJqFKieeChEYF2U6z4d-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Adafruit)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### 11\. Adafruit Capacitive Touch HAT
 
  Best Raspberry Pi HAT for Inspiring Creativity
@@ -602,6 +603,10 @@ Lots of wires for all 12 connections
  When a conductive object is touched, the Adafruit Capacitive Touch HAT detects a change in voltage and this triggers an action in your Python code. The classic project for this Raspberry Pi HAT is the Banana Piano which sees each banana representing a key. Touch the banana and the note for that key is played. The Python code is a little tricky to get right, but the fun with this board is limitless.
 
 ![Raspberry Pi M.2 HAT+](https://cdn.mos.cms.futurecdn.net/QfCX4wvRYdUrwwogMp43cA-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -649,10 +654,6 @@ Plastic screws GPIO access is awkward
 
 **Read:** [Raspberry Pi M.2 HAT+ Review](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Finding Discounts on the Best Raspberry Pi HATs
 
  Whether you're shopping for one of the best Raspberry Pi HATs or one that didn't quite make our list, you may find savings by checking out the latest[SparkFun promo codes](https://www.tomshardware.com/coupons/sparkfun.com) ,[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) ,[Amazon promo codes](https://www.tomshardware.com/coupons/amazon.com) or[Micro Center coupons](https://www.tomshardware.com/coupons/category/ssds-motherboards-and-hardware) .
@@ -705,16 +706,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -723,4 +719,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/nderstanding-the-core-of-asmr-media/"><u>[New] Understanding the Core of ASMR Media</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-spherical-shot-setup-systems/"><u>[Updated] Spherical Shot Setup Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tailored-approach-boosting-fans-via-page-ranking-for-2024/"><u>[Updated] Tailored Approach Boosting Fans via Page Ranking for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-gadgets-with-toms-hardware-insights/"><u>Delving Into Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-computer-secrets-on-toms-gear-hub/"><u>Discover Computer Secrets on Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-noctuas-home-series-offerings-be-amazed-by-the-spectacular-and-economical-100-nv-fs1-desk-breezer/"><u>Discover Noctua's Home Series Offerings – Be Amazed by the Spectacular and Economical $100 NV-FS1 Desk Breezer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-gear-with-toms-hardware-exploration/"><u>Discover Top Gear with Tom's Hardware Exploration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-vlogs-with-youtube-music-syncing-techniques/"><u>Enhancing Vlogs with YouTube Music Syncing Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-fashion-items-for-sj4000-owners/"><u>Essential Fashion Items for SJ4000 Owners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/extensive-overview-the-comprehensive-guide-to-bublcams-panoramic-vision/"><u>Extensive Overview The Comprehensive Guide to Bublcam's Panoramic Vision</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/m1-mastery-seamless-editing-with-video-tools-for-2024/"><u>M1 Mastery Seamless Editing with Video Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-cura-fuzzy-skin-functionality-a-step-by-step-guide-for-enhancing-your-3d-prints-with-texture/"><u>Mastering the Cura Fuzzy Skin Functionality: A Step-by-Step Guide for Enhancing Your 3D Prints with Texture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-electronics-with-tom-expert-hardware-analysis/"><u>Navigating Electronics with Tom - Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-tech-trends-toms-hardware-haven/"><u>Navigating the Latest Tech Trends - Tom's Hardware Haven</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-addressing-code-bug-5573-in-call-of-duty-vanguard/"><u>Resolved: Addressing Code Bug #5573 in Call of Duty Vanguard</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/setting-up-google-as-your-default-browser-home-page-a-fast-and-simple-guide/"><u>Setting Up Google as Your Default Browser Home Page: A Fast & Simple Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-next-level-gaming-potential-on-phillips-epic-49-curved-oled-screen/"><u>Unleash Next-Level Gaming Potential on Phillips' Epic 49 Curved OLED Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-innovation-at-toms-hardware-a-journey-through-tech-advances/"><u>Unveiling Innovation at Tom's Hardware - A Journey Through Tech Advances</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Pioneering Hardware Reviews with Tom's Technology Digest
-date: 2024-08-19T03:57:21.166Z
-updated: 2024-08-20T03:57:21.166Z
+date: 2025-01-13T18:44:25.046Z
+updated: 2025-01-18T19:09:38.878Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,9 +54,22 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-demystifying-vimeo-top-choice-for-filmmakers-for-2024/"><u>[New] Demystifying Vimeo Top Choice for Filmmakers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-grand-theft-auto-gta-5-crashing/"><u>[SOLVED] Grand Theft Auto (GTA) 5 Crashing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-virtual-laughter-the-metaverse-meme-journey/"><u>[Updated] Crafting Virtual Laughter The Metaverse Meme Journey</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-cutting-edge-directory-ultimate-free-vectr-and-illustration-websites/"><u>[Updated] Cutting-Edge Directory Ultimate Free Vectr and Illustration Websites</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-film-like-a-pro-with-macbook-webcam-tutorial-for-2024/"><u>[Updated] Film Like a Pro with MacBook Webcam Tutorial for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-future-proofing-your-mp4s-srt-integration-hacks/"><u>[Updated] In 2024, Future-Proofing Your MP4s SRT Integration Hacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-comparative-review-of-superior-password-managers-discover-your-perfect-blend-of-fee-free-and-paid-solutions/"><u>A Comparative Review of Superior Password Managers – Discover Your Perfect Blend of Fee-Free and Paid Solutions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-your-youtube-with-partner-videos-for-2024/"><u>Boosting Your YouTube with Partner Videos for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-techniques-switching-from-fbx-to-obj-files-for-enhanced-results-in-3d-printing/"><u>Innovative Techniques: Switching From FBX to OBJ Files for Enhanced Results in 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-crypto-mining-energy-costs-best-power-supplies-tailored-for-ethereum-bitcoin-success/"><u>Mastering Crypto Mining Energy Costs: Best Power Supplies Tailored for Ethereum, Bitcoin Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-trends-on-toms-gadget-review-platform/"><u>Navigating Tech Trends on Tom's Gadget Review Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-reviews-and-guides-for-the-modern-gadgeteer-toms-hardware-uncovered/"><u>Pioneering Reviews & Guides for the Modern Gadgeteer: Tom's Hardware Uncovered</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211374281-9781528799898-the-magus/"><u>The Magus | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-gear-at-toms-tech-hub/"><u>Unveiling the Latest in Computer Gear at Tom's Tech Hub</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Tech Chronicles by Tom: Unraveling Secrets of Modern Computer Systems"
-date: 2024-08-19T03:54:56.397Z
-updated: 2024-08-20T03:54:56.397Z
+date: 2025-01-11T19:26:23.749Z
+updated: 2025-01-18T19:19:13.789Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,17 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-pitch-preservation-recording-sounds-and-voices/"><u>[New] Pitch Preservation Recording Sounds & Voices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stream-titling-service/"><u>[New] Stream Titling Service</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-snapshot-savvy-embellishing-photos-with-the-cartoon-lens/"><u>2024 Approved Snapshot Savvy Embellishing Photos with the Cartoon Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooler-master-sets-record-straight-on-cryofuze-5-no-artificial-intelligence-just-advanced-thermal-tech/"><u>Cooler Master Sets Record Straight on CryoFuze 5 - No Artificial Intelligence, Just Advanced Thermal Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-in-sound-quality-leading-bluetooth-gaming-headsets-for-gamers-on-a-budget-202/"><u>Discover the Finest in Sound Quality: Leading Bluetooth Gaming Headsets for Gamers on a Budget (202#)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-ultimate-budget-gamer-laptop-for-up-to-950/"><u>Find the Ultimate Budget Gamer Laptop for Up to $950</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-ultimate-guide-to-kinemasters-android-gameplay/"><u>In 2024, The Ultimate Guide to KineMaster's Android Gameplay</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-response-from-your-external-mouse-heres-what-you-can-do/"><u>No Response From Your External Mouse? Here's What You Can Do</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-renderer-initialization-error-fix-of-2021/"><u>Solutions for 'Renderer Initialization Error [Fix of 2021]'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-aluminum-intercooler-units-of-2024-the-ultimate-selection/"><u>Top-Rated Aluminum Intercooler Units of 2024: The Ultimate Selection</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

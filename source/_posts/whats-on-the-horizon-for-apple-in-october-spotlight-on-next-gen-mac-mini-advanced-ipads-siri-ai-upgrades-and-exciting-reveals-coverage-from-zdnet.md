@@ -1,7 +1,7 @@
 ---
 title: What's on the Horizon for Apple in October? Spotlight on Next-Gen Mac Mini, Advanced iPads, Siri AI Upgrades & Exciting Reveals | Coverage From ZDNET
-date: 2025-01-07T19:01:00.511Z
-updated: 2025-01-12T18:58:18.103Z
+date: 2025-01-15T19:43:45.423Z
+updated: 2025-01-18T18:34:07.183Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-budget-friendly-gopro-purchases-guide/"><u>[New] In 2024, Budget-Friendly GoPro Purchases Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-transition-tactics-for-a-hassle-free-macos-11-big-sur-upgrade/"><u>[New] In 2024, Transition Tactics for a Hassle-Free macOS 11 Big Sur Upgrade</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-inside-the-pros-playbook-top-5-gaming-techniques-for-2024/"><u>[Updated] Inside the Pro's Playbook Top 5 Gaming Techniques for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-social-savvy-how-to-save-gifs-for-iphoneandroid-use/"><u>2024 Approved Social Savvy How to Save GIFs for iPhone/Android Use</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/comprehensive-list-of-top-9-video-meeting-software-on-devices/"><u>Comprehensive List of Top 9 Video Meeting Software on Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-getting-wolcen-lords-of-mayhem-running-after-failed-startup/"><u>Expert Tips for Getting 'Wolcen: Lords of Mayhem' Running After Failed Startup</u></a></li>
-<li><a href="https://discover-data.techidaily.com/exploring-reasons-behind-sporadic-computer-haltings-with-expertise-of-yl-systems/"><u>Exploring Reasons Behind Sporadic Computer Haltings with Expertise of YL Systems</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-dissecting-the-divide-full-sphere-vs-immersive-films/"><u>In 2024, Dissecting the Divide Full Sphere Vs. Immersive Films</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-reference-green-screen-basics-for-2024/"><u>Rapid Reference Green Screen Basics for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-the-valkyrie-vind-sl125-aesthetics-vs-efficiency-in-motorcycle-engineering/"><u>Review of the Valkyrie Vind SL125: Aesthetics Vs. Efficiency in Motorcycle Engineering</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-thermal-management-noctua-introduces-game-changing-chiller-for-grace-hopper-gpu-architecture/"><u>Revolutionizing Thermal Management: Noctua Introduces Game-Changing Chiller for Grace Hopper GPU Architecture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-chill-grab-the-arctic-aiold2018a-v2-air-cooler-now-at-unbeatable-74-price/"><u>Save Big on Chill: Grab the Arctic AIOLD2018A v2 Air Cooler Now at Unbeatable $74 Price</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-the-curve-cutting-edge-reviews-by-toms-hardware/"><u>Stay Ahead of the Curve: Cutting-Edge Reviews by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sustainable-manufacturing-turn-your-old-plastics-into-top-tier-3d-printing-materials/"><u>Sustainable Manufacturing: Turn Your Old Plastics Into Top-Tier 3D Printing Materials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-a-z-of-modern-hardware-features-by-toms-technology-spotlight/"><u>The A-Z of Modern Hardware Features by Tom's Technology Spotlight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-top-pick-of-gaming-keyboards-featuring-full-half-and-mini-sizes/"><u>The Ultimate Guide to the Top Pick of Gaming Keyboards : Featuring Full, Half & Mini Sizes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/time-lapse-magic-a-samsung-photo-guide/"><u>Time-Lapse Magic A Samsung Photo Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-and-comprehensive-analysis/"><u>Tom's Computer Insights and Comprehensive Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-exploring-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech: Exploring the Latest in Computer Components and Gadgets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-entrepreneur-writes-top-youtube-sites-for-business-success-for-2024/"><u>[Updated] Entrepreneur' Writes Top YouTube Sites for Business Success for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-xs-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone XS Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-z-flip-5-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy Z Flip 5 Phone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-accelerate-your-storytelling-with-customized-speed-settings/"><u>In 2024, Accelerate Your Storytelling with Customized Speed Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-performance-select-the-best-from-toms-tech-gear/"><u>Maximize Performance: Select the Best From Tom's Tech Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-digital-innovation-through-tome-hardware-experts/"><u>Navigating Digital Innovation Through Tom'e Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-trends-insider-tips-from-toms-hardware-experts/"><u>Navigating New Tech Trends: Insider Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issues-overcoming-previous-death-stranding-pc-game-crashes/"><u>Resolved Issues: Overcoming Previous Death Stranding PC Game Crashes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-odyssey-gaming-monitor-4k-55-inches-new-generation-unprecedentedly-affordable/"><u>Samsung Odyssey Gaming Monitor (4K, 55 Inches) - New Generation, Unprecedentedly Affordable</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-problems-when-upgrading-to-windows-1903-a-step-by-step-guide/"><u>Solving Problems When Upgrading to Windows 1903: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/title-master-your-gameplay-on-asus-rog-strix-xg27acs-the-180hz-gaming-marvel-unveiled/"><u>Title: Master Your Gameplay on Asus ROG Strix XG27ACS - The 180Hz Gaming Marvel Unveiled!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-comprehensive-analysis-of-latest-tech-devices-and-performance-benchmarks/"><u>Tom's Comprehensive Analysis of Latest Tech Devices & Performance Benchmarks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-features-of-the-popular-tp-link-archer-c9-router-on-a-budget/"><u>Unpacking the Features of the Popular TP-Link Archer C9 Router on a Budget</u></a></li>
 </ul></div>
 

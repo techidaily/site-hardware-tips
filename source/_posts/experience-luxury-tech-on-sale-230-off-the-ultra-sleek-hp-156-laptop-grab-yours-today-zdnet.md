@@ -1,7 +1,7 @@
 ---
 title: "Experience Luxury Tech on Sale: $230 Off the Ultra-Sleek HP 15.6” Laptop - Grab Yours Today @ ZDNET!"
-date: 2025-01-05T21:54:49.258Z
-updated: 2025-01-12T18:45:17.862Z
+date: 2025-01-12T19:35:50.439Z
+updated: 2025-01-18T18:41:26.671Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,22 +138,22 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-expert-guide-to-optimal-tripod-setup-for-high-quality-vlogs-for-2024/"><u>[New] Expert Guide to Optimal Tripod Setup for High-Quality Vlogs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gimbal-excellence-markets-top-choices/"><u>[Updated] Gimbal Excellence Market's Top Choices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/breeze-into-savings-the-deepcool-as500-plus-keeps-pcs-chilly-for-just-45-or-less-at-amazon/"><u>Breeze Into Savings: The DeepCool AS500 Plus Keeps PCs Chilly for Just $45 or Less at Amazon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cooler-and-quieter-upgrade-your-graphics-card-to-the-optimized-two-fan-system-by-cooler-master/"><u>Cooler and Quieter: Upgrade Your Graphics Card to the Optimized Two-Fan System by Cooler Master</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/creativity-meets-strength-with-crealitys-new-flagship-k1c-3d-printer-learn-about-its-impressive-specs/"><u>Creativity Meets Strength with Creality's New Flagship K1C 3D Printer - Learn About Its Impressive Specs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-in-depth-computer-hardware-analysis-on-toms-digital-workshop/"><u>Discover In-Depth Computer Hardware Analysis on Tom's Digital Workshop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-tech-reviews-at-toms-hardware-hub/"><u>Discover Top Tech Reviews at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-xtool-s1-top-tier-diode-laser-cutter-for-diy-enthusiasts/"><u>Expert Analysis of the XTool S1: Top-Tier Diode Laser Cutter for DIY Enthusiasts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-13-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-note-30-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Note 30 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-tips-record-powerpoint-live-with-webcam/"><u>In 2024, Essential Tips Record PowerPoint Live with Webcam</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-note-12r-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi Note 12R Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-customer-satisfaction-with-insights-from-square-a-guide-for-businesses-zdnet/"><u>Mastering the Art of Customer Satisfaction with Insights From Square - A Guide for Businesses | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175684964-skyrocket-your-cpus-potential-with-our-high-tech-ai-generated-and-tested-liquid-nitrogen-canister-outperforms-standard-pots-by-300/"><u>Skyrocket Your CPU's Potential with Our High-Tech, AI-Generated & Tested Liquid Nitrogen Canister – Outperforms Standard Pots by 300%!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2562573-9781782797784-the-art-of-ritual/"><u>The Art of Ritual | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125254753-the-ultimate-guide-to-the-top-laptop-picks-for-college-students-perfect-for-work-creativity-entertainment-etc/"><u>The Ultimate Guide to the Top Laptop Picks for College Students: Perfect for Work, Creativity, Entertainment, Etc</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-videos-to-vibrant-gifs-youtube-conversion-techniques-for-2024/"><u>[New] From Videos to Vibrant GIFs YouTube Conversion Techniques for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-simplified-guide-for-iphones-voice-capture-feature/"><u>[New] Simplified Guide for iPhone's Voice Capture Feature</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-streamlined-multitasking-in-safari-with-pip/"><u>[Updated] 2024 Approved Streamlined Multitasking in Safari with PIP</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-photographic-standouts-with-our-top-10-grid-picks/"><u>2024 Approved Photographic Standouts with Our Top 10 Grid Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-tips-and-reviews-by-tom-leading-hardware-authority/"><u>Advanced Tech Tips & Reviews by Tom - Leading Hardware Authority</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-potential-of-3d-imaging-with-3dmakerpros-mole-a-detailed-assessment-for-tech-enthusiasts/"><u>Explore the Potential of 3D Imaging with 3DMakerPro's Mole - A Detailed Assessment for Tech Enthusiasts.</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/geben-sie-den-schutz-bei-der-backup-losung-in-windows-server-2012-aus/"><u>Geben Sie Den Schutz Bei Der Backup-Lösung in Windows Server 2012 Aus)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimize-your-gaming-with-kinemaster-usage-tips-and-comparisons-with-best-online-games/"><u>In 2024, Optimize Your Gaming with KineMaster Usage Tips & Comparisons with Best Online Games</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-your-new-asus-speakersound-drivers-now/"><u>Install Your New ASUS Speaker/Sound Drivers Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-gaming-gpus-in-2er-2024-maximizing-power-under-budget-constraints/"><u>Leading Gaming GPUs in 2Er 2024: Maximizing Power Under Budget Constraints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-precision-with-the-xtool-s1-in-depth-look-at-a-superior-laser-cutter-for-hobbyists/"><u>Mastering Precision with the XTool S1: In-Depth Look at a Superior Laser Cutter for Hobbyists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-technology-with-toms-hardware-wisdom/"><u>Navigate the World of Technology with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-chill-noctua-unveils-massive-cooler-for-nvidias-advanced-grace-hopper-processor/"><u>Next-Gen Chill: Noctua Unveils Massive Cooler for Nvidia's Advanced Grace Hopper Processor</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oming-dark-pixels-in-online-video-platform-for-2024/"><u>Overcoming Dark Pixels in Online Video Platform for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/premium-choice-of-powered-compact-and-usb-type-c-hubs-for-optimal-connectivity/"><u>Premium Choice of Powered, Compact & USB Type-C Hubs for Optimal Connectivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175690926-scorching-summer-no-more-invest-in-high-value-air-cooling-for-less-the-thermalight-spirit-phantom-120-se-at-a-sensational-35/"><u>Scorching Summer No More: Invest in High-Value Air Cooling for Less! The Thermalight Spirit Phantom 120 SE at a Sensational $35</u></a></li>
+<li><a href="https://win-able.techidaily.com/star-wars-taming-the-turbulence-of-fighter-collisions-solved-techniques-revealed/"><u>Star Wars: Taming the Turbulence of Fighter Collisions - Solved Techniques Revealed</u></a></li>
 </ul></div>
 

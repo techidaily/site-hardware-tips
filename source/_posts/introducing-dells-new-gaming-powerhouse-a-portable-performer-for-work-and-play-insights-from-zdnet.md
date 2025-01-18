@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2025-01-10T02:51:15.251Z
-updated: 2025-01-12T20:15:55.485Z
+date: 2025-01-11T18:40:43.783Z
+updated: 2025-01-18T17:46:46.965Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,20 +114,20 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-video-storage-hours-to-gb-estimation/"><u>[New] 2024 Approved Video Storage Hours to GB Estimation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-virtual-adventure-awaits-with-these-top-12-pc-clickers-for-2024/"><u>[Updated] Virtual Adventure Awaits with These Top 12 PC Clickers for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-dissecting-video-production-mastery-with-xmedia-studio-suite/"><u>2024 Approved Dissecting Video Production Mastery with XMedia Studio Suite</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-metaphorical-realities-30plus-inspirational-vr-expressions/"><u>2024 Approved Metaphorical Realities 30+ Inspirational VR Expressions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-recorded-speech-retrieval-and-evaluation/"><u>2024 Approved Recorded Speech Retrieval & Evaluation</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-a-vibrant-youtube-experience-with-tracks-for-2024/"><u>Craft a Vibrant Youtube Experience with Tracks for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-value-cpu-picks-for-2abies-as-tested-and-evaluated-by-toms-hardware/"><u>Discover the Best Value CPU Picks for 2Abies, as Tested and Evaluated by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-tech-with-toms-hardware-reviews/"><u>Discover the Latest in Tech with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-gaming-chair-models-of-2-for-optimal-play-comfort/"><u>Discover the Leading Gaming Chair Models of 2# for Optimal Play Comfort</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-secrets-behind-the-popular-creality-ender-3-v3-ke-a-detailed-seo-guide-for-savvy-shoppers/"><u>Discovering the Secrets Behind the Popular Creality Ender 3 V3 Ke - A Detailed SEO Guide for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-top-tier-performance-save-75-with-the-editors-choice-elegoo-neptune-4-pro/"><u>Don't Miss Out on Top-Tier Performance - Save $75 with the Editor's Choice, Elegoo Neptune 4 Pro!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ekwb-owns-up-company-apologizes-for-late-remittances-vows-improved-practices/"><u>EKWB Owns Up: Company Apologizes for Late Remittances, Vows Improved Practices</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/essential-tips-for-securely-saving-your-iphones-information-prior-to-a-fresh-start/"><u>Essential Tips for Securely Saving Your iPhone's Information Prior to a Fresh Start</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-time-for-podcast-debuts/"><u>In 2024, Prime Time for Podcast Debuts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-energy-efficiency-activating-battery-saving-features-on-your-apple-watch-a-guide/"><u>Unlocking Energy Efficiency: Activating Battery Saving Features on Your Apple Watch - A Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[New] Altering Visuals in Teams Calls Timely Setup Adjustments for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-divide-and-conquer-easy-chapter-addition-for-vimeo-videos-for-2024/"><u>[Updated] Divide and Conquer Easy Chapter Addition for Vimeo Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-detailed-step-by-step-guide-to-using-telegram-desktop/"><u>2024 Approved A Detailed Step-By-Step Guide To Using Telegram Desktop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-insights/"><u>Exploring High-Performance Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/former-samsung-staff-detained-after-accusations-of-stealing-18b-from-chip-giants-memories-for-chinese-competitor/"><u>Former Samsung Staff Detained After Accusations of Stealing $1.8B From Chip Giant's Memories for Chinese Competitor</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ideal-virtual-sets-crafting-excellent-google-meet-backdrops-for-2024/"><u>Ideal Virtual Sets Crafting Excellent Google Meet Backdrops for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-calculating-the-sequence-length-of-a-20mb-file/"><u>In 2024, Calculating the Sequence Length of a 20MB File</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hexus-in-depth-analysis-of-computing-systems-and-electronics/"><u>Inside Tom's Hexus: In-Depth Analysis of Computing Systems & Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insights-on-pc-gear-from-toms-hardware-experts/"><u>Insights on PC Gear From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-expertise-t17239719448041/"><u>Navigating the World of Electronics with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964482600-nextorages-trailblazing-pcie-gen-4-m2-nvme-ssd-for-gaming-unmatched-speeds-of-up-to-7400-mbs/"><u>Nextorage's Trailblazing PCIe Gen 4 M.2 NVMe SSD for Gaming - Unmatched Speeds of Up to 7,400 MB/S!</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-15-pro-max-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 15 Pro Max Suddenly | Stellar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-revival-of-openstack-and-kata-containers-in-modern-cloud-computing-trends/"><u>The Revival of OpenStack & Kata Containers in Modern Cloud Computing Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-the-ultimate-guide-to-hardware-and-computing-solutions/"><u>Tom's Tech: The Ultimate Guide to Hardware and Computing Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco C51 | Dr.fone</u></a></li>
 </ul></div>
 

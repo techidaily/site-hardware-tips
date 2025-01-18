@@ -1,7 +1,7 @@
 ---
 title: "Join Felicia Day's Newest Adventure in the Thangs 3D Community: Unique, Downloadable Model Collection Available Now!"
-date: 2024-08-19T03:52:06.294Z
-updated: 2024-08-20T03:52:06.294Z
+date: 2025-01-15T16:02:29.202Z
+updated: 2025-01-18T19:04:37.697Z
 tags:
   - printer
 categories:
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 
  3D printing has quickly changed over the years since it was first introduced. Today, we are getting[metal 3D printers in the International Space Station](https://www.tomshardware.com/3d-printing/the-international-space-station-is-getting-the-first-metal-3d-printer-made-for-space-designed-by-airbus-and-the-esa) that can print tools and parts needed for moon and Mars missions, as well as[cheap $77 AliExpress 3D printers](https://www.tomshardware.com/3d-printing/dollar77-3d-printer-from-aliexpress-is-actually-usable-reviewer-says) that let you start making your own builds at a fraction of the cost. We’ve even seen affordable new 3D printers that are[large enough to print a small child](https://www.tomshardware.com/3d-printing/elegoo-making-3d-printer-large-enough-to-print-a-toddler) . If this project makes it to retail, then, soon enough, we’ll have a 3D printer you can fit in your pocket.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,14 +49,11 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,8 +62,26 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-exploring-alternatives-to-game-bar-for-video-recording/"><u>[New] Exploring Alternatives to Game Bar for Video Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-maximizing-listener-impact-on-day-of-launch/"><u>[New] Maximizing Listener Impact on Day of Launch</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-scrutinized-screen-recording-tools-top-8-picks/"><u>[Updated] 2024 Approved Scrutinized Screen Recording Tools Top 8 Picks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-srt-transition-the-ultimate-subcap-guide/"><u>[Updated] 2024 Approved SRT Transition The Ultimate SUBCAP Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-down-first-benchmark-scores-the-debate-over-snapdragon-x-elite-and-iphone-12-speed-battle/"><u>Breaking Down First Benchmark Scores: The Debate Over Snapdragon X Elite and iPhone 12 Speed Battle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-asus-zenbook-s16-analysis-with-amd-ryzen-ai-9-hx/"><u>Comprehensive Asus Zenbook S16 Analysis with AMD Ryzen AI 9 HX</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-insights-from-toms-hardware-expertise/"><u>Comprehensive Insights From Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-test-of-lenovos-yoga-pro-ninei-focus-on-responsive-keys-and-durable-frame/"><u>Comprehensive Test of Lenovo's Yoga Pro ˈnineI - Focus on Responsive Keys and Durable Frame</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-tech-a-closer-look-at-toms-selection/"><u>Discover the Latest in Tech: A Closer Look at Tom's Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-affordable-options-for-an-msi-bravo-laptop-featuring-rtx-4060-gpu/"><u>Discover the Top Affordable Options for an MSI Bravo Laptop Featuring RTX 4060 GPU</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-high-performance-m3-macbook-air-laptop-16gb-ram-and-13-display-for-only-1149/"><u>Don't Miss Out: High-Performance M3 MacBook Air Laptop - 16GB RAM & 13 Display for Only $1,149!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-mf8200c-printer-drivers-fully-updated-for-windows-users/"><u>Download Canon MF8200C Printer Drivers - Fully Updated for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-performance-and-standout-qualities-in-the-gigabyte-g6x-laptop-review/"><u>Evaluating Performance and Standout Qualities in the Gigabyte G6X Laptop Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-in-computer-hardware-with-toms-guides/"><u>Exploring the Best in Computer Hardware with Tom's Guides</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/free-to-fiscal-determining-view-counts-for-youtube-earnings-for-2024/"><u>From Free to Fiscal Determining View Counts for YouTube Earnings for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ss-youtube-opportunities-via-strategic-creator-studio-application/"><u>Harness YouTube Opportunities via Strategic Creator Studio Application</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-find-x6-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixes-for-entry-point-errors-not-found-in-windows-systems/"><u>Troubleshooting & Fixes for Entry Point Errors Not Found in Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-c300-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia C300 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

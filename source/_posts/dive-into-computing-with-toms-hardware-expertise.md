@@ -1,7 +1,7 @@
 ---
 title: Dive Into Computing with Tom's Hardware Expertise
-date: 2024-08-19T03:51:51.235Z
-updated: 2024-08-20T03:51:51.235Z
+date: 2025-01-13T17:13:13.670Z
+updated: 2025-01-18T19:38:49.045Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,26 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-compreranal-guide-to-best-free-budget-friendly-lut-sources/"><u>[New] 2024 Approved Compreranal Guide to Best Free, Budget-Friendly LUT Sources</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-essential-audio-interface-guide-for-podcasters/"><u>[New] 2024 Approved Essential Audio Interface Guide for Podcasters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-aviation-longevity-top-10-endurance-drones-for-2024/"><u>[New] Aviation Longevity Top 10 Endurance Drones for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221159683-wma-movavi/"><u>快適なWMAファイルの自動変換サービス – Movavi | 無料オプションあり</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-8-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Asus ROG Phone 8 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://facebook.techidaily.com/ignite-engagement-make-your-fb-circle-the-talk-of-town/"><u>Ignite Engagement: Make Your FB Circle the Talk of Town</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-huawei-nova-y91-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Huawei Nova Y91 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magix-acid-pro-review-a-look-at-similar-programs/"><u>Magix ACID Pro Review A Look at Similar Programs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-world-of-tech-in-depth-reviews-from-toms-hardware/"><u>Master the World of Tech: In-Depth Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-components-with-toms-hardware-insights/"><u>Mastering Computer Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-tom-tips-tricks-and-hardware-evaluations/"><u>Mastering Gadgets with Tom: Tips, Tricks & Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-expert-guides/"><u>Mastering Gadgets with Tom's Expert Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-future-of-monitoring-tech-modos-paper-unveils-a-revolutionary-open-source-high-resolution-120amod-e-ink-screen-with-minimal-delay/"><u>Meet the Future of Monitoring Tech - Modos Paper Unveils a Revolutionary Open-Source, High-Resolution (120amoD) E-Ink Screen With Minimal Delay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-insights-and-deals-at-toms-digital-marketplace/"><u>Navigating the World of Electronics: Insights & Deals at Tom's Digital Marketplace</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-4k-gaming-monitors-featuring-curved-displays-with-144hz/"><u>Navigating the World of High-Performance 4K Gaming Monitors - Featuring Curved Displays with 144Hz</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-introduces-enhanced-odyssey-and-view-the-new-era-of-ai-powered-smart-displays/"><u>Samsung Introduces Enhanced Odyssey & View: The New Era of AI-Powered Smart Displays</u></a></li>
+<li><a href="https://win-forum.techidaily.com/seamlessly-streaming-content-with-screen-sharing-features-on-discord-pc-and-smartphone-guide/"><u>Seamlessly Streaming Content with Screen Sharing Features on Discord - PC & Smartphone Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-the-ultimate-bargain-the-high-refresh-rate-gaming-masterpiece-from-gigabyte-gs3n32q-for-an-unbeatable-price-199/"><u>Secure the Ultimate Bargain - The High Refresh Rate Gaming Masterpiece From Gigabyte (GS3n32Q) for an Unbeatable Price: $199</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-guide-for-overcoming-error-1068-in-windows-expert-advice-included/"><u>The Ultimate Fix Guide for Overcoming Error 1068 in Windows – Expert Advice Included</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->

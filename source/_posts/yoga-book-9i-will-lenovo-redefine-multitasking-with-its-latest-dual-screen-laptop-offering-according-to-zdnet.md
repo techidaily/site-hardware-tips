@@ -1,7 +1,7 @@
 ---
 title: "Yoga Book ^9I: Will Lenovo Redefine Multitasking with Its Latest Dual-Screen Laptop Offering, According to ZDNet?"
-date: 2025-01-11T21:42:10.474Z
-updated: 2025-01-12T20:03:09.988Z
+date: 2025-01-11T19:03:54.265Z
+updated: 2025-01-18T17:06:26.507Z
 tags:
   - laptops
 categories:
@@ -26,11 +26,11 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to take screenshots on any laptop
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to take screenshots on any laptop
 
 ## Requirements
 
@@ -43,7 +43,7 @@ While the process for taking a screenshot on every laptop varies somewhat, the b
 ### **Option 1: The old fashioned way**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
@@ -97,25 +97,25 @@ These are the three keys you'll need to press at once on a mac to take a standar
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
@@ -157,19 +157,15 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors/"><u>[New] In 2024, The Best in Class Evaluating the Top 8 Sub to SRT Convertors</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-speedy-movie-making-hacks-tips-to-learn-and-apply-at-home/"><u>[New] Speedy Movie Making Hacks Tips to Learn and Apply at Home</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-becoming-a-director-top-film-tips-and-tricks-on-youtube/"><u>[Updated] 2024 Approved Becoming a Director Top Film Tips & Tricks on YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-captureit-all-the-complete-screen-recorder-hack/"><u>[Updated] In 2024, CaptureIt All The Complete Screen Recorder Hack</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-top-pick-processors-specially-engineered-for-powerhouse-computing-stations/"><u>2024'S Top Pick: Processors Specially Engineered for Powerhouse Computing Stations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/computex-showcase-highlights-adatas-breakthrough-hybrid-cooling-system-future-unveiling-of-powerful-psus-and-fast-pcie-ssds/"><u>Computex Showcase Highlights Adata's Breakthrough Hybrid Cooling System - Future Unveiling of Powerful PSUs and Fast PCIe SSDs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deepcools-latest-innovations-next-gen-coolers-psus-and-more-now-featuring-customizable-pixel-silicone-design-accents/"><u>DeepCool's Latest Innovations: Next-Gen Coolers, PSUs & More - Now Featuring Customizable Pixel Silicone Design Accents</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delaware-welcomes-prusas-production-of-3d-printing-equipment-and-materials/"><u>Delaware Welcomes Prusa’s Production of 3D Printing Equipment and Materials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-top-rated-all-in-one-heat-sinks-and-liquid-coolers-for-enhanced-gaming-rigs-2024-edition/"><u>Discover the Top-Rated All-in-One Heat Sinks and Liquid Coolers for Enhanced Gaming Rigs, 2024 Edition</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-moto-g24-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Moto G24 Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-defy-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Defy 2 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-from-mere-color-to-spectacle-hdr-vs-sdr-in-editing/"><u>In 2024, From Mere Color to Spectacle HDR vs SDR in Editing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-profiles-in-metaverse-promotion-case-studies-and-more/"><u>In 2024, Profiles in Metaverse Promotion Case Studies and More</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175727739-why-the-id-cooling-fx360-pro-is-your-best-bet-for-adequate-cooling-under-60/"><u>Why the ID-Cooling FX360 Pro Is Your Best Bet for Adequate Cooling Under $60!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-experts-guide-to-instagrams-licensed-music-posting-policies/"><u>[New] 2024 Approved The Expert’s Guide to Instagram's Licensed Music Posting Policies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/24m-expansive-residence-in-texas-outfitted-with-a-state-of-the-art-5786-sq-ft-tech-hub-and-unique-liquid-immersion-thermal-regulation-bedrooms-not-included.5/"><u>$2.4M Expansive Residence in Texas Outfitted With a State-of-the-Art 5,786 Sq Ft Tech Hub & Unique Liquid Immersion Thermal Regulation - Bedrooms Not Included</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dvd-reader-disappearance-issue-solved-in-win11/"><u>DVD Reader Disappearance Issue Solved in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/dxvk-boosting-performance-why-it-matters-on-windows/"><u>DXVK: Boosting Performance - Why It Matters on Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computer-systems-with-toms-hardware-specialists/"><u>Exploring Advanced Computer Systems with Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-advantages-of-the-arctic-freezer-36-a-milestone-in-economical-air-cooling-technology/"><u>Exploring the Advantages of the Arctic Freezer 36: A Milestone in Economical Air Cooling Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secrets-to-seamless-layers-and-structural-integrity-in-additive-manufacturing/"><u>Secrets to Seamless Layers & Structural Integrity in Additive Manufacturing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/sifting-through-cloud-costs-for-maximum-savings/"><u>Sifting Through Cloud Costs for Maximum Savings</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-note-detects-any-devices-via-bluetooth/"><u>Troubleshooting: Windows Note Detects Any Devices via Bluetooth</u></a></li>
 </ul></div>
 

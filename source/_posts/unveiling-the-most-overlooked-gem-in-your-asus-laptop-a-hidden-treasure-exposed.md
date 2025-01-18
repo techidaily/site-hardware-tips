@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Most Overlooked Gem in Your Asus Laptop: A Hidden Treasure Exposed"
-date: 2025-01-06T21:13:17.921Z
-updated: 2025-01-12T21:30:03.158Z
+date: 2025-01-11T16:37:41.405Z
+updated: 2025-01-18T18:17:19.849Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,22 +106,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-a-symphony-of-shades-applying-complementary-colors-for-2024/"><u>[Updated] A Symphony of Shades Applying Complementary Colors for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-techs-compilation-browsers-with-the-best-snapshot-capabilities/"><u>2024 Approved Top Tech's Compilation Browsers with the Best Snapshot Capabilities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amds-value-oriented-b550-platform-the-premier-selection-of-cost-effective-pcie-40-motherboard-options/"><u>AMD's Value-Oriented B550 Platform: The Premier Selection of Cost-Effective PCIe 4.0 Motherboard Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-vs-performance-the-ultimate-review-of-id-coolings-frozn-a410-and-a610-coolers/"><u>Budget-Friendly vs Performance: The Ultimate Review of ID-Cooling's FROZN A410 & A^610 Coolers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cooler-master-introduces-a-compact-dual-fan-graphics-card-alternative/"><u>Cooler Master Introduces a Compact Dual-Fan Graphics Card Alternative</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/creality-announces-the-mighty-beast-among-3d-printers-get-inside-knowledge-on-k1cs-release-date-pricing-and-full-specifications/"><u>Creality Announces: The Mighty Beast Among 3D Printers - Get Inside Knowledge on K1C’s Release Date, Pricing & Full Specifications</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delving-into-hardware-with-toms-technology-hub/"><u>Delving Into Hardware with Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-technology-solutions-at-toms-system-analysis/"><u>Discover Cutting-Edge Technology Solutions at Tom's System Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-labor-day-deal-grab-your-nintendo-switch-oled-for-just-60-at-walmart-insider-tips-from-zdnet/"><u>Exclusive Labor Day Deal: Grab Your Nintendo Switch OLED for Just $60 at Walmart - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-upgrading-and-building-computers-by-toms-hardware-experts/"><u>Expert Advice on Upgrading and Building Computers by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-levelplay-combat-air-ca4-cpu-coolers-silent-powerful-cooling-efficiency/"><u>Expert Analysis of Levelplay Combat Air CA4 CPU Cooler's Silent, Powerful Cooling Efficiency</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-apeak-recording-examined-quality-and-features-decoded/"><u>In 2024, Apeak Recording Examined Quality and Features Decoded</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-iphone-x-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your iPhone X and iPad?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/snapchat-selfie-aspect-ratios/"><u>Snapchat Selfie Aspect Ratios</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-guide-to-starting-a-successful-youtube-gaming-channel-for-2024/"><u>The Guide to Starting a Successful YouTube Gaming Channel for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-inside-scoop-on-twitters-latest-functionality-updates-and-linus-tech-tips-controversy/"><u>The Inside Scoop on Twitter's Latest Functionality Updates & Linus Tech Tips Controversy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-sony-vegas-keeps-crashing/"><u>[FIXED] Sony Vegas Keeps Crashing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-hone-your-skills-how-to-seamlessly-post-videos-to-instagram-via-desktop/"><u>[New] 2024 Approved Hone Your Skills How to Seamlessly Post Videos to Instagram via Desktop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-chromebook-screenshots-made-easy-top-5-app-choices-for-2024/"><u>[New] Chromebook Screenshots Made Easy Top 5 App Choices for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-monetizing-your-channel-youtube-income-explained/"><u>[Updated] In 2024, Monetizing Your Channel YouTube Income Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998809964-battle-ready-fix-your-titanfall-2-crashing-problems-in-minutes/"><u>Battle Ready: Fix Your Titanfall 2 Crashing Problems in Minutes!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/exclusive-insiders-pick-best-open-world-games/"><u>Exclusive Insider's Pick Best Open World Games</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-extends-support-with-additional-two-years-of-warranty-on-latest-generation-processors-to-combat-instability-issues/"><u>Intel Extends Support with Additional Two Years of Warranty on Latest Generation Processors to Combat Instability Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-latest-tech-trends-through-toms-hardware-insight/"><u>Mastering the Latest Tech Trends Through Tom's Hardware Insight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-facebooks-hidden-gem-a-guide-to-finding-and-using-marketplace/"><u>Navigating Facebook's Hidden Gem: A Guide to Finding and Using Marketplace</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-100-disk-overload-on-your-windows-10-pc-a-step-by-step-guide/"><u>Resolving 100% Disk Overload on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/strategies-for-breaking-down-3d-designs-into-printable-units/"><u>Strategies for Breaking Down 3D Designs Into Printable Units</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-computer-hardware-analysis/"><u>Tom's Tech Review: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-discover-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews - Discover the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-gadget-analyses/"><u>Tom's Tech Reviews: Comprehensive Gadget Analyses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-performance-comprehensive-evaluation-of-qidi-techs-q1-pro/"><u>Unleash Your Performance: Comprehensive Evaluation of QIDI Tech's Q1 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-innovative-hardware-solutions-the-toms-guide/"><u>Unveiling Innovative Hardware Solutions - The Tom's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-expert-analysis-by-toms-hardware/"><u>Unveiling the Latest in Technology - Expert Analysis by Tom's Hardware</u></a></li>
 </ul></div>
 

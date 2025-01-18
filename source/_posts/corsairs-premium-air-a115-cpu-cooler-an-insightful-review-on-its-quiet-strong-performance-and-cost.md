@@ -1,7 +1,7 @@
 ---
 title: Corsair's Premium Air A115 CPU Cooler - An Insightful Review on Its Quiet, Strong Performance and Cost
-date: 2024-08-19T03:54:38.020Z
-updated: 2024-08-20T03:54:38.020Z
+date: 2025-01-14T16:36:09.217Z
+updated: 2025-01-18T16:36:36.876Z
 tags:
   - cooling
 categories:
@@ -41,6 +41,10 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
 
  And the good news is at some point, you won't have to buy Corsair's fans in order to add these new screws to your PC-building arsenal. A Corsair rep told me that the company will be selling these screws as a standalone product at some point, likely later this year. Are these screws likely to make a major dent in the difficulty level of PC builds? Not really. But they do seem to be a minor improvement, and it's good to see companies thinking of small ways of streamlining one of our favorite hobbies. Now if only Corsair could manage to make all of its its cable-decluttering[iCue Link system](https://www.tomshardware.com/news/corsair-icue-link-tested) more affordable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,14 +53,11 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,8 +66,23 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-through-instagrams-new-trends/"><u>[New] Navigating Through Instagram's New Trends</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-engaging-video-summaries-for-books/"><u>[Updated] In 2024, Engaging Video Summaries for Books</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-optimizing-audacity-a-guide-to-premium-sound-capture-for-2024/"><u>[Updated] Optimizing Audacity A Guide to Premium Sound Capture for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece-for-2024/"><u>[Updated] The Secret Sauce for a Viral TikTok Unboxer Masterpiece for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-evaluations-by-team-toms-hardware/"><u>Advanced Tech Evaluations by Team Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/caseking-reacts-to-new-test-findings-on-aio-radiators-including-lead-content-barrow-dabel-sales-temporarily-discontinuted/"><u>CaseKing Reacts to New Test Findings on AIO Radiators, Including Lead Content; Barrow Dabel Sales Temporarily Discontinuted</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-humble-clips-to-groundbreaking-innovations-paperclip-optimization-via-ai/"><u>From Humble Clips to Groundbreaking Innovations: Paperclip Optimization via AI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-thermalright-phantom-spirit-120-evo-more-than-a-battle-its-an-onslaught/"><u>In-Depth Review of the Thermalright Phantom Spirit 120 EVO: More than a Battle, It's an Onslaught</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-computer-world-comprehensive-hardware-reviews/"><u>Inside Tom's Computer World: Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://video-capture.techidaily.com/live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs-for-2024/"><u>Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-your-videos-with-these-5-editing-pro-apps/"><u>Master Your Videos with These 5 Editing Pro Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210816442-9781644116548-sacred-geometry-in-ancient-goddess-cultures/"><u>Sacred Geometry in Ancient Goddess Cultures | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-war-heats-up-as-cooler-master-accuses-rivals-of-patent-infringement-on-revolutionary-pump-in-radiator-design/"><u>Tech War Heats Up as Cooler Master Accuses Rivals of Patent Infringement on Revolutionary Pump-In-Radiator Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-components-insights-from-toms-hardware/"><u>The Ultimate Guide to Computer Components - Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-review-comprehensive-gadget-guidance/"><u>Tom's Computer Review: Comprehensive Gadget Guidance</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/understanding-hardware-failures-insights-and-solutions-exploring-by-yl-technologies/"><u>Understanding Hardware Failures: Insights and Solutions - Exploring by YL Technologies</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

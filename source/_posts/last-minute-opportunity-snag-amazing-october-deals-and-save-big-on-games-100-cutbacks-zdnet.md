@@ -1,7 +1,7 @@
 ---
 title: Last-Minute Opportunity! Snag Amazing October Deals & Save Big on Games - $1,00# Cutbacks | ZDNET
-date: 2025-01-05T18:04:11.820Z
-updated: 2025-01-12T19:08:43.415Z
+date: 2025-01-12T16:11:09.634Z
+updated: 2025-01-18T17:20:53.515Z
 tags:
   - laptops
 categories:
@@ -101,10 +101,6 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 gaming deals still available
 
 ZDNET
@@ -122,6 +118,10 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -135,10 +135,6 @@ ZDNET
 * [Final Fantasy VII Rebirth for $50 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFinal-Fantasy-VII-Rebirth-PlayStation-5%2Fdp%2FB0CGXZQ4CD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): The anticipated FFVII remaster includes an Amazon exclusive PS5 controller skin.
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals still available
 
@@ -191,7 +187,7 @@ Lenovo
 * [Alienware m18 for $1,750 (save $800 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m18-fhd-480hz-gaming-laptop-amd-ryzen-9-32gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6543535.p%3FskuId%3D6543535&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's high-end gaming laptop has an 18-inch display with an impressive 480Hz refresh rate. It's built with an AMD Ryzen 9 7000 series CPU, 32GB of RAM, a 1TB SSD, and Nvidia RTX 4070.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals still available
@@ -203,6 +199,10 @@ Samsung/ZDNET
 * [Samsung Odyssey G6 27-inch for $300 (save $400)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Odyssey-Gaming-Curved-Monitor%2Fdp%2FB0BJH22XW6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): An excellent gaming monitor with 1440p resolution, a 240Hz refresh rate, and support for AMD FreeSync Premium Pro VRR.
 * [LG UltraGear OLED 39-inch curved monitor for $803 (save $697)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-39GS95QE-UltraGear-DisplayHDR-DisplayPort%2Fdp%2FB0CV1VL18C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): This ultra-wide monitor has a 240Hz refresh rate, 0.03ms response time, and OLED panel for more accurate colors, detailing, and contrast.
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals still available
 
@@ -220,7 +220,7 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
@@ -228,7 +228,7 @@ Samsung/ZDNET
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
@@ -304,18 +304,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-from-template-to-tutorial-gamers-channel-design/"><u>[New] 2024 Approved From Template to Tutorial Gamers' Channel Design</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-top-unrestricted-data-saver-solutions/"><u>[New] 2024 Approved Top Unrestricted Data Saver Solutions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-crafting-attention-grabbing-facebook-giveaways/"><u>[New] Crafting Attention-Grabbing Facebook Giveaways</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/escaping-the-treadmill-of-startup-failures-in-valorant-with-proven-tricks/"><u>Escaping the Treadmill of Startup Failures in Valorant with Proven Tricks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/hands-on-test-of-the-agile-and-capable-amazon-echo-show-10-the-third-gen-smart-display/"><u>Hands-On Test of the Agile and Capable Amazon Echo Show 10 - The Third Gen Smart Display</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-mastering-access-facebooks-classic-stories/"><u>In 2024, Mastering Access Facebook's Classic Stories</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-tech-choices-with-tom-your-guide-to-hardware-picks/"><u>Navigating Tech Choices with Tom - Your Guide to Hardware Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computer-hardware-with-toms-experts/"><u>Navigating the Latest in Computer Hardware with Tom’s Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-high-tech-equipment-with-toms-hardware-wisdom/"><u>Navigating Through High-Tech Equipment with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-level-pc-building-essentials-from-deepcool-exceptional-coolers-power-solutions-and-fans-now-feature-stylish-pixel-silicone-decor-for-a-personalized-tou3/"><u>Next-Level PC Building Essentials From DeepCool - Exceptional Coolers, Power Solutions & Fans Now Feature Stylish Pixel Silicone Decor for a Personalized Touch</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/optimal-yt-video-cover-images-for-2024/"><u>Optimal YT Video Cover Images for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-essential-guide-to-tech-specs-insights-from-toms-hardware/"><u>The Essential Guide to Tech Specs - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-and-fixing-csr8510-a10-drivers-on-windows-expert-advice-to-solve-common-problems/"><u>Troubleshooting and Fixing CSR8510 A10 Drivers on Windows: Expert Advice to Solve Common Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817906327-solved-nvidia-code-43-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>[Solved] NVIDIA Code 43: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-dynamic-dialogue-dance-decks/"><u>[Updated] 2024 Approved Dynamic Dialogue Dance Decks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-laughlineart-memogallery/"><u>2024 Approved LaughLineArt MemoGallery</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-brother-mfc-7860dw-all-in-one-printer-drivers-for-windows-computers-today/"><u>Download Updated Brother MFC-7860DW All-in-One Printer Drivers for Windows Computers Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-toms-hardware-ama-event-featuring-amd-insights-join-us-this-april-6th/"><u>Exclusive 'Tom's Hardware' AMA Event Featuring AMD Insights – Join Us This April 6Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-components-with-toms-hardware-hub/"><u>Exploring Advanced Components with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-hardware-with-tom-a-deep-dive-into-technology-and-gadget-reviews/"><u>Exploring the World of Hardware with Tom: A Deep Dive Into Technology and Gadget Reviews</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-can-you-fix-a-dysfunctional-scanner-expert-tips-from-yl-computings-tech-blog/"><u>How Can You Fix a Dysfunctional Scanner? Expert Tips From YL Computing's Tech Blog</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-installation-hurdles-how-to-enjoy-tiny-tinas-wonderlands-flawlessly-on-pc/"><u>Overcoming Installation Hurdles - How to Enjoy Tiny Tina's Wonderlands Flawlessly on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-a-steelseries-atx-mid-tower-with-massive-savings-undercutting-the-market/"><u>Snag a SteelSeries ATX Mid Tower with Massive Savings Undercutting the Market!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-in-depth-reviews-and-buying-guides/"><u>Tom's Computer Components: In-Depth Reviews & Buying Guides</u></a></li>
 </ul></div>
 

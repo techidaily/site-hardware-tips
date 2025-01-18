@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest in Computers & Peripherals with Tom's Analysis
-date: 2024-08-19T03:51:57.688Z
-updated: 2024-08-20T03:51:57.688Z
+date: 2025-01-14T16:23:08.601Z
+updated: 2025-01-18T19:07:40.733Z
 tags:
   - cooling
 categories:
@@ -61,6 +61,10 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
 ![ID-Cooling Zero M05 and M15](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![ID-Cooling Zero M05 and M15](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -82,22 +86,24 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/TwWvM6KpdXBicZ8WECMdin-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  3\. Next, place the heatsink on top of the SSD and secure it using the included screws.
 
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/zM8urppv6XUk7ePM9j7CR8-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  4\. The last step is to place the unit into an m.2 slot and secure it using a screw or a latch if you have a fancier motherboard.
 
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/LzHTKkM6pRkxWeBtmobzAo-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -113,9 +119,6 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/M5p4GAuseXo8axuCSkSR5-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶ **M15: Tall and thick heatsink for maximum cooling**
@@ -128,17 +131,14 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/ZFAzSXoiJYomVHeA9JfKb6-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As this is a taller heatsink, there will be some compatibility restrictions. You won’t be able to install this next to a CPU with some air coolers like[DeepCool’s Assassin IV](https://www.tomshardware.com/reviews/deepcool-assassin-iv) \- the heatpipes of the unit interfere with it. Other air coolers like[ID-Cooling’s A720](https://www.tomshardware.com/pc-components/cooling/id-cooling-frozn-a720-and-a620-review) , and virtually all liquid coolers, shouldn’t have compatibility issues and you can install taller heatsinks like the M15 next to them.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Testing Methodology
 
  With SSD heatsinks, a lot of you are probably asking if it really matters. And if you’re a typical user who merely loads a few applications and games from time to time – you probably don’t need an advanced heatsink. I’ve run a variety of tests, and for common tasks like loading a game or application, you generally don’t need more than a basic heatsink – at least not with current SSDs and workloads.
@@ -152,9 +152,9 @@ The ultimate burning program for all your needs!</a>
  This test will cause throttling when paired with lower-end heatsinks. For those heatsinks, we’ll be looking at the IOPS of the drive during testing. The more advanced heatsinks and coolers will be capable of keeping the SSD under its peak temperature – for these units, we’ll compare the actual temperatures of the TeamGroup Z540 SSD.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How hot is too hot? Does cooling even matter for a SSD?
 
  When I was determining how to test these units, I consulted with many storage industry experts before I started testing. They emphasized that modern PCIe 5.0 drives need at least some sort of cooling to avoid throttling and that even basic workloads can be impacted by minor throttling without a heatsink.
@@ -197,13 +197,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,4 +214,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-10-free-web-conferencing-software-for-online-meeting/"><u>[New] 2024 Approved 10 Free Web Conferencing Software for Online Meeting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-guide-perfecting-your-youtube-audio-to-text-conversion/"><u>[New] In 2024, Free Guide Perfecting Your YouTube Audio-to-Text Conversion</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-chase-laughter-and-tears-on-instagram-with-these-10-feeds/"><u>[Updated] 2024 Approved Chase Laughter & Tears on Instagram with These 10 Feeds</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-elevating-your-standards-a-path-to-superior-interview-skills/"><u>[Updated] Elevating Your Standards A Path to Superior Interview Skills</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-starting-with-av1-an-essential-overview-for-2024/"><u>[Updated] Starting with AV1 An Essential Overview for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-easy-guide-to-using-abc-iview-downloader-save-your-favorite-videos/"><u>1. Easy Guide to Using ABC iView Downloader: Save Your Favorite Videos</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/complete-step-by-step-guide-transferring-iphone-pictures-to-your-pc-running-windows-10-or-11/"><u>Complete Step-by-Step Guide: Transferring iPhone Pictures to Your PC Running Windows 10 or 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/page-located-discover-the-missing-link-with-wonderfox/"><u>Page Located! - Discover the Missing Link with WonderFox</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-steep-discount-asus-rog-zephyrus-g16-laptop-top-tier-cpu-and-rtx-graphics-for-250-less/"><u>Snag the Steep Discount: Asus ROG Zephyrus G16 Laptop, Top-Tier CPU and RTX Graphics for $250 Less</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sneak-peek-at-the-upcoming-samsung-galaxy-book4-edge-snapdragon-laptop-arriving-sooner-than-expected-just-in-time-for-microsofts-announcement/"><u>Sneak Peek at the Upcoming Samsung Galaxy Book4 Edge Snapdragon Laptop - Arriving Sooner Than Expected, Just in Time for Microsoft's Announcement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sneak-peek-into-samsungs-upcoming-laptop-lineup-the-galaxy-book-4-edge-powered-by-qualcomms-latest-chip-pre-microsoft-event-tease/"><u>Sneak Peek Into Samsung's Upcoming Laptop Lineup: The Galaxy Book 4 Edge Powered by Qualcomm's Latest Chip - Pre-Microsoft Event Tease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-productive-for-days-with-the-latest-addition-to-lenovo-laptops-the-powerful-thinkpad-t14s-featuring-snapdragon-x-elite-cpu-and-massive-32gb-ram/"><u>Stay Productive for Days with the Latest Addition to Lenovo Laptops - The Powerful ThinkPad T14s Featuring Snapdragon X Elite CPU & Massive 32GB RAM</u></a></li>
+</ul></div>
 

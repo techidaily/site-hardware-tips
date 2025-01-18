@@ -1,7 +1,7 @@
 ---
 title: "Gear Up for Classes: Explore Samsung’s Exclusive Discounts on Tech Gadgets for Students - Latest Offers From ZDNet"
-date: 2025-01-07T23:09:20.105Z
-updated: 2025-01-12T21:18:38.886Z
+date: 2025-01-15T16:51:26.621Z
+updated: 2025-01-18T16:26:43.922Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
@@ -129,6 +129,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -162,7 +166,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple accessory deals
@@ -180,24 +184,16 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
@@ -238,6 +234,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -283,24 +283,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-10-steps-to-perfect-youtube-reactions-a-trio-guide/"><u>[Updated] 2024 Approved 10 Steps to Perfect YouTube Reactions – A Trio Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-analyzing-the-income-generated-by-every-youtube-viewer/"><u>2024 Approved Analyzing the Income Generated by Every YouTube Viewer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-unistellar-odyssey-pro-redefining-astronomy-for-tech-savvy-enthusiasts/"><u>Comprehensive Analysis of the Unistellar Odyssey Pro – Redefining Astronomy for Tech-Savvy Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cutting-edge-evaluation-scythes-quiet-revolution-in-air-conditioning-with-the-mugen-6-lineup-including-black-edition/"><u>Cutting-Edge Evaluation: Scythe's Quiet Revolution in Air Conditioning with the Mugen 6 Lineup, Including Black Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ekwb-admits-mistakes-publicly-apologizes-for-late-employee-and-supplier-payouts-promises-change/"><u>EKWB Admits Mistakes – Publicly Apologizes for Late Employee & Supplier Payouts, Promises Change</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-stabilization-gimbals-ranked-1-10-for-phones-and-dslrs/"><u>Elite Stabilization Gimbals Ranked #1-#10 for Phones & DSLRs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-the-arctic-liquid-freezer-iii-with-aio-an-honest-review-of-its-disappointments/"><u>Evaluating the Arctic Liquid Freezer III with AIO - An Honest Review of Its Disappointments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Explore Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-tom/"><u>Exploring Computer Components with Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-comprehensive-guides-and-reviews/"><u>Exploring Hardware with Tom: Comprehensive Guides and Reviews</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/from-unsteady-to-steady-tips-for-fixing-gopro-video-jitters-for-2024/"><u>From Unsteady to Steady Tips for Fixing GoPro Video Jitters for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/groundbreaking-3d-print-method-delivers-operational-prosthetic-hand-in-one-step-advancing-personal-fabrication-for-missing-limbs-at-home/"><u>Groundbreaking 3D Print Method Delivers Operational Prosthetic Hand in One Step, Advancing Personal Fabrication for Missing Limbs at Home</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/id-coolings-fx310-pro-review-superior-cooling-for-a-budget-of-60-or-less/"><u>ID-Cooling's FX310 Pro Review: Superior Cooling for a Budget of 60$ or Less</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-12-mini-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 12 mini iCloud Bypass</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-tips-for-your-tech-needs-at-toms-hardware-zone/"><u>In-Depth Analysis & Tips for Your Tech Needs at Tom's Hardware Zone</u></a></li>
-<li><a href="https://win-able.techidaily.com/lego-star-wars-the-skywalker-saga-resolved-pc-issues-for-a-smooth-experience/"><u>Lego Star Wars: The Skywalker Saga - Resolved PC Issues for a Smooth Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-rectifying-lack-of-sound-in-pc-version-of-borderlands-3-gameplay/"><u>Solved! Rectifying Lack of Sound in PC Version of Borderlands 3 Gameplay</u></a></li>
-<li><a href="https://win-dash.techidaily.com/top-5-power-packed-commands-every-windows-pro-should-know-unleashing-the-inner-hacker/"><u>Top 5 Power-Packed Commands Every Windows Pro Should Know: Unleashing the Inner Hacker</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-samsung-galaxy-m34-5g-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-streaming-showdown-the-ultimate-guide-for-xsplit-and-obs-fans-for-2024/"><u>[New] Streaming Showdown The Ultimate Guide for XSplit and OBS Fans for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-graphic-wizardry-from-novice-to-industry-success-story/"><u>[Updated] 2024 Approved Graphic Wizardry From Novice to Industry Success Story</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-smartscreen-capture-v11-professional/"><u>[Updated] 2024 Approved SmartScreen Capture V11 Professional</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-onboarding-for-webinar-logging-in-microsoft-operating-systems/"><u>[Updated] Easy Onboarding for Webinar Logging in Microsoft Operating Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-superior-fb-videograbber-bundle-high-quality-downloads/"><u>[Updated] Superior FB Videograbber Bundle - High-Quality Downloads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expand-your-tech-arsenal-with-the-versatile-raspberry-pi-rp2350-arm-powered-risc-chip-the-ultimate-guide-for-multi-device-applications/"><u>Expand Your Tech Arsenal with the Versatile Raspberry Pi RP2350 ARM-Powered RISC Chip: The Ultimate Guide for Multi-Device Applications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-aromatic-audio-smart-clock-using-raspberry-pi-and-sensory-tech/"><u>Innovative Aromatic Audio Smart Clock Using Raspberry Pi & Sensory Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/on-the-go-electronic-projects-with-crowview-notebook-assessment-toolkit/"><u>On-the-Go Electronic Projects with CrowView Notebook Assessment Toolkit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pironman-5-sunfounders-stylish-raspberry-pi-case-featuring-rgb-lighting-and-built-in-ssd-compatibility/"><u>Pironman 5: Sunfounder's Stylish Raspberry Pi Case Featuring RGB Lighting & Built-In SSD Compatibility</u></a></li>
 </ul></div>
 

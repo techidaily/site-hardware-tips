@@ -1,7 +1,7 @@
 ---
 title: "Undersea Creations: The Innovative 3D Printer Running in a Water Tank"
-date: 2024-08-19T03:54:00.931Z
-updated: 2024-08-20T03:54:00.931Z
+date: 2025-01-11T18:11:02.694Z
+updated: 2025-01-18T18:40:47.355Z
 tags:
   - printer
 categories:
@@ -22,6 +22,10 @@ The K1C feels like a placeholder from a company that wants to constantly impress
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
 * [Creality K1C at Tomtop WW for $22.99](https://ficca2021.com/g/xljorca896cf955d81ea4bf89f6ddb/?f%5Fid=14723&ulp=https%3A%2F%2Fwww.tomtop.com%2Fp-os8059.html&subid=tomshardware-us-2311640371616033100)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications: Creality K1C
 
@@ -78,6 +82,10 @@ Today's best Creality K1C deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creality K1C: Included in the Box
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/UfKoS2qJ5iSaQ3DCfMERfN-320-80.jpg)
@@ -89,15 +97,13 @@ Today's best Creality K1C deals
  You also get a PDF copy of the manual, a copy of Creality Slicer and sample models in both pre-sliced .gcode and .stl format. There’s also a very helpful video to help you operate your machine.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Design of the Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/3RERTHWCCPEjM94Q3TNNZM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Creality K1C is a modern looking, fully-enclosed Core XY printer. It’s nearly identical to the previous K1 with most of the improvements taking place inside the machine.
@@ -112,11 +118,19 @@ Today's best Creality K1C deals
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/KmWQv4nqh4Z92NpqWrzUiM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The best spool holder might be the K1C’s matching filament drier, the[Creality Space Pi](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FOfficial-Creality-Filament-Printer-Dehydrator%2Fdp%2FB0CT59XN7F%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1D1S485JUS6CV%26dib%3DeyJ2IjoiMSJ9.6Igey3jkqAaYBP83K8VBFnBaHQySjsVgW%5FtGi77EklQ2OYMwbmNh9yePuyaPrc4qNKELf9xMWZwgAS8-UgRAIdtkBlMjf47NMKEKtHFUEZzV8NoHPTuki49w9y4WW8EzZ1O36FRL8pr9qSJIzJtzRF7OGW%5FbBwij2nN-0iiCsTYBiZPSJXgumWrykKXTKQRZ8uDtQ2jUTAhs3ve1r4UspUNven-lp3nGzFpwPCu4IGQ.mCRC670fi6uoK9HSCRqvjQMro7OLM-yQUMZ0-AGKUwQ%26dib%5Ftag%3Dse%26keywords%3Dcreality%2Bspace%2Bpi%26qid%3D1712693385%26sprefix%3Dcreality%2Bspace%2Bpi%252Caps%252C144%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1357917695777409794-20) , which is an optional purchase costing $85\. We were sent one for review along with the printer and found it worked well. The drier is helpful when printing hygroscopic material like Nylon, but can be left off when printing more stable material like PLA.
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/nMFPiAhSg8VftPtqkoi3MN-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -130,9 +144,6 @@ Today's best Creality K1C deals
 
  The K1C also comes with a preinstalled camera for monitoring your prints and taking timelapse videos.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Assembling the Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/5Zyw6jfoHByZYMVpR3xE3P-320-80.jpg)
@@ -145,9 +156,17 @@ Today's best Creality K1C deals
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/PZnS2qBbd56RiRcNEKUAMM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Creality K1C has a fully auto leveling program that includes input shaping with the help of built-in sensors. Just push the button and the machine does the rest. It will also recheck the level before each print, but you can turn that feature off during slicing if you’re comfortable skipping the step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Loading Filament on the Creality K1C
 
@@ -159,16 +178,10 @@ Today's best Creality K1C deals
 
 Reverse the process to remove the filament.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preparing Files / Software for Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/on77JmCCRPe63uRiGKoTCP-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Creality included a copy of Creality Print, a custom program that integrates file retrieval from the Creality Cloud, with slicer and file delivery. Using the Cloud is completely optional, as you can drag and drop stl files from your hard drive into the slicer and transfer files with LAN or a USB stick.
@@ -177,9 +190,6 @@ Reverse the process to remove the filament.
 
  The device tab can also be accessed by entering your printer’s IP address. This also allows you to drag and drop files from other slicers directly to your printer. There are no built-in profiles for Cura or PrusaSlicer at this time, though they are easy enough to make using an Ender 3 as the base.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Printing on the Creality K1C
 
  The Creality K1C comes with a sample roll of[Hyper PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-Filament-3D-Printing-Dimensional%2Fdp%2FB0BXGGYPQ2%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dcreality%252Bhyper%252Bpla%26qid%3D1686943712%26sprefix%3Dcreality%252Bhy%252Caps%252C167%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1441923381194637376-20) , Creality’s high-speed filament, which promises high strength and smooth prints while running at speeds up to 600 mm/s. If you want more colors and materials like silks and multicolor filaments, you should check out our guide to the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) for suggestions.
@@ -190,9 +200,6 @@ Reverse the process to remove the filament.
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/dpGRovxpf6dX9PuuXaQUqN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
 
  Creality sent a spool of[high speed carbon fiber PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-Filament-High-Speed-Toughness-Dimensional%2Fdp%2FB0CLTYQP4L%2Fref%3Dsr%5F1%5F4%3Fcrid%3D8OYQEKCEW6WF%26dib%3DeyJ2IjoiMSJ9.FI2zQhPo5wO4rf995czUGWD05eYPkFqkO-3fTpeFo6OfGk6NAhner3pfSqYy3dH1Cvtzczvdoz0eBL12gYmPUx2i%5FXf2-tz%5FE2iYRzma6YDcLcqJ2bS3JZNtUsF%5F9DrSWc1JgPluFn2rsvxjqHOR2RhIrmmmfidAQyIFkTyAEjRigef1Wcqhnkajfws6N3inhXpMlq3vSxA2AukRNR-nxuvPj1XQuSeqj3MI4y3-0dM.VCGg28PaqmKrLcXg8dh-IvVG7cumgTgtcNQ-7DjjzHo%26dib%5Ftag%3Dse%26keywords%3Dcreality%252Bcarbon%252Bfiber%252Bfilament%26qid%3D1712701274%26sprefix%3Dcreality%252Bcarbo%252Caps%252C526%26sr%3D8-4%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1456677865623603382-20) for testing, so I used it to make a side mounted spool holder that I found on the USB stick. One of Carbon Fiber’s benefits is masking layer lines and this print is not only strong but especially smooth. It printed quickly in 52 minutes and 36 seconds, using Creality default settings and a .2mm layer height.
@@ -205,9 +212,6 @@ _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/jZ78ShYRhnctovshCQM5tM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [_Death Racer Seat_](https://www.patreon.com/mrbaddeley/posts) _by Michael Baddeley_  (Image credit: Tom's Hardware)
 
  The new extruder handled TPU without any problems at all. I was able to print this silly Fart Accordion using Creality Slicer’s default TPU settings, which slow down the printer by adjusting the volumetric flow to 3.5mm/s cubed. This is printed in[Matterhackers Translucent Blue Build Series TPU](https://shareasale.com/r.cfm?rcode=PMAX_BUILD&gad_source=1&gclid=Cj0KCQjwztOwBhD7ARIsAPDKnkBdG0XrGRithjgVIUDIJUERHKp7cOzhG5FUV7_XwblNz5BvcuXhsi0aApEGEALw_wcB&b=2058264&u=4338022&m=126466&afftrack=techidaily&urllink=https%3A%2F%2Ftokenmetrics.sjv.io%2Fjrkzxp) in an hour and 12 minutes with a .2mm layer height.
@@ -222,9 +226,6 @@ _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
 _Tinkercad RC car parts_  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Creality K1C is an excellent printer for makers who want a fast, fully-enclosed Core XY 3D printer in a single color. The recent announcement of the four color K2 lineup might give you pause, especially if you can wait a few more months. We have not reviewed the K2 yet, but we feel it's unlikely that the K1 can be upgraded to the new color system.
@@ -281,13 +282,15 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -296,4 +299,24 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-choice-for-affordable-virtual-meetings-online/"><u>[Updated] The Ultimate Choice for Affordable Virtual Meetings Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/address-split-pixel-errors-pc/"><u>Address Split Pixel Errors (PC)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-your-channel-strategies-for-skyrocketing-view-counts/"><u>Boosting Your Channel Strategies for Skyrocketing View Counts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-core-versus-modified-chatgpt-engagement-platforms/"><u>Choosing the Core versus Modified ChatGPT Engagement Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/der8auer-confesses-error-in-selling-below-par-thermal-grizzly-heat-spreaders-and-direct-die-coolers/"><u>Der8auer Confesses Error in Selling Below-Par Thermal Grizzly Heat Spreaders & Direct Die Coolers</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/mastering-effective-email-communication-advanced-strategies-with-massmail/"><u>Mastering Effective Email Communication: Advanced Strategies with Massmail</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-the-maze-of-icloud-finding-where-apples-facetime-imagery-resides/"><u>Navigate the Maze of iCloud: Finding Where Apple's Facetime Imagery Resides</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-avi-video-rotators-free-solutions-for-all-platforms/"><u>New Top-Rated AVI Video Rotators Free Solutions for All Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175689342-revamp-your-rig-the-perfect-match-between-arctics-latest-36-cooler-and-intel-socket-lga1-groove/"><u>Revamp Your Rig: The Perfect Match Between Arctic's Latest 36 Cooler and Intel Socket LGA1 Groove</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-rapid-prototyping-modified-3d-printer-smashes-record-by-producing-speed-benchy-within-120-seconds/"><u>Revolutionizing Rapid Prototyping: Modified 3D Printer Smashes Record by Producing 'Speed Benchy' Within 120 Seconds</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/srgb-vs-standard-rgb/"><u>Srgb vs Standard Rgb</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-budget-friendly-laptops-for-serious-gamers-under-1500-options/"><u>Top 5 Budget-Friendly Laptops for Serious Gamers: Under $1,500 Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-best-storage-device-cases-ssds-and-hds-included/"><u>Ultimate Guide: Best Storage Device Cases - SSDs and HDs Included</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262419149-unleash-tech-potential-learn-and-compare-equipment-on-toms-hardware/"><u>Unleash Tech Potential - Learn and Compare Equipment on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-potential-full-scale-blender-testing-on-amd-ryzen-9-9950x-es-at-diverse-tdp-levels-reveals-remarkable-performance-gains/"><u>Unveiling the Potential: Full-Scale Blender Testing on AMD Ryzen 9 9950X ES at Diverse TDP Levels Reveals Remarkable Performance Gains</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-trusted-source-for-professional-hardware-reviews-toms-gadgets-insights/"><u>Your Trusted Source for Professional Hardware Reviews: Tom's Gadgets Insights</u></a></li>
+</ul></div>
 

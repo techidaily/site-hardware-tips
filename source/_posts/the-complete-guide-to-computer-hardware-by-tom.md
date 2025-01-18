@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Computer Hardware by Tom
-date: 2024-08-19T03:56:58.799Z
-updated: 2024-08-20T03:56:58.799Z
+date: 2025-01-11T18:15:09.429Z
+updated: 2025-01-18T17:54:00.471Z
 tags:
   - cooling
 categories:
@@ -67,8 +67,9 @@ Included in the box are the following:
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -81,9 +82,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -101,8 +99,9 @@ Included in the box are the following:
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
@@ -126,8 +125,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -149,9 +149,14 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## LGA1700 Socket Bending
 
@@ -159,9 +164,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -227,8 +229,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +236,20 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-increase-attendance-and-engagement-with-strategic-zoom-recordings/"><u>[New] Increase Attendance and Engagement with Strategic Zoom Recordings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-ultimate-high-res-4k-mirrorless-cams-for-2024/"><u>10 Ultimate High-Res 4K Mirrorless Cams for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-benefits-of-the-arctic-freezer-36-air-conditioner-a-game-changer-for-budget-cooling-solutions/"><u>Explore the Benefits of the Arctic Freezer 36 Air Conditioner – A Game-Changer for Budget Cooling Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-tech-world-through-toms-lens-mastering-the-complexity-of-computer-components/"><u>Exploring the Tech World Through Tom's Lens: Mastering the Complexity of Computer Components</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-13t-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-s18-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo S18 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-narzo-n55-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme Narzo N55 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-gadgets-with-toms-insider-guides-and-tips/"><u>Navigating Gadgets with Tom's Insider Guides and Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-with-toms-hardware-guide/"><u>Navigating the World of Computing with Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-data-effortlessly-with-plastic-3d-holograms-encoding-up-to-576-bits-safely/"><u>Secure Your Data Effortlessly with Plastic 3D Holograms, Encoding Up To 576 Bits Safely</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/d-you-pay-for-unlimited-youtube/"><u>Should You Pay for Unlimited YouTube?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tt560-speedlite-reliability-meets-easy-use/"><u>TT560 Speedlite: Reliability Meets Easy Use</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-through-toms-critiques/"><u>Unveiling the Latest in Hardware Through Tom's Critiques</u></a></li>
+</ul></div>
 

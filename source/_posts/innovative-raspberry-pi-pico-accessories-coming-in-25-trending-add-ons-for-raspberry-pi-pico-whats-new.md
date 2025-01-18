@@ -1,7 +1,7 @@
 ---
 title: Innovative Raspberry Pi Pico Accessories Coming in 2#5 Trending Add-Ons for Raspberry Pi Pico - What's New
-date: 2024-08-19T03:52:02.013Z
-updated: 2024-08-20T03:52:02.013Z
+date: 2025-01-14T17:12:45.502Z
+updated: 2025-01-18T17:38:16.598Z
 tags:
   - best-picks
 categories:
@@ -21,6 +21,10 @@ The[Raspberry Pi](https://www.tomshardware.com/news/raspberry-pi) is an awesome 
  The release of the[Raspberry Pi 5](https://www.tomshardware.com/reviews/raspberry-pi-5) surprised many, including HAT and addon creators who are working to patch their boards for use with the latest Raspberry Pi. The issues that they face are two-fold. Firstly there are changes to how[Python works on the Debian 12 Bookworm-based OS](https://www.tomshardware.com/how-to/install-python-modules-raspberry-pi) . The changes boil down to that we can no longer install Python modules directly to the OS. Instead we need to install into[virtual environments.](https://www.tomshardware.com/how-to/install-python-modules-raspberry-pi) Secondly, due to the new RP1 chip, how the GPIO is accessed has changed. This has lead to many HATs being incompatible with the Pi 5, for now. Progress is being made by developers who maintain the software behind our favorite boards.
 
  Raspberry Pi has released the first HAT+ standard board[ \[PDF\]](https://datasheets.raspberrypi.com/hat/hat-plus-specification.pdf) , the[[PDF]](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review) . But we are still some way from a wave of new boards that will use this standard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Raspberry Pi HAT Shopping Tips
 
@@ -53,6 +57,10 @@ When buying a Raspberry Pi HAT, ask yourself these questions:
 ![Pimoroni Inventor HAT Mini](https://cdn.mos.cms.futurecdn.net/Pdgb5CBBk68VjxQGeN8GFE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Pimoroni Inventor HAT Mini
 
@@ -109,8 +117,9 @@ Simple Python module
 ![Best Raspberry Pi HAT for Lego Projects](https://cdn.mos.cms.futurecdn.net/ucxn9TryRzNrNxf7QLbmj-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ### 2\. Build HAT
@@ -172,13 +181,11 @@ Incompatible with some HATs
 ![Pimoroni IO Expander](https://cdn.mos.cms.futurecdn.net/SQrSEuZVAMiyJb8SAwwfkB-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Pimoroni IO Expander  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Pimoroni IO Expander
 
 ADC and 14 Extra GPIO Pins for Your Pi
@@ -225,9 +232,6 @@ Add 14 GPIO pins
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/m7hyCqNXZXwVbdfCjGR8wb-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Pimoroni)
 
 ### 4\. Pimoroni Picade X HAT
@@ -276,6 +280,10 @@ Blocks CPU and raises temperature
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/jiysLLyHNsrXxo3nMJDR8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Raspberry Pi Trading)
 
 ### 5\. Raspberry Pi Sense HAT
@@ -320,11 +328,16 @@ Works with Python and Scratch
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/nnELAU9czPx2B3uyGbnzPc-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Pimoroni)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Pimoroni Breakout Garden
 
  Best Raspberry Pi HAT for Using Multiple Sensors
@@ -363,9 +376,6 @@ Breakout I2C boards can be expensive
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/k2TyrkgDpqcA5UXZ9HNXdc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Raspberry Pi Trading)
 
 ### 7\. Raspberry Pi PoE HAT
@@ -414,10 +424,11 @@ Only works on Pi 3B+ and later
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/5uTCjguWVL9TMTkdQ47Hxd-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Gareth Halfacree)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Google AIY Voice Kit (with HAT)
 
@@ -461,9 +472,6 @@ Initial purchase is expensive
 
  (Image credit: Les Pounder)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 9\. Cyntech Pibrella
 
 Best Raspberry Pi HAT for Younger Makers
@@ -510,9 +518,6 @@ Designed for older Raspberry Pi
 
  (Image credit: Adafruit)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 10\. Adafruit Perma-Proto HAT
 
 Best for Creating Your Own Raspberry Pi HATs
@@ -554,6 +559,10 @@ Expensive for multiple boards
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/sXxxJqFKieeChEYF2U6z4d-320-80.jpg)
 
  (Image credit: Adafruit)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 11\. Adafruit Capacitive Touch HAT
 
@@ -599,14 +608,8 @@ Lots of wires for all 12 connections
 
 ![Raspberry Pi M.2 HAT+](https://cdn.mos.cms.futurecdn.net/QfCX4wvRYdUrwwogMp43cA-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### [12. Raspberry Pi M.2 HAT+](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review)
 
 Best Raspberry Pi 5 M.2 HAT for Storage
@@ -651,9 +654,6 @@ Plastic screws GPIO access is awkward
 
 **Read:** [Raspberry Pi M.2 HAT+ Review](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Finding Discounts on the Best Raspberry Pi HATs
 
  Whether you're shopping for one of the best Raspberry Pi HATs or one that didn't quite make our list, you may find savings by checking out the latest[SparkFun promo codes](https://www.tomshardware.com/coupons/sparkfun.com) ,[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) ,[Amazon promo codes](https://www.tomshardware.com/coupons/amazon.com) or[Micro Center coupons](https://www.tomshardware.com/coupons/category/ssds-motherboards-and-hardware) .
@@ -712,8 +712,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -721,4 +719,22 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/rom-ideation-to-implementation-a-comprehensive-approach-for-quality-edu-videos-for-2024/"><u>[New] From Ideation to Implementation A Comprehensive Approach for Quality Edu-Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-transferring-facebook-videos-seamlessly-across-oses/"><u>[Updated] 2024 Approved Transferring Facebook Videos Seamlessly Across OSes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-of-the-web-the-10-leading-sites-for-purchasing-mystery-boxes/"><u>2024 Approved Best of the Web The 10 Leading Sites for Purchasing Mystery Boxes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-free-video-shrinking-software-for-windows-10-users/"><u>Best Free Video Shrinking Software for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862650997-cutting-edge-core-i5-12450h-laptops-with-twin-displays-land-at-710-on-aliexpress-physical-keyboards-not-included/"><u>Cutting-Edge Core I5-12450H Laptops with Twin Displays Land at $710 on AliExpress - Physical Keyboards Not Included</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/es-power-to-transform-ordinary-openers-into-epic-for-2024/"><u>IMovie's Power to Transform Ordinary Openers Into Epic for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862667600-score-big-savings-premium-dell-g16-gaming-laptop-for-a-steal-at-949/"><u>Score Big Savings: Premium Dell G16 Gaming Laptop for a Steal at $949</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-how-to-efficiently-divide-data-using-excels-split-function/"><u>Step-by-Step Tutorial: How to Efficiently Divide Data Using Excel's Split Function</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-selection-of-top-8-windows-podcast-tools/"><u>The Ultimate Selection of Top 8 Windows Podcast Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-hardware-analysis-t172386287988117/"><u>Tom's Tech Reviews: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-the-power-of-meteor-lake-discover-the-1100-honor-magicbook-art-n14s-31k-oled-display-and-privacy-friendly-camera-feature/"><u>Unleash the Power of Meteor Lake: Discover the $1,100 Honor MagicBook Art N14's 3.1K OLED Display and Privacy-Friendly Camera Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-lenovo-yoga-pro-9i-a-look-into-its-soft-touch-keys-and-compact-body/"><u>Unveiling the Lenovo Yoga Pro 9I: A Look Into Its Soft-Touch Keys & Compact Body</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-amd-ryzen-in-the-asus-zenbook-s16-comprehensive-review-and-benchmarks/"><u>Unveiling the Power of AMD Ryzen in the Asus Zenbook S16: Comprehensive Review & Benchmarks</u></a></li>
+</ul></div>
 

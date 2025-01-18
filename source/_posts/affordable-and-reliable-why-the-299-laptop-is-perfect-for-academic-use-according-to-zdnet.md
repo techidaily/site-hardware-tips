@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Reliable: Why the $299 Laptop Is Perfect for Academic Use, According to ZDNET"
-date: 2025-01-06T20:53:53.939Z
-updated: 2025-01-13T03:22:35.520Z
+date: 2025-01-11T18:32:26.295Z
+updated: 2025-01-18T19:15:08.288Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,19 +77,17 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-androids-budget-friendly-video-call-leaders/"><u>[New] 2024 Approved Android's Budget-Friendly Video Call Leaders</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-online-media-crafter/"><u>[New] 2024 Approved Online Media Crafter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-trustworthy-advice-from-toms-hardware/"><u>Advanced Tech Insights: Trustworthy Advice From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bambu-lab-unveils-quick-printing-bed-slinger-meet-the-advanced-a1-3d-printer-available-december-14th/"><u>Bambu Lab Unveils Quick Printing 'Bed Slinger': Meet the Advanced A1 3D Printer – Available December 14Th</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bambulab-x1-carbon-assessment-pinnacle-of-modern-3d-printing-technology/"><u>BambuLab X1-Carbon Assessment: Pinnacle of Modern 3D Printing Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-computer-specs-with-toms-hardware-experts/"><u>Decoding Computer Specs with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-tech-specs-toms-hardware-rundown/"><u>Decoding Tech Specs: Tom's Hardware Rundown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-productivity-with-self-crafted-windows-11-shortcuts/"><u>Enhance Productivity with Self-Crafted Windows 11 Shortcuts</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guia-para-localizar-y-solucionar-problemas-con-la-carpeta-programdata-en-windows-1110/"><u>Guía Para Localizar Y Solucionar Problemas Con La Carpeta 'ProgramData' En Windows 11/10</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-smart-7-hd-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Smart 7 HD? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-ideal-video-editor-unleashed-for-vimeo-videos/"><u>In 2024, Ideal Video Editor Unleashed for Vimeo Videos</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/resolving-datastore-stuck-state-overcoming-in-use-resource-locks-for-deletion/"><u>Resolving Datastore Stuck State: Overcoming In-Use Resource Locks for Deletion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175724515-ultimate-comparison-of-best-cooling-solutions-for-m2-ssds-exploring-30-contenders-including-id-coolings-m05-and-m1nus/"><u>Ultimate Comparison of Best Cooling Solutions for M.2 SSDs - Exploring 30 Contenders Including ID-Cooling's M05 & M1nus!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-visionary-flicks-that-empower-you/"><u>[New] 10 Visionary Flicks That Empower You</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-content-visibility-on-youtube-your-guide-to-effective-featured-channels/"><u>[New] Mastering Content Visibility on YouTube Your Guide to Effective Featured Channels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-maximizing-video-collection-on-tiktok-efficiently-for-2024/"><u>[New] Maximizing Video Collection on TikTok Efficiently for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/avigating-the-world-of-sound-effects-in-youtube-videos/"><u>[New] Navigating the World of Sound Effects in YouTube Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-top-10-non-vimeo-editors-for-user-generated-content/"><u>[Updated] In 2024, Top 10 Non-Vimeo Editors for User-Generated Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862768155-get-the-ultrawide-view-with-the-newly-discounted-gigabytes-aorus-oled-gaming-monitor-for-only-969/"><u>Get the Ultrawide View with the Newly Discounted Gigabyte's Aorus OLED Gaming Monitor for Only $969!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-get-the-scoop-on-vn-video-editor-for-pc/"><u>New 2024 Approved Get the Scoop on VN Video Editor for PC</u></a></li>
+<li><a href="https://win-web.techidaily.com/problembehandlung-fur-gpeditmsc-nicht-gefunden-tipps-und-tricks-fur-windows-nutzer/"><u>Problembehandlung Für gpedit.msc Nicht Gefunden - Tipps Und Tricks Für Windows-Nutzer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-outdoor-projector-insights-from-industry-experts-on-quality-features-and-value/"><u>Ultimate Guide to Choosing the Perfect Outdoor Projector: Insights From Industry Experts on Quality, Features & Value</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-high-tech-secrets-at-toms-gear-and-hardware-insights/"><u>Unveiling High-Tech Secrets at Tom's Gear & Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-with-toms-hardware-wisdom/"><u>Unveiling Tech Secrets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-hardware-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest in Computing Hardware with Tom - A Comprehensive Guide</u></a></li>
 </ul></div>
 

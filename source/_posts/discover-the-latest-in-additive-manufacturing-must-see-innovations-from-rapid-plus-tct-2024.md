@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest in Additive Manufacturing: Must-See Innovations From Rapid + TCT 2024"
-date: 2024-08-19T03:58:33.826Z
-updated: 2024-08-20T03:58:33.826Z
+date: 2025-01-12T17:32:36.350Z
+updated: 2025-01-18T19:35:27.486Z
 tags:
   - printer
 categories:
@@ -21,13 +21,25 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -49,9 +61,6 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Anycubic showed off its latest four-color machine, the Kobra 3, and a high-speed resin, the Photon Mono M7 Pro. For more details on features and performance, read our[Kobra 3](https://www.tomshardware.com/3d-printing/anycubic-kobra-3-review) review.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,24 +72,13 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
  The Photon Mono M7 Pro is a promising large-format resin machine with a 10-inch light source and 14k resolution. It’s also self-leveling, has a plethora of sensors, and has a tempting sale price of $499\. This machine is currently under review, and we’ll have more details on its performance shortly.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bambu Lab: Nothing New
 
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/hgtGFEzAu9a8CMtvExhcLF-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Bambu Lab may have has suffered a setback from their[A1 recall](https://www.tomshardware.com/3d-printing/bambu-lab-a1-recall-company-asks-owners-to-turn-off-their-3d-printers-as-micro-center-pulls-product-from-shelves) . They did not have any new machines to present, but did showcase the revamped A1 alongside the A1 Mini and X1 Carbon.
@@ -90,9 +88,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/p374ZNnLKuMUM4Qb6WUqTk-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We were eager to see the new K2 Plus, Creality’s entry in the color FDM race. However, the machine was demoing a single-color print, which suggests their CFS (Creality Filament System) is not ready for prime time. The combo unit is currently available to order for $1,499 and is slated to ship in October. Reviewers have been promised sample units in August, so we’ll keep you posted.
@@ -104,8 +102,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -130,29 +129,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Formlabs had a live demo of the new Form 4 resin, a versatile machine with an LCD-based system. The superfast Form 4 is said to rival injection-molded parts while still being small enough to fit on your desktop. Geared for industrial use, with a spicy price tag of $4,500, Formlabs has offered to loan us a machine to check out. Look for our in-depth review of this later this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Polymaker launches Panchroma and Fiberon
 
  Image 1 of 3
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -177,8 +175,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +182,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-masterful-guide-to-professional-online-etiquette-on-youtube/"><u>2024 Approved Masterful Guide to Professional Online Etiquette on YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-navigating-the-world-of-videomosaic-androids-8-freepaid-selection/"><u>2024 Approved Navigating the World of Videomosaic Android's #8-Free/Paid Selection</u></a></li>
+<li><a href="https://media-tips.techidaily.com/complete-tutorial-how-to-download-youtube-videos-onto-your-iphoneipad-or-android-for-easy-access-anywhere/"><u>Complete Tutorial: How to Download YouTube Videos Onto Your iPhone/iPad or Android for Easy Access Anywhere!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-tom-your-hardware-hub/"><u>Exploring Computer Components with Tom - Your Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computing-systems-with-toms-technology-reviews/"><u>Exploring Computing Systems with Tom's Technology Reviews</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-to-use-travel-wizards-the-compilation-of-top-7-planning-apps/"><u>Free-to-Use Travel Wizards - The Compilation of Top 7 Planning Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/freezing-into-action-with-frore-trio-of-trial-airjet-pak-cools-ideal-for-edge-ai-max-25-watts/"><u>Freezing Into Action with Frore - Trio of Trial AirJet PAK Cools Ideal for Edge AI, Max 25 Watts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-modern-hardware-by-toms-hardware-experts/"><u>In-Depth Analysis of Modern Hardware by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-electronics-analysis-and-reviews-by-toms-digital-workshop/"><u>In-Depth Electronics Analysis and Reviews by Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-the-impact-of-using-the-cooler-master-ion-360-liquid-cpu-cooling-system/"><u>In-Depth Review: The Impact of Using the Cooler Master ION 360 Liquid CPU Cooling System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-tips-by-toms-gadget-experts/"><u>In-Depth Reviews and Tips by Tom's Gadget Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-insights-on-computers-and-components-by-toms-hardware-experts/"><u>Innovative Insights on Computers and Components by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/learn-how-to-activate-and-use-espnplus-features-on-lgs-smart-tv-platform/"><u>Learn How to Activate and Use ESPN+ Features on LG's Smart TV Platform</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/paww-tritone-series-3-examination-cost-effective-headphones/"><u>Paww Tritone Series 3 Examination: Cost-Effective Headphones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-nonworking-internal-webcams-in-asus/"><u>Reactivating Nonworking Internal Webcams in Asus</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-on-finding-and-downloading-the-entire-captain-america-civil-war-film-as-a-free-mp4-file/"><u>Step-by-Step Tutorial on Finding and Downloading the Entire Captain America: Civil War Film as a Free MP4 File</u></a></li>
+</ul></div>
 

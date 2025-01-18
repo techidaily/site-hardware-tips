@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet"
-date: 2025-01-11T19:07:54.522Z
-updated: 2025-01-12T19:59:27.485Z
+date: 2025-01-11T18:49:57.534Z
+updated: 2025-01-18T18:10:11.863Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,21 +134,16 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-digital-duo-dynamics-joining-instagram-and-tiktok-powerfully/"><u>[New] 2024 Approved Digital Duo Dynamics Joining Instagram and TikTok Powerfully</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-your-music-library-top-6-free-ios-apps-for-audio-conversion/"><u>[New] 2024 Approved Enhance Your Music Library Top 6 Free iOS Apps for Audio Conversion</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-efficient-screen-recording-on-xbox-explained/"><u>[Updated] Efficient Screen Recording on Xbox Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-the-price-history-of-games-on-steam/"><u>Deciphering the Price History of Games on Steam</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-vocal-inputs-to-text-output-a-comprehensible-guide-for-windows-users/"><u>From Vocal Inputs to Text Output: A Comprehensible Guide for Windows Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-choices-premier-mac-video-capture-apps/"><u>In 2024, Top Choices Premier Mac Video Capture Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/masterclass-softening-audio-endings/"><u>Masterclass Softening Audio Endings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/medical-and-health-facebook-ads-campaign-tips/"><u>Medical And Health Facebook Ads Campaign Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-ek-custom-heat-sinks-optimal-cooling-for-delidded-amd-ryzen-am5-processors/"><u>Revolutionary EK Custom Heat Sinks: Optimal Cooling for Delidded AMD Ryzen AM5 Processors</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-journey-across-devices-windows-launches-for-apples-tech-ecosystem/"><u>Seamless Journey Across Devices: Windows Launches for Apple's Tech Ecosystem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/streamline-gpu-cooling-with-cooler-masters-compact-2-fan-replacement-over-traditional-triple-fans/"><u>Streamline GPU Cooling with Cooler Master's Compact 2-Fan Replacement Over Traditional Triple Fans</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tackling-thick-footprint-troubles-a-how-to-on-3d-print-perfection/"><u>Tackling Thick Footprint Troubles: A How-To on 3D Print Perfection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/teamgroup-unveils-the-future-of-pc-maintenance-with-magnetic-features-on-their-iconic-t-force-siren-aio-cpu-coolers/"><u>TeamGroup Unveils the Future of PC Maintenance with Magnetic Features on Their Iconic T-Force Siren AIO CPU Coolers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-guide-to-electronics-toms-insights/"><u>The Comprehensive Guide to Electronics - Tom's Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-5-benefits-that-make-buying-a-veil-printer-irresistible-this-black-friday/"><u>The Ultimate List of 5 Benefits That Make Buying a Veil Printer Irresistible This Black Friday</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-precision-tools-for-computers-and-hardware-enthusiasts/"><u>Tom's Precision Tools for Computers and Hardware Enthusiasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-block-spontaneous-youtube-video-triggers/"><u>[Updated] 2024 Approved Block Spontaneous YouTube Video Triggers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-achieve-side-by-side-viewing-on-chrome-the-pip-method/"><u>2024 Approved Achieve Side-by-Side Viewing on Chrome The PIP Method</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adjustable-team-group-ddr5-memory-modules-with-enhanced-performance/"><u>Adjustable Team Group DDR5 Memory Modules with Enhanced Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bogus-msi-pedals-packed-with-malware-risks-involved-in-compromised-burnout-software/"><u>Bogus MSI Pedals Packed With Malware; Risks Involved in Compromised Burnout Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-performance-selecting-an-ideal-motherboard-for-overclocking-intel-skylake-cpus/"><u>Boost Performance: Selecting an Ideal Motherboard for Overclocking Intel Skylake CPUs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-boosting-viewership-a-guide-to-captivating-haul-content/"><u>In 2024, Boosting Viewership A Guide to Captivating Haul Content</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-6-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 6? Heres the Best Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-c55-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme C55 Phone?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210431602-9781957234984-intuitive-moon-rituals/"><u>Intuitive Moon Rituals | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-advanced-hardware-components/"><u>Tom's Tech Insights: Exploring Advanced Hardware Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964463953-unleashing-the-power-of-legacy-the-remarkable-journey-of-a-vintage-14-year-old-celeron-d-347-overclocked-to-an-astounding-837ghz/"><u>Unleashing the Power of Legacy: The Remarkable Journey of a Vintage 14-Year-Old Celeron D 347, Overclocked to an Astounding 8.37Ghz!</u></a></li>
 </ul></div>
 

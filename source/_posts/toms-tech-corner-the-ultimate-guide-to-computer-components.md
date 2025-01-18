@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Corner: The Ultimate Guide to Computer Components"
-date: 2024-08-19T03:56:29.063Z
-updated: 2024-08-20T03:56:29.063Z
+date: 2025-01-13T16:22:05.848Z
+updated: 2025-01-18T16:55:08.028Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,21 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-win11s-leading-video-creators-guide/"><u>[New] In 2024, Win11's Leading Video Creators Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-create-internet-laughter/"><u>[Updated] Create Internet Laughter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dive-into-creating-alluring-youtube-video-intros/"><u>[Updated] In 2024, Dive Into Creating Alluring YouTube Video Intros</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unveiling-virtual-worlds-metaverse-versus-omniverse-explained/"><u>[Updated] Unveiling Virtual Worlds Metaverse Versus Omniverse Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/ditch-default-home-port-on-w11-settings-interface/"><u>Ditch Default Home Port on W11 Settings Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-evolution-of-ai-language-models-spotlighting-the-top-5-contrasts-between-gpt-4-and-gpt-35/"><u>Exploring the Evolution of AI Language Models: Spotlighting the Top 5 Contrasts Between GPT-4 and GPT-3.5</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-front-rows-of-recreation-beyond-the-sports-arena/"><u>In 2024, Front Rows of Recreation Beyond the Sports Arena</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-insights-through-toms-hardware-expertise/"><u>Mastering Technology Insights Through Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-premium-monitors-for-ps5-and-xbox-series-enthusiasts/"><u>The Ultimate Guide to Choosing Premium Monitors for PS5 and Xbox Series Enthusiasts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-top-free-video-to-gif-conversion-software-11-picks/"><u>The Ultimate Guide to Top Free Video-to-GIF Conversion Software (11 Picks)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-on-computer-hardware/"><u>Tom's Tech Review: Comprehensive Guide on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-ultimate-printing-power-with-a-discount-grab-elegoo-neptune-4-pro-at-75-off/"><u>Unleash Ultimate Printing Power with a Discount - Grab Elegoo Neptune 4 Pro at $75 Off!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-creativity-with-captivating-image-assemblies/"><u>Unleashing Creativity with Captivating Image Assemblies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-with-toms-technology-hub/"><u>Unveiling the Latest with Tom's Technology Hub</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

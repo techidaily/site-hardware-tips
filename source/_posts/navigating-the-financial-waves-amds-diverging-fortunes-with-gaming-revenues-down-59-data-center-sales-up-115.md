@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Financial Waves: AMD's Diverging Fortunes with Gaming Revenues Down 59%%, Data Center Sales Up 115%%"
-date: 2024-08-19T03:55:33.325Z
-updated: 2024-08-20T03:55:33.325Z
+date: 2025-01-13T17:18:07.311Z
+updated: 2025-01-18T17:00:16.830Z
 tags:
   - cpu
 categories:
@@ -46,6 +46,10 @@ Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our fi
 
  3D V-Cache continues to be AMD's magic pill for incredibly efficient gaming performance, providing a generational improvement in performance for chips that take advantage of it. We must wait until the Ryzen 9000 X3D launches before Zen 5 officially dethrones Zen 4 with 3D V-Cache in gaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -54,14 +58,11 @@ Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our fi
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -70,8 +71,24 @@ Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-superbackground-cleanup-suite/"><u>[New] 2024 Approved SuperBackground Cleanup Suite</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-galaxy-of-play-ultimate-list-of-the-cheapest-rpgs-online/"><u>[New] Galaxy of Play Ultimate List of the Cheapest RPGs Online</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-a-step-by-step-approach-to-ending-live-sharing-on-laptops-and-tablets/"><u>[Updated] A Step-by-Step Approach to Ending Live Sharing on Laptops and Tablets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-diy-tips-for-affordable-youtube-introend-videos/"><u>[Updated] In 2024, DIY Tips for Affordable YouTube Intro/End Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-non-indexable-content-decoding-the-unlisted-phenomenon/"><u>[Updated] YouTube's Non-Indexable Content Decoding the Unlisted Phenomenon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-innovation-discovering-new-horizons-with-toms-hardware-reviews/"><u>Dive Into Innovation: Discovering New Horizons with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-tech-game-with-expert-advice-from-tome-hardware-corner/"><u>Elevate Your Tech Game with Expert Advice From Tom'e Hardware Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-guide-to-cost-effective-3d-printing-elite-models-offered-at-budget-friendly-price-points/"><u>Expert Guide to Cost-Effective 3D Printing: Elite Models Offered at Budget-Friendly Price Points</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-on-electronics-by-tom-your-reliable-hardware-source/"><u>Expert Reviews on Electronics by Tom - Your Reliable Hardware Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-tech-a-dive-into-toms-hardware-insights-and-reviews/"><u>Exploring Tech: A Dive Into Tom's Hardware Insights and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hytes-game-changing-nexus-link-streamline-pc-building-with-magnetic-connectivity-and-oversized-screen-cooler/"><u>Hyte's Game-Changing Nexus Link - Streamline PC Building with Magnetic Connectivity and Oversized Screen Cooler</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oppo-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/magix-video-pro-x-analysis/"><u>Magix Video Pro X Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/noir-effects-in-adobe-premiere-for-2024/"><u>Noir Effects in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-all-in-one-cpu-coolers-of-2024/"><u>Top-Rated All-in-One CPU Coolers of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/trustworthy-tech-advice-from-toms-reviews-and-analysis/"><u>Trustworthy Tech Advice From Tom's Reviews & Analysis</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

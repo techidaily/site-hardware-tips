@@ -1,7 +1,7 @@
 ---
 title: XPG's Advanced Dual-Fan Cooler with Built-In Pump and Loop - Ideal for High Performance up to 280W Processors
-date: 2024-08-19T03:56:43.215Z
-updated: 2024-08-20T03:56:43.215Z
+date: 2025-01-15T17:30:09.674Z
+updated: 2025-01-18T18:37:38.926Z
 tags:
   - cooling
 categories:
@@ -26,14 +26,11 @@ A compact and high-performance CPU cooler from Arctic that can keep those multi-
 
  The 240mm Arctic Liquid Freezer II is a neat and tidy solution for your CPU cooling and PC builds, with minimal cables cluttering your case innards as the Arctic Freezer routs the PWM fan cables through the material sleeve of the cooling tubes for a clean look leaving only a short cable run from the pump to the motherboard header. This SKU of the Arctic Liquid Freezer II doesn't have any RGB on the fans, so is perfect for those who don't want the light show but do want a functional cooler.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -42,8 +39,22 @@ A compact and high-performance CPU cooler from Arctic that can keep those multi-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-top-rated-shot-recording-gear-for-the-hunter/"><u>[New] Top-Rated Shot-Recording Gear for the Hunter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creality-unveils-release-schedule-and-price-points-for-the-powerhouse-k1c-3d-printer-with-detailed-specifications/"><u>Creality Unveils Release Schedule & Price Points for the Powerhouse K1C 3D Printer with Detailed Specifications</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/effortlessly-traverse-facebooks-past-posts-for-2024/"><u>Effortlessly Traverse Facebook’s Past Posts for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-geeky-gatherings-best-general-trivia-streams/"><u>In 2024, Geeky Gatherings Best General Trivia Streams</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unending-suspension-how-to-erase-youtube-shorts/"><u>In 2024, Unending Suspension How to Erase YouTube Shorts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodical-approach-to-reviving-frozen-start-button/"><u>Methodical Approach to Reviving Frozen Start Button</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-zerodxgerror-in-windows-11/"><u>Strategies for Fixing ZeroDXGError in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-building-your-dream-computer-with-toms-advice/"><u>The Ultimate Resource for Building Your Dream Computer with Tom's Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-into-computer-components/"><u>Tom's Tech Review: In-Depth Insights Into Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guides-and-analysis/"><u>Tom's Tech Reviews: Comprehensive Guides and Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-tier-electronics-with-toms-hardware-guides/"><u>Unveiling Top-Tier Electronics with Tom's Hardware Guides</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

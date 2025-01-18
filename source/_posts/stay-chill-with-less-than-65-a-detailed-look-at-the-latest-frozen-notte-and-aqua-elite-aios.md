@@ -1,7 +1,7 @@
 ---
 title: "Stay Chill with Less than $65: A Detailed Look at the Latest Frozen Notte & Aqua Elite AIOs"
-date: 2024-08-19T03:54:06.143Z
-updated: 2024-08-20T03:54:06.143Z
+date: 2025-01-12T17:10:15.190Z
+updated: 2025-01-18T18:52:12.988Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
  In terms of performance, the air-cooled CPU was seen to deliver about 38,300cb with the AiO-cooled chip achieving just over 39,100cb. The CPU clocks were much more steady at 5.6 GHz using the AiO, but with the air cooler in place they often dipped to 5.4 GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +45,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/wmRXDJgtnnLnPhD5DLfZMJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Der8auer)
 
  It may be unfortunate timing for the new EK-Nucleus AIO CR360 Direct Die D-RGB all-in-one CPU cooler, as we are nearly at the end of the Socket 1700 era. Der8auer admitted he didn’t know what might need to be done to make the AiO Intel 15th Gen CPU compatible.
@@ -49,18 +57,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/DwdkCF27CRpbAtFLxxyV8J-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: EKWB)
 
  For some further context, last July we reviewed the closely related EK Nucleus AIO CR360 Lux D-RGB for fully clothed CPUs. Despite price concerns and a slight noise disadvantage against the best rival AiOs, our review crowned it the[new king of AiO cooling](https://www.tomshardware.com/reviews/ek-nucleus-aio-cr360-lux-d-rgb) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +78,24 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-new-users-on-the-road-to-zoom-room-mastery/"><u>[New] In 2024, New Users on the Road to Zoom Room Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-television-or-projector-for-peak-4k-performance/"><u>[New] Television or Projector for Peak 4K Performance?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-versatile-pc-software-beyond-inshot/"><u>[New] Versatile PC Software Beyond Inshot</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-master-classic-ps2-games-on-android-with-our-top-picks/"><u>[Updated] In 2024, Master Classic PS2 Games on Android with Our Top Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-no-cost-yield-assessment-apps-for-videos/"><u>[Updated] No-Cost Yield Assessment Apps for Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-datas-computex-showcase-hybrid-airwater-cooling-tower-innovation-imminent-psu-updates-and-the-advent-of-pcie-gen-disbanded5-ssd-technology/"><u>A Data's Computex Showcase: Hybrid Air/Water Cooling Tower Innovation, Imminent PSU Updates, and the Advent of PCIe Gen 지저분(Disbanded)5 SSD Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-performance-with-new-zen-5-cpu-amds-ryzen-9-9950x-triumphs-over-7950x-in-benchmark-showdown/"><u>Cutting Edge Performance with New Zen 5 CPU: AMD's Ryzen 9 9950X Triumphs over 7950X in Benchmark Showdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-set-for-intels-battlemage-arrival-cutting-edge-efficiency-boosting-arrow-lake-sips-less-power-by-100w-than-14th-gen-ice-lake-overclocking-unaltered-foll24/"><u>Get Set for Intel's Battlemage Arrival: Cutting Edge Efficiency Boosting - Arrow Lake Sips Less Power by 100W than 14Th Gen Ice Lake, Overclocking Unaltered Following Raptor Lake Microcode Changes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-quick-glance-at-stars-contribution/"><u>In 2024, Quick Glance at Star's Contribution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-future-of-cooling-asetek-and-fabric8labs-collaboratively-develop-an-ai-powered-ecam-cold-plate-using-high-definition-3d-printing-techniques.7/"><u>Introducing the Future of Cooling: Asetek and Fabric^8Labs Collaboratively Develop an AI-Powered ECAM Cold Plate Using High-Definition 3D Printing Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-a-detailed-look-into-toms-hardware-selection/"><u>Mastering Tech: A Detailed Look Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-professional-grade-video-stabilization-secrets-in-fcpx-revealed/"><u>New 2024 Approved Professional-Grade Video Stabilization Secrets in FCPX Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-convenience-revolution-discover-how-teamgroup-reinvented-t-force-siren-aio-cpu-coolers-with-integrated-magnet-features-for-simplified-pc-setup/"><u>The Convenience Revolution: Discover How TeamGroup Reinvented T-Force Siren AIO CPU Coolers With Integrated Magnet Features for Simplified PC Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-grove-add-on-selection-for-enhanced-raspberry-pi-and-arduino-projects/"><u>Ultimate Grove Add-On Selection for Enhanced Raspberry Pi and Arduino Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-insights-from-toms-hardware/"><u>Unveiling the Latest in Computing: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-download-and-use-kinemaster-on-your-mac-for-2024/"><u>Updated How to Download and Use KineMaster on Your Mac for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->

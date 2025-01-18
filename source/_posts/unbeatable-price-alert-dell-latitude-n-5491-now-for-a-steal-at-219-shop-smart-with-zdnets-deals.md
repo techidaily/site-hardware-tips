@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!"
-date: 2025-01-10T17:55:00.056Z
-updated: 2025-01-12T19:00:58.141Z
+date: 2025-01-15T18:23:26.803Z
+updated: 2025-01-18T17:05:35.836Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,20 +87,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-by-step-approach-to-conquering-igtv/"><u>[New] 2024 Approved Step-By-Step Approach to Conquering IGTV</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-maximizing-gameplay-preservation-on-the-newest-windows-11/"><u>[Updated] 2024 Approved Maximizing Gameplay Preservation on the Newest Windows 11</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok/"><u>[Updated] In 2024, Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-securing-youtube-srt-files-a-threefold-procedure/"><u>2024 Approved Securing YouTube SRT Files A Threefold Procedure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-resolving-failed-to-set-user-settings-for-drivers-quickly-and-effectively/"><u>Expert Advice: Resolving 'Failed to Set User Settings for Drivers' Quickly and Effectively</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/qidi-tech-q1-pro-assessment-ignite-your-creativity-and-focus/"><u>QIDI Tech Q1 Pro Assessment - Ignite Your Creativity & Focus!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-stereolithography-micronics-unveils-portable-cost-effective-desktop-3d-printer-at-2999-price-tag/"><u>The Future of Stereolithography: Micronics Unveils Portable, Cost-Effective Desktop 3D Printer at $2,999 Price Tag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-building-and-upgrades-featuring-toms-hardware/"><u>The Ultimate Guide to PC Building and Upgrades - Featuring Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-premium-gaming-computers-for-2pertinade-year/"><u>The Ultimate Selection of Premium Gaming Computers for 2Pertinade Year</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computing-essentials-the-definitive-guide/"><u>Tom's Computing Essentials: The Definitive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-reviews-and-guides-by-toms-hardware/"><u>Tom's Tech Hub: In-Depth Reviews and Guides by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-reviews-and-news/"><u>Tom's Tech Insights: Comprehensive Computer Reviews and News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-computer-and-electronics-guides/"><u>Tom's Tech Reviews: Comprehensive Computer and Electronics Guides</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ate-gear-premium-lenses-for-vloggers/"><u>Ultimate Gear Premium Lenses for Vloggers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-adobe-lightroom-essentials-review/"><u>[New] Adobe Lightroom Essentials Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-maximizing-your-gaming-with-xbox-screenshots/"><u>[New] Maximizing Your Gaming with Xbox Screenshots</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagram-rising-video-view-counts/"><u>[Updated] 2024 Approved Mastering Instagram Rising Video View Counts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-energy-systems-by-fsp-next-gen-12v-6-pin-twinned-connectors-released/"><u>Advanced Energy Systems by FSP: Next-Gen 12V, 6-Pin Twinned Connectors Released</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-extends-support-with-free-16-pin-cables-to-enhance-your-rog-psus-reliability-and-security/"><u>Asus Extends Support with Free 16-Pin Cables to Enhance Your ROG PSU's Reliability and Security</u></a></li>
+<li><a href="https://win-net.techidaily.com/easy-methods-for-moving-files-from-ipadiphone-onto-a-separate-hard-drive/"><u>Easy Methods for Moving Files From iPad/iPhone Onto a Separate Hard Drive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-gear-insights-and-comparisons-by-team-toms-technology/"><u>Expert Gear Insights and Comparisons by Team Tom's Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-the-evga-supernova-series-850-gen7-psu-a-comprehensive-review/"><u>In-Depth Evaluation of the EVGA SuperNova Series 850 Gen7 PSU: A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-the-nzxt-c1500-platinum-psu-a-comprehensive-review/"><u>In-Depth Evaluation: The NZXT C1500 Platinum PSU - A Comprehensive Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c12-plusfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C12 PlusFRP Lock</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/maximize-profits-scale-up-with-digiarty-software-reselling-opportunities/"><u>Maximize Profits: Scale Up with Digiarty Software Reselling Opportunities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-through-the-excellent-5-virtual-title-experts/"><u>Navigating Through the Excellent 5 Virtual Title Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transforming-flv-videos-into-compatible-3gp-format/"><u>Step-by-Step Guide: Transforming FLV Videos Into Compatible 3GP Format</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-hardware-reviews-and-guides/"><u>Tom's Tech Insights: Expert Hardware Reviews & Guides</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-itunes-find-my-iphone-what-does-offline-mean-and-solutions/"><u>Understanding iTunes Find My iPhone: What Does 'Offline' Mean & Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-hardware-secrets-with-toms-technology-experts/"><u>Unveiling Hardware Secrets with Tom's Technology Experts</u></a></li>
 </ul></div>
 

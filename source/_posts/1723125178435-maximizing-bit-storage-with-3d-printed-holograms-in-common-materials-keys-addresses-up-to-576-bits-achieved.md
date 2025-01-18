@@ -1,7 +1,7 @@
 ---
 title: Maximizing Bit Storage with 3D-Printed Holograms in Common Materials - Keys, Addresses Up to 576 Bits Achieved
-date: 2024-08-19T03:57:01.056Z
-updated: 2024-08-20T03:57:01.056Z
+date: 2025-01-14T18:00:18.688Z
+updated: 2025-01-18T17:38:29.108Z
 tags:
   - printer
 categories:
@@ -27,6 +27,10 @@ There is no shortage of ways to store and encode data in the ever-evolving field
 
 **MORE:** [**Best 3D Printers**](https://www.tomshardware.com/best-picks/best-3d-printers)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ There is no shortage of ways to store and encode data in the ever-evolving field
 
 **MORE:** [**Best Resin 3D Printers**](https://www.tomshardware.com/best-picks/best-resin-3d-printers)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,9 +56,22 @@ There is no shortage of ways to store and encode data in the ever-evolving field
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-top-underground-sources-for-smart-fb-memes/"><u>[New] In 2024, Top Underground Sources for Smart FB Memes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-guide-to-iconic-covers-top-10-podcast-graphic-tips/"><u>[Updated] A Guide to Iconic Covers Top 10 Podcast Graphic Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-inaudible-audio-assemblers-6-low-profile-recorders-for-smartphones/"><u>[Updated] In 2024, Inaudible Audio Assemblers 6 Low-Profile Recorders for Smartphones</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-5k-display-showdown-winners-list-8/"><u>[Updated] The Ultimate 5K Display Showdown - Winner's List #8</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210406922-9781098095888-doing-all-the-good-you-can-daily/"><u>Doing All the Good You Can Daily | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceeding-300w-efficiently-how-cooler-masters-latest-all-in-one-and-air-coolers-achieve-exceptional-thermal-performance/"><u>Exceeding 300W Efficiently: How Cooler Master's Latest All-In-One and Air Coolers Achieve Exceptional Thermal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-pcs-laptops-and-devices-by-toms-technology-hub/"><u>Expert Analysis on PCs, Laptops & Devices by Tom's Technology Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-when-your-geforce-experience-wont-open-effective-solutions/"><u>How to Fix When Your GeForce Experience Won't Open: Effective Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175724256-keep-your-temperature-right-with-arctics-superior-liquid-freezer-ii-aio-cooler-for-a-steal-at-just-74/"><u>Keep Your Temperature Right with Arctic's Superior Liquid Freezer II AIO Cooler for a Steal at Just $74</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-with-tom-a-deep-dive-into-electronics-and-hardware/"><u>Navigating the Tech World with Tom: A Deep Dive Into Electronics and Hardware</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-tutorial-applying-your-customized-windows/"><u>Step-by-Step Tutorial: Applying Your Customized Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-step-by-step-process-of-partitioning-models-for-optimal-3d-printing/"><u>The Step-by-Step Process of Partitioning Models for Optimal 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-offer-top-notch-black-nylon-filament-for-3d-printing-at-a-steal-just-16kg/"><u>Unbelievable Offer: Top-Notch Black Nylon Filament for 3D Printing at a Steal – Just $16/Kg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-3d-printing-at-rapid-plus-tct-2024-discover-new-tech-filaments-and-more/"><u>Unveiling the Future of 3D Printing at Rapid + TCT 2024 – Discover New Tech, Filaments & More!</u></a></li>
+<li><a href="https://article-files.techidaily.com/voice-your-thoughts-encouraging-commentary-on-your-content/"><u>Voice Your Thoughts Encouraging Commentary on Your Content</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->

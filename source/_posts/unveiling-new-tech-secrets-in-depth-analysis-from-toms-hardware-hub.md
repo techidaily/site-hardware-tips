@@ -1,7 +1,7 @@
 ---
 title: Unveiling New Tech Secrets - In-Depth Analysis From Tom's Hardware Hub
-date: 2024-08-19T03:52:49.243Z
-updated: 2024-08-20T03:52:49.243Z
+date: 2025-01-12T17:57:30.465Z
+updated: 2025-01-18T19:15:42.665Z
 tags:
   - cooling
 categories:
@@ -42,6 +42,10 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Packing and included contents
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
@@ -64,6 +68,10 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ## Features of ID-Cooling’s FX 360 Pro
@@ -78,9 +86,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -97,18 +102,12 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -116,6 +115,10 @@ The top of the CPU black features a reflective black etched metal design.
  Included with the AIO is a tube of ID-Cooling’s new premium thermal paste, Frost X45\. The thermal conductivity of this paste is advertised at 15.2W/M-K. We’ll be taking a look at this paste in more detail in our upcoming refreshed[thermal paste tests.](https://www.tomshardware.com/best-picks/best-thermal-paste)
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -126,8 +129,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -150,16 +154,16 @@ The top of the CPU black features a reflective black etched metal design.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -192,9 +196,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -228,8 +229,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +236,22 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-pro-tips-for-efficient-and-effective-use-of-siri-on-tiktok/"><u>[New] 2024 Approved Pro Tips for Efficient and Effective Use of Siri on TikTok</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-vidlaughter-start-your-video-journey/"><u>[New] 2024 Approved VidLaughter Start Your Video Journey</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-a-compreshift-guide-to-creating-profitable-and-engaging-youtube-collaborations-for-2024/"><u>[Updated] A Compreshift Guide to Creating Profitable & Engaging YouTube Collaborations for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-gmail-to-your-apple-watch-the-ultimate-walkthrough/"><u>Connecting Gmail to Your Apple Watch – The Ultimate Walkthrough</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-a-beginners-guide-to-quantum-hdr-systems/"><u>In 2024, A Beginner’s Guide to Quantum HDR Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-use-of-android-apps-seamlessly-in-windows-11-environment/"><u>Mastering the Use of Android Apps Seamlessly in Windows 11 Environment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-digital-space-expert-advice-from-toms-hardware-team/"><u>Mastering Your Digital Space - Expert Advice From Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-high-tech-solutions-inside-look-at-toms-hardware-world/"><u>Navigating High-Tech Solutions: Inside Look at Tom's Hardware World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-trends-at-toms-hardware-hub/"><u>Navigating New Tech Trends at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-advanced-gadgets-expert-analysis-by-toms-hardware/"><u>Navigating Through Advanced Gadgets – Expert Analysis by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/razer-blade-14-analysis-compact-design-meets-maximum-performance-at-a-premium-cost/"><u>Razer Blade 14 Analysis: Compact Design Meets Maximum Performance at a Premium Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-frameworks-upgraded-new-13-inch-laptops-with-advanced-intel-and-amd-zen-4-chipset/"><u>Revolutionary Frameworks Upgraded: New 13-Inch Laptops with Advanced Intel & AMD Zen 4 Chipset</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-an-epic-deal-nitro-16-gaming-laptop-with-amd-and-rtx-acers-rtx-4070-for-just-1129/"><u>Score an Epic Deal: Nitro 16 Gaming Laptop with AMD and RTX ([Acer's RTX 4070) for Just $1,129!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-gionee-f3-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Gionee F3 Pro</u></a></li>
+</ul></div>
 

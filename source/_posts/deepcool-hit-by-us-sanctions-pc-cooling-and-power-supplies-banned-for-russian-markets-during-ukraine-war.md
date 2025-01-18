@@ -1,7 +1,7 @@
 ---
 title: "DeepCool Hit by U.S. Sanctions: PC Cooling and Power Supplies Banned for Russian Markets During Ukraine War"
-date: 2024-08-19T03:58:06.985Z
-updated: 2024-08-20T03:58:06.985Z
+date: 2025-01-15T18:51:27.042Z
+updated: 2025-01-18T19:14:41.979Z
 tags:
   - cooling
 categories:
@@ -13,19 +13,35 @@ thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70
 
 DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardware.com/tag/computex) , with new air and liquid coolers for CPUs, plus fans, PC cases, and power supplies that comply with the latest Intel ATX 3.1 and PCIe 5.1 standards. DeepCool has options ready for the newly introduced standards, including motherboards with reversed side connectors. Additionally, it expanded on a couple of its CPU cooler models while also providing some decorative options that will appeal to aesthetically minded users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## CPU coolers for air and water
 
  Image 1 of 4
 
 ![Assassin IV VC Vision CPU cooler, including its heatsink](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Assassin IV VC Vision CPU cooler, including its heatsink  (Image credit: DeepCool)
 
 ![DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024  (Image credit: DeepCool)
 
 ![DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase  (Image credit: DeepCool)
 
@@ -55,11 +71,19 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PC chassis, accessories and new power supplies
 
  Image 1 of 4
 
 ![BTF compatible DeepCool CH560R PC Case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
 
@@ -99,10 +123,6 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
   
  DeepCool cases and power supplies are designed to be future-ready, with support for the latest motherboards designs and power supply standards. The company has been making PC accessories for a while now and tends to do a good job, and the new ability to customize cases with silicone bits may appeal to a certain demographic. We look forward to seeing the retail products over the coming months.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -111,14 +131,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +144,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-master-class-extracting-and-saving-vimeo-videos/"><u>[New] In 2024, Master Class Extracting and Saving Vimeo Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-transform-streams-into-premium-4k-videos-easily/"><u>[New] In 2024, Transform Streams Into Premium 4K Videos Easily</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-list-of-12-top-notch-youtube-gaming-intros-freepaid/"><u>[New] The Ultimate List of 12 Top-Notch YouTube Gaming Intros (Free/Paid)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-vs-video-edition-gopro-hero-or-polaroid-cube-for-2024/"><u>[Updated] Vs. Video Edition GoPro Hero or Polaroid Cube for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/bark-bingo-entertainment-galore/"><u>Bark Bingo: Entertainment Galore</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tips-for-successfully-refreshing-your-samsung-televisions-software/"><u>Easy Tips for Successfully Refreshing Your Samsung Television's Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceptional-cooling-results-how-eks-all-in-one-cpu-cooler-outperforms-stock-in-managing-13900ks-heat/"><u>Exceptional Cooling Results: How EK's All-in-One CPU Cooler Outperforms Stock in Managing 13900KS Heat</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/from-photos-to-film-creating-a-professional-slideshow-with-final-cut-pro-for-2024/"><u>From Photos to Film Creating a Professional Slideshow with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-resin-3d-printer-models-a-comprehensive-review/"><u>Leading Resin 3D Printer Models : A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-expert-advice-from-toms-hardware/"><u>Navigating the Tech World: Expert Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-creating-your-own-3d-qr-code-printer/"><u>Step-by-Step Guide: Creating Your Own 3D QR Code Printer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-keyboards-that-arent-responding-to-inputs-in-windows-10-and-11/"><u>Step-by-Step Solution for Keyboards That Aren't Responding to Inputs in Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-computer-components-and-performance/"><u>Tom's Tech Insights: Exploring Computer Components and Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-gear-guide-your-comprehensive-resource-for-hardware-knowledge/"><u>Unveiling Tom's Gear Guide: Your Comprehensive Resource for Hardware Knowledge</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-viewing-unleashed-how-to-hook-up-a-fire-tv-stick-with-cellular-data/"><u>Wireless Viewing Unleashed: How to Hook Up a Fire TV Stick with Cellular Data</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why and How to Customize Your Chromebook's DNS Servers for Enhanced Online Security - Expert Tips
-date: 2025-01-06T16:06:15.775Z
-updated: 2025-01-12T19:09:17.686Z
+date: 2025-01-17T18:18:36.418Z
+updated: 2025-01-18T17:18:09.004Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,24 +120,24 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-clear-youtubes-obscured-visual-field/"><u>[New] 2024 Approved Clear Youtube's Obscured Visual Field</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-video-direction-on-instagram-in-reverse/"><u>[New] 2024 Approved Mastering Video Direction on Instagram in Reverse</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-recognizing-invisible-social-presence/"><u>[New] In 2024, Recognizing Invisible Social Presence</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-demystifying-vimeo-top-choice-for-filmmakers/"><u>[Updated] 2024 Approved Demystifying Vimeo Top Choice for Filmmakers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimizing-your-video-conferencing-process-with-slack-and-filmora-tools/"><u>[Updated] 2024 Approved Optimizing Your Video Conferencing Process with Slack and Filmora Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-x7b-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor X7b Device SIM</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-transcoding-vimeo-to-mp3-audio-file/"><u>In 2024, Transcoding Vimeo to MP3 Audio File</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-build-top-tips-and-reviews-by-toms-hardware-experts/"><u>Master Your Build: Top Tips and Reviews by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-pc-components-with-toms-expert-analysis/"><u>Mastering Gadgets and PC Components with Tom's Expert Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-modern-technology-insider-secrets-from-toms-hardware-review/"><u>Mastering Modern Technology: Insider Secrets From Tom's Hardware Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-phone-mic-for-pc-windows/"><u>Maximizing Phone Mic for PC Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-cutting-edge-hardware-with-toms-comprehensive-gear-reviews/"><u>Navigate Through Cutting-Edge Hardware with Tom's Comprehensive Gear Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-tech-choices-expert-advice-and-reviews-by-toms-hardware/"><u>Navigating Tech Choices: Expert Advice and Reviews by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-technology-with-toms-hardware-expertise/"><u>Navigating the Latest in Technology with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-its-home-collection-the-100-desk-fan-that-takes-center-stage/"><u>Noctua Unveils Its Home Collection: The $100 Desk Fan that Takes Center Stage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-reviewed-the-inside-scoop-on-hardware-from-toms-desk/"><u>Precision Reviewed - The Inside Scoop on Hardware From Tom's Desk</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-review-of-lian-lis-galahad-ii-an-all-in-one-solution-for-extreme-overclocking-rig-optimization/"><u>The Definitive Review of Lian Li's Galahad II: An All-in-One Solution for Extreme Overclocking Rig Optimization</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-top-five-gba-emulators-compatible-with-windows-pcs/"><u>Unveiling the Top Five GBA Emulators Compatible with Windows PCs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship-for-2024/"><u>[New] Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-security-victory-making-your-fb-available-again-for-2024/"><u>[New] Security Victory Making Your FB Available Again for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-15-pro-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 15 Pro Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambus-a1-printer-refund-surprise-faultless-units-shipped-out-by-error-via-tiktok-to-unwitting-customers/"><u>Bambu's A1 Printer Refund Surprise: Faultless Units Shipped Out by Error via TikTok to Unwitting Customers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-diy-animatable-wireless-charging-pad-shaped-like-a-3d-printer-under-50-by-bambu-labs/"><u>Budget-Friendly DIY Animatable Wireless Charging Pad Shaped Like a 3D Printer - Under $50 by Bambu Labs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ou-respect-intellectual-property-while-screenrecording-youtube-for-2024/"><u>Can You Respect Intellectual Property While ScreenRecording YouTube for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-advancements/"><u>Exploring Tom's Tech Advancements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/huge-savings-on-apple-airpods-grab-them-at-a-40-discount-before-independence-day-insights-from-zdnet/"><u>Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-premier-platforms-to-rework-classic-ps3-titles/"><u>In 2024, Premier Platforms to Rework Classic PS3 Titles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-guides-from-toms-digital-workshop/"><u>In-Depth Hardware Guides From Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-space-grade-metal-3d-printer-from-airbus-and-esa-to-launch-at-iss/"><u>Innovative Space-Grade Metal 3D Printer From Airbus & ESA to Launch at ISS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-electronics-with-toms-detailed-hardware-explorations/"><u>Mastering Electronics with Tom's Detailed Hardware Explorations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-your-builds-with-corsairs-icue-link-h1-h150i-rgb-a-comprehensive-review/"><u>Maximizing Your Builds with Corsair's iCUE Link H1 🖤H150i RGB - A Comprehensive Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-virtual-webcams-and-live-cam-software-discover-manycam/"><u>Top Virtual Webcams and Live Cam Software: Discover ManyCam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-performance-unveiling-the-ultimate-selection-of-gaming-routers/"><u>Top-Tier Performance: Unveiling the Ultimate Selection of Gaming Routers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-with-toms-insights/"><u>Unveiling the Latest in Computer Hardware with Tom's Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/warriors-way-selecting-superior-hand-to-hand-titles-for-2024/"><u>Warrior's Way Selecting Superior Hand-to-Hand Titles for 2024</u></a></li>
 </ul></div>
 

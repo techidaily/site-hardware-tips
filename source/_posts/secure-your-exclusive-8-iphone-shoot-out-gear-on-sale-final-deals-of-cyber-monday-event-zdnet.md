@@ -1,7 +1,7 @@
 ---
 title: Secure Your Exclusive $8 iPhone Shoot-Out Gear on Sale - Final Deals of Cyber Monday Event | ZDNET.
-date: 2025-01-10T00:49:33.325Z
-updated: 2025-01-12T17:40:49.079Z
+date: 2025-01-16T17:30:04.374Z
+updated: 2025-01-18T18:40:02.034Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,17 +81,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-stream-start-small-see-big-on-youtube/"><u>[New] In 2024, Earning Stream Start Small, See Big on YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-guide-to-investing-in-quality-8-5k-panels/"><u>[New] In 2024, The Ultimate Guide to Investing in Quality #8 5K Panels</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ace-your-brand-strategy-with-these-reddit-mastery-methods/"><u>[Updated] 2024 Approved Ace Your Brand Strategy with These Reddit Mastery Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-viewers-interest-with-innovative-valorant-thumbnail-ideas/"><u>[Updated] In 2024, Enhancing Viewers' Interest with Innovative Valorant Thumbnail Ideas</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-silliness-set-to-sound-10-hilarious-hits/"><u>[Updated] In 2024, Silliness Set to Sound 10 Hilarious Hits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/addressing-the-elephants-foot-advanced-strategies-for-perfect-3d-prints/"><u>Addressing the 'Elephant's Foot': Advanced Strategies for Perfect 3D Prints</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amds-economical-pcie-40-motherboards-the-ultimate-buy-guide-to-b550-chipset-options/"><u>AMD's Economical PCIe 4.0 Motherboards - The Ultimate Buy Guide to B550 Chipset Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175727359-beat-the-heat-in-style-unbeatable-deal-on-the-best-air-cooler-ever-thermalrights-peerless-assassin-120-se-at-just-33/"><u>Beat the Heat in Style - Unbeatable Deal on the Best Air Cooler Ever, Thermalright's Peerless Assassin 120 SE at Just $33</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For ZTE Nubia Flip 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-modern-retro-consoles/"><u>The Best Modern Retro Consoles</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125145273-transform-your-design-with-the-affordable-elegoo-neptune-x4-pro-for-only-284/"><u>Transform Your Design with the Affordable Elegoo Neptune X4 Pro for Only $284</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-simplicity-in-video-creation-a-guide-to-10-easy-to-make-youtube-videos/"><u>[Updated] Simplicity in Video Creation A Guide to 10 Easy-to-Make YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-maximum-capacity-choices-ultimate-cloud-service-list/"><u>2024 Approved Maximum Capacity Choices Ultimate Cloud Service List</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-screen-companionship-the-right-cms-guidebook/"><u>2024 Approved Ultimate Screen Companionship The Right CMS Guidebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/culmination-of-clear-windows-11-screens/"><u>Culmination of Clear Windows 11 Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-home-and-office-it-infrastructure-with-top-nas-units-for-backups-streaming-and-more/"><u>Elevate Home and Office IT Infrastructure with Top NAS Units for Backups, Streaming & More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-tech-a-deep-dive-into-hardware-with-tom/"><u>Mastering Your Tech: A Deep Dive Into Hardware with Tom</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pros-and-cons-of-hero-series-vs-polaroids-video-editors/"><u>Pros & Cons of Hero Series Vs. Polaroid's Video Editors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-to-stellar-custom-shorts-thumbnails/"><u>Step-by-Step to Stellar Custom Shorts Thumbnails</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-guides-and-in-depth-analysis/"><u>Tom's Tech Reviews: Expert Guides and In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-on-toms-hardware-review-platform/"><u>Unlocking Performance Secrets on Tom's Hardware Review Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/valkyire-sync-240-aio-liquid-chiller-reviewed-outstanding-performance-marred-by-clunky-applications/"><u>Valkyire Sync 240 AIO Liquid Chiller Reviewed - Outstanding Performance Marred by Clunky Applications</u></a></li>
 </ul></div>
 

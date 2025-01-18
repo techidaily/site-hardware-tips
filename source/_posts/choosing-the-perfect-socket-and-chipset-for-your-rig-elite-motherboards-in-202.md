@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Perfect Socket and Chipset for Your Rig: Elite Motherboards in 202"
-date: 2024-08-19T03:56:39.993Z
-updated: 2024-08-20T03:56:39.993Z
+date: 2025-01-15T18:52:01.838Z
+updated: 2025-01-18T18:16:05.450Z
 tags:
   - best-picks
 categories:
@@ -31,15 +31,16 @@ For a college student, there is no more important tool than a laptop. It's a cat
 * **Consider how you take notes:** A good keyboard is always important, especially when you're writing papers. But some students still prefer to take notes by hand, and those people will want to consider a convertible or detachable 2-in-1 with a stylus.
 * **See if you can get a student discount:** Some stores will offer you a discount with your proof of affiliation with a university or college. It's also possible that your school will have a relationship with a vendor for deals on certain models. Others may just throw in a gift card or some free earbuds. If you can find a deal, great; school is expensive enough.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best College Laptops You Can Buy Today
 
 ![MacBook Air M2](https://cdn.mos.cms.futurecdn.net/DKP4keBc9LGTkUjBEEA5o4-320-80.jpg)
 
  The MacBook Air with M2 is the best college laptop you can buy with a thin design and plenty of power.  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [1. MacBook Air (M2)](https://www.tomshardware.com/reviews/apple-macbook-air-m2-2022)
 
 Popular in the Lecture Hall
@@ -123,9 +124,14 @@ Display notch will bother some people
 ![MacBook Air (15-inch)](https://cdn.mos.cms.futurecdn.net/UDoAbddJqaTrP6izFdnHC-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [2. MacBook Air (15-inch)](https://www.tomshardware.com/reviews/macbook-air-15-inch-m2)
 
@@ -191,9 +197,6 @@ M2 allows for just one external display
 
 ![HP Pavilion Plus (14-eh0097nr)](https://cdn.mos.cms.futurecdn.net/CLE6RyXdXug55sCbreZT4D-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  The HP Pavilion Plus 14 is one of the best college laptops thanks to top tier screen specs at a good price.  (Image credit: Tom's Hardware)
 
 ### [3. HP Pavilion Plus 14](https://www.tomshardware.com/reviews/hp-pavilion-plus-14)
@@ -256,7 +259,15 @@ Lots of pre-loaded software
 
 ![Lenovo Yoga 9i Gen 8](https://cdn.mos.cms.futurecdn.net/crqHCD8yzziQKcv75mx5X4-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Lenovo Yoga 9i is one of the best college laptops with great sound and a variety of ports.  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [4. Lenovo Yoga 9i (Gen 8)](https://www.tomshardware.com/reviews/lenovo-yoga-9i-gen-8)
 
@@ -332,6 +343,10 @@ Loud fans
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [5. Microsoft Surface Pro 9](https://www.tomshardware.com/reviews/microsoft-surface-pro-9-sq3-arm)
 
 For the Dedicated Notetaker
@@ -398,14 +413,8 @@ Keyboard adds a lot to the starting price
 
 ![Acer Nitro 5 (2022)](https://cdn.mos.cms.futurecdn.net/JkffBxR9pgpZeYTCtnEgFG-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### [6. Acer Nitro 5](https://www.tomshardware.com/reviews/acer-nitro-5-2022-review-gaming-under-dollar1000)
 
 For Budget College Gamers
@@ -526,14 +535,8 @@ Port selection could be better
 
 ![Asus ROG Zephyrus G14](https://cdn.mos.cms.futurecdn.net/uygXtWBTEyYRsMrbDLLHcH-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [8. Asus ROG Zephyrus G14](https://www.tomshardware.com/reviews/asus-rog-zephyrus-g14-amd-ryzen-6900hs-radeon-rx-6800s)
 
 Power and Battery Life
@@ -601,8 +604,9 @@ Pricey
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Finding Discounts on the Best College Laptops
 
  Whether you're shopping for one of the best gaming laptops or another model that didn't quite make our list, you may find some savings by checking out our lists of[Dell coupon codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fdell.com) ,[HP coupon codes](https://www.tomshardware.com/coupons/hp.com) ,[Lenovo coupon codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Flenovo.com) ,[Razer promo codes](https://www.tomshardware.com/coupons/razer.com) or[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) .
@@ -716,15 +720,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -733,4 +736,19 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-maximizing-impact-with-tailored-youtube-cards-and-ends/"><u>[Updated] 2024 Approved Maximizing Impact with Tailored Youtube Cards and Ends</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-tutorial-on-youtube-thumbnail-extraction-for-all-os-enthusiasts/"><u>[Updated] 2024 Approved Tutorial on YouTube Thumbnail Extraction for All OS Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-achieve-stunning-visual-impact-top-color-grading-tutorials/"><u>[Updated] Achieve Stunning Visual Impact - Top Color Grading Tutorials</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-elevating-social-media-presence-adding-linktree-to-tiktok-bios/"><u>[Updated] Elevating Social Media Presence Adding Linktree to TikTok Bios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-glimpsing-at-huawei-p10s-thermal-management-tech/"><u>[Updated] Glimpsing at Huawei P10's Thermal Management Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-barriers-in-overclocked-performance-collaborative-leap-by-intel-and-exxonmobil-with-superior-liquid-cooling-for-2000w-tdp-xeon-chipsets/"><u>Breaking Barriers in Overclocked Performance: Collaborative Leap by Intel and ExxonMobil with Superior Liquid Cooling for 2000W TDP Xeon Chipsets</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easily-install-your-canon-device-on-windows-with-free-scanprinter-drivers/"><u>Easily Install Your Canon Device on Windows with Free Scan/Printer Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-top-recommendations-outstanding-monitors-to-upgrade-your-setup/"><u>Expert's Top Recommendations: Outstanding Monitors to Upgrade Your Setup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/four-effective-ways-to-bypass-blocked-torrent-sites-and-regain-access/"><u>Four Effective Ways to Bypass Blocked Torrent Sites & Regain Access</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-components-with-toms-hardware-experts/"><u>Mastering Gadgets and Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-designs-with-phrozens-spectacular-four-tone-3d-printing-machine/"><u>Revolutionize Your Designs with Phrozen's Spectacular Four-Tone 3D Printing Machine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-geometric-future-eskimo-jr-24-stylish-silence-overrides-average-output-in-review/"><u>Unveiling the Geometric Future Eskimo Jr. 24: Stylish Silence Overrides Average Output in Review</u></a></li>
+</ul></div>
 

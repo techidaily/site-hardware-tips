@@ -1,7 +1,7 @@
 ---
 title: Exploring the Zen 5 Advances From AMD - New Era of Smaller Cores and Sophisticated Dual CCX Chip Architecture Revealed
-date: 2024-08-19T03:56:47.511Z
-updated: 2024-08-20T03:56:47.511Z
+date: 2025-01-13T18:27:08.122Z
+updated: 2025-01-18T18:34:42.003Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,17 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-behind-the-scenes-of-youtube-income-generation/"><u>[New] 2024 Approved Behind the Scenes of YouTube Income Generation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-complete-guide-to-successful-youtube-eluding-these-8-common-slips/"><u>[New] The Complete Guide to Successful YouTube Eluding These 8 Common Slips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-boost-engagement-with-free-intro-templates/"><u>[Updated] Boost Engagement with Free Intro Templates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unleash-the-power-of-instagram-footage-a-compilation-of-mp4-conversion-tools-for-pc-and-mac/"><u>2024 Approved Unleash the Power of Instagram Footage A Compilation of MP4 Conversion Tools for PC & Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impact-of-major-contract-terminations-forces-asetek-to-halt-revenue-estimates/"><u>Impact of Major Contract Terminations Forces Asetek to Halt Revenue Estimates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/light-up-dull-iphone-videos-in-seconds/"><u>Light Up Dull Iphone Videos in Seconds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-with-toms-authoritative-reviews/"><u>Navigating the Tech World with Tom's Authoritative Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-cooling-technology-from-noctua-targets-high-performance-nvidia-gh2-superchip/"><u>Next-Level Cooling Technology From Noctua Targets High-Performance NVIDIA GH2# Superchip</u></a></li>
+<li><a href="https://techidaily.com/solved-microsoft-excel-2000-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2000 File Error The document cannot be saved</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-ultimate-computer-hardware-analysis/"><u>Tom's Tech Review: Ultimate Computer Hardware Analysis</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

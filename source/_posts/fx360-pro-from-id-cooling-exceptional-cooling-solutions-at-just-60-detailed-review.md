@@ -1,7 +1,7 @@
 ---
 title: "FX360 Pro From ID-Cooling: Exceptional Cooling Solutions at Just $60 – Detailed Review"
-date: 2024-08-19T03:55:48.651Z
-updated: 2024-08-20T03:55:48.651Z
+date: 2025-01-16T16:09:17.213Z
+updated: 2025-01-18T17:03:32.444Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
 ![Magnetic mountable colour display on the Assassin IV VC Vision CPU cooler ](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Magnetic mountable colour display on the Assassin IV VC Vision CPU cooler  (Image credit: DeepCool)
 
  DeepCool says it improved its coolers compared to the previous iteration and introduced the Assassin IV VC Vision CPU cooler that has a vapor chamber in its base. This provides for better heat transfer and it's capable of cooling CPUs rated with for up to 300 watts TDP. The cooler also has a built-in display to show data about CPU usage, temperature, power draw, and clock speed.  
@@ -38,6 +42,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  DeepCool has had its AK620 and AK400 CPU coolers with similar display systems in the market available for a while, and[we already reviewed the former](https://www.tomshardware.com/reviews/deepcool-ak620-digital) . The difference between these is that the Assassin IV VC has a vapor chamber on the heat base. A few months ago, we reviewed the[DeepCool Assassin 4S CPU cooler](https://www.tomshardware.com/pc-components/air-cooling/deepcool-assassin-4s-review) that doesn't have the display or the vapor chamber, so it will be interesting to see how much of an improvement it provides.
 
 ![DeepCool AN400 CPU Cooler for SFF builds](https://cdn.mos.cms.futurecdn.net/XTMjAMoPpBDMfxZ74ADFBB-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: DeepCool)
 
@@ -47,6 +55,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
 ![DeepCool LP Matrix AIO CPU Coolers with 240mm and 360mm variants.](https://cdn.mos.cms.futurecdn.net/w67VwSrgCufkGWhFrmFEAS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: DeepCool)
 
  For liquid cooling, DeepCool introduced its LP Matrix AIO series that has a dot matrix screen on its waterblock, along with a fifth generation pump and ARGB effects on the fans and the sides of the display. It's available in both 240mm and 360mm form factors.  
@@ -55,11 +67,19 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PC chassis, accessories and new power supplies
 
  Image 1 of 4
 
 ![BTF compatible DeepCool CH560R PC Case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
 
@@ -91,6 +111,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
 ![Sleeved modular cables](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Sleeved modular cables  (Image credit: DeepCool)
 
  DeepCool also showed newer iterations of its 120mm and 140mm fans called the FD12 and FD14 series, available in black and white, as well as with or without ARGB support. Like many other fan makers, DeepCool uses its own proprietary 8-pin daisy chain cables that also allow lighting control.  
@@ -99,9 +123,6 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
   
  DeepCool cases and power supplies are designed to be future-ready, with support for the latest motherboards designs and power supply standards. The company has been making PC accessories for a while now and tends to do a good job, and the new ability to customize cases with silicone bits may appeal to a certain demographic. We look forward to seeing the retail products over the coming months.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -110,14 +131,11 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +144,24 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-skyrocketing-engagement-on-igtv-with-smart-hash-tagging/"><u>2024 Approved Skyrocketing Engagement on IGTV with Smart Hash Tagging</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-component-selection-by-toms-electronics-hub/"><u>Advanced Component Selection by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-breakdowns-by-toms-hardware-experts/"><u>Advanced Computing Breakdowns by Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-copier-facilement-a-laide-dun-cloneur-dynamique-pour-windows-11-deux-techniques-simples/"><u>Comment Copier Facilement À L'aide D'un Cloneur Dynamique Pour Windows 11 : Deux Techniques Simples</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-gaming-portability-nintendo-switch-lite-vs-nintendo-switch-oled/"><u>Comparing Gaming Portability: Nintendo Switch Lite Vs. Nintendo Switch OLED</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125133999-dont-miss-out-on-top-tier-performance-save-75-with-the-editors-choice-elegoo-neptune-4-pro/"><u>Don't Miss Out on Top-Tier Performance - Save $75 with the Editor's Choice, Elegoo Neptune 4 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-pc-build-with-the-latest-upgrade-magnetized-mounting-for-teamgroups-t-force-siren-aio-water-cooler-line/"><u>Elevate Your PC Build with the Latest Upgrade - Magnetized Mounting for TeamGroup's T-Force Siren AIO Water Cooler Line</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-eliminate-the-dark-mode-dilemma-in-rainbow-six-siege-for-pc-gamers/"><u>Expert Advice to Eliminate the Dark Mode Dilemma in Rainbow Six Siege for PC Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/find-a-common-denominator-for-the-fractions-on-the-left-side-of-the-equation-the-least-common-multiple-lcm-of-5-and-n-is-20-so-we-will-use-that-as-our-commo375/"><u>Find a Common Denominator for the Fractions on the Left Side of the Equation. The Least Common Multiple (LCM) of 5 and N Is 20, so We Will Use that as Our Common Denominator.</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-the-upcoming-tesla-smartphone-projected-costs-release-schedule-and-tech-specs-revealed/"><u>Inside Look: The Upcoming Tesla Smartphone - Projected Costs, Release Schedule, & Tech Specs Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722019219605-is-paying-for-chatgpt-plus-subscription-justified-an-in-depth-review/"><u>Is Paying for ChatGPT Plus Subscription Justified? An In-Depth Review.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-3d-printing-models-under-250-discover-fdm-sla-and-more-innovative-solutions/"><u>Leading 3D Printing Models Under $250 – Discover FDM, SLA & More Innovative Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pc-cooling-essentials-comparing-pwm-and-dc-fan-technologies/"><u>PC Cooling Essentials: Comparing PWM and DC Fan Technologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-process-of-upgrading-your-fbx-models-to-obj-format-for-top-quality-3d-prints/"><u>The Comprehensive Process of Upgrading Your FBX Models to OBJ Format for Top-Quality 3D Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-solving-the-issue-of-filament-grinding/"><u>Ultimate Guide: Solving the Issue of Filament Grinding</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: DIY Enthusiast Creates Homemade Liquid Nitrogen Using Common Cooling Equipment
-date: 2024-08-19T03:57:06.082Z
-updated: 2024-08-20T03:57:06.082Z
+date: 2025-01-15T16:31:49.810Z
+updated: 2025-01-18T17:49:10.981Z
 tags:
   - cooling
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/q9ZTn5kSryr2z5YvUozQ4K-320-80.png
 The AIO liquid cooler market has become much more competitive in the past year or so, resulting in stronger products available for lower prices than ever. Over the past year, top-performing AIOs have been available for as low as $120 USD. Today we’ll be covering ID-Cooling’s latest 360mm AIO, the FX360 Pro, which is available for only $60 – a price lower than many high-end air coolers.
 
  With such a budget price tag, I have to wonder if it’s actually strong enough to tame a hot CPU like Intel’s i7-13700K. Does the FX 360 Pro have what it takes to earn a spot on our[best AIO coolers](https://www.tomshardware.com/best-picks/best-aio-coolers) list? We’ll have to put it through testing to find out. But first, here are the specifications from ID-Cooling.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cooler specifications
 
@@ -64,11 +68,12 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -81,9 +86,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -100,9 +102,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
@@ -110,8 +109,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 **▶ Frost X45 Thermal Paste**
@@ -120,9 +120,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶[**TF-12025-Pro 120mm fans**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FID-COOLING-120mm-Cooler-Radiator-Chassis%2Fdp%2FB0BV8ZRJMW%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1257997566399542543-20)
@@ -130,6 +127,10 @@ The top of the CPU black features a reflective black etched metal design.
  I say this on almost every cooler review, but there’s more to a cooler than just the heatsink or radiator. The bundled fans have a significant impact on cooling and noise levels, as well as how the cooler looks in your case.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -152,6 +153,10 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## LGA1700 Socket Bending
 
@@ -218,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,4 +236,18 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-elevate-your-digital-footprint-crafting-compelling-shorts-thumbnails/"><u>[New] In 2024, Elevate Your Digital Footprint Crafting Compelling Shorts Thumbnails</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-techniques-to-prevent-surface-defects-on-your-3d-printed-objects/"><u>Effective Techniques to Prevent Surface Defects on Your 3D Printed Objects</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iconic-80s-aesthetic-techniques-for-cutting-videos/"><u>Iconic 80S Aesthetic Techniques for Cutting Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-list-of-free-video-meeting-tools-for-professionals-and-educators/"><u>In 2024, The Ultimate List of Free Video Meeting Tools for Professionals & Educators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-preparedness-in-your-streams/"><u>In 2024, Unleashing the Power of Preparedness in Your Streams</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/moving-your-files-smoothly-ssd-to-hdd-cloning-techniques-unveiled/"><u>Moving Your Files Smoothly: SSD to HDD Cloning Techniques Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-equipment-mastery-by-tom/"><u>Navigating Computer Equipment Mastery by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computer-hardware-with-toms-tech-advice/"><u>Navigating the Latest in Computer Hardware with Tom's Tech Advice</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/premium-slow-motion-spinning-deck-animations-high-quality-gifs-and-videos-by-yl-computing/"><u>Premium Slow-Motion Spinning Deck Animations - High Quality GIFs & Videos by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-vcompdll-file-not-found-troubleshooting-steps/"><u>Resolving 'vcomp.dll' File Not Found: Troubleshooting Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-features-and-performance-of-crealitys-k1-c-carbon-edition/"><u>The Ultimate Guide to the Features and Performance of Creality's K1 C Carbon Edition</u></a></li>
+</ul></div>
 

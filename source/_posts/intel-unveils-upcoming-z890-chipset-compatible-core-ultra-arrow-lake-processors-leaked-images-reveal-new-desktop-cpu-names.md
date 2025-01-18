@@ -1,7 +1,7 @@
 ---
 title: Intel Unveils Upcoming Z890 Chipset-Compatible Core Ultra Arrow Lake Processors – Leaked Images Reveal New Desktop CPU Names
-date: 2024-08-19T03:58:23.856Z
-updated: 2024-08-20T03:58:23.856Z
+date: 2025-01-11T19:11:13.844Z
+updated: 2025-01-18T17:36:07.896Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,22 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-youtube-tunes-integration-with-visual-content/"><u>[New] YouTube Tunes Integration with Visual Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-bridging-mac-and-monetization-imovie-editing-to-youtube-success-for-2024/"><u>[Updated] Bridging Mac & Monetization IMovie Editing to YouTube Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-judicious-use-of-ping-in-windows-operations/"><u>A Guide to Judicious Use of Ping in Windows Operations</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-w10w11s-error-code-e1/"><u>Disabling W10/W11's Error Code E1</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-live-to-recorded-simplifying-facebook-broadcasting/"><u>From Live to Recorded Simplifying Facebook Broadcasting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impressive-performance-ek-solutions-all-in-one-cpu-cooler-lowers-core-i7-13900ks-heat-by-up-to-20c/"><u>Impressive Performance: EK Solution's All-in-One CPU Cooler Lowers Core I7 13900KS Heat by Up to 20°C</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-insta-photo-and-video-reposts/"><u>In 2024, Mastering Insta Photo & Video Reposts</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovations-in-computer-tech-revealed-by-tomn-hardware-experts/"><u>Innovations in Computer Tech Revealed by Tom'n Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-gadget-review-cutting-edge-performance-breakdowns/"><u>Inside Tom's Gadget Review: Cutting-Edge Performance Breakdowns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-devices-with-tips-from-toms-hardware-experts/"><u>Master Your Devices with Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-flawless-3d-printouts-strategies-for-preventing-unwanted-holes-and-gaps/"><u>Mastering Flawless 3D Printouts: Strategies for Preventing Unwanted Holes and Gaps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-insightful-tips-from-toms-hardware-team/"><u>Navigating the World of Tech: Insightful Tips From Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-computing-knowledge-from-toms-hardware-hub/"><u>Precision Computing Knowledge From Tom's Hardware Hub</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-the-issue-of-a-non-responsive-pc-expert-advice-from-yl-computings-tech-specialists/"><u>Solving the Issue of a Non-Responsive PC: Expert Advice From YL Computing's Tech Specialists</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->

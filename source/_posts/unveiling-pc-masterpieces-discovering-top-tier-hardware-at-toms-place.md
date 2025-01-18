@@ -1,7 +1,7 @@
 ---
 title: "Unveiling PC Masterpieces: Discovering Top-Tier Hardware at Tom's Place"
-date: 2024-08-19T03:54:54.175Z
-updated: 2024-08-20T03:54:54.175Z
+date: 2025-01-12T16:25:43.315Z
+updated: 2025-01-18T16:59:36.741Z
 tags:
   - cooling
 categories:
@@ -69,6 +69,10 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
   
  The Freezer 36 sells for[$25.40](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG6NBSJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8205773312092432340-20) , while the Freezer 36 Black will set you back[$28.48](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH14935%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-9363665590588779081-20) . Meanwhile, the Freezer 36 CO retails for[$27.71](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG62KBZ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3116022598048932967-20) . The RGB versions carry a slightly higher premium, with the Freezer 36 A-RGB White and Freezer 36 A-RGB Black selling at[$33.87](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH4YDS9%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8017403963971760368-20) and[$33.10](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH22MT1%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1231453507516044270-20) , respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -77,14 +81,11 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -93,8 +94,22 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-flawless-photography-with-picarts-background-erasure-tricks/"><u>[New] Flawless Photography with PicArt’s Background Erasure Tricks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-instantly-post-photosvideos-to-twitter-skipping-retweets/"><u>[New] In 2024, Instantly Post Photos/Videos to Twitter, Skipping Retweets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-brands-offering-the-best-steadicams-for-dslr-users/"><u>2024 Approved Leading Brands Offering the Best Steadicams for DSLR Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-navigating-googles-podcast-uploading-guide/"><u>2024 Approved Navigating Google's Podcast Uploading Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/analyzing-the-balance-of-excellence-and-ordinary-in-marvels-avengers/"><u>Analyzing the Balance of Excellence and Ordinary in Marvel's Avengers</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nubia-z50-ultra-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nubia Z50 Ultra Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/connect-with-stars-write-inspiring-biographies-on-whatsapp-for-2024/"><u>Connect with Stars – Write Inspiring Biographies on WhatsApp for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-computer-insights-provided-by-toms-tech-reviewers/"><u>Cutting-Edge Computer Insights Provided by Tom's Tech Reviewers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-selecting-superior-pc-components-from-toms-hardware-hub/"><u>Expert Advice on Selecting Superior PC Components From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-motherboards-and-more-at-toms-hardware-corner/"><u>Mastering Motherboards & More at Tom’s Hardware Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mobile-cpus-hit-by-new-glitch-intel-dissects-causes-as-separate-from-persistent-bug-in-stationary-counterparts/"><u>Mobile CPUs Hit by New Glitch: Intel Dissects Causes as Separate From Persistent Bug in Stationary Counterparts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-14-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 14 Pro Max Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performer-in-the-market-id-coolings-advanced-frozn-a620-pro-se-air-cooler-review-exceptional-quality-and-price-point-combination/"><u>Top Performer in the Market: ID-Cooling's Advanced Frozn A620 Pro SE Air Cooler Review - Exceptional Quality and Price Point Combination</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-potential-with-updated-amd-drivers-in-windows-11/"><u>Unleashing Potential with Updated AMD Drivers in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/when-crowdfunding-meets-corporate-buyouts-the-remarkable-journey-from-kickstarter-to-acquisition/"><u>When Crowdfunding Meets Corporate Buyouts: The Remarkable Journey From Kickstarter to Acquisition</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->

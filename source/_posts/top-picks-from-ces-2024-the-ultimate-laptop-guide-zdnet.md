@@ -1,7 +1,7 @@
 ---
 title: "Top Picks From CES 2024: The Ultimate Laptop Guide - ZDNet"
-date: 2025-01-09T20:19:47.911Z
-updated: 2025-01-12T21:16:05.534Z
+date: 2025-01-13T17:24:35.425Z
+updated: 2025-01-18T16:34:08.733Z
 tags:
   - laptops
 categories:
@@ -95,10 +95,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C617c5761-e71f-4bb6-b846-2e2bc6108bec%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 ### Amazon laptop deals
@@ -114,6 +110,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C617c5761-e71f-4bb6-b846-2e2bc6108bec%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C617c5761-e71f-4bb6-b846-2e2bc6108bec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -137,6 +137,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple MacBook deals
 
 [Apple MacBook Air, 15-inch, M2 chip, 1TB deal for $1,599 (save $300) $1,599 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-air-15-laptop-m2-chip-16gb-memory-1tb-ssd-midnight%2F6382794.p%3FskuId%3D6382794&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -148,10 +152,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Pro, refurbished, 15-inch, 16GB RAM deal for $800 (save $2,000) $800 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-refurbished-macbook-pro-15-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-560x-512gb-ssd-space-gray%2F6515403.p%3FskuId%3D6515403&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
 
@@ -165,10 +165,6 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -178,9 +174,17 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -193,7 +197,7 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best deals by retailer
@@ -202,10 +206,6 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,16 +257,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unmissable-upgrades-top-8-tech-and-tools-reshaping-modern-enterprises/"><u>[New] 2024 Approved Unmissable Upgrades Top 8 Tech & Tools Reshaping Modern Enterprises</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-video-editing-on-ios-and-android-devices/"><u>[Updated] Cutting-Edge Video Editing on iOS and Android Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-visual-verve-essential-guide-for-iphones-photo-cropping/"><u>[Updated] Visual Verve Essential Guide for iPhone's Photo Cropping</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/cinemas-best-hope-fueled-film-selections-for-2024/"><u>Cinema's Best Hope-Fueled Film Selections for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-how-to-stop-your-3d-printer-filament-from-getting-twisted-up/"><u>Expert Advice on How to Stop Your 3D Printer Filament From Getting Twisted Up</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-hardware-solutions-from-toms-computing-guide/"><u>Expert Insights on Hardware Solutions From Tom's Computing Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-pc-components-a-journey-with-tom/"><u>Exploring PC Components - A Journey with Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-american-soil-to-your-desk-prusas-launch-of-domestic-3d-devices-and-supplies/"><u>From American Soil to Your Desk: Prusa's Launch of Domestic 3D Devices & Supplies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/from-aspect-ratio-woes-to-winning-instagram-square-video/"><u>From Aspect Ratio Woes to Winning Instagram Square Video</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fx360-pro-cooler-by-id-cooling-exceptional-performance-at-just-60/"><u>FX360 Pro Cooler by ID-Cooling - Exceptional Performance at Just $60</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-and-tricks-to-effectively-use-the-windows-key/"><u>Tips & Tricks to Effectively Use the Windows Key</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-creator-to-critic-evaluating-video-value-across-platforms/"><u>[New] From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-guide-transforming-social-media-sounds-into-mobile-alerts/"><u>[Updated] Innovative Guide Transforming Social Media Sounds Into Mobile Alerts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-top-charts-tactics-when-to-go-live-on-youtube/"><u>[Updated] Top Charts Tactics When to Go Live on YouTube</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-the-samsung-galaxy-a71-5g-the-smart-and-affordable-choice-for-tech-enthusiasts/"><u>A Comprehensive Review of the Samsung Galaxy A71 5G - The Smart and Affordable Choice for Tech Enthusiasts</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-8ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 8/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722881231678-master-the-art-of-clear-digital-tv-in-any-room-maximizing-your-internal-antennas-potential-for-optimal-reception/"><u>Master the Art of Clear Digital TV in Any Room: Maximizing Your Internal Antenna's Potential for Optimal Reception</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-maximize-storage-a-step-by-step-guide-to-clearing-space-for-fcpx/"><u>New 2024 Approved Maximize Storage A Step-by-Step Guide to Clearing Space for FCPX</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-video-illumination-top-strategies-for-immaculate-cinematography/"><u>Pro Video Illumination Top Strategies for Immaculate Cinematography</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pull-off-professional-video-edits-with-ken-burns-effect/"><u>Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-technology-with-toms-experts-comprehensive-reviews-and-tips/"><u>Understanding Technology with Tom's Experts: Comprehensive Reviews & Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-savings-on-storage-the-ultimate-ssdhard-drive-guide-for-202eby/"><u>Unlock Savings on Storage: The Ultimate SSD/Hard Drive Guide for 202Eby</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-massive-data-capacity-samsungs-custom-petabyte-ssd-leasing-programme/"><u>Unlocking Massive Data Capacity: Samsung's Custom Petabyte SSD Leasing Programme</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-the-ultimate-guide-to-computer-hardware-by-tom/"><u>Unlocking Performance Secrets: The Ultimate Guide to Computer Hardware by Tom</u></a></li>
 </ul></div>
 

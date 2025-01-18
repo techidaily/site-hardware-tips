@@ -1,7 +1,7 @@
 ---
 title: Mastering Hardware with Tom's Technology Hub
-date: 2024-08-19T03:57:46.946Z
-updated: 2024-08-20T03:57:46.946Z
+date: 2025-01-17T18:00:50.679Z
+updated: 2025-01-18T19:32:43.340Z
 tags:
   - cooling
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/a4we4VmD22oegqjPH8fmU3-320-80.png
 The AIO liquid cooler market has become much more competitive in the past year or so, resulting in stronger products available for lower prices than ever. Over the past year, top-performing AIOs have been available for as low as $120 USD. Today we’ll be covering ID-Cooling’s latest 360mm AIO, the FX360 Pro, which is available for only $60 – a price lower than many high-end air coolers.
 
  With such a budget price tag, I have to wonder if it’s actually strong enough to tame a hot CPU like Intel’s i7-13700K. Does the FX 360 Pro have what it takes to earn a spot on our[best AIO coolers](https://www.tomshardware.com/best-picks/best-aio-coolers) list? We’ll have to put it through testing to find out. But first, here are the specifications from ID-Cooling.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cooler specifications
 
@@ -64,11 +68,16 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -80,6 +89,10 @@ Included in the box are the following:
  As an AIO does not interfere or overhang DIMM slots in any manner, all sizes of RAM, no matter how tall, are compatible with ID-Cooling’s FX360 Pro. The tubes of the of the AIO are braided and are fully rotatable for ease of installation and setup.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -97,10 +110,6 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
@@ -116,8 +125,9 @@ The top of the CPU black features a reflective black etched metal design.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  ▶[**TF-12025-Pro 120mm fans**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FID-COOLING-120mm-Cooler-Radiator-Chassis%2Fdp%2FB0BV8ZRJMW%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1257997566399542543-20)
@@ -126,9 +136,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -151,9 +158,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
@@ -219,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -237,4 +236,23 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-boosting-traffic-on-youtube-mastering-the-art-of-video-outros/"><u>[New] 2024 Approved Boosting Traffic on YouTube Mastering the Art of Video Outros</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-diy-youtube-music-collection-a-comprehensive-online-and-app-method/"><u>[New] 2024 Approved DIY YouTube Music Collection A Comprehensive Online & App Method</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unlocking-stream-potential-your-journey-with-obs-youtube-and-twitch/"><u>[Updated] 2024 Approved Unlocking Stream Potential Your Journey with OBS, YouTube, & Twitch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-overclocking-keep-your-computer-chill-for-less-than-45-deepcool-as5/"><u>Affordable Overclocking: Keep Your Computer Chill for Less than $45 - DeepCool AS5</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-online-engagement-with-advanced-cookiebot-tools/"><u>Boost Your Online Engagement with Advanced Cookiebot Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-performance-advanced-computer-guides-by-tomn-hardware/"><u>Discover Top Performance: Advanced Computer Guides by Tom'n Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-insights-from-toms-hardware-digest/"><u>Expert Reviews & Insights From Tom's Hardware Digest</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-converter-transform-mkv-files-into-wmv-format-with-movavi/"><u>Free Online Converter: Transform MKV Files Into WMV Format with Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-13-mini-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 13 mini without Password?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-era-of-superior-cooling-the-150-noctua-nh-d15g2-flagship-cpu-air-cooler-is-now-available/"><u>Introducing the New Era of Superior Cooling: The $150 Noctua NH-D15G2 Flagship CPU Air Cooler Is Now Available</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-performance-your-ultimate-source-for-hardware-analysis-and-advice-toms-tech-wisdom/"><u>Mastering Performance: Your Ultimate Source for Hardware Analysis and Advice - Tom's Tech Wisdom</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/rediscovering-retro-gaming-identifying-the-most-advanced-gb-console-emulation-programs-for-2024/"><u>Rediscovering Retro Gaming Identifying the Most Advanced GB Console Emulation Programs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-gaming-audio-systems-comprehensive-reviews-by-experts-at-zdnet/"><u>Top-Rated Gaming Audio Systems - Comprehensive Reviews by Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-capabilities-a-detailed-insight-into-the-improved-anycubic-kobra-max/"><u>Unveiling the Capabilities: A Detailed Insight Into the Improved Anycubic Kobra Max</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-to-proficiently-operating-orca-slicer-tools/"><u>Unveiling the Secrets to Proficiently Operating Orca Slicer Tools</u></a></li>
+</ul></div>
 

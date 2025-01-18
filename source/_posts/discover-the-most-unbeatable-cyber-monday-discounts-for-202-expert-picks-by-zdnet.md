@@ -1,7 +1,7 @@
 ---
 title: "Discover the Most Unbeatable Cyber Monday Discounts for 202#: Expert Picks by ZDNet"
-date: 2025-01-11T01:41:34.149Z
-updated: 2025-01-13T03:53:27.877Z
+date: 2025-01-12T17:09:51.236Z
+updated: 2025-01-18T16:06:59.777Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals
 
@@ -134,10 +130,6 @@ ZDNET
 * [Gran Turismo 7 standard edition for $41 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGran-Turismo-7-PlayStation-5%2F443954076%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The definitive racing sim is back on PS5 with an all-new solo campaign, over 420 cars to unlock, and over 90 tracks to master.
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d6a7a4b-7078-4dcf-80e0-2c2bf8a0d6dd%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -156,6 +148,10 @@ ZDNET
 * [Dragon's Dogma 2 standard edition for $44 (save $12 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d6a7a4b-7078-4dcf-80e0-2c2bf8a0d6dd%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -179,10 +175,6 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $66 (save $14 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -197,6 +189,10 @@ Kyle Kucharski/ZDNET
 * [HP Omen 45L for $2,200 (save $800 at HP)](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-by-hp-45l-gaming-desktop-gt22-2085t-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming PC built with a 14th generation Intel Core i7 CPU, GeForce RTX 4080 Super GPU, 16GB of RAM, and a 1TB SSD.
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
 
@@ -238,7 +234,7 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -246,7 +242,7 @@ Samsung/ZDNET
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
@@ -256,6 +252,10 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -322,20 +322,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-inshot-vs-other-editors-a-comprehensive-analysis/"><u>[New] 2024 Approved InShot vs Other Editors A Comprehensive Analysis</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-reinstate-precise-sound-in-zoom-chats/"><u>[New] Reinstate Precise Sound in Zoom Chats</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-hue-adjustment-in-post-production/"><u>2024 Approved The Art of Hue Adjustment in Post-Production</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-mkv-and-mp4-formats-determining-the-best-fit-for-your-viewing-needs/"><u>Comparing MKV and MP4 Formats - Determining the Best Fit for Your Viewing Needs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-correcting-rpcrt4dll-not-detected-system-issues/"><u>Guide to Correcting Rpcrt4.dll Not Detected System Issues</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-computer-gear-in-depth-tutorials-and-reviews-by-tomer-software-and-components/"><u>Mastering Computer Gear: In-Depth Tutorials and Reviews by Tom'er Software & Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-cura-solving-the-6-most-recurring-issues-quickly-and-easily/"><u>Mastering Cura: Solving the 6 Most Recurring Issues Quickly & Easily</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-pc-specs-with-toms-hardware/"><u>Mastering Gadgets and PC Specs with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-choices-a-deep-dive-into-toms-tech-wisdom-for-gamers-and-pros/"><u>Mastering Hardware Choices: A Deep Dive Into Tom's Tech Wisdom for Gamers and Pros</u></a></li>
-<li><a href="https://driver-install.techidaily.com/modern-ie-drivers-for-windows-versions-8x7x/"><u>Modern IE Drivers for Windows Versions 8.x/7.x</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-digital-world-with-toms-hardware-wisdom/"><u>Navigate the Digital World with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-pcs-with-toms-hardware-expertise/"><u>Navigate the World of PCs with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-frontiers-a-tour-of-toms-hardware-experts/"><u>Navigating New Tech Frontiers: A Tour of Tom's Hardware Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722850523129-smartwatch-shopping-here-are-the-most-important-things-to-think-about-first/"><u>Smartwatch Shopping? Here Are the Most Important Things To Think About First</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-soil-to-success-selecting-the-top-valheim-seeds/"><u>[Updated] From Soil to Success Selecting the Top Valheim Seeds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-podcast-dominance-through-effective-seo-strategies/"><u>[Updated] In 2024, Podcast Dominance Through Effective SEO Strategies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-cutting-out-clutter-strategies-to-refine-audible-landscapes-with-web-based-audio-processors/"><u>2024 Approved Cutting Out Clutter Strategies to Refine Audible Landscapes with Web-Based Audio Processors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-is-generative-ai-emerging-as-the-next-frontier-in-spreading-misinformation/"><u>How Is Generative AI Emerging as the Next Frontier in Spreading Misinformation?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-modern-habits-a-comprehensive-guide-to-leveraging-chatgpt-for-lifestyle-improvement/"><u>Mastering Modern Habits: A Comprehensive Guide to Leveraging ChatGPT for Lifestyle Improvement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-on-hardware-and-software/"><u>Tom's Tech Insights: In-Depth Guides on Hardware and Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gadgets-with-toms-electronic-review/"><u>Unveiling the Latest in Gadgets with Tom's Electronic Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-toms-electronic-innovations/"><u>Unveiling the Latest in Tom's Electronic Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-gaming-experience-with-nextorages-new-8tb-ssd-fast-speeds-and-abundant-space-only-849-perfect-for-pc-and-ps5-gamers/"><u>Upgrade Your Gaming Experience with Nextorage's New 8TB SSD - Fast Speeds & Abundant Space! Only $849 – Perfect for PC and PS5 Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ymtc-files-lawsuit-against-micron-in-us-claims-unauthorized-use-of-11-chinese-owned-memory-patents/"><u>YMTC Files Lawsuit Against Micron in U.S.: Claims Unauthorized Use of 11 Chinese-Owned Memory Patents</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Corner: Your Guide to the Latest in Computer Components and Gadgets"
-date: 2024-08-19T03:52:22.267Z
-updated: 2024-08-20T03:52:22.267Z
+date: 2025-01-14T17:28:14.108Z
+updated: 2025-01-18T19:40:24.544Z
 tags:
   - printer
 categories:
@@ -34,8 +34,9 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
  As you make the adjustments, you can also 3D print a[retraction test model](https://www.thingiverse.com/thing:909901) and use it to adjust the settings until you achieve the sweet spot.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -46,22 +47,24 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/bf3r7C9s6nZACJhsioefLA-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  You can begin with a lower retraction distance, like 2mm, print the model, and then check how it appears. It might have strings and other imperfections, and you can continue increasing by 0.5mm until you see improvement. You can then shift to retraction speed and start with a lower value, like 30 mm/s, and increase it gradually as you observe how the prints appear until you find the optimal value.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use Coasting
 
  When you activate coasting settings, it stops the extruding filament slightly before the end of the path when the nozzle is about to travel over an area without printing. This is helpful as it minimizes the pressure build-up in the nozzle, which causes the filament to ooze out and turn into blobs or zits. You can find the coasting setting in the**Experimental** section, and check the**Enable coasting** box to activate it.
 
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/WcERQDGybguB9i8aCqZ5jA-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  When you enable it, other settings appear, like**Coasting Volume** ,**Minimum Volume Before Coasting** , and**Coasting Speed** .
@@ -79,19 +82,15 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
  As you enable coasting to eliminate blobs and zits, you need to remember that its effectiveness depends on the geometry of your 3D model, 3D printing speed, and the type of filament you are using. So you need to tweak the settings until you achieve the best results.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Adjust 3D printing Speed and Temperature
 
  Adjusting how fast your 3D printer prints as well as the temperature you are using can also help fix the issue as these settings influence the extrusion rate and the cooling time for the layers. A higher 3D printing speed than necessary can result in increased pressure in the nozzle, which can cause the excess filament to ooze out, causing issues on the print as the nozzle moves.
 
  The standard speed is usually between 50-60 mm/s, and anything above this can result in problems. If the temperature is too high, the filament can become too fluid and start oozing out. Alternatively, if it is too low, there can be incomplete melting which results in uneven extrusion which causes irregularities and inconsistencies in the printed layers. You must adjust the temperature until you find the perfect settings for your filament and printer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 5\. Disable Power Recovery Feature
 
  If none of the above options don’t work, you should consider turning off the power recovery option if it’s turned on. Even though this feature helps save your 3D print instead of starting to print from scratch in case of power interruption, it can introduce blobs. This is because when the feature is activated, the 3D printers utilize the SD card to write “check-points” or the print job state to the card, which will help in resuming the print and this might start competing with the standard printing operation, resulting in blobs.
@@ -99,8 +98,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Turning this feature on is not easy as not all the[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) have that option on the menu, and you need to use the SD card. Luckily, a YouTuber, Geek Detour, created[G-code files for enabling and disabling power recovery](https://geekdetour.com/3d-printing/blobs-in-your-3d-prints-power-loss-recovery-can-be-the-problem/) and you can download and save them to your SD card and use them. You can also choose to buy a UPS battery to address power challenges if you don’t want the challenge of your print being affected due to power loss.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Related 3D PrintingTutorials
 
 **More:** [5 Ways Fix Z Banding in 3D Printing](https://www.tomshardware.com/how-to/fix-z-banding-in-3d-printing)
@@ -111,14 +111,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 **More:** [How to Use PrusaSlicer: A Beginners Guide](https://www.tomshardware.com/how-to/use-prusaslicer)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +124,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-nights-tale-videos-critical-take/"><u>[New] Night's Tale Videos Critical Take</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-comprehensive-examination-razer-kiyo-cam/"><u>[Updated] In 2024, Comprehensive Examination Razer Kiyo Cam</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-11-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 11 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-your-iphones-media-transport-problem-with-updated-usb-drivers/"><u>How to Resolve Your iPhone's Media Transport Problem with Updated USB Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-insights-from-toms-hardware-hub/"><u>Navigating the World of Tech: Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-framework-overhaul-for-advanced-13-systems-dive-into-enhanced-display-technologies-and-elite-processors/"><u>Next-Gen Framework Overhaul for Advanced 13 Systems - Dive Into Enhanced Display Technologies and Elite Processors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pro-tips-for-picking-your-next-pc-from-toms-hardware-wisdom/"><u>Pro Tips for Picking Your Next PC From Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-aroma-experience-meet-asuss-new-fragrance-dispensing-adol-book-laptop/"><u>Revolutionary Aroma Experience: Meet Asus's New Fragrance-Dispensing Adol Book Laptop</u></a></li>
+</ul></div>
 

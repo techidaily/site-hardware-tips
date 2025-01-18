@@ -1,7 +1,7 @@
 ---
 title: Find the Perfect Laptop at Unbeatable Prices During Oct '24 Prime Day Deals | Expert Picks and Tips | ZDNET
-date: 2025-01-09T01:01:02.206Z
-updated: 2025-01-12T17:14:51.541Z
+date: 2025-01-13T17:14:34.297Z
+updated: 2025-01-18T18:32:31.380Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,18 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-most-popular-tweet-chronicles-2023-edition/"><u>[New] In 2024, Most Popular Tweet Chronicles - 2023 Edition</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revamp-chrome-browsing-sharper-social-media-videos/"><u>[Updated] 2024 Approved Revamp Chrome Browsing Sharper Social Media Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-achieving-ideal-mac-resized-instagram-video-content/"><u>[Updated] Achieving Ideal Mac-Resized Instagram Video Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-podcasts-peak-listening-times/"><u>2024 Approved Unveiling Podcasts Peak Listening Times</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-your-animated-gifs-into-static-jpg-images-for-free/"><u>Convert Your Animated GIFs Into Static JPG Images for Free</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dialogue-design-mastery-using-gpt-to-build-unique-bots/"><u>Dialogue Design Mastery: Using GPT to Build Unique Bots</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-top-performer-tech-devices-with-toms-review-digest/"><u>Explore Top Performer Tech Devices with Tom's Review Digest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-electronics-with-tom-your-go-to-source/"><u>Exploring the Latest in Electronics with Tom - Your Go-To Source</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-a-comprehensive-review/"><u>Exploring Tom's Hardware: A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-tech-essentials-the-creme-de-la-creme-of-wireless-keyboards/"><u>Future Tech Essentials: The Crème De La Crème of Wireless Keyboards</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gamers-guide-to-the-quickest-quality-and-affordable-rgb-memory-of-2024/"><u>Gamer's Guide to the Quickest, Quality, and Affordable RGB Memory of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/grizzlys-revolutionary-heatspreader-technology-reduces-cpu-temp-by-up-to-15c/"><u>Grizzly's Revolutionary Heatspreader Technology Reduces CPU Temp by Up to 15°C</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-stream-interruptions-is-twitch-down-globally-or-just-for-you/"><u>Understanding Stream Interruptions: Is Twitch Down Globally or Just For You?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-10-budget-friendly-jpeg-to-gif-conversion-tools-online/"><u>[New] 2024 Approved Top 10 Budget-Friendly JPEG to GIF Conversion Tools Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creative-camerawork-innovative-techniques-for-video-savvy-youtubers-for-2024/"><u>[New] Creative Camerawork Innovative Techniques for Video-Savvy YouTubers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-crafting-a-trailers-soundtrack-a-guide/"><u>2024 Approved Crafting a Trailer's Soundtrack A Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-g2-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo G2 FRP Bypass Instantly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/beam-your-ideas-master-screencast-with-ezvide-video-maker/"><u>Beam Your Ideas Master Screencast with EZvide Video Maker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/global-market-anticipates-sale-of-39-million-moments-post-crisis-resurgence-in-board-deliveries/"><u>Global Market Anticipates Sale of 39 Million Moments: Post-Crisis Resurgence in Board Deliveries</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-tech-world-the-ultimate-guide-to-cutting-edge-hardware/"><u>Inside Tom's Tech World: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-world-of-electronics-and-gadgets/"><u>Inside Tom's World of Electronics & Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-unveils-lga18n-socket-innovation-for-enhanced-chip-thermal-management-no-more-reduced-load-ilm-necessity/"><u>Intel Unveils LGA18n Socket Innovation for Enhanced Chip Thermal Management - No More Reduced Load ILM Necessity!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maxsun-reveals-intel-arrow-lake-and-amd-ryzen-9000-board-range-31-models-over-5-new-chipsets-featuring-800-series-designation/"><u>Maxsun Reveals Intel Arrow Lake & AMD Ryzen 9000 Board Range: 31 Models Over 5 New Chipsets Featuring 800 Series Designation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-clear-of-low-performance-pitfalls-intel-gpu-resolution/"><u>Steering Clear of Low-Performance Pitfalls: Intel GPU Resolution</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/tecnicas-efectivas-para-rescatar-datos-y-solucionar-problemas-de-corrupcion-de-particion-en-windows-11/"><u>Técnicas Efectivas Para Rescatar Datos Y Solucionar Problemas De Corrupción De Partición en Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-how-to-fix-screen-not-showing-full-window/"><u>Windows 10: How to Fix Screen Not Showing Full Window?</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728469597125-aomei-backupper/"><u>バックアップイメージをAOMEI Backupperでマウントする効果的な方法</u></a></li>
 </ul></div>
 

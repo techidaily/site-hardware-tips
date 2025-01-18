@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: Exploring the Latest in Computer Hardware"
-date: 2024-08-19T03:57:39.300Z
-updated: 2024-08-20T03:57:39.300Z
+date: 2025-01-13T19:07:39.419Z
+updated: 2025-01-18T18:07:37.190Z
 tags:
   - cooling
 categories:
@@ -69,6 +69,10 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
   
  The Freezer 36 sells for[$25.40](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG6NBSJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8205773312092432340-20) , while the Freezer 36 Black will set you back[$28.48](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH14935%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-9363665590588779081-20) . Meanwhile, the Freezer 36 CO retails for[$27.71](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG62KBZ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3116022598048932967-20) . The RGB versions carry a slightly higher premium, with the Freezer 36 A-RGB White and Freezer 36 A-RGB Black selling at[$33.87](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH4YDS9%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8017403963971760368-20) and[$33.10](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH22MT1%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1231453507516044270-20) , respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -77,14 +81,11 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -93,8 +94,22 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-effortlessly-add-youtube-videos-to-google-slate-decks/"><u>[New] 2024 Approved Effortlessly Add YouTube Videos to Google Slate Decks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-designing-engaging-podcast-teasers/"><u>[Updated] Designing Engaging Podcast Teasers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175648192-affordable-pc-temperature-control-with-deepcools-as500-plus-at-just-under-45-on-amazon/"><u>Affordable PC Temperature Control with DeepCool's AS500 Plus at Just Under $45 on Amazon!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/arctic-freezer-36xl-reviews-elevating-entry-level-chill-with-innovative-technology/"><u>Arctic Freezer 36XL Reviews: Elevating Entry-Level Chill with Innovative Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-creality-cr10s-impressive-specs-marred-by-dimensional-issues/"><u>Evaluating the Creality CR10s - Impressive Specs Marred by Dimensional Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-realme-12-5g-easily-by-drfone-android/"><u>How To Unlock a Realme 12 5G Easily?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-precision-flight-the-new-era-with-yuneec-drone-review/"><u>In 2024, Precision Flight The New Era with Yuneec Drone Review</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-specs-and-gadgets-on-toms-hardware/"><u>Navigating Computer Specs and Gadgets on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-electronics-wisdom-insights-from-toms-expert-hardware-reviews/"><u>Navigating Electronics Wisdom: Insights From Tom's Expert Hardware Reviews</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/prime-pick-the-top-10-video-capture-tools-for-windows-for-2024/"><u>Prime Pick The Top 10 Video Capture Tools for Windows for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-to-the-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Guide to the Latest Gadgets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-infinix-smart-8-plus-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Infinix Smart 8 Plus Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/video-assisted-teaching-an-insightful-guidebook-for-2024/"><u>Video-Assisted Teaching An Insightful Guidebook for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Take Your Game On-The-Go with Dell’s Latest Ultraportable Gaming Laptop – Featured
-date: 2025-01-10T17:45:52.568Z
-updated: 2025-01-13T01:42:26.106Z
+date: 2025-01-14T18:48:31.606Z
+updated: 2025-01-18T17:43:33.144Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,16 +114,20 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-rehabilitating-faulty-obs-camera-connection/"><u>[New] 2024 Approved Rehabilitating Faulty OBS Camera Connection</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/xplore-top-7-live-streaming-iosandroid-apps-perfect-for-youtube-channel-creators-for-2024/"><u>[New] Explore Top 7 Live Streaming iOS/Android Apps Perfect for YouTube Channel Creators for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-with-toms-expert-guides-and-comprehensive-tests/"><u>Dive Into Hardware with Tom's Expert Guides and Comprehensive Tests</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-toms-hardware-wisdom-for-cutting-edge-devices/"><u>Dive Into Tom's Hardware Wisdom for Cutting-Edge Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/easy-fixes-for-a-clogged-3d-printer-nozzle-a-comprehensive-walkthrough/"><u>Easy Fixes for a Clogged 3D Printer Nozzle: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/flavor-meets-functionality-the-invention-of-3d-printed-edible-qr-code-treats/"><u>Flavor Meets Functionality: The Invention of 3D-Printed, Edible QR Code Treats</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-proof-cooling-the-leading-cpu-aio-and-air-coolers-of-2024-reviewed/"><u>Future-Proof Cooling: The Leading CPU AIO and Air Coolers of 2024 Reviewed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-12-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 12 Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-13-pro-max-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 13 Pro Max Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-turn-your-videos-into-a-revenue-stream-with-these-tips/"><u>In 2024, Turn Your Videos Into a Revenue Stream with These Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-flight-control-best-motor-selections-unveiled/"><u>Mastering Flight Control Best Motor Selections Unveiled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-free-easy-to-use-screen-recording-tools-for-windows-10/"><u>[New] In 2024, Free, Easy-To-Use Screen Recording Tools For Windows 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unveiling-luts-role-in-image-color-alteration/"><u>[New] In 2024, Unveiling LUTs' Role in Image Color Alteration</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-understanding-sudden-account-lockdowns-on-copyright-violations/"><u>[New] Understanding Sudden Account Lockdowns on Copyright Violations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-snippets-get-high-quality-images-without-a-penny-paid/"><u>[New] YouTube Snippets Get High-Quality Images Without a Penny Paid</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-keep-the-best-of-facebook-in-super-hd-quality/"><u>[Updated] Keep the Best of Facebook in Super HD Quality</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-stars-brief-moment-analysis/"><u>2024 Approved Star's Brief Moment Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-ten-4k-gaming-laptops-compiled-here/"><u>2024 Approved Top Ten 4K Gaming Laptops Compiled Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-analysis-by-toms-electronics-emporium/"><u>Advanced Gadget Analysis by Tom's Electronics Emporium</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fragrant-cooling-solutions-the-battle-of-the-bots-comparing-extreme-mugurisu-pink-and-kryonaut-by-grizzly-for-pc-enthusiasts/"><u>Fragrant Cooling Solutions: The Battle of the Bots - Comparing Extreme Mugurisu Pink & Kryonaut by Grizzly for PC Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/instant-pc-assembly-with-corsairs-game-changing-one-turn-fan-screw-design-save-precious-seconds/"><u>Instant PC Assembly with Corsair's Game-Changing One-Turn Fan Screw Design - Save Precious Seconds!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-easy-way-to-compress-mpeg2-videos-using-virtualdub/"><u>New 2024 Approved The Easy Way to Compress MPEG2 Videos Using VirtualDub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-innovation-discoveries-with-toms-hardware-explorerz/"><u>Pioneering Computer Innovation: Discoveries with Tom's Hardware Explorerz</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-corner-your-guide-to-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Corner: Your Guide to the Latest in Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-ultimate-gadget-insights/"><u>Tom's Tech Reviews: Ultimate Gadget Insights</u></a></li>
 </ul></div>
 

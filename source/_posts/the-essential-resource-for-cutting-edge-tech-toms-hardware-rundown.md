@@ -1,7 +1,7 @@
 ---
 title: "The Essential Resource for Cutting-Edge Tech: Tom's Hardware Rundown"
-date: 2024-08-19T03:57:03.779Z
-updated: 2024-08-20T03:57:03.779Z
+date: 2025-01-13T18:14:18.725Z
+updated: 2025-01-18T18:37:07.007Z
 tags:
   - best-picks
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![Best STEM Robot Kits for Kids](https://cdn.mos.cms.futurecdn.net/U8bm3Nvsy3GwtHPcfUp6CP-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Robot kits can be a fun way to teach things like coding and circuitry, but with so many different kits out there, how do you choose? Using my own experience and some in-depth reviews from our sister-site Tom’s Guide, we've made a list of favorites, from best to…well, not worst, but not as good. There are kits for all ages, levels, and price ranges.
 
  When choosing for your child, keep in mind that a lot of robot kits aim a little too high in their intended age ratings. For example, a couple on this list have gone out of their way to make everything picture-based, so that no reading is required to build and program—even some preschool-age kids could have fun and benefit from the rudimentary coding games. And if your child is at the other end age-wise, there are a few entries that let your kids break free from the pre-designed robots so that they can augment the kits with toys and other items they already own. And one robot can even teach your child JavaScript!
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ## Lego Boost
 
 ![Lego Boost](https://cdn.mos.cms.futurecdn.net/hLswBqyiz56ZB8CZR7GTvR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lego Boost gets our top spot based on its reasonable price, flexibility, and excellent app. The kit’s 847 pieces can be made into five different creatures with good instructions, or into anything you can imagine and build. Even though the kit is aimed at kids 7-12, our reviewer found that his five-year-old had no problem navigating the app and coding his creations.
 
@@ -45,9 +53,6 @@ Today's best Lego Boost deals
 
 [See all prices (1 found)](https://www.tomshardware.com/deals/compare?model%5Fname=Lego%20BOOST%20Creative%20Toolbox&filter%5Fproduct%5Ftypes=deals%2Ccontracts%2Csubscriptions%2Csimilar&article%5Fid=en%5FUS%5F18%5FPicStory%5F850)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Wonder Workshops Dash & Dot
 
 ![](https://cdn.mos.cms.futurecdn.net/28tXwdjisvwxfh7Gp4RYhn-320-80.jpg)
@@ -71,15 +76,13 @@ Today's best Lego Boost deals
 [See all prices (0 found)](https://www.tomshardware.com/deals/compare?filter%5Fproduct%5Ftypes=deals%2Ccontracts%2Csubscriptions%2Csimilar&article%5Fid=en%5FUS%5F18%5FPicStory%5F850)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Jimu Robots
 
 ![Jimu Robots](https://cdn.mos.cms.futurecdn.net/99pV4LyAckrmVGvN8EoWkf-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Jimu Robots are a solid choice for older kids who like to both build and program. With seven kits in all, ranging in price from $99 from $399, there’s something for most budgets. While each kit has instructions for building specific creatures, young designers can use the pieces to build anything they want, figuring out new ways to connect the pieces so that their creation can be brought to life by the motor. Once assembled, kids can test their programming skills. Our only big complaint with these kits is that kids new to programming won’t get much guidance from the app, and will have to figure things out for themselves – although this may not necessarily be a bad thing for some kids. Works with iOS and Android.
 
  _Credit:[Amazon](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FUBTECH-BuzzBot-MuttBot-App-Enabled-Learning%2Fdp%2FB01LXZE4MT%3FSubscriptionId%3DAKIAJLYKPRLXUSF4GDIQ%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1146994897151204475-20)_
@@ -95,6 +98,10 @@ Today's best Lego Boost deals
 [For more information visit their website](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FUBTECH-BuzzBot-MuttBot-App-Enabled-Learning%2Fdp%2FB01LXZE4MT%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1021929134194873185-20)
 
 [See all prices (0 found)](https://www.tomshardware.com/deals/compare?filter%5Fproduct%5Ftypes=deals%2Ccontracts%2Csubscriptions%2Csimilar&article%5Fid=en%5FUS%5F18%5FPicStory%5F850)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## littleBits Star Wars Droid Inventor Kit
 
@@ -125,11 +132,16 @@ Today's best Lego Boost deals
 [See all prices (1 found)](https://www.tomshardware.com/deals/compare?model%5Fname=Littlebits%20Star%20Wars%20Droid%20Inventor%20Kit&filter%5Fproduct%5Ftypes=deals%2Ccontracts%2Csubscriptions%2Csimilar&article%5Fid=en%5FUS%5F18%5FPicStory%5F850)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tenka Labs Circuit Cubes
 
 ![Tenka Labs Circuit Cubes](https://cdn.mos.cms.futurecdn.net/VWXwHo6LHUhmRSYftLK5fB-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of the more affordable entries on this list, Circuit Cubes kits come with a battery, a motor, and a light, plus the pieces to build different objects, depending on which kit you choose. For example, with the Smart Art kit you can build a drawing machine, a jewelry box, or a sign that lights up. All of the kits teach how circuits work together to make a motor or light run on electricity, although sometimes the learning happens by trial and error – our reviewer thought that the instructions could do a better job explaining things like polarity. Once you’ve mastered how to make the motor and lights work, you can add your own Lego bricks and other toys, and household objects, and make your own creations come to life! Note that there’s no programming or coding involved. While the current kits don’t connect to a phone or other device in order to work, some of the new kits coming out later this summer will have Bluetooth connectivity.
 
@@ -191,9 +203,6 @@ Today's best Lego Boost deals
 
 ![Cue Cleverbot](https://cdn.mos.cms.futurecdn.net/khLJvPfDNKAYerGMpd5yb9-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  Cue is the big sibling of Wonder Workshop’s popular Dash robot, and while it’s aimed at kids 11 and up, my seven-year-old niece loved it. Like Dash, Cue can be programed to move around just by drawing on the app’s screen, but the coding possibilities go all the way up to learning JavaScript. So while Cue is a bit pricey at $199 (although it can often be found for $150 on[Amazon](https://www.tomshardware.com/tag/amazon) ), your child can learn a coding language that will be applicable outside of Cue’s world. Plus, Cue is super interactive and has many different lights, sounds, and movements that can be programmed. It should take a very long time for a child to get sick of Cue.
 
  _Credit:[Make Wonder](https://www.makewonder.com/cue%5Fthe%5Fcleverbot)_
@@ -222,9 +231,6 @@ Today's best Cue Cleverbot deals
 
 ![Sony Koov](https://cdn.mos.cms.futurecdn.net/S4epDuVeVPtqYCiDv5sSKb-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While the[Sony](https://www.tomshardware.com/tag/sony) Koov is not at all cheap (the only kit for sale right now is a $519 Educator Kit), it has the potential to do a great job of teaching kids how to code. In fact, its lessons start with the basics: What is coding? Fans of Minecraft and Roblox are likely to love the blockiness of the clear blocks, and may even be inspired to bring their online 8-bit creations to life. With many different kinds of motors, lights, and sensors—which all connect to a customized[Arduino](https://www.tomshardware.com/tag/arduino) board—Sony Koov is a flexible building kit with lots of possibilities. The downside? The programs for the 23 items that you can build are pre-written, and while you can alter them, there’s no way to save those changes for later. (You can, however, save custom code that you build from scratch.) Works with PC, Mac, and iOS (no Android).
 
  _Credit:[Sony](https://www.sony.com/koov)_
@@ -241,12 +247,13 @@ Today's best Sony Koov deals
 
 [See all prices (0 found)](https://www.tomshardware.com/deals/compare?filter%5Fproduct%5Ftypes=deals%2Ccontracts%2Csubscriptions%2Csimilar&article%5Fid=en%5FUS%5F18%5FPicStory%5F850)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Anki Cozmo
 
 ![Anki Cozmo](https://cdn.mos.cms.futurecdn.net/uKtM6dfUYe56moVhxgh6TU-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Anki Cozmo weren’t so expensive compared to other beginner coding toys—$180—it would be higher on this list. It’s adorable (it sneezes!), it’s interactive, and it can do tricks with blocks. It keeps programming simple by only allowing the block code to be placed from left to right (instead of vertically), which is easier for young children to comprehend. Targeted at kids as young as 6 years old, Cozmo can play games with you, learn to recognize you, and let you see the world through its own (camera) eyes. Works with iOS, Android, and Amazon devices.
 
@@ -273,15 +280,13 @@ Today's best Anki Cozmo deals
 [See all prices (1 found)](https://www.tomshardware.com/deals/compare?model%5Fname=Anki%20Cozmo&filter%5Fproduct%5Ftypes=deals%2Ccontracts%2Csubscriptions%2Csimilar&article%5Fid=en%5FUS%5F18%5FPicStory%5F850)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Kamigami Robots
 
 ![Kamigami Robots](https://cdn.mos.cms.futurecdn.net/JkqTR3eaAVwFjfNBQuBFZh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  Kamigami robots come in eight different forms, each one resembling some kind of bug or prehistoric-ish creature. They do have to be assembled, but not in the way that, say, a Lego-based robot gets assembled – the “shells” are a bit more like origami, but with plastic pieces, and they definitely aren’t made to be taken apart and built again. Playing with the Kamigami is fun, but the coding is very basic – it doesn’t quite match up to the level of skill needed to assemble the robots. While each Kamigami robot isn’t too expensive on its own (usually between $40 and $50), the real magic happens when you get two together for a battle, so keep that in mind when thinking about price. Works with iOS, Android, and Amazon devices.
 
  _Credit:[Kagami Robots](https://kamigamirobots.com/)_
@@ -298,14 +303,11 @@ Today's best Kamigami Robots deals
 
 [See all prices (0 found)](https://www.tomshardware.com/deals/compare?filter%5Fproduct%5Ftypes=deals%2Ccontracts%2Csubscriptions%2Csimilar&article%5Fid=en%5FUS%5F18%5FPicStory%5F850)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -314,4 +316,24 @@ Today's best Kamigami Robots deals
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-guide-to-4k-capturing-applications/"><u>[New] 2024 Approved Ultimate Guide to 4K Capturing Applications</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-captivating-thumbnails-a-digital-marketers-guidebook/"><u>[Updated] In 2024, Crafting Captivating Thumbnails A Digital Marketer's Guidebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-in-style-unbeatable-deal-on-the-best-air-cooler-ever-thermalrights-peerless-assassin-120-se-at-just-33/"><u>Beat the Heat in Style - Unbeatable Deal on the Best Air Cooler Ever, Thermalright's Peerless Assassin 120 SE at Just $33!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-xiaomi-14-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Xiaomi 14 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-computing-solutions-by-tom-comprehensive-hardware-analysis/"><u>Innovative Computing Solutions by Tom - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-90-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from 90.</u></a></li>
+<li><a href="https://win-great.techidaily.com/quickly-remove-last-word-with-ctrlplusbackspace-boost-your-editing-speed-using-emeditor-word-processor/"><u>Quickly Remove Last Word with Ctrl+Backspace: Boost Your Editing Speed Using EmEditor (Word Processor)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-technique-for-semiconductor-assembly-using-three-dimensional-printing-technology/"><u>Revolutionary Technique for Semiconductor Assembly Using Three-Dimensional Printing Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essentials-of-running-an-immutable-linux-os-insights-from-tech-experts/"><u>The Essentials of Running an Immutable Linux OS | Insights From Tech Experts</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-yuva-3-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Yuva 3 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-into-computer-components/"><u>Tom's Tech Reviews: Expert Insights Into Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-university-computers-expertly-reviewed-selections-for-academics-creativity-entertainment/"><u>Top-Ranked University Computers: Expertly Reviewed Selections for Academics, Creativity, Entertainment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-am350-chipset-boards-unveiling-the-best-budget-friendly-options-for-pcie-40/"><u>Top-Rated AM350 Chipset Boards: Unveiling the Best Budget-Friendly Options for PCIe 4.0</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-secrets-of-toms-pc-insights/"><u>Unraveling the Secrets of Tom's PC Insights</u></a></li>
+</ul></div>
 

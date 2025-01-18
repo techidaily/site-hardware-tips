@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Features of Mingda Magician Pro2: Substantial Print Size with Whisper-Quiet Functionality"
-date: 2024-08-19T03:53:41.314Z
-updated: 2024-08-20T03:53:41.314Z
+date: 2025-01-17T17:05:19.684Z
+updated: 2025-01-18T18:12:17.426Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,26 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-brawlers-domain-vs-twitch-territory/"><u>[New] 2024 Approved The Brawler's Domain Vs. Twitch Territory</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reating-your-channels-pathway-youtubian-starter-pack-earning-money/"><u>[New] Creating Your Channel's Pathway Youtubian Starter Pack, Earning Money</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crossing-platform-barriers-execute-android-games-and-apps-directly-on-windows-11/"><u>Crossing Platform Barriers: Execute Android Games & Apps Directly on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-modern-electronics-by-toms-digital-world/"><u>Expert Insights Into Modern Electronics by Tom's Digital World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-for-high-performance-3d-printing-filaments/"><u>Expert Picks for High-Performance 3D Printing Filaments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-note-50-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme Note 50?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-computer-analysis-by-toms-electronics-hub/"><u>In-Depth Computer Analysis by Tom's Electronics Hub</u></a></li>
+<li><a href="https://win-forum.techidaily.com/in-depth-guide-installing-initializing-and-using-the-revo-uninstaller-application-efficiently/"><u>In-Depth Guide: Installing, Initializing, and Using The Revo Uninstaller Application Efficiently</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-depth-review-the-full-picture-of-facetunes-new-features/"><u>In-Depth Review The Full Picture of Facetune's New Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/key-client-retractions-prompt-asetek-to-end-revenue-guidance-publication/"><u>Key Client Retractions Prompt Asetek to End Revenue Guidance Publication</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-electronics-mastery-with-toms-in-depth-guides/"><u>Navigating Electronics Mastery with Tom's In-Depth Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-next-gen-technology-at-toms-hardware-hub/"><u>Navigating Next-Gen Technology at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-through-toms-hardware-wisdom/"><u>Navigating the World of Tech Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-cpu-breakthrough-amds-zen-5-chip-combines-115w-desktop-performance-and-mobility-the-revolutionary-ryzen-strix-halo-featuring-a-16-core-powerhouse-w23/"><u>Next-Gen CPU Breakthrough: AMD's Zen 5 Chip Combines 115W Desktop Performance and Mobility – The Revolutionary Ryzen Strix Halo Featuring a 16 Core Powerhouse with RDNA Graphics Upgrade</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-watching-superman-series-chronologically/"><u>The Ultimate Guide: Watching 'Superman' Series Chronologically</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-selection-of-chromebook-screen-capture-tools-reviewing-the-best-10-options/"><u>The Ultimate Selection of Chromebook Screen Capture Tools - Reviewing the Best 10 Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-advanced-technology-uncover-the-best-in-computer-hardware/"><u>Tom's Guide to Advanced Technology: Uncover the Best in Computer Hardware</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unmasked-photos-simple-blur-solutions-with-piscart-for-2024/"><u>Unmasked Photos Simple Blur Solutions with PiscArt for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

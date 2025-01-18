@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Computer Innovation: Discoveries with Tom's Hardware Explorerz"
-date: 2024-08-19T03:52:21.160Z
-updated: 2024-08-20T03:52:21.160Z
+date: 2025-01-14T18:11:16.003Z
+updated: 2025-01-18T19:46:02.277Z
 tags:
   - cooling
 categories:
@@ -64,15 +64,16 @@ Included in the box are the following:
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -85,9 +86,6 @@ No advertising on the website.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  ▶**27mm thick radiator**
@@ -105,8 +103,9 @@ No advertising on the website.
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
@@ -129,9 +128,6 @@ The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Swipe to scroll horizontally
@@ -154,14 +150,15 @@ The top of the CPU black features a reflective black etched metal design.
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing Methodology, and how my testing differs vs the competition
 
@@ -195,6 +192,10 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -222,16 +223,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -240,4 +236,24 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-no-video-paths-in-modern-education-systems/"><u>[Updated] 2024 Approved No-Video Paths in Modern Education Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-an-introductory-guide-to-navigating-your-way-through-zoom-webinars/"><u>[Updated] An Introductory Guide to Navigating Your Way Through Zoom Webinars</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-videography-essentials-7-free-audio-choices/"><u>2024 Approved YouTube Videography Essentials - 7 Free Audio Choices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/apples-trending-app-in-157-countries/"><u>Apple's Trending App in 157 Countries</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cross-platform-video-editing-mastery-a-step-by-step-chromebook-guide-for-2024/"><u>Cross-Platform Video Editing Mastery A Step-by-Step Chromebook Guide for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vering-the-ins-and-outs-of-youtube-shorts-capital/"><u>Discovering the Ins and Outs of YouTube Shorts Capital</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-nvidia-windows-drivers-compatible-with-11-7-and-8-systems/"><u>Get the Latest NVIDIA Windows Drivers: Compatible with 11, 7 and 8 Systems!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-rtl8188cu-wireless-networking-driver-for-windows-10-8-and-7-users/"><u>Get the Latest RTL8188CU Wireless Networking Driver for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y77t-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y77t FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-tech-trends-with-professional-tips-from-toms-hardware/"><u>Stay Ahead of Tech Trends with Professional Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-modern-computing-wisdom-from-tom/"><u>The Ultimate Guide to Modern Computing - Wisdom From Tom'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-tech-savvy-individuals-toms-computer-components-overview/"><u>The Ultimate Resource for Tech Savvy Individuals – Tom’s Computer Components Overview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide-t172386287986915/"><u>Tom's Tech Insights - The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-on-toms-hardware/"><u>Tom's Tech Insights: Comprehensive Guide on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovations/"><u>Tom's Tech Insights: Exploring the Latest in Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-on-computer-hardware/"><u>Tom's Tech Insights: In-Depth Guides on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-from-toms-hardware/"><u>Tom's Tech Review: Comprehensive Insights From Tom's Hardware</u></a></li>
+</ul></div>
 

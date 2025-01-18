@@ -1,7 +1,7 @@
 ---
 title: How LG's Cutting-Edge Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Portability, and Battery Life Insights
-date: 2025-01-06T01:08:45.521Z
-updated: 2025-01-13T03:09:32.841Z
+date: 2025-01-16T17:38:48.358Z
+updated: 2025-01-18T18:25:00.489Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,21 +114,22 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-beyond-standard-views-a-detailed-look-at-the-z32x-model/"><u>[Updated] 2024 Approved Beyond Standard Views A Detailed Look at the Z32X Model</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-clearsnap-guide-how-to-exclude-distracting-picture-borders/"><u>[Updated] 2024 Approved ClearSnap Guide How to Exclude Distracting Picture Borders</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premier-video-capture-systems-for-online-streaming/"><u>[Updated] 2024 Approved Premier Video Capture Systems for Online Streaming</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-5-essential-browser-recording-apps-unveiled/"><u>[Updated] In 2024, 5 Essential Browser Recording Apps Unveiled</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-taking-control-of-quality-edit-your-published-videos-on-youtube/"><u>[Updated] Taking Control of Quality Edit Your Published Videos on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/easy-steps-to-record-and-screen-capture-ios-2023/"><u>Easy Steps to Record and Screen Capture [iOS, 2023]</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratuito-converter-imagens-em-gifs-ou-ogv-com-o-software-online-do-movavi/"><u>Gratuito: Converter Imagens Em GIFs Ou OGV Com O Software Online Do Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://discover-community.techidaily.com/optimizing-tiktok-content-understanding-format-options-and-video-duration-rules/"><u>Optimizing TikTok Content: Understanding Format Options and Video Duration Rules</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/solutions-to-combat-elephant-foot-in-your-3d-printed-creations/"><u>Solutions to Combat Elephant Foot in Your 3D Printed Creations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-the-curve-with-toms-expert-hardware-breakdowns/"><u>Stay Ahead of the Curve with Tom's Expert Hardware Breakdowns</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-restoring-smooth-operation-in-your-perturbation-printer/"><u>The Complete Guide to Restoring Smooth Operation in Your Perturbation Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-cutting-edge-hardware-by-toms-team/"><u>The Ultimate Guide to Cutting-Edge Hardware by Tom's Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-guide-expert-hardware-insights/"><u>Tom's Computer Components Guide: Expert Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Review: Comprehensive Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-affordable-3d-printing-solutions-exceptional-quality-low-cost/"><u>Top Affordable 3D Printing Solutions - Exceptional Quality, Low Cost</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-creative-clips-excellent-tools-for-photoshopping-with-frames-for-2024/"><u>[New] Creative Clips Excellent Tools for Photoshopping with Frames for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-closeup-essential-filmmaking-tips/"><u>[Updated] Mastering the Art of Closeup Essential Filmmaking Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/buy-macx-gear-from-our-online-store-the-ultimate-destination-for-all-your-macx-needs/"><u>Buy MacX Gear From Our Online Store – The Ultimate Destination for All Your MacX Needs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypassreset-p60-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset P60 Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/frequently-asked-questions-mastering-apowerrec-task-recording-features/"><u>Frequently Asked Questions: Mastering ApowerREC Task Recording Features</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Note 30 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-ideal-audio-solution-for-iphone-find-the-best-6-free-apps-for-youtube-to-mp3/"><u>In 2024, Ideal Audio Solution for iPhone Find the Best 6 Free Apps for YouTube-to-MP3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-powerful-chips-linked-to-most-game-disruptions-in-new-warframe-developer-report/"><u>Intel’s Powerful Chips Linked to Most Game Disruptions in New Warframe Developer Report</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-tech-with-insights-and-reviews-from-toms-hardware-vault/"><u>Navigate the World of Tech with Insights and Reviews From Tom's Hardware Vault</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-trends-in-depth-reviews-by-toms-hardware/"><u>Navigating Tech Trends: In-Depth Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-the-latest-in-computer-gear-with-toms-technology-insights/"><u>Navigating Through the Latest in Computer Gear with Tom's Technology Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-performance-evaluation-toms-technological-tools-and-systems/"><u>Precision Performance Evaluation - Tom's Technological Tools and Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-switcheroo-rearranging-yt-lists-in-a-minute-for-2024/"><u>Swift Switcheroo Rearranging YT Lists in a Minute for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-review-in-depth-analysis/"><u>Tom's Computer Components Review: In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-the-ultimate-guide/"><u>Tom's Computer Gear: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-truth-about-the-arctic-liquid-freezer-iii-aios-lackluster-results/"><u>Unveiling The Truth About The Arctic Liquid Freezer III AIO's Lackluster Results</u></a></li>
 </ul></div>
 
