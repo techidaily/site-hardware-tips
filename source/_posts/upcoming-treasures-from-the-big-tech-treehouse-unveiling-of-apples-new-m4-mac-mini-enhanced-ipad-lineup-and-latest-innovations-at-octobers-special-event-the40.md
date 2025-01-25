@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Treasures From the Big Tech Treehouse: Unveiling of Apple’s New M4 Mac Mini, Enhanced iPad Lineup, and Latest Innovations at October's Special Event - The Insightful Guide"
-date: 2025-01-13T18:21:08.613Z
-updated: 2025-01-18T18:14:35.800Z
+date: 2025-01-21T20:55:16.626Z
+updated: 2025-01-24T21:10:18.622Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,17 +118,19 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-simplified-guide-youtube-and-facebook-integration/"><u>[New] 2024 Approved Simplified Guide YouTube and Facebook Integration</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2023s-fb-url-vault-securely-access-8-free-downloads-online/"><u>2023'S FB URL Vault Securely Access 8 Free Downloads Online</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-create-impactful-video-elements-cardsannotations/"><u>2024 Approved How to Create Impactful Video Elements Cards/Annotations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-ties-with-unknown-windows-accounts/"><u>Cutting Ties with Unknown Windows Accounts</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/depanner-la-selection-incorrecte-de-votre-disque-dur-par-windows-11-guide-dinstallation-facile-et-efficace/"><u>Dépanner La Sélection Incorrecte De Votre Disque Dur Par Windows 11 : Guide D'installation Facile Et Efficace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reviving-deadlocked-downloads-in-windows-11-3/"><u>Guide to Reviving Deadlocked Downloads in Windows 11 (3)</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-best-capturing-software-for-streamers-on-youtube/"><u>In 2024, Best Capturing Software For Streamers on YouTube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-gear-lab-unveiling-the-newest-trends-in-pc-and-electronics-hardware/"><u>Inside Tom's Gear Lab: Unveiling the Newest Trends in PC & Electronics Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-computing-innovations-with-toms-hardware-guidance/"><u>Navigating Computing Innovations with Tom's Hardware Guidance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-latest-computer-equipment/"><u>Tom's Tech Review: Expert Insights on Latest Computer Equipment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-on-latest-hardware/"><u>Tom's Tech Review: In-Depth Insights on Latest Hardware</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-shortcut-to-instagram-video-connectivity/"><u>[New] The Ultimate Shortcut to Instagram Video Connectivity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-find-your-favorite-skype-ringtones-with-these-4-websites-for-2024/"><u>[Updated] Find Your Favorite Skype Ringtones with These 4 Websites for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-a14-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy A14 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-set-up-smooth-transitions-youtube-content-playback-on-facebook/"><u>How to Set Up Smooth Transitions YouTube Content Playback on Facebook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-photography-boosted-by-ios-11-features/"><u>In 2024, IPhone Photography Boosted by iOS 11 Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-and-inspiration-the-ultimate-list-of-android-drawing-apps/"><u>In 2024, Mastery & Inspiration The Ultimate List of Android Drawing Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/john-deere-launches-innovative-battery-operated-machinery-for-agriculture-and-building-sites-zdnet/"><u>John Deere Launches Innovative Battery-Operated Machinery for Agriculture & Building Sites - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/john-deeres-latest-innovation-unveiling-battery-operated-machinery-for-agriculture-and-construction-zdnet/"><u>John Deere's Latest Innovation: Unveiling Battery-Operated Machinery for Agriculture & Construction - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lasting-quality-insights-lessons-from-a-durable-cordless-vacuum-cleaner-analysis-on-zdnet/"><u>Lasting Quality Insights: Lessons From a Durable Cordless Vacuum Cleaner - Analysis on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-lush-gardens-the-ultimate-guide-growth-and-greenery/"><u>Mastering the Art of Lush Gardens: The Ultimate Guide | Growth & Greenery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-special-save-400-on-the-segway-max-g2-electric-scooter-exclusive-deal-alert/"><u>Memorial Day Special: Save $400 on the Segway Max G2 Electric Scooter - Exclusive Deal Alert!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/monitor-and-manage-your-co2-footprint-easily-the-latest-mobile-application-reviewed-on-zdnet/"><u>Monitor and Manage Your CO2 Footprint Easily: The Latest Mobile Application Reviewed on ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-xr-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone XR Prevention & Solution</u></a></li>
 </ul></div>
 

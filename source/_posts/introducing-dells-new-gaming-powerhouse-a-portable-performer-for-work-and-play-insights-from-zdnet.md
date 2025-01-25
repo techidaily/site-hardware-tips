@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2025-01-11T18:40:43.783Z
-updated: 2025-01-18T17:46:46.965Z
+date: 2025-01-21T00:37:44.763Z
+updated: 2025-01-24T23:46:06.803Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,20 +114,19 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[New] Altering Visuals in Teams Calls Timely Setup Adjustments for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-divide-and-conquer-easy-chapter-addition-for-vimeo-videos-for-2024/"><u>[Updated] Divide and Conquer Easy Chapter Addition for Vimeo Videos for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-detailed-step-by-step-guide-to-using-telegram-desktop/"><u>2024 Approved A Detailed Step-By-Step Guide To Using Telegram Desktop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-insights/"><u>Exploring High-Performance Gadgets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/former-samsung-staff-detained-after-accusations-of-stealing-18b-from-chip-giants-memories-for-chinese-competitor/"><u>Former Samsung Staff Detained After Accusations of Stealing $1.8B From Chip Giant's Memories for Chinese Competitor</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ideal-virtual-sets-crafting-excellent-google-meet-backdrops-for-2024/"><u>Ideal Virtual Sets Crafting Excellent Google Meet Backdrops for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-calculating-the-sequence-length-of-a-20mb-file/"><u>In 2024, Calculating the Sequence Length of a 20MB File</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-hexus-in-depth-analysis-of-computing-systems-and-electronics/"><u>Inside Tom's Hexus: In-Depth Analysis of Computing Systems & Electronics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/insights-on-pc-gear-from-toms-hardware-experts/"><u>Insights on PC Gear From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-expertise-t17239719448041/"><u>Navigating the World of Electronics with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723964482600-nextorages-trailblazing-pcie-gen-4-m2-nvme-ssd-for-gaming-unmatched-speeds-of-up-to-7400-mbs/"><u>Nextorage's Trailblazing PCIe Gen 4 M.2 NVMe SSD for Gaming - Unmatched Speeds of Up to 7,400 MB/S!</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-15-pro-max-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 15 Pro Max Suddenly | Stellar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-revival-of-openstack-and-kata-containers-in-modern-cloud-computing-trends/"><u>The Revival of OpenStack & Kata Containers in Modern Cloud Computing Trends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-the-ultimate-guide-to-hardware-and-computing-solutions/"><u>Tom's Tech: The Ultimate Guide to Hardware and Computing Solutions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-find-your-favorite-general-knowledge-quiz-channel-of-the-year-24-for-2024/"><u>[New] Find Your Favorite General Knowledge Quiz Channel of the Year, '24 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-nine-remedies-for-firefox-video-glitches-on-social-media/"><u>[New] Nine Remedies for Firefox Video Glitches on Social Media</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-navigate-youtube-post-production-with-adobe-premiere/"><u>[Updated] 2024 Approved Navigate YouTube Post-Production with Adobe Premiere</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-all-you-need-to-know-about-adding-apple-music-to-video/"><u>[Updated] All You Need to Know About Adding Apple Music to Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-examining-performance-of-dji-raptor-eyewear/"><u>2024 Approved Examining Performance of DJI Raptor Eyewear</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mobile-and-desktop-audiospeed-alteration-essentials/"><u>2024 Approved Mobile & Desktop Audiospeed Alteration Essentials</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-navigating-instagrams-video-landscape-a-detailed-look/"><u>2024 Approved Navigating Instagram's Video Landscape A Detailed Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-registering-and-setting-up-android-13-beta-version-1-pros-of-delaying-installation-zdnet-exclusive/"><u>Guide to Registering & Setting Up Android 13 Beta Version 1 - Pros of Delaying Installation [ZDNet Exclusive]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/head-to-head-tech-faceoff-google-pixel-tablet-and-apples-ipad-compared-side-by-side-on-zdnet/"><u>Head-to-Head Tech Faceoff: Google Pixel Tablet and Apple's iPad Compared Side-by-Side on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-air-assessment-exceptional-value-that-challenges-the-worth-of-my-ipad-pro-insights-from-zdnet/"><u>IPad Air Assessment: Exceptional Value That Challenges the Worth of My iPad Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-pro-showdown-navigating-through-features-to-pick-the-ideal-flagship-tablet-gadgetguru-blog/"><u>IPad Pro Showdown: Navigating Through Features to Pick the Ideal Flagship Tablet | GadgetGuru Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-video-editing-showdown-lumafusion-vs-davinci-resolve-choosing-the-right-app-for-your-needs/"><u>IPad Video Editing Showdown: LumaFusion Vs DaVinci Resolve - Choosing the Right App for Your Needs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-twitch-lands-marketplace-for-content-creators/"><u>Navigating the Twitch Lands Marketplace for Content Creators</u></a></li>
 </ul></div>
 

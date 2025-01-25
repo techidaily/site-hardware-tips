@@ -1,7 +1,7 @@
 ---
 title: "Introducing Apple's Latest Upgrade: The MacBook Air Now Comes in 13 & 15 Sizes Featuring the Powerful M3 Chip - Discover All You Need to Know"
-date: 2025-01-16T18:42:31.050Z
-updated: 2025-01-18T18:31:52.307Z
+date: 2025-01-22T17:48:58.098Z
+updated: 2025-01-25T00:29:02.222Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-superior-streams-with-av1-activate-on-youtube/"><u>[New] 2024 Approved Superior Streams with AV1 Activate on YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unleash-the-power-of-pixels-expert-tips-on-live-tv-recording-with-windows-pc/"><u>[New] In 2024, Unleash the Power of Pixels Expert Tips on Live TV Recording with Windows PC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-techniques-saving-and-recording-ps4-gaming-escapades-for-2024/"><u>[New] Top Techniques Saving and Recording PS4 Gaming Escapades for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-vlogging-mastering-tripod-angles-and-positions/"><u>[Updated] 2024 Approved Elevate Your Vlogging Mastering Tripod Angles and Positions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-straightforward-screen-grabber-w10-edition/"><u>[Updated] In 2024, Straightforward Screen Grabber, W10 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/grab-the-deal-asus-tuf-165-hz-fps-24-inch-ips-gaming-screen-at-only-99-from-newegg/"><u>Grab the Deal! Asus TUF - 165 Hz FPS, 24-Inch IPS Gaming Screen at Only $99 From Newegg</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nizing-your-music-a-youtube-playlist-journey/"><u>Harmonizing Your Music A YouTube Playlist Journey</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-analyzing-the-income-generated-by-every-youtube-viewer/"><u>In 2024, Analyzing the Income Generated by Every YouTube Viewer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xr-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone XR Passcode not Working?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-at-top-tier-electronics-with-toms-hardware-insights/"><u>Inside Look at Top-Tier Electronics with Tom’s Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-a-guide-to-cutting-edge-technology-evaluations/"><u>Inside Tom's Electronics: A Guide to Cutting-Edge Technology Evaluations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/jailbreak-and-upgrade-your-kindle-to-an-enhanced-e-ink-screen-with-devrepos-tutorial/"><u>Jailbreak & Upgrade Your Kindle to an Enhanced E-Ink Screen with DevRepo's Tutorial</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/maximizing-facebook-viewability-with-ideal-verticalhorizontal-videos-for-2024/"><u>Maximizing Facebook Viewability with Ideal Vertical/Horizontal Videos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-high-tech-a-deep-dive-into-computer-components-by-tom/"><u>Navigate Through High-Tech: A Deep Dive Into Computer Components by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-and-pc-components-at-toms-hardware-zone/"><u>Navigating New Gadgets and PC Components at Tom's Hardware Zone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-technology-in-depth-reviews-from-toms-hardware/"><u>Navigating New Technology: In-Depth Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-advanced-technology-the-toms-hardware-advantage/"><u>Navigating the World of Advanced Technology: The Tom's Hardware Advantage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-top-picks-by-toms-hardware-hub/"><u>Navigating the World of Computers - Top Picks by Tom’s Hardware Hub</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nsiders-method-for-youtube-livestreaming-in-full-circle-for-2024/"><u>The Insider's Method for Youtube Livestreaming in Full Circle for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-storing-films-videographers-guide-to-64gb-and-128gb-drives/"><u>[New] In 2024, Storing Films Videographers' Guide to 64GB and 128GB Drives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quick-recording-visuals-plus-verbal-input/"><u>[Updated] In 2024, Quick Recording Visuals + Verbal Input</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-8-vr-gaming-accessories/"><u>[Updated] In 2024, Top 8 VR Gaming Accessories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/demystifying-apple-watch-face-exchange-effortless-tutorial-revealed-by-zdnet/"><u>Demystifying Apple Watch Face Exchange - Effortless Tutorial Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-update-samsung-phone-and-smartwatch-owners-will-enjoy-these-latest-updates-from-google/"><u>Exclusive Update: Samsung Phone & Smartwatch Owners Will Enjoy These Latest Updates From Google!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-an-ai-fitness-companion-with-your-sports-watch-unveiling-the-power-of-a-built-in-gpt-like-running-coach/"><u>Experience an AI Fitness Companion with Your Sports Watch: Unveiling the Power of a Built-In GPT-Like Running Coach</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmins-latest-updates-transform-my-top-pick-beyond-the-apple-watch-ultra/"><u>Garmin's Latest Updates Transform My Top Pick - Beyond the Apple Watch Ultra</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/leveraging-powerdirector-2024-full-guide-to-its-capabilities/"><u>Leveraging PowerDirector 2024 - Full Guide to Its Capabilities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mpeg-to-mp3-conversion-guide-choosing-between-web-based-and-software-solutions/"><u>MPEG to MP3 Conversion Guide: Choosing Between Web-Based and Software Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-powershell-for-windows-account-management/"><u>Navigating PowerShell for Windows Account Management</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-budget-friendly-apple-watch-series-10-at-just-99-with-early-bird-preorders-from-best-buy-complete-guide-on-zdnet/"><u>Score a Budget-Friendly Apple Watch Series 10 at Just $99 with Early Bird Preorders From Best Buy – Complete Guide on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-to-enable-googles-pixel-watch-fall-detection-and-understanding-its-importance/"><u>Step-by-Step to Enable Google's Pixel Watch Fall Detection and Understanding Its Importance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-kid-friendly-smartwatches-that-arent-apple-or-garmin-in-depth-reviews-and-comparisons/"><u>Top Kid-Friendly Smartwatches That Aren't Apple or Garmin: In-Depth Reviews & Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-and-testing-report-the-premium-649-samsung-galaxy-watch-ultra-and-what-it-really-offers-an-exclusive-insight-by-a-gadget-enthusiast-zdnet/"><u>Unboxing & Testing Report: The Premium $649 Samsung Galaxy Watch Ultra and What It Really Offers – An Exclusive Insight by a Gadget Enthusiast | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-zdnets-methodology-for-assessing-top-tier-smartwatches-on-the-market/"><u>Unveiling ZDNet's Methodology for Assessing Top-Tier Smartwatches on the Market</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/vr-readiness-your-space-and-tech-essentials/"><u>VR Readiness Your Space and Tech Essentials</u></a></li>
+<li><a href="https://win-news.techidaily.com/wie-sichert-man-effektiv-windows-server/"><u>Wie Sichert Man Effektiv Windows Server</u></a></li>
 </ul></div>
 

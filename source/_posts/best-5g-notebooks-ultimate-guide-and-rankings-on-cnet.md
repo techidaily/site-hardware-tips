@@ -1,7 +1,7 @@
 ---
 title: "Best 5G Notebooks : Ultimate Guide and Rankings on CNet"
-date: 2025-01-06T19:04:12.295Z
-updated: 2025-01-12T17:46:02.961Z
+date: 2025-01-20T20:32:36.376Z
+updated: 2025-01-24T21:08:48.210Z
 tags:
   - laptops
 categories:
@@ -21,6 +21,10 @@ You're attempting to listen to music or watch a video on your computer.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -42,11 +46,11 @@ And with a snafu like no sound, there are a few ways to troubleshoot the issue, 
 
 Here's how to pull this off in both Windows 10 and 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to reset your audio settings in Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check your audio and sound source
 
@@ -55,10 +59,6 @@ You've probably already checked the usual suspects. But let's review anyway. Mak
 Check the volume.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Go to sound settings
 
@@ -77,10 +77,6 @@ Screenshot by Lance Whitney/ZDNET
 ## 3\. Check external speakers
 
 If you use external speakers, double-check for loose wires, unseated connections, and similar physical ailments. (Yes, try unplugging and plugging them in again.) If those all pass the test, then it's time to ask for help from Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn to a Windows troubleshooter
 
@@ -120,6 +116,10 @@ Use the Get Help app.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. In the sound settings screen, check the Volume mixer
 
 In Windows 10, right-click the System Tray Audio icon and select **Open sound settings**. Scroll to the bottom of the sound settings screen and click the setting for **App volume and device preferences**.
@@ -133,10 +133,6 @@ Screenshot by Lance Whitney
 Check the Volume mixer in Windows 11.
 
 Screenshot by Lance Whitney
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Click the Reset button
 
@@ -175,7 +171,7 @@ Open Device Manager.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Click Update driver
@@ -187,7 +183,7 @@ Update the driver.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 12\. If this doesn't work, try uninstalling the driver
@@ -205,6 +201,10 @@ To bring back the driver, either reboot your PC or right-click on the entry for 
 Reinstall the audio driver.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 14\. Try stopping and restarting the Windows Audio service
 
@@ -259,16 +259,22 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/fixed-6-fixes-for-modern-warfare-2-crashing-on-pc/"><u>[Fixed] 6 Fixes for Modern Warfare 2 Crashing on PC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-essential-manual-for-simplified-live-streamers/"><u>2024 Approved The Essential Manual for Simplified Live Streamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehve-toms-electronics-your-go-to-source-for-hardware-trends/"><u>Comprehve Tom’s Electronics: Your Go-To Source for Hardware Trends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-reviews-toms-tech-wisdom/"><u>Dive Into Hardware Reviews - Tom's Tech Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dual-cpu-mastery-discover-the-power-of-silverstones-revolutionary-xe360-dual-aio-cooler/"><u>Dual-CPU Mastery: Discover the Power of SilverStone's Revolutionary XE360-Dual AIO Cooler</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/encoding-large-datasets-how-3d-printed-holograms-use-ordinary-plastics-for-secure-storage-of-keys-and-addresses-up-to-576-bits/"><u>Encoding Large Datasets: How 3D-Printed Holograms Use Ordinary Plastics for Secure Storage of Keys & Addresses (Up to 576 Bits)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-computer-hardware-from-tomamazement-channel/"><u>Expert Advice on Computer Hardware From Tom'amazement Channel</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-screen-recorder-showdown-testing-recmeister/"><u>In 2024, The Ultimate Screen Recorder Showdown Testing Recmeister</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prestige-pickers-top-ranked-websites-for-snapping-alert-songs/"><u>Prestige Pickers Top-Ranked Websites for Snapping Alert Songs</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-shaky-videos-be-gone-10-free-online-stabilizers-to-try/"><u>Updated 2024 Approved Shaky Videos Be Gone! 10 Free Online Stabilizers to Try</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-examining-the-effectiveness-of-selfie-validation-on-instagram-for-2024/"><u>[New] Examining the Effectiveness of Selfie Validation on Instagram for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-smartphones-ultimate-guide-to-image-editing-and-annotation/"><u>[New] Smartphones' Ultimate Guide to Image Editing & Annotation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-snap-to-stream-a-complete-youtube-picture-upload-manual/"><u>2024 Approved From Snap to Stream A Complete YouTube Picture Upload Manual</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-diy-car-dash-cam-and-rearview-backup-camera-system-save-96-install-it-yourself/"><u>Affordable DIY Car Dash Cam & Rearview Backup Camera System: Save $96 - Install It Yourself!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-prime-cardholders-unlock-affordable-flights-for-just-25-exclusive-student-offer-wired/"><u>Amazon Prime Cardholders Unlock Affordable Flights for Just $25 - Exclusive Student Offer | Wired</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/android-autos-future-with-artificial-intelligence-simplifying-message-digests-on-the-road-techcrunch/"><u>Android Auto's Future with Artificial Intelligence: Simplifying Message Digests on the Road | TechCrunch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-united-airlines-be-sexy-staff-says-no-despite-marketing-efforts/"><u>Can United Airlines Be Sexy? Staff Says No, Despite Marketing Efforts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/driving-into-the-future-enhanced-google-chrome-and-latest-android-auto-integration-comes-to-vehicles/"><u>Driving Into the Future: Enhanced Google Chrome & Latest Android Auto Integration Comes to Vehicles!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/electric-giant-teslas-surprising-edge-over-competitors-in-the-worlds-largest-car-market-analysis-by-zdnet/"><u>Electric Giant: Tesla's Surprising Edge Over Competitors in the World's Largest Car Market | Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/electric-revolution-unveiled-live-stream-ces-202/"><u>Electric Revolution Unveiled: Live Stream CES 202</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/electric-vehicle-advancements-drive-auto-sectors-shift-towards-digital-innovation-insights-from-zdnet/"><u>Electric Vehicle Advancements Drive Auto Sector's Shift Towards Digital Innovation: Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/re-11-budget-friendly-title-generators-for-yt-for-2024/"><u>Explore 11 Budget-Friendly Title Generators for YT for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-lava-blaze-2-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Lava Blaze 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-pro-max-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 Pro Max Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/streamlining-your-ps3-gaming-archive/"><u>Streamlining Your PS3 Gaming Archive</u></a></li>
 </ul></div>
 

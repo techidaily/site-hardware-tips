@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Gadgets with Tom: In-Depth Analysis of Modern Electronics"
-date: 2024-08-19T02:30:00.597Z
-updated: 2024-08-20T02:30:00.597Z
+date: 2025-01-21T00:33:13.714Z
+updated: 2025-01-25T02:31:21.822Z
 tags:
   - components
 categories:
@@ -16,6 +16,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
  Compared to other eGPU solutions, the Wiko Hi GT Cube doesn't seem particularly concerned with expanding storage or I/O. Instead, the focus is on the total 100-watt charging capacity. The overall pricing of 399 Chinese yuan (broadly equivalent to about $558) places it lower than most other 7600M XT eGPUs, which usually exceed $600.
 
  Also, while Wika's Wiko Hi GT may come from a company that primarily sells rebadged Huawei products, they don't seem to be a Huawei subsidiary...though the Hi GT's China launch appears to have been done with the recent release of the Huawei MateBook GT 14 in mind.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wiko Hi GT Cube eGPU Specifications
 
@@ -37,6 +41,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
 
  Overall, the Wiko Hi GT Cube does seem to be a compelling offer, and it is like a suitable companion to the Huawei Mate GT 14 laptop, but with one very crucial downside. While Thunderbolt support is listed, the specific version of Thunderbolt is not. Thunderbolt 3 and 4 are most likely considering the usage of USB4— and while all three standards are typically capped at 40 Gigabits, Thunderbolt 4 is still the best for driving an eGPU. OCuLink would be even better, but unfortunately, it isn't present in any form.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +59,6 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +66,26 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-the-best-practices-for-linktree-on-tiktok-profiles/"><u>[New] 2024 Approved Unveiling the Best Practices for Linktree on TikTok Profiles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-science-spheres-top-15-youtube-insights/"><u>[New] In 2024, Science Sphere's Top 15 YouTube Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-10-free-video-call-app-for-android-and-iphone-100-secure/"><u>[Updated] In 2024, 10 Free Video Call App for Android and iPhone (100% Secure)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-online-free-video-editing-hacks/"><u>[Updated] Top Online Free Video Editing Hacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-gaming-ssds-of-the-year-ultimate-guide-for-ps5xbox-and-pc-users-insights-from-zdnet/"><u>Discover the Best Gaming SSDs of the Year: Ultimate Guide for PS5/Xbox and PC Users | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-apples-development-of-innovative-smart-display-and-enhanced-airpods-pro-insights-from-zdnet/"><u>Exclusive: Apple's Development of Innovative Smart Display and Enhanced AirPods Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-benefits-of-using-nvidias-chatbot-software-for-free-operated-locally-from-pc-insights-at-zdnet/"><u>Explore the Benefits of Using NVIDIA's Chatbot Software for Free, Operated Locally From PC | Insights at ZDNET</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-2023-how-to-share-a-tiktok-video-on-twitter/"><u>In 2024, 2023 | How to Share A Tiktok Video on Twitter?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-a34-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy A34 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-redmi-note-12-4g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi Redmi Note 12 4G online without jailbreak</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-whimsical-videoland-assessment/"><u>In 2024, Whimsical Videoland Assessment</u></a></li>
+<li><a href="https://fox-http.techidaily.com/integrate-efficiently-macos-sierra-for-desktop-enhancement/"><u>Integrate Efficiently MacOS Sierra for Desktop Enhancement</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-steam-game-locks-in-windows-environment/"><u>Resolving Steam Game Locks in Windows Environment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-your-dream-gaming-rig-limited-time-offer-of-500-off-top-msi-laptops-shop-now-at-zdnet/"><u>Score Your Dream Gaming Rig: Limited-Time Offer of 500 Off Top MSI Laptops | Shop Now at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/skip-the-queue-masterful-tips-for-buying-new-apple-macbook-pro-and-mac-mini-directly-expert-advice-by-zdnet/"><u>Skip the Queue: Masterful Tips for Buying New Apple MacBook Pro and Mac Mini Directly | Expert Advice by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/skip-waiting-in-queue-for-apples-new-tech-a-zdnet-expert-buying-strategy-for-macbook-pro-and-mac-mini/"><u>Skip Waiting in Queue for Apple's New Tech: A ZDNet Expert Buying Strategy for MacBook Pro and Mac Mini</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-expenses-by-500plus-essential-cost-saving-strategies-for-entrepreneurs-insights-from-zdnet/"><u>Slash Expenses by $500+: Essential Cost-Saving Strategies for Entrepreneurs - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-restoring-default-sound-settings-on-windows-os-digital-trends/"><u>Step-by-Step Tutorial: Restoring Default Sound Settings on Windows OS | Digital Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-budget-friendly-gaming-pcs-for-202eby-expert-selections-from-zdnet/"><u>Ultimate Guide to Budget-Friendly Gaming PCs for 202Eby: Expert Selections From ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->

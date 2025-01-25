@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: The Ultimate Guide to Computer Components"
-date: 2024-08-19T03:50:46.289Z
-updated: 2024-08-20T03:50:46.289Z
+date: 2025-01-18T22:58:57.731Z
+updated: 2025-01-24T21:08:36.192Z
 tags:
   - cooling
 categories:
@@ -69,6 +69,10 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
   
  The Freezer 36 sells for[$25.40](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG6NBSJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8205773312092432340-20) , while the Freezer 36 Black will set you back[$28.48](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH14935%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-9363665590588779081-20) . Meanwhile, the Freezer 36 CO retails for[$27.71](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG62KBZ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3116022598048932967-20) . The RGB versions carry a slightly higher premium, with the Freezer 36 A-RGB White and Freezer 36 A-RGB Black selling at[$33.87](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH4YDS9%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8017403963971760368-20) and[$33.10](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH22MT1%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1231453507516044270-20) , respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -77,14 +81,11 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -93,8 +94,20 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-harnessing-the-power-of-mov-recording-in-windows-10/"><u>[New] 2024 Approved Harnessing the Power of MOV Recording in Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-tier-mobile-cloud-space-hacks-for-android/"><u>[New] Top-Tier Mobile Cloud Space Hacks for Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-windows-desktop-snapshot-learn-it-for-free-today/"><u>2024 Approved Windows Desktop Snapshot Learn It for Free Today</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/detailed-guide-to-using-firefoxs-picture-in-picture-mode/"><u>Detailed Guide to Using Firefox's Picture-in-Picture Mode</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-magic-6-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor Magic 6 Pro Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-revolutionary-beelink-gti14-with-pcie-x8-slot-and-integrated-power-built-on-meteor-lake-technology/"><u>Introducing the Revolutionary Beelink GTi14 with PCIe X8 Slot and Integrated Power – Built on Meteor Lake Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-reviews-top-gadgets-and-pc-builds/"><u>Tom's Hardware Reviews: Top Gadgets and PC Builds</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723809008145-top-tips-for-optimizing-menu-functionality-on-leading-networks-learn-to-efficiently-scroll-and-manage-content-on-facebook-linkedin-and-youtube/"><u>Top Tips for Optimizing Menu Functionality on Leading Networks – Learn to Efficiently Scroll & Manage Content on Facebook, LinkedIn, and YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-tech-trends-at-toms-hardware-chronicles/"><u>Unveiling New Tech Trends at Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-a-tour-of-toms-technology-rundown/"><u>Unveiling the Latest Gadgets: A Tour of Tom's Technology Rundown</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->

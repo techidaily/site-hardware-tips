@@ -1,7 +1,7 @@
 ---
 title: Navigating New Electronics with Tom's Hardware Guides
-date: 2024-08-19T02:26:28.960Z
-updated: 2024-08-20T02:26:28.960Z
+date: 2025-01-18T20:37:54.936Z
+updated: 2025-01-24T21:57:01.107Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
 
  As we said before, this is a work in progress, and plans are in the works for new features. One of the most significant upgrades Spiritual\_Aside\_7859 plans to include is speech recognition so you can verbally communicate with the koala bear assistant. In the meantime, you can see what this[Raspberry Pi project](https://tools.techidaily.com) is capable of over at[Reddit](https://www.reddit.com/r/arduino/comments/1deo04x/ai%5Fassistant) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,20 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-enriching-meta-descriptions-a-template-transformation-journey/"><u>[New] Enriching Meta Descriptions A Template Transformation Journey</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-ps4-captures-with-obs-studio-your-complete-guide/"><u>[Updated] 2024 Approved Mastering PS4 Captures with OBS Studio - Your Complete Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-complete-blueprint-integrating-real-time-video-on-sites/"><u>[Updated] The Complete Blueprint Integrating Real-Time Video on Sites</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-15-pro-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 15 Pro in the Best Ways</u></a></li>
+<li><a href="https://win-webster.techidaily.com/macrium-reflect-solved-successfully-unmounting-volumes-in-three-simple-methods/"><u>Macrium Reflect Solved: Successfully Unmounting Volumes in Three Simple Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-kitchen-cleanup-with-a-hack-washing-tech-devices-in-the-dishwasher/"><u>Revolutionize Your Kitchen Cleanup with a Hack: Washing Tech Devices in the Dishwasher!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-affordable-mobile-tech-how-snapdragon-7c-gen-4-elevates-entry-level-smartphones/"><u>Revolutionizing Affordable Mobile Tech: How Snapdragon 7C Gen 4 Elevates Entry-Level Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-device-longevity-microsofts-shift-towards-easier-surface-fixes/"><u>Revolutionizing Device Longevity: Microsoft's Shift Towards Easier Surface Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-goes-head-to-head-with-apple-can-the-galaxy-book-pro-360-eclipse-the-macbook-air/"><u>Samsung Goes Head-to-Head with Apple: Can the Galaxy Book ˈPro 360 Eclipse the MacBook Air?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamlessly-connect-and-use-several-computers-with-inteln-thunderbolt-share-innovation/"><u>Seamlessly Connect and Use Several Computers with Intel'n Thunderbolt Share Innovation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleashing-connectivity-on-the-go-navigating-through-t-mobiles-metro-wireless-terms-and-conditions/"><u>Unleashing Connectivity on the Go - Navigating Through T-Mobile's Metro Wireless Terms and Conditions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unraveling-youtubes-vision-for-a-thriving-ecosystem-of-short-form-video/"><u>Unraveling YouTube's Vision for a Thriving Ecosystem of Short-Form Video</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

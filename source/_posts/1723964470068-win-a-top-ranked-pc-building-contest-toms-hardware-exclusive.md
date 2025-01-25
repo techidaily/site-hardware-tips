@@ -1,7 +1,7 @@
 ---
 title: "Win a Top-Ranked PC Building Contest: Tom's Hardware Exclusive!"
-date: 2024-08-19T02:31:53.206Z
-updated: 2024-08-20T02:31:53.206Z
+date: 2025-01-21T01:20:38.318Z
+updated: 2025-01-25T01:21:26.494Z
 tags:
   - build
 categories:
@@ -19,6 +19,10 @@ Are you looking for a cost-effective way to assemble a little gaming rig? You ca
 
 Keep scrolling for more of today's deals.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TL;DR — Today’s Best Deals
 
 * **AMD Ryzen 7 5800X, Motherboard & RAM Combo:** [**now $333 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2064515025315493140%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252FProduct%252FComboDealDetails%253FItemList%253DCombo.4568496) **(was $427)**
@@ -26,6 +30,10 @@ Keep scrolling for more of today's deals.
 * **Corsair Katar Pro XT:** [**now $21 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB08SHCKVTG%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1623005334304824918-20) **(was $34)**
 * **SanDisk 256GB Ultra USB 3.0 Flash Drive:** [**now $12 at Walmart**](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-5142007615266812665&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSanDisk-256GB-Ultra-USB-3-0-Flash-Drive-130MB-s-SDCZ48-256G-AW4%2F259605765) **(was $26)**
 * **Inland Glass PLA 3D Printer Filament:** [**now $10 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09PC96H21%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6540726685219791860-20) **(was $22)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -66,12 +74,9 @@ Keep scrolling for more of today's deals.
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09PC96H21%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1136475424910050110-20)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
@@ -79,9 +84,14 @@ Category
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Back to Processors
 
@@ -89,10 +99,6 @@ Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  AMD
 
  Corsair
@@ -105,10 +111,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 43 deals
@@ -117,9 +119,6 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 [AMD Ryzen 7 5800X](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0815XFSGK%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6390834075952669047-20)
 
 (Black)
@@ -302,9 +301,6 @@ Our Review
 
  Load more deals
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -319,8 +315,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -328,4 +322,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-groundbreaking-action-adventure-masterpieces-top-10/"><u>[Updated] 2024 Approved Groundbreaking Action-Adventure Masterpieces (Top 10)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-pulse-of-the-population-vllo-analysis/"><u>[Updated] 2024 Approved The Pulse of the Population VLLO Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/28-purchase-deal-on-top-rated-non-airtag-dog-trackers-this-labor-day-a-comprehensive-review-by-zdnet/"><u>$28 Purchase Deal on Top-Rated Non-AirTag Dog Trackers This Labor Day - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-power-station-boosts-road-trips-a-review-by-zdnet/"><u>Budget-Friendly Power Station Boosts Road Trips - A Review by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-interactive-web-platforms-with-gpt-3-integration/"><u>Creating Interactive Web Platforms with GPT-3 Integration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cult-of-the-lamb-malfunction-solutions-for-a-seamless-pc-gaming-experience/"><u>Cult of the Lamb Malfunction Solutions for a Seamless PC Gaming Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/huawei-p10-review/"><u>Huawei P10 Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rful-multiclip-management-on-youtube-for-2024/"><u>Masterful Multiclip Management on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-special-offer-save-45-on-the-roborock-q7-maxplus-automated-cleaning-system-for-hardwood-and-tile-floors-tech-news/"><u>Memorial Day Special Offer: Save 45% on the Roborock Q7 Max+ Automated Cleaning System for Hardwood and Tile Floors | Tech News</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-popular-online-communities-a-look-at-facebook-twitter-instagram-youtube/"><u>Navigating Popular Online Communities: A Look at Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/pangu-frp-bypass-and-best-alternative-tool-for-your-android-device-by-drfone-android/"><u>Pangu FRP Bypass and Best Alternative Tool For your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/roomba-robotic-vacuums-ranking-of-2eepy-2024-thoroughly-tested-and-expert-opinions-cnet/"><u>Roomba Robotic Vacuums Ranking of 2Eepy 2024: Thoroughly Tested and Expert Opinions | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tipsy-circuits-how-my-robo-sommeliers-wine-blunder-turned-into-an-odd-tip-request-adventure-zdnet/"><u>Tipsy Circuits! How My Robo-Sommelier's Wine Blunder Turned Into an Odd Tip Request Adventure | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-telepresence-bots-comprehensive-review-and-ranking/"><u>Top 5 Telepresence Bots : Comprehensive Review & Ranking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-robot-floor-cleaners-comprehensive-reviews-and-testing-insights-techradar/"><u>Top-Rated Robot Floor Cleaners : Comprehensive Reviews & Testing Insights | TechRadar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-fix-cod-black-ops-cold-war-failure-to-start-on-your-computer/"><u>Troubleshooting Steps: How to Fix Cod: Black Ops Cold War Failure to Start on Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-get-the-high-performance-eufy-twin-turbine-vac-for-only-360-before-labor-day-ends-gadget-bargains/"><u>Unbeatable Deal Alert: Get the High-Performance Eufy Twin Turbine Vac for Only $360 Before Labor Day Ends | Gadget Bargains</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unprecedented-deal-alert-roborock-s8-pro-ultra-now-just-650-below-regular-pricing-despite-post-prime-day-drop-insights-from-zdnet/"><u>Unprecedented Deal Alert: Roborock S8 Pro Ultra Now Just $650 Below Regular Pricing, Despite Post-Prime Day Drop - Insights From ZDNet</u></a></li>
+</ul></div>
 

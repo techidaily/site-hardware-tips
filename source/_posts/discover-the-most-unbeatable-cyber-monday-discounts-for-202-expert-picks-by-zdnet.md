@@ -1,7 +1,7 @@
 ---
 title: "Discover the Most Unbeatable Cyber Monday Discounts for 202#: Expert Picks by ZDNet"
-date: 2025-01-12T17:09:51.236Z
-updated: 2025-01-18T16:06:59.777Z
+date: 2025-01-20T00:23:05.990Z
+updated: 2025-01-24T18:01:19.895Z
 tags:
   - laptops
 categories:
@@ -130,6 +130,10 @@ ZDNET
 * [Gran Turismo 7 standard edition for $41 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGran-Turismo-7-PlayStation-5%2F443954076%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The definitive racing sim is back on PS5 with an all-new solo campaign, over 420 cars to unlock, and over 90 tracks to master.
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day Xbox Series X|S deals
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d6a7a4b-7078-4dcf-80e0-2c2bf8a0d6dd%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -150,7 +154,7 @@ ZDNET
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d6a7a4b-7078-4dcf-80e0-2c2bf8a0d6dd%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
@@ -191,7 +195,7 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
@@ -231,19 +235,19 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $810 (save $114 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -252,10 +256,6 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -322,16 +322,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-soil-to-success-selecting-the-top-valheim-seeds/"><u>[Updated] From Soil to Success Selecting the Top Valheim Seeds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-podcast-dominance-through-effective-seo-strategies/"><u>[Updated] In 2024, Podcast Dominance Through Effective SEO Strategies</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-cutting-out-clutter-strategies-to-refine-audible-landscapes-with-web-based-audio-processors/"><u>2024 Approved Cutting Out Clutter Strategies to Refine Audible Landscapes with Web-Based Audio Processors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-is-generative-ai-emerging-as-the-next-frontier-in-spreading-misinformation/"><u>How Is Generative AI Emerging as the Next Frontier in Spreading Misinformation?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-modern-habits-a-comprehensive-guide-to-leveraging-chatgpt-for-lifestyle-improvement/"><u>Mastering Modern Habits: A Comprehensive Guide to Leveraging ChatGPT for Lifestyle Improvement</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-on-hardware-and-software/"><u>Tom's Tech Insights: In-Depth Guides on Hardware and Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gadgets-with-toms-electronic-review/"><u>Unveiling the Latest in Gadgets with Tom's Electronic Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-toms-electronic-innovations/"><u>Unveiling the Latest in Tom's Electronic Innovations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-gaming-experience-with-nextorages-new-8tb-ssd-fast-speeds-and-abundant-space-only-849-perfect-for-pc-and-ps5-gamers/"><u>Upgrade Your Gaming Experience with Nextorage's New 8TB SSD - Fast Speeds & Abundant Space! Only $849 – Perfect for PC and PS5 Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ymtc-files-lawsuit-against-micron-in-us-claims-unauthorized-use-of-11-chinese-owned-memory-patents/"><u>YMTC Files Lawsuit Against Micron in U.S.: Claims Unauthorized Use of 11 Chinese-Owned Memory Patents</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-step-up-and-snap-top-10-must-try-viral-tiktok-stunts/"><u>[New] 2024 Approved Step Up and Snap Top 10 Must-Try Viral TikTok Stunts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unlock-the-secrets-for-a-viral-instagram-account-gain-fans-and-verified-status-in-less-than-150-characters/"><u>[New] In 2024, Unlock the Secrets for a Viral Instagram Account Gain Fans and Verified Status in Less Than 150 Characters</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-who-wins-in-the-battle-of-hero-v5-vs-km-170-in-2024/"><u>[New] Who Wins in the Battle of HERO V5 vs KM-170, In 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-powerhouse-modifications-top-10-os-xwin-srt-systems-unveiled/"><u>[Updated] Powerhouse Modifications Top 10 OS X/Win SRT Systems Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assessing-cell-phones-carbon-footprint-effective-strategies-for-a-greener-future/"><u>Assessing Cell Phone's Carbon Footprint: Effective Strategies for a Greener Future</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-an-eco-friendly-tomorrow-navigating-the-tech-landscapes-green-transformation-with-zdnet/"><u>Building an Eco-Friendly Tomorrow: Navigating the Tech Landscape's Green Transformation with ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/climate-crisis-countermeasures-how-five-breakthrough-technologies-offer-hope-for-a-greener-future-analysis-by-zdnet/"><u>Climate Crisis Countermeasures: How Five Breakthrough Technologies Offer Hope for a Greener Future | Analysis by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-keeping-your-ipad-free-from-youtube-distractions/"><u>Comprehensive Guide: Keeping Your iPad Free From YouTube Distractions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/could-the-revolutionary-bike-suv-transform-your-commute-and-ditch-the-need-for-a-traditional-vehicle-discover-how-in-our-exclusive-analysis/"><u>Could the Revolutionary Bike SUV Transform Your Commute, and Ditch the Need for a Traditional Vehicle? Discover How in Our Exclusive Analysis!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creating-a-greener-future-with-tech-top-5-sustainability-tips-by-experts-at-zdnet/"><u>Creating a Greener Future with Tech: Top 5 Sustainability Tips by Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/demystifying-the-right-to-repair-movement-how-it-benefits-users-and-why-you-should-care-digital-world-today/"><u>Demystifying the Right to Repair Movement: How It Benefits Users and Why You Should Care | Digital World Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-many-pounds-of-co2-youve-prevented-by-using-uber-unveiling-the-new-emissions-savings-monitor/"><u>Discover How Many Pounds of CO2 You've Prevented by Using Uber – Unveiling the New Emissions Savings Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dynamic-car-insurance-pricing-based-on-real-time-driving-behavior-insights-from-zdnet/"><u>Dynamic Car Insurance Pricing Based on Real-Time Driving Behavior - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-smart-stickies-how-rocketbooks-innovative-solution-is-changing-note-taking-zdnet/"><u>Eco-Friendly Smart Stickies: How Rocketbook's Innovative Solution Is Changing Note-Taking | ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-reno-8t-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo Reno 8T in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-dreamlight-valleys-pc-crashing-problem-discover-6-reliable-fixes/"><u>Overcoming Dreamlight Valley's PC Crashing Problem: Discover 6 Reliable Fixes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/todas-las-tecnicas-para-reducir-el-tamano-de-su-archivo-video-mkv-sin-coste/"><u>Todas Las Técnicas Para Reducir El Tamaño De Su Archivo Video MKV Sin Coste</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo V27? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights From ZDNet"
-date: 2025-01-17T17:48:54.030Z
-updated: 2025-01-18T16:55:28.700Z
+date: 2025-01-21T17:11:52.355Z
+updated: 2025-01-24T17:02:30.768Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,19 +116,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-revolutionizing-home-broadcasts-with-advanced-webcams-for-2024/"><u>[Updated] Revolutionizing Home Broadcasts with Advanced WebCams for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ai-enabled-msi-desktops-with-front-mounted-1080p-touch-screens-for-interactive-experience/"><u>AI-Enabled MSI Desktops with Front-Mounted 1080P Touch Screens for Interactive Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-correct-dota-2-graphics-api-error-2027-fast-and-simple-fixes/"><u>Expert Tips to Correct 'Dota 2 Graphics API' Error 2027: Fast and Simple Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fast-and-economical-snag-your-elegoo-neptune-4-pro-today-for-up-to-20-quicker-and-save-75/"><u>Fast & Economical: Snag Your Elegoo Neptune 4 Pro Today for Up to 20% Quicker and Save $75</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-creating-engaging-youtube-content-a-step-by-step-approach/"><u>In 2024, Creating Engaging YouTube Content A Step-by-Step Approach</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/selective-enhancements-for-optimal-gopro-use/"><u>Selective Enhancements for Optimal Gopro Use</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-eraser-guru-expert-tips-for-psx-users-for-2024/"><u>The Eraser Guru Expert Tips for PSX Users for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-g310-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-infinix-note-30-vip-racing-edition-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Infinix Note 30 VIP Racing Edition to Gmail | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-top-usb-c-laptop-chargers-with-efficient-gan-technology/"><u>Ultimate Guide to Top USB-C Laptop Chargers with Efficient GaN Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-elegoo-neptone-4-pro-laser-cutter-just-284/"><u>Unbeatable Price: Elegoo Neptone 4 Pro Laser Cutter - Just $284!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-gear-with-toms-equipment-insights/"><u>Unveiling the Latest in PC Gear with Tom's Equipment Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723262290492-water-cooling-unleashes-power-the-ryzen-9-9950x-secures-5th-fastest-cpu-title-behind-xeon-and-threadripper-in-extreme-benchmarks/"><u>Water Cooling Unleashes Power: The Ryzen 9 9950X Secures 5Th Fastest CPU Title, Behind Xeon and Threadripper in Extreme Benchmarks!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-game-changing-growl-techniques-in-free-fire/"><u>[New] Game-Changing Growl Techniques in Free Fire</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-pros-choice-high-quality-4k-dslr-mounting-systems/"><u>[New] In 2024, Pro's Choice High-Quality 4K DSLR Mounting Systems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-from-chaos-to-clarity-mastering-xiaomis-screen-recording/"><u>[Updated] In 2024, From Chaos to Clarity Mastering Xiaomi's Screen Recording</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-creative-and-advanced-alternatives-to-chatgpt-apps/"><u>7 Creative and Advanced Alternatives to ChatGPT Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/conquering-content-sharing-on-igtv-for-2024/"><u>Conquering Content Sharing on IGTV for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-microsoft-azure-for-text-conversion-for-2024/"><u>Navigating Microsoft Azure for Text Conversion for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-digital-dependence-my-journey-from-gps-to-traditional-map-reading-and-what-it-means-amidst-rising-dementia-concerns/"><u>Say Goodbye to Digital Dependence: My Journey From GPS to Traditional Map Reading and What It Means Amidst Rising Dementia Concerns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sky-high-deliveries-soar-higher-walmart-expands-unmanned-aerial-vehicle-program-for-swift-shipping-solutions-zdnet/"><u>Sky-High Deliveries Soar Higher: Walmart Expands Unmanned Aerial Vehicle Program for Swift Shipping Solutions | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-airfare-by-half-unlock-savings-of-2000plus-through-the-exclusive-dollar-flight-club-revealed-on-zdnet/"><u>Slash Your Airfare by Half: Unlock Savings of $2,000+ Through the Exclusive Dollar Flight Club - Revealed on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-travel-costs-in-half-with-dollar-flight-clubs-insane-sale-up-to-94-off-now-zdnet/"><u>Slash Your Travel Costs in Half with Dollar Flight Club's Insane Sale - Up to 94% Off Now | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/southwests-costly-misstep-penalizing-customers-at-the-inopportune-time-analyzed-by-zdnet/"><u>Southwest's Costly Misstep: Penalizing Customers at the Inopportune Time Analyzed by ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tech-tips-how-to-get-fcp-without-money/"><u>Tech Tips How to Get FCP Without Money</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-completes-delivery-of-revolutionary-electric-semi-trucks-zdnet/"><u>Tesla Completes Delivery of Revolutionary Electric Semi-Trucks - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-confirms-progress-with-cybertruck-manufacturing-and-hints-at-future-vehicle-architecture-zdnet/"><u>Tesla Confirms Progress with Cybertruck Manufacturing and Hints at Future Vehicle Architecture - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-hybrid-vehicles-comprehensive-review-by-zdnet/"><u>Top 5 Hybrid Vehicles : Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-liebesfilme-aller-zeiten-die-ultimative-herausforderung-zum-herunterladen/"><u>Top-Liebesfilme Aller Zeiten: Die Ultimative Herausforderung Zum Herunterladen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-ps-vr-and-pc-integration-tutorial-how-to-connect-them-effortlessly/"><u>Wireless PS VR and PC Integration Tutorial: How To Connect Them Effortlessly</u></a></li>
 </ul></div>
 

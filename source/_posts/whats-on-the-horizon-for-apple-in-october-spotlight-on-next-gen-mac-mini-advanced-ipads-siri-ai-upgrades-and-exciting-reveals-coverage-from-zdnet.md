@@ -1,7 +1,7 @@
 ---
 title: What's on the Horizon for Apple in October? Spotlight on Next-Gen Mac Mini, Advanced iPads, Siri AI Upgrades & Exciting Reveals | Coverage From ZDNET
-date: 2025-01-15T19:43:45.423Z
-updated: 2025-01-18T18:34:07.183Z
+date: 2025-01-21T21:12:21.929Z
+updated: 2025-01-25T02:26:36.810Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,20 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-entrepreneur-writes-top-youtube-sites-for-business-success-for-2024/"><u>[Updated] Entrepreneur' Writes Top YouTube Sites for Business Success for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-xs-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone XS Max Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-z-flip-5-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy Z Flip 5 Phone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-accelerate-your-storytelling-with-customized-speed-settings/"><u>In 2024, Accelerate Your Storytelling with Customized Speed Settings</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-performance-select-the-best-from-toms-tech-gear/"><u>Maximize Performance: Select the Best From Tom's Tech Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-digital-innovation-through-tome-hardware-experts/"><u>Navigating Digital Innovation Through Tom'e Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-trends-insider-tips-from-toms-hardware-experts/"><u>Navigating New Tech Trends: Insider Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-issues-overcoming-previous-death-stranding-pc-game-crashes/"><u>Resolved Issues: Overcoming Previous Death Stranding PC Game Crashes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-odyssey-gaming-monitor-4k-55-inches-new-generation-unprecedentedly-affordable/"><u>Samsung Odyssey Gaming Monitor (4K, 55 Inches) - New Generation, Unprecedentedly Affordable</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-problems-when-upgrading-to-windows-1903-a-step-by-step-guide/"><u>Solving Problems When Upgrading to Windows 1903: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/title-master-your-gameplay-on-asus-rog-strix-xg27acs-the-180hz-gaming-marvel-unveiled/"><u>Title: Master Your Gameplay on Asus ROG Strix XG27ACS - The 180Hz Gaming Marvel Unveiled!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-comprehensive-analysis-of-latest-tech-devices-and-performance-benchmarks/"><u>Tom's Comprehensive Analysis of Latest Tech Devices & Performance Benchmarks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-features-of-the-popular-tp-link-archer-c9-router-on-a-budget/"><u>Unpacking the Features of the Popular TP-Link Archer C9 Router on a Budget</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-save-photo-from-video-in-windows-11-photos-app-for-2024/"><u>[New] How to Save Photo From Video in Windows 11 Photos App for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premium-steadicams-tailored-for-uav-filmmaking-scenarios/"><u>[Updated] 2024 Approved Premium Steadicams Tailored for UAV Filmmaking Scenarios</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-gear-youtube-pros-choice-in-shaky-free-video-capture-for-2024/"><u>[Updated] Top Gear YouTube Pros' Choice in Shaky-Free Video Capture for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-five-ideas-of-winter-youtube-background-to-warm-up-your-videos/"><u>2024 Approved Five Ideas of Winter YouTube Background to Warm Up Your Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-10-free-slideshow-designs-for-easy-presentations/"><u>2024 Approved Top 10 Free Slideshow Designs for Easy Presentations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-the-withings-scanwatch-a-beautiful-timepiece-with-advanced-doctor-level-wellness-monitoring-insights-from-zdnet/"><u>Comprehensive Analysis of the Withings ScanWatch: A Beautiful Timepiece with Advanced Doctor-Level Wellness Monitoring - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-test-drive-of-the-revolutionary-amazfit-gtr-4-with-groundbreaking-gps-at-just-199-insights-from-tech-analysts-techradar/"><u>Comprehensive Test Drive of the Revolutionary Amazfit GTR 4 with Groundbreaking GPS at Just $199 - Insights From Tech Analysts | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/forerunner-face-off-choosing-between-garmins-265-and/"><u>Forerunner Face-Off: Choosing Between Garmin's 265 And</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-watch-series-2-unveiled-in-leak-explore-the-groundbreaking-features-revealed-on-zdnet/"><u>Pixel Watch Series 2 Unveiled in Leak: Explore the Groundbreaking Features Revealed on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tested-android-watch-impresses-influences-change-towards-pixel-exclusive-insights-on-zdnet/"><u>Top-Tested Android Watch Impresses, Influences Change Towards Pixel - Exclusive Insights on ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-no-audio-output-device-installed-issue-on-windows-11/"><u>Troubleshooting Guide: Resolving 'No Audio Output Device Installed' Issue on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-apples-latest-gadget-a-comprehensive-test-of-the-new-apple-watch-ultra-outperforming-obstacle-races/"><u>Unboxing Apple's Latest Gadget: A Comprehensive Test of the New Apple Watch Ultra - Outperforming Obstacle Races!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/understanding-common-boot-up-issues-and-their-fixes-expert-advice-from-yl-computings-technical-team/"><u>Understanding Common Boot-Up Issues and Their Fixes: Expert Advice From YL Computing's Technical Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-a-1200-discount-on-newly-released-samsung-z-fold-and-z-flip-6-phones-top-savings-strategies/"><u>Unlock a $1,200 Discount on Newly Released Samsung Z Fold and Z Flip 6 Phones | Top Savings Strategies</u></a></li>
 </ul></div>
 

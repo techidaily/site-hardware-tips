@@ -1,7 +1,7 @@
 ---
 title: Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life | ZDNet Insights
-date: 2025-01-14T18:28:39.833Z
-updated: 2025-01-18T17:19:19.879Z
+date: 2025-01-23T19:08:48.522Z
+updated: 2025-01-24T20:27:42.241Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,22 +218,18 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-cameras-for-quality-youtube-content/"><u>[New] 2024 Approved Best Cameras for Quality YouTube Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>[New] A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-science-of-choosing-music-for-movie-previews/"><u>[New] In 2024, The Science of Choosing Music for Movie Previews</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-innovating-your-slides-with-youtube-images/"><u>[Updated] In 2024, Innovating Your Slides with YouTube Images</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/clip-conquest-top-tags-for-dominating-video-trends-on-social-media-for-2024/"><u>Clip Conquest Top Tags for Dominating Video Trends on Social Media for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-expertise-with-toms-guide-the-ultimate-insight-destination/"><u>Dive Into Hardware Expertise with Tom's Guide - The Ultimate Insight Destination</u></a></li>
-<li><a href="https://discover-community.techidaily.com/experience-the-vibe-with-travis-scott-inspired-imagery-professional-photographs-hd-pictures-and-creative-wallpaper-designs-by-yl-software-solutions/"><u>Experience the Vibe with Travis Scott Inspired Imagery - Professional Photographs, HD Pictures, and Creative Wallpaper Designs by YL Software Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-with-tom-a-guide-to-cutting-edge-hardware-solutions/"><u>Exploring Advanced Gadgets with Tom: A Guide to Cutting-Edge Hardware Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-maximize-google-photos-for-photography-enthusiasts-for-2024/"><u>How to Maximize Google Photos for Photography Enthusiasts for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-g24-power-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola G24 Power Phone without PIN</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplifying-vfx-with-magix-video-pro-x/"><u>In 2024, Simplifying VFX with Magix Video Pro X</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-tech-choices-with-toms-hardware-insights-and-advice/"><u>Navigating Tech Choices with Tom's Hardware Insights & Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-realm-with-toms-equipment-expertise/"><u>Navigating the Digital Realm with Tom's Equipment Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-overclocking-milestone-rtx-3nce-3080-smashes-speed-limit-at-234ghz/"><u>New Overclocking Milestone: RTX 3Nce 3080 Smashes Speed Limit at 2.34GHz!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-world-record-achieved-gskills-ddr4-6666-memory-dominates-performance/"><u>New World Record Achieved: G.Skill's DDR4-6666 Memory Dominates Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-a-trustworthy-guide-to-your-tech-needs/"><u>Tom's Computer Components: A Trustworthy Guide to Your Tech Needs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-power-achieving-new-records-with-a-258-ghz-overclock-on-the-nvidia-geforce-rtx/"><u>Unleashing Power: Achieving New Records with a 2.58 GHz Overclock on the NVIDIA GeForce RTX 지오</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-insiders-guide-to-perfected-picture-hues/"><u>[Updated] The Insider's Guide to Perfected Picture Hues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dynamic-car-insurance-pricing-how-safe-driving-reduces-rates-based-on-telematics-tracking/"><u>Dynamic Car Insurance Pricing: How Safe Driving Reduces Rates Based on Telematics Tracking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-audio-solutions-crafting-high-quality-speakers-from-recycled-sea-plastic-a-deep-dive-into-the-manufacturing-process/"><u>Eco-Friendly Audio Solutions: Crafting High-Quality Speakers From Recycled Sea Plastic - A Deep Dive Into the Manufacturing Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-tech-initiatives-the-roadmap-for-corporate-environmental-responsibility-zdnet/"><u>Eco-Friendly Tech Initiatives: The Roadmap for Corporate Environmental Responsibility | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/efficiently-power-your-entire-house-with-ecoflows-portable-battery-a-lifesaver-during-blackouts/"><u>Efficiently Power Your Entire House with EcoFlow's Portable Battery - A Lifesaver During Blackouts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/efficiently-power-your-entire-house-with-ecoflows-portable-battery-during-outages-insights-from-zdnet/"><u>Efficiently Power Your Entire House with EcoFlow's Portable Battery During Outages - Insights From ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-twitter-to-whatsapp-a-guide-to-sharing-online-videos/"><u>From Twitter to WhatsApp A Guide to Sharing Online Videos</u></a></li>
+<li><a href="https://discover-help.techidaily.com/identifying-a-defective-processor-a-guide-by-yl-computing/"><u>Identifying a Defective Processor: A Guide by YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oneplus-11-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 OnePlus 11 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unlocking-asmrs-wellness-boost-for-you/"><u>In 2024, Unlocking ASMR's Wellness Boost for You</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-worlds-top-platforms-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the World's Top Platforms: Insights on Facebook, Twitter, Instagram and YouTube</u></a></li>
 </ul></div>
 

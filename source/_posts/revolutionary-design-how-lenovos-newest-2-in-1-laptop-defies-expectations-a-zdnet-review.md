@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Design: How Lenovo's Newest 2-in-1 Laptop Defies Expectations – A ZDNet Review"
-date: 2025-01-17T18:27:05.050Z
-updated: 2025-01-18T16:09:51.521Z
+date: 2025-01-19T00:50:07.887Z
+updated: 2025-01-25T00:20:38.681Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,19 +133,19 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-beginner-friendly-guide-to-iphone-screen-recordings/"><u>[New] 2024 Approved Beginner-Friendly Guide to iPhone Screen Recordings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unleash-creativity-video-art-and-live-streaming-with-vlc-webcam-capabilities-for-2024/"><u>[New] Unleash Creativity Video Art & Live Streaming with VLC Webcam Capabilities for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-deciphering-your-pathway-to-youtubes-maker-land/"><u>[Updated] Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-harness-the-potential-of-instagram-videos-for-brand-growth-for-2024/"><u>[Updated] Harness the Potential of Instagram Videos for Brand Growth for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/create-an-eye-catching-custom-windows-desktop-with-rainmeter-tips/"><u>Create an Eye-Catching Custom Windows Desktop with Rainmeter Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-microsofts-latest-bluetooth-drivers-for-windows-10-11-8-and-7/"><u>Download & Update Microsoft's Latest Bluetooth Drivers for Windows 10, 11, 8, and 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-optimal-printing-with-hp-laserjet-pro-m428fdx-drivers-seamless-compatibility-for-windows-11107-devices/"><u>Get Optimal Printing with HP LaserJet Pro M428fdx Drivers: Seamless Compatibility for Windows 11/10/7 Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862761231-introducing-minisforums-new-affordable-gaming-laptop-156-screen-144hz-refresh-rate-and-1440p-display-just-189/"><u>Introducing Minisforum's New Affordable Gaming Laptop: 15.6 Screen, 144Hz Refresh Rate & 1440P Display - Just $189!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862761478-score-a-steal-high-definition-samsung-odyssey-g5ta-monitor-for-just-255-at-amazon/"><u>Score a Steal: High-Definition Samsung Odyssey G5tA Monitor for Just $255 at Amazon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-your-game-with-a-sale-the-high-performance-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-for-only-199/"><u>Unleash Your Game with a Sale – The High-Performance Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor for Only $199</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-the-secrets-of-high-performance-computers-with-toms-insider-knowledge/"><u>Unlock the Secrets of High-Performance Computers with Tom's Insider Knowledge</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-linux-65-revolutionary-updates-and-improvements-detailed-digital-trends/"><u>Unveiling Linux 6.5: Revolutionary Updates and Improvements Detailed | Digital Trends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-asrock-pg2nqft2a-a-180hz-monitor-for-gamers-speed-quality-and-value-evaluation/"><u>Unveiling the ASRock PG2nQFT2a - A 180Hz Monitor for Gamers: Speed, Quality & Value Evaluation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-in-computer-equipment-with-toms-guide/"><u>Unveiling the Best in Computer Equipment with Tom’s Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-stunning-images-with-the-latest-iphone-camera-features/"><u>[New] 2024 Approved Stunning Images with the Latest iPhone Camera Features</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-no-pressure-pc-games-guide-for-2024/"><u>[New] Best No-Pressure PC Games Guide for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hats-the-take-home-from-each-youtube-sponsored-play-for-2024/"><u>[New] What's the Take-Home From Each YouTube Sponsored Play for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-crafting-compelling-and-credible-documentary-scripts/"><u>[Updated] The Ultimate Guide to Crafting Compelling and Credible Documentary Scripts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-on-the-move-dvd-player-selections-for-you/"><u>In 2024, Best On-the-Move DVD Player Selections for You</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-brother-mfc-9130cw-driver-download-for-windowsmac/"><u>Latest Version: Brother MFC-9130CW Driver Download for Windows/Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/masterful-aid-creation-simplified-the-best-7-cybernetic-tools/"><u>Masterful Aid Creation Simplified: The Best 7 Cybernetic Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-greens-with-tag-heuers-golf-edition-watch-the-ultimate-companion-for-every-golfer-tech-insights/"><u>Mastering the Greens with Tag Heuer's Golf Edition Watch - The Ultimate Companion for Every Golfer | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimizing-health-milestones-with-your-apple-watch-a-step-by-step-guide-to-goal-customization-featuring-zdnet/"><u>Optimizing Health Milestones with Your Apple Watch: A Step-by-Step Guide to Goal Customization [Featuring ZDNET]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-vs-apple-detailed-analysis-of-the-newest-generation-smartwatches-to-decide-your-next-wearable-device/"><u>Pixel Vs. Apple: Detailed Analysis of the Newest Generation Smartwatches to Decide Your Next Wearable Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-watch-ultra-why-it-reigns-supreme-among-android-smartwatches-and-now-comes-with-an-irresistible-labor-day-offer-tech-review-zdnet/"><u>Samsung Galaxy Watch Ultra: Why It Reigns Supreme Among Android Smartwatches and Now Comes with an Irresistible Labor Day Offer | Tech Review ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unveils-new-heart-health-monitoring-capabilities-for-galaxy-watch-series-exclusive-features-covered-by-zdnet/"><u>Samsung Unveils New Heart Health Monitoring Capabilities for Galaxy Watch Series | Exclusive Features Covered by ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-augmented-reality-fun-without-breaking-the-bank-a-look-at-the-arcshell-ar-5/"><u>Unlocking Augmented Reality Fun without Breaking the Bank – A Look at the Arcshell AR-5</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/xvideo-studio-dissected-full-analysis-guide-for-2024/"><u>XVideo Studio Dissected Full Analysis Guide for 2024</u></a></li>
 </ul></div>
 

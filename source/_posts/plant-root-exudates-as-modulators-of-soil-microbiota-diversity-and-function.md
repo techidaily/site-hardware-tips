@@ -1,7 +1,7 @@
 ---
 title: Plant Root Exudates as Modulators of Soil Microbiota Diversity and Function
-date: 2025-01-11T17:08:50.334Z
-updated: 2025-01-18T16:21:53.125Z
+date: 2025-01-22T22:54:09.239Z
+updated: 2025-01-24T19:47:24.579Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ If you're concerned about sitting for long periods during the workday, a standin
 
 [![office-chair-lead.jpg](https://www.zdnet.com/a/img/resize/fbc12dc3d0eeb922d308020f0cae2a4161fa0a4b/2020/01/17/a56e275d-8200-4769-8963-bb2a4d1fa76c/office-chair-lead.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best office chairs These are the best office chairs for back pain, posture, gaming, and more.  Read now](https://www.zdnet.com/article/best-office-chair/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To help you figure out which standing desks are worth your money, we've handpicked seven top-rated options that satisfy a range of preferences and needs. We first looked at the top brands, then combed through dozens of standing desk listings at different price points across several retailers and considered what user reviews had to say. 
 
 Ultimately, we landed on these standing desks, which are among the absolute [best desks](https://www.zdnet.com/article/best-desk/) you can buy online right now. 
@@ -45,6 +41,10 @@ Cons
 * Pesky crossbar
 
 ## Vari Electric Standing Desk
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best standing desk overall
 
@@ -70,6 +70,10 @@ Pros
 Cons 
 * Can get pricey the more that you add
 * Installation process is a multi-person job
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FlexiSpot E7 Pro Plus Electric Standing Desk
 
@@ -97,14 +101,10 @@ Cons
 * Complicated installation
 * Cross support system lacking
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Uplift V2 Standing Desk
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best adjustable standing desk
@@ -133,11 +133,11 @@ Cons
 * Can feel wobbly at high settings
 * A lower-quality electronic system
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fully Jarvis Bamboo standing desk
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best eco-friendly standing desk
 
@@ -163,14 +163,10 @@ Cons
 * No frills or extras
 * Minimal weight capacity
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Seville Classics Mobile Desk Cart
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best mobile standing desk
@@ -198,6 +194,10 @@ Cons
 * Basic design
 
 ## SHW Height Adjustable Mobile Laptop Standing Desk
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best budget standing desk
 
@@ -236,6 +236,10 @@ The E7 also offers single or dual mounts for your monitors. It's capable of lift
 The desk surface comes in four colors (black, white, bamboo, and rubberwood), while the base and monitor mounts are only available in black and white. 
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best standing desk?
 
@@ -284,10 +288,6 @@ A standing desk has many names. It's also known as a stand-up desk, height-adjus
 
 It's recommended to stand up from your desk once every hour if you have a regular sitting desk. If you have a standing desk, it's recommended to stand for four-six hours of your eight-hour workday.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How much does a standing desk cost?
 
 The cost of a standing desk ranges from less than $100 to more than $1,000, depending on the features you prefer. Our picks for the best standing desks range in price from less than $40 to around $750, combining affordability with convenience and reliability. 
@@ -297,7 +297,7 @@ The cost of a standing desk ranges from less than $100 to more than $1,000, depe
 According to Healthline, standing can [lower your risk](https://www.healthline.com/nutrition/7-benefits-of-a-standing-desk#TOC%5FTITLE%5FHDR%5F6) of heart disease and obesity and improve back pain. It can even reduce blood sugar levels.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative standing desks worth considering?
@@ -340,18 +340,24 @@ In our search for the best standing desks, we came across many great options. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-superior-hd-video-capturing-choosing-premium-recorder-models/"><u>[Updated] In 2024, Superior HD Video Capturing Choosing Premium Recorder Models</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-secrets-to-sustainable-earning-with-online-videos-for-2024/"><u>[Updated] Secrets to Sustainable Earning with Online Videos for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unlocking-zooms-potential-by-leveraging-skype/"><u>2024 Approved Unlocking Zoom's Potential by Leveraging Skype</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cooling-solutions-redefined-by-silverstone-icemyst-targeting-hard-to-reach-areas-effortlessly/"><u>Cooling Solutions Redefined by SilverStone IceMyst: Targeting Hard-to-Reach Areas Effortlessly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-pc-gear-discover-what-tom-has-to-say/"><u>Expert Tips on PC Gear - Discover What Tom Has to Say</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-v30-lite-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your V30 Lite 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-live-tv-is-vmix-or-wirecast-your-go-to-tool/"><u>In 2024, Mastering LIVE TV Is VMix or Wirecast Your Go-To Tool?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/peak-performance-audio-organizer-android/"><u>Peak Performance Audio Organizer, Android</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-how-to-get-back-windows-that-have-vanished-off-screen/"><u>Step by Step: How to Get Back Windows That Have Vanished Off-Screen</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-a-comprehensive-look-at-hardware/"><u>Tom's Tech Review: A Comprehensive Look at Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-tom-your-guide-to-cutting-edge-technology/"><u>Unveiling the Latest Gadgets with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-free-dvd-players-compatible-with-windows-10-updated-2023-for-2024/"><u>Updated The Best Free DVD Players Compatible with Windows 10 (Updated 2023) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-downloading-your-youtube-watch-lists-step-by-step/"><u>[New] 2024 Approved Downloading Your YouTube Watch Lists Step by Step</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-aerial-units-phylogeny/"><u>[New] In 2024, Aerial Units' Phylogeny</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-10-elite-sites-for-high-res-vectors/"><u>[New] Top 10 Elite Sites For High-Res Vectors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-bare-walls-to-full-screens-10-fixes-for-no-video-views-for-2024/"><u>[Updated] From Bare Walls to Full Screens 10 Fixes for No Video Views for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-vloggers-ultimate-guide-to-best-gaming-microphones/"><u>2024 Approved Vloggers' Ultimate Guide to Best Gaming Microphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-overclockers-dream-board-arrives-meet-the-asus-z79e-aywifi-w-debuting-with-impressive-ddr5-capabilities/"><u>Budget Overclocker's Dream Board Arrives: Meet the Asus Z79e-AYWIFI W Debuting with Impressive DDR5 Capabilities</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-standards-for-comedic-posts-at-facebook/"><u>New Standards for Comedic Posts at Facebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ist-retrieval-made-straightforward-your-compreenaside/"><u>Playlist Retrieval Made Straightforward - Your Compreenaside</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/proven-pathways-to-profit-with-youtube-short-videos/"><u>Proven Pathways to Profit with YouTube Short Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/singapores-strategic-leap-enhancing-artificial-intelligence-through-quantum-initiatives-and-advanced-data-hubs-insights-from-zdnet/"><u>Singapore's Strategic Leap: Enhancing Artificial Intelligence Through Quantum Initiatives & Advanced Data Hubs - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainability-and-savvy-cleaning-the-secrets-to-extending-your-cordless-vacuums-life-span-as-explained-by-zdnet-experts/"><u>Sustainability & Savvy Cleaning: The Secrets to Extending Your Cordless Vacuum's Life Span, as Explained by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustaining-our-future-with-green-technology-key-challenges-and-prospects-ahead-expert-analysis-by-zdnet/"><u>Sustaining Our Future with Green Technology: Key Challenges and Prospects Ahead | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-longevity-blueprint-for-reworking-cordless-vacuums-insights-and-takeaways-explored-by-zdnet/"><u>The Longevity Blueprint for Reworking Cordless Vacuums: Insights and Takeaways | Explored by ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-price-point-in-online-advertising/"><u>The Price Point in Online Advertising</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-solar-powered-lanterns-reviews-and-buying-guide-techradar/"><u>Top 5 Solar-Powered Lanterns - Reviews and Buying Guide | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-tech-practices-to-slash-energy-bills-and-go-green-insights-from-zdnet/"><u>Top 6 Eco-Friendly Tech Practices to Slash Energy Bills and Go Green: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-solar-power-banks-expert-picks-zdnet/"><u>Top-Rated Portable Solar Power Banks : Expert Picks - ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-protective-covers-for-the-iphone-14-pro-and-pro-max-2024s-ultimate-guide-zdnet/"><u>Top-Rated Protective Covers for the iPhone 14 Pro & Pro Max: 2024'S Ultimate Guide - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-cordless-leaf-vacuums-for-a-cleaner-garden-2022-edition/"><u>Ultimate Guide to Choosing the Best Cordless Leaf Vacuums for a Cleaner Garden, 2022 Edition</u></a></li>
 </ul></div>
 

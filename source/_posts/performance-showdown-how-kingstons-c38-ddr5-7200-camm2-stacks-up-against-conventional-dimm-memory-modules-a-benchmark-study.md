@@ -1,7 +1,7 @@
 ---
 title: "Performance Showdown: How Kingston's C38 DDR5-7200 CAMM2 Stacks Up Against Conventional DIMM Memory Modules - A Benchmark Study"
-date: 2024-08-19T02:30:07.583Z
-updated: 2024-08-20T02:30:07.583Z
+date: 2025-01-17T16:31:05.961Z
+updated: 2025-01-25T00:21:32.148Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,16 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-seamless-screen-effects-3-simple-shifting-methods-for-2024/"><u>[Updated] Seamless Screen Effects 3 Simple Shifting Methods for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-schritt-fur-schritt-anleitung-zum-erstellungsvorgang-von-ipod-touch-backups-auf-dem-pc-oder-im-icloud/"><u>1. Schritt-Für-Schritt Anleitung Zum Erstellungsvorgang Von IPod Touch Backups Auf Dem PC Oder Im iCloud</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ready-for-sub4sub-start-with-our-expert-advice/"><u>2024 Approved Ready for Sub4sub? Start with Our Expert Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-beast-expert-guide-to-assembling-your-own-high-performance-gamer-pc-under-550/"><u>Affordable Beast: Expert Guide to Assembling Your Own High-Performance Gamer PC Under $550.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-tutorial-on-transitioning-from-linux-mint-to-version-21-insights-and-techniques/"><u>Comprehensive Tutorial on Transitioning From Linux Mint to Version 21: Insights & Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-android-studio-execution-the-windows-way/"><u>Masterful Android Studio Execution: The Windows Way</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/purchase-today-exceptional-image-restoration-services/"><u>Purchase Today: Exceptional Image Restoration Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-methods-to-discover-your-computers-cpu-and-motherboard-step-by-step-guide/"><u>Quick Methods to Discover Your Computer's CPU & Motherboard - Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-huawei-matestation-pro-the-28-touchscreen-contender-against-apple-imac-tech-insights-by-zdnet/"><u>Review: Huawei MateStation Pro - The 28 Touchscreen Contender Against Apple iMac | Tech Insights by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

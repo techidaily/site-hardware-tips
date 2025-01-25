@@ -1,7 +1,7 @@
 ---
 title: "Experience Fruity Efficiency: ExtremeMUGURISU's Strawberry-Infused Thermal Gel Vs. Grizzly's Kryonaut Compared"
-date: 2024-08-19T03:50:35.385Z
-updated: 2024-08-20T03:50:35.385Z
+date: 2025-01-24T01:10:40.053Z
+updated: 2025-01-24T16:39:27.041Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
  In terms of performance, the air-cooled CPU was seen to deliver about 38,300cb with the AiO-cooled chip achieving just over 39,100cb. The CPU clocks were much more steady at 5.6 GHz using the AiO, but with the air cooler in place they often dipped to 5.4 GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +45,10 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/wmRXDJgtnnLnPhD5DLfZMJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Der8auer)
 
  It may be unfortunate timing for the new EK-Nucleus AIO CR360 Direct Die D-RGB all-in-one CPU cooler, as we are nearly at the end of the Socket 1700 era. Der8auer admitted he didn’t know what might need to be done to make the AiO Intel 15th Gen CPU compatible.
@@ -49,18 +57,19 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
 
 ![EK-Nucleus AIO CR360 Direct Die D-RGB AiO cooler](https://cdn.mos.cms.futurecdn.net/DwdkCF27CRpbAtFLxxyV8J-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: EKWB)
 
  For some further context, last July we reviewed the closely related EK Nucleus AIO CR360 Lux D-RGB for fully clothed CPUs. Despite price concerns and a slight noise disadvantage against the best rival AiOs, our review crowned it the[new king of AiO cooling](https://www.tomshardware.com/reviews/ek-nucleus-aio-cr360-lux-d-rgb) .
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +78,22 @@ Overclocking expert Der8auer has tested a prototype EK-Nucleus AIO CR360 Direct 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-thorough-insight-into-obs-recording-technology/"><u>[New] In 2024, A Thorough Insight Into OBS Recording Technology</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-how-to-retrieve-individual-frames-from-windows-media-files/"><u>[New] In 2024, How To Retrieve Individual Frames From Windows Media Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discovering-your-dream-makeup-routine-with-youtubes-leaders/"><u>[Updated] In 2024, Discovering Your Dream Makeup Routine with YouTube's Leaders</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-choices-leading-3d-printing-filaments/"><u>Future-Proof Choices: Leading 3D Printing Filaments</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-s23-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy S23 Ultra to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-screen-recordings-the-recmeister-way/"><u>Mastering Screen Recordings The Recmeister Way</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-have-android-watchface-and-companion-apps-of-this-year/"><u>Must-Have Android Watchface and Companion Apps of This Year</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-hardware-top-picks-from-toms-resourceful-analysis/"><u>Navigating Computer Hardware: Top Picks From Tom's Resourceful Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-update-addresses-intel-cpu-instability-rollout-begins-with-support-from-msi-and-asrock-systems/"><u>New Update Addresses Intel CPU Instability - Rollout Begins with Support From MSI and ASRock Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-your-way-through-windows-hellos-fingerprint-frustration/"><u>Resetting Your Way Through Windows Hello's Fingerprint Frustration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guides-on-all-things-hardware/"><u>Tom's Tech Hub: Comprehensive Guides on All Things Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-reviews/"><u>Tom's Tech Review: In-Depth Analysis & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-small-form-factor-pc-boxes-for-2n4-best-mini-itx-cases-reviewed/"><u>Ultimate Selection of Small Form Factor PC Boxes for 2N4, Best Mini-ITX Cases Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unpacking-the-features-and-benefits-of-the-lian-li-hydroshift-lcd-360s-reviewed/"><u>Unpacking the Features and Benefits of the Lian Li Hydroshift LCD 360S Reviewed</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->

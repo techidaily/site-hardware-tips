@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Repair an Antec Aria AR300 PSU
-date: 2024-08-19T02:27:16.354Z
-updated: 2024-08-20T02:27:16.354Z
+date: 2025-01-20T23:53:04.251Z
+updated: 2025-01-24T17:30:19.882Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ See more of Friday's Real Deals below.
 * **Elgato Stream Deck:** [**now $99 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB06XKNZT1P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1065223293966699533-20) **(was $149)**
 * **ASUS ROG Thor 1000W PSU:** [**now $194 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09SGQ9PPC%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1088334992790324728-20) **(was $359)**
 * **Gigabyte B650M Aorus Elite AX:** [**now $189 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-6379358999680672387%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413) **with rebate (was $199)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -66,9 +70,6 @@ See more of Friday's Real Deals below.
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -76,9 +77,14 @@ Category
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Back to Everything
 
@@ -87,8 +93,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Elgato
 
  GIGABYTE
@@ -102,9 +109,9 @@ Colour
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Black
 
  White
@@ -113,10 +120,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 40 deals
@@ -125,9 +128,6 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -286,8 +286,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -295,4 +293,22 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-record-internet-radio-a-simple-guide/"><u>[New] In 2024, How To Record Internet Radio - A Simple Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-craft-of-macro-video-production-techniques/"><u>2024 Approved Mastering the Craft of Macro Video Production Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-miniature-drone-selection-expert-recommendations/"><u>2024 Approved Miniature Drone Selection Expert Recommendations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-productivity-unmatched-storage-and-port-accessibility-in-our-top-pick-of-the-16-port-dream-docks-zdnets-expert-review/"><u>Boost Productivity: Unmatched Storage & Port Accessibility in Our Top Pick of the 16-Port Dream Docks | ZDNET's Expert Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-storage-with-a-12-trick-to-upgrade-extra-ssds-as-externals-zdnet/"><u>Boost Your Storage with a $12 Trick to Upgrade Extra SSDs as Externals | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creative-insights-on-the-apple-studio-display-purchase-decision-a-comprehensive-evaluation-by-zdnet/"><u>Creative Insights on the Apple Studio Display Purchase Decision - A Comprehensive Evaluation by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-the-hidden-world-of-facebook-marketplace-how-to-access-it-now/"><u>Discovering the Hidden World of Facebook Marketplace – How to Access It Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-most-exciting-enhancements-in-apples-latest-iphone-16-why-upgrading-is-a-must-analysis/"><u>Exploring the Most Exciting Enhancements in Apple's Latest iPhone 16: Why Upgrading Is a Must | Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hyperx-launches-new-pulsefire-series-meet-the-haste-2-mouse-plus-a-review-of-the-clutch-gladiate-xbox-controler-tech-news-by-zdnet/"><u>HyperX Launches New Pulsefire Series - Meet the Haste 2 Mouse, Plus a Review of the Clutch Gladiate Xbox Controler | Tech News by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-hyperx-alloy-origins-core-board-stellar-construction-lackluster-keycaps-worth-your-consideration/"><u>In-Depth Analysis of the HyperX Alloy Origins Core Board: Stellar Construction, Lackluster Keycaps – Worth Your Consideration?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-soloists-guide-to-captivating-audiences-for-2024/"><u>The Soloist's Guide to Captivating Audiences for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/this-advanced-topic-integrates-population-genetics-landscape-ecology-and-conservation-biology/"><u>This Advanced Topic Integrates Population Genetics, Landscape Ecology, and Conservation Biology.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-24-unbeatable-christmas-promotions-on-tech-products-from-dell-scouted-across-best-buy-amazon-and-newegg-zdnet/"><u>Top 24 Unbeatable Christmas Promotions on Tech Products From Dell - Scouted Across Best Buy, Amazon & Newegg | ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/video-editors-alternatives-to-inshot/"><u>Video Editors Alternatives to Inshot</u></a></li>
+</ul></div>
 

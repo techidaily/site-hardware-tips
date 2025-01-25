@@ -1,7 +1,7 @@
 ---
 title: "Understanding PSUs: Comprehensive Guide on Power Supply Units"
-date: 2024-08-19T02:27:36.308Z
-updated: 2024-08-20T02:27:36.308Z
+date: 2025-01-21T16:01:27.843Z
+updated: 2025-01-24T19:40:08.099Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
 
  Cooling is provided by a 120mm rifle-bearing PWM fan, that operates in a zero RPM fan mode for near-silent operation at lower loads, so when you're just browsing away, this should help to keep your PSU from adding to the combined noise output from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,8 +46,6 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -51,8 +53,24 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-master-your-media-free-fb-video-conversion-techniques/"><u>[New] Master Your Media - Free FB Video Conversion Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-compreayer-study-of-magix-image-suite/"><u>[Updated] A Compreayer Study of MAGIX Image Suite</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/100s-worth-of-gadgets-on-temu-value-and-quality-insights/"><u>$100'S Worth of Gadgets on Temu: Value and Quality Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apk-essentials-start-playing-funimate-now-for-2024/"><u>APK Essentials Start Playing Funimate Now for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-raspberry-pi-experience-with-this-miniature-keyboard-designed-for-smart-tvs-featuring-expert-insights-from-zdnet/"><u>Enhance Your Raspberry Pi Experience with This Miniature Keyboard Designed for Smart TVs, Featuring Expert Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/favorite-televisions-among-tech-reviewers-at-zdnet-top-picks-for-the-ultimate-viewing-experience/"><u>Favorite Televisions Among Tech Reviewers at ZDNet: Top Picks for the Ultimate Viewing Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hear-the-vibe-no-cost-online-tempo-trackers-for-2024/"><u>Hear the Vibe – No Cost Online Tempo Trackers for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-c55-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme C55?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974783073-in-litigation-parties-have-access-to-the-discovery-process-including-depositions-and-interrogatories-which-are-not-always-available-in-arbitration/"><u>In Litigation, Parties Have Access to the Discovery Process, Including Depositions and Interrogatories, Which Are Not Always Available in Arbitration.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-non-streaming-productivity-discover-how-an-elgato-stream-deck-enhances-efficiency/"><u>Revolutionize Non-Streaming Productivity: Discover How an Elgato Stream Deck Enhances Efficiency!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-insights-from-zdnet-success-and-pitfalls-of-using-ankers-powerhouse-767-to-charge-your-electric-vehicle/"><u>Tech Insights From ZDNET: Success and Pitfalls of Using Anker's PowerHouse #767 to Charge Your Electric Vehicle</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-right-methods-for-updating-your-dell-cameras-software/"><u>The Right Methods for Updating Your Dell Camera's Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-strategies-to-avoid-ear-damage-from-headphone-use-insights-and-advice/"><u>Top 5 Strategies to Avoid Ear Damage From Headphone Use: Insights and Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tablet-offers-of-june-2023-exclusive-finds-on-zdnet/"><u>Top Tablet Offers of June 2023: Exclusive Finds on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-quietest-computer-mice-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Quietest Computer Mice - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-opportunities-how-businesses-benefit-from-the-latest-chatgpt-and-whisper-api-integrations/"><u>Unlocking New Opportunities: How Businesses Benefit From the Latest ChatGPT & Whisper API Integrations</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

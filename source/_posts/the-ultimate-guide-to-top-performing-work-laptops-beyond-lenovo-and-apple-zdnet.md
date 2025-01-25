@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Top-Performing Work Laptops Beyond Lenovo and Apple | ZDNet
-date: 2025-01-14T17:17:08.366Z
-updated: 2025-01-18T16:49:45.243Z
+date: 2025-01-18T18:09:16.492Z
+updated: 2025-01-25T01:32:47.104Z
 tags:
   - laptops
 categories:
@@ -22,13 +22,13 @@ For those of us who'd been working with Linux for some time, that was more a bot
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best Linux laptop right now?
 
 We went hands-on with some of the best laptops on the market that can run Linux, testing their performance, battery, and features. Our pick for the best Linux laptop overall is the [Lenovo ThinkPad Z13 Gen 2](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1796374-REG%2Flenovo%5F21jv000dus%5F13%5F3%5Fthinkpad%5Fz13%5Fgen.html) is our top pick due to its more affordable price and customization options. Check out the rest of the list to learn about our other top picks. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The best Linux laptops of 2024
 
@@ -47,11 +47,11 @@ Cons
 * Not all CPU options support up to 64GB of RAM
 * Incompatible with discrete GPUs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lenovo ThinkPad Z13
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Linux laptop overall
 
@@ -107,10 +107,14 @@ Cons
 * May feel fragile to some users
 * Somewhat short battery life
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Acer Swift Edge
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best AMD-based Linux laptop
@@ -141,7 +145,7 @@ Cons
 * No 4K or touchscreen display options
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MSI Stealth Studio AI
@@ -188,10 +192,6 @@ Both Kerry Wan and Max Buondonno of ZDNET got to try out the Surface Laptop Stud
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best Linux laptop?
 
 My choice for the best Linux laptop is the Lenovo ThinkPad Z13 Gen 2\. Lenovo is no stranger to offering Linux support for their laptops and desktops, and the ThinkPad Z13 takes the cake. It also offers several configuration options to help tailor the laptop to your specific work, learning, or hobbyist programmer/coder needs. It also has a more affordable price than some other options on the market, retailing for about $1200\. This makes it a great option for beginners and hobbyists who might not want to drop a lot of money on something they may not use much.
@@ -229,10 +229,6 @@ What makes a machine worthy of belonging to the best Linux laptop list? Obviousl
 * **Cost:** Since Linux can run on just about any laptop as long as the hardware is supported, you can choose an older model (or even a used one) to load the operating system onto. This means you can save money on upgrades, especially if you're just starting out learning Linux.
 * **Open-source support:** Linux is an open-source operating system. You can find tons of online communities dedicated to learning Linux, tweaking source code, and reporting issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Linux laptops?
 
 While we were researching and testing each Linux-compatible laptop on this list, we kept these criteria in mind:
@@ -241,13 +237,13 @@ While we were researching and testing each Linux-compatible laptop on this list,
 * **Dual boot:** Many Linux enthusiasts may also need or want to run a secondary operating system like Windows or MacOS on their computer for completing certain tasks. Each laptop we've chosen has been verified to be able to run at least one other operating system aside from Linux.
 * **Configurability:** No two users will have the exact same needs when using a Linux laptop. Each model chosen for our list has been verified to allow users to drop in new components, expand memory, and add storage drives.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Linux?
 
 Linux is an open-source operating system, created by Linus Torvalds, that is not only suited for desktops and laptops, but for enterprise-grade servers, container deployments, the cloud, and much more. Linux is available as a distribution and can be downloaded and installed for free on as many machines as you need.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can you run Linux on a Mac?
 
@@ -267,6 +263,10 @@ When talking about programming and coding, you may come across the term "open-so
 
 Linux is popular with programmers since it is open-source, which means that it's easy to try and make your own modifications or command lists. Or you can work together with the Linux community to resolve common bug issues or create new support programs for hardware like Apple's M3 Silicon Chips. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the oldest computer you can run with Linux?
 
 The great thing about Linux is that it is an open source operating system. Which means there are a lot of different versions out there on forums and also the Internet Archive. And since there are so many different release versions, newcomers looking to save money on their first dedicated or dual-boot Linux machine can pick up a vintage computer at a thrift store, estate sale, or other secondhand store and likely find an operating system version that will run with it.
@@ -274,7 +274,7 @@ The great thing about Linux is that it is an open source operating system. Which
 A thread on the [Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=228393) is full of users who were able to use various versions of Linux Mint as well as Puppy (a version of Linux designed to be run from a flash drive, making it great for hobbyists who restore vintage tech) and Ubuntu on Windows Vista and Windows 98 computers (which intrepid tech hunters may be able to find for a bargain at a thrift store or secondhand online). And Tech Tangents on YouTube, a channel dedicated to restoring and archiving retro computer hardware and software, was able to revive a [TeleVideo 950 terminal](https://www.youtube.com/watch?v=ob7cEzXLxXU) that was originally released in 1980 and use a version of Linux on it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Linux laptops we tested
@@ -323,17 +323,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-explore-top-10-best-photo-layering-and-editing-apps-iosandroid/"><u>[New] Explore Top 10 Best Photo Layering & Editing Apps iOS/Android</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-art-of-video-blending-using-modes-mastery/"><u>[Updated] In 2024, The Art of Video Blending Using Modes Mastery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>2024 Approved Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/critical-vulnerability-discovered-in-amd-chips-potentially-impacting-millions-sinkclose-bug-exploited-for-unauthorized-access-patch-rollout-initiated-and-fu3/"><u>Critical Vulnerability Discovered in AMD Chips, Potentially Impacting Millions: 'Sinkclose' Bug Exploited for Unauthorized Access – Patch Rollout Initiated & Future Protections Promised</u></a></li>
-<li><a href="https://article-files.techidaily.com/enhance-your-iphone-photography-with-time-lapse-for-2024/"><u>Enhance Your iPhone Photography with Time-Lapse for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhancing-elegance-and-energy-the-spectacular-glow-of-rgb-on-a-customized-fractal-design-north-xl-pc-build/"><u>Enhancing Elegance and Energy: The Spectacular Glow of RGB on a Customized Fractal Design North XL PC Build</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-latest-gadgets-and-pc-building-from-toms-hardware/"><u>Expert Insights on Latest Gadgets and PC Building From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-technology-toms-hardware-review/"><u>Exploring the Latest in Technology: Tom's Hardware Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-a-beginners-guide-to-elevating-auditory-experiences-on-youtube/"><u>In 2024, A Beginner's Guide to Elevating Auditory Experiences on YouTube</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-free-wmv-video-combining-software/"><u>In 2024, Best Free WMV Video Combining Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-empowers-chatgpt-with-verbal-interaction-capabilities-for-command-response/"><u>OpenAI Empowers ChatGPT with Verbal Interaction Capabilities for Command Response</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-gizmos-with-toms-technology-insights/"><u>Unveiling Gadgets and Gizmos with Tom's Technology Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-harmony-hub-tech-evolution/"><u>[New] 2024 Approved Harmony Hub Tech Evolution</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-cutting-edge-concert-streaming-services/"><u>[New] Cutting-Edge Concert Streaming Services</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-professional-perspective-a-complete-guide-on-sj-cam-s6/"><u>[New] Professional Perspective A Complete Guide on SJ-CAM S6</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-strategies-for-effective-storage-of-chats-and-calls-on-facebook/"><u>[Updated] 2024 Approved Strategies for Effective Storage of Chats and Calls on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplified-approach-to-download-youtube-captions-3-proven-methods/"><u>[Updated] Simplified Approach to Download YouTube Captions 3 Proven Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-top-tier-bbq-with-savings-grab-your-ideal-weber-electric-grill-for-50-less-as-recommended-by-zdnet/"><u>Experience Top-Tier BBQ with Savings: Grab Your Ideal Weber Electric Grill for $50 Less, as Recommended by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-50-discount-off-top-rated-weber-electric-grill-exclusive-offer-inside/"><u>Get a $50 Discount Off Top-Rated Weber Electric Grill - Exclusive Offer Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-a-fixable-cordless-vac-reflects-long-term-value-a-deep-dive-by-zdnet/"><u>How a Fixable Cordless Vac Reflects Long-Term Value: A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-artificial-intelligence-is-revolutionizing-the-supermarket-experience-the-top-trend-techinsight/"><u>How Artificial Intelligence Is Revolutionizing the Supermarket Experience: The Top Trend | TechInsight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-ecoflow-portable-battery-kept-all-household-devices-running-amidst-power-failures-a-real-life-account/"><u>How the EcoFlow Portable Battery Kept All Household Devices Running Amidst Power Failures: A Real-Life Account</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-ecoflow-portable-battery-saved-my-home-energy-needs-during-blackouts-a-review-by-zdnet/"><u>How the EcoFlow Portable Battery Saved My Home Energy Needs During Blackouts: A Review by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-long-lasting-fixable-cordless-vacuum-offers-timeless-lessons-zdnet-insights/"><u>How the Long-Lasting, Fixable Cordless Vacuum Offers Timeless Lessons | ZDNet Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/impara-larte-dello-storyboard-con-i-nostri-7-semplici-passi-per-un-successo-garantito/"><u>Impara L'arte Dello Storyboard Con I Nostri 7 Semplici Passi per Un Successo Garantito!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/instant-reachers-handbook-livestreaming-on-facebook-via-smartphones/"><u>Instant Reachers' Handbook Livestreaming on Facebook via Smartphones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mobile-identification-showdown-iphone-x-and-galaxy-for-2024/"><u>Mobile Identification Showdown IPhone X and Galaxy for 2024</u></a></li>
 </ul></div>
 

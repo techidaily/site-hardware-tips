@@ -1,7 +1,7 @@
 ---
 title: Galax Introduces New High-Capacity 1300W, 16-Pin Power Supply for Enhanced Performance
-date: 2024-08-19T02:27:55.103Z
-updated: 2024-08-20T02:27:55.103Z
+date: 2025-01-22T18:27:16.747Z
+updated: 2025-01-24T21:52:37.530Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
 
  Cooling is provided by a 120mm rifle-bearing PWM fan, that operates in a zero RPM fan mode for near-silent operation at lower loads, so when you're just browsing away, this should help to keep your PSU from adding to the combined noise output from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,8 +46,6 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -51,17 +53,21 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-duality-of-light-mastering-the-art-of-hdr-in-adobe/"><u>[New] 2024 Approved Duality of Light Mastering the Art of HDR in Adobe</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-saving-scenes-seamlessly-the-power-of-vimeo-record/"><u>[Updated] In 2024, Saving Scenes Seamlessly The Power of Vimeo Record</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-techniques-for-malfunctioning-usb-jacks-get-started-now/"><u>DIY Repair Techniques for Malfunctioning USB Jacks – Get Started Now</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-crafting-excellent-canon-temp-video-series/"><u>In 2024, Crafting Excellent Canon Temp Video Series</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-drone-deciphers-unlocking-gopro-karma-potential/"><u>In 2024, Drone Deciphers Unlocking GoPro Karma Potential</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-y78t-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo Y78t Data? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-iscanner-prices-slashed-by-20-exclusive-to-zdnet-readers/"><u>Limited Time Offer: IScanner Prices Slashed by 20% Exclusive to ZDNet Readers!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-macbook-airs-potential-discover-the-perfect-thin-and-portable-hub-solution/"><u>Maximize Your MacBook Air's Potential: Discover the Perfect Thin & Portable Hub Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-change-an-in-depth-look-at-using-an-lg-dualup-monitor-with-a-16x18-aspect-ratio/"><u>Navigating the Change: An In-Depth Look at Using an LG DualUp Monitor with a 16X18 Aspect Ratio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-new-terrain-how-temu-modified-their-refund-procedures-and-my-attempt-to-process-multiple-returns-online-retail-insights/"><u>Navigating the New Terrain: How Temu Modified Their Refund Procedures & My Attempt to Process Multiple Returns | Online Retail Insights</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/record-and-edit-an-animoji-or-memoji-karaoke-music-video/"><u>Record and Edit an Animoji or Memoji Karaoke Music Video</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-a-potential-hack-for-your-airtags-and-more-devices-due-to-flawed-battery-safety-feature-zdnet/"><u>Uncovering a Potential Hack for Your AirTags and More Devices Due to Flawed Battery Safety Feature | ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo Y200? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

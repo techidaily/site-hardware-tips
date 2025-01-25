@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Apple M3 MacBook Air: The Revolutionary, Budget-Friendly AI Device You Can't Miss | Review"
-date: 2025-01-11T17:19:46.577Z
-updated: 2025-01-18T19:45:07.642Z
+date: 2025-01-20T00:34:06.210Z
+updated: 2025-01-24T16:27:41.443Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/70eba607a5493f0dcd7d40fac4dac70e28238f9a9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -72,7 +72,7 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -80,10 +80,6 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -141,6 +137,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -156,7 +156,7 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -186,7 +186,7 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -235,22 +235,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-tips-for-recording-fan-favorite-sports-games/"><u>[New] In 2024, Expert Tips for Recording Fan-Favorite Sports Games</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-periscope-insights-accessibility-costs-and-signup-guide/"><u>[Updated] 2024 Approved Periscope Insights Accessibility, Costs & Signup Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-discover-the-best-offline-ios-games-your-ultimate-guide/"><u>[Updated] Discover the Best Offline iOS Games – Your Ultimate Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-scheduling-podcast-drops-with-peak-engagement-times/"><u>[Updated] Scheduling Podcast Drops with Peak Engagement Times</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-who-will-rule-the-roads-comparing-gopro-and-ghost-s-for-2024/"><u>[Updated] Who Will Rule the Roads? Comparing GoPro and Ghost-S for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/aws-graviton4-dominates-benchmark-tests-vs-amd-and-intel-showcasing-record-breaking-speeds-for-a-fraction-of-the-cost/"><u>AWS Graviton4 Dominates Benchmark Tests vs AMD & Intel, Showcasing Record-Breaking Speeds for a Fraction of the Cost</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cutting-edge-ai-designed-10000-ln2-container-transform-pc-performance-up-to-3x-faster-than-ordinary-coolers/"><u>Cutting-Edge, AI-Designed $10,000 LN2 Container: Transform PC Performance Up to 3X Faster than Ordinary Coolers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-openai-the-definitive-compendium-on-artificial-intelligence-pioneers/"><u>Decoding OpenAI: The Definitive Compendium on Artificial Intelligence Pioneers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-by-tom-comprehensive-hardware-guides/"><u>Expert Reviews by Tom: Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-zen-5-advances-from-amd-new-era-of-smaller-cores-and-sophisticated-dual-ccx-chip-architecture-revealed/"><u>Exploring the Zen 5 Advances From AMD - New Era of Smaller Cores and Sophisticated Dual CCX Chip Architecture Revealed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-pixel-7a-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Google Pixel 7a PIN</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/insight-from-benchmark-maker-a-sparse-56-arm-windows-pcs-undergo-qualcomm-copilotplus-evaluation-in-recent-months/"><u>Insight From Benchmark Maker: A Sparse 56 Arm-Windows PCs Undergo Qualcomm Copilot+ Evaluation in Recent Months</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-top-notch-hardware-insights-and-evaluations-by-tom/"><u>Navigating the Tech World: Top Notch Hardware Insights and Evaluations by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-tech-informed-choices-with-toms-wisdom/"><u>Navigating Through Tech: Informed Choices with Tom’s Wisdom</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-failures-restoring-java-on-windows-devices/"><u>Resolving Failures: Restoring Java on Windows Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unexpected-downturn-for-intels-new-cpu-lineup-data-suggests-four-times-more-returns-than-predecessor-outstripping-amd-issues/"><u>Unexpected Downturn for Intel's New CPU Lineup: Data Suggests Four Times More Returns than Predecessor, Outstripping AMD Issues</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-benefits-of-synology-rt2600ac-exceptional-wi-fi-range-and-robust-parental-control-mechanisms-for-secure-home-networking/"><u>Unveiling the Benefits of Synology RT2600ac – Exceptional Wi-Fi Range and Robust Parental Control Mechanisms for Secure Home Networking</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-craft-eye-catching-youtubes-end-titles/"><u>[Updated] How to Craft Eye-Catching YouTubes End Titles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-blurry-to-crystal-clear-the-ultimate-guide-to-vce-22/"><u>[Updated] In 2024, From Blurry to Crystal Clear The Ultimate Guide to VCE 2.2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-delay-chatgpt-4-versus-fast-gpt-35/"><u>Assessing the Delay: ChatGPT-4 Versus Fast GPT-3.5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-redmi-note-12t-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi Redmi Note 12T Pro Face Lock?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-document-creation-in-microsoft-364-with-these-4-latest-co-pilot-enhancements-ace-your-docs-faster-than-ever-insights-from-zdnet/"><u>Master Document Creation in Microsoft 364 with These 4 Latest Co-Pilot Enhancements: Ace Your Docs Faster Than Ever! - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-teslas-latest-sensor-upgrade-matters-insights-from-zdnet/"><u>Why Tesla's Latest Sensor Upgrade Matters: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-new-qol-improvements-for-android-auto-now-supports-bluetooth-audio-devices/"><u>ZDNet Exclusive: New QOL Improvements for Android Auto Now Supports Bluetooth Audio Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-review-how-this-innovative-bluetooth-adapter-solves-check-engine-warning-issues/"><u>ZDNET Review: How This Innovative Bluetooth Adapter Solves Check Engine Warning Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-the-newest-upgrade-to-android-automotives-quality-of-life-features-boasting-added-support-for-bluetooth-audio-devices/"><u>ZDNet: The Newest Upgrade to Android Automotive's Quality of Life Features, Boasting Added Support for Bluetooth Audio Devices</u></a></li>
 </ul></div>
 

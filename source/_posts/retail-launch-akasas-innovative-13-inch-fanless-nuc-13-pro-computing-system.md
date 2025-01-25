@@ -1,7 +1,7 @@
 ---
 title: "Retail Launch: Akasa's Innovative 13-Inch Fanless NUC 13 Pro Computing System"
-date: 2024-08-19T02:30:34.015Z
-updated: 2024-08-20T02:30:34.015Z
+date: 2025-01-23T18:13:12.818Z
+updated: 2025-01-24T16:00:29.180Z
 tags:
   - cases
 categories:
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 
  This is a pretty roomy case for Micro-ATX at 440 x 235 x 405mm / 17.32 x 9.25 x 15.94 inches, so the decent max compatibility figures aren’t a surprise. Full specs can be seen in the datasheet below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
 ![MSI MAG Pano M100R PZ case](https://cdn.mos.cms.futurecdn.net/TzDYByQWKZZPQgpJWKBMod-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 (Image credit: MSI)
 
@@ -65,8 +73,6 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,8 +80,18 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/assessing-common-fb-video-formats-for-2024/"><u>Assessing Common FB Video Formats for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-on-high-performance-gaming-laptop-before-memorial-day-sale-save-250-now-with-our-guide-at-zdnet/"><u>Huge Discount on High-Performance Gaming Laptop Before Memorial Day Sale - Save $250 Now with Our Guide at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/i-dont-think-you-understand-man-i-need-to-know-how-this-works/"><u>I Don't Think You Understand, Man... I Need to Know How This Works.</u></a></li>
+<li><a href="https://win11.techidaily.com/icloud-setup-woes-fixes-for-windows-users-here/"><u>ICloud Setup Woes? Fixes for Windows Users Here</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/immaculate-game-recordings-with-obs-studio-pro/"><u>Immaculate Game Recordings with OBS Studio Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-xs-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone XS Max From Your Apple ID</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-mastering-collab-videos-to-expand-viewership/"><u>In 2024, Mastering Collab Videos to Expand Viewership</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>In 2024, The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-microsofts-new-controversial-release-windows-11-already-under-fire/"><u>Is Microsoft's New Controversial Release: Windows 11 Already Under Fire?</u></a></li>
+<li><a href="https://facebook.techidaily.com/manage-custom-recommendations-for-better-privacy-online/"><u>Manage Custom Recommendations for Better Privacy Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-peak-performance-how-i-transformed-my-laptop-into-a-powerful-desktop-workstation-for-ultimate-productivity-insights-from-zdnet/"><u>Unleashing Peak Performance: How I Transformed My Laptop Into a Powerful Desktop Workstation for Ultimate Productivity - Insights From ZDNET</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->

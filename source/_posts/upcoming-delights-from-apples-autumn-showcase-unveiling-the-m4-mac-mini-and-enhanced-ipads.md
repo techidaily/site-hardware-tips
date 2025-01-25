@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Delights From Apple's Autumn Showcase: Unveiling the M4 Mac Mini & Enhanced iPads!"
-date: 2024-12-26T22:08:03.158Z
-updated: 2024-12-27T16:43:53.009Z
+date: 2025-01-23T16:12:39.933Z
+updated: 2025-01-24T23:52:23.331Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,21 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-from-novice-to-maestro-professional-photography-and-cinematography-techniques/"><u>[New] 2024 Approved From Novice to Maestro Professional Photography & Cinematography Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-3-simple-ways-to-color-grading-in-adobe-photoshop/"><u>[New] 3 Simple Ways to Color Grading in Adobe Photoshop</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-efficient-content-curation-steps-towards-a-well-organized-watch-later-playlist/"><u>[Updated] 2024 Approved Efficient Content Curation Steps Towards a Well-Organized 'Watch Later' Playlist</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-in-depth-look-at-using-key-combos-for-efficient-screen-recording-in-os-x/"><u>[Updated] 2024 Approved In-Depth Look at Using Key Combos for Efficient Screen Recording in OS X</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/abbyy-excelling-in-medical-record-digitization-healthcare-institution-selects-for-efficient-document-categorization/"><u>ABBYY Excelling in Medical Record Digitization: Healthcare Institution Selects for Efficient Document Categorization</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unparalleled-flexibility-with-our-best-reviewed-light-strips-now-reduced-by-30-shop-on-zdnet/"><u>Experience Unparalleled Flexibility with Our Best Reviewed Light Strips Now Reduced by 30% - Shop on ZDNET!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/holiday-savings-alert-save-big-on-ges-innovative-cync-light-strip-during-the-black-friday-extravaganza-only-27-off-at-zdnet/"><u>Holiday Savings Alert! Save Big on GE's Innovative CYNC Light Strip During the Black Friday Extravaganza - Only $27 Off at ZDNET!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-clear-youtube-watch-later-playlist-for-2024/"><u>How to Clear YouTube Watch Later Playlist for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-features-of-the-latest-lutron-pico-remote-a-game-changer-reviewed-by-zdnet/"><u>Revolutionary Features of the Latest Lutron Pico Remote - A Game-Changer Reviewed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-home-lighting-discover-the-latest-innovative-lutron-pico-remote-a-game-changer-for-smart-homes/"><u>Revolutionizing Home Lighting: Discover the Latest Innovative Lutron Pico Remote - A Game Changer for Smart Homes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-money-with-everlasting-smart-string-light-solutions-outshining-others-on-zdnet/"><u>Save Money with Everlasting Smart String Light Solutions Outshining Others on ZDNet.</u></a></li>
-<li><a href="https://facebook.techidaily.com/tech-trend-alert-unbundling-giphy-from-facebook-debated/"><u>Tech Trend Alert: Unbundling Giphy From Facebook Debated</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-superior-alternative-five-reasons-to-use-claude-3-instead-of-chatgpt/"><u>The Superior Alternative: Five Reasons to Use Claude 3 Instead of ChatGPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-home-office-light-fixtures-insights-and-reviews-zdnet/"><u>Top Rated Home Office Light Fixtures - Insights & Reviews (ZDNet)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-ring-light-picks-of-2024-boosting-your-tiktok-creations-zdnet/"><u>Top Rated Ring Light Picks of 2024: Boosting Your TikTok Creations | ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-9-zero-price-programs-to-take-your-videos-from-average-to-amazing/"><u>[New] 2024 Approved 9 Zero Price Programs to Take Your Videos From Average to Amazing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-memes-top-ten-template-showcase/"><u>[New] Mastering Memes Top Ten Template Showcase</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastery-of-mobile-and-desktop-calendar-integration-with-zoom/"><u>[Updated] In 2024, Mastery of Mobile and Desktop Calendar Integration with Zoom</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-increase-clicks-and-watch-time-with-best-in-class-thumbnails-for-youtube/"><u>[Updated] Increase Clicks and Watch Time with Best-in-Class Thumbnails for YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photo-trickery-how-faces-decipher-on-apple-and-samsung-gadgets/"><u>[Updated] Photo Trickery How Faces Decipher on Apple & Samsung Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazing-deal-alert-top-ranked-samsung-tv-reduced-by-43-on-labor-day-discover-more-at-zdnet/"><u>Amazing Deal Alert: Top-Ranked Samsung TV Reduced by 43% on Labor Day – Discover More at ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-sony-bravia-tvs-for-smart-shoppers-frequent-discounts-and-excellent-features-insights-from-zdnet/"><u>Best Value Sony Bravia TVs for Smart Shoppers: Frequent Discounts & Excellent Features | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-exploring-the-deepest-sounds-with-an-unmatched-speaker-setup/"><u>Beyond Bose and Sonos: Exploring the Deepest Sounds with an Unmatched Speaker Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-elite-gaming-screens-2024s-must-see-list-techradar/"><u>Budget-Friendly Elite Gaming Screens: 2024'S Must-See List - TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-neo-qled-and-oled-televisions-finding-the-perfect-tech-fit/"><u>Choosing Between Neo QLED and OLED Televisions - Finding the Perfect Tech Fit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-samsungs-highest-rated-tv-ever-available-now-for-a-never-seen-before-bargain-price-gadgetguru/"><u>Discover Samsung's Highest Rated TV Ever – Available Now for a Never Seen Before Bargain Price | GadgetGuru</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-hot-30-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Hot 30 5G Phones</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-se-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone SE</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-why-the-netgear-nighthawk-c7000-is-an-exceptional-wifi-solution/"><u>In-Depth Analysis: Why the Netgear Nighthawk C7000 Is an Exceptional WiFi Solution</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-for-converting-high-and-standard-definition-videos-to-mobile-format-using-macx-mobile-video-converter-on-your-mac/"><u>Step-by-Step Guide for Converting High & Standard Definition Videos to Mobile Format Using MacX Mobile Video Converter on Your Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-top-credit-cards-for-newcomers-learn-from-experts/"><u>Ultimate Guide: Top Credit Cards for Newcomers - Learn From Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-my-tough-experience-the-flawed-tech-behind-southwest-airlines-featured-on-zdnet/"><u>Unveiling My Tough Experience: The Flawed Tech Behind Southwest Airlines Featured on ZDNet</u></a></li>
 </ul></div>
 

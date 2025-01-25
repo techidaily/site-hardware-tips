@@ -1,7 +1,7 @@
 ---
 title: "North Case Revival: How the Maker Movement Continues Fractal's Legacy with Customized Raspberry Pi Enclosures"
-date: 2024-08-19T02:26:41.365Z
-updated: 2024-08-20T02:26:41.365Z
+date: 2025-01-20T16:56:33.429Z
+updated: 2025-01-25T01:32:10.719Z
 tags:
   - raspberry-pi
 categories:
@@ -41,6 +41,10 @@ __Raspberry Pi M.2 HAT+ Specifications__
 
  The official Raspberry Pi M.2 HAT+ goes on sale today for $12 via approved resellers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,8 +59,6 @@ __Raspberry Pi M.2 HAT+ Specifications__
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +66,19 @@ __Raspberry Pi M.2 HAT+ Specifications__
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-from-fandom-to-fame-gamers-livestream-success-strategies/"><u>[New] In 2024, From Fandom to Fame Gamers' Livestream Success Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovating-content-tips-for-facebook-slide-show-makers-for-2024/"><u>[New] Innovating Content Tips for Facebook Slide Show Makers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pixicapture-studio-winos-series/"><u>[Updated] In 2024, PixiCapture Studio WinOS Series</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-editors-edge-advanced-techniques-in-chromatic-manipulation/"><u>[Updated] The Editor's Edge Advanced Techniques in Chromatic Manipulation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-shortcut-to-share-tiktoks-and-twitters-integration-for-2024/"><u>[Updated] The Shortcut to Share TikToks & Twitters Integration for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elevate-video-quality-with-vlcs-high-resolution-webcam-recording/"><u>2024 Approved Elevate Video Quality with VLC's High-Resolution Webcam Recording</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assessing-the-limitations-a-closer-look-at-samsung-and-ubreakifixs-insufficient-partnership/"><u>Assessing the Limitations: A Closer Look at Samsung and uBreakiFix's Insufficient Partnership</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-bargains-on-technology-products-including-smart-security-cctv-systems-anker-portable-chargers-and-razor-pro-gaming-audio-equipment/"><u>Best Bargains on Technology Products: Including Smart Security CCTV Systems, Anker Portable Chargers & Razor Pro-Gaming Audio Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/despite-harsh-reviews-humane-ai-pin-unveils-fascinating-features-worth-exploring/"><u>Despite Harsh Reviews, 'Humane AI Pin' Unveils Fascinating Features Worth Exploring</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-20-stunning-titles-for-high-quality-gaming-experience-on-budget-potato-powered-computers/"><u>Discover 20 Stunning Titles for High-Quality Gaming Experience on Budget, Potato-Powered Computers!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-new-wave-of-logitech-products-tailored-for-mac-users/"><u>Discover the New Wave of Logitech Products Tailored for Mac Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-future-of-iphone-intelligence-with-ios-amos-latest-ai-updates-and-what-to-expect-next/"><u>Explore the Future of iPhone Intelligence with iOS Amo's Latest AI Updates & What to Expect Next!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Mastering Gadgets with Tom's Comprehensive Hardware Guide
-date: 2024-08-19T02:28:50.522Z
-updated: 2024-08-20T02:28:50.522Z
+date: 2025-01-22T19:58:07.579Z
+updated: 2025-01-25T02:32:20.462Z
 tags:
   - peripherals
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/bucWBpGKnnnH9hWzfNAaEM-320-80.jpg
 
  The Retro 18 is the perfect companion to the 8BitDo Retro Mechanical Keyboards, with their available colorways and aesthetics matching each other. So, if you’re after a retro build, these are the perfect peripherals for your desk. You can also pair it with[the Lofree Retro Mouse](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FLOFREE-Bluetooth-Connection-Rechargeable-Compatible%2Fdp%2FB0CT9VX5ZM%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1163565040540890099-20) to complete the look, as 8BitDo is yet to release a companion mouse for its retro accessories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/bucWBpGKnnnH9hWzfNAaEM-320-80.jpg
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,24 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/bucWBpGKnnnH9hWzfNAaEM-320-80.jpg
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-excellent-srt-into-your-mp4-projects-a-2024-guide/"><u>[New] Incorporating Excellent SRT Into Your MP4 Projects – A 2024 Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-perfecting-presentations-choosing-from-top-10-free-screen-captures-for-mac/"><u>[Updated] In 2024, Perfecting Presentations Choosing From Top 10 Free Screen Captures for Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-multiplatform-iptv-interoperability/"><u>2024 Approved Multiplatform IPTV Interoperability</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-tailoring-textual-terminals/"><u>2024 Approved Tailoring Textual Terminals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-productivity-with-elgato-stream-deck-a-non-streamers-guide-to-enhanced-efficiency-insights-for-tech-professionals/"><u>Boost Productivity with Elgato Stream Deck: A Non-Streamer's Guide to Enhanced Efficiency - Insights for Tech Professionals</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-13t-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi 13T</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-portable-photo-printer-brands-for-202-expert-comparisons/"><u>Discover the Leading Portable Photo Printer Brands for 202# : Expert Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensure-genuineness-of-apples-power-adapters-using-innovative-usb-c-testing-tool-discover-more-on-zdnet/"><u>Ensure Genuineness of Apple's Power Adapters Using Innovative USB-C Testing Tool | Discover More on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-incharge-x-the-ultimate-cable-solution-reviewed-by-zdnet/"><u>Exploring InCharge X: The Ultimate Cable Solution Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-microsoft-build-anticipated-features-and-live-streaming-guide-tech-enthusiasts-perspective/"><u>Exploring Microsoft Build: Anticipated Features & Live Streaming Guide - Tech Enthusiast's Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-your-perfect-travel-companion-discovering-the-most-innovative-portable-photo-printers-of-2024-techadvise/"><u>Find Your Perfect Travel Companion: Discovering the Most Innovative Portable Photo Printers of 2024 | TechAdvise</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-x6-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco X6 Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-exclusive-look-the-10-best-countdown-clock-apps-for-your-big-event-androidios/"><u>In 2024, Exclusive Look The 10 Best Countdown Clock Apps for Your Big Event (Android/iOS)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-a1x-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo A1x 5G Is Unlocked</u></a></li>
+<li><a href="https://techidaily.com/navigate-and-network-simplified-the-ultimate-guide-to-optimizing-menu-functionality-for-top-level-social-media-engagement-on-facebook-linkedin-and-youtube.m1/"><u>Navigate and Network Simplified: The Ultimate Guide to Optimizing Menu Functionality for Top-Level Social Media Engagement on Facebook, LinkedIn, and YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/safeguard-your-electronics-the-risks-of-incompatible-usb-c-connections-and-how-to-prevent-them-zdnet/"><u>Safeguard Your Electronics: The Risks of Incompatible USB-C Connections & How to Prevent Them | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-a-traditional-workspace-into-a-hub-of-efficiency-and-teamwork-insights-from-a-success-story/"><u>Transforming a Traditional Workspace Into a Hub of Efficiency & Teamwork - Insights From a Success Story</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

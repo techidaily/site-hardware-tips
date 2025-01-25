@@ -1,7 +1,7 @@
 ---
 title: "Memorable Memorial Day Offer: Premium Roccat Pyro Full-Sized Mechanical Keyboard at Only $34"
-date: 2024-08-19T02:28:58.654Z
-updated: 2024-08-20T02:28:58.654Z
+date: 2025-01-23T21:51:39.017Z
+updated: 2025-01-25T01:38:43.611Z
 tags:
   - peripherals
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
  The Retro 18 is the perfect companion to the 8BitDo Retro Mechanical Keyboards, with their available colorways and aesthetics matching each other. So, if you’re after a retro build, these are the perfect peripherals for your desk. You can also pair it with[the Lofree Retro Mouse](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FLOFREE-Bluetooth-Connection-Rechargeable-Compatible%2Fdp%2FB0CT9VX5ZM%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1163565040540890099-20) to complete the look, as 8BitDo is yet to release a companion mouse for its retro accessories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,17 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-streamlining-video-craft-youtube-studio-edition/"><u>[Updated] 2024 Approved Streamlining Video Craft YouTube Studio Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-background-video-to-enrich-primary-scenes/"><u>[Updated] Harnessing Background Video to Enrich Primary Scenes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/debloating-windows-why-it-wont-help-and-better-alternatives-you-should-try/"><u>Debloating Windows: Why It Won't Help and Better Alternatives You Should Try</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-my-need-for-next-gen-apple-watch/"><u>Evaluating My Need for Next-Gen Apple Watch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-tips-fine-tune-sound-controls-for-optimal-performance-in-windows-os/"><u>Expert Tips: Fine-Tune Sound Controls for Optimal Performance in Windows OS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-se-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone SE Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-s23plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy S23+?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/social-experience/"><u>Social Experience</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728491632850-windows-107/"><u>Windows 10でデスクトップ上の失われたファイルを回復する究極のガイド7点</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reports-no-future-updates-for-windows-11-as-microsoft-kills-support-extension-plans/"><u>ZDNet Reports: No Future Updates for Windows 11 as Microsoft Kills Support Extension Plans</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

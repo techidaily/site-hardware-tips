@@ -1,7 +1,7 @@
 ---
 title: Lenovo Forecasts Essential AI and Cybersecurity Capabilities in Future Laptops - Insights From ZDNet
-date: 2024-12-20T17:05:34.772Z
-updated: 2024-12-27T22:43:27.371Z
+date: 2025-01-18T01:07:12.927Z
+updated: 2025-01-24T21:13:51.692Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,19 +77,18 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-experience-legendary-ps3-gaming-on-your-pc-today-for-2024/"><u>[New] Experience Legendary PS3 Gaming on Your PC Today for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-stealthy-sound-suppression-techniques-for-fade-out-for-2024/"><u>[New] Stealthy Sound Suppression Techniques for Fade-Out for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-engaging-audiences-with-visual-uploads-youtube-insights/"><u>[Updated] Engaging Audiences with Visual Uploads YouTube Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-tool-list-beyond-sharex/"><u>2024 Approved The Ultimate Tool List Beyond ShareX</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-roundup-of-premium-iphone-16pro-cases-gear-guide-tested-and-recommended-professionals/"><u>Exclusive Roundup of Premium iPhone 16/Pro Cases : Gear Guide Tested & Recommended Professionals</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-your-windows-11-pc/"><u>How to Restore Sounds on Your Windows 11 PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-sale-alert-score-a-fantastic-deal-at-170-off-amazons-fire-tv-omni-series-qled-as-featured-by-zdnet/"><u>Huge Sale Alert! Score a Fantastic Deal at $170 Off Amazon's Fire TV Omni Series QLED as Featured by ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/is-your-ipad-already-considered-old-school-technology/"><u>Is Your iPad Already Considered Old-School Technology?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labor-day-deals-why-the-discounted-ring-video-doorbell-pro-is-your-top-pick-for-smart-home-security/"><u>Labor Day Deals: Why the Discounted Ring Video Doorbell Pro Is Your Top Pick for Smart Home Security</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labour-day-special-how-the-affordable-ring-spotlight-cam-pro-became-my-top-pick-for-home-security-zdnet/"><u>Labour Day Special: How the Affordable Ring Spotlight Cam Pro Became My Top Pick for Home Security | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-discount-save-170-on-the-awesome-amazon-fire-tv-omni-with-qled-exclusive-offer-from-zdnet/"><u>Massive Discount: Save $170 on the Awesome Amazon Fire TV Omni with QLED - Exclusive Offer From ZDNet!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-desktopmobile-adjust-youtube-video-pace/"><u>Mastering Desktop/Mobile Adjust YouTube Video Pace</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-captioning-in-final-cut-pro-x-tips-and-tricks-for-success/"><u>New In 2024, Captioning in Final Cut Pro X Tips and Tricks for Success</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-tv-showdown-crystal-uhd-versus-qled-which-one-wins/"><u>Samsung TV Showdown: Crystal UHD Versus QLED – Which One Wins?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-instagram-experience-adding-vimeo-videos/"><u>[New] 2024 Approved The Instagram Experience Adding Vimeo Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-list-of-hd-webcams-compatible-with-windows-11-pcs-for-2024/"><u>[New] Ultimate List of HD Webcams Compatible with Windows 11 PCs for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-11x-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on 11X 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-ultra-hd-entertainment-an-in-depth-look-at-the-new-apple-tv-4k/"><u>Exploring Ultra HD Entertainment: An In-Depth Look at the New Apple TV 4K</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-captivate-audiences-techniques-for-livestreaming-video-in-spherical-views-on-youtube/"><u>In 2024, Captivate Audiences Techniques for Livestreaming Video in Spherical Views on YouTube</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ps3-video-transcoder-change-mkv-files-for-ps3-player-use/"><u>PS3 Video Transcoder - Change MKV Files for PS3 Player Use</u></a></li>
+<li><a href="https://article-tips.techidaily.com/spectacular-8-cam-enhancers-for-improved-video-feeds/"><u>Spectacular 8 Cam Enhancers for Improved Video Feeds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-models-ranked-elite-comparison-of-2023s-s-3-x-and-y-on-zdnet/"><u>Tesla Models Ranked: Elite Comparison of 2023'S S, 3, X, and Y on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teslas-ambitious-move-for-enhanced-renewable-energy-storages-gains-traction-through-landmark-chinese-pact/"><u>Tesla's Ambitious Move for Enhanced Renewable Energy Storages Gains Traction Through Landmark Chinese Pact.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-showdown-analyzing-features-of-google-pixel-7-pro-vs-pixel-6-pro-for-the-ideal-premium-phone-gizmoclock-review/"><u>The Ultimate Showdown: Analyzing Features of Google Pixel 7 Pro Vs. Pixel 6 Pro for the Ideal Premium Phone | GizmoClock Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premier-luggage-collections-of-2022-featured-by-zdnet/"><u>Top 5 Premier Luggage Collections of 2022 Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-compact-battery-boosters-reviewed-by-experts-the-ultimate-guide-techinsights/"><u>Top Rated Compact Battery Boosters Reviewed by Experts - The Ultimate Guide | TechInsights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transformed-ride-sharing-experience-awaits-as-uber-redesigns-its-app-inside-scoop-by-zdnet/"><u>Transformed Ride-Sharing Experience Awaits as Uber Redesigns Its App - Inside Scoop by ZDNet!</u></a></li>
 </ul></div>
 

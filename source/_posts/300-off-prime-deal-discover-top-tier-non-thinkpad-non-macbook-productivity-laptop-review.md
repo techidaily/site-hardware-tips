@@ -1,7 +1,7 @@
 ---
 title: "$300 Off Prime Deal: Discover Top-Tier Non-ThinkPad, Non-MacBook Productivity Laptop Review"
-date: 2024-12-20T17:09:47.926Z
-updated: 2024-12-27T23:35:51.502Z
+date: 2025-01-20T19:34:31.382Z
+updated: 2025-01-24T22:19:04.163Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Amazon's October Prime Day event has officially ended, but many laptops are stil
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,22 +146,21 @@ All things considered, the [sale price of $989](https://www.awin1.com/awclick.ph
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/reating-your-own-path-on-youtube-a-course-guide-for-2024/"><u>[New] Creating Your Own Path on YouTube A Course Guide for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-essential-websites-how-to-get-the-right-youtube-ringtones-for-2024/"><u>[New] Essential Websites How to Get the Right YouTube Ringtones for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-designing-dynamic-denouements/"><u>[Updated] 2024 Approved Designing Dynamic Denouements</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-beat-buffers-archive-and-dissect-tunes/"><u>2024 Approved Beat Buffers Archive & Dissect Tunes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-evening-ambiance-upgrade-to-latest-permanent-govee-lights-for-superior-yard-visibility/"><u>Enhance Your Evening Ambiance: Upgrade to Latest Permanent Govee Lights for Superior Yard Visibility.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-for-home-automation-enthusiasts-get-philips-hue-bulbs-up-to-56-cheaper-only-on-amazon-today/"><u>Huge Savings for Home Automation Enthusiasts: Get Philips Hue Bulbs Up to 56% Cheaper Only on Amazon Today!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/pazeras-path-to-sound-freedom-extraction-techniques-for-2024/"><u>Pazera's Path to Sound Freedom Extraction Techniques for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-outdoor-ambiance-using-govees-intelligent-lights-available-in-three-vibrant-shades-insight-from-cnet/"><u>Revolutionize Outdoor Ambiance Using Govee's Intelligent Lights, Available in Three Vibrant Shades - Insight From CNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-illumination-ges-advanced-neon-solutions-featured-on-zdnet/"><u>Revolutionizing Illumination: GE's Advanced Neon Solutions Featured on ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-need-privilege-escalation-issue-fixing-error-740/"><u>Tackling Need Privilege Escalation Issue: Fixing Error 740</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-drone-picks-available-now/"><u>Top Drone Picks Available Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-smart-home-innovations-of-2024-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Rated Smart Home Innovations of 2024: Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-living-space-with-smarter-brightness-a-comparison-of-hue-and-govee-lights-featured-on-zdnet/"><u>Transform Your Living Space with Smarter Brightness: A Comparison of Hue and Govee Lights | Featured on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-space-instantly-how-this-innovative-projector-is-the-ultimate-must-have-for-a-smarter-home-zdnet-insights/"><u>Transform Your Space Instantly: How This Innovative Projector Is the Ultimate Must-Have for a Smarter Home | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/troubleshooting-alexa-issues-insights-into-cloud-based-solutions-when-your-smart-assistant-stumbles-techtoday/"><u>Troubleshooting Alexa Issues: Insights Into Cloud-Based Solutions When Your Smart Assistant Stumbles | TechToday</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-professional/"><u>Updated In 2024, Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-the-science-of-writing-magnetic-vlogs/"><u>[Updated] In 2024, Mastering the Science of Writing Magnetic Vlogs</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-sony-xperia-10-v-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Sony Xperia 10 V by Name | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-magic-6-pro-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Magic 6 Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-sphere-shifts-with-impending-gpt-4-release/"><u>DIY Sphere Shifts with Impending GPT-4 Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-ultimate-guide-to-the-most-luxurious-fireplace-entertainment-centers-in-2eby2024-zdnet-insights/"><u>Expert Reviews: Ultimate Guide to the Most Luxurious Fireplace Entertainment Centers in 2Eby2024 | ZDNET Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/freshly-updated-intel-9560-driver-package-now-available-download-here/"><u>Freshly Updated Intel 9560 Driver Package Now Available - Download Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-build-your-perfect-gamers-paradise-essential-tips-and-tricks/"><u>How to Build Your Perfect Gamer's Paradise: Essential Tips and Tricks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-do-voiceover-on-powerpoint-for-2024/"><u>How to Do Voiceover on PowerPoint for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-home-theater-experience-with-an-incredible-deal-switch-to-a-long-throw-projector-and-save-200-zdnet/"><u>Maximize Your Home Theater Experience with an Incredible Deal - Switch to a Long-Throw Projector and Save $200 | ZDNet</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-5-best-free-avi-video-rotators-2023-update-for-2024/"><u>New Top 5 Best Free AVI Video Rotators-2023 Update for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/oled-versus-led-screen-types-a-comprehensive-guide-to-their-distinctions-and-which-offers-better-performance/"><u>OLED Versus LED Screen Types: A Comprehensive Guide to Their Distinctions and Which Offers Better Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-challenges-successful-cyberpunk-2077-downloads-from-the-steam-store/"><u>Overcoming Challenges: Successful Cyberpunk 2077 Downloads From the Steam Store</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/panasonic-resurfaces-in-american-market-with-trio-of-innovative-4k-televisions-insights-from-zdnet/"><u>Panasonic Resurfaces in American Market with Trio of Innovative 4K Televisions - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/research-methodologies-like-randomized-controlled-trials-are-used-to-measure-real-world-policy-effects/"><u>Research Methodologies Like Randomized Controlled Trials Are Used to Measure Real-World Policy Effects.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-ultra-thin-tcl-renders-their-minimalist-frames-competing-with-the-famed-samsung-design/"><u>Revolutionary Ultra-Thin TCL Renders Their Minimalist Frames, Competing with the Famed Samsung Design</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-face-forward-top-makeup-creatives-for-2024/"><u>The Face Forward Top Makeup Creatives for 2024</u></a></li>
 </ul></div>
 

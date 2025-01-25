@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Corner: Dive Into the Latest Hardware Reviews and Comparisons"
-date: 2024-08-19T02:29:57.309Z
-updated: 2024-08-20T02:29:57.309Z
+date: 2025-01-18T22:39:56.554Z
+updated: 2025-01-24T16:39:24.488Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,19 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-10-live-streamers-an-analytical-comparison-review/"><u>[New] 2024 Approved Top 10 Live Streamers An Analytical Comparison Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proximity-prowess-mastering-the-art-of-roblox-magnification/"><u>[New] Proximity Prowess Mastering the Art of Roblox Magnification</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unlock-the-power-of-live-broadcasting-with-tiktok-from-pc-for-2024/"><u>[Updated] Unlock the Power of Live Broadcasting with TikTok From PC for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buy-your-4tb-portable-samsung-t5-ssd-at-half-price-plus-more-off-exclusive-deal-alert-by-zdnet/"><u>Buy Your 4TB Portable Samsung T5 SSD at Half Price + More Off | Exclusive Deal Alert by ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gnasher-no-cost-and-paid-alternatives-to-lightroom/"><u>Gnasher No-Cost & Paid Alternatives to Lightroom</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-xr21-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia XR21 Without Password?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-tpm-contributes-to-windows-11s-security-protocols-exploring-the-essentials-zdnet/"><u>How TPM Contributes to Windows 11'S Security Protocols - Exploring the Essentials | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huaweis-answer-to-apple-unboxing-and-reviewing-the-revolutionary-matestation-x-a-stunning-28-inch-all-in-one-pc-discover-more-on-zdnet/"><u>Huawei's Answer to Apple: Unboxing & Reviewing the Revolutionary MateStation X, a Stunning 28-Inch All-in-One PC | Discover More on ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-itel-p55-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Itel P55 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimize-your-pc-for-windows-11-with-the-right-ram-specs-gadgetclock/"><u>Optimize Your PC for Windows 11 with the Right RAM Specs | GadgetClock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snap-up-the-finest-dell-deals-of-cyber-monday-across-popular-stores-best-buy-amazon-and-more-zdnets-ultimate-guide/"><u>Snap Up the Finest Dell Deals of Cyber Monday Across Popular Stores: Best Buy, Amazon, and More | ZDNet's Ultimate Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-secret-tips-for-accessing-win11s-credential-vault-in-under-a-minute/"><u>Top Secret Tips for Accessing Win11's Credential Vault in Under a Minute</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->

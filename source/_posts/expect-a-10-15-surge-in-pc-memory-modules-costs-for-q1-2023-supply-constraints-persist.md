@@ -1,7 +1,7 @@
 ---
 title: Expect a 10-15%% Surge in PC Memory Modules Costs for Q1 2023 – Supply Constraints Persist
-date: 2024-08-19T02:25:21.410Z
-updated: 2024-08-20T02:25:21.410Z
+date: 2025-01-22T20:45:37.631Z
+updated: 2025-01-24T16:18:44.681Z
 tags:
   - ram
 categories:
@@ -27,6 +27,10 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
 
  This $2.4 billion investment is a part of China's broader strategy to enhance its semiconductor capabilities in general and advanced packaging technologies in particular. Whether or not this one is going to be a financial success is something that remains to be seen. Given that the U.S. government does not allow the export of advanced components made using American technology to China without a license, it has no other choice but to build its own HBM supply chain.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,22 +52,20 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-getting-started-with-windows-10-sound-recording/"><u>[New] Getting Started with Windows 10 Sound Recording</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-chuckles-and-characters-a-guide-to-top-meme-generators/"><u>[New] In 2024, Chuckles & Characters A Guide to Top Meme Generators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-yet-powerful-cpu-picks-expertly-tested-pcmag-insights/"><u>Affordable Yet Powerful CPU Picks , Expertly Tested - PCMag Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-equipment-with-toms-hardware-guides/"><u>Exploring Computer Equipment with Tom's Hardware Guides</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y56-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y56 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6 Plus Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-electronics-knowledge-insights-from-toms-hardware-hub/"><u>Master Your Electronics Knowledge: Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/report-intel-cpus-in-laptops-face-critical-stability-issues-during-rigorous-testing-phases/"><u>Report: Intel CPUs in Laptops Face Critical Stability Issues During Rigorous Testing Phases</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-find-n3-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo Find N3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-computer-component-analysis/"><u>Tom's Tech Review: In-Depth Computer Component Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasformare-i-file-pef-in-immagini-jpeg-online-gratuito-con-movavi/"><u>Trasformare I File PEF in Immagini JPEG Online Gratuito Con Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-the-mysteries-of-lenovos-new-laptop-a-hidden-trackpoint-feature-and-other-secret-functions-revealed/"><u>Unlocking the Mysteries of Lenovo's New Laptop: A Hidden Trackpoint Feature and Other Secret Functions Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-electronics-with-toms-hardware-guide/"><u>Unveiling the Latest in Electronics with Tom's Hardware Guide</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->

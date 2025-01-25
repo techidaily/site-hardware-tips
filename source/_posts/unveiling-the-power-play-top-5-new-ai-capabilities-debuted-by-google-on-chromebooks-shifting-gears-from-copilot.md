@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power Play: Top 5 New AI Capabilities Debuted by Google on Chromebooks, Shifting Gears From Copilot"
-date: 2025-01-14T16:30:35.588Z
-updated: 2025-01-18T18:15:07.137Z
+date: 2025-01-23T00:18:33.416Z
+updated: 2025-01-24T22:33:55.134Z
 tags:
   - laptops
 categories:
@@ -60,7 +60,7 @@ While the webcam houses most of the AI features, there is one AI-enabled feature
 I recommend using the Magic Eraser on small stuff in pictures. When you use the feature for objects that take up a large amount of space in photographs, the after-effect can make the image look warped. So, while the tool is good, it's no substitute for Adobe Photoshop. Besides Magic Eraser, Chromebook Plus models now have the nifty File Sync feature, which keeps a copy of Google Drive files on your computer at all times. It's a handy tool that I got a lot of use out of when I was outside away from a Wi-Fi connection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -103,21 +103,22 @@ It does appear there may be a third model down the line. Asus' official product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>[Updated] 2024 Approved Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unlock-pip-in-edge-for-a-superior-browsing-experience/"><u>[Updated] 2024 Approved Unlock PIP in Edge for a Superior Browsing Experience</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-pixart-video-editor/"><u>2024 Approved Pixart Video Editor</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728510150339-4/"><u>紧急数据营救工具列表：帮助您在任何时间都能及时通过4个移动设备应用解决存储问题</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/benchmarking-the-best-a-comprehensive-overview-of-top-cpus/"><u>Benchmarking the Best: A Comprehensive Overview of Top CPUs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175667822-enhance-noise-free-performance-with-adaptable-pc-enclosures-and-shining-ventilation-fans-from-be-quiet/"><u>Enhance Noise-Free Performance with Adaptable PC Enclosures & Shining Ventilation Fans From Be Quiet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-insights-on-unlocking-breakthroughs-to-accelerate-the-human-journey/"><u>Expert Insights on Unlocking Breakthroughs to Accelerate the Human Journey</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-7-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 7?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-premier-movie-access-on-facebook-ranked-8-list/"><u>In 2024, Premier Movie Access on Facebook Ranked #8 List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsofts-project-natick-successful-deployment-of-an-underwater-data-facility-with-reduced-server-downtime/"><u>Microsoft's Project Natick: Successful Deployment of an Underwater Data Facility with Reduced Server Downtime</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/professional-insight-into-valkyrie-sync-240-aio-liquid-chiller-impressive-heat-transfer-efficacy-despite-subpar-software-experience/"><u>Professional Insight Into Valkyrie Sync 240 AIO Liquid Chiller: Impressive Heat Transfer Efficacy Despite Subpar Software Experience</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/7-best-video-equipment-for-shining-on-screen/"><u>The 17 Best Video Equipment for Shining on Screen</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-real-deal-on-the-77-3d-printer-from-aliexpress-does-it-hold-up/"><u>The Real Deal on the $77 3D Printer From AliExpress – Does It Hold Up?</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-a70-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel A70 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-you-should-consider-getting-a-3d-printer-during-the-upcoming-black-friday-sale/"><u>Why You Should Consider Getting a 3D Printer During the Upcoming Black Friday Sale</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/xpgs-revolutionary-integrated-pump-and-radiator-cpu-cooling-system-supports-280w-units/"><u>XPG's Revolutionary Integrated Pump and Radiator CPU Cooling System Supports 280W Units</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elevate-engagement-mastering-online-presentations-via-zoom-and-youtube/"><u>[New] 2024 Approved Elevate Engagement Mastering Online Presentations via Zoom and YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-iphone-photo-fixes-expert-hacks-for-better-snapshots/"><u>[New] Quick iPhone Photo Fixes Expert Hacks for Better Snapshots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-strategies-for-improving-youtubefacebook-video-quality/"><u>[Updated] 2024 Approved Strategies for Improving YouTube/Facebook Video Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/behind-the-screens-a-closer-look-at-zdnets-rigorous-tablet-testing-procedures/"><u>Behind the Screens: A Closer Look at ZDNet’s Rigorous Tablet Testing Procedures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/black-friday-2022-countdown-find-the-hottest-bargains-and-best-sale-destinations-on-zdnet/"><u>Black Friday 2022 Countdown: Find The Hottest Bargains and Best Sale Destinations On ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-android-tablet-reviews-surprising-non-tcl-non-samsung-brands-featured-by-zdnet/"><u>Budget-Friendly Android Tablet Reviews: Surprising Non-TCL, Non-Samsung Brands Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-ipad-and-remarkable-2-key-distinctions-you-should-know/"><u>Comparing iPad & Remarkable 2: Key Distinctions You Should Know!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-ipad-air-4-and-new-ipad-air-worth-the-update-or-not-zdnet-insights/"><u>Comparing iPad Air 4 and New iPad Air: Worth the Update or Not? | ZDNet Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g73-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Motorola Moto G73 5G FRP Locks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2016-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2016 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oppo-find-x6-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo Find X6 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1726809383759-top-recommended-non-samsung-non-tcl-android-tablets-discover-the-best-alternatives/"><u>Top-Recommended Non-Samsung, Non-TCL Android Tablets: Discover the Best Alternatives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-hp-wireless-keyboard-connectivity-issues/"><u>Troubleshooting Guide: Fixing HP Wireless Keyboard Connectivity Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-disk-navigation-deciphering-c-and-d/"><u>Windows Disk Navigation: Deciphering 'C:' And 'D:'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-the-ultimate-survivor-tablet-windows-stylus-capable-device-among-the-finest-tested/"><u>ZDNet Reviews the Ultimate Survivor Tablet: Windows, Stylus Capable Device Among the Finest Tested!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-expert-take-on-microsoft-surface-go-3-compact-powerhouse-with-a-battery-caveat/"><u>ZDNet's Expert Take on Microsoft Surface Go 3: Compact Powerhouse with a Battery Caveat</u></a></li>
 </ul></div>
 

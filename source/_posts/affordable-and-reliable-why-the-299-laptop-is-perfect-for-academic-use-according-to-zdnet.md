@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Reliable: Why the $299 Laptop Is Perfect for Academic Use, According to ZDNET"
-date: 2025-01-11T18:32:26.295Z
-updated: 2025-01-18T19:15:08.288Z
+date: 2025-01-18T02:30:32.743Z
+updated: 2025-01-24T18:35:50.666Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,17 +77,24 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-10-visionary-flicks-that-empower-you/"><u>[New] 10 Visionary Flicks That Empower You</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-content-visibility-on-youtube-your-guide-to-effective-featured-channels/"><u>[New] Mastering Content Visibility on YouTube Your Guide to Effective Featured Channels</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-maximizing-video-collection-on-tiktok-efficiently-for-2024/"><u>[New] Maximizing Video Collection on TikTok Efficiently for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/avigating-the-world-of-sound-effects-in-youtube-videos/"><u>[New] Navigating the World of Sound Effects in YouTube Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-top-10-non-vimeo-editors-for-user-generated-content/"><u>[Updated] In 2024, Top 10 Non-Vimeo Editors for User-Generated Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862768155-get-the-ultrawide-view-with-the-newly-discounted-gigabytes-aorus-oled-gaming-monitor-for-only-969/"><u>Get the Ultrawide View with the Newly Discounted Gigabyte's Aorus OLED Gaming Monitor for Only $969!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-get-the-scoop-on-vn-video-editor-for-pc/"><u>New 2024 Approved Get the Scoop on VN Video Editor for PC</u></a></li>
-<li><a href="https://win-web.techidaily.com/problembehandlung-fur-gpeditmsc-nicht-gefunden-tipps-und-tricks-fur-windows-nutzer/"><u>Problembehandlung Für gpedit.msc Nicht Gefunden - Tipps Und Tricks Für Windows-Nutzer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-outdoor-projector-insights-from-industry-experts-on-quality-features-and-value/"><u>Ultimate Guide to Choosing the Perfect Outdoor Projector: Insights From Industry Experts on Quality, Features & Value</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-high-tech-secrets-at-toms-gear-and-hardware-insights/"><u>Unveiling High-Tech Secrets at Tom's Gear & Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-with-toms-hardware-wisdom/"><u>Unveiling Tech Secrets with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-hardware-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest in Computing Hardware with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tarting-with-a-bang-building-a-youtube-presence-for-2024/"><u>[New] Starting with a Bang Building a YouTube Presence for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-art-and-technique-of-professional-android-time-lapses/"><u>[New] The Art and Technique of Professional Android Time-Lapses</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-precision-in-converting-videos-sdr-to-hdr-video-enhancement-techniques-for-2024/"><u>[Updated] Precision in Converting Videos SDR to HDR Video Enhancement Techniques for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-techniques-to-archivalize-chat-communication-in-whatsapp-for-2024/"><u>[Updated] Techniques to Archivalize Chat Communication in WhatsApp for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-raw-to-refined-the-ultimate-youtube-studio-editing-journey/"><u>2024 Approved From Raw to Refined The Ultimate YouTube Studio Editing Journey</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-to-make-a-meme-step-by-step/"><u>2024 Approved How to Make a Meme (Step by Step)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-by-step-walkthrough-of-instagram-story-screening/"><u>2024 Approved Step-by-Step Walkthrough of Instagram Story Screening</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-tech-gurus-guide-to-why-you-need-an-apple-watch-unveil-the-reasons-at-zdnet/"><u>A Tech Guru's Guide to Why You Need an Apple Watch – Unveil the Reasons at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/android-wear-evolved-how-does-the-google-pixel-watch-stack-up-against-the-apple-series-expert-insights-from-zdnet/"><u>Android Wear Evolved: How Does the Google Pixel Watch Stack Up Against the Apple Series? Expert Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-watch-ultra-durability-challenge-a-full-year-assessment-on-endurance-and-performance/"><u>Apple Watch Ultra Durability Challenge: A Full-Year Assessment on Endurance and Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-the-apple-watch-ultra-and-series-8-a-comprehensive-guide/"><u>Choosing Between the Apple Watch Ultra and Series 8: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/combining-whoop-and-apple-watch-for-peak-performance-a-guide-for-elite-athletes-zdnet/"><u>Combining Whoop and Apple Watch for Peak Performance - A Guide for Elite Athletes | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-test-of-the-garmin-instinct-solar-powered-smartwatch-durable-design-with-vibrant-display-and-extended-battery-life/"><u>Comprehensive Test of the Garmin Instinct Solar-Powered Smartwatch: Durable Design with Vibrant Display & Extended Battery Life</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descargar-e-instalar-el-mejor-convertidor-de-archivos-vlc-para-cambiar-mkv-a-mp4-sin-costo/"><u>Descargar E Instalar El Mejor Convertidor De Archivos VLC Para Cambiar MKV a MP4 Sin Costo</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-infinix-zero-30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Infinix Zero 30 5G Phones with/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-15-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 15 With 7 Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-enhancements-discover-watchos-11s-top-notch-additions-for-your-apple-watch-techzine/"><u>Unveiling New Enhancements: Discover WatchOS 11'S Top-Notch Additions for Your Apple Watch | TechZine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgraded-and-upclose-the-newest-benefits-of-apples-watchos-eb-version-unveiled-by-zdnet/"><u>Upgraded & Upclose: The Newest Benefits of Apple's WatchOS Eb Version Unveiled by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-review-the-elegant-yet-niche-appeal-of-the-huawei-watch-gt-3-pro-smartwatch-experience/"><u>ZDNET Review: The Elegant Yet Niche Appeal of the Huawei Watch GT 3 Pro Smartwatch Experience</u></a></li>
 </ul></div>
 

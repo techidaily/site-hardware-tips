@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Power of Legacy: The Remarkable Journey of a Vintage 14-Year-Old Celeron D 347, Overclocked to an Astounding 8.37Ghz!"
-date: 2024-08-19T02:32:51.633Z
-updated: 2024-08-20T02:32:51.633Z
+date: 2025-01-20T21:57:33.229Z
+updated: 2025-01-24T23:56:21.314Z
 tags:
   - overclocking
 categories:
@@ -25,6 +25,10 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
 
  To overclock his Pentium G7400T to 5808 MHz, Hicookie increased its BCLK to 187 MHz (or by 87%), pushed the voltage to 1.656V (which is rather extreme for a 10nm CPU) and used liquid nitrogen cooling. The experiment was conducted on Gigabyte's expensive Aorus Z690 Tachyon motherboard, which is an uncommon pairing with such a cheap CPU. Still, since the purpose of the experiment was to find out the overclocking potential of Intel's Pentium G7400T (rather than build an entry-level machine with overclocking in mind), this choice was justified. What remains to be seen is whether the G7400T is a good overclocker without liquid nitrogen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,24 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-strategic-thinking-keywords-that-lead-to-online-victory/"><u>[Updated] Strategic Thinking Keywords that Lead to Online Victory</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-itel-a70-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Itel A70 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-13t-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi 13T Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-mobile-and-desktop-apps-adjusting-audio-playback-speed/"><u>Best Mobile & Desktop Apps Adjusting Audio Playback Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-choosing-your-next-outdoor-companion-the-rugged-and-energetic-garmin-instinct-2-solar-watch-insights-from-zdnet/"><u>Comprehensive Guide to Choosing Your Next Outdoor Companion: The Rugged and Energetic Garmin Instinct 2 Solar Watch | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-googles-pixel-watch-s2-can-improve-your-health-with-its-vital-5-features-techguide/"><u>Discover How Google's Pixel Watch S2 Can Improve Your Health with Its Vital 5 Features | TechGuide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmin-instinct-crossover-an-in-depth-review-revealing-its-strengths-and-the-missing-game-changing-feature/"><u>Garmin Instinct Crossover: An In-Depth Review Revealing Its Strengths and the Missing Game-Changing Feature</u></a></li>
+<li><a href="https://facebook.techidaily.com/heres-what-facebooks-new-page-labels-mean/"><u>Here's What Facebook's New Page Labels Mean...</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-your-pcs-prowess-tackling-lags-in-windows-11/"><u>Ignite Your PC's Prowess: Tackling Lags in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-elite-montblanc-wear-os-smartwatch-at-1300-a-game-changer-for-luxury-timepieces-find-out-on-zdnet/"><u>Is the Elite Montblanc Wear OS Smartwatch at $1,300 a Game Changer for Luxury Timepieces? Find Out on ZDNet!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/leading-video-correction-programs-perfect-matches-for-both-windows-and-apple-devices/"><u>Leading Video Correction Programs: Perfect Matches for Both Windows & Apple Devices</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/macx-video-converter-for-psp-pspmac/"><u>MacX Video Converter for PSP - 完全無料のPSP互換Mac用動画コンバータソフトウェア</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-viewing-hurdles-on-netflix-fixing-playback-troubles-easily/"><u>Overcoming Viewing Hurdles on Netflix - Fixing Playback Troubles Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/swayed-by-three-stellar-features-why-im-now-a-believer-in-the-apple-watch-series-10/"><u>Swayed by Three Stellar Features - Why I'm Now a Believer in the Apple Watch Series 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-premium-android-watches-comprehensive-reviews-by-industry-pros-gadgetzone/"><u>Ultimate Guide to Premium Android Watches: Comprehensive Reviews by Industry Pros | GadgetZone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-apple-watch-8-surprising-success-with-less-sophisticated-sensors-than-samsung-exclusive-review-on-zdnet/"><u>Unveiling The Apple Watch 8: Surprising Success with Less Sophisticated Sensors Than Samsung | Exclusive Review on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-changes-apple-set-to-enhance-budget-friendly-watch-se-exciting-updates-await-zdnet/"><u>Upcoming Changes: Apple Set to Enhance Budget-Friendly Watch SE - Exciting Updates Await! [ZDNet]</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

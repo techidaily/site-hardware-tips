@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Release: Samsung Unveils the World’s Slimmest LPDDR5X Memory Chip in Mass Production"
-date: 2024-08-19T02:24:57.336Z
-updated: 2024-08-20T02:24:57.336Z
+date: 2025-01-22T20:31:54.017Z
+updated: 2025-01-25T02:00:55.888Z
 tags:
   - ram
 categories:
@@ -27,6 +27,10 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
 
  This $2.4 billion investment is a part of China's broader strategy to enhance its semiconductor capabilities in general and advanced packaging technologies in particular. Whether or not this one is going to be a financial success is something that remains to be seen. Given that the U.S. government does not allow the export of advanced components made using American technology to China without a license, it has no other choice but to build its own HBM supply chain.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,20 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-circular-captures-iphone-filmmaking-tips-for-social-media/"><u>[Updated] Circular Captures IPhone Filmmaking Tips for Social Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/achieve-professional-finishes-avoid-blisters-and-pimples-in-your-3d-prints/"><u>Achieve Professional Finishes: Avoid Blisters & Pimples in Your 3D Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-toms-hardware-for-top-notch-equipment/"><u>Expert Advice From Tom's Hardware for Top-Notch Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-new-frontiers-in-technology-insights-from-toms-gear-analyses/"><u>Exploring New Frontiers in Technology - Insights From Tom's Gear Analyses</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-g54-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Motorola G54 5G Bootloader Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oneplus-12r-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on OnePlus 12R online without jailbreak</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-instagram-reel-creation-guide/"><u>In 2024, Instagram Reel Creation Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-matching-tunes-to-themes-in-film-clips/"><u>In 2024, Matching Tunes to Themes in Film Clips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-repair-of-microsofts-infamous-80072ee2-update-failure/"><u>Mastering the Repair of Microsoft's Infamous 80072EE2 Update Failure</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/t7-kit-unveiled-next-gen-in-canon-dslr-technology/"><u>T7 Kit Unveiled: Next Gen in Canon DSLR Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-toms-guide-to-advanced-computer-systems-and-equipment/"><u>The Tom's Guide to Advanced Computer Systems and Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-in-air-cooled-showdown-in-depth-review-of-120mm-aio-units-from-be-quiet-corsair-cooler-master-and-enermax/"><u>Top 4 in Air-Cooled Showdown: In-Depth Review of 120MM AIO Units From Be Quiet, Corsair, Cooler Master, and Enermax</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-electronics-with-toms-tech-wisdom/"><u>Unveiling the Latest in Electronics with Tom's Tech Wisdom</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Against All Odds: The Remarkable Journey From SLS Kickstarter to Acquisition Success"
-date: 2024-08-19T03:50:31.020Z
-updated: 2024-08-20T03:50:31.020Z
+date: 2025-01-23T00:49:19.524Z
+updated: 2025-01-24T19:47:58.905Z
 tags:
   - printer
 categories:
@@ -32,8 +32,6 @@ If you've ever thought about getting into the 3D printing hobby, this is a great
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -41,9 +39,23 @@ If you've ever thought about getting into the 3D printing hobby, this is a great
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-advanced-mac-recorder-with-superior-hd-and-sound-quality/"><u>[New] Advanced Mac Recorder with Superior HD and Sound Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-8-mirrorless-cameras-to-elevate-your-vlogging-game-for-2024/"><u>[Updated] Best 8 Mirrorless Cameras to Elevate Your Vlogging Game for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-guide-to-top-frame-rates-in-slow-motion-video-production-for-2024/"><u>[Updated] Guide to Top Frame Rates in Slow-Motion Video Production for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-androidios-users-guide-to-facebook-live-broadcasting/"><u>[Updated] In 2024, Android/iOS Users' Guide to Facebook Live Broadcasting</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-the-art-of-closeup-essential-filmmaking-tips-for-2024/"><u>[Updated] Mastering the Art of Closeup Essential Filmmaking Tips for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1728467402356-ssd/"><u>「外部SSDが壊れた時、データ保持しながらの修正方法」</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-game-with-the-qidi-tech-q1-pro-an-expert-review-guide/"><u>Elevate Your Game with the QIDI Tech Q1 Pro - An Expert Review Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/encode-high-capacity-data-on-everyday-plastics-discovering-the-potential-of-3d-printed-holographic-storage/"><u>Encode High Capacity Data on Everyday Plastics: Discovering the Potential of 3D-Printed Holographic Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-computing-with-toms-technology-insights/"><u>Explore Advanced Computing with Tom's Technology Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-wild-west-strategies-to-fix-freezing-and-boost-performance-in-red-dead-redemption-2/"><u>Master the Wild West: Strategies to Fix Freezing and Boost Performance in Red Dead Redemption 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverse-disk-rotation-using-chdman-to-enhance-gaming-archives/"><u>Reverse Disk Rotation: Using CHDMAN to Enhance Gaming Archives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-raspberry-pi-gadgets-and-peripherals/"><u>Top-Rated Raspberry Pi Gadgets and Peripherals</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

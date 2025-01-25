@@ -1,7 +1,7 @@
 ---
 title: Asus Extends Support with Free 16-Pin Cables to Enhance Your ROG PSU's Reliability and Security
-date: 2024-08-19T02:27:41.039Z
-updated: 2024-08-20T02:27:41.039Z
+date: 2025-01-19T18:16:14.782Z
+updated: 2025-01-24T18:11:26.696Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
 
  Cooling is provided by a 120mm rifle-bearing PWM fan, that operates in a zero RPM fan mode for near-silent operation at lower loads, so when you're just browsing away, this should help to keep your PSU from adding to the combined noise output from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,8 +46,6 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -51,8 +53,26 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unseen-elements-in-instagram-stories-for-the-curious-viewer/"><u>[New] Unseen Elements in Instagram Stories For the Curious Viewer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-5-pc-snipers-for-efficient-image-capture/"><u>[Updated] 2024 Approved The Ultimate 5 PC Snipers for Efficient Image Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-essential-steps-for-integrating-streamlabs-in-obs-mac/"><u>2024 Approved Essential Steps for Integrating Streamlabs in OBS (Mac)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138574-9780743221894-a-mans-journey-to-simple-abundance/"><u>A Man's Journey to Simple Abundance | Free Book</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/comment-resoudre-limpossibilite-de-creer-un-point-de-restauration-dans-windows-10/"><u>Comment Résoudre L'Impossibilité De Créer Un Point De Restauration Dans Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-note-50-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme Note 50 Face Lock?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-eufy-homevac-cleaner-at-49-save-with-amazon-and-prime-offer-exclusive-deal-spotted-by-zdnet/"><u>Get Eufy HomeVac Cleaner at $49 - Save with Amazon & Prime Offer! Exclusive Deal Spotted by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-tile-revolutionizes-personal-safety-with-the-latest-anti-stalking-innovation-scan-and-secure-analysis-by-zdnet/"><u>How Tile Revolutionizes Personal Safety with the Latest Anti-Stalking Innovation, Scan and Secure | Analysis by ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-11-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 11 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/no-need-for-indicators-assess-macbook-charging-velocity-with-ease-expert-advice-from-zdnet/"><u>No Need for Indicators? Assess MacBook Charging Velocity with Ease - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimizing-your-visual-experience-microsofts-latest-tool-for-perfecting-hdr-on-windows-11-insights-from-zdnet/"><u>Optimizing Your Visual Experience: Microsoft's Latest Tool for Perfecting HDR on Windows 11 - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/sandisksandisk/"><u>SanDisk修復手段指南：針對每一種SanDisk記憶容器的救助方法</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screenmaster-review-the-latest-in-tech-capture-for-2024/"><u>ScreenMaster Review The Latest in Tech Capture for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/securing-the-core-how-linux-responds-to-intel-and-amd-cpu-threats-according-to-zdnet-reports/"><u>Securing the Core: How Linux Responds to Intel and AMD CPU Threats, According to ZDNet Reports</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/streamlining-productivity-how-elgatos-stream-deck-enhances-efficiency-beyond-gaming/"><u>Streamlining Productivity: How Elgato's Stream Deck Enhances Efficiency Beyond Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-unparalleled-streaming-experience/"><u>The Ultimate Guide to Unparalleled Streaming Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-strategies-to-avoid-ear-damage-from-using-earbuds-and-headsets-insights-from-zdnet/"><u>Top 5 Strategies to Avoid Ear Damage From Using Earbuds and Headsets - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-printer-models-a-comprehensive-guide-by-zdnet/"><u>Top-Ranked Printer Models : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-review-unveiling-the-huawei-matepad/"><u>ZDNet Review: Unveiling the Huawei MatePad</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

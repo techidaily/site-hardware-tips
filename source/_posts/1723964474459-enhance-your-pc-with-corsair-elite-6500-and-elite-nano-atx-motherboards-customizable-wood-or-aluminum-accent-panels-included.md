@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your PC with Corsair Elite 6500 & Elite Nano ATX Motherboards: Customizable Wood or Aluminum Accent Panels Included"
-date: 2024-08-19T02:30:59.116Z
-updated: 2024-08-20T02:30:59.116Z
+date: 2025-01-17T20:54:30.556Z
+updated: 2025-01-24T22:50:11.102Z
 tags:
   - cases
 categories:
@@ -29,6 +29,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
  And while all sides of the Terra are amply vented (albeit without any dust filters), fan support is limited to a single 120 mm spinner at the bottom rear. In my building experience with the case, detailed below, even with a modular SFX power supply, that bottom area is going to be very occupied by cable slack. Plus, if you do put a fan there, you lose one of the two mounting places available for 2.5-inch drives.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fractal Design Terra Specs
 
  Swipe to scroll horizontally
@@ -52,6 +56,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
  Image 1 of 2
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -79,16 +87,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
@@ -96,8 +98,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -107,8 +110,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Next, I spun the case around and installed my GPU. For this build, I used an old Gigabyte RTX 2060 Super. I could have installed something thicker and a couple of inches longer here, but the Gigabyte card wasn't currently in another system, my Zotac GTX 1080 Ti was borderline too thick (and too old), and the Colorful RTX 4090 in my main system is too long, at over 13 inches. I'd say in most instances, you should expect to fit most 4070-class cards in this case – as long as it's not one of the crazy thick overbuild models. Higher-end Nvida FE cards should also fit, but then you're going to need a larger SFX-L power supply, and I don't feel great about all that heat-generating hardware going into a cramped case with, at best, a single intake fan. Again, Fractal could have made this case just a little bigger to accommodate more powerful cards. But as it is, it's probably good that you can't quite fit the most powerful, most overclocked cards in this case, no matter how vented all the panels are.
@@ -126,8 +130,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -136,9 +141,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  All in all, the Fractal Terra is a striking and mostly well-thought-out Mini-ITX case. I doubt it will have as wide an appeal as its larger North cousin since component and airflow options are far more limiting here. But if you don't need to pack in the absolute most powerful components (particularly on the CPU side) and you don't need more than a few storage drives, Fractal has once again delivered one of the prettiest cases available – especially if you want a respite from the RGB and aggressive designs that dominate the gaming side of the PC realm.
@@ -153,8 +155,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +162,24 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-converting-facebook-videos-to-mp3-audios-quickly/"><u>[New] 2024 Approved Converting Facebook Videos to MP3 Audios Quickly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-securely-snapshot-streaming-top-6-techniques-for-netflix-on-mac/"><u>[New] Securely Snapshot Streaming Top 6 Techniques for Netflix on Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps-in-2024/"><u>[Updated] Evaluating Top Screen Capture Software Which Is Superior, OBS or Fraps, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-guide-to-sound-shakers/"><u>[Updated] In 2024, The Ultimate Guide to Sound Shakers</u></a></li>
+<li><a href="https://win-bits.techidaily.com/drei-methoden-zum-austausch-von-nutzerdaten-zwischen-windows-versionen-10-und-11/"><u>Drei Methoden Zum Austausch Von Nutzerdaten Zwischen Windows-Versionen 10 Und 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-future-living-discovering-the-potential-of-holographic-home-helpers-at-mwc-3-innovative-prospects/"><u>Exploring Future Living: Discovering the Potential of Holographic Home Helpers at MWC - 3 Innovative Prospects</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-nokia-g22-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Nokia G22 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/imagining-a-smart-future-unveiling-apples-plans-for-domestic-robotic-companions-tech-insights/"><u>Imagining a Smart Future: Unveiling Apple's Plans for Domestic Robotic Companions | Tech Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-woes-fixing-wi-fi-not-working-problems-in-minutes/"><u>IPad Woes? Fixing Wi-Fi Not Working Problems in Minutes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rev-up-your-garden-game-with-zdnets-high-speed-robot-mower-designed-for-a-beautifully-manicured-lawn/"><u>Rev Up Your Garden Game with ZDNet's High-Speed Robot Mower Designed for a Beautifully Manicured Lawn</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-home-cleaning-with-the-dual-functions-of-a-robotic-vacuum-and-attached-handheld-device-insights-from-zdnet/"><u>Revolutionize Your Home Cleaning with the Dual Functions of a Robotic Vacuum & Attached Handheld Device | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-28-affordable-christmas-season-robot-vacuums-exclusive-offers-reviewed-by-zdnet/"><u>Top 28 Affordable Christmas Season Robot Vacuums: Exclusive Offers Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-home-with-a-tech-savvy-litter-box-special-labor-day-discounts-await-zdnet/"><u>Transform Your Home with a Tech-Savvy Litter Box – Special Labor Day Discounts Await! | ZDNET</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-the-mac-universe-the-potential-of-generative-ai-by-apple/"><u>Transforming the Mac Universe: The Potential of Generative AI by Apple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-value-of-luxury-why-you-should-invest-in-roborocks-premium-robot-vacuum-insights-from-a-detailed-review/"><u>Unveiling the Value of Luxury: Why You Should Invest in Roborock's Premium Robot Vacuum - Insights From a Detailed Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-why-roborocks-premium-robot-vacuum-is-worth-the-investment-discover-key-benefits/"><u>ZDNet Reviews: Why Roborock's Premium Robot Vacuum Is Worth the Investment - Discover Key Benefits!</u></a></li>
+</ul></div>
 

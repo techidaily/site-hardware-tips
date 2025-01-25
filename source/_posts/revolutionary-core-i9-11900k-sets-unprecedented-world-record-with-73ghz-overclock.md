@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Core I9-11900K Sets Unprecedented World Record with 7.3GHz Overclock
-date: 2024-08-19T02:32:54.898Z
-updated: 2024-08-20T02:32:54.898Z
+date: 2025-01-20T22:01:23.853Z
+updated: 2025-01-25T01:52:41.561Z
 tags:
   - overclocking
 categories:
@@ -27,6 +27,10 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  It is noteworthy that the 8.0 GHz barrier is rather hard to break, and to date, only 117 processors have managed to pass it. The vast majority of the processors to hit 8.0 GHz or higher frequency are AMD's FX 8000-series units, as well as Intel's Cedar Mill-based Celeron D or Pentium CPUs, but there are also several AMD's A-series APUs too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,26 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-text-techniques-top-10-video-enhancers/"><u>[New] 2024 Approved Text Techniques Top 10 Video Enhancers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-expert-tips-for-twitter-video-interactions/"><u>[New] In 2024, Expert Tips for Twitter Video Interactions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-content-game-with-extended-instagram-videos/"><u>[Updated] Elevate Your Content Game with Extended Instagram Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-extensive-overview-hero4-black-dynamics-for-2024/"><u>[Updated] Extensive Overview Hero4 Black Dynamics for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-quickcapture-studio-chrome-os-snapper-for-2024/"><u>[Updated] QuickCapture Studio Chrome OS Snapper for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screensnap-secrets-the-ultimate-guide-to-record-your-world/"><u>[Updated] ScreenSnap Secrets The Ultimate Guide to Record Your World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/combining-whoop-with-the-apple-watch-how-top-athletes-can-maximize-performance-digital-trends/"><u>Combining Whoop with the Apple Watch: How Top Athletes Can Maximize Performance | Digital Trends</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-spending-on-mid-range-gaming-mothers/"><u>Essential Spending on Mid-Range Gaming Mothers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-testing-to-transition-why-this-android-smartwatch-could-sway-you-to-the-pixel-zdnet-analysis/"><u>From Testing to Transition: Why This Android Smartwatch Could Sway You to the Pixel | ZDNet Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-compatible-brother-hl-c2240-driver-on-windows-systems/"><u>Get the Most Recent Compatible Brother HL-C2240 Driver on Windows Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-amazfit-gtr-3-smartwatch-unbiased-zdnet-review/"><u>In-Depth Analysis: Amazfit GTR 3 Smartwatch - Unbiased ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/motowatch-100-evaluation-why-its-value-falls-short-of-its-cost-a-critical-analysis-by-zdnet/"><u>MotoWatch 100 Evaluation: Why Its Value Falls Short of Its Cost - A Critical Analysis by ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/plain-troubleshooting-path-inactive-gpu-nvidia-screen/"><u>Plain Troubleshooting Path: Inactive GPU, NVIDIA Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-setting-up-your-new-apple-watch-with-ease/"><u>Step-by-Step Guide: Setting Up Your New Apple Watch with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-budget-friendly-alternatives-to-samsung-and-google-pixel-watches-expert-insights-at-zdnet/"><u>The Ultimate Guide to Budget-Friendly Alternatives to Samsung & Google Pixel Watches | Expert Insights at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workouts-explore-the-revolutionary-sports-watch-offering-intelligent-training-sessions-powered-by-ai-technology-similar-to-chatgpt-zdnet-insi206/"><u>Transform Your Workouts: Explore the Revolutionary Sports Watch Offering Intelligent Training Sessions Powered by AI Technology Similar to ChatGPT | ZDNET Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-battle-of-timepieces-which-is-right-for-you-samsung-galaxy-watch-ultra-or-apple-watch-ultra/"><u>Ultimate Battle of Timepieces: Which Is Right For You? Samsung Galaxy Watch Ultra or Apple Watch Ultra?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-apples-wellness-platform-discover-its-impact-on-personal-fitness-with-zdnet-analysis/"><u>Unveiling Apple's Wellness Platform: Discover Its Impact on Personal Fitness with ZDNet Analysis</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->

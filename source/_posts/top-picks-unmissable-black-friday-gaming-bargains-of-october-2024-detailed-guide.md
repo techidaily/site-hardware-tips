@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: Unmissable Black Friday Gaming Bargains of October 2024 - Detailed Guide"
-date: 2025-01-04T17:54:38.905Z
-updated: 2025-01-05T17:34:52.621Z
+date: 2025-01-21T20:27:40.893Z
+updated: 2025-01-24T19:23:13.147Z
 tags:
   - laptops
 categories:
@@ -30,6 +30,10 @@ ZDNET editors have been tracking the [best Cyber Monday 2022 sales](https://www.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Latest Cyber Monday deals still available**
 
 Please refer to the table of contents to quickly navigate our categories**.**
@@ -49,7 +53,7 @@ Please refer to the table of contents to quickly navigate our categories**.**
 * [Fire HD 10 tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08XMBMW3H%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $220 (save $50) at Amazon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday TV deals**
@@ -113,7 +117,7 @@ Image: ZDNET
 * [Wacom Intuos Pro Medium Bluetooth Graphics Drawing Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWacom-Digital-Graphic-Drawing-PTH660%2Fdp%2FB01MQU5LW7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $240 (save $26) at Amazon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday gaming deals**
@@ -138,7 +142,7 @@ Image: Best Buy
 * [HP V223ve FHD Monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-V223ve-21-5-inch-certified-Ergonomic%2Fdp%2FB09GKZ71PJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $105 (save $145) at Amazon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday home deals**
@@ -222,6 +226,10 @@ Apple
 * [Citizen CZ Smart Hybrid smartwatch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCitizen-smartwatch-Continuous-Notifications-Connection%2Fdp%2FB09FFQFFRB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $262 (save $88) at Amazon
 * [Samsung Galaxy Watch 5 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HXJZ98%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $399 (save $49) at Amazon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Best Cyber Monday speaker deals**
 
 Don't wait until after the turkey to start shopping. Your shopping carts may be full of fixings for stuffing and cranberry sauce, but Black Friday and Cyber Monday are here -- so make space for some of our favorite deals on speakers, soundbars, and subwoofers. 
@@ -266,10 +274,6 @@ June Wan
 * [Blink Outdoor weather-resistant camera kit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB086DKGCFP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $190 (save $190) at Amazon
 * [Aventure Step-Over Ebike](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Faventon-aventure-step-over-ebike-w-45-mile-max-operating-range-and-28-mph-max-speed-socal-sand%2F6487148.p%3FskuId%3D6487148&publisher_slug=itechdaily19598&exclusive=1) for $1,700 (save $300) at Best Buy
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these deals?
 
 ZDNET editors have experience tracking prices and hunting down deals 365 days a year. Take a peek at our Deals hub -- we know how to find bargains. Our process starts by identifying the hottest and most popular products of the year, whether it's the AirPods or the latest iPad, and then we conduct a painstaking process that involves checking major retailers and others you may have never heard about (but are still trusted stores). 
@@ -298,10 +302,6 @@ ZDNET scoured Cyber Monday sales to find the best deals this year, and many are 
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Cyber Monday deals still available by retailer**
 
 * [The best Cyber Monday 2022 deals at Amazon](https://www.zdnet.com/article/amazon-cyber-monday-deals-still-available-november-30-2022/)
@@ -311,6 +311,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best Cyber Monday 2022 deals at Walmart](https://www.zdnet.com/article/walmart-cyber-monday-deals-still-available-november-30-2022/)
 * [Top early Cyber Monday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-cyber-monday-deals-still-available-november-30-2022/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Cyber Monday deals still available by brand**
 
 * [The best Cyber Monday 2022 Apple deals](https://www.zdnet.com/article/apple-cyber-monday-deals-still-available-november-30-2022/)
@@ -319,7 +323,7 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best Cyber Monday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-cyber-monday-deals-still-available-november-30-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by category**
@@ -347,10 +351,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found that are still available:
 
 * [The best Cyber Monday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-cyber-monday-deals-under-30-still-available-november-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -398,20 +398,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-how-to-write-compelling-podcast-narratives-and-examples-at-no-cost/"><u>[New] 2024 Approved How to Write Compelling Podcast Narratives & Examples at No Cost</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-how-to-change-your-voice-in-free-fire-game-free-solution-included/"><u>[New] How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-integrate-sound-and-filter-magic-into-your-windows-10-photos-app/"><u>[New] In 2024, Integrate Sound & Filter Magic Into Your Windows 10 Photos App</u></a></li>
-<li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-infinix-note-30-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Infinix Note 30 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-the-rush-for-black-friday-get-your-samsung-t5-ssd-at-a-massive-48-off-before-the-prime-day-extravaganza-zdnet/"><u>Beat the Rush for Black Friday: Get Your Samsung T5 SSD at a Massive 48% Off Before the Prime Day Extravaganza | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-the-right-apple-notebook-a-comprehensive-guide-on-whether-to-opt-for-a-macbook-pro-or-macbook-air-insights/"><u>Choosing the Right Apple Notebook: A Comprehensive Guide on Whether to Opt for a MacBook Pro or MacBook Air - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chromeos-latest-update-incorporates-windows-11-features-enhancing-chromebook-experience/"><u>ChromeOS Latest Update Incorporates Windows 11 Features, Enhancing Chromebook Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-7-incredible-cost-free-educational-apps-to-boost-your-childs-back-to-school-success/"><u>Discover 7 Incredible, Cost-Free Educational Apps to Boost Your Child’s Back-to-School Success</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-chromebook-simplifies-life-without-windows-at-an-unexpectedly-affordable-price-save-136-exclusive-review-by-zdnet/"><u>HP Chromebook Simplifies Life without Windows at an Unexpectedly Affordable Price (Save $136) | Exclusive Review by ZDNET</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-perfecting-instagram-reels-acoustics-with-music-voiceovers/"><u>In 2024, Perfecting Instagram Reels Acoustics with Music, Voiceovers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-screen-capture-a-guide-to-taking-screenshots-on-dell-lenovo-and-macbooks/"><u>Mastering Screen Capture: A Guide to Taking Screenshots on Dell, Lenovo & MacBooks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/meta-unveils-512gb-quest-3-offer-the-premier-virtual-reality-deal-of-the-moment-says-zdnet/"><u>Meta Unveils 512GB Quest 3 Offer – The Premier Virtual Reality Deal of the Moment, Says ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-essentials-before-halloween-ultimate-guide-to-the-best-deals-of-october-prime-day-2024-techradar/"><u>Secure Your Essentials Before Halloween: Ultimate Guide to the Best Deals of October Prime Day 2024 | TechRadar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/turning-off-the-speaking-feature-tips-for-managing-your-samsung-tvs-voice-control/"><u>Turning Off the Speaking Feature: Tips for Managing Your Samsung TV's Voice Control</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-engaging-viewers-best-practices-and-pitfalls-in-dayly-blogging/"><u>[Updated] 2024 Approved Engaging Viewers Best Practices & Pitfalls in Dayly Blogging</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cambia-archivos-de-audio-formato-sin-coste-con-la-herramienta-online-gratuita-convertaflc/"><u>Cambia Archivos De Audio Formato Sin Coste Con La Herramienta Online Gratuita ConvertAFLC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deltas-controversial-move-leaves-die-hard-fans-bewildered-according-to-zdnet-analysis/"><u>Delta's Controversial Move Leaves Die-Hard Fans Bewildered, According to ZDNet Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-lincolns-revolutionary-perspective-on-autonomous-vehicles-exploring-innovations-at-zdnet/"><u>Discover Lincoln’s Revolutionary Perspective on Autonomous Vehicles: Exploring Innovations at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-innovative-325-uncarrier-on-suitcase-by-t-mobile-featured-on-zdnet/"><u>Discover the Innovative $325 UnCarrier On Suitcase by T-Mobile, Featured on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-ranking-the-leading-vehicle-rental-solutions-and-mobile-apps-of-2022-expert-insights-from-zdnet/"><u>Discover the Ultimate Ranking: The Leading Vehicle Rental Solutions and Mobile Apps of 2022 - Expert Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-security-choosing-the-right-dual-locks-for-your-e-bike-protect-and-secure-tips-by-zdnet/"><u>Essential Security: Choosing the Right Dual Locks for Your E-Bike - Protect & Secure Tips by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-deltas-controversial-decision-outrage-among-loyal-fans-examined/"><u>Exploring Delta's Controversial Decision: Outrage Among Loyal Fans Examined</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/finding-trustworthy-mechanics-made-easy-using-chatgpt-plus-bypassing-unfavorable-online-feedback/"><u>Finding Trustworthy Mechanics Made Easy Using ChatGPT Plus: Bypassing Unfavorable Online Feedback</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-unveiling-the-essentials-of-vision-pros-travel-mode-a-complete-pre-trip-guide-zdnet/"><u>Get Ready! Unveiling the Essentials of Vision Pro’s Travel Mode - A Complete Pre-Trip Guide | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-sky-high-savings-lock-in-lower-airfare-prices-with-the-exclusive-deals-from-dollar-flight-club-secure-your-passage-now/"><u>Get Sky-High Savings: Lock in Lower Airfare Prices with the Exclusive Deals From Dollar Flight Club - Secure Your Passage Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-skype-microphone-working-again-essential-tips-for-windows-10-operating-systems/"><u>Get Your Skype Microphone Working Again: Essential Tips for Windows 10 Operating Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harness-the-power-of-gopro-studio-essential-editing-techniques/"><u>Harness the Power of GoPro Studio Essential Editing Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-se-2020-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone SE (2020) Device from iCloud</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-5-monitors-unleashing-full-spectrum-colors/"><u>In 2024, Leading 5 Monitors Unleashing Full Spectrum Colors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/initiating-film-narratives/"><u>Initiating Film Narratives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-pick-for-iphoneandroid-face-modifications/"><u>Prime Pick for iPhone/Android Face Modifications</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-a2plus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi A2+ | Dr.fone</u></a></li>
 </ul></div>
 

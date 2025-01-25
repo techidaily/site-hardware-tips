@@ -1,7 +1,7 @@
 ---
 title: "Advanced Energy-Efficiency: The Cooler Master 1100W Non-Active Power Unit for Optimal System Operation"
-date: 2024-08-19T02:27:50.337Z
-updated: 2024-08-20T02:27:50.337Z
+date: 2025-01-17T23:10:07.545Z
+updated: 2025-01-24T17:37:27.156Z
 tags:
   - power-supply
 categories:
@@ -21,6 +21,10 @@ Today's deals focus on the container for your favorite PC parts. If you're looki
 
 See more of Friday's Real Deals below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TL;DR — Today’s Best Deals
 
 * **Lian Li Lancool 215 Mid-Tower Case:** [**now $89 at B&H**](https://www.bhphotovideo.com/c/product/1616837-REG/lian%5Fli%5Flancool%5F215%5Fx%5Fblack%5Flancool%5F215%5Fx%5Fgaming.html?BI=20811&KBID=16572&SID=tomshardware-us-1549855989631705881) **(was $150)**
@@ -28,6 +32,10 @@ See more of Friday's Real Deals below.
 * **Elgato Stream Deck:** [**now $99 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB06XKNZT1P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1065223293966699533-20) **(was $149)**
 * **ASUS ROG Thor 1000W PSU:** [**now $194 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09SGQ9PPC%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1088334992790324728-20) **(was $359)**
 * **Gigabyte B650M Aorus Elite AX:** [**now $189 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-6379358999680672387%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413) **with rebate (was $199)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -72,23 +80,14 @@ Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  Back to Everything
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  Elgato
 
  GIGABYTE
@@ -102,8 +101,9 @@ Colour
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Black
 
  White
@@ -113,8 +113,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 40 deals
@@ -124,8 +125,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -284,8 +286,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -293,4 +293,20 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elevating-your-webinar-footage-with-best-practices/"><u>[New] In 2024, Elevating Your Webinar Footage with Best Practices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-economical-4k-dslrmirrorless-cameras/"><u>[Updated] 2024 Approved Economical 4K DSLR/Mirrorless Cameras</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-full-breakdown-razers-hd-webcam-experience/"><u>2024 Approved Full Breakdown Razer's HD Webcam Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/does-the-new-apple-m3-imac-satisfy-expectations-a-critical-look-at-its-impact-on-27-inch-display-lovers-zdnet/"><u>Does the New Apple M3 iMac Satisfy Expectations? A Critical Look at Its Impact on 27-Inch Display Lovers | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-old-to-gold-how-a-130-flex-monitor-made-my-costly-dell-feel-outdated/"><u>From Old to Gold: How a $130 Flex Monitor Made My Costly Dell Feel Outdated</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-assessment-of-the-samsung-freestyle-by-tech-experts-at-zdnet/"><u>In-Depth Assessment of the Samsung Freestyle by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-fallout-3-stability-expert-tips-for-overcoming-game-crashes-on-windows-11-devices/"><u>Mastering Fallout 3 Stability: Expert Tips for Overcoming Game Crashes on Windows 11 Devices</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/microsofts-recent-upgrade-a-potential-catalyst-for-ongoing-workplace-nightmares-explored-by-zdnet-experts/"><u>Microsoft's Recent Upgrade: A Potential Catalyst for Ongoing Workplace Nightmares, Explored by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/oled-vs-led-screen-technology-determining-the-clear-winner/"><u>OLED Vs. LED Screen Technology - Determining the Clear Winner!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamp-idle-ssds-into-high-performance-externals-for-less-than-15-discover-how-on-zdnet/"><u>Revamp Idle SSDs Into High-Performance Externals for Less Than $15, Discover How on ZDNET</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-best-digital-image-restoration-programs-of-the-year-compatible-with-windowsmac-systems/"><u>The Best Digital Image Restoration Programs of the Year – Compatible with Windows/Mac Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-24-delightful-dell-deals-on-electronics-this-festive-season-find-them-on-ebay-walmart-and-others/"><u>Top 24 Delightful Dell Deals on Electronics This Festive Season - Find Them on eBay, Walmart & Others!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-unopenable-microsoft-word-documents/"><u>Troubleshooting Steps For Unopenable Microsoft Word Documents</u></a></li>
+</ul></div>
 

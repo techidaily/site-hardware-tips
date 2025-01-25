@@ -1,7 +1,7 @@
 ---
 title: Former Samsung Staff Detained After Accusations of Stealing $1.8B From Chip Giant's Memories for Chinese Competitor
-date: 2024-08-19T02:25:55.386Z
-updated: 2024-08-20T02:25:55.386Z
+date: 2025-01-23T22:13:24.998Z
+updated: 2025-01-24T21:28:17.954Z
 tags:
   - ram
 categories:
@@ -25,6 +25,10 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
   
  If your head is spinning with talk of qubits and quantum, give our[quantum computers explainer](https://tools.techidaily.com) a read. While quantum computing may yet prove to be the future, today it is still largely theoretical. Even[IBM](https://tools.techidaily.com) 's own recent quantum computing experiments have been outperformed by a 1980s era[Commodore 64](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,22 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-professional-techniques-for-aps-hdr-creation/"><u>2024 Approved Unveiling Professional Techniques for APS HDR Creation</u></a></li>
+<li><a href="https://win-help.techidaily.com/iuepvuwcqomasuihjos4reobruodleocoeocpoodqplusoduplusodleocqeodqplusodgoodvowqjoacnplusajiplusmghjrkuidoikzjgqzjgqtjg4ki/"><u>現在進行中のファイル・フォルダー同期手順:一般ガイド</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-x9a-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor X9a Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unmasking-the-potential-of-recordcast/"><u>In 2024, Unmasking the Potential of RecordCast</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mark-your-calendars-the-exact-date-for-samsung-unveils-galaxy-s2/"><u>Mark Your Calendars! The Exact Date for Samsung Unveils Galaxy S2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-notification-settings-on-android-a-comprehensive-walkthrough/"><u>Mastering Notification Settings on Android: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-iphone-storage-with-easy-de-cluttering-tips-techtut/"><u>Maximize Your iPhone Storage with Easy De-Cluttering Tips | TechTut</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-the-lifespan-of-your-android-smartphone-proven-strategies-and-tips/"><u>Maximizing the Lifespan of Your Android Smartphone: Proven Strategies and Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mp280-canon-driver-update-software-download-for-win11-win8-and-win7-systems/"><u>MP280 Canon Driver Update Software - Download for Win11, Win8 and Win7 Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-shift-from-flutter-to-fulcrum-unlocking-androids-hybrid-screen-functionality/"><u>Navigating the Shift From Flutter to Fulcrum: Unlocking Android's Hybrid Screen Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimize-your-device-how-googles-compact-android-software-saves-energy-and-data/"><u>Optimize Your Device: How Google's Compact Android Software Saves Energy and Data</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimizing-your-android-panel-a-guide-on-customizing-the-quick-settings-menu/"><u>Optimizing Your Android Panel: A Guide on Customizing the Quick Settings Menu</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premier-external-media-playback-gadgets-the-2024-roundup/"><u>Premier External Media Playback Gadgets: The 2024 Roundup</u></a></li>
+<li><a href="https://article-tips.techidaily.com/streamline-the-age-update-process-on-tiktok/"><u>Streamline the Age Update Process on TikTok</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

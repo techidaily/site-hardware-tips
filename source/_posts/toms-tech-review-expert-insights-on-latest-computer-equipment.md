@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: Expert Insights on Latest Computer Equipment"
-date: 2024-08-19T02:29:43.486Z
-updated: 2024-08-20T02:29:43.486Z
+date: 2025-01-21T21:02:57.434Z
+updated: 2025-01-24T22:05:24.602Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,19 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-can-i-view-all-shared-videos-and-photos-on-messenger/"><u>[New] 2024 Approved Can I View All Shared Videos And Photos on Messenger?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-premium-sound-quality-best-of-the-best-9-mic-recording-tools-2e/"><u>[Updated] In 2024, Premium Sound Quality Best of the Best 9 Mic Recording Tools (2E)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-this-years-breakthrough-in-vr-gaming-technology/"><u>[Updated] In 2024, This Year's Breakthrough in VR Gaming Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-top-rated-video-editing-software-for-pcs-best-choices-and-reviews/"><u>1. Top-Rated Video Editing Software for PCs - Best Choices & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-silicon-victory-unveiled-at-peek-performance-event-insights-for-tech-enthusiasts/"><u>Apple Silicon Victory Unveiled at Peek Performance Event - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210707061-9781915393739-happy-birthday-love-elvis/"><u>Happy Birthday-Love, Elvis | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y100-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y100 to Protect Your Individual Information</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/m2-vs-m1-showdown-can-apples-latest-innovation-outperform-the-classic-mac-mini/"><u>M2 Vs. M1 Showdown: Can Apple's Latest Innovation Outperform the Classic Mac Mini?</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-the-top-english-voice-generator-to-convert-text-into-desired-accent/"><u>New In 2024, The Top English Voice Generator To Convert Text Into Desired Accent</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-office-tech-adapting-work-devices-for-the-age-of-artificial-intelligence-zdnet/"><u>The Future of Office Tech: Adapting Work Devices for the Age of Artificial Intelligence | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-june-2024-savings-at-best-buy-exclusive-offers-featured-by-zdnet/"><u>Top June 2024 Savings at Best Buy - Exclusive Offers Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-big-screens-of-2024-unveiled-by-zdnet/"><u>Top-Ranking Big Screens of 2024 - Unveiled by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

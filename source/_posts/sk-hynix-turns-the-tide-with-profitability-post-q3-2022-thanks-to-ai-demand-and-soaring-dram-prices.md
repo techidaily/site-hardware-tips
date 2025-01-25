@@ -1,7 +1,7 @@
 ---
 title: SK Hynix Turns the Tide with Profitability Post-Q3 2022 Thanks to AI Demand and Soaring DRAM Prices
-date: 2024-08-19T02:24:58.357Z
-updated: 2024-08-20T02:24:58.357Z
+date: 2025-01-22T18:10:23.443Z
+updated: 2025-01-24T18:49:35.118Z
 tags:
   - ram
 categories:
@@ -25,6 +25,10 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
   
  If your head is spinning with talk of qubits and quantum, give our[quantum computers explainer](https://tools.techidaily.com) a read. While quantum computing may yet prove to be the future, today it is still largely theoretical. Even[IBM](https://tools.techidaily.com) 's own recent quantum computing experiments have been outperformed by a 1980s era[Commodore 64](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,14 +50,21 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-turbocharge-your-youtube-videos-swift-render-and-transfer-strategies/"><u>[Updated] 2024 Approved Turbocharge Your YouTube Videos Swift Render & Transfer Strategies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-showcase-spectacatives-the-best-ice-artistry-22/"><u>[Updated] In 2024, Showcase Spectacatives The Best Ice Artistry '22</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-innovative-iphone-macro-tactics-for-professional-results-for-2024/"><u>[Updated] Innovative iPhone Macro Tactics for Professional Results for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-devices-on-toms-digital-workshop/"><u>Discover Cutting-Edge Devices on Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-technology-insights-with-the-toms-hardware-team/"><u>Dive Into Technology Insights with the Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-repairing-and-preventing-filament-grind-issues/"><u>Expert Tips on Repairing and Preventing Filament Grind Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-x5-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco X5 Through Google Earth?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-bright-future-of-serene-computing-customizable-be-quiet-cases-and-illuminated-coolers/"><u>Introducing the Bright Future of Serene Computing: Customizable 'Be Quiet!' Cases and Illuminated Coolers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/safely-erase-sensitive-data-with-ios-wiping-software/"><u>Safely Erase Sensitive Data with iOS Wiping Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chilled-under-pressure-cooler-masters-innovative-aio-and-air-cools-tackle-over-300-watt-heat-output/"><u>Stay Chilled Under Pressure: Cooler Master's Innovative AIO & Air Cools Tackle Over 300 Watt Heat Output</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-process-for-obtaining-and-upgrading-epson-drivers-on-microsoft-windows/"><u>Streamlined Process for Obtaining and Upgrading Epson Drivers on Microsoft Windows</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-chinas-role-in-the-treaty-of-versailles-a-deep-dive-with-yl-computing-and-yl-software/"><u>Understanding China's Role in the Treaty of Versailles: A Deep Dive with YL Computing and YL Software</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->

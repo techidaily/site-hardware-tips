@@ -1,7 +1,7 @@
 ---
 title: On-the-Go Electronic Projects with CrowView Notebook Assessment Toolkit
-date: 2024-08-19T02:26:47.122Z
-updated: 2024-08-20T02:26:47.122Z
+date: 2025-01-22T19:12:33.790Z
+updated: 2025-01-24T23:26:47.809Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
 
  Plans are in the works to add a 3D head to move and add a visual representation for the Voltara fortune teller. If you want to get a closer look at this[Raspberry Pi project](https://tools.techidaily.com) in action, you can check it out over at Kevin McAleer's official[YouTube channel](https://www.youtube.com/watch?v=dWFgN%5FA%5FI1w) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,23 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-efficient-keyword-utilization-discover-the-best-7-online-video-tag-extractors-reviewed/"><u>[New] 2024 Approved Efficient Keyword Utilization Discover the Best 7 Online Video Tag Extractors Reviewed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-chuckle-on-the-go-best-comedy-tone-sites-for-2024/"><u>[New] Chuckle on the Go Best Comedy Tone Sites for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/8gb-gpu-capabilities-ideal-for-casual-games-or-need-more/"><u>8GB GPU Capabilities: Ideal for Casual Games or Need More?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-comprehensive-guide-to-usb-cable-colors-what-do-blue-yellow-and-red-mean/"><u>A Comprehensive Guide to USB Cable Colors: What Do Blue, Yellow and Red Mean?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-essential-tech-gadget-maintenance-kits-a-must-have-for-every-device/"><u>Affordable Essential Tech Gadget Maintenance Kits: A Must-Have for Every Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-non-gamer-desktop-discover-the-ideal-250-custom-pc-built-just-for-you/"><u>Affordable Non-Gamer Desktop: Discover the Ideal $250 Custom PC Built Just For You</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/all-you-need-to-know-about-adobe-storages-including-top-non-adobe-alternates-for-2024/"><u>All You Need to Know About Adobe Storages, Including Top Non-Adobe Alternates for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-fluid-motion-tech-demonstrates-self-sufficient-frame-creation-without-custom-ai-equipment/"><u>AMD Fluid Motion Tech Demonstrates Self-Sufficient Frame Creation Without Custom AI Equipment</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversione-gratuita-da-png-a-tiff-la-soluzione-web-piu-veloce-e-facile-di-movavi/"><u>Conversione Gratuita Da PNG a TIFF: La Soluzione Web Più Veloce E Facile Di Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/directx-error-resolved-a-comprehensive-guide-to-fixing-hardware-compatibility-issues/"><u>DirectX Error Resolved? A Comprehensive Guide to Fixing Hardware Compatibility Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-6s-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 6s Plus Smoothly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mac-enthusiasts-selection-of-premier-editing-suites-for-2024/"><u>Mac Enthusiasts' Selection of Premier Editing Suites for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-a-clearer-audio-experience-with-less-subwoofer-noise/"><u>Troubleshooting Techniques for a Clearer Audio Experience with Less Subwoofer Noise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-mystery-how-artificial-intelligence-enhances-your-logitech-mouse-experience/"><u>Unveiling the Mystery: How Artificial Intelligence Enhances Your Logitech Mouse Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unwanted-watchfulness-alert-the-unseen-cameras-lurking-in-your-eco-friendly-cleaning-device/"><u>Unwanted Watchfulness Alert: The Unseen Cameras Lurking in Your Eco-Friendly Cleaning Device!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-high-cpu-usage-by-svchostexe-on-your-windows-10-device-guide/"><u>Winning the Battle Against High-CPU Usage by svchost.exe on Your Windows 10 Device [Guide]</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

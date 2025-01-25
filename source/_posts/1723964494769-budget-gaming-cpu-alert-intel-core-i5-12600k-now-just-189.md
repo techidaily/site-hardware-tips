@@ -1,7 +1,7 @@
 ---
 title: "Budget Gaming CPU Alert: Intel Core I5-12600K Now Just $189!"
-date: 2024-08-19T02:27:14.248Z
-updated: 2024-08-20T02:27:14.248Z
+date: 2025-01-19T20:12:56.440Z
+updated: 2025-01-24T22:16:02.917Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
 
  Cooling is provided by a 120mm rifle-bearing PWM fan, that operates in a zero RPM fan mode for near-silent operation at lower loads, so when you're just browsing away, this should help to keep your PSU from adding to the combined noise output from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,8 +46,6 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -51,8 +53,24 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-selecting-the-optimal-mac-microphone-recorders-our-expert-picks-of-5/"><u>[New] In 2024, Selecting the Optimal Mac Microphone Recorders Our Expert Picks of 5</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-pace-setter-pc-titles/"><u>[Updated] 2024 Approved Elite Pace-Setter PC Titles</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unseen-youtube-videos-the-meaning-of-unlisted-status/"><u>[Updated] 2024 Approved Unseen YouTube Videos The Meaning of 'Unlisted' Status</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spinning-tales-embracing-the-full-rotational-vision/"><u>[Updated] Spinning Tales Embracing the Full Rotational Vision</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/14-interesting-text-animation-examples-you-can-try/"><u>14 Interesting Text Animation Examples You Can Try</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/cultivating-community-in-stardews-ginger-territory/"><u>Cultivating Community in Stardew’s Ginger Territory</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-chic-and-comfortable-secretlab-skins-for-a-stylish-gaming-chair-experience-reviewed-by-zdnet/"><u>Discover the Latest in Chic and Comfortable: Secretlab Skins for a Stylish Gaming Chair Experience, Reviewed by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-resolve-discord-camera-malfunction-on-your-device/"><u>Fixing the Issue: How to Resolve 'Discord Camera Malfunction' On Your Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-past-the-stubborn-loading-barrier-on-far-cry-5s-startup/"><u>How To Get Past the Stubborn Loading Barrier on Far Cry 5'S Startup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-era-of-intel-graphics-making-them-a-priority-in-tech-discussions/"><u>The Era of Intel Graphics: Making Them a Priority in Tech Discussions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-electronic-savings-spots-grab-amazon-fire-tv-anker-energy-packs-and-dji-drones-for-less/"><u>Top Electronic Savings Spots: Grab Amazon Fire TV, Anker Energy Packs & DJI Drones for Less!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-strategies-for-designing-and-maintaining-a-spotless-desktop-pc-system/"><u>Top Strategies for Designing and Maintaining a Spotless Desktop PC System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-traditional-window-ac-into-a-smart-device-with-these-innovative-devices/"><u>Transform Your Traditional Window AC Into a Smart Device with These Innovative Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-computational-prowess-with-the-telium-colossus-a-dual-gpu-linux-marvel/"><u>Unleashing Computational Prowess with The Telium Colossus – A Dual-GPU Linux Marvel</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-epson-xp-245-printer-on-any-windows-device-with-versions-7810-free-driver-downloads-available/"><u>Update Your Epson XP 245 Printer on Any Windows Device with Versions 7/8/10 - Free Driver Downloads Available!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrading-made-easy-checking-if-your-system-supports-the-latest-gpu-upgrade/"><u>Upgrading Made Easy: Checking if Your System Supports the Latest GPU Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-outsourcing-data-with-an-external-hard-drive-still-matters-beyond-cloud-solutions/"><u>Why Outsourcing Data with an External Hard Drive Still Matters: Beyond Cloud Solutions</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->

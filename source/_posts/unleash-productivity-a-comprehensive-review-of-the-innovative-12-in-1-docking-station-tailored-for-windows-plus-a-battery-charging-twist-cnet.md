@@ -1,7 +1,7 @@
 ---
 title: "Unleash Productivity: A Comprehensive Review of the Innovative 12-in-1 Docking Station Tailored for Windows - Plus a Battery Charging Twist! | CNET"
-date: 2025-01-11T18:17:23.671Z
-updated: 2025-01-18T17:02:03.230Z
+date: 2025-01-23T21:27:00.553Z
+updated: 2025-01-24T17:51:13.519Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72eddc09-80c8-4720-a635-4117a708ed92%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,24 +149,24 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-asmr-sessions-with-these-microphones/"><u>[Updated] 2024 Approved Elevate Your ASMR Sessions with These Microphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-guides-by-toms-computing-corner/"><u>Advanced Hardware Guides by Tom's Computing Corner</u></a></li>
-<li><a href="https://games-able.techidaily.com/channel-control-mastery-using-twitchs-blocku-block-feature/"><u>Channel Control Mastery: Using Twitch's Block/U-Block Feature</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/effiziente-belegabwicklung-durch-die-integration-von-arvato-systems-in-kombination-mit-der-abbyy-enterprise-capture-losung/"><u>Effiziente Belegabwicklung Durch Die Integration Von Arvato Systems in Kombination Mit Der ABBYY Enterprise Capture Lösung</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-insights-uncharted-wonders-in-windows-11/"><u>Essential Insights: Uncharted Wonders in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-deal-grab-fallout-76-on-xbox-at-a-record-low-price-of-just-2-limited-time-offer-dont-miss-out/"><u>Exclusive Deal: Grab Fallout 76 on Xbox at a Record-Low Price of Just $2! Limited Time Offer – Don't Miss Out!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-computing-with-toms-equipment-reviews/"><u>Exploring the Latest in Computing with Tom's Equipment Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/extended-warranty-insights-intel-unveils-coverage-for-core-i5-i7-and-i9-processors-in-13th-and-14th-generation-chipsets/"><u>Extended Warranty Insights: Intel Unveils Coverage for Core I5, I7, and I9 Processors in 13Th & 14Th Generation Chipsets</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-redmi-13c-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi Redmi 13C to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-raspberry-pi-pico-accessories-coming-in-25-trending-add-ons-for-raspberry-pi-pico-whats-new/"><u>Innovative Raspberry Pi Pico Accessories Coming in 2#5 Trending Add-Ons for Raspberry Pi Pico - What's New</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mo-ra-iv-600-mega-pc-liquid-cooling-radiator-9x200mm-fans-heavyweight-design-for-superior-performance-over-35lbs-under-600/"><u>MO-RA IV 600 - Mega PC Liquid Cooling Radiator: 9X200mm Fans, Heavyweight Design for Superior Performance (Over 35Lbs) Under $600</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-hub-for-electronics-by-toms-hardware-team/"><u>The Ultimate Review Hub for Electronics by Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computing-world-the-ultimate-hardware-hub/"><u>Tom's Computing World: The Ultimate Hardware Hub</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-to-reduce-gpu-load-caused-by-the-windows-desktop-window-manager/"><u>Top 5 Solutions to Reduce GPU Load Caused by the Windows Desktop Window Manager</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/transform-your-enterprise-via-advanced-linguistic-education/"><u>Transform Your Enterprise via Advanced Linguistic Education</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unbeatable-deals-discover-the-best-free-desktop-recorders-for-2024/"><u>Unbeatable Deals Discover the Best Free Desktop Recorders for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computers-and-peripherals-with-toms-analysis/"><u>Unveiling the Latest in Computers & Peripherals with Tom's Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-performers-a-deep-dive-into-toms-hardware-selection/"><u>Unveiling Top Performers - A Deep Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-complete-examination-a-full-picture-of-bublcams-360-degree-scope/"><u>[New] 2024 Approved Complete Examination A Full Picture of Bublcam's 360-Degree Scope</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-expert-tips-for-harnessing-the-power-of-top-9-free-youtube-makers/"><u>[New] 2024 Approved Expert Tips for Harnessing the Power of Top 9 Free YouTube Makers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-enhance-video-performance-selecting-top-12-players/"><u>[New] Enhance Video Performance Selecting Top 12 Players</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-full-screen-fb-video-settings/"><u>[Updated] In 2024, Mastering Full-Screen FB Video Settings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-seize-the-moment-download-outro-samples-freepaid/"><u>[Updated] Seize the Moment Download Outro Samples (Free/Paid)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-x100-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo X100 Pro Phone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/all-inclusive-vsco-lens-manual-for-2024/"><u>All-Inclusive VSCO Lens Manual for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-speech-recognition-on-microsofts-latest-os/"><u>How to Reactivate Speech Recognition on Microsoft's Latest OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insightful-examination-of-the-stylish-asus-bw-16d1x-u-blu-ray-drive-uncovering-its-quirks/"><u>Insightful Examination of the Stylish Asus BW-16D1X-U Blu-Ray Drive: Uncovering Its Quirks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-winvpn-error-remote-computer-not-reachable/"><u>Quick Guide: WinVPN Error Remote Computer Not Reachable</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-instructions-for-downloading-the-first-android-13-beta-is-immediate-installation-advised-zdnet/"><u>Step-by-Step Instructions for Downloading the First Android 13 Beta: Is Immediate Installation Advised? | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/storage-solution-a-4tb-samsung-portable-ssd-available-only-at-amazon/"><u>Storage Solution – A 4TB Samsung Portable SSD Available Only at Amazon!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-guide-to-apples-intelligent-ipad-mini-vs-new-iphone-16-models-thought-leadership-by-zdnet-analyst/"><u>The Comprehensive Guide to Apple's Intelligent iPad Mini Vs. New iPhone 16 Models | Thought Leadership by ZDNet Analyst</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-10-internet-coffee-shops-the-leading-hotspots-of-2024-insights-from-zdnet/"><u>Top 10 Internet Coffee Shops: The Leading Hotspots of 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premier-hotel-applications-in-2e-24-a-comprehensive-review-by-zdnet/"><u>Top 5 Premier Hotel Applications in 2E-24: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-durable-windows-tablet-with-active-pen-in-depth-review-and-testing-insights/"><u>Top-Tier Durable Windows Tablet with Active Pen: In-Depth Review and Testing Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-ultrabook-showdown-how-the-huawei-matebook-es-premium-oled-screen-rises-to-challenge-the-microsoft-surface-pro-8-insights-from-zdnet/"><u>Top-Tier Ultrabook Showdown: How the Huawei MateBook E's Premium OLED Screen Rises to Challenge the Microsoft Surface Pro 8 | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-my-note-taking-game-a-two-week-journey-on-the-vibrant-colored-inks-of-remarkable-tablets-zdnet-insights/"><u>Transforming My Note-Taking Game: A Two-Week Journey on the Vibrant Colored Inks of Remarkable Tablets | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-zdnets-hidden-gem-the-best-budget-friendly-samsung-tablet-thats-not-even-a-flagship-now-on-sale/"><u>Uncovering ZDNet’s Hidden Gem: The Best Budget-Friendly Samsung Tablet That's Not Even a Flagship - Now On Sale!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Take Your Game On-The-Go with Dell’s Latest Ultraportable Gaming Laptop – Featured
-date: 2025-01-14T18:48:31.606Z
-updated: 2025-01-18T17:43:33.144Z
+date: 2025-01-20T23:55:40.140Z
+updated: 2025-01-24T17:04:01.390Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,20 +114,24 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-free-easy-to-use-screen-recording-tools-for-windows-10/"><u>[New] In 2024, Free, Easy-To-Use Screen Recording Tools For Windows 10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-unveiling-luts-role-in-image-color-alteration/"><u>[New] In 2024, Unveiling LUTs' Role in Image Color Alteration</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-understanding-sudden-account-lockdowns-on-copyright-violations/"><u>[New] Understanding Sudden Account Lockdowns on Copyright Violations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-snippets-get-high-quality-images-without-a-penny-paid/"><u>[New] YouTube Snippets Get High-Quality Images Without a Penny Paid</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-keep-the-best-of-facebook-in-super-hd-quality/"><u>[Updated] Keep the Best of Facebook in Super HD Quality</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-stars-brief-moment-analysis/"><u>2024 Approved Star's Brief Moment Analysis</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-top-ten-4k-gaming-laptops-compiled-here/"><u>2024 Approved Top Ten 4K Gaming Laptops Compiled Here</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-analysis-by-toms-electronics-emporium/"><u>Advanced Gadget Analysis by Tom's Electronics Emporium</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fragrant-cooling-solutions-the-battle-of-the-bots-comparing-extreme-mugurisu-pink-and-kryonaut-by-grizzly-for-pc-enthusiasts/"><u>Fragrant Cooling Solutions: The Battle of the Bots - Comparing Extreme Mugurisu Pink & Kryonaut by Grizzly for PC Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/instant-pc-assembly-with-corsairs-game-changing-one-turn-fan-screw-design-save-precious-seconds/"><u>Instant PC Assembly with Corsair's Game-Changing One-Turn Fan Screw Design - Save Precious Seconds!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-easy-way-to-compress-mpeg2-videos-using-virtualdub/"><u>New 2024 Approved The Easy Way to Compress MPEG2 Videos Using VirtualDub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-innovation-discoveries-with-toms-hardware-explorerz/"><u>Pioneering Computer Innovation: Discoveries with Tom's Hardware Explorerz</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-corner-your-guide-to-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Corner: Your Guide to the Latest in Computer Components and Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-ultimate-gadget-insights/"><u>Tom's Tech Reviews: Ultimate Gadget Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterpiece-moments-top-15-musician-behind-the-scenes-vlogs/"><u>[Updated] Masterpiece Moments Top 15 Musician Behind-the-Scenes Vlogs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-your-image-layouts-with-these-tools/"><u>2024 Approved Revolutionize Your Image Layouts with These Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-comprehensive-guide-to-capturing-your-hp-pcs-display/"><u>A Comprehensive Guide to Capturing Your HP PC's Display</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2007-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2007 file is not in recognizable format</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/examining-youtubes-workflow-after-content-submission/"><u>Examining YouTube's Workflow After Content Submission</u></a></li>
+<li><a href="https://article-files.techidaily.com/exceptional-appraisal-and-other-choices-for-2024/"><u>Exceptional Appraisal & Other Choices for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-grab-the-new-amazon-fire-hd-8-plus-tablet-at-over-50-off-shop-today/"><u>Huge Savings Alert! Grab the New Amazon Fire HD 8 Plus Tablet at Over 50% Off - Shop Today</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-14-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 14 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-power-how-to-use-phantoms-retro-vision/"><u>In 2024, Harnessing Power How to Use Phantom's Retro Vision</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>In 2024, The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-z-flip-5-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy Z Flip 5 Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-amazons-fire-max-11-the-ultimate-fire-tablet-assessment-by-techexpert/"><u>In-Depth Analysis of Amazon's Fire Max 11 - The Ultimate Fire Tablet Assessment by TechExpert</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-the-new-microsoft-surface-laptop-studio-featured-on-zdnet-reviews/"><u>In-Depth Look at the New Microsoft Surface Laptop Studio - Featured on ZDNet Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-e-readers-of-2024-proven-performance-and-detailed-analysis-digital-trends/"><u>Innovative E-Readers of 2024: Proven Performance and Detailed Analysis | Digital Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-groundbreaking-blue-light-free-computer-navigate-effortlessly-with-its-unique-livepaper-display-at-120hz-speed-gadgethub/"><u>Introducing the Groundbreaking 'Blue-Light-Free Computer' - Navigate Effortlessly with Its Unique LivePaper Display at 120Hz Speed | GadgetHub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-showdown-deciphering-between-ipad-air-and-ipad-pro-for-optimal-selection/"><u>IPad Showdown: Deciphering Between iPad Air and iPad Pro for Optimal Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-giving-tech-to-seniors-truly-beneficial-a-closer-look-at-unintended-consequences-zdnet/"><u>Is Giving Tech to Seniors Truly Beneficial? A Closer Look at Unintended Consequences | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-blowout-alert-exceptional-yet-affordable-samsung-tab-not-a-flagship-unveiled-by-zdnet-experts/"><u>Labor Day Blowout Alert: Exceptional, Yet Affordable Samsung Tab Not a Flagship Unveiled by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-alert-land-a-huge-savings-of-700-on-latest-202n-ipad-pro-models-zdnet-hot-offers/"><u>Labor Day Sale Alert: Land a Huge Savings of $700 on Latest 202N iPad Pro Models | ZDNET Hot Offers</u></a></li>
 </ul></div>
 

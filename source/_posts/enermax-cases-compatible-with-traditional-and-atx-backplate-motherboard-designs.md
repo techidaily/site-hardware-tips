@@ -1,7 +1,7 @@
 ---
 title: "Enermax Cases: Compatible with Traditional & ATX Backplate Motherboard Designs"
-date: 2024-08-19T02:30:16.008Z
-updated: 2024-08-20T02:30:16.008Z
+date: 2025-01-21T22:07:47.812Z
+updated: 2025-01-24T16:22:21.547Z
 tags:
   - cases
 categories:
@@ -55,6 +55,10 @@ Cougar has brought a trio of new cases to[Computex 2024](https://tools.techidail
 
  Bonus features include a vertical GPU mount, a movable front I/O panel, and a retooled dust filter. No price details or launch date is available for the Airfare; we expect it to cost a bit over the $100 price tag of the Duoface Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -69,8 +73,6 @@ Cougar has brought a trio of new cases to[Computex 2024](https://tools.techidail
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,13 +80,20 @@ Cougar has brought a trio of new cases to[Computex 2024](https://tools.techidail
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-portable-battery-packs-to-keep-recording-longer-for-2024/"><u>[New] Portable Battery Packs to Keep Recording Longer for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-phantom-camera-pause-tips-for-2024/"><u>[Updated] Phantom Camera Pause Tips for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-expert-insights-for-youtube-end-credits-top-makers-advice/"><u>2024 Approved Expert Insights for YouTube End Credits - Top Makers' Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discerning-reliable-health-info-from-gpt/"><u>Discerning Reliable Health Info From GPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-the-ultimate-5-desktop-pcs-tailored-for-professionals-in-graphic-design-reviewed-by-tech-experts-at-zdnet/"><u>Expert Picks: The Ultimate 5 Desktop PCs Tailored for Professionals in Graphic Design - Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-honor-90-lite-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Honor 90 Lite Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/jabra-headset-wont-connect-master-the-fix-with-our-expert-tips/"><u>Jabra Headset Won't Connect? Master the Fix with Our Expert Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316884-9781401921255-past-lives-present-miracles/"><u>Past Lives, Present Miracles | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-to-performing-a-hard-reset-on-your-windows-11-machine-techtutorials/"><u>Step-by-Step Guide to Performing a Hard Reset on Your Windows 11 Machine | TechTutorials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-touch-interfaces-in-apples-macbook-line-up-four-benefits-and-drawbacks-revealed-by-zdnet/"><u>The Future of Touch Interfaces in Apple’s MacBook Line-Up: Four Benefits and Drawbacks Revealed by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-fixing-windows-11-update-error-0xc1900208/"><u>Ultimate Troubleshooting Tips for Fixing Windows 11 Update Error 0Xc1900208</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-advanced-conversations-with-nvidias-latest-free-ai-chatbot-tailored-for-your-pc-zdnet-insights/"><u>Unlock Advanced Conversations with Nvidia's Latest Free AI Chatbot, Tailored for Your PC | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-profit-margins-boost-your-businesss-bottom-line-with-zdnets-top-money-saving-tips/"><u>Unlocking Profit Margins: Boost Your Business's Bottom Line with ZDNet’s Top Money-Saving Tips</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

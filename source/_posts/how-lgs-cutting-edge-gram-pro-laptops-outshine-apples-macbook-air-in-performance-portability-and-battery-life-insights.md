@@ -1,7 +1,7 @@
 ---
 title: How LG's Cutting-Edge Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Portability, and Battery Life Insights
-date: 2025-01-16T17:38:48.358Z
-updated: 2025-01-18T18:25:00.489Z
+date: 2025-01-19T01:53:53.757Z
+updated: 2025-01-24T22:19:21.509Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,22 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-creative-clips-excellent-tools-for-photoshopping-with-frames-for-2024/"><u>[New] Creative Clips Excellent Tools for Photoshopping with Frames for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-closeup-essential-filmmaking-tips/"><u>[Updated] Mastering the Art of Closeup Essential Filmmaking Tips</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/buy-macx-gear-from-our-online-store-the-ultimate-destination-for-all-your-macx-needs/"><u>Buy MacX Gear From Our Online Store – The Ultimate Destination for All Your MacX Needs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypassreset-p60-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset P60 Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/frequently-asked-questions-mastering-apowerrec-task-recording-features/"><u>Frequently Asked Questions: Mastering ApowerREC Task Recording Features</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Note 30 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-ideal-audio-solution-for-iphone-find-the-best-6-free-apps-for-youtube-to-mp3/"><u>In 2024, Ideal Audio Solution for iPhone Find the Best 6 Free Apps for YouTube-to-MP3</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intels-powerful-chips-linked-to-most-game-disruptions-in-new-warframe-developer-report/"><u>Intel’s Powerful Chips Linked to Most Game Disruptions in New Warframe Developer Report</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-tech-with-insights-and-reviews-from-toms-hardware-vault/"><u>Navigate the World of Tech with Insights and Reviews From Tom's Hardware Vault</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-tech-trends-in-depth-reviews-by-toms-hardware/"><u>Navigating Tech Trends: In-Depth Reviews by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-the-latest-in-computer-gear-with-toms-technology-insights/"><u>Navigating Through the Latest in Computer Gear with Tom's Technology Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-performance-evaluation-toms-technological-tools-and-systems/"><u>Precision Performance Evaluation - Tom's Technological Tools and Systems</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-switcheroo-rearranging-yt-lists-in-a-minute-for-2024/"><u>Swift Switcheroo Rearranging YT Lists in a Minute for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-review-in-depth-analysis/"><u>Tom's Computer Components Review: In-Depth Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-the-ultimate-guide/"><u>Tom's Computer Gear: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-truth-about-the-arctic-liquid-freezer-iii-aios-lackluster-results/"><u>Unveiling The Truth About The Arctic Liquid Freezer III AIO's Lackluster Results</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simulate-hand-held-camera-effects-in-photoshop/"><u>[New] Simulate Hand-Held Camera Effects in Photoshop</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-virtual-reality-current-state-and-future-challenges/"><u>[New] Virtual Reality Current State and Future Challenges</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-inside-the-world-of-haul-video-production-for-2024/"><u>[Updated] Inside the World of Haul Video Production for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/leveraging-youtubes-adsense-for-maximum-profits-for-2024/"><u>Leveraging YouTube's AdSense for Maximum Profits for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-problems-with-laptop-microphones/"><u>Quick Fixes for Common Problems with Laptop Microphones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sound-transformed-in-depth-look-at-samsungs-buds-pro/"><u>Sound Transformed: In-Depth Look at Samsung's Buds Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-non-kindle-non-remarkable-e-ink-tablets-reviewed-insights-and-picks-from-tech-expert-zdnet/"><u>Top-Ranking Non-Kindle, Non-Remarkable E Ink Tablets Reviewed: Insights and Picks From Tech Expert | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-samsung-tablet-reviews-professional-insights-from-zdnet/"><u>Top-Ranking Samsung Tablet Reviews : Professional Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-amazon-tablet-reviews-the-ultimate-guide/"><u>Top-Rated Amazon Tablet Reviews: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-artists-choice-drawing-tablets-featured-by-zdnet/"><u>Top-Rated Artists' Choice Drawing Tablets - Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-kids-tablets-in-depth-analysis-by-tech-gurus-and-parental-approval-zdnet/"><u>Top-Rated Kid's Tablets: In-Depth Analysis by Tech Gurus & Parental Approval | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-aged-fire-tablet-into-a-functional-echo-show-tips-and-tricks-techguide/"><u>Transform Your Aged Fire Tablet Into a Functional Echo Show - Tips & Tricks | TechGuide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-childs-tech-experience-with-our-revolutionary-tablet-on-sale-a-new-era-for-kids-devices-zdnet/"><u>Transform Your Child's Tech Experience with Our Revolutionary Tablet (On Sale) – A New Era for Kids’ Devices | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-high-quality-large-tablets-in-depth-analysis-and-ratings-gizmohive/"><u>Ultimate Selection of High-Quality Large Tablets : In-Depth Analysis and Ratings | GizmoHive</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unbeatable-freebie-subtitle-services-our-top-picks/"><u>Unbeatable Freebie Subtitle Services Our Top Picks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlock-efficient-coding-practices-with-stellars-insider-articles-and-diy-strategies-for-toolkit-enthusiasts/"><u>Unlock Efficient Coding Practices with Stellar's Insider Articles & DIY Strategies for Toolkit Enthusiasts</u></a></li>
 </ul></div>
 

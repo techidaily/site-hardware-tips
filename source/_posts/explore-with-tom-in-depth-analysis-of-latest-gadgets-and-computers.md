@@ -1,7 +1,7 @@
 ---
 title: "Explore with Tom: In-Depth Analysis of Latest Gadgets and Computers"
-date: 2024-08-19T02:30:04.794Z
-updated: 2024-08-20T02:30:04.794Z
+date: 2025-01-19T00:03:36.264Z
+updated: 2025-01-24T16:02:29.163Z
 tags:
   - components
 categories:
@@ -24,15 +24,27 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 * Crucial X10 Portable SSD 1TB[$112 at Amazon](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCrucial-X10-Pro-Portable-CT1000X10PROSSD902%2Fdp%2FB0C9WGGZT9%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1362101922840720705-20)
 * Satechi 4 in-1 USB-C Hub and 2.5GHz Network Adapter[$44 at Amazon](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FSatechi-Ethernet-Adapter-Gigabit-Enhanced%2Fdp%2FB0D953K2WK%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-4718520814049078691-20)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Audio
 
  For some people, audio might not spring to mind as one of the most important considerations when you're off to college. But if you end up staying in your dorm room for long periods, or spend a lot of time traveling to and from school, having a way to relax to your favorite tunes or listen to an audiobook on a long journey is one of the best ways to pass the time.
 
  From speakers to over-the-ear headphones to earbuds, there are plenty of options for you to choose from, and many of them are not as expensive as you might think - which is always a good thing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SoundPeats Space Wireless Headset
 
 ![SoundPeats Space Wireless Bluetooth Headphones](https://cdn.mos.cms.futurecdn.net/F24Yi3THXF7HJqJq2hj54R-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: SoundPeats)
 
@@ -68,16 +80,10 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FAudeze-Maxwell-Wireless-Headset-Playstation%2Fdp%2FB0BP6BC17P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8383051658675473609-20)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Spotify Premium
 
 ![Spotify Logo](https://cdn.mos.cms.futurecdn.net/KDia7SawcTN93wuYZwQnuc-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  (Image credit: Spotify)
 
  Spotify is one of the most well-known premium music services, with a very large music catalog available, and is a fantastic resource for playing your favorite tunes and even discovering new artists. With a Premium subscription, you're able to listen to ad-free music, download tracks to your computer, phone, or wearables, have access to high-quality 320 kbps compressed audio, and even listen to music with friends in real-time.
@@ -90,9 +96,6 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://www.spotify.com/us/premium/)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Entertainment
 
  When you need a break from your studies, to unwind and relax, either by yourself or with a couple of friends, there's always a use for a little entertainment to provide some much needed stimuli.
@@ -100,16 +103,17 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
  Computer games are a great way to pass the time and take your mind off of the hard work you've been doing, and games consoles, gaming PCs or gaming laptops are are good options for playing games and other media.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Xbox
 
 ![Xbox Series X Games Console](https://cdn.mos.cms.futurecdn.net/FWrpbr8EsWYxBQwnUV8PdE-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Microsoft)
 
  Microsoft's latest generation games console the Xbox Series X gives you access to not only the suite of games made for the Xbox console but also Microsoft's Game Pass subscription service which opens up a multitude of games for a monthly subscription. If you opt for the Ultimate pass, then you can access games on both your console and PC which is superb value for money and a great option if you want access to a lot of entertainment. With Xbox also offering day-one games on Games Pass - such as the new Call of Duty - it's one of the best-value ways to consume video games.
@@ -124,9 +128,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 [View Deal](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-8529014966680590914&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FXbox-Series-X-Video-Game-Console-Black%2F443574645)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## PlayStation 5
 
  Sony's PlayStation 5 console is winning the console wars in terms of unit sales and successful exclusive game titles even though it's not the most attractive-looking console. Perfect for a bit of couch co-op action after classes, the PS5 is similar in raw power to its Xbox rival but does feature the advantage of not having to buy a proprietary piece of hardware if you want to expand on the 1TB of storage already included with the console. To upgrade the available storage in the PlayStation 5 you can purchase a standard M.2 NVMe PCIe SSD as long as the stats meet the stated basic requirements for PS5 operation.
@@ -191,9 +192,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Crucial X10 Pro 1TB External SSD](https://cdn.mos.cms.futurecdn.net/kpEAYHfyHPHNxwmQPeCSF4-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  (Image credit: Crucial)
 
  Crucial's X10 Pro external SSD is the same size as the previously mentioned X9, but has a few improvements - namely it's twice as fast - with a Gen-2 2x2 USB 3.2 Type-C connection capable of 20Gb/s with sequential read and write speeds 2100/2000MB/s.
@@ -210,6 +208,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCrucial-X10-Pro-Portable-CT1000X10PROSSD902%2Fdp%2FB0C9WGGZT9%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3379043427879641339-20)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## USB Hubs and Docks
 
  Let's face it, there are never enough available USB-C ports on your computer whether it's a laptop or desktop PC, and with the number of devices - especially peripherals - using USB-C becoming more commonplace a USB hub is an essential piece of kit.
@@ -221,8 +223,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Satechi 4 in 1 USB-C Hub and 2.5GHz Network Adapter](https://cdn.mos.cms.futurecdn.net/SRJF5S6CDsCotPErsTc4RF-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Satechi)
 
  This useful little hub packs in a 2.5GHz Ethernet adapter and 3 x 10Gb/s USB-C hubs into an attractively designed compact aluminum enclosure with smooth chamfered edges and a durable braided cable. This hub is constructed to last and be easily transported around campus or stored in a drawer or laptop bag for later use.
@@ -245,6 +248,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Logitech MX Keys S](https://cdn.mos.cms.futurecdn.net/RKag62xcWzrPgVBsAKm6MA-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Logitech)
 
  With its light and dark gray graphite styling (also available in Black and Pale Gray), the MX Keys S is an attractive keyboard that will look great on any desk. The MX Keys doesn’t boast per-key RGB like most modern day gaming keyboards, but instead has white backlighting, which it uses a proximity sensor located on the keyboard’s bottom edge which measures the magnetic field around the peripheral. The MX Keys S notices when your hands are touching the keyboard and lights up the keys without you having to press a button which is pretty cool.
@@ -261,16 +268,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 [View Deal](https://logitech.cfzu.net/c/221109/499820/8585?subId1=tomshardware-us-1293848247163695391&sharedId=tomshardware-us&u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fproducts%2Fkeyboards%2Fmx-keys-s.920-011558.html)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Logitech MX Master 3S
 
 ![Logitech MX Master 3S Wireless Mouse](https://cdn.mos.cms.futurecdn.net/u664eJMBpQNnX76znUeXSV-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  (Image credit: Logitech)
 
  There are more considerations than you might think when choosing the mouse that's right for you. What type of grip you have and your hand size are just a few of the things that you should consider.
@@ -292,16 +293,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 [View Deal](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-1446280923508857110&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLogitech-MX-Master-3S-Wireless-Performance-Mouse-Ergo-8K-DPI-Quiet-Clicks-USB-C-Black%2F731473988)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## HyperX Wrist Rest
 
 ![HyperX Wrist Rest](https://cdn.mos.cms.futurecdn.net/Qp6sX9i4RfCgboeQFo9Pi3-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: HyperX)
 
  Something as simple as a wrist rest can make all the difference to your workstation setup. For instance, the HyperX wrist rest is a firm favorite amongst some of our Tom's Hardware editors including our Editor-in-Chief Avram Piltch who swears by the comfort of his longstanding HyperX wrist rest.
@@ -324,9 +326,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you want something just for work, to maybe hook up to a laptop for a bigger screen, you might want to look for something with a DisplayPort over USB-C, if you have a desktop then anything with an HDMI or DisplayPort should do the trick. Then it's just a case of budget and the type of screen and resolution you'd like to go for.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## MSI Optix G274RW
 
  This superbly priced Monitor from MSI not only has a 170Hz refresh rate that's good for a little bit of esports-like gaming, but will also do well being connected to a docking station, or for watching a movie on. it's not got the highest resolution at only FHD (1080p), but at a snip just over $100 it's got a lot going for it.
@@ -349,8 +348,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -358,4 +355,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-premium-tools-for-tag-analysis-across-fb-twitter-and-instagram-for-2024/"><u>[New] Premium Tools for Tag Analysis Across FB, Twitter and Instagram for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-essential-guide-instagram-optimization-through-final-cut-pro-x/"><u>[Updated] In 2024, The Essential Guide Instagram Optimization Through Final Cut Pro X</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/15l-gaming-desktop-at-only-520-save-almost-40-technews/"><u>15L Gaming Desktop at Only $520 - Save Almost 40% | TechNews</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-8-plus-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 8 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-risks-understanding-windows-11-government-version-and-its-potential-pitfalls/"><u>Exploring the Risks: Understanding Windows 11 Government Version and Its Potential Pitfalls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-does-the-trusted-platform-module-tpm-work-with-windows-11-understanding-its-role-and-necessity/"><u>How Does the Trusted Platform Module (TPM) Work with Windows 11: Understanding Its Role and Necessity</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-infinix-smart-8-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Infinix Smart 8 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-targets-classrooms-new-low-cost-laptop-se-and-tailored-windows-11-se-operating-system-released-discover-more-on-zdnet/"><u>Microsoft Targets Classrooms: New Low-Cost Laptop SE & Tailored Windows 11 SE Operating System Released, Discover More on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-instructions-for-quickly-installing-m2-modules-on-the-new-raspberry-pi-5-zdnets-expert-advice/"><u>Step-by-Step Instructions for Quickly Installing M.2 Modules on the New Raspberry Pi 5 - ZDNET's Expert Advice</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/supreme-performance-mods-ranking-the-best-srt-converters-for-2024/"><u>Supreme Performance Mods Ranking the Best SRT Converters for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-hps-game-changer-a-portable-all-in-one-device-and-more-unexpected-innovations-to-watch-out-for-zdnet/"><u>Unveiling HP's Game-Changer: A Portable All-in-One Device and More Unexpected Innovations to Watch Out For | ZDNet.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209616522-9781507211069-your-goddess-year/"><u>Your Goddess Year | Free Book</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models
-date: 2025-01-14T19:23:50.680Z
-updated: 2025-01-18T16:17:42.735Z
+date: 2025-01-18T21:11:51.348Z
+updated: 2025-01-24T20:46:00.059Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,24 +112,21 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-follow-the-flow-of-forum-fancies/"><u>[New] 2024 Approved Follow the Flow of Forum Fancies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-must-see-mac-video-frames-selection-limited-to-156-characters-for-2024/"><u>[New] Must-See Mac Video Frames Selection (Limited to 156 Characters) for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-guide-to-trending-youtubers-for-2024/"><u>[New] The Ultimate Guide to Trending YouTubers for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-blueprint-revolutionizing-your-mobile-capture-experience-with-mobizen/"><u>[Updated] In 2024, Ultimate Blueprint Revolutionizing Your Mobile Capture Experience with Mobizen</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-techniques-to-ensure-uninterrupted-video-capturing/"><u>[Updated] Techniques to Ensure Uninterrupted Video Capturing</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-whats-sweeping-the-web-dive-into-these-8-trending-videos/"><u>[Updated] What's Sweeping the Web? Dive Into These 8 Trending Videos</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/grundlagen-des-reflektiven-einsatzes-von-windows-server-2012-r2-schritt-fur-schritt-anleitungen/"><u>Grundlagen Des Reflektiven Einsatzes Von Windows Server 2012 R2 - Schritt-Für-Schritt Anleitungen</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-soundstage-excellence-critical-interface-tips-for-podcasters/"><u>In 2024, Soundstage Excellence Critical Interface Tips for Podcasters</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pre-order-now-sabrents-high-performance-rocket-5-ssds-from-just-190/"><u>Pre-Order Now: Sabrent's High-Performance Rocket 5 SSDs From Just $190</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-and-performance-insights-for-the-portable-sk-hynix-tube-t31-equipped-with-m2-technology-via-usb-stick/"><u>Review & Performance Insights for the Portable SK Hynix Tube T31, Equipped with M.2 Technology via USB Stick</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-300tb-ssds-from-sk-hynix-pioneering-the-future-of-storage-for-ai-environments/"><u>Revolutionary 300TB SSDs From SK Hynix: Pioneering the Future of Storage for AI Environments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-data-management-with-4tb-patriot-viper-vp4300-lite-ssd-a-detailed-performance-and-price-guide/"><u>Revolutionize Your Data Management with 4TB Patriot Viper VP4300 Lite SSD - A Detailed Performance & Price Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-storage-exclusive-discounts-on-ssds-and-hdds-2024-edition/"><u>Save Big on Storage: Exclusive Discounts on SSDs & HDDs - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sneak-peek-upcoming-samsung-storage-solutions-the-990-evo-plus-and-9100-pro-hit-patent-office/"><u>Sneak Peek: Upcoming Samsung Storage Solutions - The 990 EVO PLUS & 9100 PRO Hit Patent Office</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-exploring-the-enhanced-performance-and-features-of-the-2tb-wd-sn740-m2-2230-solid-state-drive/"><u>The Ultimate Review: Exploring the Enhanced Performance and Features of the 2TB WD SN740 M.2 2230 Solid-State Drive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computing-in-depth-reviews-and-insights/"><u>Tom's Computing: In-Depth Reviews and Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unraveling-the-latest-in-computer-gadgets-and-performance/"><u>Tom's Tech Insights: Unraveling the Latest in Computer Gadgets and Performance</u></a></li>
-<li><a href="https://win-docs.techidaily.com/unveiling-the-impact-of-events-on-marketing-a-statistical-analysis-for-2-2013-using-massmail-tools/"><u>Unveiling the Impact of Events on Marketing: A Statistical Analysis for 2지년 (2013) Using Massmail Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocked-gems-seeking-free-tiktok-picture-perfections/"><u>[New] 2024 Approved Unlocked Gems Seeking Free TikTok Picture Perfections</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-step-into-new-realms-with-vr-technology-for-2024/"><u>[New] Step Into New Realms with VR Technology for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instaloops-unleashed-the-ultimate-guide-to-engagement/"><u>[Updated] In 2024, InstaLoops Unleashed The Ultimate Guide to Engagement</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-a-beginners-guide-to-elevating-auditory-experiences-on-youtube/"><u>In 2024, A Beginner's Guide to Elevating Auditory Experiences on YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-bonanza-get-a-free-xbox-game-pass-with-33-off-any-fire-tv-stick-bundle-top-promo-by-zdnet/"><u>Labor Day Bonanza: Get a Free Xbox Game Pass with 33% Off Any Fire TV Stick Bundle - Top Promo by ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/missed-octobers-prime-day-check-out-lasting-amazon-fire-tv-offers-now-insights-from-zdnet/"><u>Missed October's Prime Day? Check Out Lasting Amazon Fire TV Offers Now - Insights From ZDNet</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/phonedatarescue-for-android-regain-lost-media/"><u>PhoneDataRescue for Android: Regain Lost Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-your-sonos-experience-new-features-include-a-tailored-home-interface-cross-device-search-capability-insights-from-zdnet/"><u>Revolutionizing Your Sonos Experience: New Features Include a Tailored Home Interface, Cross-Device Search Capability - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-lost-remotes-introducing-the-ultimate-solution-every-roku-enthusiast-deserves-featured-on-zdnet/"><u>Say Goodbye to Lost Remotes: Introducing the Ultimate Solution Every Roku Enthusiast Deserves, Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-the-latest-samsung-galaxy-a35-with-complimentary-buds-fe-from-amazon-featured-in-our-exclusive-zdnet-guide/"><u>Score the Latest Samsung Galaxy A35 with Complimentary Buds FE From Amazon, Featured in Our Exclusive ZDNet Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scoring-free-galaxy-buds-seplus-with-your-new-samsung-galaxy-a35-the-complete-guide/"><u>Scoring Free Galaxy Buds SE+ with Your New Samsung Galaxy A35 - The Complete Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-up-to-32-off-xbox-one-fire-tv-stick-4k-and-control-pack-with-xbox-game-pass-promo-zdnet-exclusive-deals/"><u>Secure Up To 32% Off Xbox One Fire TV Stick 4K & Control Pack with Xbox Game Pass Promo - ZDNet Exclusive Deals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-preventing-everspace-2-from-crashing-on-windows/"><u>Troubleshooting Tips for Preventing Everspace 2 From Crashing on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725286013758-windows-10/"><u>Windows 10最適化された世界中の一流無料ビデオプレーヤーを見つける方法</u></a></li>
 </ul></div>
 

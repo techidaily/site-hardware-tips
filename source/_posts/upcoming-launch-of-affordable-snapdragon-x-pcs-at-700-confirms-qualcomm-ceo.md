@@ -1,7 +1,7 @@
 ---
 title: Upcoming Launch of Affordable Snapdragon X PCs at $700, Confirms Qualcomm CEO
-date: 2024-08-19T03:50:37.218Z
-updated: 2024-08-20T03:50:37.218Z
+date: 2025-01-21T01:02:17.216Z
+updated: 2025-01-24T18:20:50.300Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Intel has reportedly increased the maximum thermal junction (TJMax) temperature 
 
  Panther Lake-U CPUs will purportedly sport up to four high-performance cores, four ultra-low-power cores, four Xe GPU clusters, and a PBP of 15W. In contrast, the more powerful Panther Lake-U processor will seemingly pack up to four high-performance cores, eight energy-efficient cores, four ultra-low-power cores, and 12 Xe graphics clusters. However, these CPUs will dissipate up to 25W. Because the image does not come from Intel, consider its contents with a grain of salt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Intel has reportedly increased the maximum thermal junction (TJMax) temperature 
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,21 @@ Intel has reportedly increased the maximum thermal junction (TJMax) temperature 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-firefox-plugins-for-easy-facebook-video-retrieval-2023-edition/"><u>[New] 2024 Approved The Ultimate List of Firefox Plugins for Easy Facebook Video Retrieval, 2023 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-ryzen-9-9950x-shatters-benchmarking-records-on-cinebench-r23-at-65ghz-a-new-era-of-processor-performance/"><u>AMD's Ryzen 9 9950X Shatters Benchmarking Records on Cinebench R23 at 6.5GHz: A New Era of Processor Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-devices-at-toms-electronic-emporium/"><u>Discover Cutting-Edge Devices at Tom's Electronic Emporium</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-innovative-hardware-solutions-on-toms-review-platform/"><u>Discover Innovative Hardware Solutions on Tom’s Review Platform</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-insights-into-youtube-live-image-crafting/"><u>In 2024, Essential Insights Into YouTube Live Image Crafting</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-itel-p55-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Itel P55 5G</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-top-rated-shot-recording-gear-for-the-hunter/"><u>In 2024, Top-Rated Shot-Recording Gear for the Hunter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-game-with-these-premier-gaming-chair-reviews-and-ratings/"><u>Master the Game with These Premier Gaming Chair Reviews and Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-with-tom-the-ultimate-guide-to-pc-building/"><u>Mastering Hardware with Tom: The Ultimate Guide to PC Building</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-the-77-aliexpress-3d-printer-delivers-quality-performance/"><u>Review: The $77 AliExpress 3D Printer Delivers Quality Performance</u></a></li>
+<li><a href="https://fox-http.techidaily.com/safe-methods-to-fast-forward-in-spotify-files/"><u>Safe Methods to Fast-Forward in Spotify Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-hdr-camera-match-up/"><u>The Ultimate HDR Camera Match-Up</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-remains-when-fb-is-gone/"><u>What Remains When FB Is Gone?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

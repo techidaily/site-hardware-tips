@@ -1,7 +1,7 @@
 ---
 title: Innovative Craftsman Designs Bespoke Star Trek Computer Enclosure
-date: 2024-08-19T02:32:07.995Z
-updated: 2024-08-20T02:32:07.995Z
+date: 2025-01-20T23:31:02.580Z
+updated: 2025-01-24T17:51:47.328Z
 tags:
   - build
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/7HEk2oBNTKp7d6Dv4WpF7X-320-80.png
 Here are the official winners:
 
 **Luke Noyd of Bethany, MO**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -65,8 +69,6 @@ _Follow us on_ [_Facebook_](https://www.facebook.com/tomshardware) _,_ [_Google+
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,8 +76,21 @@ _Follow us on_ [_Facebook_](https://www.facebook.com/tomshardware) _,_ [_Google+
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-directing-tiktok-video-viewers-to-facebook-pages/"><u>[New] 2024 Approved Directing TikTok Video Viewers to Facebook Pages</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-adding-visual-variety-to-instagram-stories-step-by-step/"><u>[New] In 2024, Adding Visual Variety to Instagram Stories Step-by-Step</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-trustworthy-tactics-for-multiplying-a-million-views-on-youtube/"><u>[New] In 2024, Trustworthy Tactics for Multiplying a Million Views on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-art-of-soft-ending-sounds-in-premiere-pro/"><u>[New] The Art of Soft-Ending Sounds in Premiere Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-sunrise-alarm-devices-unveiled-your-gentle-path-to-a-refreshed-morning-zdnet-insights/"><u>2024'S Top Sunrise Alarm Devices Unveiled - Your Gentle Path to a Refreshed Morning | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-the-ultimate-list-of-top-smart-plug-gadgets-zdnet-insights/"><u>Expert Picks: The Ultimate List of Top Smart Plug Gadgets - ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/home-automation-evolves-as-matter-12-supports-additional-9-smart-device-categories-tech-news-roundup/"><u>Home Automation Evolves as Matter 1.2 Supports Additional 9 Smart Device Categories | Tech News Roundup</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-methods-for-shushing-complaints-in-gmeet-sessions/"><u>In 2024, Expert Methods for Shushing Complaints in GMeet Sessions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-infinix-smart-7-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Infinix Smart 7 Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nanoleafs-latest-innovation-launching-smart-light-strip-matter-with-early-bird-access/"><u>Nanoleaf's Latest Innovation: Launching Smart Light Strip 'Matter' With Early Bird Access</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-wow-glitch-remedy-51900319/"><u>Step-by-Step WoW Glitch Remedy #51900319</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-office-oasis-with-the-best-amazon-prime-fish-tank-lights-effortless-brightness-and-calm-await/"><u>Transform Your Office Oasis with the Best Amazon Prime Fish Tank Lights – Effortless Brightness and Calm Await!</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/transform-youtube-tunes-into-premium-soundtracks-save-as-mp3flac-using-the-powerful-mp3jam-tool/"><u>Transform YouTube Tunes Into Premium Soundtracks - Save as MP3/FLAC Using the Powerful MP3Jam Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-endorsement-a-key-indicator-of-safety-for-your-intelligent-household-gadgets/"><u>Upcoming Endorsement: A Key Indicator of Safety for Your Intelligent Household Gadgets</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

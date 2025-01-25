@@ -1,7 +1,7 @@
 ---
 title: Find the Perfect Laptop at Unbeatable Prices During Oct '24 Prime Day Deals | Expert Picks and Tips | ZDNET
-date: 2025-01-13T17:14:34.297Z
-updated: 2025-01-18T18:32:31.380Z
+date: 2025-01-18T16:19:22.300Z
+updated: 2025-01-24T18:13:29.800Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,19 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-10-budget-friendly-jpeg-to-gif-conversion-tools-online/"><u>[New] 2024 Approved Top 10 Budget-Friendly JPEG to GIF Conversion Tools Online</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-creative-camerawork-innovative-techniques-for-video-savvy-youtubers-for-2024/"><u>[New] Creative Camerawork Innovative Techniques for Video-Savvy YouTubers for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-crafting-a-trailers-soundtrack-a-guide/"><u>2024 Approved Crafting a Trailer's Soundtrack A Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-g2-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo G2 FRP Bypass Instantly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/beam-your-ideas-master-screencast-with-ezvide-video-maker/"><u>Beam Your Ideas Master Screencast with EZvide Video Maker</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/global-market-anticipates-sale-of-39-million-moments-post-crisis-resurgence-in-board-deliveries/"><u>Global Market Anticipates Sale of 39 Million Moments: Post-Crisis Resurgence in Board Deliveries</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-tech-world-the-ultimate-guide-to-cutting-edge-hardware/"><u>Inside Tom's Tech World: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-world-of-electronics-and-gadgets/"><u>Inside Tom's World of Electronics & Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-unveils-lga18n-socket-innovation-for-enhanced-chip-thermal-management-no-more-reduced-load-ilm-necessity/"><u>Intel Unveils LGA18n Socket Innovation for Enhanced Chip Thermal Management - No More Reduced Load ILM Necessity!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maxsun-reveals-intel-arrow-lake-and-amd-ryzen-9000-board-range-31-models-over-5-new-chipsets-featuring-800-series-designation/"><u>Maxsun Reveals Intel Arrow Lake & AMD Ryzen 9000 Board Range: 31 Models Over 5 New Chipsets Featuring 800 Series Designation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steering-clear-of-low-performance-pitfalls-intel-gpu-resolution/"><u>Steering Clear of Low-Performance Pitfalls: Intel GPU Resolution</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/tecnicas-efectivas-para-rescatar-datos-y-solucionar-problemas-de-corrupcion-de-particion-en-windows-11/"><u>Técnicas Efectivas Para Rescatar Datos Y Solucionar Problemas De Corrupción De Partición en Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-how-to-fix-screen-not-showing-full-window/"><u>Windows 10: How to Fix Screen Not Showing Full Window?</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728469597125-aomei-backupper/"><u>バックアップイメージをAOMEI Backupperでマウントする効果的な方法</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-stepwise-addition-of-language-overlays-in-igtv-videos-for-2024/"><u>[Updated] Stepwise Addition of Language Overlays in IGTV Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860229979-2024-approved-best-free-call-apps-on-android-ranks-them/"><u>2024 Approved Best Free Call Apps on Android, Ranks Them!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-secret-emergency-tool-on-google-pixel-watch-that-can-protect-you-spotted-by-techcrunch/"><u>Discover the Secret Emergency Tool on Google Pixel Watch That Can Protect You, Spotted by TechCrunch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-list-of-16-best-value-holiday-deals-for-smartwatches-including-apple-and-garmin-zdnet/"><u>Discover the Ultimate List of 16 Best-Value Holiday Deals for Smartwatches Including Apple and Garmin | ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empower-your-storytelling-journey-a-novelists-guide-to-leveraging-chatgpt-9-proven-techniques/"><u>Empower Your Storytelling Journey: A Novelist's Guide to Leveraging ChatGPT (9 Proven Techniques)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-montblancs-premium-1300-wear-os-watch-is-it-truly-clever-or-just-overpriced-tech-insights/"><u>Evaluating Montblanc's Premium $1,300 Wear OS Watch: Is It Truly Clever or Just Overpriced? - Tech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-6-proven-steps-to-correct-your-apple-watch-pairing-troubles/"><u>Expert Advice: 6 Proven Steps to Correct Your Apple Watch Pairing Troubles</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-urban-armor-gears-macbook-pro-shield-robust-design-and-practical-use/"><u>In-Depth Evaluation of Urban Armor Gear's MacBook Pro Shield: Robust Design & Practical Use</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/montblancs-premium-1300-wear-os-watch-a-comprehensive-review-of-its-intelligence-and-features-techinsights/"><u>Montblanc's Premium $1,300 Wear OS Watch: A Comprehensive Review of Its Intelligence and Features | TechInsights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-solutions-from-toms-technological-realm/"><u>Pioneering Hardware Solutions From Tom's Technological Realm</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-coros-apex-2-pro-rise-in-affordable-performance-watches-insights/"><u>Review of Coros Apex 2 Pro: Rise in Affordable Performance Watches - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unveils-innovative-cardiac-monitor-function-on-galaxy-watch-comprehensive-guide-zdnet/"><u>Samsung Unveils Innovative Cardiac Monitor Function on Galaxy Watch: Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-perfect-blend-of-tech-and-fashion-why-i-love-my-apple-watch-ultra-2-plus-get-an-extra-100-off-this-labor-day/"><u>The Perfect Blend of Tech & Fashion: Why I Love My Apple Watch Ultra 2 - Plus, Get an Extra $100 Off This Labor Day!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-savings-get-1200-off-on-the-latest-galaxy-z-fold-and-z-flip-models-secrets-to-a-smart-purchase-revealed/"><u>Unlock Savings! Get $1,200 Off on the Latest Galaxy Z Fold and Z Flip Models – Secrets to a Smart Purchase Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/video-reviews-the-pivotal-element-in-advertising/"><u>Video Reviews The Pivotal Element in Advertising</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/kamara-ta-kapayatara-tasavara-vapasa-aana-lga-apana-chhapa-haii-chhavaya-ka-le-mathatha/"><u>कैमरा-टू-कंप्यूटर तस्वीरें वापस आने लगीं - अपनी छिपी हुई छवियों के लिए मदद!</u></a></li>
 </ul></div>
 

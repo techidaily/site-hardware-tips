@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Productivity: How the HP Laptop with Copilot Technology Transforms You Into a Super-Efficient Telecommuter - A Comprehensive Review"
-date: 2025-01-04T01:03:11.515Z
-updated: 2025-01-06T08:42:41.411Z
+date: 2025-01-18T19:44:00.163Z
+updated: 2025-01-24T20:39:16.756Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -44,10 +44,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -61,6 +57,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce845ede1-ee85-4120-861a-f59772cdb93b%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -81,10 +81,6 @@ Max Buondonno/ZDNET
 There's a lot that the dual-screen design of the Yoga Book 9i enables, and the versatility of it all is simply unmatched by more [conventional laptops](https://www.zdnet.com/article/best-laptop/). It's like a blank canvas made of OLED screens -- you can literally do whatever you want with them, orient them the way you want, and it can all be packed up and taken on the go.
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does it perform?
 
@@ -107,7 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -130,6 +126,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,21 +182,19 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-broadcasting-on-demand-transferring-fb-videos-to-whatsapp-groups-for-2024/"><u>[New] Broadcasting on Demand Transferring FB Videos to WhatsApp Groups for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-gospel-music-how-to-download-and-modify-your-ringtone/"><u>[New] Exploring Gospel Music How to Download & Modify Your Ringtone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-screenscapes-saved-high-quality-online-tv-recordings/"><u>[New] In 2024, Screenscapes Saved High-Quality Online TV Recordings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-novel-windows-11-strategies-for-peak-performance/"><u>[New] Novel Windows 11 Strategies for Peak Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-transformed-my-entire-tech-setup-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How One Change Transformed My Entire Tech Setup | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/college-students-guide-to-the-perfectly-priced-299-laptop-expert-advice-by-zdnet/"><u>College Student's Guide to the Perfectly Priced $299 Laptop | Expert Advice by ZDNET</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/cross-platform-content-transfer-youtube-meets-facebook-for-2024/"><u>Cross-Platform Content Transfer YouTube Meets Facebook for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-whats-new-with-the-latest-upgrade-of-lenovo-thinkpad-x1-a-breakdown/"><u>Discover What's New with the Latest Upgrade of Lenovo ThinkPad X1: A Breakdown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hot-deal-alert-get-your-hands-on-an-msi-gaming-monitor-at-a-steep-300-cutdown-price-spotted-by-zdnet/"><u>Hot Deal Alert! Get Your Hands on an MSI Gaming Monitor at a Steep $300 Cutdown Price, Spotted by ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-fortnite-sound-not-working/"><u>How To Fix Fortnite Sound Not Working</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/kid-friendly-tablets-reviewed-and-endorsed-by-parents-featured-on-zdnet/"><u>Kid-Friendly Tablets Reviewed & Endorsed by Parents, Featured on ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-7-plus-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 7 Plus to PC or Mac | Stellar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ipad-pro-usb-c-hub-unveiled-a-must-have-accessory-when-you-need-it-most/"><u>Top iPad Pro USB-C Hub Unveiled : A Must-Have Accessory When You Need It Most</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-lenovo-laptops-under-800-tailored-for-efficient-hybrid-working-read-my-review/"><u>Top Lenovo Laptops Under $800 Tailored for Efficient Hybrid Working - Read My Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toughest-computers-for-harsh-conditions-zdnets-2024-roundup/"><u>Toughest Computers for Harsh Conditions: ZDNet's 2024 Roundup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unexpected-situations-solved-regain-access-to-your-ipad-without-the-original-password/"><u>Unexpected Situations Solved: Regain Access to Your iPad Without the Original Password</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-concealing-identity-select-8-highly-effective-photo-editors/"><u>[New] Concealing Identity Select 8 Highly Effective Photo Editors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aximize-your-youtube-reach-key-tips-for-enhancing-video-seo-for-2024/"><u>[New] Maximize Your YouTube Reach Key Tips for Enhancing Video SEO for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-most-effective-ways-to-log-youtube-live-events-for-2024/"><u>[New] Most Effective Ways to Log YouTube Live Events for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-streamline-your-recording-process-across-all-tech-platforms-for-2024/"><u>[New] Streamline Your Recording Process Across All Tech Platforms for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blurface-secrets-clean-up-your-photos-quickly-for-2024/"><u>Blurface Secrets Clean Up Your Photos Quickly for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-bmws-wireless-charging-system-could-affect-iphone-models-beyond-m15-insights-from-zdnet/"><u>How BMW's Wireless Charging System Could Affect iPhone Models Beyond M15 - Insights From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-v30-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo V30 without App | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-7-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 7 From Your Apple ID</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-approach-in-airline-industry-southwest-boosts-customer-experience-says-zdnet-analysis/"><u>Innovative Approach in Airline Industry: Southwest Boosts Customer Experience, Says ZDNet Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/integration-of-qualcomm-technology-in-hyundais-next-gen-pbv-infotainment-revealed-by-zdnet/"><u>Integration of Qualcomm Technology in Hyundai's Next-Gen PBV Infotainment, Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/investigation-launched-into-fords-autonomous-driving-tech-following-tragic-accidents-key-insights/"><u>Investigation Launched Into Ford’s Autonomous Driving Tech Following Tragic Accidents: Key Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-pocketing-your-parcel-by-drone-on-consumers-wishlist-the-prospects-and-pricing/"><u>Is Pocketing Your Parcel by Drone on Consumer's Wishlist? The Prospects and Pricing!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-creating-a-stellar-se-engineer-resume-insights-by-zdnet/"><u>The Ultimate Guide to Creating a Stellar SE Engineer Resume - Insights by ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-blue-yeti-here-are-solutions-to-get-it-recognized-again/"><u>Trouble with Your Blue Yeti? Here Are Solutions to Get It Recognized Again</u></a></li>
 </ul></div>
 

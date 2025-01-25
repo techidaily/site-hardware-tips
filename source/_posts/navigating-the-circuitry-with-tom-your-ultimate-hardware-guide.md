@@ -1,7 +1,7 @@
 ---
 title: Navigating the Circuitry with Tom - Your Ultimate Hardware Guide
-date: 2024-08-19T02:26:10.148Z
-updated: 2024-08-20T02:26:10.148Z
+date: 2025-01-23T20:00:59.986Z
+updated: 2025-01-24T16:48:51.551Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
 
  Plans are in the works to add a 3D head to move and add a visual representation for the Voltara fortune teller. If you want to get a closer look at this[Raspberry Pi project](https://tools.techidaily.com) in action, you can check it out over at Kevin McAleer's official[YouTube channel](https://www.youtube.com/watch?v=dWFgN%5FA%5FI1w) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,20 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-masterclass-in-capturing-conversations-for-later-review/"><u>[Updated] 2024 Approved Masterclass in Capturing Conversations for Later Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-step-up-your-image-game-the-best-free-online-editors/"><u>2024 Approved Step Up Your Image Game The Best Free Online Editors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-guide-to-effortless-wireless-printer-connection/"><u>Beginner's Guide to Effortless Wireless Printer Connection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-simple-swipes-why-pattern-locks-no-longer-offer-adequate-protection-for-android-phones/"><u>Beyond Simple Swipes: Why Pattern Locks No Longer Offer Adequate Protection for Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-use-5g-on-your-smartphone-learn-to-check-compatibility-now/"><u>Can You Use 5G on Your Smartphone? Learn to Check Compatibility Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-amazon-fire-max-89-inch-tablet-assessment-your-ultimate-entertainment-companion-on-the-go/"><u>Comprehensive Amazon Fire Max 8.9-Inch Tablet Assessment: Your Ultimate Entertainment Companion on the Go</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-assessment-of-samsung-galaxy-z-flip-5-expert-opinions-unveiled/"><u>Comprehensive Assessment of Samsung Galaxy Z Flip 5 - Expert Opinions Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enjoy-seamless-streaming-of-netflix-movies-and-shows-on-your-ipad/"><u>Enjoy Seamless Streaming of Netflix Movies and Shows on Your iPad</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-c67-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme C67 5G Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-8-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 8 Plus? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone XR?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/picsart-secret-conceal-faces-easily/"><u>Picsart Secret Conceal Faces Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-videography-101-editing-essentials-taught-for-2024/"><u>YouTube Videography 101 Editing Essentials Taught for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

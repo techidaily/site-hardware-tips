@@ -1,7 +1,7 @@
 ---
 title: Micronics Introduces Affordable Desktop-Sized SLS 3D Printer at $2,99
-date: 2024-08-19T03:51:06.679Z
-updated: 2024-08-20T03:51:06.679Z
+date: 2025-01-23T22:17:49.301Z
+updated: 2025-01-24T19:39:57.812Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ Six months after joining – and winning — the race for the[fastest consumer 3
 
  Like the K1, the K1C will come pre-assembled for a plug and play experience. Its auto leveling includes the ability to set its own Z height for a perfect first layer, and auto-calibration will handle all the tuning. The K1C will also come standard with an A1 camera to watch for errors and provide real-time monitoring and time-lapse filming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ Six months after joining – and winning — the race for the[fastest consumer 3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,20 @@ Six months after joining – and winning — the race for the[fastest consumer 3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-boost-your-posts-10-powerful-hashtags-you-cant-ignore/"><u>[New] 2024 Approved Boost Your Posts 10 Powerful Hashtags You Can't Ignore</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-xsplit-glossary-direct-video-game-insights/"><u>[Updated] In 2024, XSplit Glossary Direct Video Game Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-sharper-stars-in-iphone-nocturne-photos/"><u>2024 Approved Sharper Stars in iPhone Nocturne Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-the-enhanced-build-platform-and-multi-head-technology-featured-in-original-prusa-xl/"><u>Expert Insights on the Enhanced Build Platform & Multi-Head Technology Featured in Original Prusa XL</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-latest-in-hardware-with-toms-detailed-reviews/"><u>Explore the Latest in Hardware with Tom's Detailed Reviews</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c110-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C110 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-us-sanctions-affect-deepcools-sales-of-cooling-gear-to-wartime-russia-an-analysis/"><u>How US Sanctions Affect DeepCool's Sales of Cooling Gear to Wartime Russia: An Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-toms-hardware-test-reports-a-tech-enthusiasts-companion/"><u>Inside Look at Tom's Hardware Test Reports - A Tech Enthusiast's Companion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spotlight-on-top-10-phone-videographers-for-2024/"><u>Spotlight on Top 10 Phone Videographers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tech-review-destination-discovering-toms-hardware-secrets/"><u>The Ultimate Tech Review Destination: Discovering Tom's Hardware Secrets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-an-in-depth-look-into-modern-computer-components-by-tom/"><u>Unveiling Tech Secrets: An In-Depth Look Into Modern Computer Components by Tom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-best-smart-ai-presentation-helpers/"><u>Unveiling the Best Smart AI Presentation Helpers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

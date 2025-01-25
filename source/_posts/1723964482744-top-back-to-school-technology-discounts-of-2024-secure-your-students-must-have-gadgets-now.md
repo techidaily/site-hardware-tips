@@ -1,7 +1,7 @@
 ---
 title: Top Back-to-School Technology Discounts of 2024 - Secure Your Student's Must-Have Gadgets Now!
-date: 2024-08-19T02:29:59.523Z
-updated: 2024-08-20T02:29:59.523Z
+date: 2025-01-23T18:02:46.328Z
+updated: 2025-01-24T23:59:37.399Z
 tags:
   - components
 categories:
@@ -24,6 +24,10 @@ Best Graphics Card Deals
   
  We're seeing a lot better value on AMD cards than on Nvidia-powered offerings, but you can still find some savings on RTX cards. We're highlighting all of the best graphics card deals below. Also, check out our list of[best graphics cards](https://tools.techidaily.com) and our[GPU benchmark hierarchy](https://tools.techidaily.com) to see evergreen performance data regardless of sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Graphics Card Deals: Quick Links
 
 * **Amazon:** [RTX 4070 from $549](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fs%3Fk%3DGeForce%2BRTX%2B4070%26rh%3Dn%253A284822%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6548013207339985029-20)
@@ -32,6 +36,10 @@ Best Graphics Card Deals
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lowest Graphics Card Prices by GPU
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://tools.techidaily.com) .
@@ -39,8 +47,9 @@ Best Graphics Card Deals
  We've highlighted our favorite deals below, but if you're trying to find the lowest price on a particular GPU right now, we've got tables below for all the major Nvidia and AMD cards. Each card's performance is listed, using the combined (geometric mean) of the 1080p and 1440p fps from our[GPU benchmarks hierarchy](https://tools.techidaily.com) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Best Nvidia Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -60,9 +69,6 @@ Best Graphics Card Deals
 
  Nvidia's graphics cards — both the new RTX 4090/4080 and the previous generation RTX 30-series — often tend to be overpriced. We've axed the 30-series, as those cards have been displaced by the newer, better, and often cheaper 40-series parts. The[RTX 4070](https://tools.techidaily.com) for instance trades blows with the RTX 3080 10GB, costs at least $100 less, and uses 30% less power; it also supports DLSS 3 Frame Generation and some other new features. Similar arguments can be made for the RTX 4060 Ti against the RTX 3060 Ti, RTX 4070 Ti against the RTX 3090, or the RTX 4080 and 4090 against any previous generation part.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Best AMD Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -80,8 +86,9 @@ Best Graphics Card Deals
  AMD often offers more value for your money, and it has some excellent deals in the budget to midrange bracket. All of AMD's GPUs are selling below their original MSRPs these days, which they should be considering some of the GPUs have been out for a while now. Of course, some of those MSRPs were inflated thanks to the price rises from the GPU shortages of the past.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Best Intel Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -99,8 +106,9 @@ Best Graphics Card Deals
  Performance from Arc GPUs continues to improve, with the A750 and A770 generally beating Nvidia's RTX 3060\. They cost less than the Nvidia card as well, and (usually) deliver superior ray tracing performance compared to AMD's GPUs. But with rasterization performance roughly matching the RX 6650 XT, the Arc 700-series at best looks like a tie with the 6000-series generation AMD competition.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Best Graphics Card Deals
 
 [Gigabyte Nvidia RTX 4090 Windforce V2: now $1,699 at Newegg](https://cdn.mos.cms.futurecdn.net/7sMqa4qSM2JZewLFi9rYpJ-200-100.png "Gigabyte Nvidia RTX 4090 Windforce V2: now $1,699 at Newegg") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-9687795623086258038%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-geforce-rtx-4090-gv-n4090wf3v2-24gd%252Fp%252FN82E16814932625)
@@ -146,9 +154,6 @@ _**Cores/Stream Processors:**_ _3456_
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CHK2345D%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2187404422149171234-20)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Look for in a Graphics Card Deal
 
 When shopping for a graphics card, consider the following.
@@ -167,8 +172,6 @@ When shopping for a graphics card, consider the following.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +179,26 @@ When shopping for a graphics card, consider the following.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-no-cost-digital-revenue-prognosticator/"><u>[New] 2024 Approved No-Cost Digital Revenue Prognosticator</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-recording-wonders-lightweight-win-11-edition/"><u>[New] 2024 Approved Recording Wonders Lightweight Win 11 Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-edit-away-bloat-organizing-your-overflow-of-tiktok-saves/"><u>[Updated] In 2024, Edit Away Bloat Organizing Your Overflow of TikTok Saves</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-the-world-of-gopro-streaming-and-social-media-networks-for-2024/"><u>[Updated] Navigating the World of Gopro Streaming and Social Media Networks for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-t2-pro-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo T2 Pro 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/compact-portable-docking-station-elevate-your-laptop-into-a-full-featured-desktop-setup-zdnet/"><u>Compact Portable Docking Station - Elevate Your Laptop Into a Full-Featured Desktop Setup | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-lenovos-latest-ai-enhanced-thinkpad-line-the-perfect-match-for-professional-workstations-as-featured-on-zdnet/"><u>Discover Lenovo's Latest AI-Enhanced ThinkPad Line: The Perfect Match for Professional Workstations, as Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-why-choosing-a-lenovo-aio-over-an-imac-is-worth-reconsidering-insights-from-zdnet/"><u>Discover Why Choosing a Lenovo AIO Over an iMac Is Worth Reconsidering: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-2024-laptop-selection-indepth-evaluation-and-ratings-by-experts-at-zdnet/"><u>Elite 2024 Laptop Selection: InDepth Evaluation and Ratings | By Experts at ZDNET</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/explore-the-visual-creations-of-jamie-miller-with-premium-images-and-desktop-wallpapers-from-yl-software-yl-computing-gifts/"><u>Explore the Visual Creations of Jamie Miller with Premium Images and Desktop Wallpapers From YL Software | YL Computing Gifts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-with-a-touchscreen-macbook-benefits-and-drawbacks-analyzed-by-experts/"><u>Exploring the Future with a Touchscreen MacBook: Benefits and Drawbacks Analyzed by Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scorching-deals-snag-samsung-odyssey-g7-at-a-whopping-50-discount-on-amazons-spring-fling-insights-from-zdnet/"><u>Scorching Deals: Snag Samsung Odyssey G7 at a Whopping 50% Discount on Amazon's Spring Fling - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-on-hardware-and-pc-building/"><u>Tom's Tech Insights: In-Depth Guides on Hardware and PC Building</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-35-unbeatable-cyber-monday-offers-find-the-best-bargains-on-dell-products-at-retail-giants-like-best-buy-and-amazon/"><u>Top 35 Unbeatable Cyber Monday Offers: Find the Best Bargains on Dell Products at Retail Giants Like Best Buy & Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-laptop-picks-for-2n4-professional-evaluations-and-comparisons-on-zdnet/"><u>Top-Ranking Laptop Picks for 2N4: Professional Evaluations & Comparisons on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-fastest-ram-on-the-market-boosting-productivity-and-gaming-rigs-techradar/"><u>Ultimate Guide to the Fastest RAM on the Market : Boosting Productivity & Gaming Rigs | TechRadar</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-edits-advanced-l-cuts-and-j-cuts-techniques-in-fcpx/"><u>Updated Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-online-video-editing-top-10-trimming-tools-2023-rankings-for-2024/"><u>Updated Free Online Video Editing Top 10 Trimming Tools 2023 Rankings for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-confirms-the-era-of-fee-free-windows-10-upgrades-has-closed/"><u>ZDNet Confirms: The Era of Fee-Free Windows 10 Upgrades Has Closed</u></a></li>
+</ul></div>
 

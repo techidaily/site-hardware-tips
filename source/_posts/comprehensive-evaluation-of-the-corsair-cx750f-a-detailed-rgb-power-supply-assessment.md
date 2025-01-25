@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation of the Corsair CX750F: A Detailed RGB Power Supply Assessment"
-date: 2024-08-19T02:27:21.860Z
-updated: 2024-08-20T02:27:21.860Z
+date: 2025-01-21T21:12:24.533Z
+updated: 2025-01-24T16:11:42.393Z
 tags:
   - power-supply
 categories:
@@ -31,6 +31,10 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
 
  The power supplies themselves will carry MSRPs of $199, $249 and $399 for the 1,000, 1,200 and 1,600 watt units respectively. The 1,000 and 1,200 watt units will come in black or white while the 1,600 watt one will only be available in black. All three will be available in August.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,24 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-list-of-the-quickest-rising-youtube-spaces-for-encouragement/"><u>[New] In 2024, A List of the Quickest Rising YouTube Spaces for Encouragement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-toolkit-for-elevating-your-podcast-through-seo/"><u>[Updated] The Ultimate Toolkit for Elevating Your Podcast Through SEO</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-new-drop-compact-desktop-speakers-immersive-audio-experience-below-130-discover-more-on-zdnet/"><u>Affordable New Drop Compact Desktop Speakers: Immersive Audio Experience Below $130 - Discover More on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipated-shifts-in-tech-the-impact-of-eus-unified-charger-mandate-on-devices-like-iphones-zdnet/"><u>Anticipated Shifts in Tech: The Impact of EU's Unified Charger Mandate on Devices Like iPhones | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-the-lens-essential-ios-and-android-video-platforms/"><u>Beyond the Lens Essential iOS and Android Video Platforms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-v-purse-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor V Purse</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expanding-your-workspace-on-an-m1-mac-mini-a-simple-guide-to-dual-thunderbolt-monitors-zdnet/"><u>Expanding Your Workspace on an M1 Mac Mini - A Simple Guide to Dual Thunderbolt Monitors | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-byo-ai-empowers-user-freedom-and-fuels-creativity-the-risks-of-model-lock-in-techanalysis/"><u>How BYO AI Empowers User Freedom and Fuels Creativity: The Risks of Model Lock-In | TechAnalysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impact-of-eus-unified-charger-mandate-on-future-devices-including-iphones-insights-from-zdnet/"><u>Impact of EU's Unified Charger Mandate on Future Devices, Including iPhones - Insights From ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-12-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi Note 12 4G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-oneplus-12r-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after OnePlus 12R has been deleted.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-workspace-with-the-affordable-portable-monitor-that-outshines-a-pricier-dell-computer/"><u>Revolutionize Your Workspace with the Affordable Portable Monitor That Outshines a Pricier Dell Computer!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-essential-guide-to-metaverse-brand-strategies-for-2024/"><u>The Essential Guide to Metaverse Brand Strategies for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-the-ultimate-guide-to-the-best-portable-photo-printers-features-and-reviews-zdnet/"><u>Top Picks: The Ultimate Guide to the Best Portable Photo Printers - Features & Reviews [ZDNet]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-and-testing-the-innocn-27c1u-monitor-brightness-and-speed-assessed-by-zdnet-experts/"><u>Unboxing and Testing the Innocn 27C1U Monitor: Brightness & Speed Assessed by ZDNet Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-tecno-spark-10c-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Tecno Spark 10C? Here is How | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Samsung & SK Hynix Cease DDR3 Manufacturing: Prioritizing the Surge in HBM3 Memory Chip Demand"
-date: 2024-08-19T02:25:16.160Z
-updated: 2024-08-20T02:25:16.160Z
+date: 2025-01-18T16:29:40.315Z
+updated: 2025-01-24T21:17:25.190Z
 tags:
   - ram
 categories:
@@ -27,6 +27,10 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
 
  This $2.4 billion investment is a part of China's broader strategy to enhance its semiconductor capabilities in general and advanced packaging technologies in particular. Whether or not this one is going to be a financial success is something that remains to be seen. Given that the U.S. government does not allow the export of advanced components made using American technology to China without a license, it has no other choice but to build its own HBM supply chain.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,20 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-11-superior-sound-recording-tools-of-the-year/"><u>[Updated] 11 Superior Sound Recording Tools of the Year</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-premium-video-gear-guide-selecting-the-right-lens-for-youtube/"><u>[Updated] In 2024, Premium Video Gear Guide Selecting the Right Lens for YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-maximize-memories-overwatch-game-footage-for-2024/"><u>[Updated] Maximize Memories Overwatch Game Footage for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/addressing-the-issue-head-on-ekwbs-promise-of-rectifying-supplier-and-staff-payment-lapses/"><u>Addressing the Issue Head-On: EKWB's Promise of Rectifying Supplier and Staff Payment Lapses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-the-world-of-computer-tech-with-insights-from-toms-hardware-gurus/"><u>Dive Into the World of Computer Tech with Insights From Tom's Hardware Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-the-lian-li-galahad-ii-with-integrated-led-display-ideal-for-overclockers-and-gamers-using-the-i7-14900k/"><u>Expert Review: The Lian Li Galahad II with Integrated LED Display, Ideal for Overclockers and Gamers Using the I7-14900K</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-tips-embedding-moving-images-in-written-content-for-2024/"><u>Free Tips Embedding Moving Images in Written Content for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nokia-xr21-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nokia XR21 Activity | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-camon-20-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Camon 20 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-lg-stylo-6-beauty-meets-precision-with-its-stylus-feature/"><u>In-Depth Look at the LG Stylo 6: Beauty Meets Precision with Its Stylus Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-tech-world-reliable-reviews-and-tips-from-toms-systems/"><u>Navigate the Tech World: Reliable Reviews and Tips From Tom's Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-electronics-expertise-in-depth-gadget-analysis/"><u>Tom's Electronics Expertise: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-personal-computing-deepcools-fresh-arsenal-of-coolers-psus-and-pc-parts-infused-with-eye-catching-pixel-silicone-customization/"><u>Unveiling the Future of Personal Computing: DeepCool's Fresh Arsenal of Coolers, PSUs, & PC Parts – Infused with Eye-Catching Pixel Silicone Customization</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

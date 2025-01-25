@@ -1,7 +1,7 @@
 ---
 title: "Experience Luxury Tech on Sale: $230 Off the Ultra-Sleek HP 15.6” Laptop - Grab Yours Today @ ZDNET!"
-date: 2025-01-12T19:35:50.439Z
-updated: 2025-01-18T18:41:26.671Z
+date: 2025-01-17T16:08:03.104Z
+updated: 2025-01-24T18:40:19.329Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,22 +138,24 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-videos-to-vibrant-gifs-youtube-conversion-techniques-for-2024/"><u>[New] From Videos to Vibrant GIFs YouTube Conversion Techniques for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-simplified-guide-for-iphones-voice-capture-feature/"><u>[New] Simplified Guide for iPhone's Voice Capture Feature</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-streamlined-multitasking-in-safari-with-pip/"><u>[Updated] 2024 Approved Streamlined Multitasking in Safari with PIP</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-photographic-standouts-with-our-top-10-grid-picks/"><u>2024 Approved Photographic Standouts with Our Top 10 Grid Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-tips-and-reviews-by-tom-leading-hardware-authority/"><u>Advanced Tech Tips & Reviews by Tom - Leading Hardware Authority</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-potential-of-3d-imaging-with-3dmakerpros-mole-a-detailed-assessment-for-tech-enthusiasts/"><u>Explore the Potential of 3D Imaging with 3DMakerPro's Mole - A Detailed Assessment for Tech Enthusiasts.</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/geben-sie-den-schutz-bei-der-backup-losung-in-windows-server-2012-aus/"><u>Geben Sie Den Schutz Bei Der Backup-Lösung in Windows Server 2012 Aus)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimize-your-gaming-with-kinemaster-usage-tips-and-comparisons-with-best-online-games/"><u>In 2024, Optimize Your Gaming with KineMaster Usage Tips & Comparisons with Best Online Games</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-your-new-asus-speakersound-drivers-now/"><u>Install Your New ASUS Speaker/Sound Drivers Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-gaming-gpus-in-2er-2024-maximizing-power-under-budget-constraints/"><u>Leading Gaming GPUs in 2Er 2024: Maximizing Power Under Budget Constraints</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-precision-with-the-xtool-s1-in-depth-look-at-a-superior-laser-cutter-for-hobbyists/"><u>Mastering Precision with the XTool S1: In-Depth Look at a Superior Laser Cutter for Hobbyists</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-technology-with-toms-hardware-wisdom/"><u>Navigate the World of Technology with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-gen-chill-noctua-unveils-massive-cooler-for-nvidias-advanced-grace-hopper-processor/"><u>Next-Gen Chill: Noctua Unveils Massive Cooler for Nvidia's Advanced Grace Hopper Processor</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/oming-dark-pixels-in-online-video-platform-for-2024/"><u>Overcoming Dark Pixels in Online Video Platform for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/premium-choice-of-powered-compact-and-usb-type-c-hubs-for-optimal-connectivity/"><u>Premium Choice of Powered, Compact & USB Type-C Hubs for Optimal Connectivity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175690926-scorching-summer-no-more-invest-in-high-value-air-cooling-for-less-the-thermalight-spirit-phantom-120-se-at-a-sensational-35/"><u>Scorching Summer No More: Invest in High-Value Air Cooling for Less! The Thermalight Spirit Phantom 120 SE at a Sensational $35</u></a></li>
-<li><a href="https://win-able.techidaily.com/star-wars-taming-the-turbulence-of-fighter-collisions-solved-techniques-revealed/"><u>Star Wars: Taming the Turbulence of Fighter Collisions - Solved Techniques Revealed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-best-youtube-thumbnail-size/"><u>[New] 2024 Approved The Best YouTube Thumbnail Size</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-leverage-longer-vids-on-instagram-effectively/"><u>[Updated] In 2024, How to Leverage Longer Vids on Instagram Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2-charge-up-for-adventure-and-cookouts-our-top-e-bike-with-built-in-grill-insight-by-zdnet/"><u>2. Charge Up for Adventure & Cookouts – Our Top E-Bike with Built-In Grill [Insight by ZDNET]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-audio-streams-apple-podcasts-downloading/"><u>2024 Approved Mastering Audio Streams Apple Podcasts Downloading</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-best-13-no-cost-dvd-players-that-work-seamlessly-on-windows-11-systems/"><u>Discover the Best 13 No-Cost DVD Players That Work Seamlessly on Windows 11 Systems!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filmmaking-revolution-15-essential-gopro-luts-revealed-for-2024/"><u>Filmmaking Revolution 15 Essential GoPro LUTs Revealed for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-hot-40i-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Hot 40i</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-suggestions-10-hilarious-concepts-for-quick-quirky-videos/"><u>Silly Suggestions 10 Hilarious Concepts for Quick, Quirky Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-retrieve-lost-emails-from-your-gmail-inbox/"><u>Step-by-Step Guide: Retrieve Lost Emails From Your Gmail Inbox</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/troubleshooting-sudden-facebook-live-hiccups/"><u>Troubleshooting Sudden Facebook Live Hiccups</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-portable-jump-starters-featured-on-zdnet-by-industry-experts/"><u>Ultimate Guide to the Best Portable Jump Starters , Featured on ZDNET by Industry Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-flyer-discounts-save-25-on-flights-with-your-amazon-prime-benefits-insight-from-zdnet/"><u>Unlock Flyer Discounts: Save $25 on Flights with Your Amazon Prime Benefits - Insight From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unpacking-delta-airlines-controversial-move-that-alienated-long-time-supporters-why-did-they-do-it-business-traveller-blog/"><u>Unpacking Delta Airlines’ Controversial Move that Alienated Long-Time Supporters: Why Did They Do It? | Business Traveller Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tech-at-ces-202e-how-lg-is-falling-for-ai-and-launching-revolutionary-products-insights-from-zdnet/"><u>Unveiling the Future of Tech at CES 202E: How LG Is Falling for AI and Launching Revolutionary Products - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-review-of-tesla-vehicles-for-202n-which-model-stands-out-among-s-3-x-and-y/"><u>ZDNet's Comprehensive Review of Tesla Vehicles for 202N: Which Model Stands Out Among S, 3, X, and Y?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-expert-picks-for-the-leading-hybrids-of-2023-a-must-read-guide/"><u>ZDNet's Expert Picks for the Leading Hybrids of 2023 - A Must-Read Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-of-emporia-energy-smart-ev-charger-enhanced-performance-at-an-economical-cost/"><u>ZDNet's In-Depth Analysis of Emporia Energy Smart EV Charger: Enhanced Performance at an Economical Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-of-the-velotrix-nomad-1-e-bike-mastering-varied-landscapes-with-unmatched-comfort/"><u>ZDNet's In-Depth Analysis of the Velotrix Nomad 1 E-Bike: Mastering Varied Landscapes with Unmatched Comfort</u></a></li>
 </ul></div>
 

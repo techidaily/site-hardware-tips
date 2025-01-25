@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Update From Intel on Microcode Patch to Resolve Processor Instability and Crash Issues - Ensures Slight Performance Hit, Exempts Next-Gen Models
-date: 2024-08-19T02:29:22.555Z
-updated: 2024-08-20T02:29:22.555Z
+date: 2025-01-18T00:58:49.603Z
+updated: 2025-01-24T16:43:28.009Z
 tags:
   - components
 categories:
@@ -32,6 +32,10 @@ Best Graphics Card Deals
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lowest Graphics Card Prices by GPU
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://tools.techidaily.com) .
@@ -39,8 +43,9 @@ Best Graphics Card Deals
  We've highlighted our favorite deals below, but if you're trying to find the lowest price on a particular GPU right now, we've got tables below for all the major Nvidia and AMD cards. Each card's performance is listed, using the combined (geometric mean) of the 1080p and 1440p fps from our[GPU benchmarks hierarchy](https://tools.techidaily.com) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Best Nvidia Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -60,9 +65,6 @@ Best Graphics Card Deals
 
  Nvidia's graphics cards — both the new RTX 4090/4080 and the previous generation RTX 30-series — often tend to be overpriced. We've axed the 30-series, as those cards have been displaced by the newer, better, and often cheaper 40-series parts. The[RTX 4070](https://tools.techidaily.com) for instance trades blows with the RTX 3080 10GB, costs at least $100 less, and uses 30% less power; it also supports DLSS 3 Frame Generation and some other new features. Similar arguments can be made for the RTX 4060 Ti against the RTX 3060 Ti, RTX 4070 Ti against the RTX 3090, or the RTX 4080 and 4090 against any previous generation part.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Best AMD Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -80,8 +82,9 @@ Best Graphics Card Deals
  AMD often offers more value for your money, and it has some excellent deals in the budget to midrange bracket. All of AMD's GPUs are selling below their original MSRPs these days, which they should be considering some of the GPUs have been out for a while now. Of course, some of those MSRPs were inflated thanks to the price rises from the GPU shortages of the past.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Best Intel Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -99,8 +102,9 @@ Best Graphics Card Deals
  Performance from Arc GPUs continues to improve, with the A750 and A770 generally beating Nvidia's RTX 3060\. They cost less than the Nvidia card as well, and (usually) deliver superior ray tracing performance compared to AMD's GPUs. But with rasterization performance roughly matching the RX 6650 XT, the Arc 700-series at best looks like a tie with the 6000-series generation AMD competition.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Best Graphics Card Deals
 
 [Gigabyte Nvidia RTX 4090 Windforce V2: now $1,699 at Newegg](https://cdn.mos.cms.futurecdn.net/7sMqa4qSM2JZewLFi9rYpJ-200-100.png "Gigabyte Nvidia RTX 4090 Windforce V2: now $1,699 at Newegg") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-9687795623086258038%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-geforce-rtx-4090-gv-n4090wf3v2-24gd%252Fp%252FN82E16814932625)
@@ -147,8 +151,9 @@ _**Cores/Stream Processors:**_ _3456_
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CHK2345D%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2187404422149171234-20)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What to Look for in a Graphics Card Deal
 
 When shopping for a graphics card, consider the following.
@@ -167,8 +172,6 @@ When shopping for a graphics card, consider the following.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +179,19 @@ When shopping for a graphics card, consider the following.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-instagram-and-soundtracks-demystifying-legalities-for-2024/"><u>[Updated] Instagram & Soundtracks Demystifying Legalities for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-the-social-media-puzzle-decoding-ig-data-for-enhanced-campaigns/"><u>2024 Approved Mastering the Social Media Puzzle Decoding IG Data for Enhanced Campaigns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creating-an-exceptional-starfield-gaming-rig-on-a-budget-less-than-1200-and-sleek-design-insights-from-zdnet/"><u>Creating an Exceptional Starfield Gaming Rig on a Budget: Less than $1,200 & Sleek Design - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-8-best-mirrorless-cameras-for-vlogging/"><u>In 2024, 8 Best Mirrorless Cameras for Vlogging</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-silently-ends-hopes-for-windows-10-lifeline-users-disappointed-zdnet/"><u>Microsoft Silently Ends Hopes for Windows 10 Lifeline, Users Disappointed | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/modern-cellphone-lifespan-finding-the-right-moment-for-an-upgrade/"><u>Modern Cellphone Lifespan: Finding the Right Moment for an Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/securing-your-hands-on-a-modern-raspberry-pi-where-and-how-to-shop-top-alternatives-explored-by-zdnet/"><u>Securing Your Hands on a Modern Raspberry Pi: Where and How to Shop | Top Alternatives Explored by ZDNET</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sound-savings-with-every-step-discovering-the-oneplus-buds/"><u>Sound Savings with Every Step - Discovering the OnePlus Buds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-resetting-video-driver-errors/"><u>Steps to Fix Resetting Video Driver Errors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/struggling-to-locate-the-latest-energy-efficient-updates-in-google-chrome-heres-how-you-can-uncover-them/"><u>Struggling to Locate the Latest Energy-Efficient Updates in Google Chrome? Here's How You Can Uncover Them</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-overlooked-potential-how-google-failed-its-chromecast/"><u>The Overlooked Potential: How Google Failed Its Chromecast</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-x-fold-2-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo X Fold 2? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

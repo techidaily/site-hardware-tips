@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Lenovo ThinkPad Z16 Analysis: Outstanding Performance Hindered by Poor Camera Quality - A Comprehensive Overview"
-date: 2025-01-14T19:20:16.553Z
-updated: 2025-01-18T16:07:26.488Z
+date: 2025-01-21T21:12:06.237Z
+updated: 2025-01-24T22:15:39.421Z
 tags:
   - laptops
 categories:
@@ -45,7 +45,7 @@ Read on to see if this new ThinkPad from Lenovo should be your next laptop.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -62,7 +62,7 @@ Read on to see if this new ThinkPad from Lenovo should be your next laptop.
 | Weight and dimensions | 3.99lb \| 354.4 x 237.4 x 15.8 mm (13.95 x 9.35 x 0.62 inches)                     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build
@@ -98,6 +98,10 @@ The trackpad is completely stationary, using haptic feedback to simulate clicks,
 Michael Gariffo/ZDNET
 
 I was initially disappointed by the new trackpad. By default, the haptic feedback it uses to replace mechanical clicks was very weak, almost undetectable near its edges. Thankfully, once I'd raised the haptic feedback level in the laptop's settings, it improved dramatically, and was hard to discern from mechanical clicks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Features and ports
 
@@ -144,7 +148,7 @@ As mentioned in the video, I've given the webcam the best chance to perform well
 It's still better than most budget-laptops. But, the Z16 is a premium model, and you should expect its camera to rise to that designation. Unfortunately, it didn't. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -199,10 +203,6 @@ If you do need to top up mid-day, the included 135W charger makes quick work of 
 
 [Lenovo ThinkPad Z16 $899 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8NVY2FZ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9d7a11a8-80e2-4a96-95cc-a42fb6ddfa05%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 I opened by noting that the [ThinkPad Z16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21D4001VUS-Notebook-Board%2Fdp%2FB0B8NVY2FZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9d7a11a8-80e2-4a96-95cc-a42fb6ddfa05%7Cdtp&dtb=1) is very much a premium laptop, with the high expectations that designation carries. From the build quality, through the performance, to the battery life, I was consistently impressed. The only negative standout was that pesky webcam. If Lenovo hadn't branded the lid with its specs and created a dedicated "Communications Bar" to house it, I might have shrugged at its mediocre performance. But, if you're going to make something a showpiece of a $2,000ish laptop, it had better be a highlight. It wasn't.
@@ -210,7 +210,7 @@ I opened by noting that the [ThinkPad Z16](https://buy.geni.us/Proxy.ashx?TSID=3
 If you want a do-it-all, desktop replacement notebook that will last just about all day, look no further. There are systems that perform just as well for hundreds of dollars less, but none that offer the same level of wow-inducing build quality or the attention to detail that's made Lenovo's ThinkPad line a favorite of business travelers for 30 years. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -261,22 +261,18 @@ If you want something a bit smaller with the same ultra-premium vibes as Lenovo'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/boost-communication-capabilities-from-skype-to-zoom/"><u>Boost Communication Capabilities From Skype to Zoom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-a-robust-supply-network-the-role-of-intelligent-processes-in-blueprints-expert-advice-from-abbyy-experts/"><u>Building a Robust Supply Network: The Role of Intelligent Processes in Blueprints | Expert Advice From ABBYY Experts</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/delete-a-hard-drive-on-windows-7-without-a-cd-two-methods/"><u>Delete a Hard Drive on Windows 7 Without a CD - Two Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-enhancements-of-windows-10-creators-update-insider-preview-build-1503/"><u>Exploring the Latest Enhancements of Windows 10 Creator's Update (Insider Preview Build 1503)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/hackers-earn-massive-cash-for-critical-chrome-security-issues-score-up-to-250000-learn-more-at-zdnet/"><u>Hackers, Earn Massive Cash for Critical Chrome Security Issues - Score up to $250,000 | Learn More at ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-comprehensive-list-of-ios-compatible-ps2-games/"><u>In 2024, Comprehensive List of iOS-Compatible PS2 Games</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pinnacle-5-image-alteration-apps-iphone-x78-edition/"><u>Pinnacle 5 Image Alteration Apps IPhone X/7/8 Edition</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862755273-samsungs-high-res-5k-ips-screen-with-integrated-cu4k-camera-hits-899-save-44-on-pixel-dense-viewfinity-s9/"><u>Samsung's High-Res 5K IPS Screen with Integrated Cu4k Camera Hits $899 – Save 44% on Pixel-Dense ViewFinity S9</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862757242-score-big-win-on-tech-top-choice-dell-s3222dgm-gaming-screen-hits-record-low-only-229/"><u>Score Big Win on Tech: Top Choice Dell S3222DGM Gaming Screen Hits Record Low - Only $229</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/three-years-later-the-evolution-of-my-iphone-journey-showcased-by-zdnet/"><u>Three Years Later: The Evolution of My iPhone Journey Showcased by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-into-computer-components-t17238628801232/"><u>Tom's Tech Review: In-Depth Insights Into Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-rig-the-newly-released-minisforums-lightweight-laptop-with-a-stunning-156-screen-144hz-refresh-rate-and-ultra-hd-resolution-at-unbelie71/"><u>Transform Your Gaming Rig: The Newly Released Minisforum's Lightweight Laptop with a Stunning 15.6 Screen, 144Hz Refresh Rate & Ultra HD Resolution at Unbelievable Price of $189</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-the-ultimate-gaming-experience-incredible-value-of-innocns-high-definition-27-240hz-ips-monitor-for-199/"><u>Unleash the Ultimate Gaming Experience: Incredible Value of Innocn's High-Definition 27 240Hz IPS Monitor for $199</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-a-look-inside-with-toms-hardware-insights/"><u>Unveiling the Latest Gadgets: A Look Inside with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gaming-affordable-high-performance-the-second-generation-55-inch-samsung-odyssey-monitor-4k-now-available-for-less/"><u>Unveiling the Latest in Gaming: Affordable, High-Performance - The Second Generation 55-Inch Samsung Odyssey Monitor (4K) Now Available for Less</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-hardware-tips-and-reviews-by-toms-experts/"><u>Unveiling the Latest in PC Hardware - Tips and Reviews by Tom's Experts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-guide-screen-capture-on-windows-8-devices/"><u>[New] 2024 Approved Expert Guide Screen Capture on Windows 8 Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-farm-fun-and-fellowship-the-ultimate-agritainment-guide/"><u>[New] In 2024, Farm Fun & Fellowship The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treaming-wars-recap-fb-live-yt-live-and-twitter-spaces/"><u>[New] Streaming Wars Recap FB LIVE, YT Live & Twitter Spaces</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-best-gear-for-stop-motion-special-effects/"><u>[Updated] 2024 Approved Best Gear for Stop Motion Special Effects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-clouds-of-video-editing-best-drones-tools-ranked/"><u>[Updated] Navigating the Clouds of Video Editing Best Drones Tools Ranked</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-optimizing-video-content-with-perfect-youtube-titles-for-2024/"><u>[Updated] Optimizing Video Content with Perfect YouTube Titles for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-deals-await-snag-your-samsung-galaxy-z-foldflip-6-for-up-to-1200-less/"><u>Best Deals Await: Snag Your Samsung Galaxy Z Fold/Flip 6 for Up to $1,200 Less!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-in-watchos-10-transform-your-apple-watch-experience/"><u>Discover the Hidden Gem in WatchOS ([10]: Transform Your Apple Watch Experience!)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-review-the-ultimate-waterproof-headset-combining-supreme-comfort-for-users-zdnet/"><u>Exclusive Review: The Ultimate Waterproof Headset Combining Supreme Comfort for Users | ZDNet</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/navigating-through-fixes-for-error-message-0xc004f213-in-windows-systems/"><u>Navigating Through Fixes for Error Message 0xC004F213 in Windows Systems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-acoustic-detox-the-best-programs-for-minimizing-environmental-audio-interference-for-2024/"><u>New Acoustic Detox The Best Programs for Minimizing Environmental Audio Interference for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-stopped-looking-elsewhere-and-chose-a-pixel-smartwatch-as-the-ultimate-android-companion/"><u>Why I Stopped Looking Elsewhere and Chose a Pixel Smartwatch as the Ultimate Android Companion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-guide-to-garmin-instinct-solar-smartwatch-tough-design-eye-catching-colors-and-long-lasting-performance-suited-for-everyone/"><u>ZDNet's Comprehensive Guide to Garmin Instinct Solar Smartwatch: Tough Design, Eye-Catching Colors, and Long-Lasting Performance Suited for Everyone</u></a></li>
 </ul></div>
 

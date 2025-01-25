@@ -1,7 +1,7 @@
 ---
 title: "Revamped Dell XPS Series: Elevating Portability Meets Cutting-Edge Artificer Intelligence, Retaining Timeless Design | ZDNet"
-date: 2025-01-06T16:19:30.748Z
-updated: 2025-01-13T01:08:20.690Z
+date: 2025-01-17T22:47:28.853Z
+updated: 2025-01-24T23:56:00.091Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,19 +85,14 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-wistia-user-introduction-size-format-duration/"><u>[Updated] 2024 Approved Wistia User Introduction Size, Format, Duration</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-the-potential-of-your-youtube-videos-with-effective-end-screens/"><u>[Updated] Unlock the Potential of Your YouTube Videos with Effective End Screens</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-top-10-tiktok-sensations-spreading-via-tweets/"><u>2024 Approved Top 10 TikTok Sensations Spreading via Tweets</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211443652--anchoring-the-light/"><u>Anchoring the Light | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/evolving-taskbar-in-windows-an-annual-look-back/"><u>Evolving Taskbar in Windows: An Annual Look-Back</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-toms-equipment-evaluations/"><u>Exploring Technology with Tom's Equipment Evaluations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-the-perfect-gamers-companion-gaming-laptops-priced-under-1500/"><u>Find the Perfect Gamer's Companion: Gaming Laptops Priced Under $1,500</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gamers-guide-to-selecting-the-ideal-sound-devices-with-top-microphone-picks/"><u>Gamers' Guide to Selecting the Ideal Sound Devices with Top Microphone Picks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-asus-rog-phone-7-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Asus ROG Phone 7 with Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-at-toms-hardware-lineup-performance-value-and-more/"><u>Inside Look at Tom's Hardware Lineup – Performance, Value & More</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-worlds-premier-3d-printing-expo-the-new-wave-of-printer-tech-showcased-at-rapid-and-tct-2024/"><u>Inside the World's Premier 3D Printing Expo: The New Wave of Printer Tech Showcased at Rapid & TCT 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-compatible-arctic-liquid-nitrogen-iii-modify-cpu-warranties-and-ensure-proper-contact-frames/"><u>Intel-Compatible Arctic Liquid Nitrogen III - Modify CPU Warranties and Ensure Proper Contact Frames</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-solutions-for-when-safari-stops-functioning-on-an-iphone/"><u>Top Solutions for When Safari Stops Functioning on an iPhone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-transitioning-timeless-images-a-tech-savvy-approach-for-2024/"><u>[New] Transitioning Timeless Images A Tech-Savvy Approach for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-audible-mac-visual-record-functionality-for-2024/"><u>[Updated] Audible Mac Visual Record Functionality for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decoding-the-postponed-release-timeline-for-wolcen-lords-of-mayhem/"><u>Decoding the Postponed Release Timeline for Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-airline-lounge-pass-the-top-5-credit-cards-for-premier-airport-experiences-zdnet/"><u>Elite Airline Lounge Pass: The Top 5 Credit Cards for Premier Airport Experiences | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elon-musks-tesla-embraces-apple-airplay-technology-declines-to-support-carplay-in-latest-announcement-autotech-daily/"><u>Elon Musk's Tesla Embraces Apple AirPlay Technology, Declines to Support CarPlay in Latest Announcement | AutoTech Daily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-future-today-with-pre-order-options-for-flying-cars-insights-from-zdnets-latest-feature/"><u>Experience the Future Today with Pre-Order Options for Flying Cars - Insights From ZDNet's Latest Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-car-battery-chargers-find-your-perfect-match-in-the-ultimate-list-of-2024-models-digital-trends/"><u>Expertly Reviewed Car Battery Chargers: Find Your Perfect Match in the Ultimate List of 2024 Models | Digital Trends</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-civi-3-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Civi 3 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic-6-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic 6</u></a></li>
 </ul></div>
 

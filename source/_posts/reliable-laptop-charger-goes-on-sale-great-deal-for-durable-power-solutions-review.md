@@ -1,7 +1,7 @@
 ---
 title: Reliable Laptop Charger Goes on Sale - Great Deal for Durable Power Solutions Review
-date: 2024-12-26T22:11:59.309Z
-updated: 2024-12-27T22:48:27.868Z
+date: 2025-01-21T17:20:58.368Z
+updated: 2025-01-24T23:29:04.545Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ So what does HD stand for? High density. Put simply, Baseus used a different bat
 [ZDNET RECOMMENDS Baseus Blade HD The Baseus Blade HD is an upgraded version of the Blade, and makes use of silicon-carbon lithium polymer battery technology, making it 18% lighter and 20% smaller than the previous version. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Charging-Portable-Charger-20000mAh%2Fdp%2FB0BZP6R4MH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C90fe5b8b-3570-4fc9-8b14-15eef0ba69d2%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Baseus Blade HD tech specs
@@ -102,7 +102,7 @@ Recharge times are also very acceptable, at 1.2 hours when using the included US
 One thing that hasn't changed from the previous incarnation is that every surface of the Blade HD, just like the Blade before it, is a dust magnet, and will pick up and show every bit of dirt that gets on it. But the textured finish is nice in that the power bank isn't slippery like a lot of them are, so it's less likely to fall on the floor or into your laptop's keyboard!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -139,24 +139,22 @@ That aside, the [Baseus Blade HD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-linux-users-guide-best-8-screenshot-apps/"><u>[New] 2024 Approved Linux Users Guide Best 8 Screenshot Apps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-disentangle-focus-from-webcams-surroundings/"><u>[New] Disentangle Focus From Webcam's Surroundings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-revolutionizing-education-through-vr/"><u>[New] Revolutionizing Education Through VR</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-vlc-playback-mastery-secret-tips-and-tricks-revealed/"><u>[New] VLC Playback Mastery Secret Tips and Tricks Revealed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/8-off-shop-the-high-tech-lenovo-led-lightstrip-today-on-zdnets-special-offer/"><u>$8 Off: Shop the High-Tech Lenovo LED Lightstrip Today on ZDNet's Special Offer!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-instagram-video-posts/"><u>2024 Approved Mastering Instagram Video Posts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-streamlining-the-editing-process-elevating-your-youtube-content-with-pc/"><u>2024 Approved Streamlining the Editing Process Elevating Your YouTube Content with PC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/automotive-excellence-premium-car-spoilers-visuals-and-wallpaper-collections-from-yl-software/"><u>Automotive Excellence: Premium Car Spoilers Visuals and Wallpaper Collections From YL Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/brighten-up-your-backyard-right-now-discover-the-enhanced-radiance-of-new-govee-outdoor-lights-in-our-latest-guide-zdnet/"><u>Brighten Up Your Backyard Right Now! Discover the Enhanced Radiance of New Govee Outdoor Lights in Our Latest Guide | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-secure-and-luminous-outdoor-floodlight-systems-of-2024-a-comprehensive-review/"><u>Discover The Most Secure and Luminous Outdoor Floodlight Systems of 2024 - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/economize-with-electronics-grab-an-echo-dot-and-paired-led-smart-bulbs-for-just-45-less-exclusive-offer-gadgetgurureviews/"><u>Economize with Electronics: Grab an Echo Dot & Paired LED Smart Bulbs for Just $45 Less – Exclusive Offer | GadgetGuruReviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-matter-smart-light-strips-by-nanoleaf-open-skylight-preorders-now-available-tech-news-at-zdnet/"><u>Introducing the New Matter Smart Light Strips by Nanoleaf: Open Skylight Preorders Now Available | Tech News at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-kitchen-design-how-these-smart-under-cabinet-lights-add-charm-and-functionality/"><u>Revolutionizing Kitchen Design: How These Smart Under-Cabinet Lights Add Charm and Functionality</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mlit-splendor-hues-and-highlights-technique/"><u>Streamlit Splendor Hues and Highlights Technique</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/538250-9781416583561-the-mindful-child/"><u>The Mindful Child | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-lighting-solutions-for-video-broadcasts-industry-approved-reviews-techinsight/"><u>Top Lighting Solutions for Video Broadcasts: Industry-Approved Reviews | TechInsight</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-stop-code-0x0000001d-what-to-do-when-spin-lock-is-missing/"><u>Troubleshooting Stop Code 0X0000001D - What to Do When Spin Lock Is Missing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-2024-tiktok-lighters-ranking-boost-your-content-quality-on-zdnet/"><u>Ultimate 2024 TikTok Lighters Ranking: Boost Your Content Quality on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-savings-on-customizable-govee-neon-lights-this-labor-day-find-out-how-at-zdnet/"><u>Unlocking Savings on Customizable Govee Neon Lights This Labor Day - Find Out How at ZDNET!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finalcut-pro-101-crafting-professional-youtube-edits/"><u>[New] In 2024, FinalCut Pro 101 Crafting Professional YouTube Edits</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-meetup-event-visual-format-for-2024/"><u>[New] Meetup Event Visual Format for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998201051-solved-dayz-keeps-crashing-quickly-and-easily/"><u>[Solved] DayZ Keeps Crashing | Quickly & Easily!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-diverse-vlogging-content-suggestions-for-2024/"><u>[Updated] Diverse Vlogging Content Suggestions for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unlocked-design-potential-100-free-pp-templates-for-2024/"><u>[Updated] Unlocked Design Potential 100% Free PP Templates for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-ai-powered-video-enhancement-optimize-your-videos-and-images-with-advanced-resizing-stabilization-conversion-editing-and-denoising-techniques/"><u>1. AI-Powered Video Enhancement: Optimize Your Videos and Images with Advanced Resizing, Stabilization, Conversion, Editing, and DeNoising Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/audience-appeal-the-ultimate-guide-to-youtube-video-formats-for-2024/"><u>Audience Appeal The Ultimate Guide to YouTube Video Formats for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-driver-update-for-dell-latitude-e6420-swift-download-options-inside/"><u>Effortless Driver Update for Dell Latitude E6420 – Swift Download Options Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-incompatibility-of-corsair-icue-software-in-windows-11-operating-system/"><u>Fixing the Incompatibility of Corsair iCUE Software in Windows 11 Operating System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-two-locking-mechanisms-for-e-bikes-explained-safety-guide-plus-best-picks-insights-from-zdnet/"><u>Top Two Locking Mechanisms for E-Bikes Explained: Safety Guide + Best Picks | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-dashcams-professional-evaluations-and-suggestions-techreviews/"><u>Top-Rated Dashcams : Professional Evaluations & Suggestions | TechReviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-electric-vehicle-home-charging-stations-for-2n25-industry-experts-picks-techadvisor/"><u>Top-Rated Electric Vehicle Home Charging Stations for 2N25: Industry Experts' Picks | TechAdvisor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-battery-boosters-reviewed-tech-insights-from-zdnet/"><u>Top-Rated Portable Battery Boosters Reviewed - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/us-gains-ground-in-electric-vehicle-tech-a-44-billion-investment-story-zdnet/"><u>U.S. Gains Ground in Electric Vehicle Tech: A $4.4 Billion Investment Story | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-unknown-challenge-facing-southwest-airlines-are-you-informed-as-a-traveler/"><u>Unveiling the Unknown Challenge Facing Southwest Airlines – Are You Informed as a Traveler?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/warning-signal-southwest-airlines-crew-shares-startling-insights-on-current-crisis-for-customers-zdnet-report/"><u>Warning Signal: Southwest Airlines Crew Shares Startling Insights on Current Crisis for Customers | ZDNet Report</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-ownership-eludes-me-for-my-dream-electric-rides-the-hyundai-ioniq-5-and-kia-ev6/"><u>Why Ownership Eludes Me for My Dream Electric Rides - The Hyundai Ioniq 5 & Kia EV6</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet"
-date: 2025-01-11T18:49:57.534Z
-updated: 2025-01-18T18:10:11.863Z
+date: 2025-01-18T17:44:20.345Z
+updated: 2025-01-24T19:42:52.010Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,16 +134,17 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-block-spontaneous-youtube-video-triggers/"><u>[Updated] 2024 Approved Block Spontaneous YouTube Video Triggers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-achieve-side-by-side-viewing-on-chrome-the-pip-method/"><u>2024 Approved Achieve Side-by-Side Viewing on Chrome The PIP Method</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/adjustable-team-group-ddr5-memory-modules-with-enhanced-performance/"><u>Adjustable Team Group DDR5 Memory Modules with Enhanced Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bogus-msi-pedals-packed-with-malware-risks-involved-in-compromised-burnout-software/"><u>Bogus MSI Pedals Packed With Malware; Risks Involved in Compromised Burnout Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-performance-selecting-an-ideal-motherboard-for-overclocking-intel-skylake-cpus/"><u>Boost Performance: Selecting an Ideal Motherboard for Overclocking Intel Skylake CPUs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-boosting-viewership-a-guide-to-captivating-haul-content/"><u>In 2024, Boosting Viewership A Guide to Captivating Haul Content</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-6-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 6? Heres the Best Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-c55-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme C55 Phone?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210431602-9781957234984-intuitive-moon-rituals/"><u>Intuitive Moon Rituals | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-advanced-hardware-components/"><u>Tom's Tech Insights: Exploring Advanced Hardware Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723964463953-unleashing-the-power-of-legacy-the-remarkable-journey-of-a-vintage-14-year-old-celeron-d-347-overclocked-to-an-astounding-837ghz/"><u>Unleashing the Power of Legacy: The Remarkable Journey of a Vintage 14-Year-Old Celeron D 347, Overclocked to an Astounding 8.37Ghz!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-capture-clarity-with-leading-photo-gridding-services-for-2024/"><u>[New] Capture Clarity with Leading Photo Gridding Services for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-leveraging-filmora-insights-for-every-content-creator-for-2024/"><u>[New] Leveraging Filmora Insights for Every Content Creator for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aking-money-with-media-mastery-of-merchandise-musings/"><u>[New] Making Money with Media Mastery of Merchandise Musings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultimate-guide-top-6-cutting-edge-21-hdmi-portable-displays-for-2024/"><u>[New] Ultimate Guide Top 6 Cutting-Edge 2.1 HDMI Portable Displays for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-ecoflow-portable-generator-saved-my-household-throughout-severe-power-cuts-a-first-hand-experience/"><u>How the EcoFlow Portable Generator Saved My Household Throughout Severe Power Cuts: A First-Hand Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-usage-based-car-insurance-adjusts-premiums-with-real-time-driving-data/"><u>How Usage-Based Car Insurance Adjusts Premiums with Real-Time Driving Data</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-usage-based-car-insurance-adjusts-rates-with-telematics-data-explore-in-detail-at-zdnet/"><u>How Usage-Based Car Insurance Adjusts Rates with Telematics Data | Explore in Detail at ZDNET</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-capturing-the-essence-of-facetime-on-facebook/"><u>In 2024, Capturing the Essence of FaceTime on Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/initiating-change-corporate-strategies-at-the-intersection-of-technology-and-environmental-responsibility-techcrunch/"><u>Initiating Change: Corporate Strategies at the Intersection of Technology & Environmental Responsibility | TechCrunch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-eco-friendly-audio-creating-high-quality-speakers-from-ocean-recovered-plastic-the-manufacturing-process/"><u>Innovative Eco-Friendly Audio: Creating High-Quality Speakers From Ocean-Recovered Plastic - The Manufacturing Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-breakdown-of-rich-communication-services-rcs/"><u>The Comprehensive Breakdown of Rich Communication Services (RCS)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-and-battery-health-unveiling-the-secrets-of-system-reports/"><u>Windows 11 and Battery Health: Unveiling the Secrets of System Reports</u></a></li>
 </ul></div>
 

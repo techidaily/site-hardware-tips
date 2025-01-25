@@ -1,7 +1,7 @@
 ---
 title: Airbus & European Space Agency Collaborate on a New Era of Space Manufacturing with ISS's Metal 3D Printer
-date: 2024-08-19T03:50:38.603Z
-updated: 2024-08-20T03:50:38.603Z
+date: 2025-01-21T17:03:47.909Z
+updated: 2025-01-24T19:07:39.716Z
 tags:
   - printer
 categories:
@@ -31,6 +31,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
  He also said that Thangs.com is open to inviting more celebrity designers to the community in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +53,10 @@ _Paul Powers, Thangs.com CEO with Felicia Day at MegaCon._  (Image credit: Paul 
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/kQjJoCR4jhsM2WzxyBSmxa-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Thangs.com)
 
  Day said she loves to create in any format, from acting and writing to producing and web design. Though she’d like to learn how to design models herself, she thought it was important to work with professionals in order to offer polished pieces for the subscription service.
@@ -59,6 +67,10 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/6Yw5GFhPcYNCBrgTPZXFJc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Mother’s Day Axotl_](https://thangs.com/designer/FeliciaDay3D/3d-model/Mother%27s%20Day%20Axotl%20-%20JOIN%20OUR%20LIVESTREAM%20ON%20FRIDAY%21-1060206) _by Felicia Day and Mimetics 3D_  (Image credit: Tom's Hardware)
 
  Her Thangs Membership offers a[mix of projects types](https://thangs.com/designer/FeliciaDay3D) to appeal to both beginners and advanced makers. She started with tabletop minis of characters from her web series,[The Guild](https://watchtheguild.com/) , two printable necklaces and a party hat wearing toy spider aptly named “Webmaster Fred.” Day is offering a typical membership that starts at $10 a month, with a $40 commercial tier. Free models are offered on a limited time basis. For example there’s a Mother’s Day Axotl flexi with heart shaped fins, designed by 3D Mimetics.
@@ -67,18 +79,19 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
 
 ![Thangs 3D Printing](https://cdn.mos.cms.futurecdn.net/3r6WdwrthZF58gC4i5ry8c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Felicia Day’s Codex_](https://thangs.com/designer/FeliciaDay3D/3d-model/Codex%20from%20%22The%20Guild%22-1052574) _character by Moonlight Minis and a friendly_ [_spider toy by Mimetics 3D_](https://thangs.com/designer/FeliciaDay3D/3d-model/Articulated%20Toy%20Spider-1052521) _._  (Image credit: Thangs.com)
 
  “We have tons of new designs planned for the future, focusing on the categories of Jewelry and Cosplay, Tabletop Accessories and Minis, and Kid Stuff. The collaborative process has been incredibly rewarding, and I am so excited for all the models to come.” She said her Discord followers will also get to help decide what models are made next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +100,24 @@ _Felicia Day unboxing a Bambu Lab X-1 Carbon live on Twitch._  (Image credit: Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-color-gradings-secret-weapon-learning-about-luts/"><u>[Updated] 2024 Approved Color Grading's Secret Weapon Learning About LUTs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-critical-platforms-offering-twitter-like-interaction/"><u>[Updated] Critical Platforms Offering Twitter-Like Interaction</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-into-the-next-era-with-2023s-enhanced-samsung-k850u/"><u>[Updated] Into The Next Era with 2023'S Enhanced Samsung K850U</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-your-experience-free-screen-capture-software-on-windowsmac-for-2024/"><u>[Updated] Streamline Your Experience - Free Screen Capture Software on Windows/Mac for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-toms-hardware-reviews-and-insights-online/"><u>Discover Tom's Hardware Reviews and Insights Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-hassle-free-pc-cooling-the-upcoming-tim-applying-solution-by-x-apply-no-more-mistakes-guaranteed/"><u>Experience Hassle-Free PC Cooling: The Upcoming TIM Applying Solution by X-Apply – No More Mistakes Guaranteed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-and-analysis-on-cutting-edge-electronics-toms-hardware-experts/"><u>Expert Advice and Analysis on Cutting-Edge Electronics - Tom's Hardware Experts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/following-review-creative-options-for-2024/"><u>Following Review Creative Options for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/groundbreaking-tools-to-create-instagram-grids-that-wow-for-2024/"><u>Groundbreaking Tools to Create Instagram Grids That Wow for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-facebook-viewership-with-obs-broadcasts/"><u>In 2024, Enhancing Facebook Viewership with OBS Broadcasts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a25-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy A25 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-guidance/"><u>Navigating the World of Gadgets with Tom's Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-critiques-from-toms-authority-hub/"><u>Pioneering Hardware Critiques From Tom's Authority Hub</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210504139-9781787139367-the-crystal-year/"><u>The Crystal Year | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-corner-dive-into-latest-gadgets-and-hardware-reviews/"><u>Tom's Tech Corner: Dive Into Latest Gadgets and Hardware Reviews!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-enclosures-of-2024-a-comprehensive-guide/"><u>Top Raspberry Pi Enclosures of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-with-tom-a-comprehensive-guide-to-new-hardware/"><u>Unveiling Gadgets with Tom: A Comprehensive Guide to New Hardware</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->

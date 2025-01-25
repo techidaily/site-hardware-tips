@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights From Tom's Gadget Guide: Navigating the Newest PC Technologies"
-date: 2024-08-19T02:30:47.356Z
-updated: 2024-08-20T02:30:47.356Z
+date: 2025-01-19T23:11:27.360Z
+updated: 2025-01-25T00:45:01.611Z
 tags:
   - cases
 categories:
@@ -57,19 +57,28 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  So, about the Terra's adjustable spine: In order to make the absolute best possible use of the case's scant 6.02-inch width, a single piece of metal is where you'll mount the Mini-ITX motherboard, on one side, and your graphics card on the other (a PCIe 4 riser cable comes pre-installed). And by loosening two screws on the top and two on the bottom (easy to spot as they sit atop orange plastic spacers), you can move that spine to one of seven different evenly spaced positions to give you more room on the CPU and PSU side, or more room on the graphics card side.
 
  This "sandwich style" setup offers extra diversity in terms of what components you can install, but at the same time, the wiggle room is pretty limited. You can move the spine about 1.5 inches one way or the other, even with parts attached and, again, the case's total width is just over 6 inches. I have to wonder why, particularly in today's world of three-slot-plus GPUs, Fractal didn't just make the case a couple of inches wider – and maybe one or two taller – to accommodate more fan mounting options and better CPU cooling.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Build Experience With the Fractal Design Terra
 
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -82,27 +91,19 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -112,9 +113,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Next, I spun the case around and installed my GPU. For this build, I used an old Gigabyte RTX 2060 Super. I could have installed something thicker and a couple of inches longer here, but the Gigabyte card wasn't currently in another system, my Zotac GTX 1080 Ti was borderline too thick (and too old), and the Colorful RTX 4090 in my main system is too long, at over 13 inches. I'd say in most instances, you should expect to fit most 4070-class cards in this case – as long as it's not one of the crazy thick overbuild models. Higher-end Nvida FE cards should also fit, but then you're going to need a larger SFX-L power supply, and I don't feel great about all that heat-generating hardware going into a cramped case with, at best, a single intake fan. Again, Fractal could have made this case just a little bigger to accommodate more powerful cards. But as it is, it's probably good that you can't quite fit the most powerful, most overclocked cards in this case, no matter how vented all the panels are.
@@ -132,8 +130,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -142,9 +141,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  All in all, the Fractal Terra is a striking and mostly well-thought-out Mini-ITX case. I doubt it will have as wide an appeal as its larger North cousin since component and airflow options are far more limiting here. But if you don't need to pack in the absolute most powerful components (particularly on the CPU side) and you don't need more than a few storage drives, Fractal has once again delivered one of the prettiest cases available – especially if you want a respite from the RGB and aggressive designs that dominate the gaming side of the PC realm.
@@ -159,8 +155,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +162,26 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-through-eyes-unseen-an-essential-vr-chronology/"><u>[New] 2024 Approved Through Eyes Unseen An Essential VR Chronology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-innovative-techniques-and-tips-for-high-quality-screen-recording-in-adobe-captivity/"><u>[New] In 2024, Innovative Techniques & Tips for High-Quality Screen Recording in Adobe Captivity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-behind-the-scenes-expert-techniques-for-video-magic/"><u>[Updated] 2024 Approved Behind the Scenes Expert Techniques for Video Magic</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-9-free-youtube-channel-branding-solutions/"><u>2024 Approved Ultimate 9 Free YouTube Channel Branding Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/canons-economical-wireless-inkjet-printer-for-just-49-revealed-by-zdnet/"><u>Canon's Economical Wireless Inkjet Printer for Just $49, Revealed by ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-the-future-of-work-with-hps-integrated-solutions-for-hybrid-office-environments/"><u>Embracing the Future of Work with HP's Integrated Solutions for Hybrid Office Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/examining-disparities-in-file-types-exe-vs-msi/"><u>Examining Disparities in File Types: Exe vs Msi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/frame-your-shot-ultimate-software-guide-image-editors/"><u>Frame Your Shot Ultimate Software Guide Image Editors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/friendly-competition-playing-pokemon-go-together-for-maximum-fun-and-success/"><u>Friendly Competition: Playing 'Pokémon Go' Together for Maximum Fun and Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-novice-to-expert-integrating-chatgpt-with-excel-for-hassle-free-data-management/"><u>From Novice to Expert: Integrating ChatGPT with Excel for Hassle-Free Data Management</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-addressing-and-correcting-kernel-check-errors-on-windows-11-systems/"><u>Guide: Addressing and Correcting Kernel Check Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/healthcare-sectors-surge-drives-3d-systems-impressive-q1-performance-a-look-at-the-impact-of-medical-3d-printing/"><u>Healthcare Sector's Surge Drives 3D Systems' Impressive Q1 Performance: A Look at the Impact of Medical 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-increased-demand-for-health-related-applications-fuels-3d-systems-solid-first-quarter-results-insights-from-zdnet-analysis/"><u>How Increased Demand for Health-Related Applications Fuels 3D Systems' Solid First Quarter Results - Insights From ZDNET Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-delivers-exceptional-q4-earnings-with-bright-prospects-for-q1-insights-from-zdnet/"><u>HP Delivers Exceptional Q4 Earnings with Bright Prospects for Q1 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hps-q4-performance-exceeds-expectations-with-enhanced-q1-forecast-techworld/"><u>HP's Q4 Performance Exceeds Expectations with Enhanced Q1 Forecast | TechWorld</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-transition-to-hybrid-workflows-leveraging-hps-print-hardware-and-service-offerings/"><u>Seamless Transition to Hybrid Workflows: Leveraging HP's Print, Hardware & Service Offerings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-professional-grade-photo-printers-expert-reviews-by-zdnet/"><u>Top 5 Professional-Grade Photo Printers : Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-epsons-decision-to-exit-the-laser-printer-market-a-detailed-analysis-zdnet/"><u>Understanding Epson's Decision to Exit the Laser Printer Market - A Detailed Analysis [ZDNet]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/m4aaiff-ai-movavi/"><u>영구성 M4A/AIFF 플라이어링을위한 온라인 AI-기반 변환 서비스: 무세액 제공으로 Movavi</u></a></li>
+</ul></div>
 

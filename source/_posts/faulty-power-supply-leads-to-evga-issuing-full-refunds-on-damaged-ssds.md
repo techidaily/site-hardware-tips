@@ -1,7 +1,7 @@
 ---
 title: Faulty Power Supply Leads to EVGA Issuing Full Refunds on Damaged SSDs
-date: 2024-08-19T02:27:08.713Z
-updated: 2024-08-20T02:27:08.713Z
+date: 2025-01-20T01:12:39.458Z
+updated: 2025-01-25T01:04:40.000Z
 tags:
   - power-supply
 categories:
@@ -21,6 +21,10 @@ Today's deals focus on the container for your favorite PC parts. If you're looki
 
 See more of Friday's Real Deals below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TL;DR — Today’s Best Deals
 
 * **Lian Li Lancool 215 Mid-Tower Case:** [**now $89 at B&H**](https://www.bhphotovideo.com/c/product/1616837-REG/lian%5Fli%5Flancool%5F215%5Fx%5Fblack%5Flancool%5F215%5Fx%5Fgaming.html?BI=20811&KBID=16572&SID=tomshardware-us-1549855989631705881) **(was $150)**
@@ -28,6 +32,10 @@ See more of Friday's Real Deals below.
 * **Elgato Stream Deck:** [**now $99 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB06XKNZT1P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1065223293966699533-20) **(was $149)**
 * **ASUS ROG Thor 1000W PSU:** [**now $194 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09SGQ9PPC%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1088334992790324728-20) **(was $359)**
 * **Gigabyte B650M Aorus Elite AX:** [**now $189 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-6379358999680672387%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413) **with rebate (was $199)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -66,9 +74,6 @@ See more of Friday's Real Deals below.
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -76,8 +81,9 @@ Category
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
  Back to Everything
@@ -87,9 +93,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Elgato
 
  GIGABYTE
@@ -102,9 +108,6 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Black
 
  White
@@ -114,17 +117,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 40 deals
@@ -133,10 +128,6 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -295,8 +286,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -304,4 +293,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-playtime-perfection-the-kiddo-gamer-guide/"><u>[New] In 2024, Playtime Perfection The Kiddo Gamer Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-audio-and-visual-quality-in-youtube-videos/"><u>[New] Mastering Audio & Visual Quality in YouTube Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/webmxfavi/"><u>無償WEB版MXFファイルからAVIに容易に切り替え: モバヴェのユーティリティーガイド</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-6s-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 6s Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-efficiently-shifting-videos-youtube-to-dailymotion-strategy/"><u>In 2024, Efficiently Shifting Videos YouTube to Dailymotion Strategy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-top-10-jpg-to-gif-converters-online-free/"><u>In 2024, Top 10 JPG to GIF Converters Online Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-matrix-universe-how-to-watch-all-movies-in-their-original-release-order/"><u>Master the Matrix Universe: How To Watch All Movies In Their Original Release Order</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/mocking-sponge-bob-meme-generator/"><u>Mocking Sponge Bob Meme Generator</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sony-dsc-w800-dissection-where-excellence-and-economy-intersect/"><u>Sony DSC-W800 Dissection: Where Excellence and Economy Intersect</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-strategies-for-boosting-your-ring-doorbell-usage-a-personal-expert-tips-list/"><u>Top Strategies for Boosting Your Ring Doorbell Usage - A Personal Expert Tips List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transitioning-from-43-to-169-screens-impacts-on-productivity-and-daily-routines/"><u>Transitioning From 4:3 to 16:9 Screens: Impacts on Productivity & Daily Routines</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-ugreen-300w-power-bank-features-and-performance-review-for-your-on-the-go-charging-needs/"><u>Ultimate Guide to the Ugreen 300W Power Bank: Features and Performance Review for Your On-the-Go Charging Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargains-on-technology-explore-the-best-offers-including-lgs-flex-oled-google-pixel-7-pro-and-dji-mini-3-drone/"><u>Unbeatable Bargains on Technology: Explore the Best Offers Including LG's Flex OLED, Google Pixel 7 Pro & DJI Mini 3 Drone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-prime-day-deals-my-top-pick-headphones-now-at-a-steal/"><u>Unbeatable Prime Day Deals: My Top-Pick Headphones Now at a Steal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-lenovos-latest-innovation-a-revolutionary-tablet-focused-on-core-performance/"><u>Unveiling Lenovo's Latest Innovation: A Revolutionary Tablet Focused on Core Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-prefer-classic-over-modern-gaming-insights-into-my-choice/"><u>Why I Prefer Classic Over Modern Gaming – Insights Into My Choice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-moving-onto-spatial-sound-is-the-next-level-upgrade-for-any-music-lover-after-stereo-systems/"><u>Why Moving Onto Spatial Sound Is the Next Level Upgrade for Any Music Lover After Stereo Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-you-should-consider-getting-an-apple-watch-proven-benefits-explained-by-wearable-specialists/"><u>Why You Should Consider Getting an Apple Watch? Proven Benefits Explained by Wearable Specialists.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-your-smart-home-needs-a-detailed-activity-record-benefits-and-necessity-of-incorporating-logs/"><u>Why Your Smart Home Needs a Detailed Activity Record: Benefits and Necessity of Incorporating Logs</u></a></li>
+</ul></div>
 

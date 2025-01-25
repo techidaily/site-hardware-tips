@@ -1,7 +1,7 @@
 ---
 title: Why and How to Customize Your Chromebook's DNS Servers for Enhanced Online Security - Expert Tips
-date: 2025-01-17T18:18:36.418Z
-updated: 2025-01-18T17:18:09.004Z
+date: 2025-01-22T21:11:45.315Z
+updated: 2025-01-24T17:47:49.432Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,24 +120,18 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship-for-2024/"><u>[New] Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-security-victory-making-your-fb-available-again-for-2024/"><u>[New] Security Victory Making Your FB Available Again for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-15-pro-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 15 Pro Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bambus-a1-printer-refund-surprise-faultless-units-shipped-out-by-error-via-tiktok-to-unwitting-customers/"><u>Bambu's A1 Printer Refund Surprise: Faultless Units Shipped Out by Error via TikTok to Unwitting Customers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-diy-animatable-wireless-charging-pad-shaped-like-a-3d-printer-under-50-by-bambu-labs/"><u>Budget-Friendly DIY Animatable Wireless Charging Pad Shaped Like a 3D Printer - Under $50 by Bambu Labs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ou-respect-intellectual-property-while-screenrecording-youtube-for-2024/"><u>Can You Respect Intellectual Property While ScreenRecording YouTube for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-advancements/"><u>Exploring Tom's Tech Advancements</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/huge-savings-on-apple-airpods-grab-them-at-a-40-discount-before-independence-day-insights-from-zdnet/"><u>Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-premier-platforms-to-rework-classic-ps3-titles/"><u>In 2024, Premier Platforms to Rework Classic PS3 Titles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-guides-from-toms-digital-workshop/"><u>In-Depth Hardware Guides From Tom's Digital Workshop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-space-grade-metal-3d-printer-from-airbus-and-esa-to-launch-at-iss/"><u>Innovative Space-Grade Metal 3D Printer From Airbus & ESA to Launch at ISS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-electronics-with-toms-detailed-hardware-explorations/"><u>Mastering Electronics with Tom's Detailed Hardware Explorations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximizing-your-builds-with-corsairs-icue-link-h1-h150i-rgb-a-comprehensive-review/"><u>Maximizing Your Builds with Corsair's iCUE Link H1 🖤H150i RGB - A Comprehensive Review</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-virtual-webcams-and-live-cam-software-discover-manycam/"><u>Top Virtual Webcams and Live Cam Software: Discover ManyCam</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tier-performance-unveiling-the-ultimate-selection-of-gaming-routers/"><u>Top-Tier Performance: Unveiling the Ultimate Selection of Gaming Routers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-with-toms-insights/"><u>Unveiling the Latest in Computer Hardware with Tom's Insights</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/warriors-way-selecting-superior-hand-to-hand-titles-for-2024/"><u>Warrior's Way Selecting Superior Hand-to-Hand Titles for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-8-enhancement-packs-for-live-video-feeds/"><u>2024 Approved Ultimate 8 Enhancement Packs for Live Video Feeds</u></a></li>
+<li><a href="https://win11.techidaily.com/5-must-have-windows-software-for-mac-refugees/"><u>5 Must-Have Windows Software for Mac Refugees</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-optimizing-your-imovie-content-for-vimeo-display/"><u>In 2024, Optimizing Your iMovie Content for Vimeo Display</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/pros-and-cons-of-applecareplus-a-cost-benefit-analysis/"><u>Pros and Cons of AppleCare+ – A Cost-Benefit Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-southwest-airlines-reward-credit-cards-comprehensive-review-by-zdnet/"><u>Top 5 Southwest Airlines Reward Credit Cards - Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshoot-your-cars-error-codes-using-our-latest-bluetooth-scanner-device-expert-reviews/"><u>Troubleshoot Your Car's Error Codes Using Our Latest Bluetooth Scanner Device | Expert Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-commuter-e-bike-heybike-cityrun-features-and-reviews-unveiled/"><u>Ultimate Guide to Choosing the Best Commuter E-Bike: Heybike Cityrun Features and Reviews Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-airfare-bargains-save-up-to-94-on-flights-through-dollar-flight-clubs-hot-sale-event-zdnet-newsletter/"><u>Unbelievable Airfare Bargains: Save up to 94% on Flights Through Dollar Flight Club's Hot Sale Event | ZDNET Newsletter.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-bargain-save-big-with-huffys-oslo-folding-e-bike-enjoy-an-incredible-70-off-today-only/"><u>Unmissable Bargain: Save Big with Huffy's Oslo Folding E-Bike - Enjoy an Incredible 70% Off Today Only!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-ai-influencer/"><u>Updated In 2024, What Is AI Influencer?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/your-guide-to-secure-online-transactions-at-fb-marketplace/"><u>Your Guide to Secure Online Transactions at FB Marketplace</u></a></li>
 </ul></div>
 

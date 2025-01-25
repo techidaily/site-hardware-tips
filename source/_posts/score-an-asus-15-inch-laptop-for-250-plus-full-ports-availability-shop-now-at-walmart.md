@@ -1,7 +1,7 @@
 ---
 title: Score an Asus 15-Inch Laptop for $250 + Full Ports Availability | Shop Now at Walmart
-date: 2025-01-13T17:27:49.030Z
-updated: 2025-01-18T16:43:58.855Z
+date: 2025-01-22T22:52:46.823Z
+updated: 2025-01-24T22:52:27.382Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,14 +87,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-tailoring-your-content-to-perfection-youtube-edits-in-sony-vegas-style/"><u>[Updated] 2024 Approved Tailoring Your Content to Perfection YouTube Edits in Sony Vegas Style</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-5-hdmi-21-gaming-monitors-you-can-find/"><u>[Updated] In 2024, Top 5 HDMI 2.1 Gaming Monitors You Can Find</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-adobe-lightroom-essentials-review/"><u>2024 Approved Adobe Lightroom Essentials Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/assembling-an-impressive-robust-desktop-a-fusion-of-disco-pixel-pc-and-inwins-compact-309-chassis/"><u>Assembling an Impressive, Robust Desktop: A Fusion of Disco Pixel PC and InWin’s Compact 309 Chassis</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-motorola-moto-g23-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Motorola Moto G23 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-expert-guide-to-pc-components-by-toms-technology-insights/"><u>The Expert Guide to PC Components by Tom's Technology Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-analysis-in-depth-tutorials-and-testing/"><u>Tom's Computer Components Analysis: In-Depth Tutorials & Testing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-guides-on-computers-and-gadgets/"><u>Tom's Tech Hub: Expert Guides on Computers and Gadgets</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/uncover-the-leaders-1-6-in-global-short-video-clips-for-2024/"><u>Uncover the Leaders #1-#6 in Global Short Video Clips for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-transforming-videos-through-skillful-narration-techniques/"><u>[New] In 2024, Transforming Videos Through Skillful Narration Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streaming-success-capturing-dota-2s-epic-battles-2enas-for-2024/"><u>[New] Streaming Success Capturing Dota 2'S Epic Battles (2Enas) for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-uber-introduces-innovative-carbon-footprint-monitor-track-your-co2-savings-on-every-ride-the-latest-update-from-tech-world/"><u>1. Uber Introduces Innovative Carbon Footprint Monitor: Track Your CO2 Savings on Every Ride - The Latest Update From Tech World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unveiling-green-technology-challenges-strategies-for-securing-additional-support/"><u>1. Unveiling Green Technology Challenges: Strategies for Securing Additional Support</u></a></li>
+<li><a href="https://extra-information.techidaily.com/anonymizing-faces-a-compendium-of-photographic-shielders-for-2024/"><u>Anonymizing Faces A Compendium of Photographic Shielders for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-activity-inspection-guide/"><u>Complete Activity Inspection Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guia-paso-a-paso-para-reducir-el-tamano-del-archivo-de-videos-en-alta-definicion-desde-4k-hasta-full-hd-en-pcs-con-windows-y-sistemas-apple-mac/"><u>Guía Paso a Paso Para Reducir El Tamaño Del Archivo De Vídeos en Alta Definición Desde 4K Hasta Full HD en PCs Con Windows Y Sistemas Apple Mac</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-googles-take-on-ar-stickers-an-overview-and-beyond/"><u>In 2024, Google's Take on AR Stickers An Overview & Beyond</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximize-your-visuals-on-zoom-the-definitive-guide/"><u>Maximize Your Visuals on Zoom – The Definitive Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/resetting-your-eeepc-computer-to-factory-settings-a-comprehensive-guide/"><u>Resetting Your Eeepc Computer to Factory Settings - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-playback-lags-in-obs-advanced-strategies-for-stable-recording-and-streaming/"><u>Resolving Playback Lags in OBS: Advanced Strategies for Stable Recording and Streaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tech-ceos-create-sustainableitorg-platform-for-combating-climate-crisis-detailed-analysis-by-zdnet/"><u>Top Tech CEOs Create SustainableIT.org Platform for Combating Climate Crisis | Detailed Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-your-remote-workspace-with-the-perfect-indoor-greens-the-ultimate-selection-for-home-offices-gadgetflow/"><u>Transforming Your Remote Workspace with the Perfect Indoor Greens: The Ultimate Selection for Home Offices | GadgetFlow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transitioning-to-fresh-tech-maximizing-value-from-your-previous-smartphone/"><u>Transitioning To Fresh Tech: Maximizing Value From Your Previous Smartphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-top-portable-solar-energy-devices-cnet/"><u>Ultimate Guide: Top Portable Solar Energy Devices | CNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-your-right-to-fix-devices-importance-and-impacts-explained/"><u>Understanding Your Right to Fix Devices: Importance & Impacts Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-unparalleled-productivity-in-depth-examination-of-the-zendure-superbase-pro-n-2000-on-zdnet/"><u>Unleash Unparalleled Productivity - In-Depth Examination of the Zendure SuperBase Pro N 2000 on ZDNet!</u></a></li>
 </ul></div>
 

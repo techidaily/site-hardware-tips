@@ -1,7 +1,7 @@
 ---
 title: Discover Tom's Expertise in Electronics with Tom's Hardware Reviews
-date: 2024-08-19T02:29:24.886Z
-updated: 2024-08-20T02:29:24.886Z
+date: 2025-01-20T16:48:35.307Z
+updated: 2025-01-25T02:14:06.950Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,24 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-detailed-examination-of-mycam-for-smart-home-setups/"><u>[New] A Detailed Examination of MyCam for Smart Home Setups</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-bridging-music-and-image-in-the-web-for-2024/"><u>[New] Bridging Music & Image in the Web for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-harnessing-the-power-of-auto-transcribe-for-enhanced-office-productivity-in-ms-word/"><u>[Updated] 2024 Approved Harnessing the Power of Auto-Transcribe for Enhanced Office Productivity in MS Word</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ensuring-clear-audio-in-remote-recording/"><u>[Updated] Ensuring Clear Audio in Remote Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-art-of-interaction-in-online-google-meet-spaces-for-2024/"><u>[Updated] The Art of Interaction in Online Google Meet Spaces for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlock-efficiency-screen-recording-on-mac-via-keyboard-shortcuts/"><u>[Updated] Unlock Efficiency Screen Recording on Mac via Keyboard Shortcuts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/520-hp-victus-gaming-laptop-deal-alert-save-up-to-40-off-in-latest-blowout-exclusive-zdnet-coverage/"><u>$520 HP Victus Gaming Laptop Deal Alert! Save Up to 40% Off in Latest Blowout | Exclusive ZDNET Coverage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/defy-the-odds-successful-windows-11-installation-on-vintage-pcs-against-microsofts-advice-zdnet-insights/"><u>Defy the Odds: Successful Windows 11 Installation on Vintage PCs Against Microsoft's Advice | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-costco-cyber-week-deals-revealed-save-big-on-high-quality-tvs-computers-and-tablet-offers-in-our-top-38-picks/"><u>Exclusive Costco Cyber Week Deals Revealed: Save Big on High-Quality TVs, Computers & Tablet Offers in Our Top 38 Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-get-your-rtx-ebox-3070-at-a-220-discount-today-with-zdnet-dont-miss-out/"><u>Exclusive Deal Alert! Get Your RTX Ebox 3070 at a $220 Discount Today with ZDNET - Don't Miss Out!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-the-ultimate-list-of-mechanical-keyboards-zdnets-selection/"><u>Expertly Reviewed: The Ultimate List of Mechanical Keyboards | ZDNet's Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/free-windows-11-upgrade-no-longer-available-whats-next/"><u>Free Windows 11 Upgrade No Longer Available: What's Next?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-voice-change-blueprint-using-morphvox/"><u>In 2024, The Complete Voice Change Blueprint Using MorphVOX</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-chromeos-flex-installation-a-30-minute-tutorial-by-zdnet-experts/"><u>Mastering ChromeOS Flex Installation: A 30-Minute Tutorial by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-latest-release-the-odyssey-neo-priced-at-1300-now-available-on-amazon/"><u>Samsung's Latest Release: The Odyssey Neo Priced at $1,300 Now Available on Amazon</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/the-top-10-insights-exclusive-to-professional-djs-discover-the-secrets-with-pcdj/"><u>The Top 10 Insights Exclusive to Professional DJs - Discover the Secrets with PCDJ</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->

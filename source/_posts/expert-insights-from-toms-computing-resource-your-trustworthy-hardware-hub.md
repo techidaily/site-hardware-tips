@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights From Tom’s Computing Resource: Your Trustworthy Hardware Hub"
-date: 2024-08-19T02:28:47.347Z
-updated: 2024-08-20T02:28:47.347Z
+date: 2025-01-20T20:24:42.926Z
+updated: 2025-01-25T01:16:21.467Z
 tags:
   - peripherals
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
  The Retro 18 is the perfect companion to the 8BitDo Retro Mechanical Keyboards, with their available colorways and aesthetics matching each other. So, if you’re after a retro build, these are the perfect peripherals for your desk. You can also pair it with[the Lofree Retro Mouse](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FLOFREE-Bluetooth-Connection-Rechargeable-Compatible%2Fdp%2FB0CT9VX5ZM%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1163565040540890099-20) to complete the look, as 8BitDo is yet to release a companion mouse for its retro accessories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,19 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unveiling-rokus-potential-engaging-with-facebook-live/"><u>2024 Approved Unveiling Roku's Potential Engaging with Facebook Live</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/engaging-children-with-vtech-cams/"><u>Engaging Children with VTech Cams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/hardware-hurdles-whats-necessary-for-big-sur-in-2024/"><u>Hardware Hurdles What's Necessary for Big Sur, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-tiles-new-scan-and-secure-a-revolutionary-solution-to-combat-stalking-discover-how-on-zdnet/"><u>Introducing Tile's New 'Scan & Secure': A Revolutionary Solution to Combat Stalking - Discover How on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/logitech-launches-budget-friendly-webcams-designed-for-remote-and-hybrid-work-environments-zdnet/"><u>Logitech Launches Budget-Friendly Webcams Designed for Remote & Hybrid Work Environments - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-a53-freestyle-evaluation-insights-from-zdnet/"><u>Samsung Galaxy A53 Freestyle Evaluation - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/switching-up-your-iphones-call-sound-effectively/"><u>Switching up Your iPhone's Call Sound Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tile-introduces-robust-anti-theft-measures-and-critiques-apples-airtag-method-zdnet-exclusive-insight/"><u>Tile Introduces Robust Anti-Theft Measures and Critiques Apple's AirTag Method | ZDNet Exclusive Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-essential-safety-devices-every-traveler-should-carry-insights-from-zdnet/"><u>Top 3 Essential Safety Devices Every Traveler Should Carry - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-outstanding-audio-speaker-brands-revealed-by-zdnet/"><u>Top 5 Outstanding Audio Speaker Brands - Revealed by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-epic-games-launcher-swift-opening-techniques/"><u>Troubleshooting the Epic Games Launcher - Swift Opening Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-reno-8t-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Reno 8T Device</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->

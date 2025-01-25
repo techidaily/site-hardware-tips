@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal: Find the 4TB Samsung Portable SSD (T5) Now 50%% Discounted on Amazon – Limited Stock Available"
-date: 2025-01-12T19:41:33.636Z
-updated: 2025-01-18T19:01:23.638Z
+date: 2025-01-20T23:01:49.206Z
+updated: 2025-01-24T23:38:27.232Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -75,7 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -87,7 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -124,18 +124,18 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-perfecting-the-art-of-media-preservation-macs-dvd-burn-guide-for-2024/"><u>[New] Perfecting the Art of Media Preservation Mac's DVD Burn Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-boost-your-content-top-6-instagram-reel-apps-for-2024/"><u>[Updated] Boost Your Content Top 6 Instagram Reel Apps for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-speed-up-windows-file-inspection/"><u>[Updated] How To Speed Up Windows File Inspection</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-5-apps-to-stream-your-favorite-podcasts-on-iphone/"><u>[Updated] Top 5 Apps to Stream Your Favorite Podcasts on iPhone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cinebench-battle-royale-amds-ryzen-9-cpu-lineup-tested-exploring-the-power-of-9900x-9700x-and-9600x/"><u>Cinebench Battle Royale: AMD's Ryzen 9 CPU Lineup Tested - Exploring the Power of 9900X, 9700X, and 9600X</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/high-end-3d-printing-solutions-for-under-500-top-picks-and-reviews/"><u>High-End 3D Printing Solutions for Under $500 : Top Picks and Reviews</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-13c-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi 13C 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-technology-with-tom/"><u>Inside the World of Technology with Tom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-wonderfox-assistance-hub-comprehensive-user-handbook/"><u>Navigating the WonderFox Assistance Hub – Comprehensive User Handbook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-printing-avoiding-stealthy-defects-in-additive-manufacturing/"><u>Precision Printing: Avoiding Stealthy Defects in Additive Manufacturing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209776235-9781620558119-the-return-of-holy-russia/"><u>The Return of Holy Russia | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-guide-to-the-latest-gadgets/"><u>Tom's Tech Review: Your Guide to the Latest Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-pc-building-with-toms-hardware-experts/"><u>Unlocking the Secrets of PC Building with Tom's Hardware Experts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-convert-any-instagram-video-in-minutes-best-free-tools-windowsmac/"><u>[Updated] 2024 Approved Convert Any Instagram Video in Minutes Best Free Tools (Windows/Mac)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-download-youtube-beats-on-android-the-ultimate-6-app-guide/"><u>[Updated] 2024 Approved Download YouTube Beats on Android The Ultimate 6-App Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos/"><u>[Updated] 2024 Approved Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-make-video-thumbnails-for-youtube/"><u>[Updated] In 2024, How to Make Video Thumbnails for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mimicking-masterpieces-crafting-successful-parodies/"><u>[Updated] Mimicking Masterpieces Crafting Successful Parodies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-performance-the-ultimate-tutorial-on-installing-a-new-ssd-in-a-surface-pro-x-zdnet-exclusive/"><u>Maximizing Performance: The Ultimate Tutorial on Installing a New SSD in a Surface Pro X | ZDNet Exclusive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-surface-go-n-in-1-assessed-by-zdnet-fantastic-portability-marred-by-short-battery-span/"><u>Microsoft Surface Go N-in-1 Assessed by ZDNet: Fantastic Portability Marred by Short Battery Span</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-surface-pro-8-the-ultimate-business-tablet-unveiled-on-zdnet/"><u>Microsoft Surface Pro 8: The Ultimate Business Tablet Unveiled on ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1124246-9781619400061-mrs-piper-and-the-society-for-psychical-research/"><u>Mrs. Piper and the Society for Psychical Research | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-insights-the-ultimate-selection-of-kindle-readers-for-2er-2024-in-depth-analysis-zdnet/"><u>Professional Insights: The Ultimate Selection of Kindle Readers for 2Er 2024 - In-Depth Analysis | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps5-compatibility-are-your-favorite-ps4-titles-playable/"><u>PS5 Compatibility: Are Your Favorite PS4 Titles Playable?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/strategic-insights-into-aesthetic-success-for-audio-brands/"><u>Strategic Insights Into Aesthetic Success for Audio Brands</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/switching-from-apple-to-android-the-story-of-an-unplanned-tablet-trade-in-on-techradarcom/"><u>Switching From Apple to Android: The Story of an Unplanned Tablet Trade-In on TechRadar.com</u></a></li>
 </ul></div>
 

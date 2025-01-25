@@ -1,7 +1,7 @@
 ---
 title: "7-Device Charging Capacity: Unmatched 140W Portable Battery Backup That Lasts Longer Between Charges - Spotlight on Tech"
-date: 2025-01-11T19:05:12.825Z
-updated: 2025-01-18T19:16:55.044Z
+date: 2025-01-19T19:10:15.234Z
+updated: 2025-01-25T00:23:58.831Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -81,7 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,19 +130,17 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-deciphering-youtubes-processing-after-uploading/"><u>[New] Deciphering YouTube's Processing After Uploading</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-capture-conserve-continue-a-guide-to-saving-snapchat-content/"><u>[Updated] In 2024, Capture, Conserve, Continue A Guide to Saving Snapchat Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/crafting-silence-in-gaming-building-a-stealthy-rgb-free-desktop-pc-unveiled-by-toms-hardware/"><u>Crafting Silence in Gaming: Building a Stealthy RGB-Free Desktop PC Unveiled by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-hidden-gems-with-toms-computer-components-guide/"><u>Discover Hidden Gems with Tom's Computer Components Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-advances-in-computing-with-toms-technology-reviews/"><u>Discover the Latest Advances in Computing with Tom's Technology Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-guidelines-for-assembling-your-first-gaming-pc/"><u>Essential Guidelines for Assembling Your First Gaming PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-persistent-pc-crashes-in-ghostwire-tokyo/"><u>Fixes for Persistent PC Crashes in Ghostwire: Tokyo</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nokia-c210-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nokia C210 Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snowy-scores-winter-2022-wonders-unveiled/"><u>In 2024, Snowy Scores Winter 2022 Wonders Unveiled</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-twitpic-saver-streamline-ios-video-downloads-from-tweets/"><u>In 2024, TwitPic Saver Streamline iOS Video Downloads From Tweets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/professional-hardware-evaluations-by-toms-technology-experts/"><u>Professional Hardware Evaluations by Tom’s Technology Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transforming-your-tiktok-profile-altering-account-numbers/"><u>Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-digital-innovations-with-toms-electronics-review/"><u>Unveiling the Latest in Digital Innovations with Tom's Electronics Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-steering-clear-of-echo-chambers-in-instagram-interactions/"><u>[New] Steering Clear of Echo Chambers in Instagram Interactions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-navigating-the-challenges-of-green-technology-strategies-for-seeking-additional-resources/"><u>1) Navigating the Challenges of Green Technology: Strategies for Seeking Additional Resources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-ultimate-guide-to-choosing-the-perfect-electric-leaf-blower-featuring-top-picks-from-industry-experts/"><u>2022'S Ultimate Guide to Choosing the Perfect Electric Leaf Blower - Featuring Top Picks From Industry Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-and-computings-green-revolution-strategies-for-sustainable-tech-development-in-an-energy-intensive-era-zdnet/"><u>AI and Computing's Green Revolution: Strategies for Sustainable Tech Development in an Energy-Intensive Era | ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nubia-red-magic-8s-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nubia Red Magic 8S Pro+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-calculated-viewing-time-for-a-standard-20mb-film/"><u>In 2024, Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-12-video-hourly-livestream-service/"><u>In 2024, Exclusive 12 Video Hourly Livestream Service</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-prime-facebook-extra-tools-secure-file-grabber-optimized-for-ff/"><u>In 2024, Prime Facebook Extra Tools Secure File Grabber, Optimized For FF</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-essential-guide-to-signing-up-for-twitter/"><u>In 2024, The Essential Guide to Signing Up for Twitter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zendures-ultimate-charge-solution-unveiled-the-superbase-pro-nvigates-the-future-of-powering-tech-a-detailed-review-on-zdnet/"><u>Zendure's Ultimate Charge Solution Unveiled: The SuperBase Pro Nvigates the Future of Powering Tech | A Detailed Review on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zero-carbon-vision-at-lenovo-strategies-for-eco-friendly-operations-as-revealed-by-zdnet/"><u>Zero Carbon Vision at Lenovo: Strategies for Eco-Friendly Operations as Revealed by ZDNet</u></a></li>
 </ul></div>
 

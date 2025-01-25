@@ -1,7 +1,7 @@
 ---
 title: Power All Your Gadgets Simultaneously with Our Revolutionary Miniature Car Power Bank | Innovative Charging Solutions at ZDNET
-date: 2024-12-20T16:00:13.268Z
-updated: 2024-12-27T20:34:27.570Z
+date: 2025-01-21T21:46:12.425Z
+updated: 2025-01-24T16:08:41.618Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,20 +134,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-empowered-by-numbers-decoding-youtube-analytics/"><u>[New] 2024 Approved Empowered by Numbers Decoding YouTube Analytics</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-silencing-distractions-enhancing-youtube-videos/"><u>[New] 2024 Approved Silencing Distractions Enhancing YouTube Videos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-saying-goodbye-a-guide-for-ending-your-discord-membership-for-2024/"><u>[New] Saying Goodbye A Guide for Ending Your Discord Membership for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bright-ideas-unveiled-ge-lighting-impresses-at-ces-2023-with-expanded-cync-line-and-neon-light-personalization/"><u>Bright Ideas Unveiled: GE Lighting Impresses at CES 2023 With Expanded Cync Line and Neon Light Personalization</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ces-202-exploring-the-latest-smart-home-innovations-matters-connectivity-revolutionary-lighting-solutions-and-lgs-new-shoe-shelving/"><u>CES 202# Exploring the Latest Smart Home Innovations: Matters Connectivity, Revolutionary Lighting Solutions & LG's New Shoe Shelving</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-online-vs-offline-signals-in-facebook/"><u>Deciphering Online Vs. Offline Signals in Facebook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-list-of-walmarts-finest-tech-gift-options-curated-by-zdnet/"><u>Discover the Ultimate List of Walmart's Finest Tech Gift Options, Curated by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-hp-deskjet-series-printer-drivers-on-windows-7810-free-software-downloads/"><u>Easy Install HP Deskjet Series Printer Drivers on Windows 7/8/10 - Free Software Downloads</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effortless-pc-to-pc-audio-file-sharing-a-step-by-step-guide-from-yl-computing/"><u>Effortless PC-to-PC Audio File Sharing: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-2024-tiktok-game-with-top-ring-light-picks-featured-on-zdnet/"><u>Elevate Your 2024 TikTok Game with Top Ring Light Picks - Featured on ZDNET</u></a></li>
-<li><a href="https://win-bits.techidaily.com/recognizing-early-warning-indicators-a-guide-to-identifying-typical-hardware-malfunctions-by-yl-tech/"><u>Recognizing Early Warning Indicators: A Guide to Identifying Typical Hardware Malfunctions - By YL Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailored-video-epilogue-templates-available-free-for-2024/"><u>Tailored Video Epilogue Templates Available Free for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-the-ideal-floodlights-to-secure-your-property-outdoors-techadvisor/"><u>Ultimate Guide: Choosing the Ideal Floodlights to Secure Your Property Outdoors | TechAdvisor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-review-the-creme-de-la-creme-booklight-picks-by-tech-experts-at-zdnet/"><u>Ultimate Review: The Crème De La Crème Booklight Picks by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-maximizing-socialization-with-ease-xbox-ones-zoom-functionality/"><u>[New] Maximizing Socialization with Ease Xbox One's Zoom Functionality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-all-you-need-to-know-about-instagram-video-limits/"><u>[Updated] All You Need to Know About Instagram Video Limits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-easeus-reviewed-a-world-of-technology/"><u>[Updated] EaseUS Reviewed A World of Technology</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-guiding-you-to-untainted-stock-visuals/"><u>[Updated] Guiding You to Untainted Stock Visuals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-tv-visuals-instantly-by-mastering-these-essential-picture-settings-expert-tips-inside/"><u>Boost TV Visuals Instantly by Mastering These Essential Picture Settings - Expert Tips Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-8k-tv-for-your-home-insights-from-a-consumer-electronics-specialist-on-what-you-need-to-know-before-buying/"><u>Choosing the Right 8K TV for Your Home: Insights From a Consumer Electronics Specialist on What You Need to Know Before Buying</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/clearing-your-television-cache-for-enhanced-functionality-and-security-a-step-by-step-tutorial/"><u>Clearing Your Television Cache for Enhanced Functionality and Security – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-enjoy-massive-savings-of-up-to-25-on-the-incredible-85-inch-tcl-tv-this-labor-day-limited-time-offer-at-zdnet/"><u>Don't Miss Out! Enjoy Massive Savings of Up to 25% on the Incredible 85-Inch TCL TV This Labor Day – Limited Time Offer at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-picture-clarity-with-just-5-tv-adjustments-expert-tips-from-a-zdnet-article/"><u>Enhance Picture Clarity with Just 5 TV Adjustments – Expert Tips From a ZDNet Article</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-tv-sound-quality-discover-5-proven-methods-including-2-cost-free-solutions/"><u>Enhance TV Sound Quality: Discover 5 Proven Methods, Including 2 Cost-Free Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exciting-news-lg-television-sound-enhancements-now-compatible-with-ios-devices-a-huge-win-for-tech-lovers/"><u>Exciting News: LG Television Sound Enhancements Now Compatible with iOS Devices - A Huge Win for Tech Lovers!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-exploring-free-animation-methods-onlineoffline/"><u>In 2024, Exploring Free Animation Methods Online/Offline</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-g2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo G2 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-system-files-is-msda80dll-essential-to-preserve/"><u>Navigating System Files: Is MSDA80.DLL Essential to Preserve?</u></a></li>
 </ul></div>
 

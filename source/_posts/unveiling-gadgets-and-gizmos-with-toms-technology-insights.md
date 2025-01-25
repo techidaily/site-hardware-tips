@@ -1,7 +1,7 @@
 ---
 title: Unveiling Gadgets and Gizmos with Tom's Technology Insights
-date: 2024-08-19T02:29:54.099Z
-updated: 2024-08-20T02:29:54.099Z
+date: 2025-01-22T02:35:25.935Z
+updated: 2025-01-25T00:18:06.868Z
 tags:
   - components
 categories:
@@ -16,6 +16,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
  Compared to other eGPU solutions, the Wiko Hi GT Cube doesn't seem particularly concerned with expanding storage or I/O. Instead, the focus is on the total 100-watt charging capacity. The overall pricing of 399 Chinese yuan (broadly equivalent to about $558) places it lower than most other 7600M XT eGPUs, which usually exceed $600.
 
  Also, while Wika's Wiko Hi GT may come from a company that primarily sells rebadged Huawei products, they don't seem to be a Huawei subsidiary...though the Hi GT's China launch appears to have been done with the recent release of the Huawei MateBook GT 14 in mind.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wiko Hi GT Cube eGPU Specifications
 
@@ -37,6 +41,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
 
  Overall, the Wiko Hi GT Cube does seem to be a compelling offer, and it is like a suitable companion to the Huawei Mate GT 14 laptop, but with one very crucial downside. While Thunderbolt support is listed, the specific version of Thunderbolt is not. Thunderbolt 3 and 4 are most likely considering the usage of USB4— and while all three standards are typically capped at 40 Gigabits, Thunderbolt 4 is still the best for driving an eGPU. OCuLink would be even better, but unfortunately, it isn't present in any form.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +59,6 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +66,26 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-revealing-mycams-true-recording-potential/"><u>[New] Revealing MyCam’s True Recording Potential</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-echoes-unleashed-exploring-sound-with-mac/"><u>[Updated] 2024 Approved Echoes Unleashed Exploring Sound with Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-making-online-gaming-more-intimate-via-xbox-zoom/"><u>[Updated] Making Online Gaming More Intimate via Xbox Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-meta-vs-omni-navigating-digital-realms/"><u>2024 Approved Meta Vs. Omni Navigating Digital Realms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-chatbots-can-claude-outshine-chatgpt-as-a-top-notch-communicator/"><u>Comparing Chatbots: Can Claude Outshine ChatGPT as a Top-Notch Communicator?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tless-youtube-file-extraction-for-2024/"><u>Effortless YouTube File Extraction for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-nacon-revolution-x-professional-gaming-controller-2022-zdnet-evaluation/"><u>Expert Analysis: Nacon Revolution X Professional Gaming Controller - 2022 ZDNet Evaluation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/funimate-video-mastery-a-comprehensible-guide/"><u>Funimate Video Mastery A Comprehensible Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y77t-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y77t to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-blaze-2-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Blaze 2 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-ends-hopes-for-windows-10-lifeline-an-unannounced-update-fades-prospects-tech-news/"><u>Microsoft Ends Hopes for Windows 10 Lifeline: An Unannounced Update Fades Prospects | Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-and-easy-transforming-your-microsoft-surface-go-into-a-linux-machine-in-under-an-hour/"><u>Quick and Easy: Transforming Your Microsoft Surface Go Into a Linux Machine in Under an Hour!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-4k-computer-transition-with-iogears-easy-2-port-kvm-switch-a-review-by-zdnet/"><u>Seamless 4K Computer Transition with IOGEAR's Easy 2-Port KVM Switch: A Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-17-unbeatable-cyber-monday-bargains-exclusive-offers-on-televisions-audio-gear-and-sound-systems-save-big-now/"><u>Top 17 Unbeatable Cyber Monday Bargains: Exclusive Offers on Televisions, Audio Gear & Sound Systems - Save Big Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-5g-notebooks-expert-reviews-from-zdnet/"><u>Top 5 Premium 5G Notebooks : Expert Reviews From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ubuntu-2304-lobster-moon-launched-by-canonical-a-comprehensive-guide-to-the-latest-linux-os-for-work-and-entertainment-insights-from-zdnet/"><u>Ubuntu 23.04 'Lobster Moon' Launched by Canonical: A Comprehensive Guide to the Latest Linux OS for Work and Entertainment | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-immediate-savings-purchase-high-performance-msi-gaming-notebooks-at-500-discounted-price-today-only/"><u>Unlock Immediate Savings: Purchase High-Performance MSI Gaming Notebooks at $500 Discounted Price - Today Only!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-get-an-incredible-gaming-rig-with-the-newly-discounted-hp-victus-15l-at-just-520-offers-today/"><u>Unmissable Deal Alert: Get an Incredible Gaming Rig with the Newly-Discounted HP Victus 15L at Just $520 Offers Today!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->

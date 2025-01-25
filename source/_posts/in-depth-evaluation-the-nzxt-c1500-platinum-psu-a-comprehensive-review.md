@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Evaluation: The NZXT C1500 Platinum PSU - A Comprehensive Review"
-date: 2024-08-19T02:27:44.291Z
-updated: 2024-08-20T02:27:44.291Z
+date: 2025-01-18T23:52:35.357Z
+updated: 2025-01-24T19:07:19.166Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
 
  Cooling is provided by a 120mm rifle-bearing PWM fan, that operates in a zero RPM fan mode for near-silent operation at lower loads, so when you're just browsing away, this should help to keep your PSU from adding to the combined noise output from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,8 +46,6 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -51,8 +53,20 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-steering-clear-of-mundane-channel-names-in-a-crowded-space/"><u>[New] 2024 Approved Steering Clear of Mundane Channel Names in a Crowded Space</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-add-fade-inout-premiere-pro/"><u>[New] Add Fade In/Out Premiere Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-11-freezes-on-startup-or-boot/"><u>[Solved] Windows 11 Freezes on Startup or Boot</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-free-guide-recording-youtube-videos-on-screencasts/"><u>[Updated] 2024 Approved Free Guide Recording YouTube Videos on Screencasts</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1-complete-step-by-step-tutorial-how-to-reflect-your-ipad-screen-onto-a-computer-using-simple-techniques/"><u>1. Complete Step-by-Step Tutorial: How To Reflect Your iPad Screen Onto a Computer Using Simple Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/charge-speed-tracking-on-macbooks-without-a-display-metric-tech-tips-by-zdnet/"><u>Charge Speed Tracking on MacBooks Without a Display Metric - Tech Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-charging-issues-with-a-tesla-using-ankers-powerhouse/"><u>Experiencing Charging Issues with a Tesla Using Anker's PowerHouse</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reasons-behind-purchasing-damaged-macbook-pros-insights-from-zdnet/"><u>Reasons Behind Purchasing Damaged MacBook Pros - Insights From ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-y78plus-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo Y78+ to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-cyber-monday-computers-bargains-exclusive-october-2024-guide/"><u>Top-Rated Cyber Monday Computers Bargains: Exclusive October 2024 Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-mac-mini-into-a-powerhouse-with-the-75-diy-mac-studio-upgrade-techradar/"><u>Transform Your Mac Mini Into a Powerhouse with the $75 DIY Mac Studio Upgrade | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-the-perfect-ergo-friendly-mouse-for-your-setup-cnet/"><u>Ultimate Guide: Choosing the Perfect Ergo-Friendly Mouse for Your Setup | CNET</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: Navigating Device Innovations in the Age of Artificial Intelligence - Insights"
-date: 2025-01-15T16:35:03.880Z
-updated: 2025-01-18T17:03:19.114Z
+date: 2025-01-18T21:05:09.539Z
+updated: 2025-01-24T22:28:39.296Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,24 +134,21 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-screenflow-demystified-essential-tools-for-your-mac-creation/"><u>[New] In 2024, ScreenFlow Demystified Essential Tools for Your Mac Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tactics-to-maximize-engagement-with-every-reddit-post/"><u>[New] Tactics to Maximize Engagement with Every Reddit Post</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-sculpting-brilliance-a-deep-dive-into-hdr-in-lightroom/"><u>[Updated] In 2024, Sculpting Brilliance A Deep Dive Into HDR in Lightroom</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-tiktoks-economy-with-these-8-profitable-methods-for-2024/"><u>[Updated] Mastering TikTok's Economy with These 8 Profitable Methods for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-performance-computing-tips-from-toms-hardware-specialists/"><u>Advanced Performance Computing Tips From Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-economical-4k-screen-picks-for-enhanced-viewing/"><u>Best Economical 4K Screen Picks for Enhanced Viewing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-buyers-alert-navigate-the-latest-cpu-pricing-trends-for-top-savings/"><u>Budget Buyers Alert! Navigate the Latest CPU Pricing Trends for Top Savings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cost-effective-computing-the-highest-ranked-cpus-of-2024-according-to-toms-hardware/"><u>Cost-Effective Computing: The Highest-Ranked CPUs of 2024 According to Tom's Hardware</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-hot-40i-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Hot 40i Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/expert-video-grabbing-kit-perfect-for-firefox-browser-users/"><u>Expert Video Grabbing Kit Perfect for FireFox Browser Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-streaming-apple-tvplus-shows-on-your-smart-tv-using-chromecast/"><u>Guide: Streaming Apple TV+ Shows on Your Smart TV Using Chromecast</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-trends-handled-by-toms-expertise/"><u>Navigating New Tech Trends Handled by Tom's Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-insights/"><u>Navigating the World of Technology with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-next-gen-devices-curated-by-toms-specialists/"><u>The Ultimate Guide to Next-Gen Devices Curated by Tom's Specialists</u></a></li>
-<li><a href="https://win-forum.techidaily.com/tips-and-tricks-to-overcome-full-disk-utilization-issues-in-windows-10-systems/"><u>Tips and Tricks to Overcome Full Disk Utilization Issues in Windows 10 Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-dive-into-the-world-of-cutting-edge-hardware/"><u>Tom's Tech Insights: Dive Into the World of Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/trending-raspberry-pi-shells-and-boxes-top-picks/"><u>Trending Raspberry Pi Shells & Boxes - Top Picks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-your-pcs-potential-a-tutorial-for-bios-entry-on-win-10-and-7/"><u>Unlocking Your PC's Potential: A Tutorial for BIOS Entry on Win 10 and 7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-premium-choices-for-unparalleled-video-communication-for-2024/"><u>[Updated] Premium Choices for Unparalleled Video Communication for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-amplify-your-audience-maximizing-youtube-viewership/"><u>2024 Approved Amplify Your Audience Maximizing YouTube Viewership</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-lite-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Magic 5 Lite Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-for-flickering-win11-monitor/"><u>Quick Fix for Flickering Win11 Monitor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/save-big-on-oneplus-premier-bargains-of-the-prime-day-extravaganza/"><u>Save Big on OnePlus - Premier Bargains of the Prime Day Extravaganza</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-guide-moving-pictures-from-ios-devices-to-android-platforms/"><u>Simple Guide: Moving Pictures From iOS Devices to Android Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/staying-the-course-teslas-assurance-of-continued-development-on-cybertruck-and-upcoming-platform-revealed-by-zdnet/"><u>Staying the Course: Tesla's Assurance of Continued Development on Cybertruck & Upcoming Platform Revealed by ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/striking-setups-to-impress-online-audiences/"><u>Striking Setups to Impress Online Audiences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-art-of-flawless-conversion-from-slides-to-videos-for-2024/"><u>The Art of Flawless Conversion From Slides to Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-essential-gadgets-to-enhance-your-dji-mini-3-pro-experience-insights-from-zdnet/"><u>Top Essential Gadgets to Enhance Your DJI Mini 3 Pro Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-car-into-a-security-fortress-with-our-affordable-96-backup-camera-and-dashcam-duo-check-out-now/"><u>Transform Your Car Into a Security Fortress with Our Affordable $96 Backup Camera and Dashcam Duo - Check Out Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-in-flight-internet-prospects-of-improved-connectivity-soar-high/"><u>Transforming In-Flight Internet: Prospects of Improved Connectivity Soar High!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-perceptions-how-todays-electric-vehicles-at-the-ev-expo-prove-theyre-more-than-just-modern-day-prius-cars-zdnet/"><u>Transforming Perceptions: How Today's Electric Vehicles at the EV Expo Prove They're More Than Just Modern-Day Prius Cars | ZDNET</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-kobo-nias-potential-how-it-stacks-up-against-the-popular-kindle-series/"><u>Unveiling the Kobo Nia's Potential: How It Stacks Up Against the Popular Kindle Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-zectron-e-bike-one-week-test-drive-reveals-hidden-gems-and-promising-capabilities/"><u>Unveiling the Zectron E-Bike: One Week Test Drive Reveals Hidden Gems and Promising Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-flight-comfort-with-the-ultimate-tech-gadgets-for-enhanced-air-travel-experience/"><u>Upgrade Your Flight Comfort with the Ultimate Tech Gadgets for Enhanced Air Travel Experience</u></a></li>
 </ul></div>
 

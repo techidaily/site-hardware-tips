@@ -1,7 +1,7 @@
 ---
 title: "Navigating Gadgets with Tom: Comprehensive Technology Evaluations"
-date: 2024-08-19T02:27:56.135Z
-updated: 2024-08-20T02:27:56.135Z
+date: 2025-01-23T00:32:56.513Z
+updated: 2025-01-24T23:54:51.969Z
 tags:
   - power-supply
 categories:
@@ -31,6 +31,10 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
 
  The power supplies themselves will carry MSRPs of $199, $249 and $399 for the 1,000, 1,200 and 1,600 watt units respectively. The 1,000 and 1,200 watt units will come in black or white while the 1,600 watt one will only be available in black. All three will be available in August.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,20 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-teach-with-technology-effective-use-of-youtube-in-education/"><u>[New] Teach with Technology Effective Use of YouTube in Education</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-examination-gopro-hero4-silver-version/"><u>[Updated] Comprehensive Examination GoPro HERO4 Silver Version</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-taking-the-plunge-a-stepwise-strategy-to-set-up-your-personal-tech-review-platform/"><u>[Updated] Taking the Plunge A Stepwise Strategy to Set Up Your Personal Tech Review Platform</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-smart-8-plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 8 Plus Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-create-captivating-videos-with-free-intros/"><u>In 2024, Create Captivating Videos with Free Intros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-working-from-home-expert-tips-and-strategies-featured-on-zdnet/"><u>Mastering the Art of Working From Home: Expert Tips and Strategies Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/raspberry-pi-essentials-for-newbies-step-by-step-setup-advice-by-zdnet-experts/"><u>Raspberry Pi Essentials for Newbies: Step-by-Step Setup Advice by ZDNET Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-cycling-experience-with-photochromic-hud-lenses-a-game-changer-unveiled/"><u>Revolutionize Your Cycling Experience with Photochromic HUD Lenses - A Game Changer Unveiled</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-a-smooth-and-efficient-nintendo-switch-sd-card-upgrade-process/"><u>Step-by-Step Guide to a Smooth and Efficient Nintendo Switch SD Card Upgrade Process</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-5-mobile-photo-editing-iphone-x87-background-switch/"><u>Ultimate 5 Mobile Photo Editing IPhone X/8/7 Background Switch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-default-plugins-in-chatgpt-and-how-to-leverage-them-effectively/"><u>Understanding Default Plugins in ChatGPT and How to Leverage Them Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-creativity-with-the-ultimate-16-port-dream-dock-the-must-have-gadget-for-artists-and-designers-zdnet/"><u>Unleash Your Creativity with the Ultimate 16-Port Dream Dock: The Must-Have Gadget for Artists and Designers - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-unveils-pros-and-cons-of-apples-studio-display-worth-your-creative-investment/"><u>ZDNet Unveils Pros and Cons of Apple's Studio Display - Worth Your Creative Investment?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->

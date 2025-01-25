@@ -1,7 +1,7 @@
 ---
 title: "Experience Exceptional Display Quality: High-Performance Lightweight Laptop at a Steep Discount – Don’t Miss Out!"
-date: 2024-12-24T17:07:09.547Z
-updated: 2024-12-27T17:05:41.407Z
+date: 2025-01-22T16:15:09.868Z
+updated: 2025-01-25T02:24:52.612Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -101,7 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,22 +148,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-enhancing-tiktok-profiles-with-linktree-features/"><u>[New] In 2024, Enhancing TikTok Profiles with Linktree Features</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-perfect-kid-cameras-for-first-timers-and-wet-weather-filming-adventures-for-2024/"><u>[New] Perfect Kid Cameras for First-Timers & Wet Weather Filming Adventures for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-banishing-black-edges-on-your-youtube-video-for-2024/"><u>[Updated] Banishing Black Edges on Your YouTube Video for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-quick-share-your-youtube-playlist-journey/"><u>2024 Approved Quick Share Your YouTube Playlist Journey</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-your-gaming-experience-snag-an-exclusive-25-off-on-trendy-minimalist-rgb-illumination-by-zdnet/"><u>Boost Your Gaming Experience: Snag an Exclusive 25% Off on Trendy Minimalist RGB Illumination by ZDNET!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/brighten-up-plus-modernize-how-govee-cube-sconces-enhance-home-lighting-and-convenience-zdnet-insights/"><u>Brighten Up Plus Modernize: How Govee Cube Sconces Enhance Home Lighting and Convenience | ZDNET Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cracking-the-code-on-windows-update-failure-error-0x8024200d-a-comprehensive-solution-guide/"><u>Cracking the Code on Windows Update Failure (Error 0X8024200D): A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-your-war-thunder-game-crashes-top-strategies/"><u>Fix Your War Thunder Game Crashes : Top Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/futureproof-your-space-with-the-ultimate-led-strips-for-2among-experts-insights-from-zdnet/"><u>Futureproof Your Space with the Ultimate LED Strips for 2Among Experts - Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-under-cabinet-lights-revamped-my-kitchen-style-with-unique-features-zdnet/"><u>How Under-Cabinet Lights Revamped My Kitchen Style with Unique Features | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-innovative-lutron-pico-remote-for-advanced-smart-lighting-control/"><u>Introducing the Innovative Lutron Pico Remote for Advanced Smart Lighting Control</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimal-illumination-for-livestream-success-insights-from-zdnets-experts/"><u>Optimal Illumination for Livestream Success: Insights From ZDNet's Experts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reversed-issue-playing-audio-flawlessly-in-mozilla-firefox-now/"><u>Reversed Issue: Playing Audio Flawlessly in Mozilla Firefox Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-govee-light-strips-for-gamers-save-up-to-100-zdnet/"><u>Score Big Savings on Govee Light Strips for Gamers - Save Up to $100! | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-ring-lights-of-2024-for-enhanced-video-quality-cnet/"><u>Top 5 Ring Lights of 2024 for Enhanced Video Quality | CNET</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-get-steady-the-best-free-video-stabilization-websites-for-2024/"><u>Updated Get Steady The Best Free Video Stabilization Websites for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-cutting-edge-strategies-for-console-recording-on-personal-devices-for-2024/"><u>[New] Cutting-Edge Strategies for Console Recording on Personal Devices for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-selfie-verfication-is-it-really-useful-for-2024/"><u>[New] Instagram Video Selfie Verfication - Is It Really Useful for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-xsplit-hub-compre-written-assessments-for-2024/"><u>[New] XSplit Hub Compre Written Assessments for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/105-off-holy-stone-foldable-drone-unbeatable-deal-alert-for-tech-enthusiasts-featured-on-zdnet/"><u>$105 Off Holy Stone Foldable Drone! Unbeatable Deal Alert for Tech Enthusiasts | Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/96-universal-dashboard-and-rearview-backup-cam-kit-enhance-your-cars-safety-with-ease-zdnet/"><u>$96 Universal Dashboard & Rearview Backup Cam Kit: Enhance Your Car's Safety with Ease - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accelerating-autonomous-vehicle-development-with-innovative-ml-techniques/"><u>Accelerating Autonomous Vehicle Development with Innovative ML Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accelerating-progress-in-self-driving-tech-with-groundbreaking-machine-learning-project-featured-on-zdnet/"><u>Accelerating Progress in Self-Driving Tech with Groundbreaking Machine Learning Project Featured on ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-asus-rog-phone-7-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Asus ROG Phone 7 Phones with/without a PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-7-ai-content-creation-sites-the-ultimate-guide/"><u>Leading 7 AI Content Creation Sites: The Ultimate Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-art-of-untagging-on-social-networks/"><u>Mastering the Art of Untagging on Social Networks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-bring-starlink-internet-access-on-the-go-with-new-vehicle-connectivity/"><u>ZDNet Reveals: Bring Starlink Internet Access On the Go with New Vehicle Connectivity!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-exclusive-e-bike-giveaway-featuring-complimentary-portable-grill/"><u>ZDNet's Exclusive E-Bike Giveaway Featuring Complimentary Portable Grill!</u></a></li>
 </ul></div>
 

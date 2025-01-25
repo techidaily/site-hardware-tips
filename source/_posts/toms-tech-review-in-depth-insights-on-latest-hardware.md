@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: In-Depth Insights on Latest Hardware"
-date: 2024-08-19T02:29:44.635Z
-updated: 2024-08-20T02:29:44.635Z
+date: 2025-01-20T17:36:56.415Z
+updated: 2025-01-25T01:56:56.923Z
 tags:
   - components
 categories:
@@ -16,6 +16,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
  Compared to other eGPU solutions, the Wiko Hi GT Cube doesn't seem particularly concerned with expanding storage or I/O. Instead, the focus is on the total 100-watt charging capacity. The overall pricing of 399 Chinese yuan (broadly equivalent to about $558) places it lower than most other 7600M XT eGPUs, which usually exceed $600.
 
  Also, while Wika's Wiko Hi GT may come from a company that primarily sells rebadged Huawei products, they don't seem to be a Huawei subsidiary...though the Hi GT's China launch appears to have been done with the recent release of the Huawei MateBook GT 14 in mind.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wiko Hi GT Cube eGPU Specifications
 
@@ -37,6 +41,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
 
  Overall, the Wiko Hi GT Cube does seem to be a compelling offer, and it is like a suitable companion to the Huawei Mate GT 14 laptop, but with one very crucial downside. While Thunderbolt support is listed, the specific version of Thunderbolt is not. Thunderbolt 3 and 4 are most likely considering the usage of USB4— and while all three standards are typically capped at 40 Gigabits, Thunderbolt 4 is still the best for driving an eGPU. OCuLink would be even better, but unfortunately, it isn't present in any form.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +59,6 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +66,20 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-profile-perfection-101-expert-strategies-for-facebook-biography-enhancement/"><u>[New] In 2024, Profile Perfection 101 Expert Strategies for Facebook Biography Enhancement</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-of-nintendo-switch-fighting-apps-guide-max-156-for-2024/"><u>[Updated] Best of Nintendo Switch Fighting Apps Guide (Max 156) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-riding-ahead-with-clarity-hats-cam-excellence-in-the-year-of-23/"><u>2024 Approved Riding Ahead with Clarity Hats Cam Excellence in the Year of '23</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adapting-workplace-technology-how-devices-will-transform-with-artificial-intelligence-advancements-zdnet-insights/"><u>Adapting Workplace Technology: How Devices Will Transform With Artificial Intelligence Advancements - ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-power-of-windows-11-with-the-affordable-pro-mini-pc-at-just-160-grab-it-now-from-amazons-exclusive-spring-deal/"><u>Experience the Power of Windows 11 with the Affordable Pro Mini PC at Just $160 – Grab It Now From Amazon’s Exclusive Spring Deal!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-our-top-picks-the-6-greatest-apps-to-track-your-eats/"><u>Explore Our Top Picks: The 6 Greatest Apps to Track Your Eats</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/full-insight-guide-to-efficiently-use-google-docs-speech-to-text/"><u>Full Insight Guide to Efficiently Use Google Docs Speech-to-Text</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-locate-the-latest-energy-efficient-enhancements-in-google-chrome-a-step-by-step-guide-techinsight/"><u>How To Locate The Latest Energy-Efficient Enhancements In Google Chrome: A Step-By-Step Guide | TechInsight</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-non-functional-dell-speakers/"><u>Quick Solutions for Non-Functional Dell Speakers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-end-of-microsofts-windows-11-free-trial-insights-and-alternatives/"><u>The End of Microsoft's Windows 11 Free Trial – Insights and Alternatives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-insider-guide-to-listening-to-podcasts-on-your-iphone-for-2024/"><u>The Insider Guide to Listening to Podcasts on Your iPhone for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-ssd-options-expert-reviews-by-techsavvy/"><u>Top-Ranked SSD Options : Expert Reviews by TechSavvy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-monitors-for-designers-ratings-and-expert-takes-zdnet/"><u>Ultimate Guide to the Best Monitors for Designers - Ratings & Expert Takes | ZDNET</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->

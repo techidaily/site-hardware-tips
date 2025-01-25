@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Ultra-Compact Powerhouse: The World’s Tiniest Webcam and Its Impressive Flexibility"
-date: 2024-12-21T23:02:49.297Z
-updated: 2024-12-27T21:36:39.741Z
+date: 2025-01-17T16:16:46.898Z
+updated: 2025-01-24T19:48:57.849Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Regarding the battery life on the ThinkBook 14 2-in-1, I found it to be acceptab
 I can get a full day's worth of work out of this laptop on one charge, but honestly, barely so. That being said, the fast charging capability does bring the laptop from nearly dead to 100% in less than an hour. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,14 +120,21 @@ If you're looking for a similarly-priced convertible with a better display, chec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-make-sense-of-iphone-video-repetition-tech/"><u>[New] 2024 Approved Make Sense of iPhone Video Repetition Tech</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/comprehensive-2023-guide-to-lg-360-cam-tech-for-2024/"><u>Comprehensive 2023 Guide to LG 360 Cam Tech for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock ZTE Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-g73-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto G73 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/protecting-smart-homes-find-out-which-devices-earned-a-new-trusted-seal-in-cybersecurity-zdnet/"><u>Protecting Smart Homes: Find Out Which Devices Earned a New Trusted Seal in Cybersecurity | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-electricity-bills-with-ges-intelligent-lighting-save-16-today/"><u>Slash Your Electricity Bills with GE's Intelligent Lighting - Save 16% Today!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tips-for-sharpened-scene-during-google-meet-calls/"><u>Tips for Sharpened Scene During Google Meet Calls</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-book-light-picks-zdnets-ultimate-guide/"><u>Top-Rated Book Light Picks - ZDNet's Ultimate Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-backyard-with-the-powerful-blink-outdoor/"><u>Transform Your Backyard with the Powerful Blink Outdoor</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expert-tips-for-selecting-lenses-as-a-video-blogger/"><u>[Updated] 2024 Approved Expert Tips for Selecting Lenses as a Video Blogger</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-exploring-charms-galore-uncover-top-7-tiktok-emojis-and-their-covert-counterparts/"><u>[Updated] 2024 Approved Exploring Charms Galore – Uncover Top 7 TikTok Emojis & Their Covert Counterparts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zeroes-to-heroes-amplifying-your-youtube-following/"><u>[Updated] 2024 Approved From Zeroes to Heroes Amplifying Your Youtube Following</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-viewer-interest-with-optimal-video-thumbnail-sizes/"><u>[Updated] In 2024, Boosting Viewer Interest with Optimal Video Thumbnail Sizes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-plays-premieres-audio-switching/"><u>[Updated] Precision Plays Premiere’s Audio Switching</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/9-ways-to-facebook-video-black-screen-issues-on-chromesafarifir/"><u>9 Ways to Facebook Video Black Screen Issues on Chrome/Safari/Fir</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-a2-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo A2 Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-savings-without-sacrificing-performance-the-hovranger-e-bike-as-a-daily-commuter-solution-zdnet/"><u>Maximize Your Savings Without Sacrificing Performance: The HovRanger E-Bike as a Daily Commuter Solution | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-airspace-rules-can-dji-mini-drones-be-used-for-business-purposes-zdnet/"><u>Navigating New Airspace Rules: Can DJI Mini Drones Be Used for Business Purposes? | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/no-more-waiting-on-deliveries-amazons-revolutionary-free-drone-service-brings-you-prescriptions-fast/"><u>No More Waiting on Deliveries - Amazon's Revolutionary Free Drone Service Brings You Prescriptions Fast!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/over-20k-southwest-airlines-flights-canceled-discover-whats-happening-and-why-it-matters/"><u>Over 20K Southwest Airlines Flights Canceled: Discover What's Happening and Why It Matters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prioritize-your-vehicles-crucial-safety-element-dont-overlook-it-anymore-zdnet/"><u>Prioritize Your Vehicle's Crucial Safety Element - Don't Overlook It Anymore | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ram-electrifies-the-market-with-first-battery-powered-pickup-showcased-at-ces-zdnet/"><u>Ram Electrifies the Market with First Battery-Powered Pickup, Showcased at CES | ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-autonomous-vehicles-a-groundbreaking-ml-initiative-propelled-by-zdnet/"><u>Revolutionizing Autonomous Vehicles: A Groundbreaking ML Initiative Propelled by ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-safari-full-screen-screenshot-problems-with-these-tips/"><u>Solve Your Safari Full-Screen Screenshot Problems with These Tips</u></a></li>
 </ul></div>
 

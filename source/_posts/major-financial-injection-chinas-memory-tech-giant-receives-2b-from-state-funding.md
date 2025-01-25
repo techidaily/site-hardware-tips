@@ -1,7 +1,7 @@
 ---
 title: "Major Financial Injection: China's Memory Tech Giant Receives $2B From State Funding"
-date: 2024-08-19T02:25:23.673Z
-updated: 2024-08-20T02:25:23.673Z
+date: 2025-01-18T20:36:25.193Z
+updated: 2025-01-24T17:02:22.513Z
 tags:
   - ram
 categories:
@@ -25,6 +25,10 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
   
  If your head is spinning with talk of qubits and quantum, give our[quantum computers explainer](https://tools.techidaily.com) a read. While quantum computing may yet prove to be the future, today it is still largely theoretical. Even[IBM](https://tools.techidaily.com) 's own recent quantum computing experiments have been outperformed by a 1980s era[Commodore 64](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,24 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-complete-evaluation-of-camstudio-screen-recorder/"><u>[New] In 2024, Complete Evaluation of CamStudio Screen Recorder</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-the-potential-for-igtv-videos-on-smartphonedslr/"><u>[Updated] In 2024, Unlocking the Potential for IGTV Videos on Smartphone/DSLR</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-masterclass-uploading-without-complications-on-social-media-for-2024/"><u>[Updated] Masterclass Uploading Without Complications on Social Media for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-to-follow-guide-to-time-lapse-phenomena-with-gopro-for-2024/"><u>Easy-to-Follow Guide to Time-Lapse Phenomena with GoPro for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-huawei-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Huawei FRP</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125163883-introducing-crealitys-latest-innovation-the-mighty-k1c-3d-printer-launch-date-and-price-unveiled/"><u>Introducing Creality's Latest Innovation: The Mighty K1C 3D Printer - Launch Date and Price Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-components-a-deep-dive-by-toms-team/"><u>Mastering Gadgets and Components: A Deep Dive by Tom's Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-modern-technology-with-toms-hardware-wisdom/"><u>Navigating Through Modern Technology with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-buying-guide-by-tom-for-your-pc-needs/"><u>The Complete Buying Guide by Tom for Your PC Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-pulse-on-processors-memory-and-more-in-depth-hardware-reviews-by-tom/"><u>The Pulse on Processors, Memory & More: In-Depth Hardware Reviews by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-verdict-on-the-cooler-master-ion-3n-revolutionary-or-regressive-for-liquid-cpu-coolers/"><u>The Verdict on the Cooler Master ION 3N: Revolutionary or Regressive for Liquid CPU Coolers?</u></a></li>
+<li><a href="https://win-help.techidaily.com/ultimate-guide-retrieving-lost-pictures-from-memory-cards-the-secrets-of-cr2-file-restoration/"><u>Ultimate Guide: Retrieving Lost Pictures From Memory Cards - The Secrets of CR2 File Restoration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-for-enthusiasts-insights-by-toms-hardware/"><u>Unlocking Performance Secrets for Enthusiasts - Insights by Tom's Hardware</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/unveiling-the-keychron-q5-review-by-zdnet-balancing-advanced-features-with-affordability/"><u>Unveiling the Keychron Q5 Review by ZDNet: Balancing Advanced Features with Affordability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-tom/"><u>Unveiling the Latest in Technology with Tom</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-experience-acer-drivers-in-win11/"><u>Upgrade Your Experience: Acer Drivers in Win11</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->

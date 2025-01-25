@@ -1,7 +1,7 @@
 ---
 title: "Assembling an Impressive, Robust Desktop: A Fusion of Disco Pixel PC and InWin’s Compact 309 Chassis"
-date: 2024-08-19T02:31:41.012Z
-updated: 2024-08-20T02:31:41.012Z
+date: 2025-01-22T23:31:02.319Z
+updated: 2025-01-24T22:50:53.736Z
 tags:
   - build
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
  After[details started to slip out earlier this month](https://tools.techidaily.com) , Intel has now officially revealed the company’s latest Next Unit of Computing (NUC) family, code-named “Bean Canyon.” The new devices bring the Coffee Lake CPU microarchitecture, as well as Iris Plus iGPUs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Higher TDP And Performance
 
  The NUCs are moving up in the world, at least when it comes to performance. Unlike most NUCs that Intel has released so far, including the previous "Baby Canyon" family, these new models almost double the TDP from 15W to 28W.
@@ -29,19 +33,28 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
 ![Intel NUC Kit NUC8i3BEK/NUC8i5BEK Features – Rear](https://cdn.mos.cms.futurecdn.net/j2fcR5vYokSK9VbMMEmPrd-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Intel NUC Kit NUC8i3BEK/NUC8i5BEK Features – Rear
 
  If needed, the devices can also be configured to run with a lower TDP of 20W. As most people prefer the higher-performance, most Bean Canyon NUCs will likely remain at their default TDP.
 
  If you’d like a NUC with even higher performance, Intel also offers the[“Hades Canyon”](https://tools.techidaily.com) NUC, with up to 100W TDP and AMD-made "Vega M" graphics, targeted gamers. Hades Canyon NUCs were released earlier this year and they are based on the previous-generation Kaby Lake microarchitecture.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Iris Plus GPU, Fast Wi-Fi Performance
 
  All Bean Canyon SKUs will support Iris Plus Graphics 655, with 128MB eDRAM, 48 execution units, and a 1200MHz clock speed. The new devices also support the USB 3.1 gen 2 (10Gbps) standard on all of their four Type-A ports and come with Intel’s Wireless-AC 9560 with Bluetooth 5.0 WLAN module. The older DisplayPort 1.2 standard, as well as Thunderbolt 3 are also supported via USB Type-C connectors.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 ![Block diagram of the major functional areas of the board](https://cdn.mos.cms.futurecdn.net/gtoh2WGfZ6YS3AEbLS7arH-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Block diagram of the major functional areas of the board
 
  The new 2x2 multi-user, multiple-input, multiple-output technology (MU-MIMO) Wi-Fi module gets a significant boost in performance over the previous generation, reaching a theoretical maximum of 1.73Gbps bandwidth. However, the new Wi-Fi module lacks the[WPA3 security standard](https://tools.techidaily.com) announced by the Wi-Fi Alliance this January.
@@ -69,8 +83,6 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,4 +90,18 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-step-by-step-facebook-live-on-roku-platform/"><u>[Updated] 2024 Approved Step-by-Step Facebook Live on Roku Platform</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-low-light-iphone-luminary-techniques/"><u>[Updated] Low-Light iPhone Luminary Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-complimentary-3d-text-psds/"><u>[Updated] The Ultimate List Complimentary 3D Text PSDs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-revolutionary-clean-unveiling-the-hidden-gems-of-the-self-maintaining-robot-vacuum-and-mop-duo-zdnet/"><u>1. Revolutionary Clean: Unveiling the Hidden Gems of the Self-Maintaining Robot Vacuum and Mop Duo | ZDNET</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-investors-edge-tapping-into-youtube-creators-earnings/"><u>2024 Approved The Investor’s Edge Tapping Into YouTube Creators' Earnings</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-restore-quality-in-highly-compressed-images-tips-and-tricks/"><u>How to Restore Quality in Highly Compressed Images: Tips and Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-adventure-meet-and-communicate-with-famous-star-wars-bots-directly-on-disneyland-grounds/"><u>New Adventure: Meet and Communicate with Famous Star Wars Bots Directly on Disneyland Grounds!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prolonging-the-power-of-your-cleaner-bot-essential-tips-to-boost-your-robot-vacuums-battery-life-expert-advice-from-zdnet/"><u>Prolonging the Power of Your Cleaner Bot: Essential Tips to Boost Your Robot Vacuum's Battery Life | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-a-roborock-vacuum-the-best-models-tested-for-2tier-review-wired/"><u>Ultimate Guide to Choosing a Roborock Vacuum: The Best Models Tested for 2Tier Review | Wired</u></a></li>
+</ul></div>
 

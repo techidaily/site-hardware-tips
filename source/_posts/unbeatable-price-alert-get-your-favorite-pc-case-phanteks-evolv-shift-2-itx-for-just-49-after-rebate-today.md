@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Price Alert! Get Your Favorite PC Case, Phanteks Evolv Shift 2 (ITX), for Just $49 After Rebate Today!
-date: 2024-08-19T02:31:04.517Z
-updated: 2024-08-20T02:31:04.517Z
+date: 2025-01-19T00:37:38.095Z
+updated: 2025-01-25T01:57:38.238Z
 tags:
   - cases
 categories:
@@ -57,6 +57,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  So, about the Terra's adjustable spine: In order to make the absolute best possible use of the case's scant 6.02-inch width, a single piece of metal is where you'll mount the Mini-ITX motherboard, on one side, and your graphics card on the other (a PCIe 4 riser cable comes pre-installed). And by loosening two screws on the top and two on the bottom (easy to spot as they sit atop orange plastic spacers), you can move that spine to one of seven different evenly spaced positions to give you more room on the CPU and PSU side, or more room on the graphics card side.
@@ -68,8 +72,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -82,21 +87,14 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
@@ -104,8 +102,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -114,9 +113,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Next, I spun the case around and installed my GPU. For this build, I used an old Gigabyte RTX 2060 Super. I could have installed something thicker and a couple of inches longer here, but the Gigabyte card wasn't currently in another system, my Zotac GTX 1080 Ti was borderline too thick (and too old), and the Colorful RTX 4090 in my main system is too long, at over 13 inches. I'd say in most instances, you should expect to fit most 4070-class cards in this case – as long as it's not one of the crazy thick overbuild models. Higher-end Nvida FE cards should also fit, but then you're going to need a larger SFX-L power supply, and I don't feel great about all that heat-generating hardware going into a cramped case with, at best, a single intake fan. Again, Fractal could have made this case just a little bigger to accommodate more powerful cards. But as it is, it's probably good that you can't quite fit the most powerful, most overclocked cards in this case, no matter how vented all the panels are.
@@ -133,9 +129,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -143,6 +136,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
  One other thing of note about the Fractal Terra is that I don't love the matte finish on the aluminum front and sides. It looks nice out of the box, but feels a bit rough rather than the smooth metal you might be expecting – a bit like an old chalkboard. As such, at least with the black model I tested, it has a tendency to pick up and show smudges or small bits of material or fibers from paper towels or cloths you might use to wipe it down (or even just my own fingers). This is fairly minor, but in a case that's so obviously geared toward pretty design, the fact that the front is a bit hard to keep clean feels like an oversight.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -158,8 +155,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +162,21 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-navigate-the-digital-landscape-effective-use-of-screen-sharing-on-skype-at-home-for-2024/"><u>[New] Navigate the Digital Landscape Effective Use of Screen Sharing on Skype at Home for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-social-snippets-showcase-twitters-trending-threads/"><u>[Updated] 2024 Approved Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlock-your-fb-potential-with-these-video-engagement-techniques/"><u>[Updated] In 2024, Unlock Your FB Potential with These Video Engagement Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-craft-selecting-the-top-5-web-based-title-makers/"><u>[Updated] Mastering the Craft Selecting the Top 5 Web-Based Title Makers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-prime-listening-guide-to-youtube-standards/"><u>[Updated] The Prime Listening Guide to YouTube Standards</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubers-with-a-glamour-touch-top-names/"><u>[Updated] YouTubers with a Glamour Touch Top Names</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-using-chatgpt-copilot-features-and-benefits/"><u>A Comprehensive Guide to Using ChatGPT Copilot: Features and Benefits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/concerned-about-windows-malware-on-your-pc-effective-strategies-for-swift-identification-and-removal/"><u>Concerned About Windows Malware on Your PC? Effective Strategies for Swift Identification & Removal</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-your-online-presence-secrets-of-youtube-live-with-wirecast-for-2024/"><u>Elevate Your Online Presence Secrets of Youtube Live with WireCast for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhancing-human-connections-intuition-robotics-boosts-social-bot-with-cutting-edge-generative-ai-technology-zdnet-insight/"><u>Enhancing Human Connections: Intuition Robotics Boosts Social Bot with Cutting-Edge Generative AI Technology - ZDNet Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-pocket-sized-to-prolific-cleaner-discover-the-zdnets-ultra-compact-vacuum-revolution/"><u>From Pocket-Sized to Prolific Cleaner: Discover the ZDNET's Ultra-Compact Vacuum Revolution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-small-to-great-cleaning-solutions-unveiling-the-capabilities-of-this-dinner-plate-sized-robot-vacuum/"><u>From Small to Great Cleaning Solutions: Unveiling the Capabilities of This Dinner-Plate Sized Robot Vacuum</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-dust-busting-a-first-hand-look-at-a-unique-all-in-one-robot-vacuum-and-handheld-device-reviewed-by-tech-guru-on-zdnet/"><u>Revolutionizing Dust Busting: A First-Hand Look at a Unique All-in-One Robot Vacuum and Handheld Device Reviewed by Tech Guru on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-pet-friendly-robot-vacuums-comprehensive-reviews-and-comparisons-techradar/"><u>Top Rated Pet-Friendly Robot Vacuums : Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Yoga Book ^9I: Will Lenovo Redefine Multitasking with Its Latest Dual-Screen Laptop Offering, According to ZDNet?"
-date: 2025-01-11T19:03:54.265Z
-updated: 2025-01-18T17:06:26.507Z
+date: 2025-01-18T18:15:38.894Z
+updated: 2025-01-24T16:37:35.123Z
 tags:
   - laptops
 categories:
@@ -26,11 +26,11 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take screenshots on any laptop
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements
 
@@ -42,10 +42,6 @@ While the process for taking a screenshot on every laptop varies somewhat, the b
 
 ### **Option 1: The old fashioned way**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use your Print Screen key
 
 The simplest and way to capture your entire screen at once is to use Windows' built in hotkey: the **Print Screen Key.** The non-standard nature of laptop keyboards mean this key might be in one of several places. Often its located near the top right, as it would be on a full-sized keyboard, but it can also be on the bottom, as it is on the Lenovo example below. 
@@ -55,6 +51,10 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -67,6 +67,10 @@ From here, you can edit the image, resize it, crop it, and save it. You've now g
 An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
@@ -86,6 +90,10 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -96,10 +104,6 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ### Is there an easy way to record video of my laptop screen too?
@@ -107,16 +111,12 @@ Michael Gariffo/ZDNET
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,15 +157,17 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-experts-guide-to-instagrams-licensed-music-posting-policies/"><u>[New] 2024 Approved The Expert’s Guide to Instagram's Licensed Music Posting Policies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/24m-expansive-residence-in-texas-outfitted-with-a-state-of-the-art-5786-sq-ft-tech-hub-and-unique-liquid-immersion-thermal-regulation-bedrooms-not-included.5/"><u>$2.4M Expansive Residence in Texas Outfitted With a State-of-the-Art 5,786 Sq Ft Tech Hub & Unique Liquid Immersion Thermal Regulation - Bedrooms Not Included</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dvd-reader-disappearance-issue-solved-in-win11/"><u>DVD Reader Disappearance Issue Solved in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/dxvk-boosting-performance-why-it-matters-on-windows/"><u>DXVK: Boosting Performance - Why It Matters on Windows</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computer-systems-with-toms-hardware-specialists/"><u>Exploring Advanced Computer Systems with Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-advantages-of-the-arctic-freezer-36-a-milestone-in-economical-air-cooling-technology/"><u>Exploring the Advantages of the Arctic Freezer 36: A Milestone in Economical Air Cooling Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secrets-to-seamless-layers-and-structural-integrity-in-additive-manufacturing/"><u>Secrets to Seamless Layers & Structural Integrity in Additive Manufacturing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/sifting-through-cloud-costs-for-maximum-savings/"><u>Sifting Through Cloud Costs for Maximum Savings</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-note-detects-any-devices-via-bluetooth/"><u>Troubleshooting: Windows Note Detects Any Devices via Bluetooth</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-face-editing-battle-is-hero-series-better-than-the-cube-in-2024/"><u>[Updated] Face-Editing Battle Is Hero Series Better Than The Cube, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-visionary-vistas-the-ultimate-list-of-motivating-ig-images-for-2024/"><u>[Updated] Visionary Vistas The Ultimate List of Motivating IG Images for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-itel-a60-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Itel A60 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-digital-gifs-for-2024/"><u>Navigating the World of Digital GIFs for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-non-samsung-non-tcl-android-tablets-discover-the-best-alternatives/"><u>Top Recommended Non-Samsung, Non-TCL Android Tablets: Discover the Best Alternatives!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-six-strategies-for-refreshing-and-optimizing-your-gadgets-this-spring-insights-from-zdnet/"><u>Top Six Strategies for Refreshing and Optimizing Your Gadgets This Spring - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-kindle-devices-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Kindle Devices : Comprehensive Reviews by Tech Gurus - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-android-tablets-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Android Tablets : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-tablet-addons-expert-picks-by-techadvisor/"><u>Top-Rated Tablet Addons : Expert Picks by TechAdvisor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-worlds-real-learning/"><u>Virtual Worlds, Real Learning</u></a></li>
 </ul></div>
 

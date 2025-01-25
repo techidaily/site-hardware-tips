@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!"
-date: 2025-01-15T18:23:26.803Z
-updated: 2025-01-18T17:05:35.836Z
+date: 2025-01-23T00:29:29.196Z
+updated: 2025-01-24T17:06:41.676Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,21 +87,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-adobe-lightroom-essentials-review/"><u>[New] Adobe Lightroom Essentials Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-maximizing-your-gaming-with-xbox-screenshots/"><u>[New] Maximizing Your Gaming with Xbox Screenshots</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagram-rising-video-view-counts/"><u>[Updated] 2024 Approved Mastering Instagram Rising Video View Counts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-energy-systems-by-fsp-next-gen-12v-6-pin-twinned-connectors-released/"><u>Advanced Energy Systems by FSP: Next-Gen 12V, 6-Pin Twinned Connectors Released</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-extends-support-with-free-16-pin-cables-to-enhance-your-rog-psus-reliability-and-security/"><u>Asus Extends Support with Free 16-Pin Cables to Enhance Your ROG PSU's Reliability and Security</u></a></li>
-<li><a href="https://win-net.techidaily.com/easy-methods-for-moving-files-from-ipadiphone-onto-a-separate-hard-drive/"><u>Easy Methods for Moving Files From iPad/iPhone Onto a Separate Hard Drive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-gear-insights-and-comparisons-by-team-toms-technology/"><u>Expert Gear Insights and Comparisons by Team Tom's Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-the-evga-supernova-series-850-gen7-psu-a-comprehensive-review/"><u>In-Depth Evaluation of the EVGA SuperNova Series 850 Gen7 PSU: A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-the-nzxt-c1500-platinum-psu-a-comprehensive-review/"><u>In-Depth Evaluation: The NZXT C1500 Platinum PSU - A Comprehensive Review</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c12-plusfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C12 PlusFRP Lock</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/maximize-profits-scale-up-with-digiarty-software-reselling-opportunities/"><u>Maximize Profits: Scale Up with Digiarty Software Reselling Opportunities</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-through-the-excellent-5-virtual-title-experts/"><u>Navigating Through the Excellent 5 Virtual Title Experts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transforming-flv-videos-into-compatible-3gp-format/"><u>Step-by-Step Guide: Transforming FLV Videos Into Compatible 3GP Format</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-hardware-reviews-and-guides/"><u>Tom's Tech Insights: Expert Hardware Reviews & Guides</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-itunes-find-my-iphone-what-does-offline-mean-and-solutions/"><u>Understanding iTunes Find My iPhone: What Does 'Offline' Mean & Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-hardware-secrets-with-toms-technology-experts/"><u>Unveiling Hardware Secrets with Tom's Technology Experts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-record-presentation-for-digital-projection/"><u>[New] 2024 Approved Record Presentation for Digital Projection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfect-your-iphone-photography-top-tier-filming-aids/"><u>[Updated] 2024 Approved Perfect Your iPhone Photography Top-Tier Filming Aids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-scams-to-watch-out-for/"><u>5 ChatGPT Scams to Watch Out For</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-innovative-features-of-teslas-new-cybertruck-a-review-by-a-tech-enthusiast-on-zdnet/"><u>Exploring the Innovative Features of Tesla’s New Cybertruck – A Review by a Tech Enthusiast on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/google-unveils-a-decade-of-search-expertise-to-boost-green-startups-in-its-new-accelerator-initiative-the-tech-chronicle/"><u>Google Unveils a Decade of Search Expertise to Boost Green Startups in Its New Accelerator Initiative | The Tech Chronicle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-analysis-of-paralympics-and-olympics-data-can-drive-energy-efficiency-at-the-upcoming-games-a-zdnet-perspective/"><u>How Analysis of Paralympics & Olympics Data Can Drive Energy Efficiency at the Upcoming Games: A ZDNet Perspective</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovating-green-pioneering-tech-strategies-for-a-sustainable-future-zdnet/"><u>Innovating Green: Pioneering Tech Strategies for a Sustainable Future | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-green-giant-of-telecom-how-the-galaxy-s23-takes-sustainability-to-new-heights-zdnet-insider/"><u>Introducing the Green Giant of Telecom: How the Galaxy S23 Takes Sustainability to New Heights | ZDNet Insider</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-e-bike-innovation-potent-enough-to-dethrone-traditional-cars-uncovering-a-startling-truth-zdnet/"><u>Is the E-Bike Innovation Potent Enough to Dethrone Traditional Cars? Uncovering a Startling Truth | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-portable-photovoltaic-charge-stations-the-ultimate-guide-techradar-comparison/"><u>Leading Portable Photovoltaic Charge Stations: The Ultimate Guide - TechRadar Comparison</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-gardening-top-resources-and-advice-by-zdnet/"><u>Master the Art of Gardening: Top Resources & Advice by ZDNet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mkv-mastery-best-mac-app-compilation-for-2024/"><u>MKV Mastery Best Mac App Compilation for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigate-a-sea-of-tiktok-saves-with-proper-editing-know-how/"><u>Navigate a Sea of TikTok Saves with Proper Editing Know-How</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-not-working-diagnose-and-solve-common-streaming-problems-today/"><u>Netflix Not Working: Diagnose & Solve Common Streaming Problems Today</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-reno-11f-5g-music-recovery-recover-deleted-music-from-oppo-reno-11f-5g-by-fonelab-android-recover-music/"><u>Oppo Reno 11F 5G Music Recovery - Recover Deleted Music from Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/various-methods-for-capturing-screenshots-on-your-computer/"><u>Various Methods for Capturing Screenshots on Your Computer</u></a></li>
 </ul></div>
 

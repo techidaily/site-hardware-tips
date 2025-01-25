@@ -1,7 +1,7 @@
 ---
 title: Selecting the Right Components for Your Build in Our Q1 2016 Masterclass Series
-date: 2024-08-19T02:31:58.124Z
-updated: 2024-08-20T02:31:58.124Z
+date: 2025-01-23T17:04:46.797Z
+updated: 2025-01-25T01:46:02.334Z
 tags:
   - build
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/6sVAhf3iw5iuY4KznYC35f-320-80.jpg
 
  After[details started to slip out earlier this month](https://tools.techidaily.com) , Intel has now officially revealed the company’s latest Next Unit of Computing (NUC) family, code-named “Bean Canyon.” The new devices bring the Coffee Lake CPU microarchitecture, as well as Iris Plus iGPUs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Higher TDP And Performance
 
  The NUCs are moving up in the world, at least when it comes to performance. Unlike most NUCs that Intel has released so far, including the previous "Baby Canyon" family, these new models almost double the TDP from 15W to 28W.
@@ -29,19 +33,28 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/6sVAhf3iw5iuY4KznYC35f-320-80.jpg
 
 ![Intel NUC Kit NUC8i3BEK/NUC8i5BEK Features – Rear](https://cdn.mos.cms.futurecdn.net/j2fcR5vYokSK9VbMMEmPrd-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Intel NUC Kit NUC8i3BEK/NUC8i5BEK Features – Rear
 
  If needed, the devices can also be configured to run with a lower TDP of 20W. As most people prefer the higher-performance, most Bean Canyon NUCs will likely remain at their default TDP.
 
  If you’d like a NUC with even higher performance, Intel also offers the[“Hades Canyon”](https://tools.techidaily.com) NUC, with up to 100W TDP and AMD-made "Vega M" graphics, targeted gamers. Hades Canyon NUCs were released earlier this year and they are based on the previous-generation Kaby Lake microarchitecture.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Iris Plus GPU, Fast Wi-Fi Performance
 
  All Bean Canyon SKUs will support Iris Plus Graphics 655, with 128MB eDRAM, 48 execution units, and a 1200MHz clock speed. The new devices also support the USB 3.1 gen 2 (10Gbps) standard on all of their four Type-A ports and come with Intel’s Wireless-AC 9560 with Bluetooth 5.0 WLAN module. The older DisplayPort 1.2 standard, as well as Thunderbolt 3 are also supported via USB Type-C connectors.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,8 +66,9 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/6sVAhf3iw5iuY4KznYC35f-320-80.jpg
 ![Block diagram of the major functional areas of the board](https://cdn.mos.cms.futurecdn.net/gtoh2WGfZ6YS3AEbLS7arH-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Block diagram of the major functional areas of the board
 
  The new 2x2 multi-user, multiple-input, multiple-output technology (MU-MIMO) Wi-Fi module gets a significant boost in performance over the previous generation, reaching a theoretical maximum of 1.73Gbps bandwidth. However, the new Wi-Fi module lacks the[WPA3 security standard](https://tools.techidaily.com) announced by the Wi-Fi Alliance this January.
@@ -69,8 +83,6 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/6sVAhf3iw5iuY4KznYC35f-320-80.jpg
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,4 +90,24 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/6sVAhf3iw5iuY4KznYC35f-320-80.jpg
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-peering-into-the-digital-universe-what-is-vr/"><u>[New] Peering Into the Digital Universe What Is VR?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-5-essential-gameplay-cams-for-live-streamers/"><u>[Updated] In 2024, Top 5 Essential Gameplay Cams for Live Streamers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-easiest-way-to-convert-your-youtube-videos-into-texts-for-free/"><u>2024 Approved The Easiest Way to Convert Your YouTube Videos Into Texts for FREE</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-huawei-nova-10-youth-edition-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Huawei Nova 10 Youth Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/busting-the-blue-light-myth-how-amazons-alexa-boosted-our-home-office-efficiency-read-on-zdnet/"><u>Busting the Blue Light Myth: How Amazon's Alexa Boosted Our Home Office Efficiency | Read on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/coming-soon-an-exclusive-certification-ensuring-the-protection-of-smart-home-technologies/"><u>Coming Soon! An Exclusive Certification Ensuring the Protection of Smart Home Technologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/constructing-a-dream-ai-powered-home-the-first-five-essential-decisions-unveiled-smart-living-hub/"><u>Constructing a Dream AI-Powered Home: The First Five Essential Decisions Unveiled | Smart Living Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-holiday-glow-exploring-the-groundbreaking-launch-of-nanoleafs-matter-certified-lights/"><u>Eco-Friendly Holiday Glow: Exploring the Groundbreaking Launch of Nanoleaf's Matter-Certified Lights</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/expert-strategies-for-effortless-auto-sync-from-sharepoint-to-your-onedrive-account/"><u>Expert Strategies for Effortless Auto-Sync From SharePoint to Your OneDrive Account</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apple-music-enables-seamless-playlist-sharing-with-youtube-music-a-step-by-step-guide/"><u>How Apple Music Enables Seamless Playlist Sharing with YouTube Music – A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-your-workspace-with-this-eco-friendly-aquarium-lighting-offer-on-amazon-prime-a-must-read-for-office-serenity-seekers-insights-from-zdnet/"><u>Illuminate Your Workspace with This Eco-Friendly Aquarium Lighting Offer on Amazon Prime: A Must-Read for Office Serenity Seekers - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-nanoleafs-latest-innovation-matter-ready-smart-lighting-revealed-at-ces-2023-zdnet-insights/"><u>Introducing Nanoleaf's Latest Innovation: Matter-Ready Smart Lighting Revealed at CES 2023 – ZDNet Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-pro-master-the-art-of-broadcasting-with-manycam/"><u>Live Streaming Pro: Master the Art of Broadcasting with ManyCam</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastery-tutorial-how-to-repair-halo-infinity-when-it-says-no-connection-to-our-servers/"><u>Mastery Tutorial: How to Repair Halo Infinity When It Says No Connection to Our Servers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-best-buy-offers-in-june-2024-exclusive-picks-and-savings-spotlighted-by-zdnet/"><u>Top Best Buy Offers in June 2024: Exclusive Picks and Savings Spotlighted by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-philips-hue-lighting-solutions-detailed-comparison-by-tech-experts-at-zdnet/"><u>Top Rated Philips Hue Lighting Solutions - Detailed Comparison by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003466476-ultimate-troubleshooting-steps-for-the-2022-leaf-error-in-apex-legends/"><u>Ultimate Troubleshooting Steps for the 2022 Leaf Error in Apex Legends!</u></a></li>
+</ul></div>
 

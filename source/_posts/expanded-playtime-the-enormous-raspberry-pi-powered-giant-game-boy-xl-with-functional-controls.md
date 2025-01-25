@@ -1,7 +1,7 @@
 ---
 title: "Expanded Playtime: The Enormous Raspberry Pi-Powered Giant Game Boy XL with Functional Controls"
-date: 2024-08-19T02:26:51.512Z
-updated: 2024-08-20T02:26:51.512Z
+date: 2025-01-23T20:26:56.136Z
+updated: 2025-01-24T22:36:05.125Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
 
  As we said before, this is a work in progress, and plans are in the works for new features. One of the most significant upgrades Spiritual\_Aside\_7859 plans to include is speech recognition so you can verbally communicate with the koala bear assistant. In the meantime, you can see what this[Raspberry Pi project](https://tools.techidaily.com) is capable of over at[Reddit](https://www.reddit.com/r/arduino/comments/1deo04x/ai%5Fassistant) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,9 +60,20 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-blend-modes-for-perfect-clip-integration-for-2024/"><u>[New] Blend Modes for Perfect Clip Integration for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-free2x-webcam-recorder-software-review-for-2024/"><u>[Updated] Free2X Webcam Recorder Software Review for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-deciphering-srt-cues-in-oses-with-ease/"><u>2024 Approved Deciphering SRT Cues in OSes with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/improving-zoom-video-quality-essential-tips-for-2024/"><u>Improving Zoom Video Quality Essential Tips for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-creativity-awaits-with-the-launch-of-western-digitals-latest-nvme-ssd-technology/"><u>Next-Level Creativity Awaits with the Launch of Western Digital's Latest NVMe SSD Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimize-your-audio-experience-essential-soundbar-settings-everyone-needs/"><u>Optimize Your Audio Experience: Essential Soundbar Settings Everyone Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-8a-a-smart-alternative-before-the-arrival-of-pixel-9/"><u>Pixel 8A: A Smart Alternative Before the Arrival of Pixel 9</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/project-astra-is-this-googles-game-changer-for-wearable-tech-as-revolutionary-as-the-iphone-was-for-mobile-phones/"><u>Project Astra: Is This Google's Game-Changer for Wearable Tech as Revolutionary as the iPhone Was for Mobile Phones?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-clear-advantages-of-going-for-a-2-in-1-tabletlaptop-hybrid-instead-of-a-conventional-notebook/"><u>The Clear Advantages of Going for a 2-in-1 Tablet/Laptop Hybrid Instead of a Conventional Notebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-unusual-attachment-my-struggle-to-part-with-quirky-bluetooth-headphones/"><u>The Unusual Attachment: My Struggle to Part with Quirky Bluetooth Headphones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-no-cost-video-editing-applications-for-windows-11-cropping-trimming-and-more/"><u>Top 5 No-Cost Video Editing Applications for Windows 11: Cropping, Trimming & More</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tp-links-latest-wifi-adapter-drivers-available-now-compatible-with-windows-10-8-and-7-systems/"><u>TP-Link's Latest WiFi Adapter Drivers Available Now - Compatible with Windows 10, 8 and 7 Systems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->

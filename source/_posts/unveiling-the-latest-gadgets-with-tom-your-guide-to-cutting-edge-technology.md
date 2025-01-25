@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest Gadgets with Tom - Your Guide to Cutting-Edge Technology
-date: 2024-08-19T02:31:20.965Z
-updated: 2024-08-20T02:31:20.965Z
+date: 2025-01-23T18:02:46.346Z
+updated: 2025-01-25T02:55:50.102Z
 tags:
   - cases
 categories:
@@ -63,13 +63,14 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
  This "sandwich style" setup offers extra diversity in terms of what components you can install, but at the same time, the wiggle room is pretty limited. You can move the spine about 1.5 inches one way or the other, even with parts attached and, again, the case's total width is just over 6 inches. I have to wonder why, particularly in today's world of three-slot-plus GPUs, Fractal didn't just make the case a couple of inches wider – and maybe one or two taller – to accommodate more fan mounting options and better CPU cooling.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Build Experience With the Fractal Design Terra
 
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -82,16 +83,14 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
@@ -99,8 +98,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -110,8 +110,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Next, I spun the case around and installed my GPU. For this build, I used an old Gigabyte RTX 2060 Super. I could have installed something thicker and a couple of inches longer here, but the Gigabyte card wasn't currently in another system, my Zotac GTX 1080 Ti was borderline too thick (and too old), and the Colorful RTX 4090 in my main system is too long, at over 13 inches. I'd say in most instances, you should expect to fit most 4070-class cards in this case – as long as it's not one of the crazy thick overbuild models. Higher-end Nvida FE cards should also fit, but then you're going to need a larger SFX-L power supply, and I don't feel great about all that heat-generating hardware going into a cramped case with, at best, a single intake fan. Again, Fractal could have made this case just a little bigger to accommodate more powerful cards. But as it is, it's probably good that you can't quite fit the most powerful, most overclocked cards in this case, no matter how vented all the panels are.
@@ -137,8 +138,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  All in all, the Fractal Terra is a striking and mostly well-thought-out Mini-ITX case. I doubt it will have as wide an appeal as its larger North cousin since component and airflow options are far more limiting here. But if you don't need to pack in the absolute most powerful components (particularly on the CPU side) and you don't need more than a few storage drives, Fractal has once again delivered one of the prettiest cases available – especially if you want a respite from the RGB and aggressive designs that dominate the gaming side of the PC realm.
@@ -153,8 +155,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +162,23 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>2024 Approved Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-roborock-vacuums-ranked-in-depth-analysis-and-expert-evaluations-from-zdnet/"><u>2024'S Leading Roborock Vacuums Ranked: In-Depth Analysis and Expert Evaluations From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/british-numismatist-transforms-obsolete-technology-into-precious-treasure/"><u>British Numismatist Transforms Obsolete Technology Into Precious Treasure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-robotic-cleaners-the-in-depth-review-process-at-zdnet/"><u>Evaluating Robotic Cleaners - The In-Depth Review Process at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-future-of-home-cleaning-save-on-the-irobot-braava-jet-m6-robot-mop-for-just-299-exclusive-offer/"><u>Experience the Future of Home Cleaning: Save on the iRobot Braava Jet M6 Robot Mop for Just $299 - Exclusive Offer!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-moto-g04-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Moto G04 Phone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-camon-20-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Camon 20 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instant-gratification-boosting-fb-video-times-for-2024/"><u>Instant Gratification Boosting FB Video Times for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-workstation-assessment-on-the-new-microsoft-surface-pro-eight-by-zdnet-experts/"><u>Professional Workstation Assessment on the New Microsoft Surface Pro Eight by ZDNet Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-fix-tweeter-conversion-for-social-sharing/"><u>Quick-Fix Tweeter Conversion for Social Sharing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/roborocks-priciest-automated-dustbuster-unveiled-4-compelling-reasons-for-your-purchase-techspot-review/"><u>Roborock's Priciest Automated Dustbuster Unveiled: 4 Compelling Reasons for Your Purchase | TechSpot Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/shop-now-and-secure-your-irobot-braava-jet-m6-automatic-mopping-system-for-only-299-before-its-too-late/"><u>Shop Now & Secure Your iRobot Braava Jet M6 Automatic Mopping System for Only $299 Before It's Too Late!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-diy-way-to-dust-and-deodorize-household-stereo-speakers/"><u>The DIY Way to Dust and Deodorize Household Stereo Speakers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-spots-to-discover-your-perfect-robo-cat-companion-why-the-library-reigns-supreme-insights-from-zdnet/"><u>Top Spots to Discover Your Perfect Robo-Cat Companion: Why the Library Reigns Supreme - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-floors-with-robotic-precision-and-score-320-off-now-on-amazon-zdnets-top-pick-for-smart-home-upgrades/"><u>Transform Your Floors with Robotic Precision & Score $320 Off Now on Amazon – ZDNet's Top Pick for Smart Home Upgrades!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unleash-the-power-of-stars-with-these-top-7-mods-7/"><u>Unleash the Power of Stars with These Top 7 Mods (#7)</u></a></li>
+</ul></div>
 

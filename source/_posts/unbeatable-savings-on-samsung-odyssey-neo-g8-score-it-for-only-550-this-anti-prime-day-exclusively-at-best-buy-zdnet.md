@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Samsung Odyssey Neo G8 - Score It For Only $550 This Anti-Prime Day, Exclusively at Best Buy | ZDNET
-date: 2025-01-11T18:13:40.059Z
-updated: 2025-01-18T19:07:25.012Z
+date: 2025-01-23T16:10:42.183Z
+updated: 2025-01-24T22:09:34.894Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-crops-and-cultivation-compilation-for-2024/"><u>[New] The Ultimate Crops & Cultivation Compilation for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-navigating-google-voice-call-logging-with-ease/"><u>[Updated] 2024 Approved Navigating Google Voice Call Logging with Ease</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-conference-call-to-youtube-stream-how-to-broadcast-google-meet/"><u>[Updated] From Conference Call to YouTube Stream - How To Broadcast Google Meet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>[Updated] Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-corsair-cx750f-a-detailed-rgb-power-supply-assessment/"><u>Comprehensive Evaluation of the Corsair CX750F: A Detailed RGB Power Supply Assessment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-gadgets-with-toms-hardware-experts/"><u>Discover Cutting-Edge Gadgets with Tom’s Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hardcore-hardware-insights-by-tom-your-ultimate-guide/"><u>Hardcore Hardware Insights by Tom: Your Ultimate Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-2-directors-cut-downloads/"><u>In 2024, Top 2 Director's Cut Downloads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-reviews-of-the-gigabyte-ud750gm-high-wattage-power-supply/"><u>In-Depth Analysis & Reviews of the Gigabyte UD750GM High Wattage Power Supply</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-computer-gear-with-tom-in-depth-reviews-from-toms-hardware-experts/"><u>Navigating Computer Gear with Tom: In-Depth Reviews From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/performance-analysis-and-insights-on-the-evga-supernova-85nv-gaming-psu-gen-7-review/"><u>Performance Analysis and Insights on the EVGA SuperNova 85Nv Gaming PSU (Gen 7) Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-asus-thor-series-the-mighty-hammer-shaped-mjolnir-uninterruptible-power-supply/"><u>Revolutionary Asus Thor Series: The Mighty Hammer-Shaped Mjolnir Uninterruptible Power Supply</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/scrutinizing-the-usability-of-vivavideo-app/"><u>Scrutinizing the Usability of VivaVideo App</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-internal-webcam-woes-with-these-simple-fixes-for-windows-users/"><u>Solve Your Internal Webcam Woes with These Simple Fixes for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-hot-40-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Hot 40 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-psus-comprehensive-guide-on-power-supply-units/"><u>Understanding PSUs: Comprehensive Guide on Power Supply Units</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-itel-s23plus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Itel S23+ Phones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-minecraft-homestead-essentials-6-10-for-2024/"><u>[New] Minecraft Homestead Essentials #6-10 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-guide-to-high-definition-hd-youtube-and-fb-videos/"><u>[New] The Ultimate Guide to High Definition (HD) YouTube & FB Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-dynamic-color-filters-the-ultimate-15-look-up-table-picks-for-gopro/"><u>[Updated] 2024 Approved Dynamic Color Filters The Ultimate 15 Look-Up Table Picks for GOPRO</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-behind-the-sequence-celebrating-youtubes-top-cosmetics-artists/"><u>[Updated] In 2024, Behind the Sequence Celebrating YouTube's Top Cosmetics Artists</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-8-best-free-mp3-downloader-for-android/"><u>2024 Approved 8 Best Free MP3 Downloader for Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/a-beginners-guide-to-audio-editing-in-final-cut-pro/"><u>A Beginners Guide to Audio Editing in Final Cut Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-monetization-mishaps-essential-youtube-checks-for-2024/"><u>Avoid Monetization Mishaps Essential YouTube Checks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surviving-extended-blackouts-with-ecoflows-innovative-battery-system-an-insightful-review-for-zdnet-readers/"><u>Surviving Extended Blackouts with EcoFlow's Innovative Battery System - An Insightful Review for ZDNet Readers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-collaboration-tools-spotlight-what-does-cisco-reveal-zdnet/"><u>Sustainable Collaboration Tools Spotlight: What Does Cisco Reveal? | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustaining-the-next-wave-balancing-eco-friendly-tech-with-soaring-ai-energy-requirements/"><u>Sustaining the Next Wave: Balancing Eco-Friendly Tech with Soaring AI Energy Requirements</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/techniques-securitaires-pour-la-transmission-sans-faute-de-vos-bases-de-donnees-sql-vers-un-serveur-a-letranger/"><u>Techniques Sécuritaires Pour La Transmission Sans Faute De Vos Bases De Données SQL Vers Un Serveur À L'Étranger</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-unfolds-with-samsungs-latest-innovations-galaxy-s23-and-book-4-pro-analyzed-by-tech-experts-at-zdnet/"><u>The Future Unfolds with Samsung's Latest Innovations: Galaxy S23 & Book 4 Pro Analyzed by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-next-generation-revealed-how-samsungs-latest-devices-s23-and-bookpro-shape-our-technological-destiny-zdnet/"><u>The Next Generation Revealed: How Samsung's Latest Devices, S23 and BookPro, Shape Our Technological Destiny | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-sawdust-into-art-a-revolutionary-3d-printing-tech-creates-beautiful-wooden-instruments-and-fixtures-zdnet/"><u>Transforming Sawdust Into Art: A Revolutionary 3D Printing Tech Creates Beautiful Wooden Instruments & Fixtures - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-deals-get-any-bestselling-weber-electric-grill-for-just-50-less-shop-now-on-zdnet/"><u>Unlock Exclusive Deals - Get Any Bestselling Weber Electric Grill for Just $50 Less! Shop Now on ZDNET.</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-10-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/winning-the-war-against-climate-catastrophe-essential-technology-advances-for-a-sustainable-future-zdnet/"><u>Winning the War Against Climate Catastrophe: Essential Technology Advances for a Sustainable Future | ZDNet</u></a></li>
 </ul></div>
 

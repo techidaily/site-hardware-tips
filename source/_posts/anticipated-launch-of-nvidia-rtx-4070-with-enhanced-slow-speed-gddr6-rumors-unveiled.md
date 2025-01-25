@@ -1,7 +1,7 @@
 ---
 title: Anticipated Launch of Nvidia RTX 4070 with Enhanced Slow-Speed GDDR6 – Rumors Unveiled
-date: 2024-08-19T02:29:32.625Z
-updated: 2024-08-20T02:29:32.625Z
+date: 2025-01-20T02:34:36.341Z
+updated: 2025-01-24T22:12:01.352Z
 tags:
   - components
 categories:
@@ -16,6 +16,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
  Compared to other eGPU solutions, the Wiko Hi GT Cube doesn't seem particularly concerned with expanding storage or I/O. Instead, the focus is on the total 100-watt charging capacity. The overall pricing of 399 Chinese yuan (broadly equivalent to about $558) places it lower than most other 7600M XT eGPUs, which usually exceed $600.
 
  Also, while Wika's Wiko Hi GT may come from a company that primarily sells rebadged Huawei products, they don't seem to be a Huawei subsidiary...though the Hi GT's China launch appears to have been done with the recent release of the Huawei MateBook GT 14 in mind.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wiko Hi GT Cube eGPU Specifications
 
@@ -37,6 +41,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
 
  Overall, the Wiko Hi GT Cube does seem to be a compelling offer, and it is like a suitable companion to the Huawei Mate GT 14 laptop, but with one very crucial downside. While Thunderbolt support is listed, the specific version of Thunderbolt is not. Thunderbolt 3 and 4 are most likely considering the usage of USB4— and while all three standards are typically capped at 40 Gigabits, Thunderbolt 4 is still the best for driving an eGPU. OCuLink would be even better, but unfortunately, it isn't present in any form.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +59,6 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,9 +66,21 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-interplatform-video-uploading-twitter-and-tumblr-synced/"><u>[Updated] 2024 Approved Interplatform Video Uploading Twitter & Tumblr Synced</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-windows-11-essential-upgrades/"><u>[Updated] Exploring Windows 11 Essential Upgrades</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-pcs-speed-with-top-tier-memory-solutions-workstation-and-gamer-editions-revealed-by-zdnet/"><u>Boost Your PC's Speed with Top-Tier Memory Solutions: Workstation and Gamer Editions Revealed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/complete-guide-resetting-your-windows-10-computer-back-to-default-settings-zdnet/"><u>Complete Guide: Resetting Your Windows 10 Computer Back to Default Settings [ZDNet]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-now-addressing-the-steam-locked-error-challenge/"><u>Fix Now: Addressing the Steam Locked Error Challenge</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-elevate-user-participation-via-personalized-ig-story-polls/"><u>In 2024, Elevate User Participation via Personalized IG Story Polls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-nacon-revolution-x-controller-latest-gaming-tech-unveiled/"><u>In-Depth Analysis of the Nacon Revolution X Controller - Latest Gaming Tech Unveiled</u></a></li>
+<li><a href="https://facebook.techidaily.com/maintaining-professionalism-blocking-negative-profiles-from-fb/"><u>Maintaining Professionalism: Blocking Negative Profiles From FB</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-ends-hopes-for-windows-10-lifeline-an-unspoken-update-announcement-tech-insights/"><u>Microsoft Ends Hopes for Windows 10 Lifeline – An Unspoken Update Announcement | Tech Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-level-risks-in-generative-ai-development/"><u>Next-Level Risks in Generative AI Development</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pixel-snap-tracker-plus/"><u>Pixel Snap Tracker Plus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simple-steps-to-connect-internal-ssd-via-usb-c-interface-on-your-apple-or-windows-device-digitalsolvers/"><u>Simple Steps to Connect Internal SSD via USB-C Interface on Your Apple or Windows Device | DigitalSolvers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-drone-enhancement-list-for-dji-phantom-4/"><u>The Ultimate Drone Enhancement List for DJI Phantom 4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-apple-devices-currently-best-to-avoid-insights-from-zdnet/"><u>Top 4 Apple Devices Currently Best to Avoid: Insights From ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

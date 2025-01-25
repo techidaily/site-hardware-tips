@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Hardware: The Definitive Source for PC Gear Insights and Evaluations"
-date: 2024-08-19T02:27:18.641Z
-updated: 2024-08-20T02:27:18.641Z
+date: 2025-01-18T21:44:56.801Z
+updated: 2025-01-25T01:27:45.648Z
 tags:
   - power-supply
 categories:
@@ -26,6 +26,10 @@ See more Real Deals below.
 * **Super Flower Leadex V Platinum PRO 850W PSU:** [**now $129 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-1204575385719253865%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsuper-flower-leadex-v-platinum-pro-sf-850f14tp-850w%252Fp%252F1HU-024C-00043) **(was $249)**
 * **Dell G3223D 32-inch USB-C Gaming Monitor:** [**now $299 at Dell**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-4397051959775015652%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-32-usb-c-gaming-monitor-g3223d%2Fapd%2F210-bejf%2Fmonitors-monitor-accessories) **(was $449)**
 * **Netgear 5-Port Gigabit Ethernet Switch:** [**now $14 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8422113522705017010-20) **(was $22)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -63,25 +67,27 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Back to Hubs & Switches
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Intel
 
@@ -93,9 +99,6 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Black
 
  Copper
@@ -105,8 +108,9 @@ Condition
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  New
 
  Refurbished
@@ -116,9 +120,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 52 deals
@@ -127,9 +131,6 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -288,8 +289,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,4 +296,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-audio-capture-access-and-assessment/"><u>[New] In 2024, Audio Capture Access & Assessment</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-guide-to-audacitys-professional-tracking/"><u>[New] In 2024, The Ultimate Guide to Audacity's Professional Tracking</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leveraging-video-shorts-to-generate-income-online/"><u>[New] Leveraging Video Shorts to Generate Income Online</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-2024-playbook-earning-your-keep-on-youtube-channel/"><u>[New] The 2024 Playbook Earning Your Keep on YouTube Channel</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-detailed-guide-crafting-powerful-video-thumbnails-for-content-marketing/"><u>[Updated] 2024 Approved Detailed Guide Crafting Powerful Video Thumbnails for Content Marketing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-guide-to-bordering-instagram-footage/"><u>[Updated] In 2024, Step-by-Step Guide to Bordering Instagram Footage</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-traps-in-the-web-avoiding-the-snare-of-buying-non-existent-supporters-for-2024/"><u>[Updated] Traps in the Web Avoiding the Snare of Buying Non-Existent Supporters for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-tablets-like-the-ipad-evolving-enough-to-dethrone-pcs-and-laptops-analysis-by-zdnet/"><u>Are Tablets Like the iPad Evolving Enough to Dethrone PCs and Laptops? | Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-chill-discover-the-best-low-cost-air-conditioners-for-savvy-shoppers-insights-from-zdnet/"><u>Budget-Friendly Chill: Discover the Best Low-Cost Air Conditioners for Savvy Shoppers – Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/endless-energy-on-the-go-discovering-the-indestructible-performance-of-zendures-super-mini-gops-battery-pack/"><u>Endless Energy on the Go: Discovering the Indestructible Performance of Zendure's Super Mini GOPS Battery Pack.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-for-superior-inkjet-printers-choosing-yours-flawlessly-pcmag/"><u>Expert Picks for Superior Inkjet Printers - Choosing Yours Flawlessly | PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-trendy-cooking-essentials-with-zdnets-ultimate-guide-14-must-have-tools-featured-on-tiktok/"><u>Explore Trendy Cooking Essentials with ZDNet's Ultimate Guide: 14 Must-Have Tools Featured on TikTok</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hts-into-profit-allocation-on-popular-youtube-shorts-for-2024/"><u>Insights Into Profit Allocation on Popular YouTube Shorts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-future-of-remote-collaboration-googles-new-workplace-video-calls-with-magic-window-technology-derived-from-project-starline-detailed-review-144/"><u>Introducing the Future of Remote Collaboration: Google's New Workplace Video Calls with 'Magic Window' Technology Derived From Project Starline, Detailed Review and Benefits Explained on ZDNet.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/raspberry-pi-starter-kit-step-by-step-assembly-instructions-inspired-by-zdnet-experts/"><u>Raspberry Pi Starter Kit: Step-by-Step Assembly Instructions Inspired by ZDNet Experts</u></a></li>
+<li><a href="https://discover-data.techidaily.com/step-by-step-masterclass-successfully-reinstalling-windows-asterisk-7-on-new-hardware-drives/"><u>Step-by-Step Masterclass: Successfully Reinstalling Windows Asterisk 7 on New Hardware Drives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-8-tech-tools-for-seamless-work-trips-as-endorsed-by-zdnets-industry-leaders/"><u>The Ultimate 8 Tech Tools for Seamless Work Trips, as Endorsed by ZDNet's Industry Leaders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-silent-gaming-mouse-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Silent Gaming Mouse : Comprehensive Testing & Reviews by Tech Experts | ZDNET</u></a></li>
+</ul></div>
 

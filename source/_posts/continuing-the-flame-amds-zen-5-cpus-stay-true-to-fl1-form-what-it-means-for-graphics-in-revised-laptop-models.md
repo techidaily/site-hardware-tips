@@ -1,7 +1,7 @@
 ---
 title: "Continuing the Flame: AMD's Zen 5 CPUs Stay True to FL1 Form – What It Means for Graphics in Revised Laptop Models"
-date: 2024-08-19T03:51:00.594Z
-updated: 2024-08-20T03:51:00.594Z
+date: 2025-01-17T22:58:34.191Z
+updated: 2025-01-24T23:01:25.977Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,23 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-video-selection-adding-to-your-youtube-playlists/"><u>[New] 2024 Approved Mastering Video Selection Adding to Your YouTube Playlists</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-gifify-it-free-method-for-twitter-videos-for-2024/"><u>[New] Gifify It Free Method for Twitter Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-accelerate-your-contents-view-count-1kplus-in-time/"><u>[Updated] In 2024, Accelerate Your Content's View Count 1K+ in Time</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-ai-powered-podcast-names-the-ultimate-selection-list/"><u>2024 Approved AI-Powered Podcast Names The Ultimate Selection List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastered-listings-top-8-free-uhd-video-players-cross-platform-for-windows-pcandmac/"><u>2024 Approved Mastered Listings - Top 8 FREE UHD Video Players (Cross-Platform) for Windows PC&Mac</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic-vs-2-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic Vs 2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/17245041329111-exploring-cutting-edge-gadgets-with-toms-hardware-insights/"><u>Exploring Cutting-Edge Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-guides-by-toms-hardware-team/"><u>In-Depth Reviews & Guides by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-goliath-of-computing-amperes-revolutionary-512-core-ampereone-aurora-with-advanced-ai-capabilities-and-compatibility-with-high-bandwidth78/"><u>Introducing the New Goliath of Computing: Ampere's Revolutionary 512-Core AmpereOne Aurora with Advanced AI Capabilities and Compatibility with High Bandwidth Memory</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/kickstarting-success-ultimate-guide-for-beginners-in-diy-home-repairs/"><u>Kickstarting Success: Ultimate Guide for Beginners in DIY Home Repairs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-with-toms-hardware-experts/"><u>Mastering Gadgets and Systems with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimize-your-setup-with-best-gaming-and-work-from-anywhere-displays-our-top-picks/"><u>Optimize Your Setup with Best Gaming & Work-From-Anywhere Displays: Our Top Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-guides-and-gadget-testing/"><u>Tom's Tech Reviews: In-Depth Guides & Gadget Testing</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-github-desktops-full-potential-on-windows-platforms/"><u>Unleashing GitHub Desktop's Full Potential on Windows Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-digital-innovations-toms-guide-to-cutting-edge-gear/"><u>Unveiling Digital Innovations: Tom's Guide to Cutting-Edge Gear</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/vn-video-editor-apk-review/"><u>VN Video Editor Apk Review</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Energy Systems by FSP: Next-Gen 12V, 6-Pin Twinned Connectors Released"
-date: 2024-08-19T02:27:39.992Z
-updated: 2024-08-20T02:27:39.992Z
+date: 2025-01-20T20:54:49.522Z
+updated: 2025-01-24T16:22:16.336Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
 
  Cooling is provided by a 120mm rifle-bearing PWM fan, that operates in a zero RPM fan mode for near-silent operation at lower loads, so when you're just browsing away, this should help to keep your PSU from adding to the combined noise output from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,8 +46,6 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -51,8 +53,24 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-how-do-beginners-make-a-cool-video-for-youtube-on-mac-for-2024/"><u>[New] How Do Beginners Make a Cool Video for YouTube on Mac for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-profits-demystified-from-clicks-to-credit/"><u>[Updated] YouTube Profits Demystified From Clicks to Credit</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-free-mp4-conversion-tutorial-from-facebooks-high-definition-videos/"><u>2024 Approved Free MP4 Conversion Tutorial From Facebook's High-Definition Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/as-android-leader-google-emerges-as-top-producer-of-bulky-pre-installed-apps/"><u>As Android Leader, Google Emerges as Top Producer of Bulky Pre-Installed Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-perfect-phone-for-your-child-expert-picks-and-reviews/"><u>Choosing the Perfect Phone for Your Child? Expert Picks & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-secret-mac-utilities-that-come-at-no-cost-why-theyre-missing-from-the-basics/"><u>Discover Top Secret Mac Utilities That Come at No Cost – Why They're Missing From the Basics!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-gadgets-for-business-travel-top-8-must-haves-revealed-by-tech-experts-at-zdnet/"><u>Essential Gadgets for Business Travel: Top 8 Must-Haves Revealed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/future-of-microsoft-operating-systems-will-windows-12-arrive-expert-forecasts-revealed-digitaltrends/"><u>Future of Microsoft Operating Systems - Will Windows 12 Arrive? Expert Forecasts Revealed | DigitalTrends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hands-on-review-of-apples-new-studio-display-premium-27-5k-monitor-is-it-worth-the-price-tag-for-creative-professionals-on-mac/"><u>Hands-On Review of Apple's New Studio Display: Premium 27 5K Monitor, Is It Worth the Price Tag for Creative Professionals on Mac?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-dreamlight-valley-crashes-on-a-pc-in-just-6-steps/"><u>How to Resolve Dreamlight Valley Crashes on a PC in Just 6 Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-the-neato-d10-automatic-cleaner-by-tech-experts-at-zdnet/"><u>In-Depth Evaluation of the Neato D10 Automatic Cleaner by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-apples-latest-sensation-the-triple-charging-cube-does-it-live-up-to-its-fanfare/"><u>Inside Look: Apple’s Latest Sensation, the Triple Charging Cube - Does It Live Up to Its Fanfare?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-adobes-tools-to-add-music-to-your-videos-for-2024/"><u>Leveraging Adobe's Tools to Add Music to Your Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-comeback-how-apple-transformed-its-least-favorite-gadget-into-a-hit-zdnet/"><u>Revolutionary Comeback: How Apple Transformed Its Least Favorite Gadget Into a Hit | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/under-2000-how-the-sony-a80l-oled-smashes-expectations-with-stunning-ai-enhanced-upscaling-a-game-changer-reviewed/"><u>Under $2,000: How the Sony A80L OLED Smashes Expectations with Stunning AI-Enhanced Upscaling - A Game Changer Reviewed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-compatibility-the-ideal-miniature-keyboard-for-your-raspberry-pi-and-smart-televisions-features-unveiled/"><u>Unlocking Compatibility: The Ideal Miniature Keyboard for Your Raspberry Pi & Smart Televisions - Features Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-new-tile-app-introducing-scan-and-secure-a-powerful-tool-against-stalking/"><u>ZDNet's New Tile App: Introducing 'Scan & Secure' - A Powerful Tool Against Stalking</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

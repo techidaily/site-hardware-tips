@@ -1,7 +1,7 @@
 ---
 title: "Push-Button Raspberry Pi Fortune Printing Machine: Instant Luck Reveals with Every Click"
-date: 2024-08-19T02:26:25.545Z
-updated: 2024-08-20T02:26:25.545Z
+date: 2025-01-19T00:32:41.297Z
+updated: 2025-01-25T00:32:27.466Z
 tags:
   - raspberry-pi
 categories:
@@ -16,6 +16,10 @@ Though you can run a[Raspberry Pi](https://tools.techidaily.com) effectively wit
  There’s no single best Raspberry Pi case for all uses, because what you would want for a media center is different from what you need for maker projects or for extreme over-clocking. Some cases can turn the humble single board computer into a desktop computer, while others are designed like classic retro consoles and handhelds to hit the nostalgia center of our brains (which means we have both SNES and Nintendo Game Boy styled cases on our shelves). Some cases completely engulf the Pi in a shield of aluminum and acrylic. Below we’ve listed our favorite Raspberry Pi cases that offer not just protection, but add extra features to your Pi. We're including picks not only for the current-generation Raspberry Pi 4 but also for the Raspberry Pi 3 series and the diminutive Raspberry Pi Zero range including the Raspberry Pi Zero 2 W.
 
  The release of the[Raspberry Pi 5](https://tools.techidaily.com) has introduced a plethora of new cases for us to test and they are all on our workbench and we shall release reviews over the coming weeks. If you are thinking of repurposing an old Pi 4 case for the Pi 5, then you are out of luck. Swapping the Ethernet port back to the Raspberry Pi 3 layout means that your Pi 4 case is no longer compatible. You may get away with a case designed for the Raspberry Pi 3, but you may need to modify it for the micro HDMI ports.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Raspberry Pi Case Shopping Tips
 
@@ -46,11 +50,16 @@ Though you can run a[Raspberry Pi](https://tools.techidaily.com) effectively wit
 
 ![Argon Neo](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Argon Neo
 
  Most Stylish great looks, great passive cooling
@@ -175,14 +184,6 @@ Must take apart to remove
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### 3\. Official Raspberry Pi Zero Case
 
 Our expert review:
@@ -244,6 +245,10 @@ Official Raspberry Pi color scheme
  (Image credit: Tom's Hardware)
 
 ![SmartiPi Touch 2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -314,11 +319,8 @@ Instructions could be better
 ![Retroflag NESPi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
-
-![Retroflag NESPi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
@@ -328,14 +330,16 @@ Instructions could be better
 
 ![Retroflag NESPi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+ (Image credit: Tom's Hardware)
+
+![Retroflag NESPi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Retroflag NESPi Case
 
 Best for Retrogamers with Pi 3
@@ -398,42 +402,28 @@ Instructions could be better
 
 ![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
+ (Image credit: Tom's Hardware)
+
+![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  (Image credit: Tom's Hardware)
 
 ![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
-![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
-
-![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. SilverStone PI02
 
 Best for Silent Passive Cooling
@@ -492,9 +482,6 @@ GPIO access is woeful
 
 ![Retroflag GPi Case](https://cdn.mos.cms.futurecdn.net/emQg5SmuHeQUcN9rpA6Yo3-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ### 7\. Retroflag GPi Case
@@ -561,12 +548,13 @@ Long battery life
 
 ![Argon ONE M.2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Argon ONE M.2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -642,9 +630,6 @@ Oversized USB 3.0 connector
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 9\. Pimoroni Aluminium Heatsink Case for Raspberry Pi 4
 
 Simple passive cooling
@@ -705,9 +690,6 @@ Access to PoE pins is troublesome
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### 10\. Argon ONE V3 M.2 NVMe for Raspberry Pi 5
 
  Space age looks and stellar thermal performance
@@ -770,10 +752,11 @@ Fingerprint magnet
 
 ![Akasa Gem Pro](https://cdn.mos.cms.futurecdn.net/ByhXm9QSe2UJgdVZEXasc3-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Akasa Gem Pro  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 11\. Akasa Gem Pro
 
@@ -829,9 +812,6 @@ Sharp corners
 
 **Read:** [Akasa Gem Pro Raspberry Pi Case Review](https://tools.techidaily.com)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Other Raspberry Pi Cases Tested
 
  In researching this page, we ended up testing and considering a number of additional products, some of which were quite good, but didn’t quite deserve to be called “the best.” These include:
@@ -839,6 +819,10 @@ Sharp corners
 * [Raspberry Pi 4 Official Case:](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FRaspberry-Pi-Case-White-RPI4-CASE-RW%2Fdp%2FB07WCKLFLP%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7857332630074052625-20) This case has the correct Raspberry Pi colors and aesthetic, but it doesn’t offer much in the way of features. With its over on, there’s no access to the GPIO pins or camera and there’s no hole or mount for a fan either.
 * [Retro Power NES Retro Brick](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FRetro-Raspberry-Bricks-RetroPie-Nintendo%2Fdp%2FB07KCQ9QQV%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5290609295109963479-20) : We really like this case, but it’s not very practical. Made out of 307 Lego-compatible bricks, the case looks just like an old-school NES. We had a lot of fun putting this together, the most fun we had with any case, but it completely blocks access to your microSD card and the only way to remove your Pi is to take off a bunch of bricks and rebuild it afterwards. It also doesn’t fit a Pi 4 (though a 3 fit) and doesn’t have any built-in cooling.
 * [Miuzei Case for Raspberry Pi 4](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FMiuzei-Raspberry-Aluminum-Included-Black%2Fdp%2FB07VX3HQGJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-4939233850097411812-20) : This $10 case is a really good bargain and comes with a fan and a heatsink. It’s also an attractive shade of blue, a welcome color change from all the silver and black cases on the market. The GPIO pins are available but too low in the case to add a HAT to, without using some kind of extender or ribbon cable. Our main beef with the Miuzei is that, while building the, a layer of the plastic cracked in half just from our screwing in the fan. We managed to put it together anyway, but that was a disappointment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Discounts on the Best Raspberry Pi Cases
 
@@ -942,8 +926,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -951,4 +933,22 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-deciphering-whatsapp-talk-mechanics/"><u>[New] Deciphering WhatsApp Talk Mechanics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-live-stream-titans-duel-comparative-exploration-of-twitch-and-youtube/"><u>[Updated] 2024 Approved Live-Stream Titans Duel Comparative Exploration of Twitch & YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-masterclass-crafting-cinematic-youtube-videos-with-adobe-premiere/"><u>[Updated] 2024 Approved Masterclass Crafting Cinematic YouTube Videos with Adobe Premiere</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-beats-solo-wireless-earbuds-review-tradeoffs-for-price-savings/"><u>Affordable Beats Solo Wireless Earbuds Review: Tradeoffs for Price Savings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-speed-internet-explore-the-latest-range-of-netgear-7g-routers/"><u>Affordable High-Speed Internet: Explore the Latest Range of Netgear 7G Routers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/dable-minecraft-video-graphics/"><u>Affordable Minecraft Video Graphics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-rival-why-samsungs-galaxy-buds-ebutt-airpods-pro-with-superior-sound-quality/"><u>Beat the Rival: Why Samsung's Galaxy Buds Ebutt AirPods Pro with Superior Sound Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/belkins-premium-power-bank-review-the-ultimate-qi-enabled-charger-featuring-a-built-in-kickstand-for-your-on-the-go-needs/"><u>Belkin's Premium Power Bank Review: The Ultimate Qi-Enabled Charger Featuring a Built-In Kickstand for Your On-The-Go Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-laptops-and-chromebooks-what-sets-them-apart/"><u>Comparing Laptops and Chromebooks – What Sets Them Apart?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/constructing-your-first-desktop-system-5-essential-steps-and-recommendations/"><u>Constructing Your First Desktop System: 5 Essential Steps and Recommendations</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-look-a-detailed-review-of-the-android-lightroom-app-for-2024/"><u>Inside Look A Detailed Review of the Android Lightroom App for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/previewing-the-upcoming-playstation-vr-2-exclusive-details-from-sony-announcement/"><u>Previewing the Upcoming PlayStation VR 2: Exclusive Details From Sony Announcement</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ling-the-secrets-accessing-forgotten-youtube-vids-for-2024/"><u>Revealing the Secrets Accessing Forgotten YouTube Vids for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-dell-camera-steps-to-get-it-working-on-windows-again/"><u>Troubleshoot Your Dell Camera: Steps to Get It Working on Windows Again</u></a></li>
+</ul></div>
 

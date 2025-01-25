@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis and Testing: The Pimoroni Duo NVMe Base Reviews for Enhanced Performance"
-date: 2024-08-19T02:26:20.098Z
-updated: 2024-08-20T02:26:20.098Z
+date: 2025-01-24T00:52:26.882Z
+updated: 2025-01-25T00:15:44.268Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
 
  As we said before, this is a work in progress, and plans are in the works for new features. One of the most significant upgrades Spiritual\_Aside\_7859 plans to include is speech recognition so you can verbally communicate with the koala bear assistant. In the meantime, you can see what this[Raspberry Pi project](https://tools.techidaily.com) is capable of over at[Reddit](https://www.reddit.com/r/arduino/comments/1deo04x/ai%5Fassistant) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,22 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-10-best-vr-videos-on-youtube-to-have-immersive-experience/"><u>[New] 2024 Approved 10 Best VR Videos on YouTube to Have Immersive Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-audio-wizards-unveiled-top-5-techniques-for-win10/"><u>[New] In 2024, Audio Wizards Unveiled Top 5 Techniques for Win10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/enhancing-collaboration-with-snap-camera-techniques-for-2024/"><u>Enhancing Collaboration with Snap Camera Techniques for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-casual-player-to-pro-on-android-essential-tips-and-advice-for-gamers/"><u>From Casual Player to Pro on Android: Essential Tips & Advice for Gamers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-8-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 8?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/locate-the-best-bargains-on-gopro-cameras-for-2024/"><u>Locate the Best Bargains on GoPro Cameras for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-android-app-permissions-a-comprehensive-guide/"><u>Mastering Android App Permissions: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/material-you-design-arrives-on-five-popular-android-devices-with-upcoming-android-12-update/"><u>Material You Design Arrives on Five Popular Android Devices with Upcoming Android 12 Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/messaging-showdown-google-messages-vs-samsung-messages-on-android/"><u>Messaging Showdown: Google Messages Vs. Samsung Messages on Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/methods-for-converting-twitter-videos-into-mp3-format-for-2024/"><u>Methods for Converting Twitter Videos Into MP3 Format for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-9-versus-pixel-9-pro-and-xl-variants-a-comprehensive-showdown-explained/"><u>Pixel 9 Versus Pixel 9 Pro and XL Variants: A Comprehensive Showdown Explained</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/podcasting-made-simple-easy-steps-to-capture-live-streams-for-2024/"><u>Podcasting Made Simple Easy Steps to Capture Live Streams for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prepare-yourself-for-innovation-samsung-gears-up-to-release-galaxy-s23-lineup-in-february/"><u>Prepare Yourself for Innovation: Samsung Gears Up to Release Galaxy S23 Lineup in February</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-guide-instant-access-to-your-samsung-galaxys-camera-app/"><u>Quick Guide: Instant Access to Your Samsung Galaxy's Camera App</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/skyrocket-your-youtube-speed-with-effective-render-techniques-for-2024/"><u>Skyrocket Your YouTube Speed with Effective Render Techniques for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

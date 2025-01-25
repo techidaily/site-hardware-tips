@@ -1,7 +1,7 @@
 ---
 title: How These Featherlight Computers Blew My Mind and Outshined the Iconic MacBook Air | ZDNet Review
-date: 2025-01-16T18:31:06.858Z
-updated: 2025-01-18T17:23:03.929Z
+date: 2025-01-18T01:48:21.014Z
+updated: 2025-01-24T23:49:37.137Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -132,16 +132,22 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/issecting-youtubes-operational-model-post-upload/"><u>[New] Dissecting YouTube's Operational Model Post-Upload</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-optimal-owing-uavs-heavy-load-drone-rankings-for-2024/"><u>[New] Optimal Owing UAVs Heavy Load Drone Rankings for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-avoid-video-ads-strategies-to-keep-ads-at-bay/"><u>[Updated] In 2024, Avoid Video Ads Strategies to Keep Ads at Bay</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-mobile-apps-for-slow-motion-video-iosandroid/"><u>2024 Approved Premium Mobile Apps for Slow Motion Video iOS/Android</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/nef-to-jpg-conversion-guide-easy-steps-on-pc-and-mac/"><u>NEF to JPG Conversion Guide: Easy Steps on PC and Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-level-gamers-display-in-depth-review-of-the-colorful-oled-asus-rog-swift-pg49wcd-monitor/"><u>Next-Level Gamers' Display: In-Depth Review of the Colorful OLED Asus ROG Swift PG49WCD Monitor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/nvidias-decision-why-the-rtx-40-series-maintains-displayport-14-despite-uhbr-certification-issues/"><u>NVIDIA's Decision: Why the RTX 40 Series Maintains DisplayPort 1.4 Despite UHBR Certification Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-tips-for-your-tech-needs-toms-hardware-way/"><u>Precision Tips for Your Tech Needs - Tom's Hardware Way</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-with-the-samsung-odyssey-g50a-a-quality-27-qhd-ips-display-now-at-only-255-on-amazon/"><u>Save Big with the Samsung Odyssey G50A - A Quality 27 QHD IPS Display Now At Only $255 on Amazon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/saving-money-without-sacrificing-quality-an-expert-take-on-144hz-and-40-inch-monoprices-gaming-marvel-at-a-steal-price/"><u>Saving Money without Sacrificing Quality: An Expert Take on 144Hz and 40-Inch Monoprice's Gaming Marvel at a Steal Price</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-script-to-screen-crafting-your-unique-youtube-tale-for-2024/"><u>[New] From Script to Screen Crafting Your Unique YouTube Tale for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2023s-best-web-based-recording-tech-handpicked/"><u>[Updated] 2023'S Best Web-Based Recording Tech Handpicked</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ace-in-the-halls-boosting-youtube-traffic-for-2024/"><u>[Updated] Ace in the Halls Boosting YouTube Traffic for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-farm-fun-and-fellowship-the-ultimate-agritainment-guide/"><u>[Updated] Farm Fun & Fellowship The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-writers-almanac-crafting-compelling-biographies-on-facebook/"><u>[Updated] In 2024, The Writer's Almanac Crafting Compelling Biographies on Facebook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-strategies-for-capturing-your-best-moments-in-snapchat/"><u>2024 Approved Essential Strategies for Capturing Your Best Moments in Snapchat</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/classic-cinematography-technique-transforming-footage-into-stunning-black-and-white-visuals/"><u>Classic Cinematography Technique: Transforming Footage Into Stunning Black & White Visuals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-collection-of-2022s-cutting-edge-tech-products-tools-and-widgets-reviewed-by-zdnet/"><u>Discover the Ultimate Collection of 2022'S Cutting-Edge Tech Products, Tools, and Widgets Reviewed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmins-ultimate-sports-timepiece-enduro-is-set-to-outshine-apple-in-the-ultra-endurance-race-zdnet/"><u>Garmin's Ultimate Sports Timepiece: Enduro 지니어 Is Set to Outshine Apple in the Ultra-Endurance Race | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impulsive-decision-or-smart-move-my-unexpected-journey-towards-acquiring-an-apple-watch-via-amazon-zdnets-take/"><u>Impulsive Decision or Smart Move? My Unexpected Journey Towards Acquiring an Apple Watch via Amazon | ZDNet's Take</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kid-friendly-fitbit-ace-lte-the-fun-educational-gadget-transforming-workouts-into-games-a-pixel-watch-2-alternative-reviewed-by-zdnet/"><u>Kid-Friendly Fitbit Ace LTE: The Fun, Educational Gadget Transforming Workouts Into Games - A Pixel Watch 2 Alternative Reviewed by ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974046950-resolve-playback-jitters-fast/"><u>Resolve Playback Jitters Fast!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sales-of-apples-latest-series-watch-9-and-ultra-continue-amidst-legal-hold-on-prohibition-insights-from-zdnet/"><u>Sales of Apple's Latest Series: Watch 9 & Ultra Continue Amidst Legal Hold on Prohibition - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-on-newly-launched-galaxy-phones-save-1200-today-discover-the-secret-to-snagging-your-dream-samsung-z-fold-6-or-z-flip-n6-for-less-full-tips-ins198/"><u>Slash Prices on Newly Launched Galaxy Phones: Save $1,200 Today! Discover the Secret to Snagging Your Dream Samsung Z Fold 6 or Z Flip N6 for Less - Full Tips Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-amazing-benefits-that-convinced-me-to-choose-samsung-galaxy-watch-6-classic-insights-from-zdnet/"><u>Top 3 Amazing Benefits That Convinced Me to Choose Samsung Galaxy Watch 6 Classic - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uags-robust-mobile-accessories-collection-sturdy-apple-watch-bands-and-z-fold/"><u>UAG's Robust Mobile Accessories Collection: Sturdy Apple Watch Bands & Z Fold</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unraveling-the-complexities-of-firefox-split-screen/"><u>Unraveling the Complexities of Firefox Split Screen</u></a></li>
 </ul></div>
 

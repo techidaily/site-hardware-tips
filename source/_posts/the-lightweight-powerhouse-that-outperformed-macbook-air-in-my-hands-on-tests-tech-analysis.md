@@ -1,7 +1,7 @@
 ---
 title: The Lightweight Powerhouse That Outperformed MacBook Air in My Hands-On Tests | Tech Analysis
-date: 2025-01-12T16:44:58.756Z
-updated: 2025-01-18T19:32:19.980Z
+date: 2025-01-24T00:52:16.355Z
+updated: 2025-01-24T19:00:04.629Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -87,7 +87,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -126,24 +126,24 @@ The Surface Laptop is a flagship mid-range device that's well-rounded enough to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-learn-quickly-how-to-film-anywhere-with-one-tech-setup/"><u>[New] In 2024, Learn Quickly How to Film Anywhere with One Tech Setup</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-warm-thanks-in-video-closings-paidfree-selection/"><u>[New] Warm Thanks in Video Closings Paid/Free Selection</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-t5-action-camera-the-complete-ultimate-video-experience/"><u>[Updated] In 2024, T5 Action Camera The Complete, Ultimate Video Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-jumpstart-with-vrecorder-easy-installation-walkthrough-for-2024/"><u>[Updated] Jumpstart with VRecorder Easy Installation Walkthrough for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-personalized-phone-tones-for-android-users-for-2024/"><u>[Updated] The Ultimate Guide to Personalized Phone Tones for Android Users for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/come-generare-unimmagine-di-sistema-del-tuo-disco-rigido-con-windows-11/"><u>Come Generare Un'Immagine Di Sistema Del Tuo Disco Rigido Con Windows 11</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ating-youtubes-subtitlecc-landscape-with-expertise-and-speed-for-2024/"><u>Navigating YouTube's Subtitle/CC Landscape with Expertise and Speed for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-s24-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy S24 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-lava-agni-2-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Lava Agni 2 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-top-picks-and-reviews/"><u>Tom's Tech Hub: Top Picks and Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide/"><u>Tom's Tech Insights - Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-reviews-and-guides-t17238628801324/"><u>Tom's Tech Insights: Expert Reviews and Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-on-latest-hardware/"><u>Tom's Tech Review: Comprehensive Guide on Latest Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-computer-components/"><u>Tom's Tech Reviews: Expert Insights on Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-pc-and-peripheral-advice-by-toms-hardware-experts/"><u>Ultimate PC and Peripheral Advice by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncovering-innovations-at-toms-hardware-blog/"><u>Uncovering Innovations at Tom's Hardware Blog</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-vivid-colors-and-rapid-refresh-the-full-review-of-the-viewsonic-oled-gaming-masterpiece/"><u>Unleash Vivid Colors and Rapid Refresh: The Full Review of the ViewSonic OLED Gaming Masterpiece</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-gamers-delight-with-bright-colorful-performance-a-critical-look-at-viewsonic-xg272-2k-monitor/"><u>Unleashing Gamers' Delight with Bright, Colorful Performance: A Critical Look at ViewSonic XG272-2K Monitor</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-vlogging-with-top-12-innovative-screen-swivel-cams/"><u>[New] 2024 Approved Mastering Vlogging with Top 12 Innovative Screen Swivel Cams</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-compiling-top-ios-recording-utilities/"><u>[New] In 2024, Compiling Top iOS Recording Utilities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-exceptional-value-premium-asmr-microphones-at-low-costs/"><u>[Updated] 2024 Approved Exceptional Value Premium ASMR Microphones at Low Costs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-exclusive-high-end-computer-choices/"><u>[Updated] Exclusive High-End Computer Choices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-failed-wingdx-protocol/"><u>Addressing Failed WinGDX Protocol</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-the-latest-features-in-depth-review-of-the-new-apple-watch-against-samsungs-advanced-sensors-expert-analysis-by-zdnet/"><u>Comparing the Latest Features: In-Depth Review of the New Apple Watch Against Samsung's Advanced Sensors | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discovering-system-information-unveiling-the-build-number-in-windows-11/"><u>Discovering System Information: Unveiling the Build Number in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-guide-to-garmin-forerunner-255-the-perfect-running-companion-an-in-depth-analysis-by-zdnet/"><u>Essential Guide to Garmin Forerunner 255: The Perfect Running Companion - An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-realme-c55-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Realme C55 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mobile-connectivity-explained-the-role-of-a-phone-service-provider/"><u>Mobile Connectivity Explained: The Role of a Phone Service Provider</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/shocking-value-a-highly-durable-affordable-smartwatch-review-uncovered-on-zdnet/"><u>Shocking Value: A Highly Durable, Affordable Smartwatch Review Uncovered on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/smart-athletic-wearable-powered-by-chatgpt-inspired-coach-discover-how-it-elevates-your-workout-experience/"><u>Smart Athletic Wearable Powered by ChatGPT-Inspired Coach: Discover How It Elevates Your Workout Experience!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-spin-o-matic-method-transforming-your-images-on-instagram-with-ease-for-2024/"><u>The Spin-O-Matic Method Transforming Your Images on Instagram with Ease for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-12-unbeatable-prime-day-2024-offers-on-fitness-trackers-exclusive-sale-alerts/"><u>Top 12 Unbeatable Prime Day 2024 Offers on Fitness Trackers - Exclusive Sale Alerts!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/turning-on-battery-saver-for-your-apple-watch-expert-tips-and-importance-explained/"><u>Turning On Battery Saver for Your Apple Watch - Expert Tips & Importance Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-communication-secrets-with-your-apple-watch-walkie-talkie-a-comprehensive-how-to/"><u>Unlocking Communication Secrets with Your Apple Watch Walkie Talkie - A Comprehensive How-To</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-apple-product-savings-on-prime-day-grab-your-macbook-air-and-airpods-pro-now/"><u>Unmissable Apple Product Savings on Prime Day - Grab Your MacBook Air & AirPods Pro Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-issues-with-latest-apple-releases-iphone-and-watch-series-faces-challenges/"><u>Unveiling Issues with Latest Apple Releases: IPhone & Watch Series Faces Challenges</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-hp-laserjet-p3015-driver-to-improve-printing-step-by-step-tutorial/"><u>Update Your HP LaserJet P3015 Driver to Improve Printing: Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

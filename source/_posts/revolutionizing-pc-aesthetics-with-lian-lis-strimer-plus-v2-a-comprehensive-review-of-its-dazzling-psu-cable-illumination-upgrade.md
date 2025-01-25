@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing PC Aesthetics with Lian Li's Strimer Plus V2 - A Comprehensive Review of Its Dazzling PSU Cable Illumination Upgrade
-date: 2024-08-19T02:27:27.507Z
-updated: 2024-08-20T02:27:27.507Z
+date: 2025-01-23T01:51:33.250Z
+updated: 2025-01-24T17:33:55.203Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
 
  Cooling is provided by a 120mm rifle-bearing PWM fan, that operates in a zero RPM fan mode for near-silent operation at lower loads, so when you're just browsing away, this should help to keep your PSU from adding to the combined noise output from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,8 +46,6 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -51,9 +53,18 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-masterclass-in-ai-image-processing/"><u>[Updated] 2024 Approved Masterclass in AI Image Processing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-optimizing-youtube-profits-understanding-your-adsense-earnings-per-kv/"><u>[Updated] In 2024, Optimizing Youtube Profits Understanding Your AdSense Earnings per KV</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/carrying-capacity-is-the-maximum-population-size-that-an-environment-can-sustain-for-a-particular-species/"><u>Carrying Capacity Is the Maximum Population Size that an Environment Can Sustain for a Particular Species.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guarding-against-logofail-essential-defense-strategies-for-computer-security-zdnet/"><u>Guarding Against LogoFAIL: Essential Defense Strategies for Computer Security | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-x6-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X6 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-mac-video-capturing-software-post-bandicam-revolution/"><u>In 2024, Best Mac Video Capturing Software Post-Bandicam Revolution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-risks-of-relying-on-proprietary-models-why-embracing-byo-ai-is-crucial-for-innovation-and-growth/"><u>The Risks of Relying on Proprietary Models: Why Embracing BYO AI Is Crucial for Innovation and Growth</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-smart-outlet-bricks-expert-picks-by-techradar/"><u>Top 5 Smart Outlet Bricks: Expert Picks by TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-savings-on-your-earwax-removal-gadget-exclusive-46-black-friday-discount-at-zdnet/"><u>Unlocking Savings on Your Earwax Removal Gadget - Exclusive 46% Black Friday Discount at ZDNET!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out: Ultimate October 2E Gaming Blowout of 2024 – Secure Discounts Up to $1K Now | ZDNET Insights"
-date: 2025-01-16T19:25:28.125Z
-updated: 2025-01-18T18:42:36.626Z
+date: 2025-01-18T19:36:22.278Z
+updated: 2025-01-24T18:16:20.241Z
 tags:
   - laptops
 categories:
@@ -118,10 +118,6 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -148,10 +144,6 @@ ZDNET
 * [Razer Wolverine V2 Chroma for $60 (save $90)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Wolverine-Chroma-Gaming-Controller-x%2Fdp%2FB09CKFSRK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A wired, pro-style controller for the Xbox Series X|S console featuring RGB lighting, programmable buttons, and an ergonomic design for marathon gaming.
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Nintendo deals still available
 
 Nintendo/ZDNET
@@ -168,6 +160,10 @@ Nintendo/ZDNET
 * [Bayonetta 3 for $44 (save $16 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBayonetta-3-Nintendo-Switch%2F838016510%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Bayonetta returns to take on an invading host of bioweapons called the Homunculi. She'll use her signature pistols, magic abilities, and new companion, Viola, to take down monsters and save reality from destruction.
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals still available
 
@@ -207,7 +203,7 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
@@ -216,6 +212,10 @@ Samsung/ZDNET
 * [Asus GeForce RTX 3050 OC Edition for $165 (save $83 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Dual-NVIDIA-GeForce-RTX-3050-6GB-OC-Edition-Gaming-Graphics-Card-PCIe-4-0-GDDR6-Memory-HDMI-2-1-DisplayPort-1-4a-2-slot-Design-Axial-tech-Fan-0d%2F5323437371&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade desktop GPU with 6GB of VRAM.
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -228,7 +228,7 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ra
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -236,7 +236,7 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -304,20 +304,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-chuckle-campaign-7-ingenious-ideas-for-funny-youtube-videos/"><u>[New] 2024 Approved Chuckle Campaign 7 Ingenious Ideas for Funny YouTube Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-from-novice-to-geometric-master-crafting-perfect-circular-and-spherical-objects/"><u>[New] 2024 Approved From Novice to Geometric Master Crafting Perfect Circular & Spherical Objects</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-enhance-your-footage-perfect-aspect-ratio-selection/"><u>[Updated] Enhance Your Footage Perfect Aspect Ratio Selection</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-guide-to-preserving-screen-chats/"><u>[Updated] In 2024, Essential Guide to Preserving Screen Chats</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-your-youtube-experience-manage-video-comments/"><u>[Updated] Streamline Your YouTube Experience Manage Video Comments</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-ultimate-sound-bank-vintage-voice-choices/"><u>[Updated] Ultimate Sound Bank Vintage Voice Choices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-creative-potential-with-new-iphone-x-camera/"><u>[Updated] Unlocking Creative Potential with New iPhone X Camera</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-technology-breakdown-by-tom-hardware-experts/"><u>Comprehensive Technology Breakdown by Tom Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125139959-felicia-day-explores-the-world-of-additive-manufacturing-a-special-offer-on-her-custom-3d-models-for-enthusiasts/"><u>Felicia Day Explores the World of Additive Manufacturing: A Special Offer on Her Custom 3D Models for Enthusiasts!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-breakdown-exploring-lgs-widescreen-uhd-display/"><u>In 2024, Comprehensive Breakdown Exploring LG's Widescreen UHD Display</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-computer-hardware-by-toms-experts/"><u>In-Depth Analysis of Computer Hardware by Tom’s Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-tech-choices-with-top-picks-from-toms-hardware-experts/"><u>Master Your Tech Choices with Top Picks From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-tech-knowledge-with-toms-hardware-tips/"><u>Master Your Tech Knowledge With Tom's Hardware Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-toms-electronic-equipment-breakdown/"><u>Navigating Through Tom’s Electronic Equipment Breakdown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-hardware-and-gadgets/"><u>Tom's Tech Reviews: Expert Insights on Hardware and Gadgets</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-easy-to-use-screen-recording-software-including-apowersoft/"><u>[New] In 2024, Easy-to-Use Screen Recording Software, Including Apowersoft</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-beyond-viral-tactics-uncovering-the-facts-about-reels-on-instagram/"><u>[Updated] Beyond Viral Tactics Uncovering the Facts About Reels on Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-lifestyle-logging-101-keeping-viewers-hooked-everyday/"><u>[Updated] Lifestyle Logging 101 Keeping Viewers Hooked Everyday</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-guide-to-locating-vanished-eyes-only-images-on-snapchat/"><u>2024 Approved Guide to Locating Vanished Eyes-Only Images on Snapchat</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bandwidth-blues-unlock-faster-mobile-data-with-our-step-by-step-guide/"><u>Bandwidth Blues? Unlock Faster Mobile Data with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dual-seating-lectric-xp-30-assessment-the-perfect-companion-e-bike-by-zdnet/"><u>Dual-Seating Lectric XP 3.0 Assessment - The Perfect Companion E-Bike by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-airline-status-discover-the-best-5-credit-cards-for-exclusive-airport-lounge-entry-zdnet-insights/"><u>Elite Airline Status: Discover the Best 5 Credit Cards for Exclusive Airport Lounge Entry | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhancing-teslas-in-car-entertainment-the-upcoming-integration-of-apple-airplay-while-excluding-carplay/"><u>Enhancing Tesla's In-Car Entertainment: The Upcoming Integration of Apple AirPlay While Excluding CarPlay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-ultimate-travel-gear-zdnets-pick-for-best-luggage-sets-in-2erry-year/"><u>Exploring the Ultimate Travel Gear: ZDNet's Pick for Best Luggage Sets in 2Erry Year</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/holiday-deal-alert-score-400-off-with-zdnets-memorial-day-offer-on-segway-max-g2-electric-scooters/"><u>Holiday Deal Alert! Score $400 Off with ZDNET's Memorial Day Offer on Segway Max G2 Electric Scooters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ideal-companies-cards-maximizing-air-miles-and-discounts-on-trips-insights-from-zdnet/"><u>Ideal Companies Cards: Maximizing Air Miles & Discounts on Trips - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-your-vehicles-troubles-a-bluetooth-gadget-for-detecting-engine-issues/"><u>Illuminate Your Vehicle's Troubles: A Bluetooth Gadget for Detecting Engine Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevating-social-media-interaction-via-fb-story-links/"><u>In 2024, Elevating Social Media Interaction via FB Story Links</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-7-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 7 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-ultimate-list-of-ae-title-enhancement-methods/"><u>In 2024, Ultimate List of AE Title Enhancement Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovating-the-future-of-driving-renault-and-googles-collaboration-on-a-digital-vehicle-platform-explored-by-zdnet/"><u>Innovating the Future of Driving: Renault and Google's Collaboration on a Digital Vehicle Platform, Explored by ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ios-iphone/"><u>IOS 更新导致手机笔记功能丢失 - iPhone</u></a></li>
 </ul></div>
 

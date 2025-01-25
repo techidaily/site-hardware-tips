@@ -1,7 +1,7 @@
 ---
 title: Lian Li Introduces Innovative L-Shape PSUs Perfect for Bi-Cable Case Systems
-date: 2024-08-19T02:27:25.331Z
-updated: 2024-08-20T02:27:25.331Z
+date: 2025-01-24T01:01:00.946Z
+updated: 2025-01-24T17:01:32.328Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
 
  Cooling is provided by a 120mm rifle-bearing PWM fan, that operates in a zero RPM fan mode for near-silent operation at lower loads, so when you're just browsing away, this should help to keep your PSU from adding to the combined noise output from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,8 +46,6 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -51,8 +53,22 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-navigating-notes-an-introduction-to-youtube-list-making/"><u>[New] 2024 Approved Navigating Notes An Introduction to YouTube List Making</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-10-best-screen-recorders-for-computer/"><u>[New] In 2024, Top 10 Best Screen Recorders for Computer</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>2024 Approved Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-xiaomi-14-ultra-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Xiaomi 14 Ultra to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-s24-ultra-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy S24 Ultra FRP Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-trick-elevate-your-mac-mini-to-studio-status-for-just-75-cnet-gadgets/"><u>Budget-Friendly Trick: Elevate Your Mac Mini to Studio Status for Just $75! | CNET Gadgets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-significance-of-microsofts-monthly-update-day/"><u>Decoding the Significance of Microsoft's Monthly Update Day</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-delay-top-3-benefits-of-switching-to-an-ergonomic-mouse-today-tech-advice/"><u>Don't Delay: Top 3 Benefits of Switching to an Ergonomic Mouse Today | Tech Advice</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-rearrange-and-float-toolbars-on-top-within-flipbuilder-templates-for-enhanced-user-experience/"><u>How to Rearrange and Float Toolbars on Top Within FlipBuilder Templates for Enhanced User Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-devices-with-incharge-x-the-ultimate-universal-cable-zdnet-exclusive/"><u>Mastering Your Devices with InCharge X: The Ultimate Universal Cable - ZDNet Exclusive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-workflow-with-the-ultimate-16-port-docking-station-for-creative-professionals-zdnet/"><u>Maximize Your Workflow with the Ultimate 16-Port Docking Station for Creative Professionals | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sick-of-subpar-webcams-discover-optics-innovative-tiny-yet-mighty-clip-on-webcam/"><u>Sick of Subpar Webcams? Discover Optic’s Innovative Tiny, Yet Mighty Clip-On Webcam!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-7-most-innovative-mouse-pick-of-2022-enhance-your-pc-experience-now/"><u>The Ultimate Guide to the 7 Most Innovative Mouse Pick of 2022 – Enhance Your PC Experience Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-usb-hubs-expert-reviews-and-buyers-guide-zdnet/"><u>Top 5 Premium USB Hubs : Expert Reviews & Buyer's Guide - ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Poco X6 Pro | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
