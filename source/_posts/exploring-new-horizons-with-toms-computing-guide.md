@@ -1,7 +1,7 @@
 ---
 title: Exploring New Horizons with Tom's Computing Guide
-date: 2024-08-19T02:36:07.884Z
-updated: 2024-08-20T02:36:07.884Z
+date: 2025-01-30T18:28:14.903Z
+updated: 2025-02-01T20:00:08.726Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,22 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-four-straightforward-methods-for-lenovo-screenshots-for-2024/"><u>[New] Four Straightforward Methods for Lenovo Screenshots for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-innovative-vfx-equipment-for-eco-warriors/"><u>[New] Innovative VFX Equipment for Eco Warriors</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-service-disruptions-with-steam-windows-11-style/"><u>Addressing Service Disruptions with Steam, Windows 11 Style</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-alternative-to-macbook-air-the-top-recommended-windows-laptop-now-on-sale-explore-your-options-with-zdnet/"><u>Affordable Alternative to MacBook Air: The Top-Recommended Windows Laptop Now On Sale - Explore Your Options with ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-new-favorite-powerhouse-the-hp-victus-15-for-only-515-on-best-buys-antidote-to-prime-day-featured-by-zdnet/"><u>Discover Your New Favorite Powerhouse: The HP Victus 15 for Only $515 on Best Buy's Antidote to Prime Day – Featured by ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y17s-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y17s to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211235147-9798869083982-la-abadia-de-los-benedictinos/"><u>La Abadía de los Benedictinos | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/review-of-eufy-omni-s1-pro-the-futuristic-automaton-vacuum/"><u>Review of Eufy Omni S1 Pro: The Futuristic Automaton Vacuum</u></a></li>
+<li><a href="https://win-great.techidaily.com/schritt-fur-schritt-anleitung-alte-ssd-zu-neuen-laufwerken-migrieren-in-windows-111087/"><u>Schritt-Für-Schritt-Anleitung: Alte SSD Zu Neuen Laufwerken Migrieren in Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-deal-top-pick-magsafe-charger-at-60-discounted-perfect-for-your-iphone-and-macbook-zdnet/"><u>Score a Deal: Top-Pick MagSafe Charger at $60 Discounted - Perfect for Your iPhone and MacBook! (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-secure-metas-remarkable-512gb-oculus-quest-3-for-the-october-prime-event-deal-still-awaits/"><u>Score Big Savings! Secure Meta's Remarkable 512GB Oculus Quest 3 for the October Prime Event – Deal Still Awaits!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-truth-and-illusion-with-ai/"><u>Synthesizing Truth & Illusion with AI</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-score-unbeatable-bargains-on-laptops-during-sales-events-in-november-2024-techradar/"><u>Ultimate Guide: Score Unbeatable Bargains on Laptops During Sales Events in November 2024 | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unwrapping-creative-diy-holiday-surprises-perfect-tools-that-hit-the-spot-handcrafted-recommendations-by-zdnet/"><u>Unwrapping Creative DIY Holiday Surprises: Perfect Tools That Hit The Spot | Handcrafted Recommendations by ZDNET</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

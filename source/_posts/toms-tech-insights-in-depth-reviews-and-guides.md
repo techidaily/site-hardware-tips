@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: In-Depth Reviews and Guides"
-date: 2024-08-19T02:34:15.729Z
-updated: 2024-08-20T02:34:15.729Z
+date: 2025-01-25T18:12:59.067Z
+updated: 2025-02-01T17:18:45.095Z
 tags:
   - ssd
 categories:
@@ -16,6 +16,10 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
  Many drives in this category are outright slower than the AI818, at least on paper. This includes the[Kingston NV2](https://tools.techidaily.com) and drives like it, as well as PCIe 3.0 drives like the[Teamgroup MP34](https://tools.techidaily.com) . The latter is now using a Realtek controller, like our AI818 sample. Realtek controllers often feel last-generation and can run hotter, but offer a way to add more capacity at a lower cost. Unlike the MP34, though, our 2TB AI818 is using QLC NAND, which is being used on many budget PCIe 4.0 drives including the NV2 and the[Silicon Power UD90](https://tools.techidaily.com) — but not all, as the[Teamgroup MP44L](https://tools.techidaily.com) is one exception. As TLC cannot be guaranteed in most cases, caution is warranted on this class of drive.  
   
  Some of our results for the AI818 are surprising, and often not in a good way. We also don’t think this drive is the best choice for a laptop. However, it’s not the worst drive we’ve ever tested, and if you can find it at the right price it can get the job done. With this drive, budget is the name of the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -46,6 +50,10 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 * [AGI AI818 2TB SSD at Newegg for $114.99](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Flink%3Fid%3DkXQk6%252AivFEQ%26offerid%3D1531483.445838636436816353697968%26type%3D15%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fagi-2tb-ai818-43%252Fp%252F0D9-010F-00011%253Fitem%253D9SIBM90K3J6368%26u1%3Dtomshardware-us-1398768948128134202)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software and Accessories
 
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
@@ -57,23 +65,17 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -82,16 +84,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -157,15 +157,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +173,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/omprehensive-list-of-high-quality-game-entrance-makers-online/"><u>[New] Comprehensive List of High-Quality Game Entrance Makers Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-drones-buying-guide-thing-you-need-to-know-before-buying-a-drone/"><u>[New] In 2024, Drones Buying Guide Thing You Need to Know Before Buying a Drone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-perfectly-sized-videos-for-maximum-engagement-on-instagram/"><u>[New] In 2024, Perfectly Sized Videos for Maximum Engagement on Instagram</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-gratitude-archive-complete-collection-freepaid-for-2024/"><u>[Updated] Gratitude Archive Complete Collection (Free/Paid) for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-quick-guide-to-boost-your-tiktok-production-speed/"><u>[Updated] Quick Guide to Boost Your TikTok Production Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1000-discount-top-lenovo-laptops-tailored-for-the-hybrid-professional-find-your-perfect-match/"><u>$1,000 Discount: Top Lenovo Laptops Tailored for the Hybrid Professional - Find Your Perfect Match !</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactivemix-for-all-systems/"><u>2024 Approved InteractiveMix for All Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-laughing-lineup-step-by-step-guide-to-funny-memes/"><u>2024 Approved Laughing Lineup Step-by-Step Guide to Funny Memes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-post-prime-day-deals-save-36-on-the-mighty-8tb-samsung-t5-ssd-insights/"><u>Amazon's Post-Prime Day Deals: Save 36% on the Mighty 8TB Samsung T5 SSD - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-gaming-solid-state-drives-for-enhanced-ps5-xbox-and-pc-performance-digital-trends/"><u>Discover the Best Gaming Solid-State Drives for Enhanced PS5, Xbox, and PC Performance | Digital Trends</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-8-desktop-images-to-personalize-your-mbp/"><u>In 2024, Ideal 8 Desktop Images to Personalize Your MBP</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-love-ballad-bingo-must-haves-on-the-list-of-proposals/"><u>In 2024, Love Ballad Bingo Must-Haves on the List of Proposals</u></a></li>
+<li><a href="https://win-info.techidaily.com/iniciar-sesion-en-windows-11-a-traves-de-usb-dos-tecnicas-claves-y-un-consejo-experto/"><u>Iniciar Sesión en Windows 11 a Través De USB: Dos Técnicas Claves Y Un Consejo Experto</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-windows-compatible-12-port-usb-c-hub-with-innovative-power-charging-capabilities-spotted/"><u>Revolutionary Windows-Compatible, 12-Port USB-C Hub with Innovative Power Charging Capabilities - Spotted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-long-lasting-ultraportable-laptop-for-on-the-go-work-exclusive-test/"><u>The Best Long-Lasting Ultraportable Laptop for On-the-Go Work - Exclusive Test</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-non-lenovo-non-mac-book-review-revealed-boost-your-workflow/"><u>Top-Ranking Non-Lenovo, Non-Mac Book Review Revealed - Boost Your Workflow!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-top-rated-gamer-sound-experience-now-just-150-less-on-amazon-according-to-zdnet/"><u>Unbeatable Deal Alert: Top-Rated Gamer Sound Experience Now Just $150 Less on Amazon, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-snag-the-high-performance-acer-laptop-for-just-below-651-on-newegg-zdnets-top-picks/"><u>Unbeatable Deal Alert! Snag the High-Performance Acer Laptop for Just Below $651 on Newegg – ZDNet's Top Picks!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unexpected-top-performers-in-the-tech-world-do-they-include-a-laptop-find-out-with-insights-from-zdnet/"><u>Unexpected Top-Performers in the Tech World: Do They Include a Laptop? Find Out with Insights From ZDNET</u></a></li>
+</ul></div>
 

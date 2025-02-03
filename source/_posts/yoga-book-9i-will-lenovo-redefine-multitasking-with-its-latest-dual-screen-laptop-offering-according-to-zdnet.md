@@ -1,7 +1,7 @@
 ---
 title: "Yoga Book ^9I: Will Lenovo Redefine Multitasking with Its Latest Dual-Screen Laptop Offering, According to ZDNet?"
-date: 2025-01-18T18:15:38.894Z
-updated: 2025-01-24T16:37:35.123Z
+date: 2025-01-29T18:20:56.075Z
+updated: 2025-02-01T18:41:46.658Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
@@ -40,7 +36,15 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 1: The old fashioned way**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -51,10 +55,6 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -69,7 +69,7 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
@@ -90,10 +90,6 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -104,19 +100,23 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,17 +157,24 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-face-editing-battle-is-hero-series-better-than-the-cube-in-2024/"><u>[Updated] Face-Editing Battle Is Hero Series Better Than The Cube, In 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-visionary-vistas-the-ultimate-list-of-motivating-ig-images-for-2024/"><u>[Updated] Visionary Vistas The Ultimate List of Motivating IG Images for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-itel-a60-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Itel A60 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-digital-gifs-for-2024/"><u>Navigating the World of Digital GIFs for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-non-samsung-non-tcl-android-tablets-discover-the-best-alternatives/"><u>Top Recommended Non-Samsung, Non-TCL Android Tablets: Discover the Best Alternatives!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-six-strategies-for-refreshing-and-optimizing-your-gadgets-this-spring-insights-from-zdnet/"><u>Top Six Strategies for Refreshing and Optimizing Your Gadgets This Spring - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-kindle-devices-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Kindle Devices : Comprehensive Reviews by Tech Gurus - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-android-tablets-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Android Tablets : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-tablet-addons-expert-picks-by-techadvisor/"><u>Top-Rated Tablet Addons : Expert Picks by TechAdvisor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/virtual-worlds-real-learning/"><u>Virtual Worlds, Real Learning</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-creating-your-niche-starting-a-video-channel-for-beauty-goods-reviews/"><u>[New] 2024 Approved Creating Your Niche Starting a Video Channel for Beauty Goods Reviews</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-convert-live-facebook-videos-to-mp3s-on-the-fly-for-2024/"><u>[New] Convert Live Facebook Videos to MP3s on the Fly for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ditcanvas-solutions/"><u>[New] EditCanvas Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-pinpointing-premium-hdr-camera-brands/"><u>[New] In 2024, Pinpointing Premium HDR Camera Brands</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-acclaimed-pc-emulators-for-vintage-ps1-titles/"><u>[Updated] 2024 Approved Acclaimed PC Emulators for Vintage PS1 Titles</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveil-your-channels-potential-with-30-top-tier-free-intros/"><u>[Updated] 2024 Approved Unveil Your Channel's Potential with 30 Top-Tier Free Intros</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-method-for-recording-youtube-videos-on-any-device-for-2024/"><u>[Updated] The Ultimate Method for Recording YouTube Videos on Any Device for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazing-finds-alert-best-in-class-laptops-on-sale-for-prime-day-including-the-stellar-lg-gram-pro-17-tech-insights/"><u>Amazing Finds Alert: Best-in-Class Laptops on Sale for Prime Day, Including the Stellar LG Gram Pro 17 | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apples-new-era-begins-with-the-m3-macbook-air-an-accessible-artificially-intelligent-computer-comprehensive-analysis-on-zdnet/"><u>Apple's New Era Begins with the M3 MacBook Air: An Accessible, Artificially Intelligent Computer | Comprehensive Analysis on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-amazon-prime-day-savings-in-october-2024-exclusive-deals-and-discounts-guide/"><u>Best Amazon Prime Day Savings in October 2024 - Exclusive Deals & Discounts Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gems-in-this-understated-asus-laptop-a-creatives-dream-revealed/"><u>Discover the Hidden Gems in This Understated Asus Laptop - A Creative's Dream Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-exceptional-visuals-and-video-calls-with-acers-best-oled-screen-and-webcam-combo-tested-by-zdnet/"><u>Experience Exceptional Visuals and Video Calls with Acer's Best OLED Screen and Webcam Combo, Tested by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-streamlined-computing-with-windows-free-hp-chromebook-at-136-off-according-to-zdnets-expert-review/"><u>Experience Streamlined Computing with Windows-Free HP Chromebook at $136 Off, According to ZDNet's Expert Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-tier-business-data-haven-selection/"><u>In 2024, Top-Tier Business Data Haven Selection</u></a></li>
+<li><a href="https://video-capture.techidaily.com/low-cost-recorders-guide-to-webcasting-wisdom/"><u>Low-Cost Recorder's Guide to Webcasting Wisdom</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-ndis-driver-bug-fix-and-troubleshooting-steps/"><u>Resolve NDIS Driver Bug: Fix and Troubleshooting Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surprisingly-versatile-and-compact-the-ultimate-guide-to-the-undervalued-8-in-1-adapter-featured-on-zdnet/"><u>Surprisingly Versatile and Compact: The Ultimate Guide to the Undervalued 8-in-1 Adapter Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiled-most-incredible-cyber-monday-sales-for-gaming-systems-and-accessories-in-october-2024-cnet-insights/"><u>Unveiled: Most Incredible Cyber Monday Sales for Gaming Systems & Accessories in October 2024 | CNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-prefer-this-asus-laptop-over-a-macbook-discover-its-superior-features/"><u>Why I Prefer This Asus Laptop Over a MacBook: Discover Its Superior Features</u></a></li>
 </ul></div>
 

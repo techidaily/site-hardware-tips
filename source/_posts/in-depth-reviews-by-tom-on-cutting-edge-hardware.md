@@ -1,7 +1,7 @@
 ---
 title: In-Depth Reviews by Tom on Cutting-Edge Hardware
-date: 2024-08-19T02:36:56.761Z
-updated: 2024-08-20T02:36:56.761Z
+date: 2025-01-27T18:50:06.470Z
+updated: 2025-02-01T19:46:09.209Z
 tags:
   - motherboards
 categories:
@@ -33,9 +33,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -48,15 +56,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,24 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-elevate-iphone-videos-time-lapse-masterclass/"><u>[New] Elevate iPhone Videos Time-Lapse Masterclass</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-live-broadcast-precision-introducing-an-effective-timer-for-2024/"><u>[Updated] Live Broadcast Precision Introducing an Effective Timer for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-ultimate-prime-day-october-2024-guide-unlock-the-hottest-offers-and-products-still-on-sale/"><u>Best Buy's Ultimate Prime Day October 2024 Guide: Unlock the Hottest Offers and Products Still on Sale!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-macbooks-shadow-a-surprising-tech-marvel-emerges-as-one-of-the-top-performers-tested/"><u>Beyond MacBook's Shadow: A Surprising Tech Marvel Emerges as One of the Top Performers Tested</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/check-out-the-amazing-300-sale-on-asus-vivobook-pro-available-only-on-amazon-insights-from-zdnet/"><u>Check Out the Amazing $300 Sale on Asus VivoBook Pro Available Only on Amazon | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-intels-latest-upgrade-battlemage-outperforms-ice-lake-by-saving-100w-on-energy-with-unaffected-overclocking-after-recent-raptor-lake-microcode-enha8/"><u>Discover Intel's Latest Upgrade: Battlemage Outperforms Ice Lake by Saving 100W on Energy with Unaffected Overclocking After Recent Raptor Lake Microcode Enhancements</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-online-help-desk-for-winx-dvd-ripping-and-video-conversion-tool/"><u>Expert Online Help Desk for WinX DVD Ripping & Video Conversion Tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-huawei-nova-12-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Huawei Nova 12 Pro using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-unveils-futuristic-auto-swivel-laptop-a-first-look-from-ifa-2024/"><u>Lenovo Unveils Futuristic Auto-Swivel Laptop - A First Look From IFA 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-hp-savings-during-cyber-week-monitors-and-laptops-at-a-steep-71-reduction-zdnet/"><u>Massive HP Savings During Cyber Week: Monitors and Laptops at a Steep 71% Reduction | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-unveils-innovative-tool-granting-windows-experience-on-chromebooks-and-macs-to-eligible-users-spotlight-by-zdnet/"><u>Microsoft Unveils Innovative Tool Granting Windows Experience on Chromebooks & Macs to Eligible Users - Spotlight by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-preview-discover-the-best-value-2-in-1-laptop-beyond-lenovo-and-dell-at-unbeatable-prices/"><u>Prime Day Preview: Discover the Best Value 2-in-1 Laptop Beyond Lenovo and Dell at Unbeatable Prices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-poco-m6-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Poco M6 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-budget-laptops-in-2eusrdytyyopdslfjfsafs/"><u>Top-Rated Budget Laptops in 2Eusrdytyyopdslfjfsafs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-high-definition-videos-best-editing-software-2023/"><u>Unleash High-Definition Videos Best Editing Software 2023</u></a></li>
+</ul></div>
 

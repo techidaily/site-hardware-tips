@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Connectivity with the New ASRock Z890 Taichi: Ten USB C Ports, Including Two Thunderbolt!"
-date: 2024-08-19T02:38:01.017Z
-updated: 2024-08-20T02:38:01.017Z
+date: 2025-01-25T17:18:08.630Z
+updated: 2025-02-01T16:05:09.838Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,22 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-update-complete-shorts-visibility-restored/"><u>[New] 2024 Approved Update Complete Shorts Visibility Restored</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-discover-the-best-snapchat-video-edits-on-android-and-iphone/"><u>[New] In 2024, Discover the Best Snapchat Video Edits on Android and iPhone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-take-full-page-screen-images/"><u>[Updated] 2024 Approved Take Full-Page Screen Images</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-easy-setup-making-a-direct-path-for-youtube-subscribers/"><u>2024 Approved Easy Setup Making a Direct Path for YouTube Subscribers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-it-professionals-compromising-your-data-security-startling-new-evidence-suggests-so-stay-informed/"><u>Are IT Professionals Compromising Your Data Security? Startling New Evidence Suggests So - Stay Informed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-boundaries-with-custom-made-toughness-exploring-a-new-era-of-rugged-computing-not-defined-by-getac-innovative-reviews-on-zdnet/"><u>Breaking Boundaries with Custom-Made Toughness: Exploring a New Era of Rugged Computing Not Defined by Getac | Innovative Reviews on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-2023-recap-top-innovations-and-breakthroughs-from-the-first-day-tech-insights/"><u>CES 2023 Recap: Top Innovations and Breakthroughs From the First Day | Tech Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-optimize-privacy-in-android-11-a-step-by-step-guide-to-one-time-app-permissions-and-revouninstaller-use/"><u>How to Optimize Privacy in Android 11: A Step-by-Step Guide to One-Time App Permissions & RevoUninstaller Use</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-sound-overlap-exploring-crossfade/"><u>In 2024, Flawless Sound Overlap Exploring Crossfade</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y78t-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y78t</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-metaverse-humor-generating-unique-memes-for-2024/"><u>Innovative Metaverse Humor Generating Unique Memes for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-hp-victus-15-gaming-laptop-for-a-bargain-515-avoid-missing-out-on-this-anti-prime-day-deal-from-best-buy/"><u>Snag the HP Victus 15 Gaming Laptop for a Bargain $515 - Avoid Missing Out on This Anti-Prime Day Deal From Best Buy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasforma-i-tuoi-video-hevc-in-formato-mp4-senza-compromettere-la-qualita-visiva/"><u>Trasforma I Tuoi Video HEVC in Formato MP4 Senza Compromettere La Qualità Visiva</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-best-online-tech-bargains-for-october-prime-day-and-cyber-monday-2024-shopping-advice-from-zdnet/"><u>Ultimate Best Online Tech Bargains for October Prime Day and Cyber Monday 2024 | Shopping Advice From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-new-gen-of-ai-enhanced-dell-xps-laptops-where-sophistication-meets-innovation-in-style-and-functionality/"><u>Unveiling the New Gen of AI-Enhanced Dell XPS Laptops: Where Sophistication Meets Innovation in Style and Functionality</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->

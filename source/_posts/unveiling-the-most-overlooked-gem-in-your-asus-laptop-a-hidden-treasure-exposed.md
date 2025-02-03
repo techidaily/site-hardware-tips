@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Most Overlooked Gem in Your Asus Laptop: A Hidden Treasure Exposed"
-date: 2025-01-18T18:33:35.552Z
-updated: 2025-01-25T00:16:23.974Z
+date: 2025-01-31T17:41:04.219Z
+updated: 2025-02-01T18:57:53.804Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,22 +106,20 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-reference-how-to-record-videos-on-vimeo/"><u>[New] 2024 Approved Quick Reference How to Record Videos on Vimeo</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-instagrams-hidden-filter-tools/"><u>[Updated] 2024 Approved Unlocking Instagram's Hidden Filter Tools</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-youtube-content-via-finalcut-pro-techniques/"><u>[Updated] Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-infographic-8-ways-to-make-money-on-youtube-for-beginners-for-2024/"><u>[Updated] Infographic - 8 Ways to Make Money on YouTube for Beginners for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cookiebot-enhanced-site-performance-and-analytics/"><u>Cookiebot-Enhanced Site Performance & Analytics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experts-guide-10-crucial-settings-and-tips-every-new-apple-user-should-master-on-their-ipad-zdnet/"><u>Expert's Guide: 10 Crucial Settings and Tips Every New Apple User Should Master on Their iPad | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-market-beyond-kindle-and-remarkable-the-ultimate-guide-to-exceptional-e-ink-devices-for-book-lovers/"><u>Exploring the Market Beyond Kindle & Remarkable: The Ultimate Guide to Exceptional E Ink Devices for Book Lovers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them-for-2024/"><u>GoPro Versus Polaroid Editing Faces Vs. Cameras That Shoot Them for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-your-enterprise-will-depend-on-numerous-ai-models-in-the-future-insights-from-zdnet/"><u>How Your Enterprise Will Depend on Numerous AI Models in the Future - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-get-the-new-ipad-pro-for-a-whopping-700-off-labor-day-deal-exclusive-gadget-buzz/"><u>Huge Savings Alert: Get the New iPad Pro for a Whopping $700 Off - Labor Day Deal Exclusive | Gadget Buzz</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/immediate-ces-202-tech-acquisitions-revealed-by-zdnet-whats-new-and-ships-immediately/"><u>Immediate CES 202# Tech Acquisitions Revealed by ZDNet: What’s New and Ships Immediately!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-inshot-analysis-video-edition-showdown/"><u>In 2024, InShot Analysis Video Edition Showdown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-ipad-models-of-2024-evaluated-and-ranked-in-depth-analysis-zdnet/"><u>Leading iPad Models of 2024 Evaluated & Ranked - In-Depth Analysis | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-ipads-of-2024-unveiled-expert-insights-comprehensive-testing-and-reviewed-selections-zdnet/"><u>Leading iPads of 2024 Unveiled: Expert Insights, Comprehensive Testing & Reviewed Selections | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-stage-manager-enhancing-productivity-with-an-ipad-app-the-definitive-guide-from-zdnet/"><u>Mastering the Art of Stage Manager: Enhancing Productivity with an iPad App - The Definitive Guide From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-new-icloud-shared-photo-feature-benefits-and-setup-guide-on-zdnet/"><u>Mastering the New iCloud Shared Photo Feature: Benefits & Setup Guide on ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138588653-9781449734596-new-growth/"><u>New Growth | Free Book</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-quiet-your-feed-stop-instagrams-suggestion-system/"><u>[New] 2024 Approved Quiet Your Feed Stop Instagram's Suggestion System</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screen-recorder-showdown-features-and-prices-compared/"><u>[Updated] 2024 Approved Screen Recorder Showdown Features and Prices Compared</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-guide-seamless-facebook-live-integration-for-web-pages/"><u>[Updated] Guide Seamless Facebook Live Integration for Web Pages</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-subtitling-a-compreenhensive-review-of-key-online-tools/"><u>[Updated] Mastering Video Subtitling A Compreenhensive Review of Key Online Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-key-strategies-for-impactful-titles-today/"><u>5 Key Strategies for Impactful Titles Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/charge-all-your-gadgets-on-the-go-with-this-140w-multi-device-companion-lasts-until-next-charge/"><u>Charge All Your Gadgets on the Go with This 140W Multi-Device Companion - Lasts Until Next Charge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-long-lasting-laptop-of-the-year-featuring-sleek-portability-and-extended-battery-life-zdnet/"><u>Discover the Best Long-Lasting Laptop of the Year - Featuring Sleek Portability and Extended Battery Life | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-savings-exclusive-july-2024-deals-on-laptops-featured/"><u>Discover the Ultimate Savings: Exclusive July 2024 Deals on Laptops Featured</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-play-7t-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Play 7T FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/savings-alert-grab-the-8tb-samsung-t5-ssd-on-amazon-up-to-36-less-post-prime-day-zdnet-tech-reviews/"><u>Savings Alert: Grab the 8TB Samsung T5 SSD on Amazon Up to 36% Less Post-Prime Day | ZDNet Tech Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-computer-glitches-update-your-nvidia-driver/"><u>Stop Computer Glitches: Update Your Nvidia Driver</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-power-solution-for-years-of-unmatched-performance-save-big-with-limited-time-offer-at-49-off/"><u>Top-Rated Portable Power Solution for Years of Unmatched Performance | Save Big with Limited Time Offer at 49% Off!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-screen-quality-meets-wallet-friendly-price-in-our-latest-pick-for-best-value-laptops-insights-from-zdnets-tech-team/"><u>Top-Tier Screen Quality Meets Wallet-Friendly Price in Our Latest Pick for Best Value Laptops - Insights From ZDNET's Tech Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-cluttered-desk-into-a-tech-haven-explore-the-ultimate-11-in-1-docking-station-at-44-off-featured/"><u>Transform Your Cluttered Desk Into a Tech Haven: Explore the Ultimate 11-in-1 Docking Station at 44% Off | Featured</u></a></li>
 </ul></div>
 

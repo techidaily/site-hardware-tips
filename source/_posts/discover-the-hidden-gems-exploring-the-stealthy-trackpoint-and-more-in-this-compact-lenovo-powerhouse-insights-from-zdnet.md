@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights From ZDNet"
-date: 2025-01-21T17:11:52.355Z
-updated: 2025-01-24T17:02:30.768Z
+date: 2025-01-28T19:40:15.850Z
+updated: 2025-02-01T16:05:05.025Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,22 +116,14 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-game-changing-growl-techniques-in-free-fire/"><u>[New] Game-Changing Growl Techniques in Free Fire</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-pros-choice-high-quality-4k-dslr-mounting-systems/"><u>[New] In 2024, Pro's Choice High-Quality 4K DSLR Mounting Systems</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-from-chaos-to-clarity-mastering-xiaomis-screen-recording/"><u>[Updated] In 2024, From Chaos to Clarity Mastering Xiaomi's Screen Recording</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/7-creative-and-advanced-alternatives-to-chatgpt-apps/"><u>7 Creative and Advanced Alternatives to ChatGPT Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/conquering-content-sharing-on-igtv-for-2024/"><u>Conquering Content Sharing on IGTV for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-microsoft-azure-for-text-conversion-for-2024/"><u>Navigating Microsoft Azure for Text Conversion for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-digital-dependence-my-journey-from-gps-to-traditional-map-reading-and-what-it-means-amidst-rising-dementia-concerns/"><u>Say Goodbye to Digital Dependence: My Journey From GPS to Traditional Map Reading and What It Means Amidst Rising Dementia Concerns</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sky-high-deliveries-soar-higher-walmart-expands-unmanned-aerial-vehicle-program-for-swift-shipping-solutions-zdnet/"><u>Sky-High Deliveries Soar Higher: Walmart Expands Unmanned Aerial Vehicle Program for Swift Shipping Solutions | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-airfare-by-half-unlock-savings-of-2000plus-through-the-exclusive-dollar-flight-club-revealed-on-zdnet/"><u>Slash Your Airfare by Half: Unlock Savings of $2,000+ Through the Exclusive Dollar Flight Club - Revealed on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-travel-costs-in-half-with-dollar-flight-clubs-insane-sale-up-to-94-off-now-zdnet/"><u>Slash Your Travel Costs in Half with Dollar Flight Club's Insane Sale - Up to 94% Off Now | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/southwests-costly-misstep-penalizing-customers-at-the-inopportune-time-analyzed-by-zdnet/"><u>Southwest's Costly Misstep: Penalizing Customers at the Inopportune Time Analyzed by ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tech-tips-how-to-get-fcp-without-money/"><u>Tech Tips How to Get FCP Without Money</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tesla-completes-delivery-of-revolutionary-electric-semi-trucks-zdnet/"><u>Tesla Completes Delivery of Revolutionary Electric Semi-Trucks - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tesla-confirms-progress-with-cybertruck-manufacturing-and-hints-at-future-vehicle-architecture-zdnet/"><u>Tesla Confirms Progress with Cybertruck Manufacturing and Hints at Future Vehicle Architecture - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-hybrid-vehicles-comprehensive-review-by-zdnet/"><u>Top 5 Hybrid Vehicles : Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-liebesfilme-aller-zeiten-die-ultimative-herausforderung-zum-herunterladen/"><u>Top-Liebesfilme Aller Zeiten: Die Ultimative Herausforderung Zum Herunterladen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/wireless-ps-vr-and-pc-integration-tutorial-how-to-connect-them-effortlessly/"><u>Wireless PS VR and PC Integration Tutorial: How To Connect Them Effortlessly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-find-my-playlist-on-youtube/"><u>[Updated] How to Find My Playlist on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-expands-its-discontinued-mac-lineup-with-9-more-models-implications-for-consumers-and-tech-enthusiasts-detailed-analysis-by-zdnet/"><u>Apple Expands Its Discontinued Mac Lineup with 9 More Models - Implications for Consumers and Tech Enthusiasts | Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-11-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 11 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-updated-epson-wf-3620-drivers-on-your-windows-computer-compatible-with-win-11-8-and-7/"><u>How to Install Updated Epson WF-3620 Drivers on Your Windows Computer (Compatible with Win 11, 8 & 7)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-se-2022-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone SE (2022) Smoothly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-connectivity-with-this-tiny-mighty-8-in-1-adapter-an-incredible-find-reviewed-by-zdnet/"><u>Maximize Connectivity with This Tiny, Mighty 8-in-1 Adapter – An Incredible Find Reviewed by ZDNET</u></a></li>
+<li><a href="https://fox-where.techidaily.com/seamless-cross-platform-music-migration-transferring-tunes-from-android-to-ios-devices/"><u>Seamless Cross-Platform Music Migration: Transferring Tunes From Android to iOS Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-high-stakes-battle-of-ultrabooks-comparing-samsungs-newest-with-apples-iconic-macbook-pro-wiredreviews/"><u>The High Stakes Battle of Ultrabooks: Comparing Samsung's Newest with Apple's Iconic MacBook Pro | WiredReviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-find-the-perfect-glass-shield-for-your-iphone-zdnet-insights/"><u>Ultimate Guide: Find the Perfect Glass Shield for Your iPhone – ZDNet Insights</u></a></li>
 </ul></div>
 

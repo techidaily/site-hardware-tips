@@ -1,7 +1,7 @@
 ---
 title: "7-Device Charging Capacity: Unmatched 140W Portable Battery Backup That Lasts Longer Between Charges - Spotlight on Tech"
-date: 2025-01-19T19:10:15.234Z
-updated: 2025-01-25T00:23:58.831Z
+date: 2025-01-25T17:12:04.213Z
+updated: 2025-02-01T17:02:50.885Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -81,7 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,17 +130,16 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-steering-clear-of-echo-chambers-in-instagram-interactions/"><u>[New] Steering Clear of Echo Chambers in Instagram Interactions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-navigating-the-challenges-of-green-technology-strategies-for-seeking-additional-resources/"><u>1) Navigating the Challenges of Green Technology: Strategies for Seeking Additional Resources</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2022s-ultimate-guide-to-choosing-the-perfect-electric-leaf-blower-featuring-top-picks-from-industry-experts/"><u>2022'S Ultimate Guide to Choosing the Perfect Electric Leaf Blower - Featuring Top Picks From Industry Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ai-and-computings-green-revolution-strategies-for-sustainable-tech-development-in-an-energy-intensive-era-zdnet/"><u>AI and Computing's Green Revolution: Strategies for Sustainable Tech Development in an Energy-Intensive Era | ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nubia-red-magic-8s-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nubia Red Magic 8S Pro+ to iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-calculated-viewing-time-for-a-standard-20mb-film/"><u>In 2024, Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-12-video-hourly-livestream-service/"><u>In 2024, Exclusive 12 Video Hourly Livestream Service</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-prime-facebook-extra-tools-secure-file-grabber-optimized-for-ff/"><u>In 2024, Prime Facebook Extra Tools Secure File Grabber, Optimized For FF</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-essential-guide-to-signing-up-for-twitter/"><u>In 2024, The Essential Guide to Signing Up for Twitter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zendures-ultimate-charge-solution-unveiled-the-superbase-pro-nvigates-the-future-of-powering-tech-a-detailed-review-on-zdnet/"><u>Zendure's Ultimate Charge Solution Unveiled: The SuperBase Pro Nvigates the Future of Powering Tech | A Detailed Review on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zero-carbon-vision-at-lenovo-strategies-for-eco-friendly-operations-as-revealed-by-zdnet/"><u>Zero Carbon Vision at Lenovo: Strategies for Eco-Friendly Operations as Revealed by ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-filmoras-peer-level-alternatives-the-top-10-background-changers/"><u>[New] 2024 Approved Filmora's Peer-Level Alternatives The Top 10 Background Changers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-audio-matters-ensuring-excellent-sound-in-your-youtube-shots/"><u>[Updated] 2024 Approved Audio Matters Ensuring Excellent Sound in Your YouTube Shots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-record-ps4-with-obs/"><u>[Updated] 2024 Approved How To Record PS4 with OBS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3000-dell-gamer-beast-review-surprising-perks-of-cutting-edge-features-that-reimagine-your-playing-experience-zdnet/"><u>$3,000 Dell Gamer Beast Review: Surprising Perks of Cutting-Edge Features That Reimagine Your Playing Experience | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-devices-versatularity-with-these-expert-tips-for-adding-more-ports-to-macbook-or-ipad-pro-recommendations/"><u>Enhance Your Device's Versatularity with These Expert Tips for Adding More Ports to MacBook or iPad Pro Recommendations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screenshot-expertise-checker/"><u>In 2024, ScreenShot Expertise Checker</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-asuss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Asuss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/jujutsu-kaisen-characters-in-the-world-of-tiktok-creatives-for-2024/"><u>Jujutsu Kaisen Characters in the World of TikTok Creatives for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/metas-october-sale-shines-with-quest-nano-3-512gb-deal-could-be-prime-days-top-virtual-reality-bargain-says-zdnet-analysis/"><u>Meta's October Sale Shines with Quest Nano 3 512GB Deal – Could Be Prime Day’s Top Virtual Reality Bargain, Says ZDNET Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-right-touchscreen-laptop-professional-ratings-and-comparisons-at-zdnet/"><u>Ultimate Guide to Choosing the Right Touchscreen Laptop: Professional Ratings & Comparisons at ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-pairings-4-innovative-windows-webp-viewer-apps/"><u>Winning Pairings: 4 Innovative Windows WebP Viewer Apps</u></a></li>
 </ul></div>
 

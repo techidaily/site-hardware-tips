@@ -1,7 +1,7 @@
 ---
 title: Expert Insights Into Processors, Motherboards and More with Tom's Hardware
-date: 2024-08-19T02:36:52.089Z
-updated: 2024-08-20T02:36:52.089Z
+date: 2025-01-29T18:15:50.565Z
+updated: 2025-02-01T19:42:36.946Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,23 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-exciting-vlog-subjects-daily-selection-for-2024/"><u>[Updated] Exciting Vlog Subjects Daily Selection for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-next-generation-virtual-collaboration-tools-post-zoom-era/"><u>[Updated] Next Generation Virtual Collaboration Tools, Post-Zoom Era</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-obs-overpower-vs-streamlabs-supremacy/"><u>2024 Approved OBS Overpower Vs. Streamlabs Supremacy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/balancing-professional-and-personal-profiles-for-2024/"><u>Balancing Professional and Personal Profiles for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buy-anti-prime-day-alert-secure-your-hp-victus-15-gaming-laptop-for-a-low-price-of-515-top-tips/"><u>Best Buy Anti-Prime Day Alert: Secure Your HP Victus 15 Gaming Laptop for a Low Price of $515 – Top Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-dell-xps-13-2-in-1-evaluation-exceptional-capability-and-functionality/"><u>Comprehensive Dell XPS 13 2-In-1 Evaluation: Exceptional Capability and Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-2022-exclusive-offers-on-ultimate-laptop-cooling-solutions-to-keep-your-device-cool-and-efficient/"><u>Cyber Monday 2022: Exclusive Offers on Ultimate Laptop Cooling Solutions to Keep Your Device Cool and Efficient!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elevate-your-meetings-with-zooms-filter-capabilities/"><u>Elevate Your Meetings with Zoom's Filter Capabilities</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discounts-on-cyber-monday-save-up-to-600-on-the-new-microsoft-surface-pro-8-post-black-friday-sale-top-deals-by-zdnet/"><u>Huge Discounts on Cyber Monday! Save Up to $600 on the New Microsoft Surface Pro 8 Post-Black Friday Sale - Top Deals by ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/laptop-vs-desktop-a-comprehensive-guide-to-benefits-and-drawbacks-tips-from-yl-software-professionals/"><u>Laptop Vs. Desktop: A Comprehensive Guide to Benefits and Drawbacks – Tips From YL Software Professionals</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-complete-walkthrough-to-refresh-your-iphone-systematically/"><u>The Complete Walkthrough to Refresh Your iPhone Systematically</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-oled-laptop-picks-for-2-audience-featured-and-vetted-by-tech-gurus-zdnet/"><u>Top-Ranking OLED Laptop Picks for 2#! Audience - Featured & Vetted by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-october-prime-day-offer-get-metas-latest-512gb-quest-3-for-pocket-friendly-prices-exclusive-inside-scoop-by-zdnet/"><u>Unbeatable October Prime Day Offer: Get Meta’s Latest 512GB Quest 3 for Pocket-Friendly Prices – Exclusive Inside Scoop by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-prime-day-offers-for-gamers-awaiting-you-in-october-2ebe/"><u>Unbeatable Prime Day Offers for Gamers Awaiting You in October 2Ebe!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-apples-latest-move-9-additional-mac-models-declared-obsolete-and-what-it-means-for-users/"><u>Understanding Apple’s Latest Move: 9 Additional Mac Models Declared 'Obsolete' And What It Means for Users</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

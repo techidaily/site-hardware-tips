@@ -1,7 +1,7 @@
 ---
 title: Precision PC & Electronics Breakdown with Tom's Hardware Reviews
-date: 2024-08-19T02:38:35.804Z
-updated: 2024-08-20T02:38:35.804Z
+date: 2025-01-28T19:32:24.870Z
+updated: 2025-02-01T16:02:06.253Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,18 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-harmonic-highlights-the-right-song-for-your-ig-video/"><u>[New] Harmonic Highlights The Right Song for Your IG Video</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-step-into-the-world-of-film-making-effective-use-of-movie-maker-on-windows-8-pcs-for-2024/"><u>[New] Step Into the World of Film Making Effective Use of Movie Maker on Windows 8 PCs for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-essential-laptop-cooling-gadget-every-tech-enthusiast-must-have-stay-chill-while-you-work/"><u>1. Essential Laptop Cooling Gadget Every Tech Enthusiast Must Have - Stay Chill While You Work!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-exclusive-imagery-tale-constructor/"><u>2024 Approved Exclusive Imagery Tale Constructor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-elite-security-key-picks-professionally-assessed-on-zdnet/"><u>2024'S Elite Security Key Picks, Professionally Assessed on ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/armored-fix-for-gdrivererr22/"><u>Armored Fix for GDRIVER_ERR22</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-bargains-on-amazon-and-walmart-exclusive-offers-for-oct-2024-prime-events-limited-stock/"><u>Best Bargains on Amazon & Walmart - Exclusive Offers for Oct 2024 Prime Events: Limited Stock!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-counteracting-latency-issues-in-call-of-duty-black-ops-4/"><u>Effective Solutions for Counteracting Latency Issues in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unbeatable-savings-up-to-230-off-on-an-hp-156-inch-touch-enabled-notebook-s-current-offer/"><u>Experience Unbeatable Savings: Up to $230 Off on an HP 15.6 Inch Touch-Enabled Notebook 'S Current Offer!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solutions-for-halted-hp-print-operations/"><u>Solutions for Halted HP Print Operations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-hype-how-the-viral-no-kinks-usb-c-cable-became-a-must-have-for-my-travel-gear-zdnet-review/"><u>Unraveling the Hype: How the Viral 'No Kinks' USB-C Cable Became a Must-Have for My Travel Gear (ZDNet Review)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

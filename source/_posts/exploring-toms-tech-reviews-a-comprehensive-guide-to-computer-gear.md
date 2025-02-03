@@ -1,7 +1,7 @@
 ---
 title: "Exploring Tom's Tech Reviews: A Comprehensive Guide to Computer Gear"
-date: 2024-08-19T02:33:57.971Z
-updated: 2024-08-20T02:33:57.971Z
+date: 2025-01-26T16:44:11.149Z
+updated: 2025-02-01T18:02:13.025Z
 tags:
   - ssd
 categories:
@@ -16,6 +16,10 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
  Many drives in this category are outright slower than the AI818, at least on paper. This includes the[Kingston NV2](https://tools.techidaily.com) and drives like it, as well as PCIe 3.0 drives like the[Teamgroup MP34](https://tools.techidaily.com) . The latter is now using a Realtek controller, like our AI818 sample. Realtek controllers often feel last-generation and can run hotter, but offer a way to add more capacity at a lower cost. Unlike the MP34, though, our 2TB AI818 is using QLC NAND, which is being used on many budget PCIe 4.0 drives including the NV2 and the[Silicon Power UD90](https://tools.techidaily.com) — but not all, as the[Teamgroup MP44L](https://tools.techidaily.com) is one exception. As TLC cannot be guaranteed in most cases, caution is warranted on this class of drive.  
   
  Some of our results for the AI818 are surprising, and often not in a good way. We also don’t think this drive is the best choice for a laptop. However, it’s not the worst drive we’ve ever tested, and if you can find it at the right price it can get the job done. With this drive, budget is the name of the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -51,32 +55,27 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AGI AI818 — A Closer Look
 
  Image 1 of 3
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -85,13 +84,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -156,16 +160,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +173,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-key-insights-mastering-win11-features/"><u>[Updated] 2024 Approved Key Insights Mastering Win11 Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-charts-tactics-when-to-go-live-on-youtube/"><u>[Updated] 2024 Approved Top Charts Tactics When to Go Live on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-two-sides-to-every-story-how-to-create-balanced-reaction-videos-on-youtube-2-pov-approach/"><u>2024 Approved Two Sides to Every Story – How to Create Balanced Reaction Videos on YouTube (2 POV Approach)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apples-stealthy-power-boost-to-last-years-macbook-air-what-you-need-to-know-gadget-breakdown/"><u>Apple's Stealthy Power Boost to Last Year's MacBook Air - What You Need to Know | Gadget Breakdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-charge-capabilities-exploring-the-12-in-1-thunderbolt-docks-unique-power-perk-for-pc-enthusiasts-insights/"><u>Discover the Hidden Charge Capabilities: Exploring the 12-in-1 Thunderbolt Dock's Unique Power Perk for PC Enthusiasts - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-bird-special-get-your-discounted-samsung-t5-ssd-before-the-prime-rush-deals-unveiled-by-zdnet/"><u>Early Bird Special: Get Your Discounted Samsung T5 SSD Before the Prime Rush - Deals Unveiled by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-install-download-your-intel-thunderbolt-driver-today/"><u>Effortless Install: Download Your Intel Thunderbolt Driver Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-preview-of-whats-coming-from-apples-fall-event-enhanced-m4-mac-mini-models-revolutionary-ipad-features-upgrades-to-ai-capabilities-and-more-in-dep59/"><u>Exclusive Preview of What's Coming From Apple’s Fall Event: Enhanced M4 Mac Mini Models, Revolutionary iPad Features, Upgrades to AI Capabilities and More – In-Depth Analysis for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-s17t-phone-by-drfone-android/"><u>How to Reset a Locked Vivo S17t Phone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-lava-blaze-curve-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Lava Blaze Curve 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-the-most-economical-streaming-apps-for-your-phone/"><u>In 2024, Finding the Most Economical Streaming Apps for Your Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic-6-lite-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic 6 Lite</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unlock-creativity-idea-driven-youtube-channel-titles/"><u>In 2024, Unlock Creativity Idea-Driven YouTube Channel Titles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-the-ultimate-bargains-for-computers-during-prime-day-sale-in-oct-24-tips-and-tricks-zdnet/"><u>Secure the Ultimate Bargains for Computers During Prime Day Sale in Oct '24 - Tips & Tricks | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-essential-portable-charger-at-a-bargain-anker-737-deal-with-30-discount-zdnets-insider-info/"><u>Secure Your Essential Portable Charger at a Bargain: Anker 737 Deal with $30 Discount - ZDNet's Insider Info!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-meta-quest-3-512gb-offer-the-premier-october-prime-day-deal-for-virtual-reality-enthusiasts-zdnet/"><u>Top Meta Quest 3 512GB Offer: The Premier October Prime Day Deal for Virtual Reality Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/twin-monitor-deal-alert-cut-costs-with-teamgees-laptop-accessories-at-just-120-less-per-unit-spotted/"><u>Twin-Monitor Deal Alert: Cut Costs with TeamGee's Laptop Accessories at Just $120 Less per Unit – Spotted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unparalleled-flexibility-and-stunning-visuals-a-review-of-an-exceptional-laptop-with-top-notch-display-insights-from-zdnet/"><u>Unparalleled Flexibility & Stunning Visuals: A Review of an Exceptional Laptop with Top-Notch Display - Insights From ZDNet</u></a></li>
+</ul></div>
 

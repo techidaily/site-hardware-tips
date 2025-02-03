@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis of Cutting-Edge Computing Equipment by Tom's Experts
-date: 2024-08-19T02:38:16.567Z
-updated: 2024-08-20T02:38:16.567Z
+date: 2025-01-25T17:31:20.003Z
+updated: 2025-02-01T18:17:20.296Z
 tags:
   - motherboards
 categories:
@@ -15,9 +15,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where did CAMM2 come from?
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
@@ -37,6 +45,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  On the desktop, the benefits are less about upgradeability, as no one has been soldering RAM to enthusiast PC motherboards. On the one hand, the lack of bulky DIMMs is an aesthetic improvement. It also means that you don't have to worry about the height of your RAM when you install one of the[best CPU coolers](https://tools.techidaily.com) . That said, the boards we saw at Computex only had a single CAMM2 memory slot, so an upgrade would require replacing all of your RAM when swapping your CAMM2 RAM.
@@ -47,30 +59,14 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -80,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -96,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +100,18 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-monitor-metamorphosis-from-standard-to-stunning-with-asus-mg28uq-for-2024/"><u>[New] Monitor Metamorphosis From Standard to Stunning With ASUS MG28UQ for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-secrets-of-effective-iptv-broadcasting-capture/"><u>[Updated] In 2024, Secrets of Effective IPTV Broadcasting Capture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-it-outshined-all-my-gadgets-insights/"><u>A Week with an Ergonomic Split Keyboard: How It Outshined All My Gadgets - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fast-fixes-for-constantly-running-pc-fans-expert-advice-from-zdnet/"><u>Fast Fixes for Constantly Running PC Fans - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-samsung-galaxy-m34-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Samsung Galaxy M34 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-embellish-videos-and-stories-with-charts-notes-and-more/"><u>In 2024, Embellish Videos & Stories with Charts, Notes & More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lg-gram-pro-vs-macbook-air-surprising-triumph-over-apples-classic-top-three-unexpected-advantages-unveiled/"><u>LG Gram Pro Vs. MacBook Air: Surprising Triumph Over Apple’s Classic - Top Three Unexpected Advantages Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-users-guide-best-free-screen-recording-apps-a-comprehensive-list-of-the-top-12/"><u>Mac Users’ Guide: Best Free Screen Recording Apps - A Comprehensive List of the Top 12!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/marathon-battery-and-stunning-aesthetics-unpacking-one-of-the-top-13-inch-laptops-on-test-zdnet/"><u>Marathon Battery & Stunning Aesthetics: Unpacking One of the Top 13-Inch Laptops on Test | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/presidents-day-sale-exclusive-save-big-on-macbook-pro-equipped-with-apple-m3-pro-at-20-discount-shop-now/"><u>Presidents' Day Sale Exclusive: Save Big on MacBook Pro Equipped with Apple M3 Pro at 20% Discount - Shop Now!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-note-30-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Note 30 Pro FRP</u></a></li>
+</ul></div>
 

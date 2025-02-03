@@ -1,7 +1,7 @@
 ---
 title: "Leaked Database Reveals Advanced Motherboard Specs: MSI's Premium Z890 and B86) Boards Equipped for the Forthcoming Intel Arrow Lake-S - Detailed Overview Pre-Computex 2024"
-date: 2024-08-19T02:35:35.652Z
-updated: 2024-08-20T02:35:35.652Z
+date: 2025-01-26T19:23:49.431Z
+updated: 2025-02-01T17:15:12.275Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,20 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/a-hidden-gem-in-top-office-gadgets-the-most-underappreciated-2-in-1-device-of-the-year-insights-from-zdnet/"><u>A Hidden Gem in Top Office Gadgets: The Most Underappreciated 2-in-1 Device of the Year - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-crash-problem-in-mount-and-blade-2-bannerlord-game/"><u>Fixing the Crash Problem in Mount & Blade 2: Bannerlord Game</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-disabling-auto-screen-activation-by-android-notification-alerts/"><u>Guide: Disabling Auto-Screen Activation by Android Notification Alerts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nokia-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nokia Phone Screen?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-camon-20-premier-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Camon 20 Premier 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsofts-edge-over-apple-macbook-unveiled-through-new-generation-ai-chip-innovation-zdnet-exclusive-insights/"><u>Microsoft's Edge Over Apple MacBook Unveiled Through New Generation AI Chip Innovation | ZDNET Exclusive Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/propel-pc-potential-upgrade-wxw8w7-with-mf4770n-drivers/"><u>Propel PC Potential: Upgrade WX/W8/W7 With MF4770n Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-apple-discounts-on-prime-day-save-big/"><u>Top Apple Discounts on Prime Day - Save Big!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-lightest-and-sleek-laptops-of-2024-featured-on-zdnet/"><u>Ultimate Guide to the Lightest & Sleek Laptops of 2024, Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-must-have-mac-applications-curated-by-cnet-reviewers/"><u>Ultimate List of Must-Have Mac Applications | Curated by CNet Reviewers</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ultimate-tutorial-on-syncing-windows-server-2016-with-a-network-attached-storage-system/"><u>Ultimate Tutorial on Syncing Windows Server 2016 with a Network-Attached Storage System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-lenovo-black-friday-bargain-get-the-13-inch-thinkpad-x1-gen-n-for-a-whopping-1900-less-the-latest-deals/"><u>Unmissable Lenovo Black Friday Bargain: Get the 13-Inch ThinkPad X1 Gen N for a Whopping $1,900 Less | The Latest Deals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-savings-with-surface-pro-eby-an-authority-in-windows-essential-findings-gadgetgurus/"><u>Unveiling Savings with Surface Pro Eby an Authority in Windows - Essential Findings | GadgetGurus</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->

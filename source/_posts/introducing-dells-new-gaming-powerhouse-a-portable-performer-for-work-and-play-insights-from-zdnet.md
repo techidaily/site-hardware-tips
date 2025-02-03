@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2025-01-21T00:37:44.763Z
-updated: 2025-01-24T23:46:06.803Z
+date: 2025-01-26T17:09:16.097Z
+updated: 2025-02-01T17:22:03.790Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,19 +114,22 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-find-your-favorite-general-knowledge-quiz-channel-of-the-year-24-for-2024/"><u>[New] Find Your Favorite General Knowledge Quiz Channel of the Year, '24 for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-nine-remedies-for-firefox-video-glitches-on-social-media/"><u>[New] Nine Remedies for Firefox Video Glitches on Social Media</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-navigate-youtube-post-production-with-adobe-premiere/"><u>[Updated] 2024 Approved Navigate YouTube Post-Production with Adobe Premiere</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-all-you-need-to-know-about-adding-apple-music-to-video/"><u>[Updated] All You Need to Know About Adding Apple Music to Video</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-examining-performance-of-dji-raptor-eyewear/"><u>2024 Approved Examining Performance of DJI Raptor Eyewear</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-mobile-and-desktop-audiospeed-alteration-essentials/"><u>2024 Approved Mobile & Desktop Audiospeed Alteration Essentials</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-navigating-instagrams-video-landscape-a-detailed-look/"><u>2024 Approved Navigating Instagram's Video Landscape A Detailed Look</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-to-registering-and-setting-up-android-13-beta-version-1-pros-of-delaying-installation-zdnet-exclusive/"><u>Guide to Registering & Setting Up Android 13 Beta Version 1 - Pros of Delaying Installation [ZDNet Exclusive]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/head-to-head-tech-faceoff-google-pixel-tablet-and-apples-ipad-compared-side-by-side-on-zdnet/"><u>Head-to-Head Tech Faceoff: Google Pixel Tablet and Apple's iPad Compared Side-by-Side on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ipad-air-assessment-exceptional-value-that-challenges-the-worth-of-my-ipad-pro-insights-from-zdnet/"><u>IPad Air Assessment: Exceptional Value That Challenges the Worth of My iPad Pro - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ipad-pro-showdown-navigating-through-features-to-pick-the-ideal-flagship-tablet-gadgetguru-blog/"><u>IPad Pro Showdown: Navigating Through Features to Pick the Ideal Flagship Tablet | GadgetGuru Blog</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ipad-video-editing-showdown-lumafusion-vs-davinci-resolve-choosing-the-right-app-for-your-needs/"><u>IPad Video Editing Showdown: LumaFusion Vs DaVinci Resolve - Choosing the Right App for Your Needs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-twitch-lands-marketplace-for-content-creators/"><u>Navigating the Twitch Lands Marketplace for Content Creators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities/"><u>[New] 2024 Approved Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-sharpen-your-visual-storytelling-advanced-kinemaster-zoom-techniques/"><u>[New] 2024 Approved Sharpen Your Visual Storytelling Advanced Kinemaster Zoom Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-masterclass-in-brief-lapses-top-5/"><u>[New] Masterclass in Brief Lapses #Top 5</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-melodic-marketing-instagram-music-tips-for-2024/"><u>[Updated] Melodic Marketing Instagram Music Tips for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-picturesegment-appraisal-for-2024/"><u>[Updated] PictureSegment Appraisal for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prime-shopping-destinations-customizable-presents-with-flair-for-2024/"><u>[Updated] Prime Shopping Destinations Customizable Presents with Flair for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022-tech-review-exploring-the-latest-devices-and-revolutionary-gadgets-that-shaped-our-year-zdnet/"><u>2022 Tech Review: Exploring the Latest Devices and Revolutionary Gadgets that Shaped Our Year | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adapting-office-equipment-for-the-age-of-artificial-intelligence-future-trends-and-insights/"><u>Adapting Office Equipment for the Age of Artificial Intelligence: Future Trends and Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/g-subtitles-a-step-by-step-youtube-video-approach-for-2024/"><u>Adding Subtitles A Step-by-Step YouTube Video Approach for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/behind-the-glass-my-hands-on-experience-with-lenovos-transparent-laptop-innovation/"><u>Behind the Glass: My Hands-On Experience with Lenovo's Transparent Laptop Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-improved-speed-and-performance-of-googles-latest-chrome-update-for-windows-find-out-why-you-should-still-be-careful/"><u>Discover the Improved Speed & Performance of Google's Latest Chrome Update for Windows - Find Out Why You Should Still Be Careful!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-perfect-laptop-exclusive-black-friday-savings-of-250-on-dells-impressive-16-inch-inspiron-2-in-1-model-features-and-reviews-covered-by-pcmag.m88/"><u>Discover Your Perfect Laptop: Exclusive Black Friday Savings of $250 on Dell's Impressive 16-Inch Inspiron 2-in-1 Model - Features & Reviews Covered by PCMag</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-latest-innovation-the-copilotplus-laptop-an-unbeatable-bargain-for-windows-users-discover-why-at-zdnet/"><u>Samsung's Latest Innovation: The Copilot+ Laptop - An Unbeatable Bargain for Windows Users! Discover Why at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-smartphone-into-an-extra-display-the-brilliant-laptop-docking-station-reviewed-by-zdnet/"><u>Transform Your Smartphone Into an Extra Display: The Brilliant Laptop Docking Station Reviewed by ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-the-efficiency-of-lg-ud88-w-display-technology/"><u>Unraveling the Efficiency of LG UD88-W Display Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-budget-friendly-macbook-pro-m3-is-a-must-have-for-professionals-exclusive-insights-from-zdnet/"><u>Why the Budget-Friendly MacBook Pro M3 Is a Must-Have for Professionals - Exclusive Insights From ZDNet</u></a></li>
 </ul></div>
 

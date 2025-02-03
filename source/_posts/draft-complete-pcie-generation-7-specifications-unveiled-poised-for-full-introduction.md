@@ -1,7 +1,7 @@
 ---
 title: "Draft Complete: PCIe Generation 7 Specifications Unveiled, Poised For Full Introduction"
-date: 2024-08-19T02:37:27.809Z
-updated: 2024-08-20T02:37:27.809Z
+date: 2025-01-26T20:05:54.322Z
+updated: 2025-02-01T16:26:17.369Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,21 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-revenue-revolution-leveraging-the-youtube-premium-opportunity/"><u>[Updated] In 2024, Revenue Revolution Leveraging the YouTube Premium Opportunity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-drift-innovations-ghost-s-action-camera-review/"><u>2024 Approved Drift Innovations Ghost-S Action Camera Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ai-copilot-arrives-on-windows-11-transforming-user-interaction/"><u>AI Copilot Arrives on Windows 11, Transforming User Interaction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-storage-at-zero-extra-charge-embrace-enhanced-tech-with-an-lg-gram-style-laptop-today-exclusive-offer-on-zdnet/"><u>Boost Your Storage at Zero Extra Charge: Embrace Enhanced Tech with an LG Gram-Style Laptop Today - Exclusive Offer on ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/clever-best-buy-strategy-revealed-grab-your-complimentary-macbook-air-m3-complete-guide/"><u>Clever Best Buy Strategy Revealed: Grab Your Complimentary MacBook Air M3 - Complete Guide!</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/comment-retrouver-des-documents-pdf-deletes-ou-pas-sauvegardes-sur-votre-ordinateur/"><u>Comment Retrouver Des Documents PDF Déletés Ou Pas Sauvegardés Sur Votre Ordinateur?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-new-wave-of-smart-technology-microsofts-release-of-surface-pro-10-and-laptop-6-with-enhanced-artificial-intelligence-featured-by-zdnet/"><u>Discover the New Wave of Smart Technology: Microsoft's Release of Surface Pro 10 and Laptop 6 with Enhanced Artificial Intelligence, Featured by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-link-audio-to-facebook-profiles-iphoneandroid-for-2024/"><u>How to Link Audio to Facebook Profiles (iPhone/Android) for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-uploading-movie-maker-videos-on-vimeo/"><u>Mastering Uploading Movie Maker Videos on Vimeo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-multifunction-laptop-with-stunning-visuals-reviewed-by-zdnet/"><u>The Ultimate Multifunction Laptop with Stunning Visuals Reviewed by ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-realme-c67-4g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Realme C67 4G Android SIM Unlock APK</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-for-professional-video-editors-comprehensive-reviews-and-comparisons/"><u>Top-Rated Laptops for Professional Video Editors: Comprehensive Reviews & Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-this-asus-notebook-outshines-your-macbook-unveiling-its-advantages/"><u>Why This Asus Notebook Outshines Your MacBook: Unveiling Its Advantages</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

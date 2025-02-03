@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Ultra-Compact Powerhouse: The World’s Tiniest Webcam and Its Impressive Flexibility"
-date: 2025-01-17T16:16:46.898Z
-updated: 2025-01-24T19:48:57.849Z
+date: 2025-01-29T20:21:40.728Z
+updated: 2025-02-01T17:23:58.477Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Regarding the battery life on the ThinkBook 14 2-in-1, I found it to be acceptab
 I can get a full day's worth of work out of this laptop on one charge, but honestly, barely so. That being said, the fast charging capability does bring the laptop from nearly dead to 100% in less than an hour. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,21 +120,16 @@ If you're looking for a similarly-priced convertible with a better display, chec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expert-tips-for-selecting-lenses-as-a-video-blogger/"><u>[Updated] 2024 Approved Expert Tips for Selecting Lenses as a Video Blogger</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-exploring-charms-galore-uncover-top-7-tiktok-emojis-and-their-covert-counterparts/"><u>[Updated] 2024 Approved Exploring Charms Galore – Uncover Top 7 TikTok Emojis & Their Covert Counterparts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zeroes-to-heroes-amplifying-your-youtube-following/"><u>[Updated] 2024 Approved From Zeroes to Heroes Amplifying Your Youtube Following</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-viewer-interest-with-optimal-video-thumbnail-sizes/"><u>[Updated] In 2024, Boosting Viewer Interest with Optimal Video Thumbnail Sizes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-precision-plays-premieres-audio-switching/"><u>[Updated] Precision Plays Premiere’s Audio Switching</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/9-ways-to-facebook-video-black-screen-issues-on-chromesafarifir/"><u>9 Ways to Facebook Video Black Screen Issues on Chrome/Safari/Fir</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-a2-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo A2 Phone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-savings-without-sacrificing-performance-the-hovranger-e-bike-as-a-daily-commuter-solution-zdnet/"><u>Maximize Your Savings Without Sacrificing Performance: The HovRanger E-Bike as a Daily Commuter Solution | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-airspace-rules-can-dji-mini-drones-be-used-for-business-purposes-zdnet/"><u>Navigating New Airspace Rules: Can DJI Mini Drones Be Used for Business Purposes? | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/no-more-waiting-on-deliveries-amazons-revolutionary-free-drone-service-brings-you-prescriptions-fast/"><u>No More Waiting on Deliveries - Amazon's Revolutionary Free Drone Service Brings You Prescriptions Fast!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/over-20k-southwest-airlines-flights-canceled-discover-whats-happening-and-why-it-matters/"><u>Over 20K Southwest Airlines Flights Canceled: Discover What's Happening and Why It Matters</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prioritize-your-vehicles-crucial-safety-element-dont-overlook-it-anymore-zdnet/"><u>Prioritize Your Vehicle's Crucial Safety Element - Don't Overlook It Anymore | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ram-electrifies-the-market-with-first-battery-powered-pickup-showcased-at-ces-zdnet/"><u>Ram Electrifies the Market with First Battery-Powered Pickup, Showcased at CES | ZDNET</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-autonomous-vehicles-a-groundbreaking-ml-initiative-propelled-by-zdnet/"><u>Revolutionizing Autonomous Vehicles: A Groundbreaking ML Initiative Propelled by ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-safari-full-screen-screenshot-problems-with-these-tips/"><u>Solve Your Safari Full-Screen Screenshot Problems with These Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastery-in-simulating-chrono-displacement/"><u>[New] In 2024, Mastery in Simulating Chrono-Displacement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-full-disclosure-unveiling-all-about-google-podcasts-app/"><u>[Updated] In 2024, Full Disclosure Unveiling All About Google Podcasts App</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-upload-longer-videos-to-instagram-on-mac/"><u>2024 Approved How to Upload Longer Videos to Instagram on Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordably-superior-screen-quality-in-a-featherlight-notebook-in-depth-analysis-tech-reviews/"><u>Affordably Superior Screen Quality in a Featherlight Notebook – In-Depth Analysis | Tech Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-apple-laptop-a-detailed-comparison-of-m3-vs-m2-macbook-air-models/"><u>Choosing the Right Apple Laptop: A Detailed Comparison of M3 Vs. M2 MacBook Air Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-birds-guide-to-score-on-prime-day-2024-exclusive-offers-revealed-by-zdnet/"><u>Early Bird's Guide to Score on Prime Day 2024 – Exclusive Offers Revealed by ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-sale-alert-secure-almost-1k-off-on-lenovos-premium-business-laptop-before-amazons-prime-day-in-october-insights/"><u>Huge Sale Alert: Secure Almost $1K Off on Lenovo's Premium Business Laptop Before Amazon's Prime Day in October - Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/long-lasting-laptop-charger-on-sale-save-big-with-discounted-durable-power-banks/"><u>Long-Lasting Laptop Charger on Sale – Save Big with Discounted Durable Power Banks!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-srt-to-txt-translation-the-fastest-guide/"><u>Mastering SRT to TXT Translation - The Fastest Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-webinar-capture-straightforward-steps-for-os-xwindows-for-2024/"><u>Mastering Webinar Capture Straightforward Steps for OS X/Windows for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "New MSI Motherboard Update: Defaulting to Intel Official Power Specs with Core I9 CPUs to Prevent System Crashes During Intel's Ongoeing Analysis"
-date: 2024-08-19T02:36:18.242Z
-updated: 2024-08-20T02:36:18.242Z
+date: 2025-01-25T20:22:54.217Z
+updated: 2025-02-01T17:36:14.505Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-screen-selection-simplified-find-the-best-display-for-xbox-series-x/"><u>[New] 2024 Approved Screen Selection Simplified - Find the Best Display for Xbox Series X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-discovering-the-best-screen-recorder-obs-studio-vs-fraps/"><u>2024 Approved Discovering the Best Screen Recorder OBS Studio Vs Fraps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/6-ways-to-record-minecraft-gameplay/"><u>6 Ways to Record Minecraft Gameplay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-alternative-to-macbook-air-top-rated-windows-laptop-now-on-sale-zdnet/"><u>Affordable Alternative to MacBook Air: Top-Rated Windows Laptop Now On Sale - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buy-anti-prime-day-exclusive-snag-the-hp-victus-15-gaming-laptop-for-just-450-expert-tips/"><u>Best Buy Anti-Prime Day Exclusive: Snag the HP Victus 15 Gaming Laptop for Just $450 | Expert Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enable-dark-scheme-in-windows-calculation-app/"><u>Enable Dark Scheme in Windows Calculation App</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/fast-forward-fame-insta-popularity-through-content/"><u>Fast Forward Fame Insta Popularity Through Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hellbent-on-failure/"><u>Hellbent on Failure</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-realme-narzo-60x-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/lower-cost-repairs-await-apples-newest-iphone-the-15-pro/"><u>Lower Cost Repairs Await Apple's Newest iPhone: The 15 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-cyber-week-bonanza-exclusive-steals-on-notebooks-for-the-tech-savvy-shopper/"><u>Prime Cyber Week Bonanza: Exclusive Steals on Notebooks for the Tech-Savvy Shopper</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protecting-privacy-the-ultimate-step-by-step-method-to-erase-sensitive-data-from-your-windows-pc-free-tips-and-tricks-zdnet/"><u>Protecting Privacy: The Ultimate Step-by-Step Method to Erase Sensitive Data From Your Windows PC - Free Tips & Tricks | ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlined-creation-mastery-of-mass-design-using-canva-plus-ai/"><u>Streamlined Creation: Mastery of Mass-Design Using Canva + AI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ultralight-laptop-perfect-for-remote-professionals-a-comprehensive-review-by-zdnet/"><u>Top Rated Ultralight Laptop Perfect for Remote Professionals: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-antivirus-solutions-reviewed-the-ultimate-guide-techradar/"><u>Top-Ranked Antivirus Solutions Reviewed: The Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-discounted-laptops-on-prime-day-events-october-2024-shopping-guide-techradar/"><u>Top-Rated Discounted Laptops on Prime Day Events - October 2024 Shopping Guide | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-2024-game-changer-how-lenovos-new-thinkbook-delivers-maximum-performance-at-just-749-according-to-zdnet/"><u>Unveiling the 2024 Game-Changer: How Lenovo's New ThinkBook Delivers Maximum Performance at Just $749, According to ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-win-11-with-nvidia-gtx-970-drivers-update/"><u>Upgrade Win 11 with Nvidia GTX 970 Drivers Update</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->

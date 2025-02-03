@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: In-Depth Reviews and Gadget Analysis"
-date: 2024-08-19T02:37:07.584Z
-updated: 2024-08-20T02:37:07.584Z
+date: 2025-01-30T20:18:23.872Z
+updated: 2025-02-01T20:46:30.876Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>[New] In 2024, 2023|How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-shining-through-hd-is-it-a-wise-pick-for-hdr/"><u>[Updated] In 2024, Shining Through HD Is It a Wise Pick for HDR?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-rapid-review-windows-files-made-simple/"><u>2024 Approved Rapid Review Windows Files Made Simple</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-mobile-mounting-accurate-camera-positioning-for-2024/"><u>Advanced Mobile Mounting Accurate Camera Positioning for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asuss-stealthy-marvel-unlocking-a-creative-powerhouse-unexpectedly-packed-inside/"><u>ASUS's Stealthy Marvel: Unlocking a Creative Powerhouse Unexpectedly Packed Inside</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-12-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme 12 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-why-most-users-love-the-affordable-high-quality-15-macbook-air-with-250-off-expert-take/"><u>Discover Why Most Users Love the Affordable, High-Quality 15” MacBook Air with $250 Off Expert Take!</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-insight-for-installing-powertoys-on-win11/"><u>Essential Insight for Installing PowerToys on Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-snag-a-macbook-air-for-only-280-find-out-more-inside-zdnets-tech-bargains/"><u>Exclusive Offer: Snag a MacBook Air For Only $280 – Find Out More Inside ZDNet's Tech Bargains!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revert-from-windows-home-to-pro-version-essential-steps-for-restoring-lossed-features-and-licenses-zdnet/"><u>Revert From Windows Home to Pro Version: Essential Steps for Restoring Lossed Features and Licenses | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-test-how-dells-premium-gaming-laptop-with-unique-features-redefines-expectations-at-3000/"><u>The Ultimate Test: How Dell's Premium Gaming Laptop with Unique Features Redefines Expectations at $3,000</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-solving-the-d3dx924dll-missing-error/"><u>Ultimate Guide: Solving The d3dx9_24.dll Missing Error</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unmatched-value-game-changing-voice-switcher-for-valorant-awaits-you/"><u>Unmatched Value, Game-Changing Voice Switcher for Valorant Awaits You</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "The Digital Workbench: Masterclass Series on Computer Hardware by Tom's Tech Hub"
-date: 2024-08-19T02:35:43.691Z
-updated: 2024-08-20T02:35:43.691Z
+date: 2025-01-29T19:31:38.100Z
+updated: 2025-02-01T17:53:46.994Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,22 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-learn-the-art-of-saving-and-logging-periscope-content/"><u>[Updated] 2024 Approved Learn the Art of Saving & Logging Periscope Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-nextv-networks-the-ultimate-streamers-global-guide/"><u>[Updated] 2024 Approved NexTV Networks The Ultimate Streamer's Global Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creative-characters-turning-your-pics-into-pop-culture-icons-for-2024/"><u>[Updated] Creative Characters Turning Your Pics Into Pop Culture Icons for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-amplify-your-videos-value-anywhere-on-multiple-devices/"><u>[Updated] In 2024, Amplify Your Video's Value Anywhere on Multiple Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-quality-audio-awaits-with-these-premium-asmr-mics/"><u>[Updated] In 2024, Quality Audio Awaits with These Premium ASMR Mics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-zen-closing-virtual-horizons/"><u>2024 Approved Total Zen Closing Virtual Horizons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000054758-battlefield-2042-performance-optimized-no-more-fps-dips-or-hitches-on-your-computer/"><u>Battlefield 2042 Performance Optimized: No More FPS Dips or Hitches on Your Computer!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/crafting-the-perfect-gamers-paradise-insider-secrets-for-an-unbeatable-setup-zdnet/"><u>Crafting The Perfect Gamer's Paradise: Insider Secrets for an Unbeatable Setup | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-blowout-sale-huge-discount-of-up-to-920-on-razer-blade-similar-problem/"><u>Cyber Monday Blowout Sale: Huge Discount of Up to $920 on Razer Blade # Similar Problem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-ai-enhancements-tech-news-on-zdnet/"><u>Discover the Latest AI Enhancements | Tech News on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-latest-deal-from-microsoft-cheaper-surface-go-at-250-off-and-exclusive-lifetime-offer-on-xbox-series-s-zdnet/"><u>Get the Latest Deal From Microsoft: Cheaper Surface Go at $250 Off & Exclusive Lifetime Offer on Xbox Series S - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/handheld-marvel-how-the-affordable-8-in-1-adapter-surpasses-expectations-in-size-and-capability/"><u>Handheld Marvel: How the Affordable 8-in-1 Adapter Surpasses Expectations in Size and Capability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-microsoft-copilot-and-surface-the-latest-upgrades-for-enterprise-professionals-technews/"><u>Introducing Microsoft Copilot & Surface: The Latest Upgrades for Enterprise Professionals | TechNews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-hidden-potential-top-rated-2-in-1-devices-with-surprising-office-perks-uncovered-tech-insights/"><u>Unlocking Hidden Potential: Top Rated 2-in-1 Devices with Surprising Office Perks Uncovered | Tech Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/your-journey-begins-here-vlogging-essentials-for-2024/"><u>Your Journey Begins Here Vlogging Essentials for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

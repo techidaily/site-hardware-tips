@@ -1,7 +1,7 @@
 ---
 title: Score an Asus 15-Inch Laptop for $250 + Full Ports Availability | Shop Now at Walmart
-date: 2025-01-22T22:52:46.823Z
-updated: 2025-01-24T22:52:27.382Z
+date: 2025-01-29T19:11:53.644Z
+updated: 2025-02-01T17:40:17.864Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,22 +87,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-transforming-videos-through-skillful-narration-techniques/"><u>[New] In 2024, Transforming Videos Through Skillful Narration Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-streaming-success-capturing-dota-2s-epic-battles-2enas-for-2024/"><u>[New] Streaming Success Capturing Dota 2'S Epic Battles (2Enas) for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-uber-introduces-innovative-carbon-footprint-monitor-track-your-co2-savings-on-every-ride-the-latest-update-from-tech-world/"><u>1. Uber Introduces Innovative Carbon Footprint Monitor: Track Your CO2 Savings on Every Ride - The Latest Update From Tech World</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-unveiling-green-technology-challenges-strategies-for-securing-additional-support/"><u>1. Unveiling Green Technology Challenges: Strategies for Securing Additional Support</u></a></li>
-<li><a href="https://extra-information.techidaily.com/anonymizing-faces-a-compendium-of-photographic-shielders-for-2024/"><u>Anonymizing Faces A Compendium of Photographic Shielders for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-activity-inspection-guide/"><u>Complete Activity Inspection Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guia-paso-a-paso-para-reducir-el-tamano-del-archivo-de-videos-en-alta-definicion-desde-4k-hasta-full-hd-en-pcs-con-windows-y-sistemas-apple-mac/"><u>Guía Paso a Paso Para Reducir El Tamaño Del Archivo De Vídeos en Alta Definición Desde 4K Hasta Full HD en PCs Con Windows Y Sistemas Apple Mac</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-googles-take-on-ar-stickers-an-overview-and-beyond/"><u>In 2024, Google's Take on AR Stickers An Overview & Beyond</u></a></li>
-<li><a href="https://extra-information.techidaily.com/maximize-your-visuals-on-zoom-the-definitive-guide/"><u>Maximize Your Visuals on Zoom – The Definitive Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/resetting-your-eeepc-computer-to-factory-settings-a-comprehensive-guide/"><u>Resetting Your Eeepc Computer to Factory Settings - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-playback-lags-in-obs-advanced-strategies-for-stable-recording-and-streaming/"><u>Resolving Playback Lags in OBS: Advanced Strategies for Stable Recording and Streaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tech-ceos-create-sustainableitorg-platform-for-combating-climate-crisis-detailed-analysis-by-zdnet/"><u>Top Tech CEOs Create SustainableIT.org Platform for Combating Climate Crisis | Detailed Analysis by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-your-remote-workspace-with-the-perfect-indoor-greens-the-ultimate-selection-for-home-offices-gadgetflow/"><u>Transforming Your Remote Workspace with the Perfect Indoor Greens: The Ultimate Selection for Home Offices | GadgetFlow</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transitioning-to-fresh-tech-maximizing-value-from-your-previous-smartphone/"><u>Transitioning To Fresh Tech: Maximizing Value From Your Previous Smartphone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-top-portable-solar-energy-devices-cnet/"><u>Ultimate Guide: Top Portable Solar Energy Devices | CNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-your-right-to-fix-devices-importance-and-impacts-explained/"><u>Understanding Your Right to Fix Devices: Importance & Impacts Explained</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-unparalleled-productivity-in-depth-examination-of-the-zendure-superbase-pro-n-2000-on-zdnet/"><u>Unleash Unparalleled Productivity - In-Depth Examination of the Zendure SuperBase Pro N 2000 on ZDNet!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-whatsapp-web-for-laptops-setting-up-remote-video-calls-step-by-step-for-2024/"><u>[New] WhatsApp Web for Laptops Setting Up Remote Video Calls Step by Step for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-11-pro-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 11 Pro Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y78t-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y78t Device SIM</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/easy-tutorials-for-producing-swift-videos-on-desktop-and-mobile-devices/"><u>Easy Tutorials for Producing Swift Videos on Desktop and Mobile Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offers-how-to-score-amazing-deals-on-laptops-in-octobers-big-sale-event-insights/"><u>Exclusive Offers! How to Score Amazing Deals on Laptops in October's Big Sale Event - Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-meizu-lock-screen-password-by-drfone-android/"><u>How to Reset your Meizu Lock Screen Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-game-crashing-phasmophobia-updates-and-fixes-of-2024/"><u>How to Stop Game Crashing: Phasmophobia Updates and Fixes of 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-realme-11-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Realme 11 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-latest-ai-equipped-thinkpads-the-ideal-solution-every-professional-has-dreamed-of-techinsights/"><u>Introducing Lenovo’s Latest AI-Equipped ThinkPads: The Ideal Solution Every Professional Has Dreamed Of | TechInsights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/laptop-lifesaver-cost-effective-fixes-to-restore-macbook-charging-power-learn-how-here-insights-by-zdnet/"><u>Laptop Lifesaver: Cost-Effective Fixes to Restore MacBook Charging Power, Learn How Here | Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-productivity-with-the-hp-copilotplus-laptop-the-ultimate-tool-for-remote-professionals/"><u>Maximize Your Productivity with the HP Copilot+ Laptop - The Ultimate Tool for Remote Professionals</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-a14-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy A14 4G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/swipe-150-off-your-favorite-immersive-game-audio-system-available-exclusively-at-amazon-check-out-the-review-from-zdnet/"><u>Swipe $150 Off Your Favorite Immersive Game Audio System Available Exclusively at Amazon – Check Out the Review From ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-39-unbeatable-christmas-laptop-bargains-on-offer-from-brands-like-apple-dell-and-hp-featuring-exclusive-insights-by-zdnet/"><u>Top 39 Unbeatable Christmas Laptop Bargains on Offer From Brands Like Apple, Dell & HP - Featuring Exclusive Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-features-from-apples-autumn-showcase-all-about-the-new-m4-mac-mini-latest-ipad-models-advancements-in-siri-and-alexa-integration-techinsights/"><u>Upcoming Features From Apple's Autumn Showcase: All About the New M4 Mac Mini, Latest iPad Models, Advancements in Siri & Alexa Integration | TechInsights</u></a></li>
 </ul></div>
 

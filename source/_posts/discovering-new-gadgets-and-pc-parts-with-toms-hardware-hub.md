@@ -1,7 +1,7 @@
 ---
 title: Discovering New Gadgets and PC Parts with Tom's Hardware Hub
-date: 2024-08-19T02:38:12.310Z
-updated: 2024-08-20T02:38:12.310Z
+date: 2025-01-25T18:12:31.173Z
+updated: 2025-02-01T17:09:07.730Z
 tags:
   - motherboards
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/hHxA3cXErfDcoMTddGimiN-320-80.jpg
 The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compression Attached Memory Module) is starting to take off. It allows for faster speeds and for smaller modules to fit in tighter spaces, allowing thin laptops to be more repairable or upgradable. Recently, many of the biggest PC vendors have soldered RAM to the motherboard to save space in laptops rather than using SO-DIMMs, so CAMM2 can help there.
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Where did CAMM2 come from?
 
@@ -33,9 +37,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -48,15 +60,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -65,9 +79,6 @@ Between 8GB and 128GB of memory fits on a single module.
 
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,24 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-in-depth-look-at-cybercam-capturer/"><u>[New] In 2024, In-Depth Look at CyberCam Capturer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-reddit-threads-ever-the-10-greatest-hits-for-2024/"><u>[New] Top Reddit Threads Ever The 10 Greatest Hits for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-4-ways-to-watch-facebook-live-on-tv/"><u>[Updated] 2024 Approved 4 Ways To Watch Facebook Live On TV</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-cutting-edge-desktops-for-modern-workspaces/"><u>[Updated] Cutting-Edge Desktops for Modern Workspaces</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-expediting-the-engagement-of-instagram-videos/"><u>[Updated] Expediting the Engagement of Instagram Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-prime-day-savings-get-your-hands-on-hp-apple-razer-and-other-great-laptop-bargains/"><u>Discover the Finest Prime Day Savings: Get Your Hands On HP, Apple, Razer & Other Great Laptop Bargains!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-budget-friendly-gaming-peripherals-of-2023-prices-tested-under-60-zdnet/"><u>Discover the Ultimate Budget-Friendly Gaming Peripherals of 2023: Prices Tested Under $60 | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-release-alert-apple-rumored-to-unveil-new-macbook-air-ipad-pro-and-ipad-air-in-march-insights-from-zdnet/"><u>Early Release Alert: Apple Rumored to Unveil New MacBook Air, iPad Pro & iPad Air in March - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-where.techidaily.com/essential-windows-wow6432-node-registry-key-guide/"><u>Essential Windows WOW6432 Node Registry Key Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-power-issues-how-winter-affects-ipad-macbook-and-iphone-charging-tips/"><u>Experiencing Power Issues? How Winter Affects iPad, MacBook & iPhone Charging - Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-perfectly-pinned-prompts-top-android-and-iphones-instagram-covers/"><u>In 2024, Perfectly Pinned Prompts Top Android & iPhones' Instagram Covers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastery-of-the-skies-comparing-basic-and-procopilots/"><u>Mastery of the Skies: Comparing Basic and Procopilots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-your-office-experience-discover-this-years-underrated-star-2-in-1-device-insights/"><u>Revolutionizing Your Office Experience: Discover This Year's Underrated Star 2-in-1 Device Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-high-performance-hp-victus-15-at-a-steal-just-450-during-best-buys-exclusive-prime-day-sale-featured-by-zdnet/"><u>Snag the High-Performance HP Victus 15 at a Steal - Just $450 During Best Buy's Exclusive Prime Day Sale, Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/swift-guide-handling-constant-operation-of-pc-fans-techwise/"><u>Swift Guide: Handling Constant Operation of PC Fans | TechWise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-process-of-wireless-electric-vehicle-charging/"><u>Understanding the Process of Wireless Electric Vehicle Charging</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-picks-the-ideal-lightweight-laptop-to-power-your-remote-work-lifestyle/"><u>ZDNet Picks the Ideal Lightweight Laptop to Power Your Remote Work Lifestyle!</u></a></li>
+</ul></div>
 

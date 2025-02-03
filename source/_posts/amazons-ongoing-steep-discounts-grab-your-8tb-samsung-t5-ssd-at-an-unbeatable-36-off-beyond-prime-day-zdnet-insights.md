@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Ongoing Steep Discounts: Grab Your 8TB Samsung T5 SSD at an Unbeatable 36%% Off Beyond Prime Day - ZDNet Insights"
-date: 2025-01-22T23:15:01.397Z
-updated: 2025-01-24T19:54:12.666Z
+date: 2025-01-29T18:53:55.758Z
+updated: 2025-02-01T18:00:02.022Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5227965a-639b-4fc1-9b59-2f542a1eddcf%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,24 +65,18 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-snapmaster-pro-advanced-ai-enhanced-editing/"><u>[New] 2024 Approved SnapMaster Pro Advanced AI Enhanced Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fine-tuning-fade-effects-in-music-software/"><u>[New] Fine-Tuning Fade Effects in Music Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-script-to-screenshot-crafting-viral-meme-gifs/"><u>[New] From Script to Screenshot Crafting Viral Meme GIFs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-step-into-leadership-role-comprehensive-guide-and-review-of-powerdirector/"><u>[New] In 2024, Step Into Leadership Role - Comprehensive Guide & Review of PowerDirector</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-converter-convert-caf-files-to-aiff-format-with-movavi/"><u>Free Online Converter: Convert CAF Files to AIFF Format with Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Lava Yuva 2 Phone with Broken Screen</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/maximizing-social-media-roi-with-judicious-facebook-hash-usage-for-2024/"><u>Maximizing Social Media ROI with Judicious Facebook Hash Usage for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/quick-alteration-youtube-vids-fit-mac-displays-for-2024/"><u>Quick Alteration YouTube Vids Fit Mac Displays for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revealed-the-hidden-gaming-power-of-this-samsung-projector-save-now-with-200-discount-at-zdnet/"><u>Revealed: The Hidden Gaming Power of This Samsung Projector - Save Now with $200 Discount at ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-roku-experience-the-ultimate-solution-for-finding-lost-remotes-now-available/"><u>Revolutionize Your Roku Experience: The Ultimate Solution for Finding Lost Remotes, Now Available!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsungs-stealthy-gamification-projector-turned-game-console-with-200-savings-at-checkout-featured-on-zdnet/"><u>Samsung's Stealthy Gamification: Projector Turned Game Console with $200 Savings at Checkout - Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-huge-savings-on-your-fire-tv-stick-bundle-plus-xbox-game-pass-for-just-20-grab-it-before-the-labor-day-holiday-exclusive-deal-from-zdnet/"><u>Score Huge Savings on Your Fire TV Stick Bundle + Xbox Game Pass for Just $20! Grab It Before the Labor Day Holiday - Exclusive Deal From ZDNET</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essential-breakdown-of-dji-phantom-3-mechanics/"><u>The Essential Breakdown of DJI Phantom 3 Mechanics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tired-of-misplacing-your-remote-control-learn-about-the-new-revolutionary-solution-for-roku-users-by-zdnet/"><u>Tired of Misplacing Your Remote Control? Learn About the New Revolutionary Solution for Roku Users by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-compact-projector-picks-expert-reviews-and-ratings-techradar/"><u>Top 5 Compact Projector Picks : Expert Reviews & Ratings | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-65-unbeatable-prime-day-television-offers-still-available/"><u>Top 65 Unbeatable Prime Day Television Offers - Still Available!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-s-ultimate-32-televisions-expert-recommendations-from-zdnet/"><u>Top Picks 'S Ultimate 32 Televisions - Expert Recommendations From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-4k-displays-choose-wisely-with-zdnet-reviews/"><u>Top Rated 4K Displays - Choose Wisely with ZDNet Reviews</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-transform-your-footage-expert-video-editing-for-sony-camcorder-users/"><u>Updated In 2024, Transform Your Footage Expert Video Editing for Sony Camcorder Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-video-highlights-our-top-5-favorites/"><u>[New] In 2024, FB Video Highlights Our Top 5 Favorites</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-microphone-for-different-youtube-channel-types/"><u>[Updated] 2024 Approved Best Microphone for Different YouTube Channel Types</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-best-free-speech-to-text-apps-on-mac-you-might-missed/"><u>[Updated] The Best Free Speech to Text Apps on Mac You Might Missed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-the-secret-to-youtube-success-reaching-a-milestone-of-500plus-views/"><u>[Updated] Unlock the Secret to YouTube Success Reaching a Milestone of 500+ Views</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-the-dynamics-behind-youtubes-investment-in-shorts/"><u>2024 Approved Understanding the Dynamics Behind YouTube's Investment in Shorts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-my-love-for-hpnspectre-unveiling-why-the-new-x360-is-a-2021-favorite-according-to-zdnet-experts/"><u>Discovering My Love for HP'n'Spectre: Unveiling Why the New X360 Is a 2021 Favorite, According to ZDNet Experts</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/effective-methods-to-repair-pool-corrupted-sections-within-your-windows-n-11-system-files/"><u>Effective Methods to Repair Pool Corrupted Sections Within Your Windows N 11 System Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15-flip-studio-laptop-now-available-for-only-530-at-best-buy-exclusive-deal/"><u>HP Victus 15 Flip Studio Laptop Now Available for Only $530 at Best Buy - Exclusive Deal</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-z-flip-5-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy Z Flip 5 Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-prime-day-2024-hot-sales-at-best-buy-unmissable-bargains-still-on-sale-zdnet-insights/"><u>October Prime Day 2024 Hot Sales at Best Buy: Unmissable Bargains Still on Sale | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-prep-discover-the-ultimate-budget-friendly-lenovo-and-dell-alternative-for-your-2-in-1-laptop-needs/"><u>Prime Day Prep: Discover the Ultimate, Budget-Friendly Lenovo & Dell Alternative for Your 2-in-1 Laptop Needs !</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-chromebook-flip-c302ca-great-performance-at-an-unbeatable-price/"><u>The Ultimate Guide to the Asus Chromebook Flip C302CA: Great Performance at an Unbeatable Price</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-choice-lenovo-laptops-at-a-sweet-deal-save-50-this-octobers-prime-day-exclusive-insight-by-zdnet/"><u>Top Choice Lenovo Laptops at a Sweet Deal: Save 50% This October's Prime Day - Exclusive Insight by ZDNet</u></a></li>
 </ul></div>
 

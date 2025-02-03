@@ -1,7 +1,7 @@
 ---
 title: Discover the Unique Combination of Luxury and Performance in Gigabyte's Golden Socketed Intel Motherboard - The Z7n90 Aorus Xtreme X Ice Sports Edition
-date: 2024-08-19T02:38:11.158Z
-updated: 2024-08-20T02:38:11.158Z
+date: 2025-01-25T19:58:04.825Z
+updated: 2025-02-01T18:02:01.624Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-deep-dive-into-freeweb-recorder-v2-interface/"><u>[New] 2024 Approved Deep Dive Into FreeWeb Recorder V2 Interface</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/dvanced-google-slides-techniques-adding-youtube-media-for-2024/"><u>[New] Advanced Google Slides Techniques Adding YouTube Media for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expertise-in-app-performance-review-for-2024/"><u>[New] Expertise in App Performance Review for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-exploring-todays-top-tier-vr-headsets-for-2024/"><u>[New] Exploring Today's Top-Tier VR Headsets for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-crafting-compelling-obs-livestreams-for-facebook-fans-for-2024/"><u>[Updated] Crafting Compelling OBS Livestreams for Facebook Fans for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apples-upcoming-generational-leap-with-the-new-m4-chip-enables-full-ai-capabilities-on-mac-computers-anticipated-launch-timeline-uncovered/"><u>Apple's Upcoming Generational Leap with the New M4 Chip Enables Full AI Capabilities on Mac Computers – Anticipated Launch Timeline Uncovered</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-june-2e24-savings-at-best-buy-featured-for-smart-shoppers/"><u>Discover the Ultimate June 2E24 Savings at Best Buy, Featured for Smart Shoppers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-ripper-enregistrement-et-telechargement-vers-le-stockage-en-nuage-ou-icloud-dapple/"><u>DVD Ripper, Enregistrement Et Téléchargement Vers Le Stockage en Nuage Ou iCloud D'Apple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-ready-to-race-with-the-latest-download-for-logitechs-momo-steering-wheel-compatible-with-pc/"><u>Get Ready to Race with the Latest Download for Logitech's MOMO Steering Wheel Compatible with PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15-gaming-laptop-now-available-for-a-steal-only-530-at-best-buy-detailed-review/"><u>HP Victus 15 Gaming Laptop Now Available for a Steal: Only $530 at Best Buy - Detailed Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-absence-of-critical-dll-mfc71u-on-pc/"><u>Resolving Absence of Critical DLL: Mfc71u on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-the-ultimate-deal-with-a-36-off-8tb-capacity-samsung-t5-ssd-in-flash-storage-exclusive-offer-highlights/"><u>Score the Ultimate Deal with a 36% Off, 8TB Capacity Samsung T5 SSD in Flash Storage | Exclusive Offer Highlights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-512gb-meta-quest-3-at-bargain-prices-this-october-top-vr-deal-of-the-season-on-zdnet/"><u>Secure Your 512GB Meta Quest 3 at Bargain Prices This October – Top VR Deal of the Season on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-discounted-hp-victus-15-laptop-at-just-515-prime-day-exclusive-offer-from-best-buy-featured-on-zdnet/"><u>Snag the Discounted HP Victus #15 Laptop at Just $515 - Prime Day Exclusive Offer From Best Buy, Featured on ZDNet!</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-to-mastery-in-pcdj-using-favorite-folder-nesting-plus-music-imports-free-video-demo-inside/"><u>Step-by-Step Guide to Mastery in PCDJ: Using Favorite Folder Nesting + Music Imports – Free Video Demo Inside!</u></a></li>
+<li><a href="https://solve-info.techidaily.com/step-by-step-guide-recording-crystal-clear-hd-footage-on-your-ps5/"><u>Step-by-Step Guide: Recording Crystal Clear HD Footage on Your PS5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-must-have-usb-c-accessories-enhancing-your-mac-and-windows-experience-on-an-8k-screen-s-top-picks/"><u>The Ultimate List of Must-Have USB-C Accessories Enhancing Your Mac & Windows Experience on an 8K Screen 'S Top Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-diyers-choice-holiday-presents-mastering-projects-with-expertly-chosen-tools-zdnet/"><u>Top DIYer's Choice Holiday Presents: Mastering Projects with Expertly Chosen Tools | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-vpn-selection-guide-for-202e-detailed-analysis-and-expert-endorsements/"><u>Ultimate VPN Selection Guide for 202E: Detailed Analysis and Expert Endorsements</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

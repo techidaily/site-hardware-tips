@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tech: Insightful Reviews on Hardware From Tom's Perspective"
-date: 2024-08-19T02:37:00.996Z
-updated: 2024-08-20T02:37:00.996Z
+date: 2025-01-28T18:03:41.857Z
+updated: 2025-02-01T16:26:15.508Z
 tags:
   - motherboards
 categories:
@@ -18,6 +18,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 ## Where did CAMM2 come from?
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
@@ -37,6 +41,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  On the desktop, the benefits are less about upgradeability, as no one has been soldering RAM to enthusiast PC motherboards. On the one hand, the lack of bulky DIMMs is an aesthetic improvement. It also means that you don't have to worry about the height of your RAM when you install one of the[best CPU coolers](https://tools.techidaily.com) . That said, the boards we saw at Computex only had a single CAMM2 memory slot, so an upgrade would require replacing all of your RAM when swapping your CAMM2 RAM.
@@ -48,19 +56,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -70,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -86,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +100,24 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-spark-your-creativity-with-these-free-tools/"><u>[New] In 2024, Spark Your Creativity with These Free Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/academic-excellence-with-ai-assistance-chatgpt/"><u>Academic Excellence with AI Assistance: ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-x9b-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor X9b Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/bridge-the-gap-from-windows-10-to-windows-11-upgrade-plans/"><u>Bridge the Gap: From Windows 10 To Windows 11 Upgrade Plans</u></a></li>
+<li><a href="https://fox-info.techidaily.com/capture-clarity-complimentary-photo-refining-app/"><u>Capture Clarity - Complimentary Photo Refining App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-unbeatable-savings-on-newest-laptops-julys-hottest-deals/"><u>Discover Unbeatable Savings on Newest Laptops - July's Hottest Deals !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-offer-5-year-long-vpn-service-for-less-than-40-today-find-your-privacy-on-zdnet/"><u>Exclusive Offer: 5-Year Long VPN Service for Less than $40 Today | Find Your Privacy on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-hottest-bargains-on-electronics-with-best-buys-october-prime-day-specials-still-going-strong/"><u>Find the Hottest Bargains on Electronics with Best Buy's October Prime Day Specials - Still Going Strong!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-user-profile-service-failed-to-sign-in-error-on-windows-pcs/"><u>Fixing the 'User Profile Service Failed to Sign In' Error on Windows PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-of-workplace-tech-adapting-devices-for-the-age-of-artificial-intelligence-with-zdnets-analysis/"><u>Future of Workplace Tech: Adapting Devices for the Age of Artificial Intelligence with ZDNet's Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/skyrocket-your-productivity-with-the-ultimate-10-in-1-laptop-dock-enjoy-an-exclusive-35-discount-today-s-top-picks/"><u>Skyrocket Your Productivity with the Ultimate 10-in-1 Laptop Dock: Enjoy an Exclusive 35% Discount Today ’S Top Picks!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tacticas-experto-para-mejorar-el-rendimiento-de-juegos-en-windows-11-guia-integral/"><u>Tácticas Experto Para Mejorar El Rendimiento De Juegos en Windows 11: Guía Integral</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-50-unmissable-cyber-monday-offers-in-gaming-save-on-consoles-computers-and-games-insider-picks/"><u>Top 50 Unmissable Cyber Monday Offers in Gaming: Save on Consoles, Computers, & Games - Insider Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-cyber-monday-specials-on-apples-latest-macbook-air-with-m2-processor-save-more-than-ever/"><u>Unbeatable Cyber Monday Specials on Apple's Latest MacBook Air with M2 Processor - Save More Than Ever !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unearth-unbeatable-value-metas-october-512gb-quest-3-offers-outshine-competitors-for-prime-day-shoppers-insights-by-zdnet/"><u>Unearth Unbeatable Value: Meta’s October 512GB Quest 3 Offers Outshine Competitors for Prime Day Shoppers - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unparalleled-durability-meets-ultimate-personalization-discover-how-this-non-getac-laptop-outshines-all-in-my-tests-insights/"><u>Unparalleled Durability Meets Ultimate Personalization: Discover How This Non-Getac Laptop Outshines All in My Tests - Insights</u></a></li>
+<li><a href="https://discover-best.techidaily.com/winx-dvd-ripper-et-convertisseur-video-solutions-de-support-a-distance-pour-une-utilisation-optimisee/"><u>WinX DVD Ripper Et Convertisseur Vídeo - Solutions De Support À Distance Pour Une Utilisation Optimisée</u></a></li>
+</ul></div>
 

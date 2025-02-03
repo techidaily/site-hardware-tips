@@ -1,7 +1,7 @@
 ---
 title: "ASROCK's Z890 Taichi Aqua - A Powerhouse of Connectivity: Boasting Two Thunderbolt and Ten USB Type-C Ports for Enhanced Performance"
-date: 2024-08-19T02:35:59.216Z
-updated: 2024-08-20T02:35:59.216Z
+date: 2025-01-25T16:49:15.635Z
+updated: 2025-02-01T18:15:57.744Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/early-bird-update-apples-lineup-boost-with-upcoming-march-release-of-macbook-pro-series-ipads-technewszdnet/"><u>: Early Bird Update: Apple's Lineup Boost with Upcoming March Release of MacBook, Pro-Series iPads | TechNewsZDNET</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-comprehensive-degree-of-view-analysis/"><u>[New] 2024 Approved Comprehensive Degree of View Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-user-testimonials-and-reviews-on-the-lg-bp350-monitor/"><u>[Updated] User Testimonials and Reviews on the LG BP350 Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-investing-in-mobility-do-portable-monitors-deliver-value-insights-on-the-top-4-models-zdnet/"><u>1. Investing in Mobility: Do Portable Monitors Deliver Value? Insights on the Top 4 Models | ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-nature-garmin-virb-ultra-30-cam-review/"><u>2024 Approved Exploring Nature Garmin VIRB Ultra 30 Cam Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-flaring-on-windows-11-monitor/"><u>Banish Flaring on Windows 11 Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/college-students-ultimate-guide-to-choosing-a-laptop-essential-criteria-and-our-picks-of-10-zdnet/"><u>College Students' Ultimate Guide to Choosing a Laptop: Essential Criteria and Our Picks of 10 (ZDNet)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dells-new-lightweight-gaming-laptop-the-perfect-blend-of-power-and-portability-for-the-office/"><u>Dell's New Lightweight Gaming Laptop: The Perfect Blend of Power & Portability for the Office</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-15-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 15 Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-reno-8t-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo Reno 8T 5G FRP?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-plots-and-dialogues-for-radios/"><u>In 2024, Pinnacle Plots & Dialogues for Radios</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-access-essential-windows-10-tips/"><u>In 2024, Quick Access Essential Windows 10 Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pc-manufacturers-brace-for-tough-times-ahead-potential-boon-for-shoppers-analysis-by-zdnet/"><u>PC Manufacturers Brace for Tough Times Ahead, Potential Boon for Shoppers | Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-49-newegg-christmas-promotions-and-discounts-of-2023-featured/"><u>Top 49 Newegg Christmas Promotions & Discounts of 2023 - Featured</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lenovo-laptops-tailored-for-hybrid-professionals-save-up-to-1000/"><u>Top Lenovo Laptops Tailored for Hybrid Professionals: Save Up To $1,000</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-a-touchscreen-laptop-in-depth-analysis-from-industry-insiders/"><u>Ultimate Guide to Choosing a Touchscreen Laptop: In-Depth Analysis From Industry Insiders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-gamers-bargain-secure-your-gigabyte-aero-16-with-an-amazing-discount-of-up-to-57-power-play-techspot/"><u>Unbeatable Gamer's Bargain: Secure Your Gigabyte Aero 16 with an Amazing Discount of Up to 57% - Power Play! | TechSpot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722104384677-who-can-harness-the-potential-of-nvidias-adaptable-ai-foundations-an-examination-of-its-functionality-and-reach/"><u>Who Can Harness the Potential of NVIDIA’s Adaptable AI Foundations? An Examination of Its Functionality and Reach</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->

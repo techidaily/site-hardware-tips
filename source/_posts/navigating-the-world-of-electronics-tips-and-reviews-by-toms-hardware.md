@@ -1,7 +1,7 @@
 ---
 title: Navigating the World of Electronics - Tips & Reviews by Tom's Hardware
-date: 2024-08-19T02:36:16.132Z
-updated: 2024-08-20T02:36:16.132Z
+date: 2025-01-30T19:34:16.292Z
+updated: 2025-02-01T18:30:55.403Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-picks-scrutinizing-active-and-leading-recorders-feats/"><u>[New] 2024 Approved Top Picks Scrutinizing Active and Leading Recorder's Feats</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nveiling-20-must-try-youtube-tricks-to-boost-views-for-2024/"><u>[New] Unveiling 20 Must-Try YouTube Tricks to Boost Views for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-newfrontiersincameratech-for-2024/"><u>[Updated] NewFrontiersInCameraTech for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-y55s-5g-2023-frp-bypass-by-drfone-android/"><u>About Vivo Y55s 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-meta-ai-explained-simply/"><u>Exploring the World of Meta AI Explained Simply</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-bg-removal-in-figma-designs-for-2024/"><u>Mastering BG Removal in Figma Designs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/open-source-banner-resources-a-gift-to-youtubers-for-2024/"><u>Open Source Banner Resources A Gift to YouTubers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steal-save-on-hp-victus-15-at-just-515-during-amazon-prime-day-shop-now/"><u>Score a Steal: Save on HP Victus 15 at Just $515 During Amazon Prime Day – Shop Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-secret-ubuntu-installation-on-elite-dell-laptops-revealed-inside-project-sputnik-zdnet/"><u>The Secret Ubuntu Installation on Elite Dell Laptops Revealed – Inside Project Sputnik | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-savings-galore-with-lenovos-slick-semi-annual-event-snag-your-dream-thinkpad-and-earn-1500-back-zdnet-insider-tips/"><u>Unleash Savings Galore with Lenovo's Slick Semi-Annual Event: Snag Your Dream ThinkPad and Earn $1,500 Back! ZDNET Insider Tips.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-our-premier-picks-for-premium-no-fee-email-solutions-top-10/"><u>Unveiling Our Premier Picks for Premium, No-Fee Email Solutions (Top 10)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/will-the-msi-steam-deck-triumph-in-the-portable-console-battlefield-a-deep-dive-by-zdnet/"><u>Will the MSI Steam Deck Triumph in the Portable Console Battlefield? - A Deep Dive by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

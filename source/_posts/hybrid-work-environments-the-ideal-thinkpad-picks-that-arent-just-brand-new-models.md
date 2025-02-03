@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models
-date: 2025-01-18T21:11:51.348Z
-updated: 2025-01-24T20:46:00.059Z
+date: 2025-01-28T20:08:04.286Z
+updated: 2025-02-01T19:33:49.610Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,21 +112,24 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocked-gems-seeking-free-tiktok-picture-perfections/"><u>[New] 2024 Approved Unlocked Gems Seeking Free TikTok Picture Perfections</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-step-into-new-realms-with-vr-technology-for-2024/"><u>[New] Step Into New Realms with VR Technology for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instaloops-unleashed-the-ultimate-guide-to-engagement/"><u>[Updated] In 2024, InstaLoops Unleashed The Ultimate Guide to Engagement</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-a-beginners-guide-to-elevating-auditory-experiences-on-youtube/"><u>In 2024, A Beginner's Guide to Elevating Auditory Experiences on YouTube</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labor-day-bonanza-get-a-free-xbox-game-pass-with-33-off-any-fire-tv-stick-bundle-top-promo-by-zdnet/"><u>Labor Day Bonanza: Get a Free Xbox Game Pass with 33% Off Any Fire TV Stick Bundle - Top Promo by ZDNET!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/missed-octobers-prime-day-check-out-lasting-amazon-fire-tv-offers-now-insights-from-zdnet/"><u>Missed October's Prime Day? Check Out Lasting Amazon Fire TV Offers Now - Insights From ZDNet</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/phonedatarescue-for-android-regain-lost-media/"><u>PhoneDataRescue for Android: Regain Lost Media</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-your-sonos-experience-new-features-include-a-tailored-home-interface-cross-device-search-capability-insights-from-zdnet/"><u>Revolutionizing Your Sonos Experience: New Features Include a Tailored Home Interface, Cross-Device Search Capability - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-lost-remotes-introducing-the-ultimate-solution-every-roku-enthusiast-deserves-featured-on-zdnet/"><u>Say Goodbye to Lost Remotes: Introducing the Ultimate Solution Every Roku Enthusiast Deserves, Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-the-latest-samsung-galaxy-a35-with-complimentary-buds-fe-from-amazon-featured-in-our-exclusive-zdnet-guide/"><u>Score the Latest Samsung Galaxy A35 with Complimentary Buds FE From Amazon, Featured in Our Exclusive ZDNet Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/scoring-free-galaxy-buds-seplus-with-your-new-samsung-galaxy-a35-the-complete-guide/"><u>Scoring Free Galaxy Buds SE+ with Your New Samsung Galaxy A35 - The Complete Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-up-to-32-off-xbox-one-fire-tv-stick-4k-and-control-pack-with-xbox-game-pass-promo-zdnet-exclusive-deals/"><u>Secure Up To 32% Off Xbox One Fire TV Stick 4K & Control Pack with Xbox Game Pass Promo - ZDNet Exclusive Deals</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-preventing-everspace-2-from-crashing-on-windows/"><u>Troubleshooting Tips for Preventing Everspace 2 From Crashing on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725286013758-windows-10/"><u>Windows 10最適化された世界中の一流無料ビデオプレーヤーを見つける方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-create-podcast-rss-feeds/"><u>[New] How To Create Podcast RSS Feeds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-detailed-analysis-vlc-for-video-capture/"><u>[New] In 2024, Detailed Analysis VLC for Video Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-survival-housing-in-minecraft-6-10-guide/"><u>[New] Survival Housing in Minecraft #6-10 Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterclass-creating-alluring-vlogging-storylines/"><u>2024 Approved Masterclass Creating Alluring Vlogging Storylines</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-90-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor 90 by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-and-bargains-pre-prime-day-2024-top-savings-sources-highlighted-by-zdnet/"><u>Best Buys & Bargains Pre-Prime Day 2024: Top Savings Sources Highlighted by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-the-lenovo-yoga-book-t-revolutionize-dual-display-computers-with-its-latest-release-zdnet/"><u>Can the Lenovo Yoga Book T Revolutionize Dual-Display Computers with Its Latest Release? | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-to-picking-the-ideal-apple-laptop/"><u>Choosing Between MacBook Pro & MacBook Air: A Comprehensive Guide to Picking the Ideal Apple Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discount-alert-score-30-less-on-the-portable-energy-source-anker-737-power-unit-tech-bargains-roundup/"><u>Discount Alert! Score $30 Less on the Portable Energy Source Anker 737 Power Unit | Tech Bargains Roundup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-octobers-mega-gaming-deals-for-the-2024-prime-day-last-call-to-save-big-with-up-to-1000-off/"><u>Don't Miss Out on October's Mega Gaming Deals for the 2024 Prime Day – Last Call to Save Big with Up to $1,000 Off!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-alert-slash-your-gaming-rig-cost-by-350-with-the-alienware-aurora-r13-score-a-steal-at-zdnet/"><u>Exclusive Offer Alert: Slash Your Gaming Rig Cost by $350 with the Alienware Aurora R13 - Score a Steal at ZDNet!</u></a></li>
+<li><a href="https://discover-best.techidaily.com/guide-watching-av1-encoded-movies-with-plex-is-it-compatible/"><u>Guide: Watching AV1 Encoded Movies with Plex - Is It Compatible?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-playwrights-lair/"><u>In 2024, Premier Playwright's Lair</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/my-heart-my-mind-and-the-flesh-of-my-body/"><u>My Heart, My Mind and the Flesh of My Body</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networking-essentials-mastering-facebook-twitter-instagram-and-youtube-usage/"><u>Social Networking Essentials: Mastering Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nokia-130-music-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nokia 130 Music Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-digital-notepads-in-depth-expert-reviews-and-purchasing-guide-insights/"><u>Top-Rated Digital Notepads: In-Depth Expert Reviews & Purchasing Guide - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-prime-day-deal-top-performing-non-thinkpad-non-macbook-laptop-steals-the-show-with-30-discount/"><u>Unbeatable Prime Day Deal: Top-Performing Non-ThinkPad, Non-MacBook Laptop Steals the Show with 30% Discount!</u></a></li>
 </ul></div>
 

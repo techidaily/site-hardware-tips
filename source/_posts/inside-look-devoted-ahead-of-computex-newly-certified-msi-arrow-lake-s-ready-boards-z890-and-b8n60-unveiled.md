@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Devoted Ahead of Computex, Newly Certified MSI Arrow Lake S Ready Boards Z890 & B8n60 Unveiled!"
-date: 2024-08-19T02:35:33.323Z
-updated: 2024-08-20T02:35:33.323Z
+date: 2025-01-28T18:57:40.791Z
+updated: 2025-02-01T20:46:28.347Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,24 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-dine-into-the-digital-age-tiktoks-cutest-eats/"><u>[Updated] Dine Into the Digital Age #Tiktok's Cutest Eats</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-10-engaging-mobile-idle-puzzles/"><u>[Updated] Top 10 Engaging Mobile Idle Puzzles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-optimize-your-youtube-videos-faster-rendering-smarter-uploads/"><u>2024 Approved Optimize Your YouTube Videos Faster Rendering, Smarter Uploads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-flip-to-flash-with-android/"><u>2024 Approved Transform Your Flip to Flash with Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-technology-for-superior-sleep-unlocking-serene-rest-every-night/"><u>Advanced Technology for Superior Sleep: Unlocking Serene Rest Every Night</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-declares-9-mac-variants-obsolete-implications-unveiled/"><u>Apple Declares 9 Mac Variants Obsolete, Implications Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-to-julys-most-competitive-laptop-offers-featured-by-zdnet/"><u>Exclusive Guide to July's Most Competitive Laptop Offers, Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-choice-the-elite-list-of-windows-laptops-for-2er-2024-featuring-in-depth-analysis-wired-magazine/"><u>Experts' Choice: The Elite List of Windows Laptops for 2Er 2024 Featuring In-Depth Analysis | Wired Magazine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-lenovos-innovative-thinkpad-x1-fold-the-quirkiest-and-priciest-gadget-experience/"><u>Exploring Lenovo's Innovative ThinkPad X1 Fold: The Quirkiest & Priciest Gadget Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-techs-new-frontier-highlights-and-must-see-releases-at-ces-2023-featured/"><u>Exploring Tech's New Frontier: Highlights and Must-See Releases at CES 2023, Featured</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-out-whos-viewing-your-youtube-content-a-comprehensive-guide/"><u>Finding Out Who's Viewing Your YouTube Content: A Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-se-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone SE Activation Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/power-in-a-package-how-alienwares-small-sized-laptop-defies-size-limits-with-high-performance-gadgetguru/"><u>Power in a Package: How Alienware's Small-Sized Laptop Defies Size Limits with High Performance | GadgetGuru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-on-hp-victus-15-for-gamers-snag-it-for-just-515-with-best-buys-exclusive-prime-day-offer-zdnet/"><u>Unbeatable Price on HP Victus 15 for Gamers: Snag It for Just $515 with Best Buy's Exclusive Prime Day Offer | ZDNET</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-the-significance-of-computer-beeps-insights-from-yl-computings-expert-analysis/"><u>Understanding the Significance of Computer BEEPS: Insights From YL Computing's Expert Analysis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-picks-for-the-most-exceptional-streaming-mics-on-the-market-2ebutchery2024/"><u>ZDNet's Picks for the Most Exceptional Streaming Mics on the Market, 2Ebutchery2024!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->

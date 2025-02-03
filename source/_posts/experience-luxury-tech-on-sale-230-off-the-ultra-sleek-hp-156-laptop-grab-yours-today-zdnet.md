@@ -1,7 +1,7 @@
 ---
 title: "Experience Luxury Tech on Sale: $230 Off the Ultra-Sleek HP 15.6” Laptop - Grab Yours Today @ ZDNET!"
-date: 2025-01-17T16:08:03.104Z
-updated: 2025-01-24T18:40:19.329Z
+date: 2025-01-26T17:01:33.187Z
+updated: 2025-02-01T18:15:47.747Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,24 +138,22 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-best-youtube-thumbnail-size/"><u>[New] 2024 Approved The Best YouTube Thumbnail Size</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-leverage-longer-vids-on-instagram-effectively/"><u>[Updated] In 2024, How to Leverage Longer Vids on Instagram Effectively</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2-charge-up-for-adventure-and-cookouts-our-top-e-bike-with-built-in-grill-insight-by-zdnet/"><u>2. Charge Up for Adventure & Cookouts – Our Top E-Bike with Built-In Grill [Insight by ZDNET]</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-audio-streams-apple-podcasts-downloading/"><u>2024 Approved Mastering Audio Streams Apple Podcasts Downloading</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-best-13-no-cost-dvd-players-that-work-seamlessly-on-windows-11-systems/"><u>Discover the Best 13 No-Cost DVD Players That Work Seamlessly on Windows 11 Systems!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filmmaking-revolution-15-essential-gopro-luts-revealed-for-2024/"><u>Filmmaking Revolution 15 Essential GoPro LUTs Revealed for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-hot-40i-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Hot 40i</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-suggestions-10-hilarious-concepts-for-quick-quirky-videos/"><u>Silly Suggestions 10 Hilarious Concepts for Quick, Quirky Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-retrieve-lost-emails-from-your-gmail-inbox/"><u>Step-by-Step Guide: Retrieve Lost Emails From Your Gmail Inbox</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/troubleshooting-sudden-facebook-live-hiccups/"><u>Troubleshooting Sudden Facebook Live Hiccups</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-portable-jump-starters-featured-on-zdnet-by-industry-experts/"><u>Ultimate Guide to the Best Portable Jump Starters , Featured on ZDNET by Industry Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-flyer-discounts-save-25-on-flights-with-your-amazon-prime-benefits-insight-from-zdnet/"><u>Unlock Flyer Discounts: Save $25 on Flights with Your Amazon Prime Benefits - Insight From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unpacking-delta-airlines-controversial-move-that-alienated-long-time-supporters-why-did-they-do-it-business-traveller-blog/"><u>Unpacking Delta Airlines’ Controversial Move that Alienated Long-Time Supporters: Why Did They Do It? | Business Traveller Blog</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tech-at-ces-202e-how-lg-is-falling-for-ai-and-launching-revolutionary-products-insights-from-zdnet/"><u>Unveiling the Future of Tech at CES 202E: How LG Is Falling for AI and Launching Revolutionary Products - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-review-of-tesla-vehicles-for-202n-which-model-stands-out-among-s-3-x-and-y/"><u>ZDNet's Comprehensive Review of Tesla Vehicles for 202N: Which Model Stands Out Among S, 3, X, and Y?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-expert-picks-for-the-leading-hybrids-of-2023-a-must-read-guide/"><u>ZDNet's Expert Picks for the Leading Hybrids of 2023 - A Must-Read Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-of-emporia-energy-smart-ev-charger-enhanced-performance-at-an-economical-cost/"><u>ZDNet's In-Depth Analysis of Emporia Energy Smart EV Charger: Enhanced Performance at an Economical Cost</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-of-the-velotrix-nomad-1-e-bike-mastering-varied-landscapes-with-unmatched-comfort/"><u>ZDNet's In-Depth Analysis of the Velotrix Nomad 1 E-Bike: Mastering Varied Landscapes with Unmatched Comfort</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-budget-conscious-obs-tweaks-and-tricks-for-2024/"><u>[New] Budget-Conscious OBS Tweaks and Tricks for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-become-an-audio-concealer-expert-tips-on-altering-your-characters-voice-for-enhanced-competitive-play/"><u>[New] In 2024, Become an Audio Concealer Expert Tips on Altering Your Character's Voice for Enhanced Competitive Play</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-screen-recorder-for-youtube/"><u>[Updated] In 2024, Best Screen Recorder for YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cutting-edge-techniques-for-incorporating-soundtracks-in-youtube-creations/"><u>[Updated] In 2024, Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2-upgrade-any-laptop-to-support-dual-4k-monitors-seamlessly-regardless-of-original-hardware-specs-the-ultimate-gadget-review-on-zdnet/"><u>2. Upgrade Any Laptop to Support Dual 4K Monitors Seamlessly, Regardless of Original Hardware Specs: The Ultimate Gadget Review on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-apples-fall-event-highlights-m4-mac-mini-unveiling-revolutionary-ipads-and-advancements-in-ai-with-siri-analysis/"><u>Exploring Apple's Fall Event Highlights: M4 Mac Mini Unveiling, Revolutionary iPads & Advancements in AI with Siri | Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-flash-unveiling-the-elite-ssd-lineup-expert-analysis/"><u>Future Flash: Unveiling the Elite SSD Lineup - Expert Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-available-for-canon-mg3000-printing-software-download/"><u>Latest Updates Available for Canon MG3000 Printing Software Download</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-power-choosing-between-phone-and-tablet-games/"><u>Pixel Power: Choosing Between Phone and Tablet Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-restoring-sounds-in-forza-horizon-4-the-ultimate-guide-to-fixing-audio-issues/"><u>Solved: Restoring Sounds in Forza Horizon 4 – The Ultimate Guide to Fixing Audio Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-portable-powerhouse-a-top-picks-review-reveals-why-this-laptop-is-perfect-for-digital-nomads-insights/"><u>The Ultimate Portable Powerhouse: A Top Picks Review Reveals Why This Laptop Is Perfect for Digital Nomads - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-6-strategies-for-simplifying-android-usage/"><u>Top 6 Strategies for Simplifying Android Usage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-prime-day-blowout-unbeatable-laptop-offers-available-throughout-october-202/"><u>Top-Rated Prime Day Blowout: Unbeatable Laptop Offers Available Throughout October 202</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-audio-bliss-with-top-rated-100-off-speaker-systems-now-at-best-buy-discover-the-review/"><u>Unlock Audio Bliss with Top-Rated, $100 Off Speaker Systems Now at Best Buy | Discover the Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-savings-snag-the-newly-reduced-apples-m3-macbook-pro-during-amazons-spring-clearance-event-as-revealed/"><u>Unveiling Savings: Snag the Newly-Reduced Apple's M3 MacBook Pro During Amazon’s Spring Clearance Event, as Revealed</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 11/10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-the-ideal-13-inch-work-travel-companion-not-dell-or-apple-but-equally-impressive-find-out-which-laptop-made-our-cut/"><u>ZDNet Reveals the Ideal 13-Inch Work Travel Companion: Not Dell or Apple, but Equally Impressive! Find Out Which Laptop Made Our Cut</u></a></li>
 </ul></div>
 

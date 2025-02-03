@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Storage: Exclusive Discounts on SSDs & HDDs - 2024 Edition"
-date: 2024-08-19T02:35:03.340Z
-updated: 2024-08-20T02:35:03.340Z
+date: 2025-01-31T20:13:56.985Z
+updated: 2025-02-01T19:13:42.937Z
 tags:
   - ssd
 categories:
@@ -46,13 +46,14 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 * [AGI AI818 2TB SSD at Newegg for $114.99](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Flink%3Fid%3DkXQk6%252AivFEQ%26offerid%3D1531483.445838636436816353697968%26type%3D15%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fagi-2tb-ai818-43%252Fp%252F0D9-010F-00011%253Fitem%253D9SIBM90K3J6368%26u1%3Dtomshardware-us-1398768948128134202)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software and Accessories
 
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## AGI AI818 — A Closer Look
 
  Image 1 of 3
@@ -60,27 +61,21 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -89,13 +84,18 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -160,16 +160,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,4 +173,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-minisculecam-record-evaluation-and-comparisons/"><u>2024 Approved MinisculeCam Record Evaluation & Comparisons</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-restore-windows-photo-viewer-efficiency-on-windows-10-pcs/"><u>2024 Approved Restore Windows Photo Viewer Efficiency on Windows 10 PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/balancing-academia-and-leisure-discover-the-best-2-in-1-laptop-for-college-that-seamlessly-transitions-from-study-to-play-expert-recommendations-on-zdnet/"><u>Balancing Academia & Leisure: Discover the Best 2-in-1 Laptop for College that Seamlessly Transitions From Study to Play – Expert Recommendations on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-lightest-and-slimmest-laptop-by-lg-the-cutting-edge-gram-technology-explained-next-gen-computing-insights/"><u>Discover the Lightest and Slimmest Laptop by LG: The Cutting-Edge GRAM Technology Explained - Next-Gen Computing Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/excellent-record-maker-chromebook-edition/"><u>Excellent Record Maker Chromebook Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-best-screen-quality-for-less-with-our-latest-lightweight-laptop-deal-now-on-sale-zdnet/"><u>Get the Best Screen Quality for Less with Our Latest Lightweight Laptop Deal - Now On Sale | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-itel-p55t-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Itel P55T Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-miniaturized-universal-car-charger-charges-your-laptop-tablet-and-phone-effortlessly/"><u>Introducing The Miniaturized Universal Car Charger - Charges Your Laptop, Tablet and Phone Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/lecteur-video-gratuit-h265-hevc-pour-windows-10-and-mac-decouvrez-lultime-experience-en-high-definition-depuis-2020/"><u>Lecteur Vidéo Gratuit H.265 HEVC Pour Windows 10 & Mac : Découvrez L'Ultime Expérience en High-Definition Depuis 2020</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/marathon-ready-performance-meets-eye-candy-display-exploring-a-top-long-lasting-laptop-choice/"><u>Marathon-Ready Performance Meets Eye Candy Display: Exploring a Top Long-Lasting Laptop Choice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-auto-correct-six-effective-solutions-to-improve-typing-accuracy/"><u>Mastering iPhone Auto-Correct: Six Effective Solutions to Improve Typing Accuracy</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/pinnacle-of-presence-a-strategic-approach-for-live-video-graphics/"><u>Pinnacle of Presence A Strategic Approach for Live Video Graphics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-level-tiktok-edits-techniques-that-increase-viewership-for-2024/"><u>Pro-Level TikTok Edits Techniques That Increase Viewership for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-sleekest-gram-notebook-ever-released-by-lg-revolutionizing-on-the-go-computing-zdnet/"><u>The Sleekest Gram Notebook Ever Released by LG: Revolutionizing On-the-Go Computing | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-gaming-savings-showdown-where-to-snag-prime-deals-this-october-zdnet-insights/"><u>The Ultimate Gaming Savings Showdown: Where to Snag Prime Deals This October! | ZDNET Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-for-rectifying-msi-afterburners-inability-to-recognize-your-graphics-card-on-latest-windows-versions/"><u>Tips for Rectifying MSI Afterburner's Inability to Recognize Your Graphics Card on Latest Windows Versions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-demand-why-consumers-choose-damaged-macbook-pro-screens-insights/"><u>Understanding the Demand: Why Consumers Choose Damaged MacBook Pro Screens - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-250-off-15-inch-macbook-air-is-an-unbeatable-deal-you-shouldnt-miss/"><u>Why the $250-Off 15-Inch MacBook Air Is an Unbeatable Deal You Shouldn't Miss!</u></a></li>
+</ul></div>
 

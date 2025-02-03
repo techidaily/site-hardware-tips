@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Cooling Innovations: Unveiling PCIe 6.0'S Superior Thermal Solutions Compared to PCIe 5.0"
-date: 2024-08-19T02:36:19.291Z
-updated: 2024-08-20T02:36:19.291Z
+date: 2025-01-27T20:08:30.514Z
+updated: 2025-02-01T16:33:34.166Z
 tags:
   - motherboards
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/e9f2de3fe739ce800e08e572da8b622265103b19b
 The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compression Attached Memory Module) is starting to take off. It allows for faster speeds and for smaller modules to fit in tighter spaces, allowing thin laptops to be more repairable or upgradable. Recently, many of the biggest PC vendors have soldered RAM to the motherboard to save space in laptops rather than using SO-DIMMs, so CAMM2 can help there.
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Where did CAMM2 come from?
 
@@ -33,6 +37,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -48,15 +56,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,26 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ominate-search-results-essential-tips-for-optimizing-youtube-videos-for-2024/"><u>[New] Dominate Search Results Essential Tips for Optimizing YouTube Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unleash-your-photo-and-video-potential-with-your-cellphones-webcam-features/"><u>[Updated] 2024 Approved Unleash Your Photo & Video Potential with Your Cellphone's Webcam Features</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-whats-new-in-youtube-tv-updates-and-features-for-2024/"><u>[Updated] What's New in YouTube TV Updates & Features for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-proven-techniques-for-perfecting-video-aspect-ratios/"><u>2024 Approved Proven Techniques for Perfecting Video Aspect Ratios</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/advanced-guide-to-using-luts-for-professional-image-editors/"><u>Advanced Guide to Using LUTs for Professional Image Editors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-unleashes-superior-oled-display-on-their-latest-laptop-top-rankings-confirmed-by-testing-over-hundred-models/"><u>Asus Unleashes Superior OLED Display on Their Latest Laptop - Top Rankings Confirmed by Testing Over Hundred Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beneath-the-surface-truthgpt-and-its-origins/"><u>Beneath the Surface: TruthGPT and Its Origins</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guaranteed-steps-to-protectly-delete-your-private-data-from-a-windows-pc-cost-free-methods-covered/"><u>Guaranteed Steps to Protectly Delete Your Private Data From a Windows PC: Cost-Free Methods Covered!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/metas-ultimate-vr-bargain-the-new-512gb-quest-3-offer-you-cant-miss-according-to-zdnet/"><u>Meta's Ultimate VR Bargain - The New 512GB Quest 3 Offer You Can't Miss, According to ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-frequent-interruptions-a-guide-to-enhance-stability-of-deathloop-on-pc-and-ps5/"><u>Overcoming Frequent Interruptions: A Guide To Enhance Stability Of Deathloop On PC And PS5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/school-supplies-beware-repeated-incidents-of-chromebooks-attacked-by-bedbugs-exposed-insights/"><u>School Supplies Beware: Repeated Incidents of Chromebooks Attacked by Bedbugs Exposed! - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-98-unbeatable-cyber-monday-offers-ultimate-guide/"><u>Top 98 Unbeatable Cyber Monday Offers Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-notch-display-meets-unbeatable-price-in-this-ultraportable-laptop/"><u>Top-Notch Display Meets Unbeatable Price in This Ultraportable Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-ultimate-guide-to-windows-laptops-in-depth-tests-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Ultimate Guide to Windows Laptops - In-Depth Tests & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/trojan-dropper-explained-identification-and-eradication-techniques-with-insights-from-malwarefox/"><u>Trojan Dropper Explained: Identification & Eradication Techniques with Insights From MalwareFox</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-downloading-and-setup-instructions-for-linksys-wusb6300-wifi-usb-drive/"><u>Ultimate Downloading and Setup Instructions for Linksys WUSB6300 WiFi USB Drive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-ultimate-list-of-prime-day-2-cuyamanga-2024-gaming-discounts-still-on-sale/"><u>Unlock the Ultimate List of Prime Day 2 Cuyamanga 2024 Gaming Discounts Still On Sale</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-breakdown-macbook-air-vs-macbook-pro-to-find-your-ideal-apple-laptop/"><u>ZDNet's Ultimate Breakdown: MacBook Air Vs. MacBook Pro to Find Your Ideal Apple Laptop</u></a></li>
+</ul></div>
 

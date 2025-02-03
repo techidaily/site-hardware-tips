@@ -1,7 +1,7 @@
 ---
 title: Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.
-date: 2025-01-21T01:37:48.182Z
-updated: 2025-01-24T21:07:55.948Z
+date: 2025-01-30T17:07:46.937Z
+updated: 2025-02-01T17:08:37.450Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,19 +128,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-meme-list-social-media-giants-clash/"><u>[Updated] The Ultimate Meme List Social Media Giants Clash</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-simple-iphone-screencasting/"><u>2024 Approved The Ultimate Guide to Simple iPhone Screencasting</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/cookiebot-driven-personalization-enhance-user-experience-with-smart-tracking/"><u>Cookiebot-Driven Personalization: Enhance User Experience with Smart Tracking</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-top-quality-electric-bbq-with-a-50-discount-find-your-ideal-weber-grill-at-unbeatable-prices/"><u>Experience Top-Quality Electric BBQ with a $50 Discount: Find Your Ideal Weber Grill at Unbeatable Prices!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-elite-armor-options-the-premier-iphone-14-pro-and-pro-max-cases-of-2024-reviewed-by-tech-experts-at-zdnet/"><u>Exploring Elite Armor Options: The Premier iPhone 14 Pro and Pro Max Cases of 2024 Reviewed by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/five-effective-strategies-for-enhancing-technological-sustainability-insights-from-zdnet/"><u>Five Effective Strategies for Enhancing Technological Sustainability | Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/glimpse-into-technological-evolution-insights-from-samsung-galaxy-s23-and-dell-xps-book-portable-pro/"><u>Glimpse Into Technological Evolution: Insights From Samsung Galaxy S23 and Dell XPS Book Portable Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-fixing-motion-detection-problems-in-hp-laptops-for-windows-users/"><u>Guide: Fixing Motion Detection Problems in HP Laptops for Windows Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-innovative-technology-tackles-climate-change-discover-the-five-key-tools-shaping-our-environmental-strategy-featured-on-zdnet/"><u>How Innovative Technology Tackles Climate Change: Discover the Five Key Tools Shaping Our Environmental Strategy | Featured on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-singapores-focus-on-data-infrastructure-powers-its-ai-expansion-insights-into-data-centers-and-models-zdnet/"><u>How Singapore's Focus on Data Infrastructure Powers Its AI Expansion: Insights Into Data Centers & Models - ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/how-to-choose-between-filmora-and-democreator-for-2024/"><u>How to Choose Between Filmora and Democreator for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-pre-use-disk-format-needed-issue-in-windows/"><u>Overcoming Pre-Use Disk Format Needed Issue in Windows</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/spotting-system-alerts-during-boot-understanding-warning-messages-in-your-computers-bios-or-cmos-settings-with-yl-software/"><u>Spotting System Alerts During Boot: Understanding Warning Messages in Your Computer's BIOS or CMOS Settings with YL Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/the-definitive-guide-to-using-freestyle2-software-on-a-mac-a-perfect-fit-for-idevice-lovers/"><u>The Definitive Guide to Using Freestyle2 Software on a Mac - A Perfect Fit for iDevice Lovers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-integration-combining-b-roll-and-main-scenes/"><u>[New] Seamless Integration Combining B-Roll and Main Scenes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/audience-favorite-discover-the-ultimate-combination-of-power-and-durability-in-todays-best-laptops-reviews/"><u>Audience Favorite: Discover the Ultimate Combination of Power & Durability in Today's Best Laptops Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-lenovo-thinkpad-x1-carbon-gen-10-a-cutting-edge-business-laptop-reviewed-by-tech-experts-zdnet-analysis/"><u>Evaluating the Lenovo ThinkPad X1 Carbon (Gen 10): A Cutting-Edge Business Laptop Reviewed by Tech Experts | ZDNET Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-save-on-your-ideal-lenovo-laptop-designed-for-hybrid-professionals-get-1000-off-this-octobers-amazon-prime-day/"><u>Exclusive Offer: Save on Your Ideal Lenovo Laptop Designed for Hybrid Professionals - Get $1,000 Off This October's Amazon Prime Day!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-list-the-best-5g-notebook-picks-for-tech-enthusiasts-featured-on-zdnet/"><u>Explore the Ultimate List: The Best 5G Notebook Picks for Tech Enthusiasts - Featured on ZDNET</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/historical-insights-at-your-fingertips-top-10-for-students/"><u>Historical Insights at Your Fingertips – Top 10 for Students</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-c02-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia C02 Phone Screen?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-game-essential-tips-and-tools-for-building-the-perfect-gamers-rig-from-zdnet/"><u>Master Your Game: Essential Tips & Tools for Building The Perfect Gamer's Rig From ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-terminating-unresponsive-programs-in-windows-11/"><u>Quick Guide: Terminating Unresponsive Programs in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-reset-account-lockout-after-incorrect-passwords-on-windows-11/"><u>Revamping the Reset Account Lockout After Incorrect Passwords on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-on-premium-8-iphone-webcam-mount-exclusive-offer-lives-on-after-cyber-monday-check-now/"><u>Save on Premium $8 iPhone Webcam Mount - Exclusive Offer Lives On After Cyber Monday! Check Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-ultimate-vr-experience-save-big-on-metas-512gb-quest-pro-bundle-this-october-prime-day-tech-insights-by-zdnet/"><u>Snag the Ultimate VR Experience: Save Big on Meta's 512GB Quest Pro Bundle This October Prime Day | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/subtitle-edit-for-mac-download-alternatives/"><u>Subtitle Edit for Mac Download Alternatives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/take-on-any-challenge-discover-gaming-excellence-with-the-affordable-and-powerful-lenovo-legion-slim-5-899-packed-with-a-cutting-edge-rtx-4060-gpu/"><u>Take On Any Challenge: Discover Gaming Excellence with the Affordable and Powerful Lenovo Legion Slim 5 ($899) - Packed With a Cutting-Edge RTX 4060 GPU</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-non-apple-rechargeable-airtag-alternative-the-ideal-choice-for-your-wallet-discovered/"><u>Top Non-Apple Rechargeable AirTag Alternative: The Ideal Choice for Your Wallet - Discovered !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-for-professional-video-editors-in-depth-reviews-and-comparisons-techradar/"><u>Top-Rated Laptops for Professional Video Editors: In-Depth Reviews & Comparisons - TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-experience-the-ultimate-immersive-sound-with-a-top-rated-gaming-speaker-now-60-off-on-amazon-featured-by-zdnet/"><u>Unbeatable Deal: Experience the Ultimate Immersive Sound with a Top-Rated Gaming Speaker Now 60% Off on Amazon - Featured by ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlocking-the-art-of-captions-a-short-guide-to-facebook-videos/"><u>Unlocking the Art of Captions A Short Guide to Facebook Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-apple-iphone-xs-max-superior-quality-with-a-hefty-premium/"><u>Unveiling the Apple iPhone XS Max - Superior Quality with a Hefty Premium</u></a></li>
 </ul></div>
 

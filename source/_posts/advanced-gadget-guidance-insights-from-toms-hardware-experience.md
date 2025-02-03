@@ -1,7 +1,7 @@
 ---
 title: Advanced Gadget Guidance - Insights From Tom's Hardware Experience
-date: 2024-08-19T02:36:39.139Z
-updated: 2024-08-20T02:36:39.139Z
+date: 2025-01-27T18:55:29.335Z
+updated: 2025-02-01T18:26:51.760Z
 tags:
   - motherboards
 categories:
@@ -20,6 +20,10 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
  Below, we’ll dig into the details of the board and see whether it deserves a spot on our[Best Motherboards](https://tools.techidaily.com) list. Before we get into our testing and board specifics, though, we’ll start by listing the specifications from ASRock’s website.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications: ASRock Z790I Lightning Wi-Fi
 
@@ -102,31 +106,27 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
+ (Image credit: ASRock)
+
+![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
- (Image credit: ASRock)
 
-![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
@@ -147,15 +147,16 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -165,8 +166,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -185,8 +187,6 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +194,26 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-redefining-cinematic-boundaries-with-360-video/"><u>[Updated] In 2024, Redefining Cinematic Boundaries with 360 Video</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-secrets-to-high-quality-roblox-game-footage-on-macos/"><u>[Updated] In 2024, Secrets to High-Quality Roblox Game Footage on macOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-step-by-step-instruction-for-wm6-install/"><u>2024 Approved Step-by-Step Instruction for WM6 Install</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-exclusive-top-ranked-laptops-now-available-with-a-staggering-500-discount-before-the-upcoming-prime-day/"><u>Amazon Exclusive: Top-Ranked Laptops Now Available with a Staggering $500 Discount Before the Upcoming Prime Day</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-a-strong-online-presence-through-engaging-content-social-media-interaction-and-search-engine-optimization-to-enhance-visibility-and-customer-reach.101/"><u>Building a Strong Online Presence Through Engaging Content, Social Media Interaction, and Search Engine Optimization to Enhance Visibility and Customer Reach.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/disappointing-experience-at-the-local-apple-retail-outlet-a-zdnet-review/"><u>Disappointing Experience at the Local Apple Retail Outlet - A ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevating-productivity-with-style-in-depth-review-of-the-brydge-sp-max-plus-case-for-surface-pro-owners/"><u>Elevating Productivity with Style: In-Depth Review of the Brydge SP Max Plus Case for Surface Pro Owners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-on-my-top-pick-magsafe-cable-station-at-50-discounted-price-shop-online-today/"><u>Huge Savings on My Top Pick: MagSafe Cable Station at 50% Discounted Price - Shop Online Today</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-s18-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo S18 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/invisible-voices-techniques-for-silent-screen-recordings-for-2024/"><u>Invisible Voices Techniques for Silent Screen Recordings for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leverage-the-power-of-cookiebot-for-advanced-web-tracking-and-optimization/"><u>Leverage the Power of Cookiebot for Advanced Web Tracking and Optimization</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/premium-performance-expert-insights-on-corsairs-mp600-1tb-ssd-for-e27t-enthusiasts/"><u>Premium Performance: Expert Insights on Corsair's MP600 1TB SSD for E27T Enthusiasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-oppo-f23-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Oppo F23 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-work-efficiency-the-most-impressive-2-in-1-device-of-the-year-with-a-hidden-office-perk-techexplorer-review/"><u>Revolutionizing Work Efficiency: The Most Impressive 2-in-1 Device of the Year with a Hidden Office Perk | TechExplorer Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-98-cyber-week-offers-and-discounts-of-2022-insights-from-zdnet/"><u>Top 98 Cyber Week Offers & Discounts of 2022 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-travel-tech-essentials-in-2-discover-the-ultimate-list-from-zdnet/"><u>Top Rated Travel Tech Essentials in 2# - Discover the Ultimate List From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-performance-meets-exceptional-visuals-in-highly-versatile-laptops-an-in-depth-review-gadget-specialist/"><u>Ultimate Performance Meets Exceptional Visuals in Highly Versatile Laptops - An In-Depth Review Gadget Specialist</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-tesla-robotaxi-latest-updates-on-launch-timeline-anticipated-costs-features-and-emerging-gossip/"><u>Unveiling the Tesla Robotaxi: Latest Updates on Launch Timeline, Anticipated Costs, Features, and Emerging Gossip</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-the-ultimate-mac-compatible-software-for-easy-video-transfer-to-ios-devices-and-itunes/"><u>WinX DVD Ripper: The Ultimate Mac Compatible Software for Easy Video Transfer to iOS Devices and iTunes</u></a></li>
+</ul></div>
 

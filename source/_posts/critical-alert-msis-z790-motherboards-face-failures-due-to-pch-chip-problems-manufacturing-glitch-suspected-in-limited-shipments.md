@@ -1,7 +1,7 @@
 ---
 title: "Critical Alert: MSI's Z790 Motherboards Face Failures Due to PCH Chip Problems – Manufacturing Glitch Suspected in Limited Shipments"
-date: 2024-08-19T02:36:04.650Z
-updated: 2024-08-20T02:36:04.650Z
+date: 2025-01-30T20:21:41.031Z
+updated: 2025-02-01T20:04:20.018Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,24 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-revisit-memories-easy-old-stories-on-fb/"><u>[New] 2024 Approved Revisit Memories Easy Old Stories on FB</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-best-child-safe-cameras-for-first-time-vloggers-and-puddles-for-2024/"><u>[New] The Best Child-Safe Cameras For First-Time Vloggers & Puddles for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-dive-into-deals-apples-m2-macbook-air-continues-as-a-hot-offer-at-749-this-october-prime-day-explore-the-options/"><u>1. Dive Into Deals: Apple's M2 MacBook Air Continues as a Hot Offer at $749 This October Prime Day – Explore the Options!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-pioneering-technologies-vr-applications/"><u>2024 Approved Pioneering Technologies VR Applications</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-5-ios-platforms-mimicking-ps2/"><u>2024 Approved Top 5 iOS Platforms Mimicking PS2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3-easy-steps-to-remove-applications-from-your-macbook-a-step-by-step-guide/"><u>3 Easy Steps to Remove Applications From Your MacBook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-the-endurance-of-your-gopro-battery/"><u>Enhancing the Endurance of Your GoPro Battery</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensuring-optimal-performance-updating-your-razer-blackwidow-device-drivers/"><u>Ensuring Optimal Performance: Updating Your Razer BlackWidow Device Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-meta-quest-3-sale-alert-snag-the-best-value-51-gb-model-during-october-prime-day-insider-deals-on-zdnet/"><u>Exclusive Meta Quest 3 Sale Alert: Snag the Best Value 51^ GB Model During October Prime Day | Insider Deals on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-securely-wipe-data-from-your-windows-laptop-a-step-by-step-guide-for-free-zdnet/"><u>How to Securely Wipe Data From Your Windows Laptop: A Step-by-Step Guide for Free | ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-savings-alert-snag-lenovos-13-inch-thinkpad-x1-gen-3-tablet-for-just-1900-off-this-black-friday-deal-of-the-year/"><u>Massive Savings Alert! Snag Lenovo's 13-Inch ThinkPad X1 Gen 3 Tablet for Just $1,900 Off This Black Friday Deal of the Year!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-facebooks-copyright-enforcement-on-live-feeds-for-2024/"><u>Navigating Facebook's Copyright Enforcement on Live Feeds for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-metas-exclusive-512gb-quest-3-offer-top-picks-for-prime-day-vr-bargains-in-october/"><u>Snag Meta's Exclusive 512GB Quest 3 Offer - Top Picks for Prime Day VR Bargains in October!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/speech-recognition-and-use-it-free-for-2024/"><u>Speech Recognition and Use It Free for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-impact-of-using-a-split-ergonomic-keyboard-for-one-week-on-my-entire-setup/"><u>The Impact of Using a Split Ergonomic Keyboard for One Week on My Entire Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-memory-boosters-of-2023-ultimate-ram-upgrades-for-optimal-performance-at-work-and-in-games-insights-from-zdnet/"><u>Top Memory Boosters of 2023: Ultimate RAM Upgrades for Optimal Performance at Work & in Games - Insights From ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->

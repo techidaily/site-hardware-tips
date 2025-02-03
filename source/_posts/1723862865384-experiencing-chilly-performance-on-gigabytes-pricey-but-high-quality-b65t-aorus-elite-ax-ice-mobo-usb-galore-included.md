@@ -1,7 +1,7 @@
 ---
 title: "Experiencing Chilly Performance on Gigabyte's Pricey, But High-Quality B65t Aorus Elite AX Ice Mobo: USB Galore Included"
-date: 2024-08-19T02:35:51.270Z
-updated: 2024-08-20T02:35:51.270Z
+date: 2025-01-27T17:18:06.820Z
+updated: 2025-02-01T16:22:54.978Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,22 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-enhance-video-production-7-best-free-sounds-for-editors-for-2024/"><u>[New] Enhance Video Production - 7 Best Free Sounds for Editors for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaming-channel-evolution-best-14-video-ideas-on-youtube/"><u>[Updated] 2024 Approved Gaming Channel Evolution Best 14 Video Ideas on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-youtube-snippets-guide-essential-info-inside/"><u>2024 Approved YouTube Snippets Guide Essential Info Inside</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a38-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A38 FRP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anker-737-mini-power-bank-sale-shop-now-and-get-30-off-exclusive-offer-for-zdnet-readers/"><u>Anker 737 Mini Power Bank Sale - Shop Now & Get $30 Off, Exclusive Offer for ZDNet Readers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/freshly-released-chrome-os-upgrade-introduces-windows-11-features-to-your-chromebook-the-latest-news/"><u>Freshly Released Chrome OS Upgrade Introduces Windows 11 Features to Your Chromebook: The Latest News</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-ease-overuse-of-cpu-power-by-dropbox-on-pcs/"><u>How to Ease Overuse of CPU Power by Dropbox on PCs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-popular-social-channels-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Popular Social Channels: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-notch-screen-quality-in-a-featherlight-laptop-now-on-discount-dont-miss-out-read-more-here-digitaltechinsights/"><u>Top-Notch Screen Quality in a Featherlight Laptop Now on Discount – Don’t Miss Out, Read More Here | DigitalTechInsights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-apple-bargains-in-july-2024-iphone-apple-watch-and-ipad-discounts-zdnet/"><u>Top-Ranking Apple Bargains in July 2024: IPhone, Apple Watch & iPad Discounts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-oled-laptop-picks-comprehensive-analysis-and-comparisons-by-tech-experts-zdnets-guide/"><u>Top-Ranking OLED Laptop Picks : Comprehensive Analysis & Comparisons by Tech Experts - ZDNet's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-next-level-productivity-with-the-acer-chromebook-516ge-review-on-zdnet/"><u>Unleashing Next-Level Productivity with the Acer Chromebook 516GE Review on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-full-desktop-power-for-your-notebook-using-an-advanced-discreet-docking-solution-featured-on-zdnet/"><u>Unlock Full Desktop Power for Your Notebook Using an Advanced Discreet Docking Solution, Featured on ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-huawei-p60-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Huawei P60 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-value-on-a-budget-my-experience-with-the-affordable-surface-pro-11-insights-from-a-seasoned-microsoft-enthusiast/"><u>Unlocking Value on a Budget: My Experience with the Affordable Surface Pro 11 - Insights From a Seasoned Microsoft Enthusiast</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->

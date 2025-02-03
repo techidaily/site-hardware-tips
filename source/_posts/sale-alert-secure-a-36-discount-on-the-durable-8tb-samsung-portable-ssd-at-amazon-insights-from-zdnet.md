@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Secure a 36%% Discount on the Durable 8TB Samsung Portable SSD at Amazon - Insights From ZDNet"
-date: 2025-01-18T20:48:34.544Z
-updated: 2025-01-24T20:28:02.284Z
+date: 2025-01-30T20:10:27.540Z
+updated: 2025-02-01T18:31:45.814Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5d25efea-41c2-4721-bece-33eaed47020a%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,21 +65,22 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-skype-call-chronicles-20plus-strategies-for-savvy-windowsmac-users/"><u>[New] 2024 Approved Skype Call Chronicles 20+ Strategies for Savvy Windows/Mac Users</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ollow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats-for-2024/"><u>[New] Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-your-spotify-collection-with-youtube-music-integration/"><u>2024 Approved Enhancing Your Spotify Collection with YouTube Music Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mpgmp33/"><u>無料で簡単な曲変換! MPG形式をMP3にする上位3選手</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-polar-grit-x-pro-titan-enhancing-workout-insights-with-advanced-features-zdnet/"><u>Comprehensive Evaluation of Polar Grit X Pro Titan: Enhancing Workout Insights with Advanced Features | ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-an-easy-guide-to-embedding-mp3-files-into-presentations/"><u>In 2024, An Easy Guide to Embedding MP3 Files Into Presentations</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-poco-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Poco Phone that is Locked?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-the-premier-yt-storytelling-list-to-watch-in-the-year-ahead/"><u>In 2024, The Premier YT Storytelling List to Watch in the Year Ahead</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-excessive-load-by-dropbox-app-on-windows-computers/"><u>Mitigating Excessive Load by Dropbox App on Windows Computers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pixel-watch-fall-detection-feature-and-terms-that-imply-helpful-content-such-as-guide-and-benefits-explained/"><u>Pixel Watch, Fall Detection Feature, and Terms that Imply Helpful Content, Such as Guide and Benefits Explained.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-benefits-of-owning-an-apple-watch-insights-from-a-leading-wearable-tech-guru-on-zdnet/"><u>Top 6 Benefits of Owning an Apple Watch: Insights From a Leading Wearable Tech Guru on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-techniques-for-streamlining-your-twitter-content-calendar/"><u>Top Techniques for Streamlining Your Twitter Content Calendar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-sale-offers-on-apple-watches-exclusive-june-2023-promotions-zdnet/"><u>Top-Rated Sale Offers on Apple Watches: Exclusive June 2023 Promotions - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbelievably-affordable-the-top-rated-ultra-resilient-smartwatch-you-dont-want-to-miss/"><u>Unbelievably Affordable: The Top-Rated, Ultra-Resilient Smartwatch You Don't Want to Miss</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-savings-the-apple-watch-ultra-hits-record-lows-before-holiday-shopping-season-exclusive-insight/"><u>Unlocking Savings: The Apple Watch Ultra Hits Record Lows Before Holiday Shopping Season - Exclusive Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-years-best-tech-marvels-a-comprehensive-guide-to-202gadgets-and-devices-that-defined-2022-expert-review-by-zdnet/"><u>Unveiling the Year's Best Tech Marvels: A Comprehensive Guide to 202^GADGETS and Devices that Defined 2022 – Expert Review by ZDNET</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-best-microphone-for-youtubers/"><u>[New] In 2024, Best Microphone for YouTubers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-buys-in-screen-recording-focusing-on-tunefabs-innovations/"><u>[Updated] Best Buys in Screen Recording - Focusing on Tunefab's Innovations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-virtual-reality-potential/"><u>[Updated] Maximizing Virtual Reality Potential</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-apple-silicon-showdown-unveiling-the-differences-between-m3-m3-pro-and-m3-max-chips-your-pre-purchase-guide-zdnet/"><u>1. Apple Silicon Showdown: Unveiling the Differences Between M3, M3 Pro & M3 Max Chips - Your Pre-Purchase Guide (ZDNet)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-adding-captions-and-text-a-guide-for-photo-titles-in-microsoft-photos/"><u>2024 Approved Adding Captions and Text A Guide for Photo Titles in Microsoft Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-elite-authentication-keys-comprehensive-expert-analysis-and-rankings-securetech-digest/"><u>2024'S Elite Authentication Keys: Comprehensive Expert Analysis and Rankings | SecureTech Digest</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/daily-life-ais-who-takes-the-helm-in-taskland/"><u>Daily Life AIs: Who Takes the Helm in Taskland?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-the-split-design-an-enlightening-week-of-typing-on-a-dedicated-ergonomic-keyboard-zdnet/"><u>Embracing the Split Design: An Enlightening Week of Typing on a Dedicated Ergonomic Keyboard | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-the-deal-walmart-offers-a-high-quality-15-asus-notebook-with-essential-connectivity-at-only-250-insights/"><u>Grab the Deal: Walmart Offers a High-Quality 15 ASUS Notebook with Essential Connectivity at Only $250 - Insights !</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 14</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-msi-steam-deck-a-serious-contender-in-the-portable-console-arena-insights-and-predictions-tech-trends/"><u>Is the MSI Steam Deck a Serious Contender in the Portable Console Arena? Insights & Predictions | Tech Trends</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-using-gifs-to-amplify-your-presence-in-the-instagram-conversation/"><u>The Ultimate How-To: Using GIFs to Amplify Your Presence in the Instagram Conversation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-office-space-grab-the-multifunctional-docking-station-11-features-in-one-and-save-big-with-44-off-exclusive-offer/"><u>Transform Your Office Space! Grab the Multifunctional Docking Station, 11 Features in One, and Save Big with 44% Off – Exclusive Offer !</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforming-viral-tiktok-sounds-into-personalized-calls-for-2024/"><u>Transforming Viral TikTok Sounds Into Personalized Calls for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ate-ratio-breakdown-for-youtube-content-formats-for-2024/"><u>Ultimate Ratio Breakdown for YouTube Content Formats for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-black-friday-offer-save-big-on-the-hp-envy-x360-touchscreen-laptop-up-to-40-discount-get-yours-for-just-499-today-at-store-name/"><u>Unmissable Black Friday Offer: Save Big on the HP Envy X360 Touchscreen Laptop - Up to 40% Discount! Get Yours for Just $499 Today at [Store Name]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-presidents-day-offer-save-big-on-the-latest-macbook-pro-with-m3-pro-at-an-exclusive-discount-of-200-shop-now/"><u>Unmissable President's Day Offer: Save Big on the Latest MacBook Pro with M3 Pro at an Exclusive Discount of $200 - Shop Now!</u></a></li>
 </ul></div>
 

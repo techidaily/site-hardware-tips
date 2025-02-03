@@ -1,7 +1,7 @@
 ---
 title: Hassle-Free Custom PCs with Our Guide to Effortless DIY Motherboards
-date: 2024-08-19T02:36:55.841Z
-updated: 2024-08-20T02:36:55.841Z
+date: 2025-01-29T19:37:03.558Z
+updated: 2025-02-01T16:29:01.095Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,23 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-writing-with-impact-sculpting-scripts-for-engaging-docus/"><u>[New] 2024 Approved Writing with Impact Sculpting Scripts for Engaging Docus</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1728484325499-vs/"><u>『データ復旧』VS『データ復元』: 根本的な違いを深掘り</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-zeroing-in-on-audio-quality-achievable-sans-mic/"><u>2024 Approved Zeroing in on Audio Quality Achievable Sans Mic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-laptops-on-a-steep-discount-grab-yours-at-just-99-during-best-buys-flash-sale-insights-from-zdnet/"><u>ASUS Laptops on a Steep Discount: Grab Yours at Just $99 During Best Buy's Flash Sale - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-the-msi-steam-deck-outshine-rivals-and-conquer-the-portable-gaming-market-zdnet/"><u>Can the MSI Steam Deck Outshine Rivals and Conquer the Portable Gaming Market? [ZDNet]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-warzone-pacific-down-heres-how-to-prevent-sudden-game-shutdowns/"><u>COD: Warzone Pacific Down? Here's How to Prevent Sudden Game Shutdowns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-2-pc-version-error-resolved-now-running-smoothly/"><u>Destiny 2 PC Version Error Resolved - Now Running Smoothly</u></a></li>
+<li><a href="https://facebook.techidaily.com/dissecting-the-meanings-behind-facebooks-latest-page-label-modifications/"><u>Dissecting the Meanings Behind Facebook's Latest Page Label Modifications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-investing-in-a-portable-display-device-wise-discover-the-top-benefits-and-choices-explained-by-tech-experts-at-zdnet/"><u>Is Investing in a Portable Display Device Wise? Discover the Top Benefits and Choices Explained by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/smart-value-meets-performance-in-dells-hidden-gem-laptop-reviewed-ingenious-tech-without-the-hefty-price-tag/"><u>Smart Value Meets Performance in Dell's Hidden Gem Laptop Reviewed : Ingenious Tech without the Hefty Price Tag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-budget-friendly-laptops-including-models-from-lenovo-hp-asus-and-others-featured-on-zdnet/"><u>Top Budget-Friendly Laptops : Including Models From Lenovo, HP, Asus & Others - Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-unbeatable-laptop-promotions-in-july-2024-discovered/"><u>Top Picks: Unbeatable Laptop Promotions in July 2024 - Discovered</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unpacking-the-twelve-south-compass-pro-designed-for-unwavering-precision/"><u>Unpacking the Twelve South Compass Pro - Designed for Unwavering Precision</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-how-to-reverting-microsoft-windows-audio-configuration-to-factory-settings/"><u>ZDNet's How-To: Reverting Microsoft Windows Audio Configuration to Factory Settings</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->

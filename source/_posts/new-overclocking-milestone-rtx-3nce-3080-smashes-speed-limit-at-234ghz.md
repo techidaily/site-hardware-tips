@@ -1,7 +1,7 @@
 ---
 title: "New Overclocking Milestone: RTX 3Nce 3080 Smashes Speed Limit at 2.34GHz!"
-date: 2024-08-19T02:33:13.765Z
-updated: 2024-08-20T02:33:13.765Z
+date: 2025-01-26T16:18:01.632Z
+updated: 2025-02-01T19:44:47.626Z
 tags:
   - overclocking
 categories:
@@ -29,6 +29,10 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
 
  Meanwhile, makers of memory modules for client PCs can also take advantage of this capability and equip their DIMMs with sophisticated VRMs and PMICs to amplify performance, differentiate from rivals, and maximize overclocking potential.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,6 +49,10 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
 
 ![Galax](https://cdn.mos.cms.futurecdn.net/rPUC35ad3cZ9mw5hsJzTsD-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Galax)
 
 <ins class="adsbygoogle"
@@ -53,8 +61,6 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +68,18 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-ways-to-record-live-sports-streaming/"><u>[New] Best Ways to Record Live Sports Streaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-az-screenscape-full-application-review-alternatives/"><u>[Updated] 2024 Approved AZ Screenscape Full Application Review, Alternatives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimal-tools-macs-best-video-grabber-software-guide-for-2024/"><u>[Updated] Optimal Tools Mac's Best Video Grabber Software Guide for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-swipe-right-on-creativity-youtubes-top-techniques-for-greenscreens/"><u>2024 Approved Swipe Right on Creativity YouTube’s Top Techniques for Greenscreens</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726029148775-iphonedvd/"><u>IPhone上で最適なDVD視聴＆再生テクニック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/safari-cannot-open-the-page-easy-fix/"><u>Safari Cannot Open the Page [Easy Fix]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-premium-capabilities-on-your-roku-device-at-no-cost-discover-how-herezdnet/"><u>Unlock Exclusive Premium Capabilities on Your Roku Device at No Cost - Discover How Here![ZDNET]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-savings-on-black-friday-2022-find-the-hottest-deals-at-ideal-venues-expert-tips-by-zdnet/"><u>Unlocking Savings on Black Friday 2022! Find the Hottest Deals at Ideal Venues | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmatched-audio-experience-discover-the-ultimate-non-sony-non-bose-soundbar-recommended-by-tech-guru-on-zdnet/"><u>Unmatched Audio Experience: Discover the Ultimate Non-Sony, Non-Bose Soundbar Recommended by Tech Guru on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-ultimate-guide-to-viewing-the-super-bowl-liv-across-all-online-platforms-zdnet/"><u>Your Ultimate Guide to Viewing the Super Bowl LIV Across All Online Platforms - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-picks-for-the-ultimate-roku-tv-selection-in-2er-2024-comprehensive-expert-ratings/"><u>ZDNet's Picks for the Ultimate Roku TV Selection in 2Er 2024: Comprehensive Expert Ratings</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

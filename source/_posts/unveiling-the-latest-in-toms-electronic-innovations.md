@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest in Tom's Electronic Innovations
-date: 2024-08-19T02:34:23.274Z
-updated: 2024-08-20T02:34:23.274Z
+date: 2025-01-31T16:48:18.995Z
+updated: 2025-02-01T17:15:01.485Z
 tags:
   - ssd
 categories:
@@ -42,6 +42,10 @@ NEM-PA8TB  (Image credit: Nextorage)
 
  The NEM-PA8TB is already available on[Amazon](https://tools.techidaily.com) for[$849.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CTGTNSDX%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1185771451787124906-20) . The vanilla NE1N8TB, however, hasn't gone up at any U.S. retailers. In Japan, the NEM-PA8TB costs[2,000 yen](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1271651936150678199&xs=1&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CTGV11V4%3Fth%3D1&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fssds%2Fnextorage-launches-8tb-ssd-for-pc-gamers-and-ps5-owners-dollar849-for-8tb-of-storage-at-7300-mbs) more than the NE1N8TB, which is around $13.34\. Therefore, the NE1N8TB could retail for about the $836.65 mark.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,8 +60,6 @@ NEM-PA8TB  (Image credit: Nextorage)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -65,8 +67,20 @@ NEM-PA8TB  (Image credit: Nextorage)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-from-raw-footage-to-stunning-visuals-using-luts-in-obs-studio-for-2024/"><u>[New] From Raw Footage to Stunning Visuals Using LUTs in OBS Studio for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-uncovering-8-affordable-platform-agnostic-virtual-communication-tools/"><u>[Updated] 2024 Approved Uncovering 8 Affordable, Platform-Agnostic Virtual Communication Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-crafting-an-iconic-identity-on-instagram-with-these-9-tricks/"><u>[Updated] Crafting an Iconic Identity on Instagram with These 9 Tricks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/5-easy-free-methods-to-master-youtube-video-frames-for-2024/"><u>5 Easy, Free Methods to Master YouTube Video Frames for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/boost-your-facebook-profile-select-8-apps-with-highest-like-potential/"><u>Boost Your Facebook Profile Select 8 Apps with Highest Like Potential</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chromebooks-redefined-with-a-decade-of-life-expectancy-googles-latest-innovation-unveiled-insights/"><u>Chromebooks Redefined with a Decade of Life Expectancy - Google's Latest Innovation Unveiled Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceptional-longevity-and-breathtaking-display-make-this-laptop-stand-out-zdnets-picks/"><u>Exceptional Longevity & Breathtaking Display Make This Laptop Stand Out (ZDNet's Picks)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maxs-spotlight-the-best-documentaries-featuring-him-in-july-2024/"><u>Max's Spotlight: The Best Documentaries Featuring Him in July 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-your-laptops-charging-woes-with-a-budget-friendly-30-usb-hub-insights/"><u>Say Goodbye to Your Laptop's Charging Woes with a Budget-Friendly $30 USB Hub | Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/searching-for-windows-hello-camera-fit/"><u>Searching for Windows Hello Camera Fit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-tech-expenses-the-remarkable-50-gadget-that-saves-big-bucks-insights/"><u>Slash Your Tech Expenses: The Remarkable $50 Gadget That Saves Big Bucks – Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-revolutionary-m3-macbook-air-from-apple-bringing-ai-accessibility-to-everyday-users-tech-insights-by-zdnet/"><u>The Revolutionary M3 MacBook Air From Apple - Bringing AI Accessibility to Everyday Users | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-displays-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Portable Displays : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

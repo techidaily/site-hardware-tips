@@ -1,7 +1,7 @@
 ---
 title: Liquid Nitrogen Cooling Enables Record-Setting Runs with Overclocked Ryzen Processor
-date: 2024-08-19T02:33:32.074Z
-updated: 2024-08-20T02:33:32.074Z
+date: 2025-01-25T20:38:46.389Z
+updated: 2025-02-01T16:24:13.526Z
 tags:
   - overclocking
 categories:
@@ -29,6 +29,10 @@ Just days after AMD released its new memory-enhancing AGESA 1.0.0.7b update, HiC
 
  If overclockers continue to push memory overclocks like this with AMD's new AGESA microcode update, this may be the first real competition we've seen from AMD regarding memory overclocking. Past AMD Ryzen architectures have always had[inferior memory overclocking performance](https://tools.techidaily.com) , due to the hardware limitations of their memory controllers, compared to Intel. But now it seems like the tables may be turning, and AMD may even have the better-performing memory controller. We'll know this soon enough if memory overclockers start breaking[DDR5 frequency world records](https://tools.techidaily.com) on AMD hardware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Just days after AMD released its new memory-enhancing AGESA 1.0.0.7b update, HiC
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,24 @@ Just days after AMD released its new memory-enhancing AGESA 1.0.0.7b update, HiC
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-navigating-away-from-youtube-penalties/"><u>[New] 2024 Approved Navigating Away From YouTube Penalties</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-android-mastery-for-virtual-reality-and-panoramic-videos/"><u>2024 Approved Android Mastery for Virtual Reality & Panoramic Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-between-iphone-16-and-iphone-15-key-features-for-the-latest-generation-zdnet/"><u>Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-43-sets-expert-ratings-and-comparison-of-leading-tvs/"><u>Discover the Top 43 Sets: Expert Ratings & Comparison of Leading TVs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-black-friday-promotions-of-2022-exclusive-insights-and-location-guide/"><u>Discover Top Black Friday Promotions of 2022 - Exclusive Insights & Location Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-audio-excellence-beyond-giants-how-a-new-soundbar-outshone-bose-and-sony-on-zdnet/"><u>Discovering Audio Excellence Beyond Giants: How a New Soundbar Outshone Bose & Sony on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mg2522-printer-drivers-latest-version/"><u>Download Canon PIXMA MG2522 Printer Drivers - Latest Version</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exciting-upgrade-alert-unlock-your-roku-tvs-latest-complimentary-enhancement/"><u>Exciting Upgrade Alert: Unlock Your Roku TV's Latest Complimentary Enhancement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/extended-ai-enhanced-software-support-for-a-decade-samsungs-revolutionary-tv-upgrades/"><u>Extended AI-Enhanced Software Support for a Decade - Samsung's Revolutionary TV Upgrades</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/fixing-photo-booth-lags-for-smoother-playbacks/"><u>Fixing Photo Booth Lags for Smoother Playbacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flagship-face-off-in-depth-comparison-of-lg-g3-and-samsung-s-cuisine-s95c-for-cutting-edge-viewing-smart-home-hub/"><u>Flagship Face-Off: In-Depth Comparison of LG G3 and Samsung S Cuisine S95C for Cutting-Edge Viewing | Smart Home Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-secure-your-premium-amazon-fire-tv-omnia-qled-for-60-off-limited-time-only-zdnet/"><u>Huge Discount Alert: Secure Your Premium Amazon Fire TV Omnia QLED for 60% Off – Limited Time Only | ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-s24plus-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy S24+ Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-special-how-lg-outperforms-samsung-g2-in-3-key-areas-for-its-mini-led-tv-plus-a-huge-300-savings-announced-on-zdnet/"><u>Labor Day Special: How LG Outperforms Samsung G2 in 3 Key Areas for Its Mini LED TV – Plus a Huge $300 Savings Announced on ZDNET</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tailored-tricks-building-a-personalized-youtube-follow-buttons-for-2024/"><u>Tailored Tricks Building a Personalized YouTube Follow Buttons for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tango-dancing-devices-androidwindows-synchro/"><u>Tech Tango: Dancing Devices - Android/Windows Synchro</u></a></li>
+<li><a href="https://win11.techidaily.com/the-offline-path-to-windows-11-success/"><u>The Offline Path to Windows 11 Success</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->

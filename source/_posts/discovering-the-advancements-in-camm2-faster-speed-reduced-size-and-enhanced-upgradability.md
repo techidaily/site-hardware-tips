@@ -1,7 +1,7 @@
 ---
 title: "Discovering the Advancements in CAMM2: Faster Speed, Reduced Size & Enhanced Upgradability!"
-date: 2024-08-19T02:38:49.989Z
-updated: 2024-08-20T02:38:49.989Z
+date: 2025-01-28T20:48:15.948Z
+updated: 2025-02-01T16:53:58.904Z
 tags:
   - motherboards
 categories:
@@ -18,6 +18,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 ## Where did CAMM2 come from?
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
@@ -37,6 +41,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  On the desktop, the benefits are less about upgradeability, as no one has been soldering RAM to enthusiast PC motherboards. On the one hand, the lack of bulky DIMMs is an aesthetic improvement. It also means that you don't have to worry about the height of your RAM when you install one of the[best CPU coolers](https://tools.techidaily.com) . That said, the boards we saw at Computex only had a single CAMM2 memory slot, so an upgrade would require replacing all of your RAM when swapping your CAMM2 RAM.
@@ -48,15 +56,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,20 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>2024 Approved Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-2024-exclusive-deals-on-top-nvidia-powered-gaming-laptops-spotlight-from-zdnet/"><u>Amazon Prime Day 2024: Exclusive Deals on Top Nvidia-Powered Gaming Laptops - Spotlight From ZDNet</u></a></li>
+<li><a href="https://fox-search.techidaily.com/de-inleiding-voor-non-initiaal-disk-fabrication-simpel-maak-het-zelf/"><u>De Inleiding Voor Non-Initiaal Disk Fabrication - Simpel Maak Het Zelf!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-presidents-holiday-promo-save-300-on-2023-m2-macbook-pro-now-special-deals-spotted/"><u>Don't Miss Out! Presidents' Holiday Promo: Save $300 on 2023 M2 MacBook Pro Now | Special Deals Spotted</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/epic-anime-quotes-and-phrases-for-viral-tiktok-challenges-for-2024/"><u>Epic Anime Quotes & Phrases for Viral TikTok Challenges for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deals-top-performing-nvidia-powered-gaming-notebooks-slashed-in-price-during-the-much-anticipated-amazon-prime-day-2024-detailed-analysis/"><u>Exclusive Deals: Top-Performing Nvidia-Powered Gaming Notebooks Slashed in Price During the Much Anticipated Amazon Prime Day 2024 - Detailed Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-moto-g-stylus-5g-2023-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Motorola Moto G Stylus 5G (2023) to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/odessa-welcomes-second-civilian-transport-amid-rising-tensions-russia-highlights-potential-military-threats-says-yl-software-analysis/"><u>Odessa Welcomes Second Civilian Transport Amid Rising Tensions; Russia Highlights Potential Military Threats, Says YL Software Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-sale-extravaganza-snatch-up-the-hp-victus-15-game-master-for-a-steal-at-515-with-best-buys-anti-prime-deals-unveiled-on-zdnet/"><u>Prime Sale Extravaganza: Snatch Up the HP Victus 15 Game Master for a Steal at $515 with Best Buy’s Anti-Prime Deals – Unveiled on ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-definitive-10-screenshot-boosters-with-stickers-on-iphones-and-androids-for-2024/"><u>The Definitive 10 Screenshot Boosters with Stickers on iPhones & Androids for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-durable-and-sturdy-laptops-expert-picks/"><u>Top Durable and Sturdy Laptops : Expert Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-ai-via-vivetool-instructions/"><u>Unlock Windows AI via ViveTool Instructions</u></a></li>
+</ul></div>
 

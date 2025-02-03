@@ -1,7 +1,7 @@
 ---
 title: "Gigabyte Unveils Motherboard for Giant 128Lb Graphics Cards: Is It Enough to Prevent Notorious PCB Damage?"
-date: 2024-08-19T02:37:34.353Z
-updated: 2024-08-20T02:37:34.353Z
+date: 2025-01-31T16:27:18.558Z
+updated: 2025-02-01T17:25:23.595Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,26 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-steps-to-eliminate-the-obs-blank-screens-in-gaming-setup/"><u>[New] 2024 Approved Steps to Eliminate the OBS Blank Screens in Gaming Setup</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-4k-visual-excellence-selecting-between-screen-types/"><u>[New] In 2024, 4K Visual Excellence Selecting Between Screen Types</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-growing-greatness-valheims-finest-sprouts-selection/"><u>[Updated] Growing Greatness Valheim's Finest Sprouts Selection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-is-active-presenter-8-the-champion-of-screen-capture-for-2024/"><u>[Updated] Is Active Presenter 8 the Champion of Screen Capture for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-selection-of-live-streaming-cameras-in-depth-analysis-and-ratings-zdnet/"><u>2024'S Ultimate Selection of Live Streaming Cameras: In-Depth Analysis and Ratings | ZDNET</u></a></li>
+<li><a href="https://article-helps.techidaily.com/constructing-the-ideal-setup-for-advanced-4k-video-production/"><u>Constructing the Ideal Setup for Advanced 4K Video Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-gamer-discount-slash-your-budget-by-350-on-alienware-aurora-r13-detailed-review-and-offer-info/"><u>Exclusive Gamer Discount: Slash Your Budget by $350 on Alienware Aurora R13 – Detailed Review & Offer Info</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-best-alternatives-to-dell-and-lenovo-for-your-office-setup-recommends-a-2-in-1/"><u>Expert Advice: Best Alternatives to Dell and Lenovo for Your Office Setup Recommends a 2-In-1</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-high-speed-8tb-samsung-t5-nvme-drive-for-less-than-half-price-on-amazon-zdnet/"><u>Get Your Hands On The High-Speed 8TB Samsung T5 NVMe Drive for Less Than Half Price on Amazon | ZDNET</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-narzo-n53-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme Narzo N53 FRP?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-x6-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo Find X6 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 40 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newly-declared-obsolete-apple-updates-its-mac-model-catalog-implications-explored/"><u>Newly Declared Obsolete: Apple Updates Its Mac Model Catalog – Implications Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-2024s-top-save-opportunities-at-best-buy-exclusive-offers-in-store/"><u>Prime Day 2024'S Top Save Opportunities at Best Buy - Exclusive Offers in Store!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/smooth-media-transfer-twitvideos-to-whatsapp-guide-for-2024/"><u>Smooth Media Transfer TwitVideos to WhatsApp Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-prime-day-gaming-bargains-exclusive-offers-to-grab-before-halloween-2024-zdnet/"><u>Top Prime Day Gaming Bargains: Exclusive Offers to Grab Before Halloween 2024 - ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-save-big-on-cyber-monday-with-these-98-hot-deals-in-2e22/"><u>Ultimate List: Save Big on Cyber Monday with These 98 Hot Deals in 2E22!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-the-power-of-organic-youtube-growth-2-ways-for-2024/"><u>Unlock the Power of Organic YouTube Growth (2 Ways) for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-hp-spectre-x3e-is-dominating-my-list-of-must-have-laptops-review/"><u>Why the HP Spectre X3e Is Dominating My List of Must-Have Laptops Review</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

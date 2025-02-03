@@ -1,7 +1,7 @@
 ---
 title: Next-Gen PC Enthusiasts, Meet the Game-Changing AMD Ryzen 9000 Boards From ASRock
-date: 2024-08-19T02:37:42.976Z
-updated: 2024-08-20T02:37:42.976Z
+date: 2025-01-27T16:48:28.808Z
+updated: 2025-02-01T20:43:53.089Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,18 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>[New] Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-harness-mematic-for-efficient-note-taking/"><u>[Updated] In 2024, Harness Mematic for Efficient Note-Taking</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-record-assistant-az-audits-and-substitutes/"><u>2024 Approved Ultimate Record Assistant - AZ Audits & Substitutes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-pagewide-pro-477dw-drivers-secure-and-easy-installation-guide-for-windows-11-10-and-8/"><u>HP PageWide Pro 477DW Drivers: Secure and Easy Installation Guide for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-review-of-the-samsung-qn55q6f-the-ultimate-4k-hdr-smart-television/"><u>In-Depth Review of the Samsung QN55Q6F: The Ultimate 4K HDR Smart Television</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-revolutionary-upgrade-lenovo-enhances-essential-functionality-in-latest-2-in-1-thinkpad-for-professionals-insights-from-zdnet/"><u>Introducing the Revolutionary Upgrade: Lenovo Enhances Essential Functionality in Latest 2-in-1 ThinkPad for Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-desk-setup-with-our-latest-12-in-1-thunderbolt-dock-now-with-a-game-changing-power-feature-perfectly-tailored-for-windows-users/"><u>Revolutionize Your Desk Setup with Our Latest 12-in-1 Thunderbolt Dock, Now With a Game-Changing Power Feature Perfectly Tailored for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-notch-laptop-bargains-in-july-2024-your-ultimate-guide-featuring-insights-from-zdnet/"><u>Top Notch Laptop Bargains in July 2024: Your Ultimate Guide - Featuring Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-enhanced-productivity-with-our-picked-lenovo-laptop-for-hybrid-jobs-available-now-at-1000-less-insights-from-zdnet/"><u>Unlock Enhanced Productivity with Our Picked Lenovo Laptop for Hybrid Jobs, Available Now at $1,000 Less | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-october-game-discounts-for-black-friday-2024/"><u>Unlock Exclusive October Game Discounts for Black Friday 2024 !</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-comparison-proton-vpn-versus-nordvpn-determining-the-superior-choice/"><u>ZDNet Comparison: Proton VPN Versus NordVPN - Determining the Superior Choice</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->

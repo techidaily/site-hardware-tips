@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down the Issue with MSI Z790 Boards: Cracked Chipsets & Affected Units Amid Possible Assembly Fault (New Developments)"
-date: 2024-08-19T02:36:02.360Z
-updated: 2024-08-20T02:36:02.360Z
+date: 2025-01-31T17:46:00.024Z
+updated: 2025-02-01T16:32:06.307Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,10 +74,22 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-immediate-gif-to-video-conversion-top-5-free-websites/"><u>[Updated] Immediate GIF-to-Video Conversion, Top 5 Free Websites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-linux-screenshot-the-most-acclaimed-applications-for-2024/"><u>[Updated] Linux Screenshot The Most Acclaimed Applications for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-top-rated-15-inch-laptop-picks-for-2-comprehensive-guide-experts-choice-the-ultimate-list-of-2024s-best-15-notebook-computers-reviewed/"><u>1: Top Rated 15-Inch Laptop Picks for 2# Comprehensive Guide: Experts' Choice - The Ultimate List of 2024’S Best 15 Notebook Computers Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-gaming-laptops-in-depth-analysis-and-comparisons-from-industry-leaders-like-razer-acer-and-msi-zdnet-insights/"><u>Best of the Best Gaming Laptops : In-Depth Analysis and Comparisons From Industry Leaders Like Razer, Acer, and MSI | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-scoop-on-the-ultimate-15-inch-notebooks-of-2024-authoritative-assessments-and-rankings-zdnet/"><u>Exclusive Scoop on the Ultimate 15-Inch Notebooks of 2024: Authoritative Assessments & Rankings | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-versatility-of-lenovos-new-dual-mode-windows-and-android-laptop-a-promising-innovation/"><u>Exploring the Versatility of Lenovo's New Dual-Mode Windows & Android Laptop - A Promising Innovation</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-film-conversion-blueprints-to-mp3-formats-for-2024/"><u>Insta Film Conversion Blueprints to MP3 Formats for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/journey-in-style-canons-powershot-g9x-mark-ii-reviewed/"><u>Journey in Style – Canon's PowerShot G9X Mark II Reviewed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mount-and-blade-2-bannerlord-crashes-solved-step-by-step-fix-guide/"><u>Mount & Blade 2: Bannerlord Crashes Solved – Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-premium-audio-transformation-tool-free-mp3-creation-from-mpa-files/"><u>New Premium Audio Transformation Tool Free MP3 Creation From MPA Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steal-with-hp-victus-15-laptop-for-gamers-price-slashed-to-530-at-best-buy-tech-news-by-zdnet/"><u>Score a Steal with HP Victus 15 Laptop for Gamers - Price Slashed to $530 at Best Buy | Tech News by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-power-banks-for-macbook-pro-find-your-best-match-today/"><u>Top Recommended Power Banks for MacBook Pro: Find Your Best Match Today!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unleash-your-creativity-the-leading-phone-apps-for-image-stickers-for-2024/"><u>Unleash Your Creativity The Leading Phone Apps for Image Stickers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-potential-of-cloud-gaming-on-lenovo-ideapad-chromebooks-a-comprehensive-review-focusing-on-hardware-efficacy-by-tech-expert-at-zdnet/"><u>Unveiling the Potential of Cloud Gaming on Lenovo IdeaPad Chromebooks: A Comprehensive Review Focusing on Hardware Efficacy by Tech Expert at ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Most Unbeatable Cyber Monday Discounts for 202#: Expert Picks by ZDNet"
-date: 2025-01-20T00:23:05.990Z
-updated: 2025-01-24T18:01:19.895Z
+date: 2025-01-30T16:38:13.430Z
+updated: 2025-02-01T18:59:22.006Z
 tags:
   - laptops
 categories:
@@ -130,10 +130,6 @@ ZDNET
 * [Gran Turismo 7 standard edition for $41 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGran-Turismo-7-PlayStation-5%2F443954076%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The definitive racing sim is back on PS5 with an all-new solo campaign, over 420 cars to unlock, and over 90 tracks to master.
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d6a7a4b-7078-4dcf-80e0-2c2bf8a0d6dd%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -152,10 +148,6 @@ ZDNET
 * [Dragon's Dogma 2 standard edition for $44 (save $12 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d6a7a4b-7078-4dcf-80e0-2c2bf8a0d6dd%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -179,6 +171,10 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $66 (save $14 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -195,7 +191,7 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
@@ -236,22 +232,26 @@ Samsung/ZDNET
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $810 (save $114 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -322,24 +322,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-step-up-and-snap-top-10-must-try-viral-tiktok-stunts/"><u>[New] 2024 Approved Step Up and Snap Top 10 Must-Try Viral TikTok Stunts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unlock-the-secrets-for-a-viral-instagram-account-gain-fans-and-verified-status-in-less-than-150-characters/"><u>[New] In 2024, Unlock the Secrets for a Viral Instagram Account Gain Fans and Verified Status in Less Than 150 Characters</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-who-wins-in-the-battle-of-hero-v5-vs-km-170-in-2024/"><u>[New] Who Wins in the Battle of HERO V5 vs KM-170, In 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-powerhouse-modifications-top-10-os-xwin-srt-systems-unveiled/"><u>[Updated] Powerhouse Modifications Top 10 OS X/Win SRT Systems Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/assessing-cell-phones-carbon-footprint-effective-strategies-for-a-greener-future/"><u>Assessing Cell Phone's Carbon Footprint: Effective Strategies for a Greener Future</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/building-an-eco-friendly-tomorrow-navigating-the-tech-landscapes-green-transformation-with-zdnet/"><u>Building an Eco-Friendly Tomorrow: Navigating the Tech Landscape's Green Transformation with ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/climate-crisis-countermeasures-how-five-breakthrough-technologies-offer-hope-for-a-greener-future-analysis-by-zdnet/"><u>Climate Crisis Countermeasures: How Five Breakthrough Technologies Offer Hope for a Greener Future | Analysis by ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-keeping-your-ipad-free-from-youtube-distractions/"><u>Comprehensive Guide: Keeping Your iPad Free From YouTube Distractions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/could-the-revolutionary-bike-suv-transform-your-commute-and-ditch-the-need-for-a-traditional-vehicle-discover-how-in-our-exclusive-analysis/"><u>Could the Revolutionary Bike SUV Transform Your Commute, and Ditch the Need for a Traditional Vehicle? Discover How in Our Exclusive Analysis!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/creating-a-greener-future-with-tech-top-5-sustainability-tips-by-experts-at-zdnet/"><u>Creating a Greener Future with Tech: Top 5 Sustainability Tips by Experts at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/demystifying-the-right-to-repair-movement-how-it-benefits-users-and-why-you-should-care-digital-world-today/"><u>Demystifying the Right to Repair Movement: How It Benefits Users and Why You Should Care | Digital World Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-how-many-pounds-of-co2-youve-prevented-by-using-uber-unveiling-the-new-emissions-savings-monitor/"><u>Discover How Many Pounds of CO2 You've Prevented by Using Uber – Unveiling the New Emissions Savings Monitor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dynamic-car-insurance-pricing-based-on-real-time-driving-behavior-insights-from-zdnet/"><u>Dynamic Car Insurance Pricing Based on Real-Time Driving Behavior - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/eco-friendly-smart-stickies-how-rocketbooks-innovative-solution-is-changing-note-taking-zdnet/"><u>Eco-Friendly Smart Stickies: How Rocketbook's Innovative Solution Is Changing Note-Taking | ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-reno-8t-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo Reno 8T in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-dreamlight-valleys-pc-crashing-problem-discover-6-reliable-fixes/"><u>Overcoming Dreamlight Valley's PC Crashing Problem: Discover 6 Reliable Fixes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/todas-las-tecnicas-para-reducir-el-tamano-de-su-archivo-video-mkv-sin-coste/"><u>Todas Las Técnicas Para Reducir El Tamaño De Su Archivo Video MKV Sin Coste</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-total-spend-on-a-single-youtubers-ads/"><u>[Updated] In 2024, Total Spend on a Single Youtuber's Ads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1000-discount-on-the-ideal-lenovo-laptop-for-hybrid-work-environments-top-pick-by-zdnet/"><u>$1,000 Discount on the Ideal Lenovo Laptop for Hybrid Work Environments: Top Pick by ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-pop-7-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choose-the-ultimate-laptop-stand-expert-reviews-and-picks/"><u>Choose the Ultimate Laptop Stand : Expert Reviews & Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-unbeatable-prime-day-laptop-discounts-for-october-2024-smart-shopping/"><u>Exclusive Guide: Unbeatable Prime Day Laptop Discounts for October 2024 | Smart Shopping</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-testing-results-how-dell-revolutionized-my-gameplay-with-their-exceptional-3k-laptop/"><u>Exclusive Testing Results: How Dell Revolutionized My Gameplay with Their Exceptional $3K Laptop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/freshly-updated-logitech-g403-driver-downloads-for-windows-users/"><u>Freshly Updated Logitech G403 Driver Downloads for Windows Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-huawei-nova-y71-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Huawei Nova Y71 Phone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-transforming-ordinary-moments-into-viral-instagram-reels/"><u>In 2024, Transforming Ordinary Moments Into Viral Instagram Reels</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-nokia-c12-plus-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Nokia C12 Plus? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/managing-enterprise-devices-with-the-new-apple-vision-pro-an-in-depth-look/"><u>Managing Enterprise Devices with the New Apple Vision Pro: An In-Depth Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-exclusive-pre-prime-day-deals-unveiled-for-2er-2024-zdnets-shoppers-handbook/"><u>Maximize Savings: Exclusive Pre-Prime Day Deals Unveiled for 2Er 2024 | ZDNET's Shopper's Handbook</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-5-free-avi-video-editors/"><u>New 2024 Approved Top 5 Free AVI Video Editors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steal-with-refurbished-macbook-air-save-up-to-80-off-the-latest-133-models-exclusive-deals-on-zdnet/"><u>Score a Steal with Refurbished MacBook Air: Save up to 80% Off the Latest 13.3 Models – Exclusive Deals on ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-benefits-of-choosing-a-chromebook-the-ideal-pick-for-users-everywhere-insights/"><u>Top 6 Benefits of Choosing a Chromebook: The Ideal Pick for Users Everywhere - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-office-essential-2-in-1-laptops-beyond-dell-and-lenovo-thinkpads-featuring-comprehensive-review-by-zdnet/"><u>Top Pick: Office Essential 2-in-1 Laptops - Beyond Dell and Lenovo ThinkPads, Featuring Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-bluetooth-audio-jitter-when-using-windows-11-systems/"><u>Troubleshooting Bluetooth Audio Jitter When Using Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-release-discover-the-features-of-chromebook-x-googles-premier-new-laptop-series-revealed-by-zdnet/"><u>Upcoming Release: Discover the Features of Chromebook X - Google's Premier New Laptop Series Revealed by ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi 14? | Dr.fone</u></a></li>
 </ul></div>
 

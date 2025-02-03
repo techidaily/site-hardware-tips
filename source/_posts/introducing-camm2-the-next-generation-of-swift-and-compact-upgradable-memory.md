@@ -1,7 +1,7 @@
 ---
 title: "Introducing CAMM2: The Next Generation of Swift and Compact Upgradable Memory"
-date: 2024-08-19T02:36:58.708Z
-updated: 2024-08-20T02:36:58.708Z
+date: 2025-01-25T17:28:40.610Z
+updated: 2025-02-01T17:26:53.243Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,24 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-beat-bringers-sourcing-premium-dj-visuals/"><u>[New] 2024 Approved Beat Bringers Sourcing Premium DJ Visuals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unearthly-utility-top-five-terrafirma-maps-for-2024/"><u>[New] Unearthly Utility Top Five Terrafirma Maps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-exclusive-deal-alert-apple-m2-powered-macbook-air-at-a-steal-just-749-during-amazons-biggest-shopping-event-of-the-year/"><u>1. Exclusive Deal Alert: Apple M2-Powered MacBook Air at a Steal - Just $749 During Amazon’s Biggest Shopping Event of the Year!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/macmovavi-screen-recorder/"><u>步驟分明：在Mac上利用Movavi Screen Recorder記錄螢幕教學</u></a></li>
+<li><a href="https://win-community.techidaily.com/windowssata-ssd/"><u>易于理解的方法：如何在不花钱的情况下，快速在Windows系统下完成SATA 转换为SSD的克隆任务</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/epic-deals-alert-snag-the-hp-victus-15-gaming-laptop-for-just-515-exclusively-on-prime-day-at-best-buy-s-inside-look/"><u>Epic Deals Alert! Snag the HP Victus 15 Gaming Laptop for Just $515 - Exclusively on Prime Day at Best Buy 'S Inside Look</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-single-frame-solo-shot-extracting-visual-elements-from-windows-10-videos/"><u>In 2024, Single Frame, Solo Shot Extracting Visual Elements From Windows 10 Videos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-video-games-discover-6-essential-ways-to-utilize-chatgpt-as-a-scriptwriter/"><u>Revolutionize Your Video Games: Discover 6 Essential Ways to Utilize ChatGPT as a Scriptwriter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-gaming-in-octobers-exclusive-deal-extravaganza-seize-your-chance-to-snag-discounts-up-to-1000-dont-miss-out-zdnet/"><u>Save Big on Gaming in October's Exclusive Deal Extravaganza! Seize Your Chance to Snag Discounts up to $1000 – Don’t Miss Out | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/shop-smart-this-black-friday-unbeatable-price-on-touchscreen-hp-envy-x360-now-just-499-zdnet-shop/"><u>Shop Smart This Black Friday: Unbeatable Price on Touchscreen HP Envy X360 - Now Just $499 | ZDNET Shop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tangle-troubles-no-more-the-revolutionary-usb-c-cord-that-transformed-my-backpack-adventures-zdnet-insights/"><u>Tangle Troubles No More: The Revolutionary USB-C Cord that Transformed My Backpack Adventures | ZDNet Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-musicians-manual-to-copyright-navigation-on-instagram/"><u>The Musician's Manual to Copyright Navigation on Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-prime-day-offer-get-metas-512gb-quest-3-for-a-steal-exclusive-details-on-enduring-virtual-reality-bargains-technews/"><u>Top October Prime Day Offer: Get Meta's 512GB Quest 3 for a Steal – Exclusive Details on Enduring Virtual Reality Bargains | TechNews</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-streaming-and-uploading-mp4-videos-to-your-xbox-one-via-usb-or-pc/"><u>Ultimate Guide: Streaming and Uploading MP4 Videos to Your Xbox One via USB or PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-portability-meets-power-discovering-the-worlds-compact-and-multifunctional-chromebook-insights-from-zdnet/"><u>Ultimate Portability Meets Power: Discovering The World's Compact and Multifunctional ChromeBook - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-amazon-prime-day-offers-in-october-2024-exclusive-deals-you-cant-miss-zdnet/"><u>Unbeatable Amazon Prime Day Offers in October 2024 – Exclusive Deals You Can't Miss! | ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Gigabyte Announces AMD Ryzen 9000 Series Rebranding with Zen 5 Chipset: Beta BIOS Tested on 500-Series Mobos"
-date: 2024-08-19T02:38:20.281Z
-updated: 2024-08-20T02:38:20.281Z
+date: 2025-01-29T19:31:28.001Z
+updated: 2025-02-01T16:33:41.919Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,24 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-crafting-your-perfect-minecraft-shelter/"><u>[New] In 2024, Crafting Your Perfect Minecraft Shelter</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exclusive-insight-into-selecting-the-top-5-digital-title-makers/"><u>[Updated] 2024 Approved Exclusive Insight Into Selecting the Top 5 Digital Title Makers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-become-a-whatsapp-pro-with-these-tricks-and-tips/"><u>[Updated] In 2024, Become a WhatsApp Pro with These Tricks and Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-directordocks-overview-detailed-reviews/"><u>[Updated] In 2024, DirectorDocks Overview – Detailed Reviews</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visionedit-pro/"><u>[Updated] VisionEdit Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-lenovo-ideapad-gaming-chromebook-unveiled-exploring-the-real-limits-of-cloud-based-gaming-performance-insights-from-zdnet/"><u>1. Lenovo IdeaPad Gaming Chromebook Unveiled: Exploring the Real Limits of Cloud-Based Gaming Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-14-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 14 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/improving-graphic-performance-on-your-pc-essential-tips-and-tricks-insights-by-yl-computing/"><u>Improving Graphic Performance on Your PC: Essential Tips and Tricks - Insights by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intensive-review-the-dell-xps-14-a-must-have-tech-gadget-feedback-from-zdnet/"><u>Intensive Review: The Dell XPS 14 - A Must-Have Tech Gadget! Feedback From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-prep-score-zdnets-top-laptop-selection-for-50-off-now-on-amazon-act-fast/"><u>Prime Day Prep: Score ZDNet's Top Laptop Selection for 50% Off Now on Amazon – Act Fast!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-battle-horns-solving-pc-audio-issues-in-valheim-game/"><u>Reviving the Battle Horns: Solving PC Audio Issues in Valheim Game</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snap-up-the-hp-victus-15-gamer-at-just-450-during-best-buys-prime-day-exclusive-offer-from-zdnet/"><u>Snap Up The HP Victus 15 Gamer at Just $450 During Best Buy's Prime Day - Exclusive Offer From ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-acer-chromebook-15-impressive-features-for-big-screen-users/"><u>The Ultimate Guide to the Acer Chromebook 15: Impressive Features for Big Screen Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-2024-prime-day-like-offers-on-laptops-exclusive-shopping-guide-by-zdnet/"><u>Top October 2024 Prime Day-Like Offers on Laptops: Exclusive Shopping Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-prime-day-video-game-bargains-of-october-2024-exclusive-offers-from-pcmag/"><u>Top Prime Day Video Game Bargains of October 2024 - Exclusive Offers From PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-work-laptop-revealed-beyond-lenovo-and-macbook-expert-review-by-zdnet/"><u>Top-Ranking Work Laptop Revealed: Beyond Lenovo and MacBook - Expert Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-picks-for-gamers-experience-the-best-audio-with-a-staggering-30-off-at-amazon/"><u>ZDNet's Ultimate Picks for Gamers: Experience the Best Audio with a Staggering 30% Off at Amazon!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->

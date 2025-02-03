@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Samsung Odyssey Neo G8 - Score It For Only $550 This Anti-Prime Day, Exclusively at Best Buy | ZDNET
-date: 2025-01-23T16:10:42.183Z
-updated: 2025-01-24T22:09:34.894Z
+date: 2025-01-26T18:42:07.842Z
+updated: 2025-02-01T16:56:07.812Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-minecraft-homestead-essentials-6-10-for-2024/"><u>[New] Minecraft Homestead Essentials #6-10 for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-guide-to-high-definition-hd-youtube-and-fb-videos/"><u>[New] The Ultimate Guide to High Definition (HD) YouTube & FB Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-dynamic-color-filters-the-ultimate-15-look-up-table-picks-for-gopro/"><u>[Updated] 2024 Approved Dynamic Color Filters The Ultimate 15 Look-Up Table Picks for GOPRO</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-behind-the-sequence-celebrating-youtubes-top-cosmetics-artists/"><u>[Updated] In 2024, Behind the Sequence Celebrating YouTube's Top Cosmetics Artists</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-8-best-free-mp3-downloader-for-android/"><u>2024 Approved 8 Best Free MP3 Downloader for Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/a-beginners-guide-to-audio-editing-in-final-cut-pro/"><u>A Beginners Guide to Audio Editing in Final Cut Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-monetization-mishaps-essential-youtube-checks-for-2024/"><u>Avoid Monetization Mishaps Essential YouTube Checks for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/surviving-extended-blackouts-with-ecoflows-innovative-battery-system-an-insightful-review-for-zdnet-readers/"><u>Surviving Extended Blackouts with EcoFlow's Innovative Battery System - An Insightful Review for ZDNet Readers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sustainable-collaboration-tools-spotlight-what-does-cisco-reveal-zdnet/"><u>Sustainable Collaboration Tools Spotlight: What Does Cisco Reveal? | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sustaining-the-next-wave-balancing-eco-friendly-tech-with-soaring-ai-energy-requirements/"><u>Sustaining the Next Wave: Balancing Eco-Friendly Tech with Soaring AI Energy Requirements</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/techniques-securitaires-pour-la-transmission-sans-faute-de-vos-bases-de-donnees-sql-vers-un-serveur-a-letranger/"><u>Techniques Sécuritaires Pour La Transmission Sans Faute De Vos Bases De Données SQL Vers Un Serveur À L'Étranger</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-unfolds-with-samsungs-latest-innovations-galaxy-s23-and-book-4-pro-analyzed-by-tech-experts-at-zdnet/"><u>The Future Unfolds with Samsung's Latest Innovations: Galaxy S23 & Book 4 Pro Analyzed by Tech Experts at ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-next-generation-revealed-how-samsungs-latest-devices-s23-and-bookpro-shape-our-technological-destiny-zdnet/"><u>The Next Generation Revealed: How Samsung's Latest Devices, S23 and BookPro, Shape Our Technological Destiny | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-sawdust-into-art-a-revolutionary-3d-printing-tech-creates-beautiful-wooden-instruments-and-fixtures-zdnet/"><u>Transforming Sawdust Into Art: A Revolutionary 3D Printing Tech Creates Beautiful Wooden Instruments & Fixtures - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-deals-get-any-bestselling-weber-electric-grill-for-just-50-less-shop-now-on-zdnet/"><u>Unlock Exclusive Deals - Get Any Bestselling Weber Electric Grill for Just $50 Less! Shop Now on ZDNET.</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-10-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/winning-the-war-against-climate-catastrophe-essential-technology-advances-for-a-sustainable-future-zdnet/"><u>Winning the War Against Climate Catastrophe: Essential Technology Advances for a Sustainable Future | ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pro-tips-for-impressive-gopro-time-lapse-cinematography/"><u>[Updated] 2024 Approved Pro Tips for Impressive GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-an-invisible-window-bar/"><u>Crafting an Invisible Window Bar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exciting-unveilings-at-the-next-apple-gathering-m4-powered-mac-minis-advanced-ipads-and-smart-innovations-insights/"><u>Exciting Unveilings at the Next Apple Gathering: M4 Powered Mac Minis, Advanced iPads & Smart Innovations | Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-quality-with-this-asus-laptop-the-ultimate-alternative-to-the-macbook-revealed-pcmag-insights/"><u>Experience Unmatched Quality with This Asus Laptop: The Ultimate Alternative to the MacBook Revealed | PCMag Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-theory-to-reality-exploring-chatgpts-applications/"><u>From Theory to Reality: Exploring ChatGPT's Applications</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-efficient-use-of-vlc-for-media-creation/"><u>In 2024, Efficient Use of VLC for Media Creation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-ssd-850-evo-disk-drive-software-download/"><u>Samsung SSD 850 EVO Disk Drive Software Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-brother-hl-3170cdw-driver-setup-fast-effortless-instructions-inside/"><u>Seamless Brother HL-3170CDW Driver Setup: Fast, Effortless Instructions Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-durable-laptop-with-stunning-screen-review-techradar/"><u>Top Performing Durable Laptop with Stunning Screen Review | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-prime-day-bargains-unmissable-video-game-offers-on-zdnets-list-for-october-2024/"><u>Top Prime Day Bargains: Unmissable Video Game Offers on ZDNet's List for October 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-17-inch-laptop-picks-for-2e23-expert-reviews-from-zdnet/"><u>Top Rated 17-Inch Laptop Picks for 2E23 - Expert Reviews From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-techniques-for-rainbow-six-siege-performance-hiccups/"><u>Troubleshooting Techniques for Rainbow Six Siege Performance Hiccups</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-tips-how-to-fix-your-non-responsive-mouse-guidance-from-yl-computing/"><u>Troubleshooting Tips: How to Fix Your Non-Responsive Mouse - Guidance From YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-what-to-do-if-your-msi-ge70-rack-is-malfunctioning/"><u>Troubleshooting Tips: What To Do If Your MSI GE70 Rack Is Malfunctioning</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-recommends-find-the-perfect-gamers-acoustic-companer-at-best-buy-for-an-unparalleled-audio-experience-now-on-discount/"><u>ZDNet Recommends: Find the Perfect Gamers' Acoustic Companer at Best Buy for an Unparalleled Audio Experience, Now on Discount!</u></a></li>
 </ul></div>
 

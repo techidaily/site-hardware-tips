@@ -1,7 +1,7 @@
 ---
 title: Introducing the Innovative New GPU Slotted Mini-ITX Board From Maxsun
-date: 2024-08-19T02:36:11.833Z
-updated: 2024-08-20T02:36:11.833Z
+date: 2025-01-27T16:05:18.844Z
+updated: 2025-02-01T18:46:53.533Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,9 +74,18 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premium-hd-recorder-capabilities/"><u>[New] 2024 Approved Premium HD Recorder Capabilities</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-captivating-ig-stories-with-youtube-content/"><u>[New] In 2024, Crafting Captivating IG Stories With YouTube Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-mov-to-mpeg-4-conversion-on-win-11/"><u>[Updated] Mastering MOV to MPEG-4 Conversion on Win 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adonit-nest-usb-hub-price-slashed-your-essential-wfh-tool-at-just-65-find-out-how/"><u>Adonit Nest USB Hub Price Slashed: Your Essential WFH Tool at Just $65 - Find Out How!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-lost-in-sound-with-gamings-best-speaker-system-now-at-a-discounted-price-read-more-in-zdnets-review/"><u>Get Lost in Sound with Gaming's Best Speaker System Now At A Discounted Price! Read More In ZDNET's Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-wins-alert-settings-on-windows-11/"><u>Perfecting Wins Alert Settings on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seize-unbeatable-gaming-deals-in-october-24-last-chance-for-huge-savings-up-to-1000-exclusive-listing/"><u>Seize Unbeatable Gaming Deals in October '24: Last Chance for Huge Savings up to $1,000 Exclusive Listing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-costs-snag-the-high-end-acer-porsche-design-laptop-for-only-600-thats-200-off-find-more-details-at-zdnet/"><u>Slash Your Costs: Snag the High-End Acer Porsche Design Laptop for Only $600 - That's $200 Off! Find More Details at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-2024-prime-gaming-offers-you-cant-miss-find-them-here/"><u>Top October 2024 Prime Gaming Offers You Can't Miss - Find Them Here!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-spontaneitous-tunes-into-structured-youtube-playlists-for-2024/"><u>Transforming Spontaneitous Tunes Into Structured YouTube Playlists for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/upgrading-from-macos-monterey-to-ventura-is-the-new-version-worth-it/"><u>Upgrading From macOS Monterey to Ventura: Is the New Version Worth It?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

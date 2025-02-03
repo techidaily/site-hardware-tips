@@ -1,7 +1,7 @@
 ---
 title: 2024'S Most Advanced Gaming Motherboards Ranked by Socket Configuration & Processor Support
-date: 2024-08-19T02:38:03.805Z
-updated: 2024-08-20T02:38:03.805Z
+date: 2025-01-29T18:41:23.660Z
+updated: 2025-02-01T20:38:26.860Z
 tags:
   - motherboards
 categories:
@@ -15,9 +15,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where did CAMM2 come from?
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
@@ -48,15 +56,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,22 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-mastering-virtual-worlds-with-top-tier-game-engines-2023/"><u>[New] Mastering Virtual Worlds with Top-Tier Game Engines, 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-mcafees-new-artificial-intelligence-powered-deepfake-audio-recognizer-stand-the-test-of-time-exploring-its-dependability-on-zdnet/"><u>Can McAfee's New Artificial Intelligence-Powered DeepFake Audio Recognizer Stand the Test of Time? Exploring Its Dependability on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-hybrid-samsung-galaxy-book-pro-360-versus-microsoft-surface-pro-9-a-comparative-review-for-potential-owners/"><u>Choosing the Right Hybrid: Samsung Galaxy Book Pro 360 Versus Microsoft Surface Pro 9 - A Comparative Review for Potential Owners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-this-compact-chrome-os-device-outperforms-all-competitors-in-our-latest-tests-insights/"><u>Discover How This Compact Chrome OS Device Outperforms All Competitors in Our Latest Tests | Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-the-top-free-h265-encoded-uhd-media-players-of-2022-latest-rankings-and-picks/"><u>Discover the Top Free H.265 Encoded UHD Media Players of 2022 - Latest Rankings and Picks!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-of-intelnvidia-conflict-in-switchable-graphic-cards-on-win11/"><u>End of Intel/Nvidia Conflict in Switchable Graphic Cards on Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-latest-google-chromebook-with-enhanced-ai-may-challenge-microsofts-windows-copilot/"><u>How the Latest Google Chromebook with Enhanced AI May Challenge Microsoft's Windows Copilot</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-smart-8-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix Smart 8 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-masters-choice-top-10-precision-tools-for-downloading-vimeo-files/"><u>In 2024, Master's Choice Top 10 Precision Tools for Downloading Vimeo Files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-infinix-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Infinix Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/no-cash-required-discover-how-to-access-gpt-4-using-our-top-5-tips/"><u>No Cash Required: Discover How to Access GPT-4 Using Our Top 5 Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photo-gymnastics-mastering-the-art-of-pictorial-twists-for-2024/"><u>Photo Gymnastics Mastering the Art of Pictorial Twists for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-work-laptop-comparison-beyond-thinkpads-and-macbooks-uncovered-by-zdnet/"><u>Top-Performing Work Laptop Comparison: Beyond ThinkPads and MacBooks Uncovered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-evaluated-and-recommended-insights-from-tech-experts/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Evaluated & Recommended - Insights From Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-top-picks-how-a-tiny-chromebook-surpasses-expectations-with-unmatched-versatility-a-comprehensive-review/"><u>ZDNet's Top Picks: How a Tiny Chromebook Surpasses Expectations with Unmatched Versatility - A Comprehensive Review</u></a></li>
+</ul></div>
 

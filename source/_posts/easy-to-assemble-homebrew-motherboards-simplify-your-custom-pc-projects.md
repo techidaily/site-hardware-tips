@@ -1,7 +1,7 @@
 ---
 title: "Easy-to-Assemble Homebrew Motherboards: Simplify Your Custom PC Projects"
-date: 2024-08-19T02:36:05.794Z
-updated: 2024-08-20T02:36:05.794Z
+date: 2025-01-31T16:53:16.753Z
+updated: 2025-02-01T18:10:52.252Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,17 +62,22 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024s-guide-to-profit-youtube-monetization-with-joshi/"><u>[New] 2024'S Guide to Profit YouTube Monetization with Joshi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-complete-tutorial-to-turn-gif-to-stickers-discordwhatsapptelegram/"><u>[New] Complete Tutorial to Turn GIF to Stickers [Discord/WhatsApp/Telegram]</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-streamlining-virtual-meetings-in-google-mail-for-2024/"><u>[New] Streamlining Virtual Meetings in Google Mail for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-top-laptop-coolers-on-steep-discounts-this-cyber-monday-find-your-best-deal-with-zdnet/"><u>Beat the Heat: Top Laptop Coolers on Steep Discounts This Cyber Monday - Find Your Best Deal with ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-value-in-tech-how-dells-budget-friendly-laptop-packs-smart-features-for-savvy-consumers-insights/"><u>Discovering Value in Tech: How Dell's Budget-Friendly Laptop Packs Smart Features for Savvy Consumers - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-video-editing-laptop-picks-thoroughly-testing-and-analyzing-the-best-options-zdnet/"><u>Elite Video Editing Laptop Picks: Thoroughly Testing & Analyzing the Best Options | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-next-level-virtual-reality-savings-why-metas-512gb-quest-3-is-dominating-as-the-premier-deal-of-the-season-cnet/"><u>Experience Next-Level Virtual Reality Savings: Why Meta's 512GB Quest 3 Is Dominating as the Premier Deal of the Season | CNET</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-8-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 8</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-t2-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo T2 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-alert-samsung-4tb-portable-ssd-t5-now-available-on-amazon-for-just-under-half-the-original-price/"><u>Massive Discount Alert: Samsung 4TB Portable SSD (T5) Now Available on Amazon for Just Under Half the Original Price</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-edit-like-a-pro-top-10-free-and-paid-android-video-editors-you-need-for-2024/"><u>New Edit Like a Pro Top 10 Free and Paid Android Video Editors You Need for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-windows-ultimate-laptop-guide-comprehensive-reviews-by-experts-zdnet/"><u>Top-Ranking Windows Ultimate Laptop Guide - Comprehensive Reviews by Experts | ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-black-screen-of-death-in-star-wars-battlefront-ii/"><u>Troubleshooting Guide: Resolving 'Black Screen of Death' In Star Wars Battlefront II</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/will-the-msi-steam-deck-make-waves-in-portable-gaming-a-thorough-competition-assessment/"><u>Will the MSi Steam Deck Make Waves in Portable Gaming: A Thorough Competition Assessment</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

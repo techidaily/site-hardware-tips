@@ -1,7 +1,7 @@
 ---
 title: "Best 5G Notebooks : Ultimate Guide and Rankings on CNet"
-date: 2025-01-20T20:32:36.376Z
-updated: 2025-01-24T21:08:48.210Z
+date: 2025-01-25T16:18:14.035Z
+updated: 2025-02-01T16:08:37.880Z
 tags:
   - laptops
 categories:
@@ -21,10 +21,6 @@ You're attempting to listen to music or watch a video on your computer.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### See also
 
@@ -46,11 +42,11 @@ And with a snafu like no sound, there are a few ways to troubleshoot the issue, 
 
 Here's how to pull this off in both Windows 10 and 11.
 
-## How to reset your audio settings in Windows
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to reset your audio settings in Windows
 
 ## 1\. Check your audio and sound source
 
@@ -77,6 +73,10 @@ Screenshot by Lance Whitney/ZDNET
 ## 3\. Check external speakers
 
 If you use external speakers, double-check for loose wires, unseated connections, and similar physical ailments. (Yes, try unplugging and plugging them in again.) If those all pass the test, then it's time to ask for help from Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn to a Windows troubleshooter
 
@@ -106,6 +106,10 @@ Confirm the device.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Go to sound settings to run troubleshooter in another way
 
 Another way to run the troubleshooter in both versions of Windows is through sound settings. In either version, right-click the System Tray audio icon and select **Open Sound settings** or **Sound settings**. 
@@ -117,7 +121,7 @@ Use the Get Help app.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. In the sound settings screen, check the Volume mixer
@@ -133,6 +137,10 @@ Screenshot by Lance Whitney
 Check the Volume mixer in Windows 11.
 
 Screenshot by Lance Whitney
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Click the Reset button
 
@@ -154,6 +162,10 @@ Check sound settings.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Uncheck Enable audio enhancements
 
 At the Properties window, click the **Advanced** tab and uncheck the box for **Enable audio enhancements**. Then click the **Test** button. Next, click the tab for **Spatial sound** and made sure this option is off.
@@ -170,10 +182,6 @@ Open Device Manager.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Click Update driver
 
 First, try updating the driver. Click the **Update driver** button. Permit it to search your computer for drivers and then search Windows Update.
@@ -181,10 +189,6 @@ First, try updating the driver. Click the **Update driver** button. Permit it to
 Update the driver.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 12\. If this doesn't work, try uninstalling the driver
 
@@ -201,10 +205,6 @@ To bring back the driver, either reboot your PC or right-click on the entry for 
 Reinstall the audio driver.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 14\. Try stopping and restarting the Windows Audio service
 
@@ -259,22 +259,19 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-examining-the-effectiveness-of-selfie-validation-on-instagram-for-2024/"><u>[New] Examining the Effectiveness of Selfie Validation on Instagram for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-smartphones-ultimate-guide-to-image-editing-and-annotation/"><u>[New] Smartphones' Ultimate Guide to Image Editing & Annotation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-snap-to-stream-a-complete-youtube-picture-upload-manual/"><u>2024 Approved From Snap to Stream A Complete YouTube Picture Upload Manual</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-diy-car-dash-cam-and-rearview-backup-camera-system-save-96-install-it-yourself/"><u>Affordable DIY Car Dash Cam & Rearview Backup Camera System: Save $96 - Install It Yourself!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-prime-cardholders-unlock-affordable-flights-for-just-25-exclusive-student-offer-wired/"><u>Amazon Prime Cardholders Unlock Affordable Flights for Just $25 - Exclusive Student Offer | Wired</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/android-autos-future-with-artificial-intelligence-simplifying-message-digests-on-the-road-techcrunch/"><u>Android Auto's Future with Artificial Intelligence: Simplifying Message Digests on the Road | TechCrunch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-united-airlines-be-sexy-staff-says-no-despite-marketing-efforts/"><u>Can United Airlines Be Sexy? Staff Says No, Despite Marketing Efforts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/driving-into-the-future-enhanced-google-chrome-and-latest-android-auto-integration-comes-to-vehicles/"><u>Driving Into the Future: Enhanced Google Chrome & Latest Android Auto Integration Comes to Vehicles!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/electric-giant-teslas-surprising-edge-over-competitors-in-the-worlds-largest-car-market-analysis-by-zdnet/"><u>Electric Giant: Tesla's Surprising Edge Over Competitors in the World's Largest Car Market | Analysis by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/electric-revolution-unveiled-live-stream-ces-202/"><u>Electric Revolution Unveiled: Live Stream CES 202</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/electric-vehicle-advancements-drive-auto-sectors-shift-towards-digital-innovation-insights-from-zdnet/"><u>Electric Vehicle Advancements Drive Auto Sector's Shift Towards Digital Innovation: Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/re-11-budget-friendly-title-generators-for-yt-for-2024/"><u>Explore 11 Budget-Friendly Title Generators for YT for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-lava-blaze-2-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Lava Blaze 2?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-pro-max-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 Pro Max Without Apple Password? | Stellar</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/streamlining-your-ps3-gaming-archive/"><u>Streamlining Your PS3 Gaming Archive</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audience-enchantment-advanced-audacity-crossfading/"><u>[New] Audience Enchantment Advanced Audacity Crossfading</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-strategies-to-optimize-time-and-quality-in-thumbnail-design/"><u>[New] Strategies to Optimize Time and Quality in Thumbnail Design</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-comprehensive-io-recorder-explained-for-users/"><u>[Updated] 2024 Approved Comprehensive IO Recorder Explained for Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-picks-for-efficient-youtube-video-url-condensers/"><u>[Updated] 2024 Approved Top Picks for Efficient YouTube Video URL Condensers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>2024 Approved Unlocking Video Potential The Crème De La Crème Browser Recorders</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-samsung-galaxy-watch-active-assessment-your-go-to-companion-for-health-and-fitness/"><u>Comprehensive Samsung Galaxy Watch Active Assessment: Your Go-To Companion for Health and Fitness</u></a></li>
+<li><a href="https://fox-http.techidaily.com/crafting-the-future-revolutionary-tools-for-3d-modelers-for-2024/"><u>Crafting the Future Revolutionary Tools for 3D Modelers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gems-exploring-the-stealthy-trackpoint-and-more-in-this-compact-lenovo-powerhouse-insights-from-zdnet/"><u>Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-premium-vr-with-metas-latest-steal-the-512gb-quest-3-deal-that-dominates-todays-market-insider-tips/"><u>Experience Premium VR with Meta's Latest Steal: The 512GB Quest 3 Deal That Dominates Today’s Market | Insider Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guida-alla-comprensione-e-alluso-dei-file-mkv-un-tutorial-completo-sullestrazione-dei-dati/"><u>Guida Alla Comprensione E All'uso Dei File MKV: Un Tutorial Completo Sull'estrazione Dei Dati</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-guide-for-video-narration-implementation/"><u>In 2024, Step-By-Step Guide for Video Narration Implementation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ultraportable-notebook-with-exceptional-all-day-battery-life-featured-on-zdnet/"><u>Top Rated Ultraportable Notebook with Exceptional All-Day Battery Life Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-work-tablet-a-non-microsoft-non-lenovo-contender-that-exceeds-expectations-insights-from-a-seasoned-reviewer/"><u>Top-Performing Work Tablet: A Non-Microsoft, Non-Lenovo Contender That Exceeds Expectations - Insights From a Seasoned Reviewer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-linux-based-laptop-picks-comprehensive-evaluation-by-tech-gurus-insights-from-zdnet/"><u>Top-Ranking Linux-Based Laptop Picks : Comprehensive Evaluation by Tech Gurus - Insights From ZDNet</u></a></li>
 </ul></div>
 

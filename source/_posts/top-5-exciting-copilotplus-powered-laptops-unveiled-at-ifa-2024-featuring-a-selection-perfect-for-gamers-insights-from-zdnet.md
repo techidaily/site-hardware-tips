@@ -1,7 +1,7 @@
 ---
 title: Top 5 Exciting Copilot+ Powered Laptops Unveiled at IFA 2024, Featuring a Selection Perfect for Gamers - Insights From ZDNet
-date: 2025-01-21T20:42:45.978Z
-updated: 2025-01-24T23:13:01.068Z
+date: 2025-01-25T17:01:55.802Z
+updated: 2025-02-01T19:04:46.426Z
 tags:
   - laptops
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Dell XPS 13
@@ -49,7 +49,7 @@ Dell revealed it is relaunching its [XPS 13 laptop](https://www.tkqlhce.com/clic
 What's particularly great is that it is cheaper than the Intel Core Ultra Series 1 model. Thanks to Qualcomm's hardware, the revamped XPS 13 will most likely perform at a similar level to the older laptop, which every user can appreciate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Acer TravelMate P6 14 AI
@@ -63,7 +63,7 @@ Acer came out the gate strongly, announcing four Copilot+ PCs before IFA even be
 To ensure it can fit inside bags, Acer gave this laptop a friendly 14-inch WQXGA Plus (2880 x 1800 pixels) display. The glass is surrounded by thin bezels and supports a 100% sRGB color gamut. Together, the two features enable "outstanding picture quality," the company says. While this model won't be powered by Qualcomm hardware, it instead leverages Intel's new Core Ultra Series 2 processor, and we're excited to see how that fares.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Samsung Galaxy Book 5 Pro 360
@@ -77,7 +77,7 @@ Samsung is also getting into the fray, with the tech giant revealing its first G
 The Galaxy Book 5 Pro 360 will possess one of the upcoming Intel Core Ultra Series 2 processors. Samsung is planning to inject its own AI tech into the laptop, such as Live Translate, Circle to Search, and Chat Assist.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Asus ProArt PZ13
@@ -89,7 +89,7 @@ Asus, like Acer, revealed many models leading up to IFA 2024, but the most fasci
 The ProArt PZ13 can output 3K resolution images, much like the Galaxy Book 5 model. Plus, it is Pantone Validation certified, allowing it to showcase realistic-looking colors and skin tones. Unlike previous ProArt models, Asus is notably more budget-friendly, starting at $1,099.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. MSI Stealth 16 AI Plus
@@ -130,24 +130,18 @@ The chipset comes equipped with an NPU capable of reaching 50 TOPS, up from the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-photo-refinement-mastering-the-psx-erase-feature/"><u>[New] 2024 Approved Photo Refinement Mastering the PSX Erase Feature</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/rom-creators-to-profit-makers-the-2024-youtube-monetization-playbook/"><u>[New] From Creators to Profit-Makers The 2024 YouTube Monetization Playbook</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-14-engaging-text-movies-for-creative-experimentation/"><u>[Updated] 2024 Approved Top 14 Engaging Text Movies for Creative Experimentation</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-captivating-android-time-lapses-ideas-and-strategies-2024/"><u>[Updated] Captivating Android Time-Lapses Ideas and Strategies 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-14-pro-max-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 14 Pro Max iCloud Activation Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-v30-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo V30 Phones with/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-address-occupied-files-issue-in-windows-11-systems/"><u>How to Address Occupied Files Issue in Windows 11 Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a05s-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A05s by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/schritt-fur-schritt-guide-zum-kopieren-von-windows-7-auf-eine-neue-datentrager/"><u>Schritt-Für-Schritt-Guide Zum Kopieren Von Windows 7 Auf Eine Neue Datenträger</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-converting-spotify-playlists-into-txt-format/"><u>Step-by-Step Instructions on Converting Spotify Playlists Into TXT Format</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-2023-tesla-models-ranked-comparing-model-s-3-x-and-y-on-zdnet-your-ultimate-guide/"><u>Top 2023 Tesla Models Ranked: Comparing Model S, 3, X, & Y on ZDNet - Your Ultimate Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-electric-bicycles-the-ultimate-ranking-featuring-insights-from-zdnet/"><u>Top 5 Electric Bicycles : The Ultimate Ranking - Featuring Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-excellent-vehicle-hire-options-and-mobile-applications-zdnets-review/"><u>Top 5 Excellent Vehicle Hire Options & Mobile Applications - ZDNet's Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-ultimate-luggage-collections-your-complete-guide-zdnet/"><u>Top 5 Ultimate Luggage Collections: Your Complete Guide - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-premium-vehicle-cleaners-expert-reviews-and-comparisons/"><u>Top 6 Premium Vehicle Cleaners : Expert Reviews and Comparisons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbelievable-savings-book-your-next-trip-with-sky-high-discounts-from-dollar-flight-club-up-to-94-off-check-it-out-on-zdnet/"><u>Unbelievable Savings: Book Your Next Trip With Sky-High Discounts From Dollar Flight Club - Up To 94% Off! Check It Out On ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-ride-get-apple-carplayandroid-auto-ready-at-half-price-exclusive-deal-on-high-quality-displays/"><u>Upgrade Your Ride: Get Apple CarPlay/Android Auto Ready at Half Price! Exclusive Deal on High-Quality Displays</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/when-travel-becomes-pricey-how-southwest-air-squeezed-extra-costs-during-high-stress-moments/"><u>When Travel Becomes Pricey: How Southwest Air Squeezed Extra Costs During High Stress Moments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-did-delta-anger-long-term-fans-unveiling-the-reasons-behind-customer-discontent-tech-insights/"><u>Why Did Delta Anger Long-Term Fans: Unveiling the Reasons Behind Customer Discontent | Tech Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-jumpstart-your-journey-learning-snapseed-techniques/"><u>[Updated] Jumpstart Your Journey Learning Snapseed Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-reviving-obs-sound-capture-steps/"><u>[Updated] Reviving OBS Sound Capture Steps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>[Updated] Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harnessing-hashtags-elevating-your-youtube-gaming-series/"><u>2024 Approved Harnessing Hashtags Elevating Your YouTube Gaming Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-elite-lineup-for-gamers-in-depth-speaker-analysis-and-testing-results/"><u>2024'S Elite Lineup for Gamers: In-Depth Speaker Analysis & Testing Results</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-15ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 15/iPad/iPod</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-find-the-4tb-samsung-portable-ssd-t5-now-50-discounted-on-amazon-limited-stock-available/"><u>Exclusive Deal: Find the 4TB Samsung Portable SSD (T5) Now 50% Discounted on Amazon – Limited Stock Available</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-metas-premium-vr-deals-limited-time-offer-save-big-on-the-512gb-quest-lineup-this-october-prime-day/"><u>Get Your Hands on Meta's Premium VR Deals: Limited Time Offer – Save Big on the 512GB Quest Lineup This October Prime Day</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/harness-the-power-of-text-messaging-in-2009-understanding-client-behavior-via-massmails-data-analysis-tools/"><u>Harness the Power of Text Messaging in 2009: Understanding Client Behavior via MassMail's Data Analysis Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-haptic-interface-an-in-depth-guide/"><u>In 2024, Pioneering Haptic Interface An In-Depth Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-future-in-your-hand-top-10-cutting-edge-recorder-apps/"><u>The Future in Your Hand Top 10 Cutting-Edge Recorder Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-most-overlooked-gem-in-your-asus-laptop-a-hidden-treasure-exposed/"><u>Unveiling the Most Overlooked Gem in Your Asus Laptop: A Hidden Treasure Exposed</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-final-cut-pro-at-an-unbeatable-price-just-for-students-and-teachers/"><u>Updated 2024 Approved Final Cut Pro at an Unbeatable Price Just for Students & Teachers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Introducing the iCraft B760M Motherboard – Where Intel Meets Anime Aesthetics in a Pastel Package
-date: 2024-08-19T02:35:53.588Z
-updated: 2024-08-20T02:35:53.588Z
+date: 2025-01-28T16:39:46.852Z
+updated: 2025-02-01T18:02:43.654Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,9 +62,18 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-funny-faces-for-iphone-users/"><u>2024 Approved Funny Faces for iPhone Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-laptop-steal-deal-just-99-at-best-buys-hour-of-power-sale-see-the-listing-on-zdnet/"><u>ASUS Laptop Steal Deal - Just $99 at Best Buy's Hour of Power Sale! See the Listing on ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-ways-to-fix-genshin-impacts-start-up-problems/"><u>Effortless Ways to Fix Genshin Impact's Start-Up Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-apples-affordable-m2-macbook-air-for-only-799-launched-ahead-of-prime-day-bargains-insider-news-coverage/"><u>Get Your Hands on Apple’s Affordable M2 MacBook Air for Only $799 - Launched Ahead of Prime Day Bargains! Insider News Coverage</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-m1-demystified-apple-redefines-chipset-technology/"><u>In 2024, M1 Demystified Apple Redefines Chipset Technology</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-gopro-cinematography-with-these-15-luts-for-2024/"><u>Perfecting GoPro Cinematography with These 15 LUTs for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/precision-in-programming-ai-moral-standards/"><u>Precision in Programming AI Moral Standards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-copilotplus-pc-shines-as-a-top-contender-for-best-value-on-the-windows-platform-inside-look-by-zdnet/"><u>Samsung Copilot+ PC Shines as a Top Contender for Best Value on the Windows Platform – Inside Look by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-multi-tasking-can-lenovos-yoga-book-9i-set-a-new-standard-for-dual-display-devices/"><u>The Future of Multi-Tasking: Can Lenovo's Yoga Book 9I Set a New Standard for Dual-Display Devices?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-dealing-with-mac-overheating-and-persistent-cooling-fan-noise/"><u>Ultimate Guide: Dealing with Mac Overheating & Persistent Cooling Fan Noise</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->

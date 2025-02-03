@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power Play: Top 5 New AI Capabilities Debuted by Google on Chromebooks, Shifting Gears From Copilot"
-date: 2025-01-23T00:18:33.416Z
-updated: 2025-01-24T22:33:55.134Z
+date: 2025-01-30T17:32:31.025Z
+updated: 2025-02-01T16:38:59.817Z
 tags:
   - laptops
 categories:
@@ -60,7 +60,7 @@ While the webcam houses most of the AI features, there is one AI-enabled feature
 I recommend using the Magic Eraser on small stuff in pictures. When you use the feature for objects that take up a large amount of space in photographs, the after-effect can make the image look warped. So, while the tool is good, it's no substitute for Adobe Photoshop. Besides Magic Eraser, Chromebook Plus models now have the nifty File Sync feature, which keeps a copy of Google Drive files on your computer at all times. It's a handy tool that I got a lot of use out of when I was outside away from a Wi-Fi connection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -103,22 +103,24 @@ It does appear there may be a third model down the line. Asus' official product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elevate-engagement-mastering-online-presentations-via-zoom-and-youtube/"><u>[New] 2024 Approved Elevate Engagement Mastering Online Presentations via Zoom and YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-iphone-photo-fixes-expert-hacks-for-better-snapshots/"><u>[New] Quick iPhone Photo Fixes Expert Hacks for Better Snapshots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-strategies-for-improving-youtubefacebook-video-quality/"><u>[Updated] 2024 Approved Strategies for Improving YouTube/Facebook Video Quality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/behind-the-screens-a-closer-look-at-zdnets-rigorous-tablet-testing-procedures/"><u>Behind the Screens: A Closer Look at ZDNet’s Rigorous Tablet Testing Procedures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/black-friday-2022-countdown-find-the-hottest-bargains-and-best-sale-destinations-on-zdnet/"><u>Black Friday 2022 Countdown: Find The Hottest Bargains and Best Sale Destinations On ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-android-tablet-reviews-surprising-non-tcl-non-samsung-brands-featured-by-zdnet/"><u>Budget-Friendly Android Tablet Reviews: Surprising Non-TCL, Non-Samsung Brands Featured by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comparing-ipad-and-remarkable-2-key-distinctions-you-should-know/"><u>Comparing iPad & Remarkable 2: Key Distinctions You Should Know!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comparing-ipad-air-4-and-new-ipad-air-worth-the-update-or-not-zdnet-insights/"><u>Comparing iPad Air 4 and New iPad Air: Worth the Update or Not? | ZDNet Insights</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g73-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Motorola Moto G73 5G FRP Locks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2016-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2016 Error Code 0x800A03EC?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/oppo-find-x6-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo Find X6 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1726809383759-top-recommended-non-samsung-non-tcl-android-tablets-discover-the-best-alternatives/"><u>Top-Recommended Non-Samsung, Non-TCL Android Tablets: Discover the Best Alternatives</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-hp-wireless-keyboard-connectivity-issues/"><u>Troubleshooting Guide: Fixing HP Wireless Keyboard Connectivity Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-disk-navigation-deciphering-c-and-d/"><u>Windows Disk Navigation: Deciphering 'C:' And 'D:'</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-the-ultimate-survivor-tablet-windows-stylus-capable-device-among-the-finest-tested/"><u>ZDNet Reviews the Ultimate Survivor Tablet: Windows, Stylus Capable Device Among the Finest Tested!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-expert-take-on-microsoft-surface-go-3-compact-powerhouse-with-a-battery-caveat/"><u>ZDNet's Expert Take on Microsoft Surface Go 3: Compact Powerhouse with a Battery Caveat</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ranking-the-leading-video-conferencing-applications/"><u>[New] Ranking the Leading Video Conferencing Applications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos-for-2024/"><u>[New] What Are YouTube Tags and How Can You Find Great Tags For Your Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-visual-strategy-for-podcast-branding/"><u>[Updated] The Ultimate Visual Strategy for Podcast Branding</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/beginners-blueprint-for-speedy-video-on-snapchat/"><u>Beginner’s Blueprint for Speedy Video on Snapchat</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-meta-quest-3-launches-with-512gb-storage-top-pick-for-october-prime-day-gaming-bargains/"><u>Best Value Meta Quest 3 Launches with 512GB Storage: Top Pick for October Prime Day Gaming Bargains</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-look-microsofts-revolutionary-ai-chip-challenge-to-apple-macbook-unveiled/"><u>Exclusive Look: Microsoft's Revolutionary AI Chip Challenge to Apple MacBook Unveiled</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/monochrome-disruption-visual-anomaly/"><u>Monochrome Disruption: Visual Anomaly</u></a></li>
+<li><a href="https://howto.techidaily.com/poco-x6-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X6 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/smart-value-meets-performance-in-dells-hidden-gem-laptop-reviewed-by-zdnet-ingenious-tech-without-the-hefty-price-tag/"><u>Smart Value Meets Performance in Dell's Hidden Gem Laptop Reviewed by ZDNet: Ingenious Tech without the Hefty Price Tag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-your-hp-156-inch-touchscreen-laptop-for-just-230-less-exclusive-offers-from-zdnet/"><u>Snag Your HP 15.6-Inch Touchscreen Laptop for Just $230 Less | Exclusive Offers From ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-app-screens-on-windows-11-properly/"><u>Tailoring App Screens on Windows 11 Properly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-vpn-providers-of-2024-comprehensive-analysis-by-tech-experts/"><u>Top-Ranking VPN Providers of 2024: Comprehensive Analysis by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-a-1100-discount-on-macbook-pro-with-m1-max-at-bandh-photoblack-friday-deal-exclusive-insights/"><u>Unlock a $1,100 Discount on MacBook Pro with M1 Max at B&H PhotoBlack Friday Deal - Exclusive Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-early-bird-deals-for-prime-day-tech-in-october-24-spotlight-on-laptops-by-acer-and-hp-zdnet/"><u>Unmissable Early Bird Deals for Prime Day Tech in October '24 – Spotlight on Laptops by Acer & HP | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secret-downgrading-from-windows-11-to-windows-10-safely-with-a-twist-expert-tips-from-zdnet/"><u>Unveiling the Secret: Downgrading From Windows 11 to Windows 10 Safely (With a Twist) | Expert Tips From ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ling-the-secrets-to-effortless-youtube-sharing-on-fb-groups/"><u>Unveiling the Secrets to Effortless YouTube Sharing on FB Groups</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/what-you-need-to-know-about-microsofts-copilot-and-its-new-features-on-surface-products-targeting-enterprise-customers-zdnet-insights/"><u>What You Need To Know About Microsoft's Copilot and Its New Features on Surface Products Targeting Enterprise Customers | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-logitech-g602-driver-installation-guide-and-download/"><u>Windows-Compatible Logitech G602 Driver Installation Guide and Download</u></a></li>
 </ul></div>
 

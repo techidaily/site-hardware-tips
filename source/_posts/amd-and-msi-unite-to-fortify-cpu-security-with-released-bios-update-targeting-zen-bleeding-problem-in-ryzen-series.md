@@ -1,7 +1,7 @@
 ---
 title: AMD and MSI Unite to Fortify CPU Security with Released BIOS Update, Targeting Zen Bleeding Problem in Ryzen Series
-date: 2024-08-19T02:35:58.057Z
-updated: 2024-08-20T02:35:58.057Z
+date: 2025-01-31T19:55:49.418Z
+updated: 2025-02-01T16:48:44.444Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,24 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/hannel-expansion-techniques-for-30plus-online-platforms/"><u>[New] Channel Expansion Techniques for 30+ Online Platforms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-strategizing-your-approach-highlight-and-story-downloads/"><u>2024 Approved Strategizing Your Approach Highlight & Story Downloads</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/cmd-fur-datenrettung-nutzen-tipps-und-tricks-zur-wiederherstellung-ihrer-dateien/"><u>CMD Für Datenrettung Nutzen - Tipps Und Tricks Zur Wiederherstellung Ihrer Dateien</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-extraordinary-performance-with-durable-battery-and-eye-catching-design-the-ultimate-guide-to-premium-13-inch-laptops-reviewed-by-zdnet/"><u>Experience Extraordinary Performance with Durable Battery and Eye-Catching Design - The Ultimate Guide to Premium 13-Inch Laptops Reviewed by ZDNet.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-with-apples-innovative-m4-silicon-chips-a-leap-toward-smart-technology-in-every-mac-model-anticipated-launch-dates-decoded/"><u>Exploring the Future with Apple's Innovative M4 Silicon Chips: A Leap Toward Smart Technology in Every Mac Model – Anticipated Launch Dates Decoded</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/golden-age-of-scenario-writing-in-motion-pictures/"><u>Golden Age of Scenario Writing in Motion Pictures</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-from-playground-to-pro-how-mavic-air-challenges-the-spark-dominance/"><u>In 2024, From Playground to Pro How Mavic Air Challenges the Spark Dominance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/one-week-on-an-ergo-split-board-how-my-comfortable-keypad-ruined-everything-else/"><u>One Week on an Ergo-Split Board: How My Comfortable Keypad Ruined Everything Else</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/presidents-day-special-sale-alert-get-your-hands-on-a-brand-new-macbook-pro-featuring-the-powerful-m3-pro-chip-at-a-steeply-reduced-price-of-just-200-less-c133/"><u>President’s Day Special Sale Alert! Get Your Hands on a Brand New MacBook Pro Featuring the Powerful M3 Pro Chip at a Steeply Reduced Price of Just $200 Less – Comprehensive Review and Deal Insight by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-device-not-initialized-warning-in-win-11/"><u>Rectifying 'Device Not Initialized' Warning in Win 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/section-2a-understanding-brand-loyalty-and-equity-building-strategies/"><u>Section 2A: Understanding Brand Loyalty and Equity Building Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-art-of-video-storytelling-integrating-audio-narration-for-2024/"><u>The Art of Video Storytelling Integrating Audio Narration for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-18-unbeatable-prime-day-laptop-offers-exclusive-discounts-on-brands-like-hp-apple-and-razer-shop-now/"><u>Top 18 Unbeatable Prime Day Laptop Offers: Exclusive Discounts on Brands Like HP, Apple & Razer – Shop Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-must-have-usb-c-cables-and-adapters-for-seamless-8k-streaming-on-macwindows-setups-gizmodo/"><u>Top Must-Have USB-C Cables and Adapters for Seamless 8K Streaming on Mac/Windows Setups | Gizmodo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-selecting-the-top-8-tripods-for-high-res-cameras-for-2024/"><u>Ultimate Guide Selecting the Top 8 Tripods for High-Res Cameras for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-apples-13-inch-macbook-air-m2-cheapest-ever-on-cyber-monday-coverage/"><u>Unbeatable Bargain Alert: Apple's 13-Inch MacBook Air M2 - Cheapest Ever on Cyber Monday Coverage</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->

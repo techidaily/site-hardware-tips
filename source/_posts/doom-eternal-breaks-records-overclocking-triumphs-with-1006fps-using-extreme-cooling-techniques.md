@@ -1,7 +1,7 @@
 ---
 title: "Doom Eternal Breaks Records: Overclocking Triumphs with 1006FPS Using Extreme Cooling Techniques"
-date: 2024-08-19T02:33:30.100Z
-updated: 2024-08-20T02:33:30.100Z
+date: 2025-01-31T20:20:31.598Z
+updated: 2025-02-01T20:31:31.776Z
 tags:
   - overclocking
 categories:
@@ -27,6 +27,10 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  It is noteworthy that the 8.0 GHz barrier is rather hard to break, and to date, only 117 processors have managed to pass it. The vast majority of the processors to hit 8.0 GHz or higher frequency are AMD's FX 8000-series units, as well as Intel's Cedar Mill-based Celeron D or Pentium CPUs, but there are also several AMD's A-series APUs too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,19 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ntering-income-territory-with-a-thousand-followers/"><u>[New] Entering Income Territory with a Thousand Followers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-the-interface-key-win11-tricks/"><u>[New] Mastering the Interface Key Win11 Tricks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hing-black-edges-on-your-youtube-video-for-2024/"><u>Banishing Black Edges on Your YouTube Video for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-performance-using-cookiebot-technology/"><u>Enhanced Performance Using Cookiebot Technology</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-14-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi 14 Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-f23-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo F23 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-premier-tv-display-sanitizers-in-202email-protected-by-techzednet/"><u>Ultimate Guide to the Premier TV Display Sanitizers in 202([Email Protected] by TechZedNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-viewing-experience-an-in-depth-analysis-of-lg-vs-samsung-televisions-for-your-next-purchase-decision/"><u>Ultimate Viewing Experience: An In-Depth Analysis of LG Vs. Samsung Televisions for Your Next Purchase Decision.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-labor-day-deals-top-rated-lg-oled-tvs-now-up-to-800-off-exclusive-insights-from-a-tech-reviewer-on-zdnet/"><u>Unbeatable Labor Day Deals: Top-Rated LG OLED TVs Now Up to $800 Off - Exclusive Insights From a Tech Reviewer on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-optimal-image-clarity-top-3-adjustments-made-to-enhance-projector-display-quality/"><u>Unlock Optimal Image Clarity: Top 3 Adjustments Made to Enhance Projector Display Quality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-ios-device-3-quick-fixes-for-iphone-contacts-issues/"><u>Unstick Your iOS Device: 3 Quick Fixes for iPhone Contacts Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-enhancements-exploring-the-new-features-of-facetime-on-apple-tv-and-additional-tvos-updates-revealed-by-zdnet/"><u>Upcoming Enhancements: Exploring the New Features of FaceTime on Apple TV & Additional tvOS Updates Revealed by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->

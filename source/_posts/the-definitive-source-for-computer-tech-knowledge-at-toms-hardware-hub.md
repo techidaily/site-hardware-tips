@@ -1,7 +1,7 @@
 ---
 title: The Definitive Source for Computer Tech Knowledge at Tom's Hardware Hub
-date: 2024-08-19T02:35:42.746Z
-updated: 2024-08-20T02:35:42.746Z
+date: 2025-01-31T20:04:43.869Z
+updated: 2025-02-01T17:32:23.030Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,26 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-master-the-art-of-visuals-on-tiktok-with-smart-background-choices/"><u>[New] 2024 Approved Master the Art of Visuals on TikTok with Smart Background Choices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-step-by-step-guide-to-screencasting-youtube-content-for-free/"><u>[New] 2024 Approved Step-by-Step Guide to Screencasting YouTube Content For Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-infinix-note-30-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Infinix Note 30 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/charting-your-course-transitioning-from-10-to-11-successfully/"><u>Charting Your Course: Transitioning From 10 to 11 Successfully</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-deal-of-the-year-refurbished-128gb-microsoft-surface-laptop-at-just-320-featured/"><u>Discover the Deal of the Year: Refurbished 128GB Microsoft Surface Laptop at Just $320 - Featured</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-touchpad-notebooks-of-the-year-in-depth-analysis-and-expert-ratings-s-ultimate-guide/"><u>Discover the Leading Touchpad Notebooks of the Year: In-Depth Analysis & Expert Ratings 'S Ultimate Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-optimized-msi-gs65-graphics-and-motherboard-drivers-windows/"><u>Download Optimized MSI GS65 Graphics and Motherboard Drivers [Windows]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-automating-dns-client-service-configuration/"><u>Guide to Automating DNS Client Service Configuration</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-restoring-stable-server-connections-for-an-uninterrupted-escape-from-tarkov-experience/"><u>Guide: Restoring Stable Server Connections for an Uninterrupted Escape From Tarkov Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-revolutionizes-technology-with-a-hybrid-2-in-1-gadget-offering-both-pc-functionality-and-an-android-tablet-experience-digital-trends/"><u>Lenovo Revolutionizes Technology with a Hybrid 2-in-1 Gadget Offering Both PC Functionality and an Android Tablet Experience | Digital Trends</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/prime-7-multimedia-players-for-macos/"><u>Prime 7 Multimedia Players for MacOS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-the-unbeatable-performance-of-the-2024-dell-xps-14-a-must-have-for-tech-savvy-users/"><u>Review: The Unbeatable Performance of the 2024 Dell XPS 14 - A Must-Have for Tech Savvy Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-content-creation-using-gpt-4/"><u>Revolutionize Content Creation Using GPT-4</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/revolutionize-your-social-media-game-with-top-20-tiktok-caption-strategies/"><u>Revolutionize Your Social Media Game with Top 20 TikTok Caption Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-the-top-vr-deal-of-october-with-metas-quest-3-512gb-on-prime-day-zdnet-exclusive-lowdown/"><u>Score the Top VR Deal of October with Meta’s Quest 3 512GB on Prime Day – ZDNet Exclusive Lowdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-non-mac-non-lenovo-laptop-for-students-save-200-expert-review-by-zdnet/"><u>Top-Performing Non-Mac, Non-Lenovo Laptop for Students: Save $200 - Expert Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-scoring-savings-must-have-tech-gear-for-prime-and-cyber-weekends-in-oct-24-tips-from-zdnet/"><u>Ultimate Guide to Scoring Savings: Must-Have Tech Gear for Prime & Cyber Weekends in Oct '24 - Tips From ZDNet.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-best-15-laptops-indepth-analysis-and-rankings-from-industry-insiders-zdnet/"><u>Ultimate Selection of Best 15 Laptops - InDepth Analysis and Rankings From Industry Insiders | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-alert-top-tier-gaming-audio-experience-now-just-150-less-on-amazon-exclusively-featured/"><u>Unbelievable Deal Alert: Top-Tier Gaming Audio Experience Now Just $150 Less on Amazon - Exclusively Featured</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

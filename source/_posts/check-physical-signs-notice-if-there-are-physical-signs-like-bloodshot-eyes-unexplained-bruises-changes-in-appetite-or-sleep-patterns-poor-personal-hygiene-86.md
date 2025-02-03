@@ -1,7 +1,7 @@
 ---
 title: "Check Physical Signs: Notice if There Are Physical Signs Like Bloodshot Eyes, Unexplained Bruises, Changes in Appetite or Sleep Patterns, Poor Personal Hygiene, or Unusual Smells on Their Breath or Clothing."
-date: 2024-08-19T02:36:03.503Z
-updated: 2024-08-20T02:36:03.503Z
+date: 2025-01-30T18:39:53.004Z
+updated: 2025-02-01T18:39:26.963Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-step-by-step-guide-to-creating-popular-youtube-openings/"><u>[New] 2024 Approved Step-by-Step Guide to Creating Popular YouTube Openings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-hd-broadcasts-on-the-social-media-giant-fb/"><u>[New] In 2024, Mastering HD Broadcasts on the Social Media Giant, FB</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-takes-2022-skating-spectaculars/"><u>[New] Top Takes - 2022 Skating Spectaculars</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-from-template-to-trendsetter-gamer-channel-banners-guide/"><u>[Updated] From Template to Trendsetter Gamer Channel Banners Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enjoy-every-frame-best-free-download-apps-for-mobile-devices/"><u>[Updated] In 2024, Enjoy Every Frame Best Free Download Apps for Mobile Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-sync-up-songs-and-screenshots-on-snapchat/"><u>[Updated] Sync-Up Songs and Screenshots on Snapchat</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-prime-day-aftermath-snag-the-high-speed-8tb-samsung-ssd-for-less-than-half-price/"><u>Amazon's Prime Day Aftermath: Snag the High-Speed 8TB Samsung SSD for Less Than Half Price!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-prime-day-exclusive-snag-an-hp-victus-15-gaming-laptop-at-just-450/"><u>Best Buy's Prime Day Exclusive: Snag an HP Victus ^$15 Gaming Laptop at Just $450!</u></a></li>
+<li><a href="https://discover-community.techidaily.com/boost-your-computers-performance-with-expert-tools-from-yl-software-comprehensive-guide/"><u>Boost Your Computer's Performance with Expert Tools From YL Software – Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bring-your-game-to-the-workplace-dell-introduces-an-ultraportable-gaming-laptop-according-to-zdnets-latest-review/"><u>Bring Your Game to the Workplace: Dell Introduces an Ultraportable Gaming Laptop, According to ZDNet's Latest Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-tecno-camon-20-pro-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Tecno Camon 20 Pro 5G.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-these-significant-tech-innovations-of-2023-reshaped-the-world-an-exclusive-report-by-zdnet/"><u>How These Significant Tech Innovations of 2023 Reshaped the World: An Exclusive Report by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-apples-revolutionary-m4-silicon-comprehensive-ai-integration-across-all-mac-models-release-dates-revealed/"><u>Introducing Apple's Revolutionary M4 Silicon: Comprehensive AI Integration Across All Mac Models – Release Dates Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-presidents-day-snag-the-latest-m2-macbook-air-at-300-less-exclusive-offer/"><u>Score Big Savings on Presidents' Day: Snag the Latest M2 MacBook Air at $300 Less - Exclusive Offer</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/the-ultimate-guide-generating-a-windows-recovery-drive-using-methods-suitable-for-versions-11-10-8-and-7/"><u>The Ultimate Guide: Generating a Windows Recovery Drive Using Methods Suitable for Versions 11, 10, 8 & ^[7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-audio-systems-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Gaming Audio Systems : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-ultimate-game-audio-experience-top-rated-gaming-speakers-go-on-sale-at-best-buy-featured/"><u>Unleash Ultimate Game Audio Experience: Top-Rated Gaming Speakers Go On Sale at Best Buy - Featured</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-potential-the-power-of-online-social-groups/"><u>Unlocking Potential: The Power of Online Social Groups</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrading-your-tech-arsenal-m3-vs-m1-macbook-pro-is-it-time-for-a-change/"><u>Upgrading Your Tech Arsenal: M3 Vs. M1 MacBook Pro – Is It Time for a Change?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->

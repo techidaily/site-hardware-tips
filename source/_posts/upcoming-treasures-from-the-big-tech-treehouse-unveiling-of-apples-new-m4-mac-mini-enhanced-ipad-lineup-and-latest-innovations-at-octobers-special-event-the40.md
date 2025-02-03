@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Treasures From the Big Tech Treehouse: Unveiling of Apple’s New M4 Mac Mini, Enhanced iPad Lineup, and Latest Innovations at October's Special Event - The Insightful Guide"
-date: 2025-01-21T20:55:16.626Z
-updated: 2025-01-24T21:10:18.622Z
+date: 2025-01-31T20:39:58.948Z
+updated: 2025-02-01T16:13:51.339Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,19 +118,15 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-shortcut-to-instagram-video-connectivity/"><u>[New] The Ultimate Shortcut to Instagram Video Connectivity</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-find-your-favorite-skype-ringtones-with-these-4-websites-for-2024/"><u>[Updated] Find Your Favorite Skype Ringtones with These 4 Websites for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-a14-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy A14 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-set-up-smooth-transitions-youtube-content-playback-on-facebook/"><u>How to Set Up Smooth Transitions YouTube Content Playback on Facebook</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-photography-boosted-by-ios-11-features/"><u>In 2024, IPhone Photography Boosted by iOS 11 Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-and-inspiration-the-ultimate-list-of-android-drawing-apps/"><u>In 2024, Mastery & Inspiration The Ultimate List of Android Drawing Apps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/john-deere-launches-innovative-battery-operated-machinery-for-agriculture-and-building-sites-zdnet/"><u>John Deere Launches Innovative Battery-Operated Machinery for Agriculture & Building Sites - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/john-deeres-latest-innovation-unveiling-battery-operated-machinery-for-agriculture-and-construction-zdnet/"><u>John Deere's Latest Innovation: Unveiling Battery-Operated Machinery for Agriculture & Construction - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lasting-quality-insights-lessons-from-a-durable-cordless-vacuum-cleaner-analysis-on-zdnet/"><u>Lasting Quality Insights: Lessons From a Durable Cordless Vacuum Cleaner - Analysis on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-lush-gardens-the-ultimate-guide-growth-and-greenery/"><u>Mastering the Art of Lush Gardens: The Ultimate Guide | Growth & Greenery</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/memorial-day-special-save-400-on-the-segway-max-g2-electric-scooter-exclusive-deal-alert/"><u>Memorial Day Special: Save $400 on the Segway Max G2 Electric Scooter - Exclusive Deal Alert!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/monitor-and-manage-your-co2-footprint-easily-the-latest-mobile-application-reviewed-on-zdnet/"><u>Monitor and Manage Your CO2 Footprint Easily: The Latest Mobile Application Reviewed on ZDNet</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-xr-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone XR Prevention & Solution</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-preserving-gifs-from-twitter-for-mobile-devices-for-2024/"><u>[New] Preserving GIFs From Twitter for Mobile Devices for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-snapshot-survival-guide-top-recorders-evaluated/"><u>2024 Approved SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-opportunity-score-your-dream-laptop-at-unbeatable-prices-this-octobers-prime-day-sale/"><u>Exclusive Opportunity! Score Your Dream Laptop at Unbeatable Prices This October's Prime Day Sale</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-update-error-8007000e-fast-a-step-by-step-guide/"><u>Fix Windows Update Error 8007000E Fast: A Step-by-Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-recommendations-for-music-video-editors/"><u>New Recommendations for Music Video Editors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/safe-methods-transforming-youtube-audio-into-mp3-files-efficiently-for-2024/"><u>Safe Methods Transforming YouTube Audio Into MP3 Files Efficiently for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-offer-get-the-high-performance-omen-40l-gaming-pc-at-a-steep-markdown-of-550-on-hp-flash-sale-insider-info/"><u>Unmissable Offer! Get the High-Performance Omen 40L Gaming PC at a Steep Markdown of $550 on HP Flash Sale Insider Info</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-storage-with-8tb-samsung-t5-ssd-at-36-off-check-out-the-deal-on-amazon-today-insider-info/"><u>Upgrade Your Storage with 8TB Samsung T5 SSD at 36% Off! Check Out the Deal on Amazon Today - Insider Info</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-cost-effective-surface-pro-n-model-unveiled-by-microsoft-expert-affordable-tech-insights/"><u>ZDNet Reviews: Cost-Effective Surface Pro N Model Unveiled by Microsoft Expert | Affordable Tech Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: Navigating Device Innovations in the Age of Artificial Intelligence - Insights"
-date: 2025-01-18T21:05:09.539Z
-updated: 2025-01-24T22:28:39.296Z
+date: 2025-01-31T20:45:39.925Z
+updated: 2025-02-01T17:08:56.231Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,21 +134,14 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-premium-choices-for-unparalleled-video-communication-for-2024/"><u>[Updated] Premium Choices for Unparalleled Video Communication for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-amplify-your-audience-maximizing-youtube-viewership/"><u>2024 Approved Amplify Your Audience Maximizing YouTube Viewership</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-lite-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Magic 5 Lite Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-for-flickering-win11-monitor/"><u>Quick Fix for Flickering Win11 Monitor</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/save-big-on-oneplus-premier-bargains-of-the-prime-day-extravaganza/"><u>Save Big on OnePlus - Premier Bargains of the Prime Day Extravaganza</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-guide-moving-pictures-from-ios-devices-to-android-platforms/"><u>Simple Guide: Moving Pictures From iOS Devices to Android Platforms</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/staying-the-course-teslas-assurance-of-continued-development-on-cybertruck-and-upcoming-platform-revealed-by-zdnet/"><u>Staying the Course: Tesla's Assurance of Continued Development on Cybertruck & Upcoming Platform Revealed by ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/striking-setups-to-impress-online-audiences/"><u>Striking Setups to Impress Online Audiences</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-art-of-flawless-conversion-from-slides-to-videos-for-2024/"><u>The Art of Flawless Conversion From Slides to Videos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-essential-gadgets-to-enhance-your-dji-mini-3-pro-experience-insights-from-zdnet/"><u>Top Essential Gadgets to Enhance Your DJI Mini 3 Pro Experience - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-car-into-a-security-fortress-with-our-affordable-96-backup-camera-and-dashcam-duo-check-out-now/"><u>Transform Your Car Into a Security Fortress with Our Affordable $96 Backup Camera and Dashcam Duo - Check Out Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-in-flight-internet-prospects-of-improved-connectivity-soar-high/"><u>Transforming In-Flight Internet: Prospects of Improved Connectivity Soar High!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-perceptions-how-todays-electric-vehicles-at-the-ev-expo-prove-theyre-more-than-just-modern-day-prius-cars-zdnet/"><u>Transforming Perceptions: How Today's Electric Vehicles at the EV Expo Prove They're More Than Just Modern-Day Prius Cars | ZDNET</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-kobo-nias-potential-how-it-stacks-up-against-the-popular-kindle-series/"><u>Unveiling the Kobo Nia's Potential: How It Stacks Up Against the Popular Kindle Series</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-zectron-e-bike-one-week-test-drive-reveals-hidden-gems-and-promising-capabilities/"><u>Unveiling the Zectron E-Bike: One Week Test Drive Reveals Hidden Gems and Promising Capabilities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-flight-comfort-with-the-ultimate-tech-gadgets-for-enhanced-air-travel-experience/"><u>Upgrade Your Flight Comfort with the Ultimate Tech Gadgets for Enhanced Air Travel Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlock-potential-innovating-with-effective-instagram-video-loops/"><u>[New] 2024 Approved Unlock Potential Innovating with Effective Instagram Video Loops</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-uploading-to-twitter-a-complete-video-walkthrough/"><u>2024 Approved Uploading to Twitter A Complete Video Walkthrough</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-simplified-non-windows-life-with-an-incredibly-cheap-hp-chromebook-offering-136-off-techradar-exclusive/"><u>Discover the Simplified Non-Windows Life with an Incredibly Cheap HP Chromebook Offering $136 Off – TechRadar Exclusive</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-13-free-pdf-editor-apps-for-july-2024/"><u>Discover the Ultimate List: 13 Free PDF Editor Apps for July 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dual-modes-and-stability-in-sony-hdrcx405/"><u>Dual Modes & Stability in Sony HDRCX405</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-guide-to-the-best-13-inch-notebook-exceptional-endurance-and-dynamic-design-unveiled-insights/"><u>Expert's Guide to the Best 13-Inch Notebook: Exceptional Endurance and Dynamic Design Unveiled Insights</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guide-pratique-pour-localiser-et-recuperer-des-fichiers-disparus-sur-votre-carte-sd/"><u>Guide Pratique Pour Localiser Et Récupérer Des Fichiers Disparus Sur Votre Carte SD</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teamgees-dual-monitor-offer-cut-costs-by-120-a-must-have-for-mobile-workstations/"><u>TeamGee's Dual Monitor Offer: Cut Costs by $120 - A Must-Have for Mobile Workstations!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-dual-purpose-tech-of-the-year-unlocking-its-underappreciated-office-potential-zdnet/"><u>Top Rated Dual-Purpose Tech of The Year - Unlocking Its Underappreciated Office Potential | ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ASRock Revolutionizes Gaming Rigs with Their Brand New Ryzen 9000 Motherboards
-date: 2024-08-19T02:37:22.271Z
-updated: 2024-08-20T02:37:22.271Z
+date: 2025-01-28T20:04:43.261Z
+updated: 2025-02-01T20:20:17.630Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,21 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-choosing-your-recording-champion-pick-obs-or-bandicam/"><u>[New] 2024 Approved Choosing Your Recording Champion Pick OBS or Bandicam?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-waveform-overlaps-the-crossfade-method/"><u>[New] 2024 Approved Mastering Waveform Overlaps The Crossfade Method</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-discover-the-best-4k-capture-software-for-live-recording/"><u>[Updated] 2024 Approved Discover the Best 4K Capture Software for Live Recording</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/black-friday-2022-dates-and-top-sites-offering-amazing-discounts-insights/"><u>Black Friday 2022: Dates & Top Sites Offering Amazing Discounts - Insights</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/cut-the-clutter-structuring-videos-with-chapter-tags/"><u>Cut the Clutter Structuring Videos with Chapter Tags</u></a></li>
+<li><a href="https://facebook.techidaily.com/diving-deep-into-facebooks-policy-framework-at-launch/"><u>Diving Deep Into Facebook's Policy Framework at Launch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-clearbook-a-functional-marvel-unveiled-at-mobile-world-congress-insights-from-zdnet/"><u>Experiencing Lenovo's Clearbook: A Functional Marvel Unveiled at Mobile World Congress - Insights From ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/income-statement-pewdiepie-the-youtube-guru/"><u>Income Statement PewDiePie, The YouTube Guru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-unveils-upgraded-2-in-1-thinkpad-with-superior-feature-for-power-users-expert-review-awaits/"><u>Lenovo Unveils Upgraded 2-in-1 ThinkPad with Superior Feature for Power Users, Expert Review Awaits!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-college-laptop-selection-4-essential-aspects-and-our-top-10-recommendations-insights-from-zdnet/"><u>Mastering College Laptop Selection: 4 Essential Aspects and Our Top 10 Recommendations | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-top-virtual-reality-offer-metas-limited-time-promotion-on-the-high-capacity-quest-3-zdnet-exclusive/"><u>Snag The Top Virtual Reality Offer: Meta's Limited-Time Promotion on the High-Capacity Quest ^3 | ZDNet Exclusive</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/solving-the-mystery-of-a-missing-graphics-card-with-yls-expert-advice/"><u>Solving the Mystery of a Missing Graphics Card with YL's Expert Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-gaming-notebooks-comprehensive-reviews-by-professionals-techradar/"><u>Top-Rated Affordable Gaming Notebooks: Comprehensive Reviews by Professionals | TechRadar</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

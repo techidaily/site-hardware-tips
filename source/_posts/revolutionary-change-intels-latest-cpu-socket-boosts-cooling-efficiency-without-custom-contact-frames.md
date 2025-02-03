@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Change: Intel's Latest CPU Socket Boosts Cooling Efficiency Without Custom Contact Frames"
-date: 2024-08-19T02:37:05.466Z
-updated: 2024-08-20T02:37:05.466Z
+date: 2025-01-25T19:43:39.734Z
+updated: 2025-02-01T18:46:48.672Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,21 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-paving-the-path-to-online-success-youtubes-keyword-guide/"><u>[New] 2024 Approved Paving the Path to Online Success YouTube's Keyword Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-windows-11-game-recordings-the-ultimate-guide-to-successful-techniques/"><u>[Updated] 2024 Approved Windows 11 Game Recordings The Ultimate Guide to Successful Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kissanime/"><u>完全なKissAnimeダウンロードマスタリーと、不可視ディテール対策を一刀両断！</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audiophiles-guide-distinguishing-features-of-ht-vs-sr-amplifiers/"><u>Audiophile's Guide: Distinguishing Features of HT Vs. SR Amplifiers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bargain-bin-alert-grab-a-refurbished-microsoft-surface-pro-ebox-for-only-300-exclusive-offer-inside-zdnet/"><u>Bargain Bin Alert: Grab a Refurbished Microsoft Surface Pro Ebox for Only $300 - Exclusive Offer Inside ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciding-on-your-ideal-apple-laptop-macbook-pro-vs-macbook-air-explained-by-zdnet/"><u>Deciding on Your Ideal Apple Laptop: MacBook Pro Vs. MacBook Air Explained by ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-note-30-vip-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Note 30 VIP Through Google Earth?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-8-plus-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 8 Plus from iCloud</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oppo-a78-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Oppo A78 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/metas-quest-3-innovative-october-prime-deal-at-an-all-time-low-get-your-512gb-unit-now-exclusive-insights-and-tips-from-zdnet/"><u>Meta's Quest 3 Innovative October Prime Deal at an All-Time Low: Get Your 512GB Unit Now! Exclusive Insights and Tips From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-samsung-galaxy-xcover-6-pro-tactical-edition-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Samsung Galaxy XCover 6 Pro Tactical Edition and stops randomly</u></a></li>
+<li><a href="https://win11.techidaily.com/orchestrate-your-tasks-microsoft-to-do-plus-ifttt/"><u>Orchestrate Your Tasks: Microsoft To-Do + IFTTT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-preview-essential-money-saving-deals-on-amazon-ahead-of-2024s-event-featured-by-zdnet/"><u>Prime Day Preview: Essential Money-Saving Deals on Amazon Ahead of 2024’S Event, Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-alienware-gaming-laptops-unveiled-at-ces-202/"><u>Upcoming Alienware Gaming Laptops Unveiled at CES 202</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest in Gadgets with Tom's Hardware Reviews
-date: 2024-08-19T02:38:08.961Z
-updated: 2024-08-20T02:38:08.961Z
+date: 2025-01-27T16:57:07.933Z
+updated: 2025-02-01T18:38:01.647Z
 tags:
   - motherboards
 categories:
@@ -15,9 +15,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where did CAMM2 come from?
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
@@ -33,9 +41,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -47,16 +63,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,22 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-behind-the-scenes-how-to-create-youtube-trailers-in-filmora/"><u>[New] Behind the Scenes How-To Create YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-zoom-conferences-the-power-of-filters-for-2024/"><u>[New] Optimizing Zoom Conferences The Power of Filters for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-streamlined-playback-controlling-youtube-video-delivery-speeds/"><u>[New] Streamlined Playback Controlling YouTube Video Delivery Speeds</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-visualizing-your-vision-incorporating-new-fonts-into-after-effects/"><u>[New] Visualizing Your Vision Incorporating New Fonts Into After Effects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-access-all-areas-steps-for-securing-facebook-live-files/"><u>2024 Approved Access All Areas Steps for Securing Facebook Live Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-bests-in-our-latest-college-laptop-comparison-non-apple-and-non-lenovo-with-200-off-see-what-we-found-at-zdnet/"><u>Budget Friendly Bests in Our Latest College Laptop Comparison (Non-Apple & Non-Lenovo) with $200 Off! See What We Found at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/galaxy-unveiling-highlights-comprehensive-overview-of-samsungs-latest-innovations-revealed-at-unpacked-event-techinsight/"><u>Galaxy Unveiling Highlights: Comprehensive Overview of Samsung's Latest Innovations Revealed at Unpacked Event | TechInsight</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-creating-a-unique-online-presence-using-obs-youtube-and-twitch/"><u>In 2024, Creating a Unique Online Presence Using OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-images-with-picart-clear-canvas-technique/"><u>In 2024, Transform Your Images with PicArt Clear Canvas Technique</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/moving-forward-with-technology-how-to-update-your-m3-macbook-pro-or-latest-generation-imac-to-macos-mojave-expert-tips-from-zdnet/"><u>Moving Forward with Technology: How to Update Your M3 MacBook Pro or Latest Generation iMac to macOS Mojave - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341692803-ocular-trauma-requires-a-thorough-examination-by-an-ophthalmologist-including-assessment-of-visual-acuity-and-intraocular-pressure/"><u>Ocular Trauma Requires a Thorough Examination by an Ophthalmologist, Including Assessment of Visual Acuity and Intraocular Pressure.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professionals-guide-to-choosing-the-ideal-laptop-for-video-editing-comprehensive-tests-and-honest-reviews-zdnet/"><u>Professional's Guide to Choosing the Ideal Laptop for Video Editing: Comprehensive Tests and Honest Reviews | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-the-hp-victus-15-gaming-laptop-at-an-unbeatable-price-of-515-dont-miss-out-on-these-amazing-black-friday-savings-from-best-buy/"><u>Score the HP Victus 15 Gaming Laptop at an Unbeatable Price of $515 - Don't Miss Out on These Amazing Black Friday Savings From Best Buy!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-16-unbeatable-hp-laptop-offers-this-festive-season-exclusive-insights/"><u>Top 16 Unbeatable HP Laptop Offers This Festive Season: Exclusive Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-7-amazing-labor-day-promotions-on-apple-products-save-up-to-120-on-airpods-according-to-zdnet/"><u>Top 7 Amazing Labor Day Promotions on Apple Products - Save Up To $120 On AirPods, According to ZDNet!</u></a></li>
+</ul></div>
 

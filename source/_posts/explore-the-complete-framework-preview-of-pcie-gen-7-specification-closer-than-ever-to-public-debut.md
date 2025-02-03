@@ -1,7 +1,7 @@
 ---
 title: "Explore the Complete Framework: Preview of PCIe Gen 7 Specification Closer than Ever to Public Debut"
-date: 2024-08-19T02:38:52.641Z
-updated: 2024-08-20T02:38:52.641Z
+date: 2025-01-30T16:19:20.172Z
+updated: 2025-02-01T19:37:55.258Z
 tags:
   - motherboards
 categories:
@@ -45,6 +45,10 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
 
  Typical of mini-ITX motherboards, there are only two memory slots. The ones on the MS-Challenger B760BKB D5 are[DDR5](https://tools.techidaily.com) slots, so you can have up to 96GB of memory and more when 64GB DDR5 memory modules are available. Speed-wise, these should be up to DDR5-8000, assuming your processor can handle it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,20 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unlock-the-potential-of-your-podcast-covers-now/"><u>[New] In 2024, Unlock the Potential of Your Podcast Covers Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-iphone-ringtones-refinement/"><u>[Updated] The Ultimate Guide to iPhone Ringtones Refinement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-deals-revealed-save-up-to-900-on-high-performance-lenovo-workstations-pre-prime-day-exclusive-zdnet-report/"><u>Amazon Deals Revealed: Save Up to $900 on High-Performance Lenovo Workstations Pre-Prime Day | Exclusive ZDNET Report</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-your-vob-videos-for-free-discover-the-leading-8-converters-for-quick-mpg-conversion-online/"><u>Convert Your VOB Videos for Free: Discover the Leading 8 Converters for Quick MPG Conversion Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-businesses-driving-the-future-of-virtual-worlds-exploring-the-metaverses-pioneers-with-zdnet/"><u>Discover Businesses Driving the Future of Virtual Worlds: Exploring the Metaverse's Pioneers with ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-savings-where-to-find-the-hottest-dell-offers-this-holiday-season-at-leading-retailers-featuring-insider-info/"><u>Discover the Ultimate Guide to Savings: Where to Find The Hottest Dell Offers This Holiday Season at Leading Retailers - Featuring Insider Info</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-oled-laptops-expertly-tested-and-reviewed-insights-zdnet/"><u>Elite Selection of OLED Laptops : Expertly Tested and Reviewed Insights | ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/innovative-methods-to-enhance-your-twitch-stream-for-2024/"><u>Innovative Methods to Enhance Your Twitch Stream for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-computers-the-game-changing-intel-ai-processor-with-amazing-perks-for-your-future-laptop-zdnet/"><u>Revolutionizing Computers: The Game-Changing Intel AI Processor with Amazing Perks for Your Future Laptop | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-ethernet-connectivity-problems-in-windows-11-and-7/"><u>Solving Windows Ethernet Connectivity Problems in Windows 11 and 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-with-the-ideal-lenovo-device-for-your-hybrid-career-paths-at-unbeatable-prices-insights-from-zdnet/"><u>Stay Ahead with the Ideal Lenovo Device for Your Hybrid Career Paths at Unbeatable Prices – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-walmart-savings-in-july-2024-exclusive-finds-featured-on-zdnet/"><u>Top Walmart Savings in July 2024: Exclusive Finds Featured on ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->

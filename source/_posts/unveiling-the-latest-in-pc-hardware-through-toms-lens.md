@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest in PC Hardware Through Tom's Lens
-date: 2024-08-19T02:38:00.000Z
-updated: 2024-08-20T02:38:00.000Z
+date: 2025-01-27T16:34:47.037Z
+updated: 2025-02-01T17:47:28.881Z
 tags:
   - motherboards
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/EfiSWxvyfno2D9DvyifGJ5-320-80.jpg
 The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compression Attached Memory Module) is starting to take off. It allows for faster speeds and for smaller modules to fit in tighter spaces, allowing thin laptops to be more repairable or upgradable. Recently, many of the biggest PC vendors have soldered RAM to the motherboard to save space in laptops rather than using SO-DIMMs, so CAMM2 can help there.
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Where did CAMM2 come from?
 
@@ -33,9 +37,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -48,15 +60,13 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,21 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-pro-screen-recording-tool-for-successful-youtubers/"><u>[Updated] 2024 Approved Pro Screen Recording Tool for Successful YouTubers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/400-deal-exclusive-offer-on-hp-touchscreen-laptop-with-wireless-mouse-and-complimentary-microsoft-365-subscription-sale-now-live/"><u>$400 Deal: Exclusive Offer on HP Touchscreen Laptop with Wireless Mouse & Complimentary Microsoft 365 Subscription - Sale Now Live!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-building-a-skype-group-discussion-in-windowsos-x/"><u>2024 Approved Building a Skype Group Discussion in Windows/OS X</u></a></li>
+<li><a href="https://win-great.techidaily.com/an-overview-of-lawmaking-in-the-era-of-the-sui-dynasty-insights-from-yl-computing-and-yl-software/"><u>An Overview of Lawmaking in the Era of the Sui Dynasty - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/captureelite-pro-windows-enhanced-for-2024/"><u>CaptureElite Pro Windows Enhanced for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-switching-to-a-split-ergonomic-keyboard-upgraded-my-pc-setup-in-just-one-week/"><u>How Switching to a Split Ergonomic Keyboard Upgraded My PC Setup in Just One Week</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-zooms-background-blurring-magic-for-2024/"><u>Mastering Zoom's Background-Blurring Magic for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-surface-laptop-5-insights-content-not-angered-just-underwhelmed-zdnet-expert-review/"><u>Microsoft Surface Laptop 5 Insights: Content, Not Angered, Just Underwhelmed | ZDNET Expert Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/perfect-pairings-of-sound-and-sight-on-social-platforms-for-2024/"><u>Perfect Pairings of Sound and Sight on Social Platforms for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-savings-alert-top-discounts-on-black-friday-2023-shop-smart-with-zdnet/"><u>Prime Savings Alert: Top Discounts on Black Friday 2023 - Shop Smart with ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-from-walmart-in-july-2024-exclusive-offers-on-zdnet/"><u>Top Picks From Walmart in July 2024: Exclusive Offers on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-ultimate-laptop-picks-professionally-evaluated-by-tech-experts-zdnet/"><u>Top-Ranking Ultimate Laptop Picks , Professionally Evaluated by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-hidden-gems-discover-5-strategies-to-find-rarely-streamed-films/"><u>Unlock Hidden Gems: Discover 5 Strategies to Find Rarely-Streamed Films</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/wintv-guide-effective-techniques-in-windows-based-live-recording-for-2024/"><u>WinTV Guide Effective Techniques in Windows-Based Live Recording for 2024</u></a></li>
+</ul></div>
 

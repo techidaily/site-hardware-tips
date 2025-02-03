@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Asus BIOS Enhancement: Seamless Integration of Microsoft's Light Control Technology"
-date: 2024-08-19T02:37:03.163Z
-updated: 2024-08-20T02:37:03.163Z
+date: 2025-01-30T16:43:45.095Z
+updated: 2025-02-01T20:30:17.478Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,9 +62,21 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-your-signature-voice-for-instagram-success-for-2024/"><u>[Updated] Crafting Your Signature Voice for Instagram Success for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordably-exceptional-discovering-a-high-quality-display-on-this-budget-friendly-ultrabook/"><u>Affordably Exceptional: Discovering a High-Quality Display on This Budget-Friendly Ultrabook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buy-launches-epic-gaming-audio-experience-top-ranked-speakers-go-on-sale-insights-from-zdnet/"><u>Best Buy Launches Epic Gaming Audio Experience: Top-Ranked Speakers Go On Sale - Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversion-en-ligne-des-fichiers-flv-vers-le-format-webm-pour-free-aidez-vous-a-laide-de-movavi/"><u>Conversion en Ligne Des Fichiers FLV Vers Le Format WebM Pour Free - Aidez-Vous À L'aide De Movavi</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210131389-9781761035685-crystal-healing/"><u>Crystal Healing | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digital-scribes-leveraging-ai-for-dynamic-game-dialogue-writing/"><u>Digital Scribes: Leveraging AI for Dynamic Game Dialogue Writing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/exclusive-list-of-budget-friendly-video-conferencing-tools-for-2024/"><u>Exclusive List of Budget-Friendly Video Conferencing Tools for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimizing-your-home-studio-for-online-broadcasts/"><u>In 2024, Optimizing Your Home Studio for Online Broadcasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/laptop-revelation-how-i-discovered-a-superior-lightweight-alternative-to-the-macbook-air/"><u>Laptop Revelation! How I Discovered a Superior Lightweight Alternative to the MacBook Air</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-releases-innovative-2-in-1-convertible-device-combining-windows-pc-and-android-tablet-functionality/"><u>Lenovo Releases Innovative 2-in-1 Convertible Device Combining Windows PC & Android Tablet Functionality</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-asus-rog-phone-7-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Asus ROG Phone 7 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/ultimate-guide-how-to-cleanly-extract-images-from-shutterstock-without-watermarks/"><u>Ultimate Guide: How to Cleanly Extract Images From Shutterstock without Watermarks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-latest-m2-macbook-air-an-emotional-journey-insights-and-reviews-at-zdnet/"><u>Unboxing the Latest M2 MacBook Air – An Emotional Journey | Insights & Reviews at ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo A1x 5G? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->

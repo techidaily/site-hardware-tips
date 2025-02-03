@@ -1,7 +1,7 @@
 ---
 title: "Support Sobriety Efforts: If You Confirm that Your Teenager Has Been Using Drugs or Alcohol, Help Them Find Resources Such as Support Groups, Counseling Services, Rehabilitation Programs, or Sober Activities to Encourage and Maintain Sobriety"
-date: 2024-08-19T02:35:41.571Z
-updated: 2024-08-20T02:35:41.571Z
+date: 2025-01-30T17:55:27.211Z
+updated: 2025-02-01T18:17:26.868Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,24 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-immediate-frame-grabbers-help-for-2024/"><u>[New] Immediate Frame Grabber's Help for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-art-of-flow-mastering-inshots-segmentation-techniques/"><u>[New] The Art of Flow Mastering Inshot's Segmentation Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-skyrocket-mobile-images-flawlessly-free/"><u>[Updated] 2024 Approved Skyrocket Mobile Images Flawlessly, Free</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-the-art-of-converting-youtube-to-interactive-animated-gifs-for-2024/"><u>[Updated] Mastering the Art of Converting YouTube to Interactive Animated GIFs for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-commanding-your-computer-with-ease-gratis/"><u>2024 Approved Commanding Your Computer With Ease, Gratis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-bonanza-why-pay-more-when-you-can-get-a-255-chromebook-deal-this-october-insider-tips-from-zdnet/"><u>Amazon Prime Day Bonanza: Why Pay More When You Can Get a $255 Chromebook Deal This October? Insider Tips From ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chromebooks-now-incorporate-elements-from-windows-11-in-latest-operating-system-upgrade-a-look-at-the-cross-platform-synergy/"><u>ChromeBooks Now Incorporate Elements From Windows 11 in Latest Operating System Upgrade: A Look at the Cross-Platform Synergy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-holiday-laptop-deals-from-apple-to-hp-score-savings-and-upgrades-with-our-top-39-picks-techsavvyznet/"><u>Discover the Ultimate Holiday Laptop Deals From Apple to HP: Score Savings & Upgrades with Our Top 39 Picks | TechSavvyZnet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-mac-hack-how-to-fix-continuous-cooler-operation-as-revealed/"><u>Essential Mac Hack: How to Fix Continuous Cooler Operation as Revealed</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/get-started-with-kodi-on-your-windows-11-pc-comprehensive-downloading-and-installing-instructions-no-cost/"><u>Get Started with Kodi on Your Windows 11 PC: Comprehensive Downloading and Installing Instructions (No Cost)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-completely-remove-your-data-from-a-windows-pc-safely-and-without-cost-expert-tips-and-tricks/"><u>How to Completely Remove Your Data From a Windows PC Safely and Without Cost - Expert Tips & Tricks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-mohu-blade-antenna-analysis-innovative-look-with-effective-indoors-reception/"><u>In-Depth Mohu Blade Antenna Analysis: Innovative Look with Effective Indoors Reception</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-vn-video-editor-pro-does-it-deliver-on-its-promises/"><u>New In 2024, VN Video Editor Pro Does It Deliver on Its Promises?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-linux-distros-perfect-for-newbies-thoroughly-tested-and-evaluated-by-professionals-revealed-on-zdnet/"><u>Top Rated Linux Distros Perfect for Newbies: Thoroughly Tested & Evaluated by Professionals - Revealed on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-screen-quality-meets-budget-friendly-deal-on-lightweight-laptop-featured-on-zdnets-latest-offering/"><u>Top-Tier Screen Quality Meets Budget-Friendly Deal on Lightweight Laptop, Featured on ZDNet's Latest Offering!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-highest-quality-touchscreen-laptops-professional-ratings-zdnet/"><u>Ultimate Guide to the Highest Quality Touchscreen Laptops - Professional Ratings | ZDnet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-hue-harmonizer-tool-for-2024/"><u>Ultimate Hue Harmonizer Tool for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

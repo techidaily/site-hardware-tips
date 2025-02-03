@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your HTPC with the X60nTM5-ITX: ASRock's Latest Mini-ITX Marvel in Thin Motherboards"
-date: 2024-08-19T02:36:49.026Z
-updated: 2024-08-20T02:36:49.026Z
+date: 2025-01-27T16:17:19.303Z
+updated: 2025-02-01T18:36:39.780Z
 tags:
   - motherboards
 categories:
@@ -29,6 +29,10 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
   
  Again, take this information with a grain of salt. For all we know, some of MaxSun's motherboard names might never be used for a shipping product, and that goes for the new chipset model names, too. We'll have to wait for an official Intel announcement to confirm its full 800-series chipset lineup, and likewise for AMD and its overlapping 800-series chipsets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,19 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-vr-travel-a-step-by-step-guide/"><u>[New] Mastering VR Travel A Step-by-Step Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quicktime-screen-recording-with-audio-guide-for-2024/"><u>[Updated] QuickTime Screen Recording with Audio Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-for-lenovo-screen-recording-enthusiasts-for-2024/"><u>[Updated] The Ultimate Guide for Lenovo Screen Recording Enthusiasts for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-12-proplus-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme 12 Pro+ 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-vetted-ultimate-laptop-selections-for-university-students-reviews-and-comparisons/"><u>Expertly Vetted Ultimate Laptop Selections for University Students: Reviews & Comparisons</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-critique-gopro-hero4-silver-sensor/"><u>In 2024, Complete Critique GoPro HERO4 Silver Sensor</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-130-music-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia 130 Music to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mixed-media-mastery-evaluating-splitcams-edge/"><u>Mixed Media Mastery Evaluating SplitCam's Edge</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/projecting-film-costs-for-your-music-video-for-2024/"><u>Projecting Film Costs for Your Music Video for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ready-for-the-new-semester-unlock-exclusive-discounts-on-tech-gadgets-for-students-samsung-deals/"><u>Ready for the New Semester? Unlock Exclusive Discounts on Tech Gadgets for Students - Samsung Deals !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surpassing-the-macbook-air-the-microsoft-surface-laptop-copilotplus-pc-excellence-tested-and-reviewed-experts/"><u>Surpassing the MacBook Air: The Microsoft Surface Laptop Copilot+ PC Excellence Tested and Reviewed Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-this-asus-notebook-outshines-your-macbook-unveiling-its-advantages-on-zdnet/"><u>Why This Asus Notebook Outshines Your MacBook: Unveiling Its Advantages on ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

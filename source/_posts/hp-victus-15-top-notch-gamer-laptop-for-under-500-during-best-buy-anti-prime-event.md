@@ -1,7 +1,7 @@
 ---
 title: HP Victus 15 - Top-Notch Gamer Laptop for Under $500 During Best Buy Anti-Prime Event!
-date: 2024-12-21T21:42:25.416Z
-updated: 2024-12-28T00:04:22.665Z
+date: 2025-01-29T20:42:15.609Z
+updated: 2025-02-01T19:15:14.260Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 GPU and a screen capable of a 144Hz refre
 With 8GB of RAM, a 512GB SSD, and a 12th-gen Intel Core i5 processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,21 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-the-best-practices-for-linktree-on-tiktok-profiles/"><u>[New] In 2024, Unveiling the Best Practices for Linktree on TikTok Profiles</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-fast-tracking-tiktok-filming-the-ultimate-playbook/"><u>[Updated] 2024 Approved Fast-Tracking TikTok Filming The Ultimate Playbook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-youtube-potential-expert-tips-for-wirecast-streaming/"><u>[Updated] Unlocking YouTube Potential Expert Tips for WireCast Streaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-apple-watch-series-10-awaits-you-for-only-99-through-best-buys-presale-detailed-steps-on-zdnet/"><u>Affordable Apple Watch Series 10 Awaits You for Only $99 Through Best Buy's Presale - Detailed Steps on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-between-the-samsung-galaxy-watch-6-classic-and-watch-n-pro-a-comprehensive-guide-find-your-perfect-fit/"><u>Choosing Between the Samsung Galaxy Watch 6 Classic and Watch N Pro: A Comprehensive Guide - Find Your Perfect Fit!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dive-deep-into-netflixs-realm-a-full-exploration-of-this-dominant-video-streaming-platform/"><u>Dive Deep Into Netflix's Realm - A Full Exploration of This Dominant Video Streaming Platform</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-workout-game-with-top-garmin-athletic-smartwatches-insights-from-zdnet/"><u>Elevate Your Workout Game with Top Garmin Athletic Smartwatches - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-athletic-watches-of-2ebrty-2024-expertly-assessed-and-critiqued-featured-on-zdnet/"><u>Elite Athletic Watches of 2Ebrty 2024: Expertly Assessed and Critiqued - Featured on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enabling-apple-watchs-fall-alert-feature-a-comprehensive-guide-on-functionality-and-benefits-tech-insights/"><u>Enabling Apple Watch's Fall Alert Feature: A Comprehensive Guide on Functionality & Benefits | Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-the-amazfit-gtr-3-smartwatch-unveiling-its-capabilities-and-user-experience/"><u>Expert Insights on the Amazfit GTR 3 Smartwatch – Unveiling Its Capabilities and User Experience</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-achieving-clip-perfection-with-blending-techniques/"><u>In 2024, Achieving Clip Perfection with Blending Techniques</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-2withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 2with/without a PC</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/screen-saving-android-titles-a-curated-list-of-indoor-games/"><u>Screen-Saving Android Titles A Curated List of Indoor Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/swift-methods-to-address-steam-login-problems-in-rust/"><u>Swift Methods to Address Steam Login Problems in Rust</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-6-reasons-to-quit-the-online-obsession/"><u>The 6 Reasons to Quit the Online Obsession</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-next-generation-awaits-how-apple-is-gearing-up-for-a-revolutionary-watch-x-makeover-by-2025-analysis-at-zdnet/"><u>The Next Generation Awaits: How Apple Is Gearing Up for a Revolutionary Watch X Makeover by 2025 | Analysis at ZDNET</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-best-8-linux-programs-for-media-makers/"><u>[New] In 2024, Best 8 Linux Programs for Media Makers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagrams-filter-techniques-for-2024/"><u>[New] Mastering Instagram's Filter Techniques for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-toolwiz-for-professionals-a-thorough-app-assessment-for-2024/"><u>[New] Toolwiz for Professionals A Thorough App Assessment for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unleash-creativity-with-these-5-advanced-tiktok-captioning-techniques-for-2024/"><u>[New] Unleash Creativity with These 5 Advanced TikTok Captioning Techniques for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-effortlesswebcamcapturewithyoucam/"><u>2024 Approved EffortlessWebcamCaptureWithYouCam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/az-screen-recorder-review-series-for-2024/"><u>AZ Screen Recorder Review Series for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delve-into-hardware-with-toms-insights-comprehensive-guide-and-reviews/"><u>Delve Into Hardware with Tom's Insights – Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-tech-trends-at-toms-electronics-insight/"><u>Discover Cutting-Edge Tech Trends at Tom's Electronics Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-ranked-raspberry-pi-hat-options-of-2024-ideal-additions-to-any-electronics-project/"><u>Discover the Top-Ranked Raspberry Pi HAT Options of 2024: Ideal Additions to Any Electronics Project</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-rated-computers-and-peripherals-at-toms-electronics-reviews/"><u>Discover Top-Rated Computers and Peripherals at Tom's Electronics Reviews</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/easily-modify-your-pcs-setup-with-windows-control-panel-how-to-add-or-remove-software-perfect-for-beginners-by-yl-software-solutions/"><u>Easily Modify Your PC's Setup with Windows Control Panel: How to Add or Remove Software, Perfect for Beginners by YL Software Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-best-gaming-graphics-cards-exceptional-quality-at-competitive-prices-2024-edition/"><u>Elite Selection of Best Gaming Graphics Cards - Exceptional Quality at Competitive Prices, 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-toms-pc-components-and-gadgets/"><u>Expert Insights Into Tom's PC Components and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-unveiling-the-power-of-the-3dmakerpro-mole-3d-scanner-portable-precision-at-its-best/"><u>Expert Review: Unveiling the Power of the 3DMakerPro Mole 3D Scanner – Portable Precision at Its Best</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-gadgets-with-toms-equipment-rundown/"><u>Exploring the World of Gadgets with Tom's Equipment Rundown</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/guida-passo-passo-per-cambiare-la-configurazione-della-lingua-in-aomei-backupper-manuale-e-video/"><u>Guida Passo-Passo per Cambiare La Configurazione Della Lingua in AOMEI Backupper: Manuale E Video</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-7-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 7 Plus Without iTunes</u></a></li>
 </ul></div>
 

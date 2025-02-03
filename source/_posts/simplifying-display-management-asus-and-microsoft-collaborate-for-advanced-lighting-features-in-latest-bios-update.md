@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Display Management: Asus and Microsoft Collaborate for Advanced Lighting Features in Latest BIOS Update"
-date: 2024-08-19T02:36:23.671Z
-updated: 2024-08-20T02:36:23.671Z
+date: 2025-01-25T16:00:01.369Z
+updated: 2025-02-01T17:23:15.052Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,19 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-raising-livestock-a-guide-to-ginger-island-farm/"><u>[New] In 2024, Raising Livestock A Guide to Ginger Island Farm</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-simplifying-visual-sharing-in-ms-teams-with-snap-camera/"><u>[New] Simplifying Visual Sharing in MS Teams with Snap Camera</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cut-to-impact-in-depth-youtube-video-editing-mastery/"><u>[Updated] In 2024, Cut to Impact In-Depth Youtube Video Editing Mastery</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-timed-tweets-mastering-youtubes-best-post-days/"><u>[Updated] In 2024, Timed Tweets Mastering YouTube's Best Post Days</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-affordable-panoramic-cameras-revolutionizing-media-production/"><u>2024 Approved Affordable Panoramic Cameras Revolutionizing Media Production</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accelerate-your-pc-performance-solutions-for-a-speedy-windows-11/"><u>Accelerate Your PC Performance: Solutions For A Speedy Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-samsung-8tb-t5-nvme-ssd-steals-the-show-36-discount-post-prime-day-tech-insights/"><u>Amazon's Samsung 8TB T5 NVMe SSD Steals the Show: 36% Discount Post-Prime Day | Tech Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-windows-event-viewer-fixes/"><u>Strategies for Windows Event Viewer Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-apples-13-inch-macbook-air-m2-cheapest-ever-on-cyber-monday-zdnet-coverage/"><u>Unbeatable Bargain Alert: Apple's 13-Inch MacBook Air M2 - Cheapest Ever on Cyber Monday | ZDNET Coverage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-long-lasting-power-and-eye-catching-design-in-a-13-laptop-an-experts-roundup-insights/"><u>Unveiling Long-Lasting Power and Eye-Catching Design in a 13 Laptop – An Expert's Roundup | Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-upgrades-in-samsungs-copilotplus-pc-how-artificial-intelligence-enhances-performance-zdnet/"><u>Unveiling the Latest Upgrades in Samsung's Copilot+ PC: How Artificial Intelligence Enhances Performance | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watching-transformers-movie-saga-step-by-step-for-optimal-experience/"><u>Watching Transformers Movie Saga Step-by-Step for Optimal Experience</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

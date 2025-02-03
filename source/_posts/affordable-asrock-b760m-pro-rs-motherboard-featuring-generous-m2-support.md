@@ -1,7 +1,7 @@
 ---
 title: Affordable ASRock B760M Pro RS Motherboard - Featuring Generous M.2 Support
-date: 2024-08-19T02:35:56.960Z
-updated: 2024-08-20T02:35:56.960Z
+date: 2025-01-25T19:18:39.663Z
+updated: 2025-02-01T19:41:51.418Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,9 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-boost-video-quality-on-youtube-the-essential-webcams-guide/"><u>[New] 2024 Approved Boost Video Quality on YouTube - The Essential Webcams Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-craft-a-richer-user-experience-in-windows-photos-with-music-and-aesthetic-filters/"><u>[New] In 2024, Craft a Richer User Experience in Windows Photos with Music and Aesthetic Filters</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-from-basics-to-blockbusters-building-an-audience-on-gaming-channels/"><u>2024 Approved From Basics to Blockbusters Building an Audience on Gaming Channels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-live-stream-heroes-face-off-xsplit-vs-obs-showcase/"><u>2024 Approved Live Stream Heroes Face Off – XSplit Vs. OBS Showcase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-powerhouse-why-the-discounted-lenovo-laptop-is-a-game-changer-for-hybrid-work-environments-digitalworklifereviews/"><u>Affordable Powerhouse: Why the Discounted Lenovo Laptop Is a Game Changer for Hybrid Work Environments | DigitalWorkLifeReviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-dual-capabilities-of-lenovos-hybrid-laptop-tablet-unleashing-its-untapped-potential-a-deep-dive-for-zdnet-readers/"><u>Exploring the Dual Capabilities of Lenovo's Hybrid Laptop-Tablet: Unleashing Its Untapped Potential - A Deep Dive for ZDNet Readers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-latest-apple-innovations-presented-at-wwdc-now-find-out-where-to-buy-and-pre-order-with-expert-tips-by-zdnet/"><u>Get Your Hands on the Latest Apple Innovations Presented at WWDC Now — Find Out Where to Buy and Pre-Order with Expert Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-your-dream-machine-exclusive-black-friday-sale-with-40-off-on-the-top-tier-gigabyge-a5-k1-gaming-laptop-zdnets-pick/"><u>Grab Your Dream Machine: Exclusive Black Friday Sale with 40% Off on the Top-Tier Gigabyge A5 K1 Gaming Laptop | ZDNET's Pick</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-your-dilemma-ultimate-guide-to-troubleshoot-cs-go-failure-to-start/"><u>Solving Your Dilemma: Ultimate Guide to Troubleshoot CS: GO Failure to Start</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-2024-gaming-bargains-during-prime-savings-event-up-to-1000-off-techinsights/"><u>Top October 2024 Gaming Bargains During Prime Savings Event - Up to $1,000 Off! | TechInsights</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-iphone-data-recovery-failures-effective-solutions-to-restore-lost-information/"><u>Troubleshooting iPhone Data Recovery Failures: Effective Solutions to Restore Lost Information</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-save-on-the-asus-vivobook-pro-with-a-300-discount-now-available-on-amazon-insights-from-zdnet/"><u>Unbeatable Deals: Save on the Asus VivoBook Pro with a $300 Discount Now Available on Amazon - Insights From ZDNet</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-rapid-method-for-silencing-audio-in-audacity-essential-tips-for-2024/"><u>Updated Rapid Method for Silencing Audio in Audacity Essential Tips for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "MSI Z790 Project Zero Release: A New Era of Desktop Computing Powered by Trailblazing CAMM2 Memory Standard"
-date: 2024-08-19T02:38:30.261Z
-updated: 2024-08-20T02:38:30.261Z
+date: 2025-01-26T16:43:07.436Z
+updated: 2025-02-01T18:30:53.426Z
 tags:
   - motherboards
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
 
  There is no Snapdragon X desktop chip yet, except for in[the Snapdragon X Elite dev kit](https://tools.techidaily.com) . But if these new Arm chips perform as expected, people might be tempted to put them in desktop computers. This would give many users the advantage of a smaller, lighter mini-PC, but still have the power of a full-on tower computer — this development will threaten Intel’s supremacy in the desktop computing space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,8 +49,6 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +56,22 @@ thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b70658
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-from-boredom-to-attention-unveiling-the-6-key-videos-for-2024/"><u>[New] From Boredom to Attention Unveiling the 6 Key Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-live-stream-to-instagram-from-obs/"><u>[Updated] 2024 Approved Live Stream to Instagram From OBS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-transformation-of-video-on-facebook/"><u>[Updated] 2024 Approved The Transformation of Video on Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-harvest-heartbeats-top-farm-games-for-friendly-fun/"><u>[Updated] Harvest Heartbeats Top Farm Games for Friendly Fun</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-ideal-thinkpad-for-the-modern-hybrid-professional-not-just-the-latest-lenovo-release-insights-from-zdnet/"><u>1. Ideal ThinkPad for the Modern Hybrid Professional: Not Just The Latest Lenovo Release - Insights From ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-your-complete-guide-to-understanding-srt-fundamentals/"><u>2024 Approved Your Complete Guide to Understanding SRT Fundamentals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-a-deal-on-your-professional-video-editing-tool-get-the-samsung-monitor-now-with-500-discount-at-best-buy/"><u>Discover a Deal on Your Professional Video Editing Tool – Get the Samsung Monitor Now with $500 Discount at Best Buy!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-discounted-price-of-799-for-apples-m1-powered-macbook-air-on-amazons-prime-day-event-in-october-insights/"><u>Discover the Discounted Price of $799 for Apple's M1-Powered MacBook Air on Amazon's Prime Day Event in October – Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-selected-best-linux-notebooks-in-depth-analysis-and-performance-testing-toms-hardware/"><u>Expertly Selected Best Linux Notebooks : In-Depth Analysis and Performance Testing | Tom's Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-declares-chrome-as-the-quickest-browser-in-latest-ranking/"><u>Google Declares Chrome as the Quickest Browser in Latest Ranking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-your-essential-asus-15-laptop-for-a-bargain-price-of-250-from-walmart-featuring-all-required-connectivity-options/"><u>Grab Your Essential Asus 15'' Laptop for a Bargain Price of $250 From Walmart - Featuring All Required Connectivity Options!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unveiling-the-art-of-video-production-for-facebooks-youtube/"><u>In 2024, Unveiling the Art of Video Production for Facebook's YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-screen-capture-techniques-for-laptops-including-dell-and-lenovo-plus-a-mac-twist/"><u>Mastering Screen Capture: Techniques for Laptops Including Dell and Lenovo, Plus a Mac Twist</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-connectivity-ultimate-guide-to-expanding-port-options-on-macbook-and-ipad-pro-insights-from-zdnet/"><u>Maximizing Connectivity: Ultimate Guide to Expanding Port Options on MacBook and iPad Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-unveils-the-perfect-blend-of-stunning-screen-quality-and-affordability-in-this-super-lightweight-laptop/"><u>ZDNet Unveils the Perfect Blend of Stunning Screen Quality and Affordability in This Super Lightweight Laptop</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: The Exclusive EVGA Classified AMD Board Emerges - Rare X670E Prototype Goes for Over 1K!
-date: 2024-08-19T02:38:01.983Z
-updated: 2024-08-20T02:38:01.983Z
+date: 2025-01-29T17:32:41.664Z
+updated: 2025-02-01T17:58:13.919Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,19 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-leading-8-mirrorless-cameras-for-youtube-creators/"><u>[Updated] In 2024, Leading 8 Mirrorless Cameras For YouTube Creators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-instagram-posting-tips-to-boost-your-podcast-exposure/"><u>[Updated] Instagram Posting Tips to Boost Your Podcast Exposure</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-peaceful-playtimes-best-idle-gaming-choices/"><u>2024 Approved Peaceful Playtimes Best Idle Gaming Choices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-glitch-art-generators-the-ultimate-list-for-creators/"><u>Free Glitch Art Generators The Ultimate List for Creators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-camon-20-premier-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Camon 20 Premier 5G Is Unlocked</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-a54-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy A54 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-soundtrack-secrets-your-complete-audio-compilation-for-ig-videos/"><u>In 2024, Soundtrack Secrets Your Complete Audio Compilation for IG Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-security-key-picks-professional-reviews-and-comparisons-cnet-review/"><u>Leading Security Key Picks : Professional Reviews & Comparisons | CNET Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-premier-laptop-steals-of-prime-day-in-oct-24-exclusive-insights/"><u>Unveiling the Premier Laptop Steals of Prime Day in Oct '24 - Exclusive Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultimate-sound-experience-highly-rated-speakers-slashed-for-a-limited-time-at-best-buy-discover-more-in-our-detailed-zdnet-analysis/"><u>Unveiling the Ultimate Sound Experience: Highly-Rated Speakers Slashed for a Limited Time at Best Buy! Discover More in Our Detailed ZDNet Analysis</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/windows-inspired-chromeos-update-arrives-bringing-new-functionality-to-chromebooks-as-reported-by-zdnet/"><u>Windows-Inspired ChromeOS Update Arrives, Bringing New Functionality to Chromebooks as Reported by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Exploring New Horizons with Tom's Technology Insights
-date: 2024-08-19T02:37:33.302Z
-updated: 2024-08-20T02:37:33.302Z
+date: 2025-01-31T18:28:11.498Z
+updated: 2025-02-01T18:58:50.355Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-10-superior-tools-for-fbx-file-recording/"><u>[New] 10 Superior Tools for FBX File Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pros-verdict-4-superior-fullscreen-capture-applications/"><u>[Updated] 2024 Approved Pro's Verdict 4 Superior Fullscreen Capture Applications</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-complete-guide-to-preserving-ps4-gameplay-moments/"><u>[Updated] In 2024, The Complete Guide to Preserving PS4 Gameplay Moments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-windows-notebook-outshines-the-macbook-air-in-performance-why-it-deserves-your-attention-zdnet/"><u>Budget-Friendly Windows Notebook Outshines the MacBook Air in Performance - Why It Deserves Your Attention | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-asus-vivobook-pro-sale-shop-for-a-300-discount-at-amazon-today/"><u>Discover the ASUS VivoBook Pro Sale: Shop for a $300 Discount at Amazon Today!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-a05s-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel A05s to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-a-portable-monitor-right-for-you-exploring-top-picks-and-reasons-to-consider-them-tech-insight/"><u>Is a Portable Monitor Right for You? Exploring Top Picks and Reasons to Consider Them | Tech Insight</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mastering-wax-a-step-by-step-guide-to-editing-videos-for-free-for-2024/"><u>Mastering Wax A Step-by-Step Guide to Editing Videos for Free for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simply-sharing-whats-on-screen-ultimate-screenshotting-tricks-for-laptop-users-dell-lenovo-and-mac-smartpc-tips/"><u>Simply Sharing What's On-Screen: Ultimate Screenshotting Tricks for Laptop Users (Dell, Lenovo, and Mac) | SmartPC Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-biggest-gains-in-windows-11s-february-2023-patch/"><u>The Biggest Gains in Windows 11'S February 2023 Patch</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ubersetzen-sie-iphone-videos-auf-windows-1011-computer-7-effektive-moglichkeiten/"><u>Übersetzen Sie iPhone-Videos Auf Windows 10/11 Computer - 7 Effektive Möglichkeiten</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-why-your-cellphones-wi-fi-connection-may-lag-a-look-at-7-reasons/"><u>Understanding Why Your Cellphone's Wi-Fi Connection May Lag: A Look at 7 Reasons</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-success-with-spotify-marketing-tips-for-2024/"><u>Unlocking Success with Spotify Marketing Tips for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

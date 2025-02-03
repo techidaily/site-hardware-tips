@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!"
-date: 2025-01-23T00:29:29.196Z
-updated: 2025-01-24T17:06:41.676Z
+date: 2025-01-27T18:46:56.065Z
+updated: 2025-02-01T19:34:22.047Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,22 +87,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-record-presentation-for-digital-projection/"><u>[New] 2024 Approved Record Presentation for Digital Projection</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfect-your-iphone-photography-top-tier-filming-aids/"><u>[Updated] 2024 Approved Perfect Your iPhone Photography Top-Tier Filming Aids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-scams-to-watch-out-for/"><u>5 ChatGPT Scams to Watch Out For</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-innovative-features-of-teslas-new-cybertruck-a-review-by-a-tech-enthusiast-on-zdnet/"><u>Exploring the Innovative Features of Tesla’s New Cybertruck – A Review by a Tech Enthusiast on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/google-unveils-a-decade-of-search-expertise-to-boost-green-startups-in-its-new-accelerator-initiative-the-tech-chronicle/"><u>Google Unveils a Decade of Search Expertise to Boost Green Startups in Its New Accelerator Initiative | The Tech Chronicle</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-analysis-of-paralympics-and-olympics-data-can-drive-energy-efficiency-at-the-upcoming-games-a-zdnet-perspective/"><u>How Analysis of Paralympics & Olympics Data Can Drive Energy Efficiency at the Upcoming Games: A ZDNet Perspective</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovating-green-pioneering-tech-strategies-for-a-sustainable-future-zdnet/"><u>Innovating Green: Pioneering Tech Strategies for a Sustainable Future | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-green-giant-of-telecom-how-the-galaxy-s23-takes-sustainability-to-new-heights-zdnet-insider/"><u>Introducing the Green Giant of Telecom: How the Galaxy S23 Takes Sustainability to New Heights | ZDNet Insider</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-e-bike-innovation-potent-enough-to-dethrone-traditional-cars-uncovering-a-startling-truth-zdnet/"><u>Is the E-Bike Innovation Potent Enough to Dethrone Traditional Cars? Uncovering a Startling Truth | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-portable-photovoltaic-charge-stations-the-ultimate-guide-techradar-comparison/"><u>Leading Portable Photovoltaic Charge Stations: The Ultimate Guide - TechRadar Comparison</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-gardening-top-resources-and-advice-by-zdnet/"><u>Master the Art of Gardening: Top Resources & Advice by ZDNet</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mkv-mastery-best-mac-app-compilation-for-2024/"><u>MKV Mastery Best Mac App Compilation for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigate-a-sea-of-tiktok-saves-with-proper-editing-know-how/"><u>Navigate a Sea of TikTok Saves with Proper Editing Know-How</u></a></li>
-<li><a href="https://common-error.techidaily.com/netflix-not-working-diagnose-and-solve-common-streaming-problems-today/"><u>Netflix Not Working: Diagnose & Solve Common Streaming Problems Today</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-reno-11f-5g-music-recovery-recover-deleted-music-from-oppo-reno-11f-5g-by-fonelab-android-recover-music/"><u>Oppo Reno 11F 5G Music Recovery - Recover Deleted Music from Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/various-methods-for-capturing-screenshots-on-your-computer/"><u>Various Methods for Capturing Screenshots on Your Computer</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-achieving-virality-in-instagram-videos-practical-advice-for-2024/"><u>[New] Achieving Virality in Instagram Videos Practical Advice for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-step-into-anti-time-original-techniques-to-rewind-yt-videos/"><u>[Updated] In 2024, A Step Into Anti-Time Original Techniques to Rewind YT Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-learn-how-to-rewind-video-ordering-on-android-for-2024/"><u>[Updated] Learn How to Rewind Video Ordering on Android for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-exclusive-top-ranked-laptops-from-zdnet-now-available-with-a-staggering-500-discount-before-the-upcoming-prime-day/"><u>Amazon Exclusive: Top-Ranked Laptops From ZDNet Now Available with a Staggering $500 Discount Before the Upcoming Prime Day</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-strategies-for-flawless-srt-file-creation/"><u>In 2024, Ultimate Strategies for Flawless SRT File Creation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-amd-radeon-graphics-drivers-on-windows-without-spending-a-penny/"><u>Install Updated AMD Radeon Graphics Drivers on Windows Without Spending a Penny</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-the-net-top-tags-for-eye-catching-gamer-content-for-2024/"><u>Navigating the Net Top Tags for Eye-Catching Gamer Content for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-demand-why-consumers-choose-damaged-macbook-pro-screens-insights-from-zdnet/"><u>Understanding the Demand: Why Consumers Choose Damaged MacBook Pro Screens - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-your-laptops-hidden-potential-the-overlooked-peripheral-that-boosts-performance-like-never-before-zdnet/"><u>Unlocking Your Laptop's Hidden Potential: The Overlooked Peripheral That Boosts Performance Like Never Before | ZDNet</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-top-6-online-video-speed-controller-for-chrome-safari-firefox-for-2024/"><u>Updated TOP 6 Online Video Speed Controller for Chrome, Safari, Firefox for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-essential-guide-to-the-greatest-prime-day-bargains-of-october-2024-exclusive-deals-on-tech-zdnet/"><u>Your Essential Guide to the Greatest Prime Day Bargains of October 2024 - Exclusive Deals on Tech | ZDNET</u></a></li>
 </ul></div>
 

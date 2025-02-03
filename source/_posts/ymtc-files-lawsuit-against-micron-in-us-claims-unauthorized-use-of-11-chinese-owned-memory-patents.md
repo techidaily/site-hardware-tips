@@ -1,7 +1,7 @@
 ---
 title: "YMTC Files Lawsuit Against Micron in U.S.: Claims Unauthorized Use of 11 Chinese-Owned Memory Patents"
-date: 2024-08-19T02:34:25.563Z
-updated: 2024-08-20T02:34:25.563Z
+date: 2025-01-31T18:33:17.565Z
+updated: 2025-02-01T19:52:19.012Z
 tags:
   - ssd
 categories:
@@ -57,8 +57,6 @@ The fastest PCIe Gen 4 drive you can buy, the 4TB Samsung 990 Pro offers extreme
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +64,28 @@ The fastest PCIe Gen 4 drive you can buy, the 4TB Samsung 990 Pro offers extreme
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-mystery-of-continuous-pauses-in-photo-booths-for-2024/"><u>[Updated] Mystery of Continuous Pauses in Photo Booths for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unleashing-potential-making-the-most-of-facebook-each-day/"><u>[Updated] Unleashing Potential Making the Most of Facebook Each Day</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-ascending-audio-the-ultimate-budget-friendly-asmr-kit-selection/"><u>2024 Approved Ascending Audio - The Ultimate Budget-Friendly ASMR Kit Selection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-seconds-spent-watching-a-20mb-video/"><u>2024 Approved Seconds Spent Watching a 20MB Video</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-sneak-peek-at-prime-day-and-cyber-monday-laptop-deals-coming-in-october-2024-zdnet/"><u>Exclusive Sneak Peek at Prime Day & Cyber Monday Laptop Deals Coming in October 2024 | ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-air-with-apple-m1-chip-at-unbeatable-649-top-deal-on-zdnet/"><u>MacBook Air with Apple M1 Chip at Unbeatable $649: Top Deal on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/octobers-top-virtual-reality-offer-meta-unveils-steeply-discounted-512gb-quest-3-a-must-have-for-prime-day-shoppers/"><u>October's Top Virtual Reality Offer: Meta Unveils Steeply Discounted 512GB Quest 3 - A Must-Have for Prime Day Shoppers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0xca00a009-windows-update-snag/"><u>Overcoming the 0xCA00A009 Windows Update Snag</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-conversion-guide-transforming-asf-files-into-high-quality-mp3-audio/"><u>Seamless Conversion Guide: Transforming ASF Files Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-case-against-why-organizations-banish-chatgpts-services/"><u>The Case Against: Why Organizations Banish ChatGPT's Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-8-essential-gadgets-for-seamless-business-travels-insights-from-zdnet/"><u>Top 8 Essential Gadgets for Seamless Business Travels: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-student-friendly-chromebooks-comprehensive-reviews-and-insights-by-tech-experts/"><u>Top-Ranked Student-Friendly Chromebooks: Comprehensive Reviews & Insights by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-tablets-and-laptops-for-creative-professionals-in-depth-analysis-by-tech-experts/"><u>Top-Rated Graphics Tablets & Laptops for Creative Professionals - In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-non-microsoft-non-lenovo-tablet-perfect-for-business-trips-a-comprehensive-review/"><u>Top-Rated Non-Microsoft, Non-Lenovo Tablet Perfect for Business Trips: A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-presidents-sale-offer-score-300-discount-on-the-latest-m2-macbook-air-shop-now-at-zdnet/"><u>Unbeatable Presidents’ Sale Offer: Score $300 Discount on the Latest M2 MacBook Air - Shop Now at ZDNet!</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

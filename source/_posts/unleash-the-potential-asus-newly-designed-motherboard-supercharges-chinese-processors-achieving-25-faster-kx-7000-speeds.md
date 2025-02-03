@@ -1,7 +1,7 @@
 ---
 title: "Unleash the Potential: Asus’ Newly Designed Motherboard Supercharges Chinese Processors, Achieving 25%% Faster KX-7000 Speeds"
-date: 2024-08-19T02:37:56.775Z
-updated: 2024-08-20T02:37:56.775Z
+date: 2025-01-31T17:14:55.923Z
+updated: 2025-02-01T18:11:43.473Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,24 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-guide-to-revamping-igtv-title-and-description-texts-for-2024/"><u>[New] Guide to Revamping IGTV Title & Description Texts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-conquering-remote-work-mastering-the-use-of-zoom-and-gmail-for-2024/"><u>[Updated] Conquering Remote Work Mastering the Use of Zoom and Gmail for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-driving-engagement-and-returns-animated-advertising-on-facebook/"><u>[Updated] Driving Engagement and Returns Animated Advertising on Facebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-link-mastery-8-powerful-free-extractor-tools/"><u>[Updated] FB Link Mastery 8 Powerful FREE Extractor Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-guide-shrinking-and-changing-iphone-video-dimensions/"><u>2024 Approved Quick Guide Shrinking & Changing iPhone Video Dimensions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-discreet-marvel-a-design-that-hides-stellar-creative-capabilities-revealed/"><u>Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-the-simple-way-to-personalize-your-screen-changing-desktop-images-yl-computing-techniques/"><u>Discover the Simple Way to Personalize Your Screen: Changing Desktop Images, YL Computing Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-apple-pc-substitute-how-this-exceptional-asus-notebook-surpasses-a-macbook-in-key-areas-insights-by-zdnet/"><u>Discover the Ultimate Apple PC Substitute: How This Exceptional Asus Notebook Surpasses a MacBook in Key Areas - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-performance-with-the-top-ranking-dell-inspiron-a-comprehve-analysis/"><u>Experience Unmatched Performance with the Top-Ranking Dell Inspiron – A Comprehve Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-guide-to-saving-on-microsofts-latest-surface-pro-11-top-affordable-picks-revealed/"><u>Experts' Guide to Saving on Microsoft's Latest Surface Pro 11 - Top Affordable Picks Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-problems-get-your-airpods-mic-working-again-in-windows-11/"><u>Fixing Connectivity Problems: Get Your Airpods Mic Working Again in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-adonit-nest-for-only-65-top-rated-usb-hub-upgrade-for-remote-workers-spotted/"><u>Get the Adonit Nest for Only $65! Top-Rated USB Hub Upgrade for Remote Workers Spotted</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-gionee-f3-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Gionee F3 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/share-your-ai-experience-linking-and-spreading-chatgpt-dialogue-examples/"><u>Share Your AI Experience: Linking and Spreading ChatGPT Dialogue Examples</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-surprisingly-stellar-performance-of-the-unassuming-asus-workstation-for-creatives-tech-insights-by-zdnet/"><u>The Surprisingly Stellar Performance of the Unassuming Asus Workstation for Creatives | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-must-have-accessories-enhancing-your-pcs-capability-with-8k-monitors-support-spotted/"><u>Top Pick: Must-Have Accessories Enhancing Your PC's Capability with 8K Monitors Support – Spotted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-googles-latest-innovation-the-chromebookplus-with-amazing-generative-ai-capabilities-my-impressions-from-a-comprehensive-test/"><u>Unveiling Google's Latest Innovation: The Chromebook+ with Amazing Generative AI Capabilities – My Impressions From a Comprehensive Test</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->

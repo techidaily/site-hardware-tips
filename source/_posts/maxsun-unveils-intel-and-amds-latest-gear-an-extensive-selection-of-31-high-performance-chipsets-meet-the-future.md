@@ -1,7 +1,7 @@
 ---
 title: "Maxsun Unveils Intel and AMD's Latest Gear: An Extensive Selection of 31 High-Performance Chipsets - Meet the Future"
-date: 2024-08-19T02:38:26.836Z
-updated: 2024-08-20T02:38:26.836Z
+date: 2025-01-31T18:40:05.676Z
+updated: 2025-02-01T17:45:18.907Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,23 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-expert-guide-to-quick-screen-captures-on-mac-using-shortcuts/"><u>[New] 2024 Approved Expert Guide to Quick Screen Captures on Mac Using Shortcuts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-premium-virtual-playstation-simulators-for-modern-computers/"><u>[New] 2024 Approved Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-who-reigns-supreme-obs-vs-twitch-live/"><u>2024 Approved Who Reigns Supreme? OBS vs Twitch Live</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-chromebook-516-gs-deep-dive-exceptional-performance-in-cloud-gaming-zdnet/"><u>Acer Chromebook 516 GS Deep Dive: Exceptional Performance in Cloud Gaming - ZDNet</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boosting-engagement-joint-video-strategies-for-growth-for-2024/"><u>Boosting Engagement Joint Video Strategies for Growth for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-oled-laptops-expertly-tested-and-reviewed-insights/"><u>Elite Selection of OLED Laptops : Expertly Tested and Reviewed Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-efficacy-of-mcafees-new-ai-deepfake-audio-detector-does-it-meet-security-standards/"><u>Exploring the Efficacy of McAfee's New AI Deepfake Audio Detector – Does It Meet Security Standards?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-y77t-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo Y77t to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-c51-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme C51 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-hps-bold-new-laptop-design-a-fearless-challenge-to-the-norm-unlikely-from-apple-insights/"><u>Introducing HP's Bold New Laptop Design: A Fearless Challenge to the Norm, Unlikely From Apple - Insights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-hindi-like-a-native-speaker-explore-7-compelling-benefits-from-mondly-online-study/"><u>Learn Hindi Like a Native Speaker: Explore 7 Compelling Benefits From Mondly Online Study</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-airplay-connectivity-between-your-apple-devices-in-ios-13/"><u>Mastering AirPlay Connectivity Between Your Apple Devices in iOS 13</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-faulty-windows-11-recycle-bin-messages/"><u>Purging Faulty Windows 11 Recycle Bin Messages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-discounts-on-laptops-during-amazons-october-2024-prime-day-blowout-insights-by-zdnet/"><u>Top-Rated Discounts on Laptops During Amazon's October 2024 Prime Day Blowout - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-find-the-ultimate-gaming-audio-experience-with-a-150-discount-on-amazon-exclusively-featured-by-zdnet/"><u>Unbeatable Bargain: Find the Ultimate Gaming Audio Experience with a $150 Discount on Amazon - Exclusively Featured by ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-power-of-new-macbook-pro-chips-a-detailed-review-of-the-m3-m3-pro-and-m3-max-processors/"><u>Understanding the Power of New MacBook Pro Chips: A Detailed Review of the M3, M3 Pro, and M3 Max Processors</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->

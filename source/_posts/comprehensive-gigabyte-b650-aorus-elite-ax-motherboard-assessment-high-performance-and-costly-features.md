@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Gigabyte B650 Aorus Elite AX Motherboard Assessment - High Performance & Costly Features
-date: 2024-08-19T02:37:26.568Z
-updated: 2024-08-20T02:37:26.568Z
+date: 2025-01-26T19:35:29.008Z
+updated: 2025-02-01T19:35:07.189Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,9 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-fast-track-choosing-best-pc-game-speed-extensions-for-2024/"><u>[Updated] Fast Track Choosing Best PC Game Speed Extensions for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-effervescent-account-creation-series/"><u>[Updated] In 2024, Effervescent Account Creation Series</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-step-by-step-techniques-building-animation-with-movie-maker/"><u>[Updated] Step-by-Step Techniques Building Animation with Movie Maker</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-10plus-top-videos-and-tutorials-on-best-iphoneipad-editing-tools/"><u>2024 Approved 10+ Top Videos & Tutorials on Best iPhone/iPad Editing Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-laptop-performance-with-easy-ram-upgrades-tips-and-tricks-for-quick-improvements/"><u>Boost Laptop Performance with Easy RAM Upgrades: Tips & Tricks for Quick Improvements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-elite-vpn-services-of-2024-in-depth-analysis-and-ratings-zdnet/"><u>Exploring the Elite VPN Services of 2024: In-Depth Analysis and Ratings | ZDNET</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/hero-vs-hero-upgraded-edition/"><u>Hero Vs Hero Upgraded Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-fbx-the-ultimate-gaming-video-guide/"><u>In 2024, FBX The Ultimate Gaming Video Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/launch-your-content-with-free-intros/"><u>Launch Your Content with Free Intros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-uninterrupted-power-for-your-laptop-quality-charger-at-a-steep-discount-now-cnet/"><u>Secure Uninterrupted Power for Your Laptop: Quality Charger at a Steep Discount Now | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lightweight-laptop-picks-for-seamless-remote-working-a-tech-expert-reviews-ideal-models/"><u>Top Lightweight Laptop Picks for Seamless Remote Working: A Tech Expert Reviews Ideal Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-dells-best-kept-secrets-innovative-and-economical-laptop-surpassing-expectations-insights/"><u>Unveiling Dell's Best Kept Secrets: Innovative and Economical Laptop Surpassing Expectations | Insights</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-amplify-visual-audio-levels-enhancing-video-clarity-and-audibility/"><u>Updated 2024 Approved Amplify Visual Audio Levels Enhancing Video Clarity and Audibility</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet"
-date: 2025-01-18T17:44:20.345Z
-updated: 2025-01-24T19:42:52.010Z
+date: 2025-01-31T19:24:49.975Z
+updated: 2025-02-01T20:26:40.740Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,17 +134,18 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-capture-clarity-with-leading-photo-gridding-services-for-2024/"><u>[New] Capture Clarity with Leading Photo Gridding Services for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-leveraging-filmora-insights-for-every-content-creator-for-2024/"><u>[New] Leveraging Filmora Insights for Every Content Creator for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/aking-money-with-media-mastery-of-merchandise-musings/"><u>[New] Making Money with Media Mastery of Merchandise Musings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-ultimate-guide-top-6-cutting-edge-21-hdmi-portable-displays-for-2024/"><u>[New] Ultimate Guide Top 6 Cutting-Edge 2.1 HDMI Portable Displays for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-the-ecoflow-portable-generator-saved-my-household-throughout-severe-power-cuts-a-first-hand-experience/"><u>How the EcoFlow Portable Generator Saved My Household Throughout Severe Power Cuts: A First-Hand Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-usage-based-car-insurance-adjusts-premiums-with-real-time-driving-data/"><u>How Usage-Based Car Insurance Adjusts Premiums with Real-Time Driving Data</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-usage-based-car-insurance-adjusts-rates-with-telematics-data-explore-in-detail-at-zdnet/"><u>How Usage-Based Car Insurance Adjusts Rates with Telematics Data | Explore in Detail at ZDNET</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-capturing-the-essence-of-facetime-on-facebook/"><u>In 2024, Capturing the Essence of FaceTime on Facebook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/initiating-change-corporate-strategies-at-the-intersection-of-technology-and-environmental-responsibility-techcrunch/"><u>Initiating Change: Corporate Strategies at the Intersection of Technology & Environmental Responsibility | TechCrunch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-eco-friendly-audio-creating-high-quality-speakers-from-ocean-recovered-plastic-the-manufacturing-process/"><u>Innovative Eco-Friendly Audio: Creating High-Quality Speakers From Ocean-Recovered Plastic - The Manufacturing Process</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-comprehensive-breakdown-of-rich-communication-services-rcs/"><u>The Comprehensive Breakdown of Rich Communication Services (RCS)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-11-and-battery-health-unveiling-the-secrets-of-system-reports/"><u>Windows 11 and Battery Health: Unveiling the Secrets of System Reports</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/s55-awaits-your-click-scan-through-our-detailed-review-of-this-affordable-high-definition-radar-detector/"><u>'S55' Awaits Your Click: Scan Through Our Detailed Review of This Affordable, High Definition Radar Detector</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-hdr-rating-does-aurora-deliver-quality/"><u>[New] HDR Rating Does Aurora Deliver Quality?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-gamers-blueprint-securing-memorable-moments-with-4-methods/"><u>[Updated] In 2024, The Gamers' Blueprint Securing Memorable Moments with 4 Methods</u></a></li>
+<li><a href="https://driver-error.techidaily.com/0x80070057-what-does-it-mean-and-how-to-fix-it/"><u>0X80070057: What Does It Mean & How to Fix It?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-apps-to-upgrade-your-gopro-creations-on-smartphones/"><u>2024 Approved Foremost Apps to Upgrade Your GoPro Creations on Smartphones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-mastering-quick-video-pace-adjustments-on-youtube/"><u>2024 Approved Mastering Quick Video Pace Adjustments on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-savings-alert-snag-the-portable-powerhouse-lg-gram-17-laptop-up-to-40-off-shop-smart/"><u>Cyber Monday Savings Alert! Snag the Portable Powerhouse LG Gram 17 Laptop Up to 40% Off | Shop Smart .</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-top-10-mobile-apps-that-will-boost-your-teens-academic-skills/"><u>Discover the Top 10 Mobile Apps That Will Boost Your Teen's Academic Skills</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unlocking-the-secrets-to-superior-gaming-on-android-with-kinemaster/"><u>In 2024, Unlocking the Secrets to Superior Gaming on Android With KineMaster</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ethical-implications-of-using-customer-data-for-marketing-purposes-including-privacy-concerns-and-consent/"><u>The Ethical Implications of Using Customer Data for Marketing Purposes, Including Privacy Concerns and Consent.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-travelers-ultimate-guide-to-the-innovative-hassle-free-usb-c-cable-that-changed-my-journey-zdnet/"><u>The Traveler's Ultimate Guide to the Innovative, Hassle-Free USB-C Cable That Changed My Journey | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-test-why-the-wrinkle-resistant-usb-c-cord-is-a-must-have-for-every-traveler-a-deep-dive-on-zdnet/"><u>The Ultimate Test: Why the 'Wrinkle-Resistant' USB-C Cord Is a Must-Have for Every Traveler - A Deep Dive on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmatched-endurance-meets-eye-catching-design-exploring-the-best-long-lasting-laptops-with-beautiful-displays/"><u>Unmatched Endurance Meets Eye-Catching Design: Exploring the Best Long-Lasting Laptops with Beautiful Displays</u></a></li>
 </ul></div>
 

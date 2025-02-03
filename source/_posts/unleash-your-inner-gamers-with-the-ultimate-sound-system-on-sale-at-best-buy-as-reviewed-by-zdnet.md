@@ -1,7 +1,7 @@
 ---
 title: Unleash Your Inner Gamers with the Ultimate Sound System on Sale at Best Buy, as Reviewed by ZDNet
-date: 2025-01-22T00:09:56.153Z
-updated: 2025-01-24T18:37:33.893Z
+date: 2025-01-27T20:04:34.643Z
+updated: 2025-02-01T16:28:09.752Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -75,7 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -87,7 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -124,19 +124,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-essential-skills-for-non-audio-shooting-for-2024/"><u>[New] Essential Skills for Non-Audio Shooting for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-square-it-up-your-complete-guide-to-instagram-ready-videos-in-imovie/"><u>[New] Square It Up! Your Complete Guide to Instagram-Ready Videos in iMovie</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-virality-equation-tiktok-vs-twitter-for-2024/"><u>[Updated] The Virality Equation TikTok Vs. Twitter for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-top-non-kindle-non-remarkable-e-ink-tablets-my-experience-with-the-ultimate-alternatives/"><u>Discover the Top Non-Kindle, Non-Remarkable E Ink Tablets: My Experience with The Ultimate Alternatives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-list-the-most-comfortable-and-efficient-ipad-keyboards-for-professionals/"><u>Discover the Ultimate List: The Most Comfortable and Efficient iPad Keyboards for Professionals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-guide-top-tips-and-strategies-for-successful-back-to-school-organization-insights-from-zdnet/"><u>Essential Guide: Top Tips and Strategies for Successful Back-to-School Organization - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-find-the-hottest-kindle-discounts-on-prime-day-dont-miss-out-now/"><u>Exclusive Guide: Find the Hottest Kindle Discounts on Prime Day – Don't Miss Out Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-natural-felt-of-a-traditional-sketchpad-with-this-high-tech-wacom-tablet-zdnet-review/"><u>Experience the Natural Felt of a Traditional Sketchpad with This High-Tech Wacom Tablet - ZDNet Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-ignore-microsofts-app-verification-warnings/"><u>How to Ignore Microsoft's App Verification Warnings</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-4-marvel-intro-makers-online/"><u>In 2024, Top 4 Marvel Intro Makers Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-selection-of-wi-fi-repeaters-to-broaden-network-accessibility-2024-edition/"><u>Ultimate Selection of Wi-Fi Repeaters to Broaden Network Accessibility - 2024 Edition</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-full-view-issue-screen-fix-confirmed/"><u>Windows 10 Full View Issue: Screen Fix Confirmed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immerse-slides-with-audio-harmony/"><u>[New] Immerse Slides with Audio Harmony</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-inner-workings-of-youtubes-system-after-an-upload/"><u>[New] In 2024, The Inner Workings of YouTube's System After an Upload</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-outstanding-5-streamer-gadgets-online/"><u>[New] Outstanding 5 Streamer Gadgets Online</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-slack-and-filmora-scheduling-meetings-flawlessly-for-2024/"><u>[Updated] Mastering Slack & Filmora Scheduling Meetings Flawlessly for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-turn-your-social-tweets-into-mp3-audio-files/"><u>[Updated] Turn Your Social Tweets Into MP3 Audio Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/co-pilot-extension-for-chatgpt-enhancements-to-conversational-ai/"><u>Co-Pilot Extension for ChatGPT: Enhancements to Conversational AI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-stunning-visuals-with-our-lightweight-champion-premium-laptop-displays-on-special-offer-now-at-zdnet/"><u>Experience Stunning Visuals with Our Lightweight Champion: Premium Laptop Displays on Special Offer - Now at ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-elite-vpn-services-of-2024-in-depth-analysis-and-ratings/"><u>Exploring the Elite VPN Services of 2024: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-transform-avi-files-into-high-quality-aac-audio-streaming/"><u>Free Online Converter: Transform AVI Files Into High-Quality AAC Audio Streaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-apple-m2-macbook-air-now-during-amazon-prime-day-sale-for-just-749-exclusive-info/"><u>Get the Apple M2 MacBook Air Now During Amazon Prime Day Sale for Just $749 – Exclusive Info !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-with-this-clever-best-buy-strategy-to-obtain-a-free-macbook-air-m3-detailed-instructions/"><u>Maximize Savings with This Clever Best Buy Strategy to Obtain a Free MacBook Air M3 - Detailed Instructions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mega-cyber-monday-discounts-on-lg-gram-17-ultra-thin-and-powerful-laptops-now-just-260/"><u>Mega Cyber Monday Discounts on LG Gram 17 - Ultra Thin & Powerful Laptops Now Just $260!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/nostalgic-film-techniques-for-contemporary-projects-using-vhs/"><u>Nostalgic Film Techniques for Contemporary Projects Using VHS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-conversion-how-this-hidden-base-turns-your-laptop-into-high-performance-desktop-powerhouse-insights-from-zdnet/"><u>Seamless Conversion: How This Hidden-Base Turns Your Laptop Into High-Performance Desktop Powerhouse - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-premier-selection-2023s-best-programming-notebook-computers-pcmag/"><u>The Premier Selection: 2023'S Best Programming Notebook Computers | PCMag</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-july-2024-laptop-bargains-you-cant-miss-reviews/"><u>Top July 2024 Laptop Bargains You Can't Miss Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-laptops-in-2nndyear-comprehensive-experts-reviews-and-ratings-zdnet/"><u>Top-Rated Affordable Laptops in 2Nnd_year - Comprehensive Experts' Reviews & Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptops-comprehensive-reviews-and-comparisons-insights-from-tech-experts/"><u>Top-Rated Touchscreen Laptops: Comprehensive Reviews & Comparisons - Insights From Tech Experts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-le-tue-apng-in-gif-gratuito-online-con-fastimageconverter/"><u>Trasforma Le Tue APNG in GIF Gratuito Online Con FastImageConverter</u></a></li>
 </ul></div>
 

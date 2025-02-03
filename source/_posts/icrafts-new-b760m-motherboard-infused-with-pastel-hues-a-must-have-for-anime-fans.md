@@ -1,7 +1,7 @@
 ---
 title: "ICraft's New B760M Motherboard Infused with Pastel Hues: A Must-Have for Anime Fans"
-date: 2024-08-19T02:38:22.366Z
-updated: 2024-08-20T02:38:22.366Z
+date: 2025-01-27T16:49:31.634Z
+updated: 2025-02-01T16:27:50.700Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,26 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-how-to-intensify-your-gaming-view-on-roblox-platforms/"><u>[New] 2024 Approved How to Intensify Your Gaming View on Roblox Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-elevate-conversations-via-curated-creativity-in-stories-lives/"><u>[New] In 2024, Elevate Conversations via Curated Creativity in Stories Lives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-tips-for-successful-home-based-podcasts/"><u>[Updated] 2024 Approved Essential Tips for Successful Home-Based Podcasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/airpods-series-continues-with-airpods-4-discover-the-updates-and-enhancements-in-apples-recent-release-zdnet/"><u>AirPods Series Continues with AirPods 4: Discover the Updates and Enhancements in Apple's Recent Release | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/crafting-the-perfect-gaming-haven-essential-tips-and-secrets/"><u>Crafting The Perfect Gaming Haven: Essential Tips and Secrets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-sale-offers-on-memory-storage-and-ssds-this-festive-season-expert-picks/"><u>Discover the Finest Sale Offers on Memory Storage & SSDs This Festive Season Expert Picks!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dive-into-waterproof-reading-with-the-kobo-libra-h2o-thorough-assessment-and-feedback/"><u>Dive Into Waterproof Reading with the Kobo Libra H2O - Thorough Assessment & Feedback</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effective-strategies-to-remove-unwanted-hyper-v-snapshots-a-comprehensive-guide/"><u>Effective Strategies to Remove Unwanted Hyper-V Snapshots: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-scoop-the-unbeatable-combo-of-portability-and-long-battery-in-our-favorite-laptops-this-year/"><u>Exclusive Scoop : The Unbeatable Combo of Portability & Long Battery in Our Favorite Laptops This Year!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oneplus-nord-ce-3-lite-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-deal-alert-save-220-on-new-nvidia-rtx-3070-graphics-card-limited-time-offer-pcmag/"><u>Huge Deal Alert: Save $220 on New Nvidia RTX 3070 Graphics Card, Limited-Time Offer | PCMag</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-club-chronicles-expertly-picked-dj-videos/"><u>In 2024, Club Chronicles Expertly Picked DJ Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-productivity-and-entertainment-with-a-discounted-550-lenovo-laptop-for-memorial-day-at-zdnet-offers/"><u>Maximize Productivity and Entertainment with a Discounted $550 Lenovo Laptop for Memorial Day at ZDNet Offers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-sweet-spot-in-vr-gaming-explore-how-metas-newly-discounted-512gb-quest-pack-is-shaping-up-as-a-market-leader/"><u>Snag the Sweet Spot in VR Gaming: Explore How Meta's Newly Discounted 512GB Quest Pack Is Shaping Up as a Market Leader</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stunning-drop-apple-launches-affordable-m2-macbook-air-at-just-799-before-october-prime-day-exclusive-details/"><u>Stunning Drop: Apple Launches Affordable M2 MacBook Air at Just $799 Before October Prime Day – Exclusive Details</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sweat-free-sessions-with-topmate-c3-cups-a-cost-efficient-laptop-chiller-unveiled/"><u>Sweat-Free Sessions with TopMate C3 Cups: A Cost-Efficient Laptop Chiller Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-non-microsoft-non-lenovo-tablet-revolutionizes-business-travel-a-comprehensive-review-by-zdnet/"><u>Top-Rated Non-Microsoft, Non-Lenovo Tablet Revolutionizes Business Travel: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-asus-most-overlooked-yet-exceptional-laptop-trait-a-comprehensive-review-by-zdnet/"><u>Unveiling Asus' Most Overlooked Yet Exceptional Laptop Trait: A Comprehensive Review by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

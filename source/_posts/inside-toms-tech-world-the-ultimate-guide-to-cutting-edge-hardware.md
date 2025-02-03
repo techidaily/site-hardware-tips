@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Tech World: The Ultimate Guide to Cutting-Edge Hardware"
-date: 2024-08-19T02:37:36.416Z
-updated: 2024-08-20T02:37:36.416Z
+date: 2025-01-28T20:37:25.272Z
+updated: 2025-02-01T20:41:56.674Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ailored-guide-to-youtube-trailer-production-with-filmora-for-2024/"><u>[New] Tailored Guide to YouTube Trailer Production with Filmora for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-entertainment-galore-kinemaster-the-android-game-guide-2023/"><u>[Updated] Entertainment Galore KineMaster - The Android Game Guide 2023</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-chromebook-flip-c302ca-affordable-and-versatile-laptop-with-impressive-performance/"><u>Asus Chromebook Flip C302CA - Affordable & Versatile Laptop with Impressive Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buy-now-selling-high-definition-sound-systems-for-100-less-the-clear-winner-in-my-testing/"><u>Best Buy Now Selling High-Definition Sound Systems for $100 Less - The Clear Winner in My Testing!</u></a></li>
+<li><a href="https://games-able.techidaily.com/chair-choice-office-or-game/"><u>Chair Choice: Office or Game?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-overview-asus-vivobook-s15-pro-striking-the-right-note-between-screen-size-and-sacrifices/"><u>Comprehensive Overview: Asus VivoBook S15 Pro - Striking the Right Note Between Screen Size & Sacrifices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/configuring-wix-toolset-custom-actions-ensuring-execution-during-system-uninstall-only/"><u>Configuring WiX Toolset Custom Actions: Ensuring Execution During System Uninstall Only</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dissecting-disney-disguises-the-goofy-trek-for-2024/"><u>Dissecting Disney Disguises 'The Goofy Trek' For 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-the-deal-of-the-year-apple-m2-macbook-air-for-only-749-exclusive-offer-this-oct-prime-day-zdnet-insider-report/"><u>Don’t Miss Out on the Deal of the Year: Apple M2 MacBook Air for Only $749 – Exclusive Offer This Oct. Prime Day | ZDNET Insider Report</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-extraordinary-how-lenovos-innovative-thinkpad-x1-fold-redefines-laptops-a-unique-review/"><u>Exploring the Extraordinary: How Lenovo's Innovative ThinkPad X1 Fold Redefines Laptops - A Unique Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-key-discoveries-at-ces-2023-day-two-a-comprehensive-review-by-zdnet/"><u>Exploring the Key Discoveries at CES 2023 Day Two: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 6 Pro Phone without PIN</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-fast-fb-videos-innovative-techniques-and-software-roundup/"><u>In 2024, Mastering Fast FB Videos Innovative Techniques and Software Roundup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-transformation-unveiled-discovering-the-worlds-slickest-gadget-a-lenovo-dual-purpose-laptoptablet-insights-from-zdnet/"><u>Innovative Transformation Unveiled: Discovering the World’s Slickest Gadget, a Lenovo Dual-Purpose Laptop/Tablet | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-mobile-connectivity-why-i-cant-live-without-this-wireless-usb-c-charger-for-on-the-go/"><u>Mastering Your Mobile Connectivity: Why I Can't Live Without This Wireless USB-C Charger for On-The-Go!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/superior-performance-why-this-asus-laptop-outshines-your-macbook-and-heres-how-a-comprehensive-review-by-techguru/"><u>Superior Performance: Why This ASUS Laptop Outshines Your MacBook (And Here's How!) - A Comprehensive Review by TechGuru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transitioning-to-a-new-laptop-life-my-30-day-journey-using-the-dell-xps-15-instead-of-a-macbook-zdnet/"><u>Transitioning to a New Laptop Life: My 30-Day Journey Using the Dell XPS 15 Instead of a MacBook | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-portability-meets-endurance-discover-our-favorite-laptop-of-the-year/"><u>Ultimate Portability Meets Endurance: Discover Our Favorite Laptop of the Year</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->

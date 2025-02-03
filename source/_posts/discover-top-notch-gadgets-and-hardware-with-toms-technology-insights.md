@@ -1,7 +1,7 @@
 ---
 title: Discover Top-Notch Gadgets and Hardware with Tom's Technology Insights
-date: 2024-08-19T02:38:48.915Z
-updated: 2024-08-20T02:38:48.915Z
+date: 2025-01-30T17:43:03.462Z
+updated: 2025-02-01T16:40:32.783Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-subscribe-does-it-really-amplify-watch-time/"><u>[Updated] Quick-Subscribe Does It Really Amplify Watch Time?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-prosperous-path-share-tiktok-via-twitter/"><u>[Updated] The Prosperous Path Share TikTok via Twitter</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-leading-steadicam-choices-for-improved-dslr-footage/"><u>2024 Approved Leading Steadicam Choices for Improved DSLR Footage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-guide-the-basics-of-google-podcasts-app-for-2024/"><u>Complete Guide The Basics of Google Podcasts App for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evolution-of-microsoft-surface-overcoming-early-challenges-and-redefining-personal-computing-zdnet/"><u>Evolution of Microsoft Surface: Overcoming Early Challenges and Redefining Personal Computing | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-advice-on-iphone-landscape-imaging-for-killer-photos-for-2024/"><u>Expert Advice on iPhone Landscape Imaging for Killer Photos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/master-remote-broadcasts-using-manycam-top-tier-virtual-camera-and-live-recording-tools/"><u>Master Remote Broadcasts Using ManyCam - Top-Tier Virtual Camera & Live Recording Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-flash-sales-alert-get-the-new-apple-m3-macbook-pro-for-less-save-up-to-250-bucks-zdnet-insights/"><u>October Flash Sales Alert: Get the New Apple M3 MacBook Pro for Less – Save Up To 250 Bucks! - ZDNET Insights</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/strategies-to-speedy-up-vimeo-videos/"><u>Strategies to Speedy Up Vimeo Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-of-the-innovative-untangle-no-more-usb-c-charger-for-on-the-go-adventurers-must-have-per-dzet/"><u>The Ultimate Review of the Innovative 'Untangle No More' USB-C Charger for On-the-Go Adventurers - Must-Have Per DZET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-exciting-copilotplus-gadgets-unveiled-at-the-2024-ifa-showcase-featuring-a-dedicated-option-for-gamers-insights-from-zdnet/"><u>Top 5 Exciting Copilot+ Gadgets Unveiled at the 2024 IFA Showcase, Featuring a Dedicated Option for Gamers – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-work-laptop-reviews-beyond-the-iconic-lenovo-and-apple-brands/"><u>Top-Ranking Work Laptop Reviews: Beyond the Iconic Lenovo and Apple Brands</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-evaluates-the-best-and-brightest-the-2023-lenovo-thinkbook-plus-tops-as-years-most-innovative-2-in-1-laptop/"><u>ZDNet Evaluates the Best and Brightest: The 2023 Lenovo ThinkBook Plus Tops as Year's Most Innovative 2-in-1 Laptop</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

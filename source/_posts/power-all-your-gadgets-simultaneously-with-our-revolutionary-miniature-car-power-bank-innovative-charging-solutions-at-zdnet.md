@@ -1,7 +1,7 @@
 ---
 title: Power All Your Gadgets Simultaneously with Our Revolutionary Miniature Car Power Bank | Innovative Charging Solutions at ZDNET
-date: 2025-01-21T21:46:12.425Z
-updated: 2025-01-24T16:08:41.618Z
+date: 2025-01-30T18:42:05.759Z
+updated: 2025-02-01T20:48:57.106Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,20 +134,19 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-maximizing-socialization-with-ease-xbox-ones-zoom-functionality/"><u>[New] Maximizing Socialization with Ease Xbox One's Zoom Functionality</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-all-you-need-to-know-about-instagram-video-limits/"><u>[Updated] All You Need to Know About Instagram Video Limits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-easeus-reviewed-a-world-of-technology/"><u>[Updated] EaseUS Reviewed A World of Technology</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-guiding-you-to-untainted-stock-visuals/"><u>[Updated] Guiding You to Untainted Stock Visuals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-tv-visuals-instantly-by-mastering-these-essential-picture-settings-expert-tips-inside/"><u>Boost TV Visuals Instantly by Mastering These Essential Picture Settings - Expert Tips Inside</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-8k-tv-for-your-home-insights-from-a-consumer-electronics-specialist-on-what-you-need-to-know-before-buying/"><u>Choosing the Right 8K TV for Your Home: Insights From a Consumer Electronics Specialist on What You Need to Know Before Buying</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/clearing-your-television-cache-for-enhanced-functionality-and-security-a-step-by-step-tutorial/"><u>Clearing Your Television Cache for Enhanced Functionality and Security – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-enjoy-massive-savings-of-up-to-25-on-the-incredible-85-inch-tcl-tv-this-labor-day-limited-time-offer-at-zdnet/"><u>Don't Miss Out! Enjoy Massive Savings of Up to 25% on the Incredible 85-Inch TCL TV This Labor Day – Limited Time Offer at ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-picture-clarity-with-just-5-tv-adjustments-expert-tips-from-a-zdnet-article/"><u>Enhance Picture Clarity with Just 5 TV Adjustments – Expert Tips From a ZDNet Article</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-tv-sound-quality-discover-5-proven-methods-including-2-cost-free-solutions/"><u>Enhance TV Sound Quality: Discover 5 Proven Methods, Including 2 Cost-Free Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exciting-news-lg-television-sound-enhancements-now-compatible-with-ios-devices-a-huge-win-for-tech-lovers/"><u>Exciting News: LG Television Sound Enhancements Now Compatible with iOS Devices - A Huge Win for Tech Lovers!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-exploring-free-animation-methods-onlineoffline/"><u>In 2024, Exploring Free Animation Methods Online/Offline</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-g2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo G2 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-system-files-is-msda80dll-essential-to-preserve/"><u>Navigating System Files: Is MSDA80.DLL Essential to Preserve?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-cracking-the-code-to-reinstating-your-tiktok-profile/"><u>[New] Cracking the Code to Reinstating Your TikTok Profile</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xpert-guide-to-video-to-audio-10-best-tools-reviewed/"><u>[New] Expert Guide to Video-to-Audio #10 Best Tools Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-achieving-verified-on-instagram-accelerating-follower-count-through-effective-techniques/"><u>[New] In 2024, Achieving Verified on Instagram Accelerating Follower Count Through Effective Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-advice-on-cutting-edge-computer-hardware-by-toms-team/"><u>Expert Reviews and Advice on Cutting-Edge Computer Hardware by Tom's Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-toms-gear-guidance-in-depth-analysis/"><u>Exploring Technology with Tom's Gear Guidance: In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grizzlys-thermal-advancement-a-phase-changing-pad-for-optimal-temperature-regulation-starting-at-45c/"><u>Grizzly's Thermal Advancement: A Phase-Changing Pad for Optimal Temperature Regulation Starting at 45°C!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/groundbreaking-single-run-technique-produces-functional-robotic-hand-a-leap-toward-personal-printers-for-replacing-lost-arms/"><u>Groundbreaking Single-Run Technique Produces Functional Robotic Hand: A Leap Toward Personal Printers for Replacing Lost Arms</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-t2x-5g-frp-by-drfone-android/"><u>How Can We Bypass Vivo T2x 5G FRP?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-guide-to-utilizing-curas-fuzziness-functionality-for-improved-print-quality/"><u>In-Depth Guide to Utilizing Cura's Fuzziness Functionality for Improved Print Quality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revitalizing-your-monitors-appearance-fixes-for-pixel-damage-and-fading-hues-on-digital-displays/"><u>Revitalizing Your Monitor's Appearance: Fixes for Pixel Damage & Fading Hues on Digital Displays</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-anatomy-of-a-hack-attempt-on-linus-tech-tips-lessons-learned-for-better-security-practices/"><u>The Anatomy of a Hack Attempt on Linus Tech Tips: Lessons Learned for Better Security Practices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unveiling-the-secrets-to-snap-success-for-2024/"><u>Unveiling the Secrets to Snap Success for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-timeline-when-can-we-expect-gpt-5-to-hit-the-market/"><u>Unveiling the Timeline: When Can We Expect GPT-5 to Hit the Market?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/wie-man-in-onedrive-gezielt-ausgewahlte-verzeichnisse-synchronisiert/"><u>Wie Man in OneDrive Gezielt Ausgewählte Verzeichnisse Synchronisiert</u></a></li>
 </ul></div>
 

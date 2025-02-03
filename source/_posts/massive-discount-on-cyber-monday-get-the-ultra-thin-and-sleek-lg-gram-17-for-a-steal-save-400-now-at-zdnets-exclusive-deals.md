@@ -1,7 +1,7 @@
 ---
 title: "Massive Discount on Cyber Monday: Get the Ultra-Thin and Sleek LG Gram 17 for a Steal - Save $400 Now at ZDNet's Exclusive Deals!"
-date: 2025-01-23T19:18:14.390Z
-updated: 2025-01-25T02:28:52.345Z
+date: 2025-01-27T17:07:05.203Z
+updated: 2025-02-01T20:19:24.873Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,22 +128,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-professional-setup-for-screen-capture-during-games-for-2024/"><u>[New] Professional Setup for Screen Capture During Games for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-expert-tips-for-zoom-engagement-building-stronger-remote-relationships/"><u>[Updated] In 2024, Expert Tips for Zoom Engagement Building Stronger Remote Relationships</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-leaders-in-fan-following-top-10-global-youtubers-subs/"><u>[Updated] The Leaders in Fan Following Top 10 Global YouTubers' Subs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-brand-20-professional-adobe-premiere-title-templates-free-to-download-for-2024/"><u>Elevate Your Brand 20 Professional Adobe Premiere Title Templates Free to Download for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-madden-22-stalling-issue-at-launch-proven-methods-to-get-playing-asap/"><u>Fixing Madden 22 Stalling Issue at Launch - Proven Methods to Get Playing ASAP</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-11-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 11 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-quality-of-life-features-in-android-automotive-now-with-improved-bluetooth-audio-support-gadget-reviews-zdnet/"><u>New Quality of Life Features in Android Automotive, Now with Improved Bluetooth Audio Support | Gadget Reviews - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-daily-commute-with-heybike-city-run-top-rated-e-bike-for-urban-travel-tech-insights/"><u>Revolutionize Your Daily Commute with Heybike City Run - Top Rated E-Bike for Urban Travel | Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-medicine-distribution-amazon-introduces-cost-free-drone-shipments-for-prescriptions-tech-news-roundup/"><u>Revolutionizing Medicine Distribution, Amazon Introduces Cost-Free Drone Shipments for Prescriptions | Tech News Roundup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-pharmacy-shopping-amazon-launches-complimentary-drone-based-delivery-of-prescriptions/"><u>Revolutionizing Pharmacy Shopping: Amazon Launches Complimentary Drone-Based Delivery of Prescriptions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revving-through-words-exploring-transportation-woes-in-road-to-nowhere-with-an-in-depth-book-review-on-zdnet/"><u>Revving Through Words: Exploring Transportation Woes in 'Road to Nowhere' With an In-Depth Book Review on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-prices-with-confidence-secure-the-atomi-alpha-electric-scooter-now-for-just-300-less-shop-smart-on-zdnet/"><u>Slash Prices with Confidence: Secure the Atomi Alpha Electric Scooter Now for Just $300 Less! Shop Smart on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-travel-costs-save-up-to-2k-on-airfare-using-dollar-flight-club-insider-tips-from-zdnet/"><u>Slash Your Travel Costs: Save Up to $2K on Airfare Using Dollar Flight Club - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/spooky-savings-alert-snag-a-discounted-evo-nanoplus-drone-for-halloween-and-slice-off-190-from-price-exclusive-offer/"><u>Spooky Savings Alert: Snag a Discounted Evo Nano+ Drone for Halloween & Slice Off $190 From Price! - Exclusive Offer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-canva-blueprint-to-neat-and-clean-image-edges/"><u>The Canva Blueprint to Neat and Clean Image Edges</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmasking-invisible-wired-connections-windows-guide/"><u>Unmasking Invisible Wired Connections: Windows Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-enhance-brand-recognition-inserting-watermarklogo-in-youtube-videos/"><u>[New] 2024 Approved Enhance Brand Recognition Inserting Watermark/Logo in Youtube Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-gamers-guides-essential-tips-for-recording-riveting-races/"><u>[New] Gamers' Guides Essential Tips for Recording Riveting Races</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-compelling-freefire-vids-with-strategy-guide/"><u>[Updated] Crafting Compelling FreeFire Vids with Strategy Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-streamline-learning-processes-with-detailed-chaptering-for-educational-youtube-videos/"><u>[Updated] Streamline Learning Processes with Detailed Chaptering for Educational YouTube Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/an-intro-to-digital-realms-vr-simplified/"><u>An Intro to Digital Realms VR Simplified</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-bargains-for-ultrabooks-and-notebooks-during-octobers-mega-sales-events-insider-tips/"><u>Best Bargains for Ultrabooks & Notebooks During October's Mega Sales Events - Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-a-revolutionary-12-port-thunderbolt-dock-designed-to-empower-windows-pcs/"><u>Discover the Hidden Gem: A Revolutionary 12-Port Thunderbolt Dock Designed to Empower Windows PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-compelling-best-buy-discounts-in-june-2024-insider-tips/"><u>Discover the Most Compelling Best Buy Discounts in June 2024 - Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-money-saving-offers-before-prime-day-2024-insights-from-zdnet/"><u>Essential Money-Saving Offers Before Prime Day 2024: Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guia-paso-a-paso-para-cargar-un-dvd-en-google-drive-solucion-completa/"><u>Guía Paso a Paso Para Cargar Un DVD en Google Drive: Solución Completa</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-grab-the-hottest-laptop-offers-before-prime-day-in-oct-24-insider-secrets-from-zdnet/"><u>How to Grab the Hottest Laptop Offers Before Prime Day in Oct '24 - Insider Secrets From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-mix-fold-3-by-drfone-android-unlock-android-unlock/"><u>How to unlock Mix Fold 3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-clearing-drives-in-winos/"><u>Mastering the Art of Clearing Drives in WinOS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-durable-notebooks-of-2024-expert-picks-revealed-by-zdnet/"><u>Top Durable Notebooks of 2024: Expert Picks Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-lenovo-notebooks-for-efficiently-managing-remote-and-office-tasks-avail-our-suggested-model-at-a-whopping-1000-discount-insights/"><u>Top-Rated Lenovo Notebooks for Efficiently Managing Remote and Office Tasks: Avail Our Suggested Model at a Whopping $1,000 Discount - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate Guide to the Best MagSafe Wallets : In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-enhanced-features-of-samsungs-latest-copilotplus-desktop-discover-its-advanced-ai-capabilities-on-zdnet/"><u>Unveiling the Enhanced Features of Samsung's Latest Copilot+ Desktop - Discover Its Advanced AI Capabilities on ZDNet</u></a></li>
 </ul></div>
 

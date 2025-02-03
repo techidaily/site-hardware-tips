@@ -1,7 +1,7 @@
 ---
 title: How LG's Cutting-Edge Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Portability, and Battery Life Insights
-date: 2025-01-19T01:53:53.757Z
-updated: 2025-01-24T22:19:21.509Z
+date: 2025-01-28T18:21:58.876Z
+updated: 2025-02-01T18:32:26.218Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,22 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-simulate-hand-held-camera-effects-in-photoshop/"><u>[New] Simulate Hand-Held Camera Effects in Photoshop</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-virtual-reality-current-state-and-future-challenges/"><u>[New] Virtual Reality Current State and Future Challenges</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-inside-the-world-of-haul-video-production-for-2024/"><u>[Updated] Inside the World of Haul Video Production for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/leveraging-youtubes-adsense-for-maximum-profits-for-2024/"><u>Leveraging YouTube's AdSense for Maximum Profits for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-problems-with-laptop-microphones/"><u>Quick Fixes for Common Problems with Laptop Microphones</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sound-transformed-in-depth-look-at-samsungs-buds-pro/"><u>Sound Transformed: In-Depth Look at Samsung's Buds Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-non-kindle-non-remarkable-e-ink-tablets-reviewed-insights-and-picks-from-tech-expert-zdnet/"><u>Top-Ranking Non-Kindle, Non-Remarkable E Ink Tablets Reviewed: Insights and Picks From Tech Expert | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-samsung-tablet-reviews-professional-insights-from-zdnet/"><u>Top-Ranking Samsung Tablet Reviews : Professional Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-amazon-tablet-reviews-the-ultimate-guide/"><u>Top-Rated Amazon Tablet Reviews: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-artists-choice-drawing-tablets-featured-by-zdnet/"><u>Top-Rated Artists' Choice Drawing Tablets - Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-kids-tablets-in-depth-analysis-by-tech-gurus-and-parental-approval-zdnet/"><u>Top-Rated Kid's Tablets: In-Depth Analysis by Tech Gurus & Parental Approval | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-aged-fire-tablet-into-a-functional-echo-show-tips-and-tricks-techguide/"><u>Transform Your Aged Fire Tablet Into a Functional Echo Show - Tips & Tricks | TechGuide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-childs-tech-experience-with-our-revolutionary-tablet-on-sale-a-new-era-for-kids-devices-zdnet/"><u>Transform Your Child's Tech Experience with Our Revolutionary Tablet (On Sale) – A New Era for Kids’ Devices | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-high-quality-large-tablets-in-depth-analysis-and-ratings-gizmohive/"><u>Ultimate Selection of High-Quality Large Tablets : In-Depth Analysis and Ratings | GizmoHive</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unbeatable-freebie-subtitle-services-our-top-picks/"><u>Unbeatable Freebie Subtitle Services Our Top Picks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlock-efficient-coding-practices-with-stellars-insider-articles-and-diy-strategies-for-toolkit-enthusiasts/"><u>Unlock Efficient Coding Practices with Stellar's Insider Articles & DIY Strategies for Toolkit Enthusiasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-miniature-harmonies-character-music-journey/"><u>[New] 2024 Approved Miniature Harmonies Character Music Journey</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-skyrocket-your-channels-reach-secure-a-10k-views-milestone/"><u>[New] 2024 Approved Skyrocket Your Channel's Reach Secure a 10K Views Milestone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-all-encompassing-razer-camera-report-for-2024/"><u>[New] All-Encompassing Razer Camera Report for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ephemeral-movie-blueprint-for-2024/"><u>[Updated] Ephemeral Movie Blueprint for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-turbocharged-triumphs-unveiling-five-pinnacle-racer-simulators/"><u>[Updated] Turbocharged Triumphs Unveiling Five Pinnacle Racer Simulators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-laptop-steals-the-spotlight-at-best-buys-flash-sale-just-99-dollars-away/"><u>ASUS Laptop Steals the Spotlight at Best Buy's Flash Sale – Just 99 Dollars Away</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/broadcasting-twitch-to-facebook-friends-easily-for-2024/"><u>Broadcasting Twitch to Facebook Friends Easily for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-2023-first-day-unveils-hits-and-misses-in-technology-innovationhub/"><u>CES 2023 - First Day Unveils Hits and Misses in Technology | InnovationHub</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-unveils-latest-laptops-and-chromebooks-for-seamless-hybrid-working-environments-explore-the-innovation-tech-news/"><u>HP Unveils Latest Laptops and Chromebooks for Seamless Hybrid Working Environments - Explore the Innovation | Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-savings-on-cyber-monday-2022-razer-blade-14-laptops-slashed-by-920-find-the-best-deal/"><u>Massive Savings on Cyber Monday 2022: Razer Blade 14 Laptops Slashed by $920 - Find the Best Deal!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-in-this-article-we-are-going-to-take-you-through-some-of-the-best-online-photo-and-video-collage-makers-you-can-find-on-the-internet/"><u>New In 2024, In This Article We Are Going to Take You Through some of the Best Online Photo and Video Collage Makers You Can Find on the Internet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-setup-for-laptop-to-tv-connection-expert-advice/"><u>Quick Setup for Laptop-to-TV Connection: Expert Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-tech-budget-grab-the-ultimate-multi-device-charger-at-35-off-today-a-must-have-hub-for-gadgets-lovers/"><u>Slash Your Tech Budget: Grab the Ultimate Multi-Device Charger at 35% Off Today! - A Must-Have Hub for Gadgets Lovers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-power-banks-for-macbook-pro-expert-picks-and-reviews/"><u>Top Recommended Power Banks for MacBook Pro: Expert Picks and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-premium-touch-screen-notebooks-comprehensive-analysis-by-tech-experts-cioreview/"><u>Ultimate Guide to Premium Touch Screen Notebooks: Comprehensive Analysis by Tech Experts - CIOReview</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Edge 2023 | Dr.fone</u></a></li>
 </ul></div>
 

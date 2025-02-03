@@ -1,7 +1,7 @@
 ---
 title: Build Your Own Slim HTPC with the Elegant ASRock AM5 Mini-ITX Board - X600TM-ITX
-date: 2024-08-19T02:38:46.832Z
-updated: 2024-08-20T02:38:46.832Z
+date: 2025-01-29T19:33:17.216Z
+updated: 2025-02-01T20:37:05.077Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,24 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-digital-content-arena-competing-titans-vimeo-youtube-dailymotion/"><u>[New] 2024 Approved Digital Content Arena Competing Titans - Vimeo, YouTube, DailyMotion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-kickstarting-your-youtube-journey-building-and-earning/"><u>[New] 2024 Approved Kickstarting Your YouTube Journey Building & Earning</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-practical-steps-for-disabling-youtube-channels-on-devices/"><u>[New] 2024 Approved Practical Steps for Disabling YouTube Channels on Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-5-ways-to-record-webinar-for-free/"><u>[Updated] In 2024, 5 Ways to Record Webinar for Free</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-complete-breakdown-of-game-capture-in-overwatch/"><u>2024 Approved The Complete Breakdown of Game Capture in Overwatch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-new-era-of-accessibility-with-gpt-4/"><u>A New Era of Accessibility with GPT-4</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-google-nest-wireless-system-fast-performance-and-uninterrupted-service/"><u>Comprehensive Guide to the Google Nest Wireless System: Fast Performance & Uninterrupted Service</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-eradicating-data-with-the-windows-10-command-line-interface/"><u>Comprehensive Tutorial: Eradicating Data with the Windows 10 Command Line Interface</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enduring-performance-and-stunning-visuals-with-one-of-the-most-durable-laptops-reviewed-on-zdnet/"><u>Experience Enduring Performance & Stunning Visuals with One of the Most Durable Laptops Reviewed on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-guide-how-this-multiport-travelling-dock-boosts-productivity-on-the-move-insights-and-analysis/"><u>Expert's Guide: How This Multiport Travelling Dock Boosts Productivity on The Move | Insights & Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/outperforming-apple-how-lg-gram-pro-surpasses-the-macbook-air-across-three-key-areas-insights-from-a-comprehensive-review/"><u>Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-12-unique-presents-ideal-for-tech-savvy-enthusiasts-a-guide/"><u>Top 12 Unique Presents Ideal for Tech-Savvy Enthusiasts: A Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-48-unmissable-gaming-discounts-on-cyber-monday-save-big-on-consoles-computers-and-more-technews/"><u>Top 48 Unmissable Gaming Discounts on Cyber Monday - Save Big on Consoles, Computers & More | TechNews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-the-ultimate-verdict-on-lenovos-multifunctional-business-laptop-for-professionals-a-comprehensive-review/"><u>Top Rated: The Ultimate Verdict on Lenovo's Multifunctional Business Laptop for Professionals - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workflow-the-essential-lenovo-laptop-traits-that-amazed-us-zdnet/"><u>Transform Your Workflow: The Essential Lenovo Laptop Traits That Amazed Us [ZDNet]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-picks-for-the-most-innovative-touchpad-pcs-industry-insights-and-comparisons-digital-trends/"><u>Ultimate Picks for the Most Innovative Touchpad PCs - Industry Insights & Comparisons | Digital Trends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-i-choose-apple-watch-series-7-over-series-10-the-ultimate-wearables-guide/"><u>Why I Choose Apple Watch Series 7 Over Series 10 - The Ultimate Wearables Guide</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->

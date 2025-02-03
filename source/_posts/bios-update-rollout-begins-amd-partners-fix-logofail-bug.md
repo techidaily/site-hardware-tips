@@ -1,7 +1,7 @@
 ---
 title: "BIOS Update Rollout Begins: AMD Partners Fix LogoFAIL Bug"
-date: 2024-08-19T02:37:24.357Z
-updated: 2024-08-20T02:37:24.357Z
+date: 2025-01-29T17:02:42.941Z
+updated: 2025-02-01T18:33:38.627Z
 tags:
   - motherboards
 categories:
@@ -97,15 +97,14 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Inside the Box of the ASRock Z790I Lightning Wi-Fi
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
@@ -113,31 +112,31 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -152,9 +151,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
@@ -168,6 +164,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  To the left of the PCIe slot is the Realtek ALC897 audio codec, along with a few dedicated audio capacitors. This solution is OK and should be fine for most users, but it is a budget option. You’ll also find the front panel audio header here.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: ASRock)
 
@@ -187,8 +187,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +194,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-endless-video-recording-program-for-2024/"><u>[New] Endless Video Recording Program for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-from-penniless-to-partnered-a-small-channels-journey/"><u>[New] In 2024, From Penniless to Partnered A Small Channel's Journey</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-acknowledging-talent-free-to-own-outro-templates/"><u>[Updated] In 2024, Acknowledging Talent Free-to-Own Outro Templates</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-impact-of-instant-subscribing-on-online-viewing-habits/"><u>2024 Approved The Impact of Instant Subscribing on Online Viewing Habits</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728487456594-4/"><u>如何便捷地揭開隱藏檔案之謎：網上4大方法教程</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-apple-laptop-comparing-macbook-air-and-macbook-pro-insights/"><u>Choosing the Right Apple Laptop: Comparing MacBook Air and MacBook Pro - Insights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ive-vanguard-audio-visual-convergence-for-2024/"><u>Creative Vanguard Audio-Visual Convergence for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-new-chromebook-plus-and-its-groundbreaking-generative-ai-features/"><u>Discovering the New Chromebook Plus and Its Groundbreaking Generative AI Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-doctors-diagnostic-accuracy-integrating-generative-ai-with-healthcare-records-insights-from-zdnet/"><u>Enhancing Doctor's Diagnostic Accuracy: Integrating Generative AI with Healthcare Records - Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-f15-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy F15 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-by-openai/"><u>How to Use ChatGPT by OpenAI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-asus-zenbook-pro/"><u>In-Depth Analysis of the Asus Zenbook Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/live-the-microsoft-surface-and-windows-innovation-showcase-key-insights-and-anticipated-highlights-techzone/"><u>Live the Microsoft Surface & Windows Innovation Showcase: Key Insights & Anticipated Highlights | TechZone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-on-8tb-samsung-t5-portable-ssd-up-to-36-off-post-prime-day-deals-now-at-amazon/"><u>Massive Discount on 8TB Samsung T5 Portable SSD - Up to 36% Off Post-Prime Day Deals, Now at Amazon!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-new-copilotplus-pc-shines-as-a-must-have-deal-for-windows-users-in-depth-analysis-zdnet/"><u>Samsung's New Copilot+ PC Shines as a Must-Have Deal for Windows Users – In-Depth Analysis | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selective-access-microsoft-launches-application-enabling-windows-and-macos-on-chromebooks/"><u>Selective Access: Microsoft Launches Application Enabling Windows and macOS on Chromebooks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/testing-the-innovative-transparent-design-of-lenovos-new-laptop-at-mobile-world-congress-insights-from-zdnet/"><u>Testing the Innovative Transparent Design of Lenovo's New Laptop at Mobile World Congress - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-unbeatable-laptop-promotions-in-july-2024-discovered-on-zdnet/"><u>Top Picks: Unbeatable Laptop Promotions in July 2024 - Discovered on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-stuttering-file-explorer-in-windows-11-proven-fixes/"><u>Winning the Battle Against Stuttering File Explorer in Windows 11 – Proven Fixes</u></a></li>
+</ul></div>
 

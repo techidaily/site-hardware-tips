@@ -1,7 +1,7 @@
 ---
 title: "New Vs. Old Tech Showdown: The M3 Versus M2 MacBook Air for Apple Enthusiasts"
-date: 2024-12-22T00:40:11.754Z
-updated: 2024-12-27T17:52:17.946Z
+date: 2025-01-25T19:42:59.909Z
+updated: 2025-02-01T17:41:30.450Z
 tags:
   - laptops
 categories:
@@ -48,16 +48,24 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M3 MacBook Air if...
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You want the fastest Wi-Fi support available
 
 If you find yourself doing a lot of downloading for work, or you're a gamer, the MacBook Air with M3 features the new [Wi-Fi 6e standard](https://www.zdnet.com/home-and-office/networking/wi-fi-6e-the-future-of-wireless-connectivity-today-with-some-caveats/) that provides faster download speeds and lower latency -- provided you're using a Wi-Fi 6e router, of course. While you might not notice much of a difference for everyday tasks, if you do Wi-Fi-intensive tasks where latency is critical, you'll quickly appreciate the upgrade. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You use more than one monitor
@@ -87,24 +95,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the M2 MacBook Air if...
 
 Cliff Joseph/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. The $100 price difference means a lot
 
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
 
@@ -112,15 +112,15 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 
 **Also:** [**I recommend this 15-inch MacBook Air to most people, and it's still $250 off**](https://www.zdnet.com/article/i-recommend-this-15-inch-macbook-air-to-most-people-and-its-still-250-off/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. You're expecting the M3 to be a bigger upgrade
 
 If you were expecting a radical redesign with the latest MacBook, you won't get it from the M3 Air. It looks nearly identical to the M2, and aside from the anodization seal on the midnight color that reduces fingerprints, even the colors aren't anything new. The real changes are on the inside, so if you want something that simply looks like it's the latest thing, you won't get any benefit from picking the M3 over the M2\. 
 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -156,16 +156,18 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-afternoons-examination-alternative-perspectives/"><u>[New] Afternoon's Examination Alternative Perspectives</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-transform-your-images-with-text-a-windowsmacos-expertise-guide/"><u>[New] Transform Your Images with Text A Windows/MacOS Expertise Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-earning-through-youtube-navigating-revenue-without-ads/"><u>2024 Approved Earning Through YouTube Navigating Revenue Without Ads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-access-control-constructing-your-windows-personal-pins/"><u>Cutting-Edge Access Control: Constructing Your Windows Personal Pins</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-gigglegraph-make-amusing-graphics-swiftly/"><u>In 2024, GiggleGraph Make Amusing Graphics Swiftly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximizing-fitness-performance-with-polar-grit-x-pro-titan-a-detailed-review-by-zdnet-on-training-and-recovery-tools-for-athletes/"><u>Maximizing Fitness Performance with Polar Grit X Pro Titan: A Detailed Review by ZDNet on Training & Recovery Tools for Athletes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/picshot-uncomplicated-path-to-stunning-collages/"><u>Picshot Uncomplicated Path to Stunning Collages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-to-resolve-live-chatgpt-flaws/"><u>Strategies to Resolve Live ChatGPT Flaws</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-all-rounder-in-depth-analysis-of-the-garmin-forerunner-255-music-edition-the-runners-choice/"><u>Top-Performing All-Rounder: In-Depth Analysis of the Garmin Forerunner 255 Music Edition - The Runner's Choice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-your-timepiece-a-comprehensive-tutorial-for-switching-up-apple-watch-screens/"><u>Transforming Your Timepiece: A Comprehensive Tutorial for Switching Up Apple Watch Screens</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-savings-cut-costs-by-1200-on-latest-samsung-z-foldz-flip-phones-today-insider-tips/"><u>Unlock Savings: Cut Costs by $1,200 on Latest Samsung Z Fold/Z Flip Phones Today | Insider Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-visual-vault-in-depth-recorder-comparisons-for-2024/"><u>[New] The Visual Vault In-Depth Recorder Comparisons for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-the-best-video-formats-for-your-youtube-channel-for-2024/"><u>[Updated] Navigating the Best Video Formats for Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-20-non-copyrighted-pubg-image-sequences/"><u>2024 Approved Leading 20 Non-Copyrighted PUBG Image Sequences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unleash-productivity-learn-to-screen-record-on-mac-using-just-keys/"><u>2024 Approved Unleash Productivity Learn to Screen Record on Mac Using Just Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-0x80070570-a-roadmap-to-restore-damaged-files-in-windows-11/"><u>Eliminating Error 0X80070570: A Roadmap to Restore Damaged Files in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-gadgets-with-tom-a-comprehensive-guide/"><u>Navigating the Latest Gadgets with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landscape-discoveries-at-toms-hardware/"><u>Navigating the Tech Landscape: Discoveries at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-with-tom-expert-insights/"><u>Navigating the World of Computing with Tom - Expert Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-gadgets-and-components-with-expertise-from-toms-workshop/"><u>Navigating Through Gadgets and Components with Expertise From Tom's Workshop</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/reimagining-receipt-a-new-approach-to-package-revelation-for-2024/"><u>Reimagining Receipt A New Approach to Package Revelation for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-when-your-macos-app-wont-launch/"><u>Troubleshooting Steps When Your macOS App Won't Launch</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: My Experience with the New Apple M2 MacBook Air - Tears of Joy or Frustration? A Deep Dive
-date: 2025-01-18T22:48:18.403Z
-updated: 2025-01-24T21:06:15.748Z
+date: 2025-01-27T17:03:48.887Z
+updated: 2025-02-01T18:54:26.083Z
 tags:
   - laptops
 categories:
@@ -22,16 +22,12 @@ Cliff Joseph/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 How often can a gadget make you confront your own weaknesses, especially the lies you tell yourself?
@@ -43,10 +39,6 @@ I can usually resist the latest, greatest, most hyped-up piece of technology.
 Until I'm sure I don't just want it, but need it. 
 
 Oh, all right, I may occasionally have a flexible definition of _need_.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The weakness. I just can't bear the weakness
 
@@ -65,7 +57,7 @@ But the M2 MacBook Air seemed to represent a departure from the old Air design. 
 There were two things I kept staring at: the midnight color and the new, non-tapered shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,6 +73,10 @@ That is, at least, how I rationalized it to myself.
 And then there was the remarkable fact that an Apple store actually had the [midnight 1TB M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2022-MacBook-24GB-Storage%2Fdp%2FB0BBYTHLX9%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17b7ab53-93ed-4c02-a67e-b2176e93420b%7Cdtp&dtb=1) in stock.
 
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The lies I'd told myself
 
@@ -109,6 +105,10 @@ Some (like ZDNET's [review of the M2 MacBook Air](https://www.zdnet.com/article/
 
 I've also noticed that MagSafe isn't quite what it used to be. Previously, it had flown out of its socket with minimal force. Now, you have to give it a perceptible tug before it detaches. I can't decide whether this is good or bad. I do like the sturdier feel of the cable, however. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## It's all ending in tears
 
 All right, you've had enough of me telling you that my head's been turned by the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2022-MacBook-24GB-Storage%2Fdp%2FB0BBYTHLX9%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17b7ab53-93ed-4c02-a67e-b2176e93420b%7Cdtp&dtb=1) \-- did I mention it's a gorgeous midnight color?
@@ -120,7 +120,7 @@ So, as I write this, I'm staring into space, blaring at myself for being so impu
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -169,20 +169,16 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-identifying-hidden-account-activities/"><u>[Updated] In 2024, Identifying Hidden Account Activities</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-profit-power-for-the-uninitiated-top-13-income-tips-on-reddit/"><u>2024 Approved Profit Power for the Uninitiated! Top 13 Income Tips on Reddit</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-quieter-skype-talks/"><u>2024 Approved The Ultimate Guide to Quieter Skype Talks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-maximize-your-photos-with-samsungs-image-enhancers-for-2024/"><u>How to Maximize Your Photos with Samsung's Image Enhancers for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-asus-rog-phone-7-ultimate-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Asus ROG Phone 7 Ultimate Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-innovative-techniques-to-elevate-your-gopro-work/"><u>In 2024, Innovative Techniques to Elevate Your GoPro Work</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-garmin-quatix-7-top-navigation-device-for-mariners/"><u>In-Depth Analysis of the Garmin Quatix 7 - Top Navigation Device for Mariners</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-why-recuva-stands-out-as-the-premier-deleted-file-recovery-solution/"><u>In-Depth Analysis: Why Recuva Stands Out as the Premier Deleted File Recovery Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/integrating-public-transport-cards-with-apple-wallet-a-step-by-step-guide/"><u>Integrating Public Transport Cards with Apple Wallet: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-apple-watch-ultra-2-worth-upgrading-from-the-original-watch-ultra-comprehensive-review-by-zdnet/"><u>Is the Apple Watch Ultra 2 Worth Upgrading From the Original Watch Ultra? Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/latest-launches-from-apple-unveiled-iphone-15-pro-series-9-watch-and-more/"><u>Latest Launches From Apple Unveiled - iPhone 15 Pro, Series 9 Watch & More</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/month-long-battle-of-wearables-comparing-the-fitbit-sense-2-and-versa-4s-health-and-fitness-prowess-with-a-caution-on-gps-functionality-insights-by-zdnet/"><u>Month-Long Battle of Wearables: Comparing the Fitbit Sense 2 and Versa 4'S Health & Fitness Prowess with a Caution on GPS Functionality - Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-horizons-in-smartwatch-technology-why-the-latest-garmin-upgrades-trump-the-apple-watch-ultra-insights-from-zdnet/"><u>New Horizons in Smartwatch Technology: Why the Latest Garmin Upgrades Trump the Apple Watch Ultra - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-blood-pressure-monitors-choose-wisely-with-zdnets-reviews/"><u>Ultimate Guide to Blood Pressure Monitors : Choose Wisely with ZDNET's Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-marvelous-world-of-an-origami-inspired-laptop-sleeve-a-game-changer-for-tech-enthusiasts-zdnet/"><u>Discover the Marvelous World of an Origami-Inspired Laptop Sleeve - A Game Changer for Tech Enthusiasts! | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-recover-from-a-blue-screen-of-death-disaster/"><u>Expert Advice: How to Recover From a Blue Screen of Death Disaster</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/e-genesis-conceptualizing-7-funny-youtube-sessions-for-2024/"><u>Giggle Genesis Conceptualizing 7 Funny YouTube Sessions for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-and-inspiration-the-ultimate-list-of-android-drawing-apps/"><u>In 2024, Mastery & Inspiration The Ultimate List of Android Drawing Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-typing-issues-on-keyboard-no-longer-a-problem/"><u>Resolved: Typing Issues on Keyboard No Longer a Problem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-of-the-bizarre-entertaining-and-premium-priced-thinkpad-x1-fold-by-zdnet/"><u>The Ultimate Review of the Bizarre, Entertaining & Premium-Priced ThinkPad X1 Fold by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-linux-laptop-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Ranking Linux Laptop Picks , Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://games-able.techidaily.com/where-are-steam-screenshots-saved/"><u>Where Are Steam Screenshots Saved?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-unlocking-the-hidden-gem-of-dual-functionality-offices-ultimate-gadget/"><u>ZDNet Reviews: Unlocking the Hidden Gem of Dual Functionality - Office's Ultimate Gadget !</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rw2-png-movavi/"><u>무료 RW2 PNG 그림을 직접 인터넷으로 변환하는 단계별 지침 – Movavi 이용</u></a></li>
 </ul></div>
 

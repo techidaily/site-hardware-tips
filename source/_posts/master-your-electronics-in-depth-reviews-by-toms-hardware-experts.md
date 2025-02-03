@@ -1,7 +1,7 @@
 ---
 title: "Master Your Electronics: In-Depth Reviews by Tom's Hardware Experts"
-date: 2024-08-19T02:34:50.051Z
-updated: 2024-08-20T02:34:50.051Z
+date: 2025-01-27T17:41:01.880Z
+updated: 2025-02-01T16:13:49.046Z
 tags:
   - ssd
 categories:
@@ -16,6 +16,10 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
  Many drives in this category are outright slower than the AI818, at least on paper. This includes the[Kingston NV2](https://tools.techidaily.com) and drives like it, as well as PCIe 3.0 drives like the[Teamgroup MP34](https://tools.techidaily.com) . The latter is now using a Realtek controller, like our AI818 sample. Realtek controllers often feel last-generation and can run hotter, but offer a way to add more capacity at a lower cost. Unlike the MP34, though, our 2TB AI818 is using QLC NAND, which is being used on many budget PCIe 4.0 drives including the NV2 and the[Silicon Power UD90](https://tools.techidaily.com) — but not all, as the[Teamgroup MP44L](https://tools.techidaily.com) is one exception. As TLC cannot be guaranteed in most cases, caution is warranted on this class of drive.  
   
  Some of our results for the AI818 are surprising, and often not in a good way. We also don’t think this drive is the best choice for a laptop. However, it’s not the worst drive we’ve ever tested, and if you can find it at the right price it can get the job done. With this drive, budget is the name of the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -51,17 +55,15 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AGI AI818 — A Closer Look
 
  Image 1 of 3
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -71,8 +73,9 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -82,15 +85,13 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -156,15 +157,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +173,23 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-change-your-voice-on-instagram/"><u>[Updated] How to Change Your Voice on Instagram?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-streamline-music-craft-with-our-high-quality-beat-detection-software-for-2024/"><u>[Updated] Streamline Music Craft with Our High-Quality Beat Detection Software for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-mastering-quantum-hdr/"><u>2024 Approved Step by Step Guide to Mastering Quantum HDR</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/analyzing-face-editing-tools-polaroid-cube-vs-gopro-hero-series/"><u>Analyzing Face-Editing Tools Polaroid Cube Vs. GoPro Hero Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/black-friday-alert-huge-savings-of-1100-on-apples-macbook-pro-with-m1-max-at-bandh-photo-exclusive-deal/"><u>Black Friday Alert: Huge Savings of $1,100 on Apple’s MacBook Pro with M1 Max at B&H Photo - Exclusive Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chromebook-invasion-students-battle-bedbug-outbreak-in-school-devices-again-tech-news/"><u>Chromebook Invasion: Students Battle Bedbug Outbreak in School Devices Again | Tech News</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-tutorial-transforming-films-into-playable-dvds-across-windows-macos/"><u>Easy Tutorial: Transforming Films Into Playable DVDs Across Windows, macOS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-review-dells-premium-3k-gaming-laptop-surprises-with-cutting-edge-perks/"><u>Exclusive Review: Dell's Premium $3K Gaming Laptop Surprises With Cutting-Edge Perks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-sought-after-under-1000-laptops-of-2024-in-depth-analysis-and-comparisons-expert-opinions/"><u>Most Sought-After Under-$1,000 Laptops of 2024: In-Depth Analysis and Comparisons | Expert Opinions</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719152051646-outsmart-facebooks-tracking-mechanisms-now/"><u>Outsmart Facebook's Tracking Mechanisms Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/section-amoebas/"><u>Section Amoebas!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-webcams-of-2024-comprehensive-reviews-by-industry-experts/"><u>Top-Rated Streaming Webcams of 2024: Comprehensive Reviews by Industry Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-display-quality-grab-this-budget-friendly-laptop-deal-today-gadgetsreview/"><u>Unbeatable Display Quality: Grab This Budget-Friendly Laptop Deal Today | GadgetsReview</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-imagination-mastering-the-art-of-creative-writing-via-chatgpt-in-6-steps/"><u>Unleash Your Imagination: Mastering the Art of Creative Writing via ChatGPT in 6 Steps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-create-stunning-animations-on-the-go-top-mobile-apps-for-2024/"><u>Updated Create Stunning Animations On-the-Go Top Mobile Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/virtualdub-is-it-still-the-best-exploring-top-alternatives-for-2024/"><u>Virtualdub Is It Still the Best? Exploring Top Alternatives for 2024</u></a></li>
+</ul></div>
 

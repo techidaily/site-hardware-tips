@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Alert: Secure Your HP Victus 15 Gaming Laptop for Only $450 on Best Buy's Prime Day Deal | ZDNET Insider Info"
-date: 2025-01-22T00:15:26.617Z
-updated: 2025-01-24T21:23:11.767Z
+date: 2025-01-28T16:27:17.570Z
+updated: 2025-02-01T20:29:51.609Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-5-ways-to-record-roblox-gameplay-on-mac-for-2024/"><u>[New] 5 Ways to Record Roblox Gameplay on Mac for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-enhancing-outreach-sending-twitters-videos-to-facebooks-for-2024/"><u>[New] Enhancing Outreach Sending Twitters' Videos to Facebooks for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-essential-review-of-screen-recorders-for-mp4/"><u>[Updated] In 2024, The Essential Review of Screen Recorders for MP4</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-art-of-incorporating-urls-in-ig-stories-and-posts/"><u>2024 Approved The Art of Incorporating URLs in IG Stories & Posts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-test-of-the-garmin-forerunner-955-solar-edition-top-runners-gadget-revealed-on-zdnet/"><u>Comprehensive Test of the Garmin Forerunner 지원런서 955 Solar Edition: Top Runner's Gadget Revealed on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/customize-your-apple-watchs-look-easy-face-swap-techniques-featured-on-zdnet/"><u>Customize Your Apple Watch's Look: Easy Face Swap Techniques Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-powerful-feature-mastering-the-apple-watch-ultras-action-button-in-depth-tutorial-by-zdnet/"><u>Discover the Most Powerful Feature: Mastering the Apple Watch Ultra's Action Button - In-Depth Tutorial by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-test-of-the-amazfit-gtr-4-with-revolutionary-gps-at-just-199-spotlight-on-tech/"><u>Exclusive Test of the Amazfit GTR 4 with Revolutionary GPS at Just $199 - Spotlight on Tech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-new-horizons-in-apples-ecosystem-with-the-release-of-ios-171-macos-141-and-watchos-101-comprehensive-review-gadgetpundit/"><u>Explore New Horizons in Apple's Ecosystem with the Release of iOS 17.1, MacOS 14.1, and WatchOS 10.1 - Comprehensive Review | GadgetPundit</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-contacts-malfunctioning-discover-our-top-3-quick-solutions/"><u>IPhone Contacts Malfunctioning? Discover Our Top 3 Quick Solutions!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/life-saver-alert-how-the-latest-apple-watch-series-n-detects-and-monitors-sleep-apnea-risks-exclusive-insights-from-zdnet/"><u>Life-Saver Alert: How the Latest Apple Watch Series N Detects and Monitors Sleep Apnea Risks | Exclusive Insights From ZDNET</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/peak-performance-audio-organizer-android-for-2024/"><u>Peak Performance Audio Organizer, Android for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-windows-update-hanging-on-100/"><u>Resolved: Fixing Windows Update Hanging on 100%</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-your-videos-performance-potential/"><u>Restoring Your Video's Performance Potential</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-financial-breakdown-of-youtube-shorts-royalties-for-2024/"><u>The Financial Breakdown of YouTube Shorts Royalties for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-kinetic-study-2023/"><u>[New] Comprehensive Kinetic Study 2023</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-vr-headset-match-the-top-10-360-degree-videos-on-pc-for-2024/"><u>[New] VR Headset Match The Top 10 360-Degree Videos on PC for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-explore-free-youtube-channel-imagery-tools/"><u>[Updated] Explore Free YouTube Channel Imagery Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigating-video-dimensions-a-focused-look-at-aspect-ratios/"><u>[Updated] In 2024, Navigating Video Dimensions A Focused Look at ASPECT RATIOS</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-note-12t-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi Note 12T Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-windows-laptop-how-lenovos-innovative-749-thinkbook-outshines-competitors/"><u>Best Value Windows Laptop : How Lenovo's Innovative $749 ThinkBook Outshines Competitors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-6-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 6 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-week-sale-alert-prime-gaming-bargains-of-october-2024-highlighted-for-savvy-shoppers/"><u>Cyber Week Sale Alert: Prime Gaming Bargains of October 2024 Highlighted for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-picks-in-depth-review-of-all-lenovo-laptops-unveiled-at-mwc-find-your-perfect-match/"><u>Discover the Top Picks: In-Depth Review of All Lenovo Laptops Unveiled at MWC - Find Your Perfect Match!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-14-pro-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 14 Pro to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-challenges-how-to-effectively-use-chategpt-for-your-writing-business/"><u>Navigating the Challenges: How to Effectively Use ChateGPT for Your Writing Business</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-2024s-prime-shopping-guide-unbeatable-laptop-offers-featured/"><u>October 2024'S Prime Shopping Guide: Unbeatable Laptop Offers Featured</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-the-day-with-our-ultimate-list-of-48-must-have-cyber-monday-gaming-offers-conquer-console-and-pc-sales-at-record-prices/"><u>Save the Day with Our Ultimate List of 48 Must-Have Cyber Monday Gaming Offers: Conquer Console & PC Sales at Record Prices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y78t-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y78t Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-premium-ssd-drives-optimized-for-gaming-consoles-and-pc-reviews-by-zdnet/"><u>Top 6 Premium SSD Drives Optimized for Gaming Consoles & PC: Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultra-light-acer-swift-edge-156-4k-oled-gaming-laptop-evaluation/"><u>Ultra-Light Acer Swift Edge 15.6 4K OLED Gaming Laptop Evaluation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-discover-the-best-ever-laptop-screen-quality-at-unbelievable-prices-tech-innovators-guide/"><u>Unbeatable Bargain Alert: Discover the Best-Ever Laptop Screen Quality at Unbelievable Prices | Tech Innovator's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-metas-latest-512gb-oculus-quest-pro-offer-top-virtual-reality-bargain-zdnet-review/"><u>Unbeatable Value: Meta's Latest 512GB Oculus Quest Pro Offer - Top Virtual Reality Bargain ! (ZDNet Review)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-add-zoom-blur-effect-in-photoshop-step-by-step/"><u>Updated 2024 Approved Add Zoom Blur Effect In Photoshop Step by Step</u></a></li>
 </ul></div>
 

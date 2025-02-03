@@ -1,7 +1,7 @@
 ---
 title: "$300 Off Prime Deal: Discover Top-Tier Non-ThinkPad, Non-MacBook Productivity Laptop Review"
-date: 2025-01-20T19:34:31.382Z
-updated: 2025-01-24T22:19:04.163Z
+date: 2025-01-29T16:57:30.884Z
+updated: 2025-02-01T17:31:15.979Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Amazon's October Prime Day event has officially ended, but many laptops are stil
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,21 +146,18 @@ All things considered, the [sale price of $989](https://www.awin1.com/awclick.ph
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-the-science-of-writing-magnetic-vlogs/"><u>[Updated] In 2024, Mastering the Science of Writing Magnetic Vlogs</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-sony-xperia-10-v-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Sony Xperia 10 V by Name | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-magic-6-pro-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Magic 6 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diy-sphere-shifts-with-impending-gpt-4-release/"><u>DIY Sphere Shifts with Impending GPT-4 Release</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-ultimate-guide-to-the-most-luxurious-fireplace-entertainment-centers-in-2eby2024-zdnet-insights/"><u>Expert Reviews: Ultimate Guide to the Most Luxurious Fireplace Entertainment Centers in 2Eby2024 | ZDNET Insights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/freshly-updated-intel-9560-driver-package-now-available-download-here/"><u>Freshly Updated Intel 9560 Driver Package Now Available - Download Here</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-build-your-perfect-gamers-paradise-essential-tips-and-tricks/"><u>How to Build Your Perfect Gamer's Paradise: Essential Tips and Tricks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-do-voiceover-on-powerpoint-for-2024/"><u>How to Do Voiceover on PowerPoint for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-home-theater-experience-with-an-incredible-deal-switch-to-a-long-throw-projector-and-save-200-zdnet/"><u>Maximize Your Home Theater Experience with an Incredible Deal - Switch to a Long-Throw Projector and Save $200 | ZDNet</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-5-best-free-avi-video-rotators-2023-update-for-2024/"><u>New Top 5 Best Free AVI Video Rotators-2023 Update for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/oled-versus-led-screen-types-a-comprehensive-guide-to-their-distinctions-and-which-offers-better-performance/"><u>OLED Versus LED Screen Types: A Comprehensive Guide to Their Distinctions and Which Offers Better Performance</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-challenges-successful-cyberpunk-2077-downloads-from-the-steam-store/"><u>Overcoming Challenges: Successful Cyberpunk 2077 Downloads From the Steam Store</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/panasonic-resurfaces-in-american-market-with-trio-of-innovative-4k-televisions-insights-from-zdnet/"><u>Panasonic Resurfaces in American Market with Trio of Innovative 4K Televisions - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/research-methodologies-like-randomized-controlled-trials-are-used-to-measure-real-world-policy-effects/"><u>Research Methodologies Like Randomized Controlled Trials Are Used to Measure Real-World Policy Effects.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-ultra-thin-tcl-renders-their-minimalist-frames-competing-with-the-famed-samsung-design/"><u>Revolutionary Ultra-Thin TCL Renders Their Minimalist Frames, Competing with the Famed Samsung Design</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-face-forward-top-makeup-creatives-for-2024/"><u>The Face Forward Top Makeup Creatives for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ideal-websites-for-extracting-text-visual-upgrades-for-2024/"><u>[Updated] Ideal Websites for Extracting Text Visual Upgrades for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guia-paso-a-paso-como-configurar-la-supervision-automatica-y-transferencia-de-archivos-entre-carpetas/"><u>Guía Paso a Paso: Cómo Configurar La Supervisión Automática Y Transferencia De Archivos Entre Carpetas</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-beyond-views-and-likes-pursuing-profits-on-youtube/"><u>In 2024, Beyond Views and Likes Pursuing Profits on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pump-it-up-the-20-most-energizing-workout-playlists-for-2024/"><u>Pump It Up The 20 Most Energizing Workout Playlists for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-arctic-freezer-36-a-revolutionary-leap-in-budget-friendly-air-conditioning/"><u>Review of Arctic Freezer 36 - A Revolutionary Leap in Budget-Friendly Air Conditioning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-blending-silence-ai-assisted-meditation-routines/"><u>Seamlessly Blending Silence: AI-Assisted Meditation Routines</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chilled-and-lit-valkyrie-al125-air-cooler-for-pc-enthusiasts-with-ips-monitor-compatibility-and-customizable-rgb-lighting-all-under-20/"><u>Stay Chilled and Lit: Valkyrie AL125 Air Cooler for PC Enthusiasts with IPS Monitor Compatibility and Customizable RGB Lighting All Under $20</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/strategies-for-avoiding-layer-displacement-faults-during-3d-printing-process/"><u>Strategies for Avoiding Layer Displacement Faults During 3D Printing Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-critical-hardware-and-software-analysis-by-tom/"><u>The Ultimate Resource for Critical Hardware and Software Analysis by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-insights-into-cutting-edge-hardware/"><u>Tom's Tech Hub: Insights Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-to-latest-hardware/"><u>Tom's Tech Review: Comprehensive Guide to Latest Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-mac-software-the-ultimate-list/"><u>Top Rated Mac Software : The Ultimate List</u></a></li>
 </ul></div>
 

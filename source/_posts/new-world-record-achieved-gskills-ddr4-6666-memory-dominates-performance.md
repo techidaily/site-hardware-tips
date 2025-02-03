@@ -1,7 +1,7 @@
 ---
 title: "New World Record Achieved: G.Skill's DDR4-6666 Memory Dominates Performance"
-date: 2024-08-19T02:33:14.845Z
-updated: 2024-08-20T02:33:14.845Z
+date: 2025-01-26T16:35:30.900Z
+updated: 2025-02-01T18:54:50.632Z
 tags:
   - overclocking
 categories:
@@ -27,6 +27,10 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  It is noteworthy that the 8.0 GHz barrier is rather hard to break, and to date, only 117 processors have managed to pass it. The vast majority of the processors to hit 8.0 GHz or higher frequency are AMD's FX 8000-series units, as well as Intel's Cedar Mill-based Celeron D or Pentium CPUs, but there are also several AMD's A-series APUs too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,18 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/1726809481690-x-plus-5x-n/"><u> [X + 5X = N </u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-leveraging-the-power-of-creative-commons-rights/"><u>[Updated] Leveraging the Power of Creative Commons Rights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-fire-tv-showdown-expert-picks-for-the-ultimate-media-streamer-of-202n4-cnet-insights/"><u>Amazon Fire TV Showdown: Expert Picks for the Ultimate Media Streamer of 202N4 - CNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-hidden-gem-the-ultimate-speaker-setup-surpassing-bose-and-sonos-discovered/"><u>Best Hidden Gem: The Ultimate Speaker Setup Surpassing Bose & Sonos Discovered</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-in-class-comparing-the-lg-g4-to-the-samsung-s95d-oled-tvs-which-flagship-set-wins-zdnet/"><u>Best in Class: Comparing the LG G4 to the Samsung S95D OLED TVs - Which Flagship Set Wins? | ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-k70-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi K70 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ting-your-contents-reach-without-breaching-laws-for-2024/"><u>Elevating Your Content's Reach Without Breaching Laws for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-manage-your-nintendo-account-from-your-nintendo-switch/"><u>How to Manage Your Nintendo Account From Your Nintendo Switch</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-plus-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 Plus to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

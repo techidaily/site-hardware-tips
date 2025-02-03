@@ -1,7 +1,7 @@
 ---
 title: MSI Adopts Intel's Prescribed Power Parameters for I9-Enabled Motherboards, Addressing Stability Challenges Amidst Intel’s Investigation Process
-date: 2024-08-19T02:36:12.882Z
-updated: 2024-08-20T02:36:12.882Z
+date: 2025-01-28T18:05:52.127Z
+updated: 2025-02-01T19:42:17.029Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-video-production-for-instagram-reels-for-2024/"><u>[New] Enhancing Video Production for Instagram Reels for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-itel-a70-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-your-dream-pc-dells-innovative-luna-laptop-with-modular-design-the-next-step-in-customization/"><u>Building Your Dream PC: Dell's Innovative Luna Laptop with Modular Design - The Next Step in Customization?</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-y36-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y36 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-to-metas-best-prime-day-sale-yet-unbeatable-512gb-quest-3-vr-headset-bargain-in-october/"><u>Exclusive Guide to Meta's Best Prime Day Sale Yet: Unbeatable 512GB Quest 3 VR Headset Bargain in October</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016698339-how-to-fix-rust-mic-not-working-2024-guide/"><u>How To Fix Rust Mic Not Working – 2024 Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-v27e-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo V27e to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 15</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/july-2024s-ultimate-bargain-tech-guide-laptops-and-deals/"><u>July 2024'S Ultimate Bargain Tech Guide: Laptops and Deals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-grab-your-black-friday-bargain-with-a-staggering-700-savings-on-the-high-performance-dell-xps-15-exclusive-deals-await-at-zdnet/"><u>Limited Time Offer: Grab Your Black Friday Bargain with a Staggering $700 Savings on the High-Performance Dell XPS 15 - Exclusive Deals Await at ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/monitor-at-best-buy-for-prime-day-insider-tips/"><u>Monitor at Best Buy for Prime Day Insider Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/reclaiming-credibility-from-a-youtube-ban/"><u>Reclaiming Credibility From a YouTube Ban</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/securely-erase-sensitive-information-from-your-windows-pc-a-step-by-step-guide-to-protecting-privacy-without-cost-insights/"><u>Securely Erase Sensitive Information From Your Windows PC: A Step-by-Step Guide to Protecting Privacy Without Cost - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-an-hp-victus/"><u>Snag an HP Victus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-implemented-restoring-volume-in-google-chrome/"><u>Solution Implemented: Restoring Volume in Google Chrome</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-exclusive-october-2024-sales-on-premium-laptops-insider-tips-and-tricks/"><u>Top Picks: Exclusive October 2024 Sales on Premium Laptops - Insider Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-apple-m3-macbook-air-top-3-impressive-features-revealed-techinsights/"><u>Unboxing the Apple M3 MacBook Air: Top 3 Impressive Features Revealed | TechInsights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

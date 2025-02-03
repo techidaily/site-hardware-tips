@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights on ZDNet"
-date: 2025-01-18T02:37:06.372Z
-updated: 2025-01-24T21:27:25.109Z
+date: 2025-01-28T17:56:26.413Z
+updated: 2025-02-01T19:18:29.197Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-igtv-presence-secrets-to-skyrocketing-subscribers-for-2024/"><u>[New] Elevate Your IGTV Presence Secrets to Skyrocketing Subscribers for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-illuminating-imagery-pro-level-tips-for-spectacular-photos/"><u>[Updated] 2024 Approved Illuminating Imagery Pro-Level Tips for Spectacular Photos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-prime-video-players-our-handpicked-collection/"><u>[Updated] 2024 Approved Prime Video Players Our Handpicked Collection</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-optimal-method-for-integrating-gopro-footage-into-360-degree-films/"><u>[Updated] In 2024, Optimal Method for Integrating GoPro Footage Into 360-Degree Films</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-between-samsung-galaxy-watch-4-and-galaxy-watch-5-pro-a-comprehensive-guide-for-buyers-techradar/"><u>Choosing Between Samsung Galaxy Watch 4 and Galaxy Watch 5 Pro: A Comprehensive Guide for Buyers | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effortlessly-link-your-bus-or-train-card-with-apple-wallet-expert-tips-and-tricks-by-zdnet/"><u>Effortlessly Link Your Bus or Train Card with Apple Wallet: Expert Tips & Tricks by ZDNet</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhanced-nuxt-admin-experience-for-developers-next-level-security-pro-addons-and-larval-compatibility/"><u>Enhanced Nuxt Admin Experience for Developers: Next Level Security, Pro Addons, and Larval Compatibility</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/from-novice-to-pro-navigating-streamlabs-obs-for-2024/"><u>From Novice to Pro Navigating Streamlabs OBS for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-sky-magnificence-in-focus-leading-websites-uncovered/"><u>In 2024, Sky Magnificence in Focus Leading Websites Uncovered</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-best-ways-to-record-and-preserve-internet-radio/"><u>In 2024, The Best Ways to Record and Preserve Internet Radio</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-aftershokz-aeropex-exceptional-bone-conduction-audio-quality-and-enduring-power-supply-expert-review-by-techzdnet/"><u>In-Depth Analysis of the AfterShokz Aeropex: Exceptional Bone Conduction Audio Quality & Enduring Power Supply - Expert Review by TechZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/surviving-the-elements-an-in-depth-apple-watch-ultra-durability-assessment-spanning-nine-months-insights-from-zdnet/"><u>Surviving the Elements: An In-Depth Apple Watch Ultra Durability Assessment Spanning Nine Months | Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-premier-apple-watch-bands-of-2024-thoroughly-tested-and-evaluated-zdnet/"><u>Ultimate Guide to the Premier Apple Watch Bands of 2024: Thoroughly Tested and Evaluated | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-changes-apple-set-to-enhance-budget-friendly-watch-se-exciting-updates-awaitzdnet/"><u>Upcoming Changes: Apple Set to Enhance Budget-Friendly Watch SE - Exciting Updates Await![ZDNet]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-or-stick-with-the-pro-comparing-the-new-samsung-galaxy-watch-6-classic-to-the-watch-5-pro-for-consumers-zdnet/"><u>Upgrade or Stick with the Pro? Comparing the New Samsung Galaxy Watch 6 Classic to the Watch 5 Pro for Consumers | ZDNET</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-creative-splitscreens-in-youtube-filmmaking/"><u>[Updated] Mastering Creative Splitscreens in YouTube Filmmaking</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-quintessential-guide-to-powerful-quadcopter-engines/"><u>[Updated] The Quintessential Guide to Powerful Quadcopter Engines</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-creativity-a-comprehensive-guide-to-instagrams-gif-features/"><u>[Updated] Unleash Creativity A Comprehensive Guide to Instagram's GIF Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-new-laptop-revives-forgotten-tech-trend-the-latest-comeback-story/"><u>Affordable New Laptop Revives Forgotten Tech Trend - The Latest Comeback Story!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/behind-the-scenes-the-making-of-an-iconic-tech-spectacle-new-iphone-launch/"><u>Behind the Scenes: The Making of an Iconic Tech Spectacle - New iPhone Launch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/college-students-guide-to-the-perfectly-priced-299-laptop-expert-advice-by-zdnet/"><u>College Student's Guide to the Perfectly Priced $299 Laptop | Expert Advice by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-whats-new-with-the-latest-upgrade-of-lenovo-thinkpad-x1-a-breakdown/"><u>Discover What's New with the Latest Upgrade of Lenovo ThinkPad X1: A Breakdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dissecting-the-disappointment-how-the-asus-expertbook-b3-falls-short-of-its-claims-tech-analysis-on-zdnet/"><u>Dissecting the Disappointment: How the ASUS ExpertBook B3 Falls Short of Its Claims | Tech Analysis on ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/dual-angles-debate-vertical-vs-horizontal-fb-videos/"><u>Dual Angles Debate Vertical vs Horizontal FB Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-ai-projects-unveiling-the-power-of-vector-databases/"><u>Enhance Your AI Projects: Unveiling the Power of Vector Databases</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-virtual-reality-like-never-before-discover-why-metas-quest-3-with-512gb-is-a-top-picks-for-savvy-shoppers-techsavvy/"><u>Experience Virtual Reality Like Never Before: Discover Why Meta's Quest 3 with 512GB Is a Top Picks for Savvy Shoppers | TechSavvy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hot-deal-alert-get-your-hands-on-an-msi-gaming-monitor-at-a-steep-300-cutdown-price-spotted-by-zdnet/"><u>Hot Deal Alert! Get Your Hands on an MSI Gaming Monitor at a Steep $300 Cutdown Price, Spotted by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-college-laptop-selection-4-essential-aspects-and-our-top-10-recommendations-insights/"><u>Mastering College Laptop Selection: 4 Essential Aspects and Our Top 10 Recommendations | Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-steam-unsynced-files-issue/"><u>Overcoming Steam Unsynced Files Issue</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-poco-m6-pro-4g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Poco M6 Pro 4G Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-top-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Top Social Media Sites - Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lenovo-laptops-under-800-tailored-for-efficient-hybrid-working-read-my-review/"><u>Top Lenovo Laptops Under $800 Tailored for Efficient Hybrid Working - Read My Review</u></a></li>
 </ul></div>
 

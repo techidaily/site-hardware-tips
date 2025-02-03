@@ -1,7 +1,7 @@
 ---
 title: Lenovo Forecasts Essential AI and Cybersecurity Capabilities in Future Laptops - Insights From ZDNet
-date: 2025-01-18T01:07:12.927Z
-updated: 2025-01-24T21:13:51.692Z
+date: 2025-01-31T20:41:50.588Z
+updated: 2025-02-01T18:31:23.313Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,18 +77,24 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-instagram-experience-adding-vimeo-videos/"><u>[New] 2024 Approved The Instagram Experience Adding Vimeo Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-list-of-hd-webcams-compatible-with-windows-11-pcs-for-2024/"><u>[New] Ultimate List of HD Webcams Compatible with Windows 11 PCs for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-11x-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on 11X 5G</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-ultra-hd-entertainment-an-in-depth-look-at-the-new-apple-tv-4k/"><u>Exploring Ultra HD Entertainment: An In-Depth Look at the New Apple TV 4K</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-captivate-audiences-techniques-for-livestreaming-video-in-spherical-views-on-youtube/"><u>In 2024, Captivate Audiences Techniques for Livestreaming Video in Spherical Views on YouTube</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ps3-video-transcoder-change-mkv-files-for-ps3-player-use/"><u>PS3 Video Transcoder - Change MKV Files for PS3 Player Use</u></a></li>
-<li><a href="https://article-tips.techidaily.com/spectacular-8-cam-enhancers-for-improved-video-feeds/"><u>Spectacular 8 Cam Enhancers for Improved Video Feeds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tesla-models-ranked-elite-comparison-of-2023s-s-3-x-and-y-on-zdnet/"><u>Tesla Models Ranked: Elite Comparison of 2023'S S, 3, X, and Y on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/teslas-ambitious-move-for-enhanced-renewable-energy-storages-gains-traction-through-landmark-chinese-pact/"><u>Tesla's Ambitious Move for Enhanced Renewable Energy Storages Gains Traction Through Landmark Chinese Pact.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-showdown-analyzing-features-of-google-pixel-7-pro-vs-pixel-6-pro-for-the-ideal-premium-phone-gizmoclock-review/"><u>The Ultimate Showdown: Analyzing Features of Google Pixel 7 Pro Vs. Pixel 6 Pro for the Ideal Premium Phone | GizmoClock Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premier-luggage-collections-of-2022-featured-by-zdnet/"><u>Top 5 Premier Luggage Collections of 2022 Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-compact-battery-boosters-reviewed-by-experts-the-ultimate-guide-techinsights/"><u>Top Rated Compact Battery Boosters Reviewed by Experts - The Ultimate Guide | TechInsights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transformed-ride-sharing-experience-awaits-as-uber-redesigns-its-app-inside-scoop-by-zdnet/"><u>Transformed Ride-Sharing Experience Awaits as Uber Redesigns Its App - Inside Scoop by ZDNet!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-buzz-factor-creating-catch-all-content-for-facebook/"><u>[New] 2024 Approved The Buzz Factor Creating Catch-All Content for Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spotlight-on-professionals-the-cutting-edge-soundtracked-photovideo-artists/"><u>[New] Spotlight on Professionals The Cutting-Edge, Soundtracked Photo/Video Artists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-ultimate-review-why-dells-newest-xps-lineup-excels-in-performance-and-style-insights-from-a-tech-guru/"><u>1. Ultimate Review: Why Dell's Newest XPS Lineup Excels in Performance & Style - Insights From a Tech Guru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/15-gaming-laptop-at-just-515-best-sale-at-best-buy-techspot/"><u>15 Gaming Laptop at Just $515 - Best Sale at Best Buy | TechSpot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adapting-office-technology-the-future-of-work-devices-in-an-age-of-artificial-intelligence-insights-from-zdnet/"><u>Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/advanced-technicians-program-for-comprehensive-data-salvaging-effective-on-various-storage-mediums/"><u>Advanced Technician's Program for Comprehensive Data Salvaging – Effective on Various Storage Mediums</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-latest-offer-get-the-ultimate-game-sound-experience-for-half-off-discover-the-best-gaming-speaker-system-now-at-zdnet/"><u>Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-2024-bargains-at-best-buy-top-picks-and-last-minute-savings/"><u>Exclusive October Prime Day 2024 Bargains at Best Buy: Top Picks & Last-Minute Savings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-future-with-lenovos-premium-thinkpad-x13s-unveiling-arm-powered-ultraportable-tech-enhanced-by-5g-and-extended-battery-life-zdnet-insights/"><u>Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life | ZDNet Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-achieve-negative-like-images-effectively-for-2024/"><u>How to Achieve Negative-Like Images Effectively for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-sony-xperia-10-v-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Sony Xperia 10 V to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-poco-f5-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Poco F5 Pro 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-ios-slide-show-tools-tailored-for-high-end-models/"><u>In 2024, IOS Slide Show Tools Tailored for High-End Models</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data/"><u>In 2024, Navigating the Seas of Success Utilizing Social Blade for YouTube Data</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-seamless-synergy-wearable-helps-open-mac-gadgets/"><u>In 2024, Seamless Synergy Wearable Helps Open Mac Gadgets</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-prime-day-bargain-metas-51er-new-quest-vr-headset-with-512gb-capacity-on-special-offer-limited-availability-now-zdnet/"><u>Top October Prime Day Bargain: Meta's 51Er New Quest VR Headset with 512GB Capacity on Special Offer - Limited Availability Now | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-apples-m3-series-key-insights-before-your-purchase-decision-zdnet/"><u>Understanding Apple’s M3 Series: Key Insights Before Your Purchase Decision | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-new-chromeos-upgrade-windows-11-integration-revamps-your-chromebooks/"><u>Unveiling the New ChromeOS Upgrade: Windows 11 Integration Revamps Your Chromebooks</u></a></li>
 </ul></div>
 
