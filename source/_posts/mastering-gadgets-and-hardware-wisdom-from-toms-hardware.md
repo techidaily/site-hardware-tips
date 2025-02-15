@@ -1,7 +1,7 @@
 ---
 title: "Mastering Gadgets & Hardware: Wisdom From Tom's Hardware"
-date: 2024-08-19T02:39:04.957Z
-updated: 2024-08-20T02:39:04.957Z
+date: 2025-01-31T00:42:51.809Z
+updated: 2025-02-02T17:15:43.598Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-step-by-step-tutorial-using-microsofts-movie-maker-on-w11/"><u>[Updated] Step-By-Step Tutorial Using Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-crafting-content-that-encourages-constructive-youtube-commentary/"><u>2024 Approved Crafting Content that Encourages Constructive YouTube Commentary</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-headline-economy-utilizing-slug-lines-smartly/"><u>2024 Approved Mastering Headline Economy Utilizing Slug Lines Smartly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-leading-ipads-analyzed-find-your-perfect-tablet-with-our-expert-testing-and-in-depth-review/"><u>2024'S Leading iPads Analyzed: Find Your Perfect Tablet with Our Expert Testing and In-Depth Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/command-attention-in-advertising-using-20-powerful-terms/"><u>Command Attention in Advertising Using 20 Powerful Terms</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/creating-your-own-turn-the-page-digital-reads-for-mac-with-flipbuilder-step-by-step-guide/"><u>Creating Your Own Turn-The-Page Digital Reads for Mac with FlipBuilder - Step By Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-a79-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo A79 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-adatas-innovative-hybrid-airwater-cooling-solution-unveiled-at-computex-plus-upcoming-psus-and-pcie-50-ssds/"><u>Introducing Adata's Innovative Hybrid Air/Water Cooling Solution Unveiled at Computex - Plus Upcoming PSUs & PCIe 5.0 SSDs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-hdd-options-best-picks-for-optimizing-your-pc-and-nas-systems/"><u>Leading HDD Options : Best Picks for Optimizing Your PC and NAS Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-laser-cutting-systems-in-2e24-buyers-guide/"><u>Leading Laser Cutting Systems in 2E24 - Buyer's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-efficient-power-units-to-boost-your-crypto-mining-ventures-with-ethereum-and-bitcoin/"><u>Most Efficient Power Units to Boost Your Crypto Mining Ventures with Ethereum and Bitcoin</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-video-capture-app/"><u>Movavi Video Capture App: 안전하고 편리한 인터넷 동영상 다운로드 방법</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-specs-and-gadgets-at-toms-hardware-hub/"><u>Navigating Computer Specs & Gadgets at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-toms-hardware-insight/"><u>Navigating Technology with Tom's Hardware Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-report-exposes-misleading-material-claims-for-majority-of-tested-desktop-cooling-solutions-copper-scarcity-highlighted/"><u>New Report Exposes Misleading Material Claims for Majority of Tested Desktop Cooling Solutions, Copper Scarcity Highlighted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-wisdom-from-toms-hardware-experts/"><u>Pioneering Computer Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-quick-print-method-developed-by-mit-researchers-featuring-reusable-metal-scraps-and-bed-of-fine-glass-particles/"><u>Revolutionary Quick-Print Method Developed by MIT Researchers, Featuring Reusable Metal Scraps and Bed of Fine Glass Particles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-creativity-with-iphones-top-10-free-aesthetic-photo-composer-tools/"><u>Unleash Creativity with iPhone’s Top 10 Free, Aesthetic Photo Composer Tools</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->

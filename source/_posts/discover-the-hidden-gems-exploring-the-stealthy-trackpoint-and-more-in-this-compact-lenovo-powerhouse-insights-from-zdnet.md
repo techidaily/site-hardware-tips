@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights From ZDNet"
-date: 2025-01-28T19:40:15.850Z
-updated: 2025-02-01T16:05:05.025Z
+date: 2025-01-31T04:11:30.807Z
+updated: 2025-02-03T07:27:15.169Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,14 +116,19 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-find-my-playlist-on-youtube/"><u>[Updated] How to Find My Playlist on YouTube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-expands-its-discontinued-mac-lineup-with-9-more-models-implications-for-consumers-and-tech-enthusiasts-detailed-analysis-by-zdnet/"><u>Apple Expands Its Discontinued Mac Lineup with 9 More Models - Implications for Consumers and Tech Enthusiasts | Detailed Analysis by ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-11-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 11 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-updated-epson-wf-3620-drivers-on-your-windows-computer-compatible-with-win-11-8-and-7/"><u>How to Install Updated Epson WF-3620 Drivers on Your Windows Computer (Compatible with Win 11, 8 & 7)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-se-2022-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone SE (2022) Smoothly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-connectivity-with-this-tiny-mighty-8-in-1-adapter-an-incredible-find-reviewed-by-zdnet/"><u>Maximize Connectivity with This Tiny, Mighty 8-in-1 Adapter – An Incredible Find Reviewed by ZDNET</u></a></li>
-<li><a href="https://fox-where.techidaily.com/seamless-cross-platform-music-migration-transferring-tunes-from-android-to-ios-devices/"><u>Seamless Cross-Platform Music Migration: Transferring Tunes From Android to iOS Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-high-stakes-battle-of-ultrabooks-comparing-samsungs-newest-with-apples-iconic-macbook-pro-wiredreviews/"><u>The High Stakes Battle of Ultrabooks: Comparing Samsung's Newest with Apple's Iconic MacBook Pro | WiredReviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-find-the-perfect-glass-shield-for-your-iphone-zdnet-insights/"><u>Ultimate Guide: Find the Perfect Glass Shield for Your iPhone – ZDNet Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-golivepod-steps-for-a-hassle-free-podcast-broadcast-experience/"><u>[New] GoLivePod Steps for a Hassle-Free Podcast Broadcast Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-link-sharing-instagram-stories-and-posts/"><u>[Updated] 2024 Approved Mastering Link Sharing Instagram Stories & Posts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-asmr-production-101-essential-strategies-for-cutting-edge-video-making/"><u>[Updated] In 2024, ASMR Production 101 Essential Strategies for Cutting-Edge Video Making</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-latest-gadgets-with-toms-hardware-experts/"><u>Discovering the Latest Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/freedom-of-expression-say-no-to-facebook-tagged-photos/"><u>Freedom of Expression: Say No to Facebook Tagged Photos</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-motorola-razr-40-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Razr 40 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-launch-of-new-14th-gen-processors-unveiling-nine-cpu-variants-with-no-e-cores-leading-with-flagship-core-i9-1/"><u>Intel's Launch of New 14Th Gen Processors: Unveiling Nine CPU Variants with No E-Cores, Leading With Flagship Core I9-1</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-components-inside-view-from-toms-hardware-haven/"><u>Mastering Gadgets and Components - Inside View From Tom's Hardware Haven</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-blueprint-of-dynamic-dialogue-in-scripts-for-2024/"><u>The Blueprint of Dynamic Dialogue in Scripts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gear-hub-expert-insights-into-your-digital-devices/"><u>Tom's Gear Hub: Expert Insights Into Your Digital Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-apple-imac-27-4k-display-tech-and-performance-evaluation/"><u>Ultimate Guide: Apple iMac 27 4K Display Tech & Performance Evaluation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-insights-into-pc-building-from-toms-hardware-hub/"><u>Ultimate Insights Into PC Building From Tom's Hardware Hub</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-hiberfilsys-in-windows-11-comprehensive-guide-to-deletion/"><u>Understanding hiberfil.sys in Windows 11: Comprehensive Guide to Deletion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/user-guide-for-the-omoton-t1-an-in-depth-look-at-a-robust-budget-friendly-tablet-holder/"><u>User Guide for the Omoton T1: An In-Depth Look at a Robust, Budget-Friendly Tablet Holder</u></a></li>
 </ul></div>
 

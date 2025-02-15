@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Top-Performing Work Laptops Beyond Lenovo and Apple | ZDNet
-date: 2025-01-28T19:50:59.866Z
-updated: 2025-02-01T17:25:25.388Z
+date: 2025-01-30T05:47:36.369Z
+updated: 2025-02-02T23:04:38.171Z
 tags:
   - laptops
 categories:
@@ -23,12 +23,16 @@ For those of us who'd been working with Linux for some time, that was more a bot
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best Linux laptop right now?
 
 We went hands-on with some of the best laptops on the market that can run Linux, testing their performance, battery, and features. Our pick for the best Linux laptop overall is the [Lenovo ThinkPad Z13 Gen 2](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1796374-REG%2Flenovo%5F21jv000dus%5F13%5F3%5Fthinkpad%5Fz13%5Fgen.html) is our top pick due to its more affordable price and customization options. Check out the rest of the list to learn about our other top picks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The best Linux laptops of 2024
 
@@ -46,10 +50,6 @@ Cons
 * No 4K display option
 * Not all CPU options support up to 64GB of RAM
 * Incompatible with discrete GPUs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lenovo ThinkPad Z13
 
@@ -77,10 +77,6 @@ Pros
 Cons 
 * Expensive at higher configurations
 * No fast charge feature
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dell XPS 15
 
@@ -112,6 +108,10 @@ Cons
 * Somewhat short battery life
 
 ## Acer Swift Edge
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best AMD-based Linux laptop
 
@@ -168,11 +168,11 @@ Cons
 * Expensive
 * Somewhat thick and heavy design
 
-## Microsoft Surface Laptop Studio 2
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Microsoft Surface Laptop Studio 2
 
 ### Best battery life in a Linux laptop
 
@@ -203,7 +203,7 @@ My choice for the best Linux laptop is the Lenovo ThinkPad Z13 Gen 2\. Lenovo is
 \*MSRP at time of writing. Please note that actual retail pricing may vary depending on the seller as well as available deals and promotions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Linux laptop is right for you?
@@ -220,6 +220,10 @@ However, if you're running with more experienced Linux crowds, you may want to c
 | MSI Stealth Studio AI             | A Linux-capable laptop for gaming. The MSI Stealth Studio offers up to a 17-inch display and up to an Nvidia RTX 4090 graphics card.                            |
 | Microsoft Surface Laptop Studio 2 | A Linux laptop with a long battery life. The Microsoft Surface Laptop Studio 2 offers up to 19 hours of use on a full charge.                                   |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a Linux laptop:
 
 What makes a machine worthy of belonging to the best Linux laptop list? Obviously, it has to work with Linux and not require the user to do any of the work to make that happen. Beyond that, here are the key features we considered when completing hands-on testing to compile this list:
@@ -229,6 +233,10 @@ What makes a machine worthy of belonging to the best Linux laptop list? Obviousl
 * **Cost:** Since Linux can run on just about any laptop as long as the hardware is supported, you can choose an older model (or even a used one) to load the operating system onto. This means you can save money on upgrades, especially if you're just starting out learning Linux.
 * **Open-source support:** Linux is an open-source operating system. You can find tons of online communities dedicated to learning Linux, tweaking source code, and reporting issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these Linux laptops?
 
 While we were researching and testing each Linux-compatible laptop on this list, we kept these criteria in mind:
@@ -237,17 +245,9 @@ While we were researching and testing each Linux-compatible laptop on this list,
 * **Dual boot:** Many Linux enthusiasts may also need or want to run a secondary operating system like Windows or MacOS on their computer for completing certain tasks. Each laptop we've chosen has been verified to be able to run at least one other operating system aside from Linux.
 * **Configurability:** No two users will have the exact same needs when using a Linux laptop. Each model chosen for our list has been verified to allow users to drop in new components, expand memory, and add storage drives.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Linux?
 
 Linux is an open-source operating system, created by Linus Torvalds, that is not only suited for desktops and laptops, but for enterprise-grade servers, container deployments, the cloud, and much more. Linux is available as a distribution and can be downloaded and installed for free on as many machines as you need.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can you run Linux on a Mac?
 
@@ -261,15 +261,15 @@ The biggest hurdles you'll have to face when using Linux over Windows or MacOS a
 
 **Also:** [**Windows, Mac, or Linux? We compare the pros and cons of these computing platforms**](https://www.zdnet.com/article/windows-mac-or-linux-we-compare-the-pros-and-cons-of-these-computing-platforms/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does "open-source" mean?
 
 When talking about programming and coding, you may come across the term "open-source." This just means that the original code for a program (like Linux or VLC Media Player) is freely available to the public for downloading, distribution, and modifying. 
 
 Linux is popular with programmers since it is open-source, which means that it's easy to try and make your own modifications or command lists. Or you can work together with the Linux community to resolve common bug issues or create new support programs for hardware like Apple's M3 Silicon Chips. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's the oldest computer you can run with Linux?
 
@@ -323,22 +323,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-easy-steps-for-effective-ez-grabber-implementation-for-2024/"><u>[New] Easy Steps for Effective EZ Grabber Implementation for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-virtual-worlds-with-top-tier-game-engines-2023/"><u>[New] Mastering Virtual Worlds with Top-Tier Game Engines, 2023</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-revealed-the-best-thumbnail-dimensions-for-maximum-viewership-growth/"><u>[Updated] In 2024, Revealed! The Best Thumbnail Dimensions for Maximum Viewership Growth</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quiet-cinematic-dialogue-draft/"><u>[Updated] Quiet Cinematic Dialogue Draft</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-undercover-instagram-story-experience-top-5-tools-for-2024/"><u>[Updated] Undercover Instagram Story Experience, Top 5 Tools for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-how-lenovos-new-laptops-seamlessly-transfer-files-to-your-iphone-with-their-groundbreaking-method-see-why-you-cant-miss-out-gizmodotech/"><u>Discover How Lenovo's New Laptops Seamlessly Transfer Files to Your iPhone with Their Groundbreaking Method – See Why You Can’t Miss Out! | GizmodoTech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ensure-that-each-line-of-dialogue-strictly-follows-iambic-pentameter/"><u>Ensure that Each Line of Dialogue Strictly Follows Iambic Pentameter.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-got-ringtones-where-to-find-them-online-for-2024/"><u>Exclusive GoT Ringtones - Where to Find Them Online for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-life-in-high-definition-the-nikon-1j5-review/"><u>In 2024, Capturing Life in High Definition The Nikon 1J5 Review</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-laptops-battery-life-with-our-prime-day-offer-get-20-off-premium-power-banks-for-windows-and-macbook-users/"><u>Maximize Your Laptop's Battery Life with Our Prime Day Offer: Get 20% Off Premium Power Banks for Windows & MacBook Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/neweggs-ultimate-holiday-bargains-a-comprehensive-list-of-top-savings-spotted-by-zdnet/"><u>Newegg's Ultimate Holiday Bargains : A Comprehensive List of Top Savings | Spotted by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-latest-update-apples-expanded-list-of-older-mac-models-considered-obsolete-insights-from-zdnet/"><u>The Latest Update: Apple's Expanded List of Older Mac Models Considered 'Obsolete' - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-battle-4000-rugged-laptop-outperforms-dell-latitude-in-extreme-stress-tests/"><u>Ultimate Battle: $4,000 Rugged Laptop Outperforms Dell Latitude in Extreme Stress Tests</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-top-performing-non-thinkpad-non-macbook-found-on-prime-day-with-300-savingszdnet/"><u>Unbeatable Deals: Top-Performing Non-ThinkPad, Non-MacBook Found on Prime Day with $300 Savings![ZDNet]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-cyber-monday-savings-score-a-high-performance-lg-gram-17-for-only-400-off-tech-news/"><u>Unmissable Cyber Monday Savings: Score a High-Performance LG Gram 17 for Only $400 Off | Tech News</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-become-an-influencer-grow-by-a-thousand-on-instagrammonth/"><u>2024 Approved Become an Influencer Grow by a Thousand on Instagram/Month</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125173289-beat-the-clock-and-save-big-get-your-thrifty-beginner-4k-resin-3d-printer-at-a-whopping-44-off-for-black-friday/"><u>Beat the Clock and Save Big - Get Your 'Thrifty Beginner 4K Resin' 3D Printer at a Whopping 44% Off for Black Friday</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-single-pass-3d-printing-unveils-operational-robotic-hand-advancing-the-dream-of-at-home-limb-fabrication/"><u>Cutting-Edge Single-Pass 3D Printing Unveils Operational Robotic Hand: Advancing the Dream of At-Home Limb Fabrication</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-fixing-0x80071a90-windows-error/"><u>Essential Guide to Fixing 0X80071A90 Windows Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-pc-gear-with-toms-hardware-resource-hub/"><u>Expert Advice on PC Gear with Tom's Hardware Resource Hub</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-nvidia-not-connected-error-expert-solutions-for-your-computer-woes/"><u>Fixing the 'NVIDIA Not Connected' Error - Expert Solutions for Your Computer Woes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-innovative-caulk-gun-applicator-for-pink-thermal-gel-revolutionizing-heat-transfer-and-component-gaps/"><u>Introducing the Innovative Caulk-Gun Applicator for Pink Thermal Gel: Revolutionizing Heat Transfer & Component Gaps</u></a></li>
 </ul></div>
 

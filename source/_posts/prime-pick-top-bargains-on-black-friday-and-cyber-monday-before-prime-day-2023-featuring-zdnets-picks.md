@@ -1,7 +1,7 @@
 ---
 title: "Prime Pick: Top Bargains on Black Friday & Cyber Monday Before Prime Day 2023 - Featuring ZDNet's Picks"
-date: 2025-01-30T19:35:49.761Z
-updated: 2025-02-01T20:56:49.203Z
+date: 2025-01-28T20:08:27.714Z
+updated: 2025-02-03T07:04:53.975Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Whether you want to get an early head start on your holiday gift list or treat y
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite 48-Hour Flash Sale deals at Best Buy
@@ -38,10 +38,6 @@ Whether you want to get an early head start on your holiday gift list or treat y
 * [Jabra Elite 10 Earbuds for $200 (save $50)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjabra-elite-10-dolby-atmos-true-wireless-in-ear-heaphones-titanium-black%2F6553257.p%3FskuId%3D6553257&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Jabra's latest wireless earbuds have a comfortable and secure fit, good noise cancellation, and excellent sound quality.
 * [TP-Link Wireless 2K Security Camera System for $340 (save $110)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftp-link-tapo-4-pack-outdoor-battery-powered-wireless-2k-qhd-security-camera-with-4-solar-panels-white%2F6581709.p%3FskuId%3D6581709&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This comprehensive outdoor surveillance solution combines four battery-powered 2K QHD security cameras with four solar panels for easy installation and nonstop power.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy deals under $30
 
 Best Buy/ZDNET
@@ -53,7 +49,7 @@ Best Buy/ZDNET
 * [Bella Pro Series 3-qt. Air Fryer for $30 (save $20)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbella-pro-series-3-qt-analog-air-fryer-black%2F6541802.p%3FskuId%3D6541802&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This air fryer can cook enough food to feed as many as four people and has adjustable temperature settings up to 400 degrees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals
@@ -67,6 +63,10 @@ Best Buy/ZDNET
 * [Microsoft GSRF 12.4-inch Surface Laptop Go for $250 (save $150)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-gsrf-surface-laptop-go-12-4-touch-screen-intel-10th-generation-core-i5-4gb-memory-64gb-emmc-platinum%2F6561106.p%3FskuId%3D6561106&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This compact and versatile device features a PixelSense touchscreen display, a 10th Gen Intel Core i5-1035G1 processor, 4GB of RAM, and a 64GB eMMC storage.
 
 **Also:** [**Best Prime Day laptop deals**](https://www.zdnet.com/article/best-early-prime-day-laptop-deals-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy TV deals
 
@@ -83,6 +83,10 @@ Samsung/ZDNET
 
 **Also:** [**Best Prime Day Apple deals**](https://www.zdnet.com/article/best-early-prime-day-apple-deals/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Buy appliance deals
 
 LG/ZDNET
@@ -93,23 +97,19 @@ LG/ZDNET
 * [Maytag Dishwasher with Stainless Steel Tub for $550 (save $245)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmaytag-24-front-control-built-in-dishwasher-with-stainless-steel-tub-dual-power-filtration-50-dba-stainless-steel%2F6420940.p%3FskuId%3D6420940&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Quiet operation (50 dBA), fingerprint-resistant finish, and an advanced dual power filtration system make this deal a win for $245 off.
 * [GE Profile High-Efficiency Smart Top Load Washer for $680 (save $220)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fge-profile-5-0-cu-ft-high-efficiency-smart-top-load-washer-with-smarter-wash-technology-easier-reach-microban-technology-diamond-gray%2F6472680.p%3FskuId%3D6472680&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20ahead%20of%20prime%20day%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This washer features adaptive smart technology that optimizes cleaning power and fabric care depending on your cycle. It also has built-in Wi-Fi so that you can monitor your laundry from anywhere.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### Will Best Buy have sales during Prime Day?
 
 Yes. Best Buy's 48-Hour Flash Sale runs Oct. 8-9, the same days as Amazon's October Prime Big Deal Days event. These deals reflect some of the best discounts on items in a range of categories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Does Best Buy price match Amazon Prime Day deals?
 
 No. Best Buy's Price Match Guarantee does not apply to discounts that are exclusive to membership or loyalty programs offered by other retailers. Consequently, member-only events such as Amazon's October Prime Day are not eligible for price matching at Best Buy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Best Buy 48-Hour Flash Sale deals?
 
@@ -147,17 +147,17 @@ We also looked over customer reviews to find out what matters to real people who
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-years-top-picks-affordable-livestream-software-and-apps-list/"><u>[New] 2024 Approved Year's Top Picks Affordable Livestream Software and Apps List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-marks-9-mac-variants-as-obsolete-implications-and-details-unveiled-by-zdnet/"><u>Apple Marks 9 Mac Variants as Obsolete: Implications and Details Unveiled by ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-resolving-window-10-screen-vibrating-problems/"><u>Guide: Resolving Window 10 Screen Vibrating Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-pc-reset-failure-solved/"><u>How to Fix: Windows 11 PC Reset Failure Solved</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ifa-2024-showcase-discovering-the-wonders-of-lenovos-revolutionary-auto-swivel-laptop-zdnet/"><u>IFA 2024 Showcase: Discovering the Wonders of Lenovo's Revolutionary Auto-Swivel Laptop | ZDNET</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-8-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 8 Activity | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Infinix Note 30? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/quick-and-easy-ways-to-uninstall-programs-from-your-macbook-step-by-step-tutorial/"><u>Quick and Easy Ways to Uninstall Programs From Your MacBook – Step by Step Tutorial</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-insights-uncover-the-smart-and-sophisticated-world-within-samsung-un6un65ru8000fxza-led-tv/"><u>Review Insights: Uncover the Smart and Sophisticated World Within Samsung UN6#UN65RU8000FXZA LED TV</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-ipad-pro-usb-c-hubs-reviewed-for-maximum-compatibility-and-convenience/"><u>Top Rated iPad Pro USB-C Hubs Reviewed for Maximum Compatibility & Convenience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-folder-not-openable-errors-in-office-for-desktop-systems/"><u>Troubleshoot Folder Not Openable Errors in Office for Desktop Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-metas-latest-offer-on-512gb-quest-3-makes-waves-as-top-virtual-reality-bargain-zdnet/"><u>Unbeatable: Meta's Latest Offer on 512GB Quest 3 Makes Waves as Top Virtual Reality Bargain - ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-guide-inserting-captions-in-instagram-clips-for-2024/"><u>[New] Step-by-Step Guide Inserting Captions in Instagram Clips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-venturing-into-new-realities-best-metaverse-headsets-guide/"><u>[Updated] Venturing Into New Realities Best Metaverse Headsets Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-explore-the-latest-in-picsart-a-comprehensive-guide-and-review/"><u>2024 Approved Explore the Latest in PicsArt - A Comprehensive Guide and Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-dangerous-subscriber-scams-online/"><u>Decoding Dangerous Subscriber Scams Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-top-gear-navigating-through-toms-hardware-wisdom/"><u>Discovering Top Gear: Navigating Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/examining-the-corsair-air-a1-15-cooler-expensive-yet-silent-and-powerful/"><u>Examining the Corsair Air A1 15 Cooler: Expensive Yet Silent & Powerful?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-analysis-with-toms-equipment-corner/"><u>In-Depth Hardware Analysis with Tom's Equipment Corner</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-asus-dvdcd-rom-driver-installers-available-now/"><u>Latest ASUS DVD/CD-ROM Driver Installers Available Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-experts/"><u>Navigating the Digital Landscape with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-latest-hardware/"><u>Tom's Tech Review: The Ultimate Guide to Latest Hardware</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo Find N3 Flip? | Dr.fone</u></a></li>
 </ul></div>
 

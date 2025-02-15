@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Ongoing Steep Discounts: Grab Your 8TB Samsung T5 SSD at an Unbeatable 36%% Off Beyond Prime Day - ZDNet Insights"
-date: 2025-01-29T18:53:55.758Z
-updated: 2025-02-01T18:00:02.022Z
+date: 2025-01-31T04:29:34.801Z
+updated: 2025-02-02T22:24:06.734Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5227965a-639b-4fc1-9b59-2f542a1eddcf%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,18 +65,20 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-video-highlights-our-top-5-favorites/"><u>[New] In 2024, FB Video Highlights Our Top 5 Favorites</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-microphone-for-different-youtube-channel-types/"><u>[Updated] 2024 Approved Best Microphone for Different YouTube Channel Types</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-best-free-speech-to-text-apps-on-mac-you-might-missed/"><u>[Updated] The Best Free Speech to Text Apps on Mac You Might Missed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-the-secret-to-youtube-success-reaching-a-milestone-of-500plus-views/"><u>[Updated] Unlock the Secret to YouTube Success Reaching a Milestone of 500+ Views</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-the-dynamics-behind-youtubes-investment-in-shorts/"><u>2024 Approved Understanding the Dynamics Behind YouTube's Investment in Shorts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-my-love-for-hpnspectre-unveiling-why-the-new-x360-is-a-2021-favorite-according-to-zdnet-experts/"><u>Discovering My Love for HP'n'Spectre: Unveiling Why the New X360 Is a 2021 Favorite, According to ZDNet Experts</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/effective-methods-to-repair-pool-corrupted-sections-within-your-windows-n-11-system-files/"><u>Effective Methods to Repair Pool Corrupted Sections Within Your Windows N 11 System Files</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-victus-15-flip-studio-laptop-now-available-for-only-530-at-best-buy-exclusive-deal/"><u>HP Victus 15 Flip Studio Laptop Now Available for Only $530 at Best Buy - Exclusive Deal</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-z-flip-5-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy Z Flip 5 Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-prime-day-2024-hot-sales-at-best-buy-unmissable-bargains-still-on-sale-zdnet-insights/"><u>October Prime Day 2024 Hot Sales at Best Buy: Unmissable Bargains Still on Sale | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prime-day-prep-discover-the-ultimate-budget-friendly-lenovo-and-dell-alternative-for-your-2-in-1-laptop-needs/"><u>Prime Day Prep: Discover the Ultimate, Budget-Friendly Lenovo & Dell Alternative for Your 2-in-1 Laptop Needs !</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-chromebook-flip-c302ca-great-performance-at-an-unbeatable-price/"><u>The Ultimate Guide to the Asus Chromebook Flip C302CA: Great Performance at an Unbeatable Price</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-choice-lenovo-laptops-at-a-sweet-deal-save-50-this-octobers-prime-day-exclusive-insight-by-zdnet/"><u>Top Choice Lenovo Laptops at a Sweet Deal: Save 50% This October's Prime Day - Exclusive Insight by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-choosing-between-vlc-and-mpc-for-free-video-viewing/"><u>[New] Choosing Between VLC and MPC for Free Video Viewing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-guide-to-capturing-life-in-sync-with-music/"><u>2024 Approved Ultimate Guide to Capturing Life in Sync With Music</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmarking-the-best-comprehensive-test-results-for-120mm-all-in-one-coolers-by-be-quiet-corsair-etc/"><u>Benchmarking the Best - Comprehensive Test Results for 120Mm All-in-One Coolers by Be Quiet, Corsair, Etc</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-the-xtool-s1-a-revolutionary-premium-laser-cutting-solution/"><u>Comprehensive Guide to the XTool S1: A Revolutionary Premium Laser Cutting Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-tech-essentials-through-toms-evaluations/"><u>Discover Cutting-Edge Tech Essentials Through Tom's Evaluations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-top-cell-phone-signal-amplification-devices-of-2024/"><u>Expert Picks: Top Cell Phone Signal Amplification Devices of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-and-easy-installation-corsairs-new-one-turn-pc-fan-screws-save-minutes-on-assembly/"><u>Quick and Easy Installation: Corsair's New One-Turn PC Fan Screws Save Minutes on Assembly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-and-simple-account-creation-steps-for-seamless-online-registration/"><u>Quick and Simple Account Creation Steps for Seamless Online Registration</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-disk-overflow-a-comprehensive-fix-for-windows-10-storage-glitches/"><u>Tackling Disk Overflow: A Comprehensive Fix for Windows 10 Storage Glitches</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-future-of-language-learning-how-to-do-it-in-the-21st-century/"><u>The Future Of Language Learning: How To Do It In The 21St Century!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-3dmakerpros-mole-3d-scanner-a-world-of-scanning-capabilities-in-one-device/"><u>The Ultimate Guide to 3DMakerPro's Mole 3D Scanner - A World of Scanning Capabilities in One Device</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/titre-seo-comment-reussir-a-copier-efficacement-dimportants-volumes-de-donnees-via-le-reseau-sur-les-systemes-windows-117/"><u>Titre SEO: Comment Réussir À Copier Efficacement D'importants Volumes De Données via Le Réseau Sur Les Systèmes Windows 11/7 ?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-hardware-guides/"><u>Tom's Tech Insights: Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-college-tech-elite-laptop-reviews-to-boost-your-academic-performance-and-fun/"><u>Top College Tech: Elite Laptop Reviews to Boost Your Academic Performance and Fun</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-complete-overcoming-fifa-21-launch-errors/"><u>Troubleshooting Complete: Overcoming FIFA 21 Launch Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Cyber Week Blowout: Snag Your Microsoft Surface Pro"
-date: 2025-01-28T19:57:59.720Z
-updated: 2025-02-01T20:47:26.101Z
+date: 2025-01-28T19:23:49.637Z
+updated: 2025-02-03T02:37:34.880Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb333cb2-55bd-4be8-b483-37eb33b9452e%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,20 +125,17 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-academics-with-ease-best-multi-tasking-2-in-1-laptops-reviewed-by-zdnet/"><u>Ace Your Academics with Ease: Best Multi-Tasking 2-in-1 Laptops Reviewed by ZDNET</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-xiaomi-13t-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Xiaomi 13T Pro</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comparative-analysis-iobit-vs-movavi-top-free-screen-capture-apps/"><u>Comparative Analysis: IObit Vs. Movavi - Top Free Screen Capture Apps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-top-tier-audio-experience-with-best-buys-new-gaming-speaker-system-insider-review/"><u>Exclusive Deal Alert: Top-Tier Audio Experience with Best Buy's New Gaming Speaker System - Insider Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-xiaomi-redmi-a2-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Xiaomi Redmi A2 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-infinix-zero-5g-2023-turbo-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Infinix Zero 5G 2023 Turbo Location | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mastering-digital-screen-capture-techniques/"><u>Mastering Digital Screen Capture Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-m1-macs-potential-with-an-unmatched-tricast-display-experience-tugreen-docking-mastery/"><u>Maximize Your M1 Mac's Potential with an Unmatched Tricast Display Experience - TUGreen Docking Mastery</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/pace-upplayers-swift-sharing-of-youtube-plays/"><u>Pace Upplayers Swift Sharing of YouTube Plays</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/setting-up-personalized-dns-settings-on-your-chromebook-a-step-by-step-guide/"><u>Setting Up Personalized DNS Settings on Your Chromebook - A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-windows-notebook-beats-macbook-air-in-price-and-features-now-at-a-steal-exclusive-review-by-zdnet/"><u>Top-Pick Windows Notebook: Beats MacBook Air in Price & Features, Now at a Steal – Exclusive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-laptop-picks-for-2-the-year-2024-thoroughly-analyzed-by-tech-pros-zdnet/"><u>Top-Ranking Laptop Picks for 2 the Year 2024 - Thoroughly Analyzed by Tech Pros | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-work-setup-discover-the-best-budget-friendly-lenovo-laptops-tailored-for-hybrid-roles-on-zdnet/"><u>Transform Your Work Setup: Discover the Best Budget-Friendly Lenovo Laptops Tailored for Hybrid Roles on ZDNET</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unmatched-value-top-tier-asmr-microphones-on-a-budget/"><u>Unmatched Value Top-Tier ASMR Microphones on a Budget</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723009120190-warcraft-online-issues-resolved-reconnect-to-battle-for-azeroth-server-now/"><u>Warcraft Online Issues Resolved - Reconnect to Battle for Azeroth Server Now!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-serene-strums-and-dance-steps-tiktoks-country-playlist-for-2024/"><u>[New] Serene Strums and Dance Steps TikTok's Country Playlist for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-auditory-anchors-keeping-streamed-music-intact/"><u>[Updated] 2024 Approved Auditory Anchors Keeping Streamed Music Intact</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-choose-the-best-free-introduction-maker/"><u>[Updated] In 2024, How to Choose the Best Free Introduction Maker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/24m-texas-property-showcases-unique-infrastructure-expansive-5786-sq-ft-data-facility-with-superior-liquid-immersion-technology-bedrooms-excluded/"><u>$2.4M Texas Property Showcases Unique Infrastructure: Expansive 5,786 Sq Ft Data Facility with Superior Liquid Immersion Technology - Bedrooms Excluded</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asetek-stops-issuing-sales-forecasts-due-to-major-client-order-cancellations/"><u>Asetek Stops Issuing Sales Forecasts Due to Major Client Order Cancellations</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-14-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 14 Without Previous Owner?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-15-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 15 Plus (4 Methods) | Stellar</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prelude-to-cinematic-dialogue/"><u>In 2024, Prelude to Cinematic Dialogue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-tech-landscape-insider-tips-from-toms-comprehensive-hardware-reviews/"><u>Mastering the Tech Landscape: Insider Tips From Tom's Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimize-your-macs-battery-life-with-monetary-low-power-strategies-from-zdnet-experts/"><u>Optimize Your Mac's Battery Life with Monetary Low Power Strategies From ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-cost-effective-performance-of-upheres-c5c-and-d6sec-air-conditioners-below-20/"><u>Review: Cost-Effective Performance of UpHere's C5C and D6Sec Air Conditioners Below 20$</u></a></li>
+<li><a href="https://facebook.techidaily.com/shaking-up-tech-monopolies-why-governments-step-in/"><u>Shaking Up Tech Monopolies: Why Governments Step In</u></a></li>
 </ul></div>
 

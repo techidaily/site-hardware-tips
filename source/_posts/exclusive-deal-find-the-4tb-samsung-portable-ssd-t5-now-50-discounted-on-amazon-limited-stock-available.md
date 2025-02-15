@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal: Find the 4TB Samsung Portable SSD (T5) Now 50%% Discounted on Amazon – Limited Stock Available"
-date: 2025-01-26T19:49:44.075Z
-updated: 2025-02-01T20:07:44.892Z
+date: 2025-01-29T22:40:31.529Z
+updated: 2025-02-03T05:42:25.025Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -75,7 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -87,7 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -124,16 +124,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-easy-steps-to-record-skype-on-both-platforms/"><u>[New] Easy Steps to Record Skype on Both Platforms</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-note-30i-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Note 30i Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-pro-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 Pro iOS System Issues? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-silence-sputtering-screens/"><u>How to Silence Sputtering Screens</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-techniques-to-increase-instagram-content-playback-speed/"><u>In 2024, Techniques to Increase Instagram Content Playback Speed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-image-files-made-simple-online-desktop-and-terminal-steps/"><u>In 2024, Youtube’s Image Files Made Simple Online, Desktop & Terminal Steps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-game-changing-thunderbolt-dock-for-pcs-unveiled-with-a-remarkable-windows-friendly-power-trick-insights-from-zdnet/"><u>Introducing the Game-Changing Thunderbolt Dock for PCs: Unveiled With a Remarkable Windows-Friendly Power Trick | Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/professional-picks-the-ultimate-guide-to-choosing-a-laptop-for-graphic-designers-in-depth-analysis-zdnet/"><u>Professional Picks: The Ultimate Guide to Choosing a Laptop for Graphic Designers - In-Depth Analysis | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/still-a-steal-the-top-lenovo-notebook-ideal-for-the-modern-mix-of-remote-and-office-work-save-thousands/"><u>Still a Steal: The Top Lenovo Notebook Ideal for the Modern Mix of Remote and Office Work - Save Thousands!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-streaming-webcams-for-202n-highly-evaluated-and-critiqued-zdnet/"><u>Ultimate Selection of Streaming Webcams for 202N: Highly Evaluated and Critiqued | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-surprising-quality-and-smart-features-in-dells-most-affordable-laptop-an-expert-review-by-zdnet/"><u>Unveiling the Surprising Quality and Smart Features in Dell's Most Affordable Laptop - An Expert Review by ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-podcast-vs-youtube-determining-your-digital-destination/"><u>[New] 2024 Approved Podcast Vs. YouTube Determining Your Digital Destination</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/lternative-cinema-choices-for-every-fan/"><u>[New] Alternative Cinema Choices for Every Fan</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-key-takeaways-from-reviewing-zdsofts-vision-recorder/"><u>[Updated] Key Takeaways From Reviewing ZDSoft's Vision Recorder</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemaster-tools-for-cohesive-narrative-flow/"><u>[Updated] Kinemaster Tools for Cohesive Narrative Flow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-top-quality-3d-printer-filaments-for-enhanced-printing/"><u>Expert Picks: Top Quality 3D Printer Filaments for Enhanced Printing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exquisite-scenery-tips-for-live-shows/"><u>Exquisite Scenery Tips for Live Shows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-gt-5-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme GT 5 Pro Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-processors-and-storage-a-look-at-toms-equipment-rundown/"><u>Inside the World of Processors & Storage - A Look at Tom's Equipment Rundown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-hardware-reviews/"><u>Mastering Gadgets with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-parts-with-toms-hardware-experts/"><u>Navigating the World of PC Parts with Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-join-mov-videos-without-spending-a-dime-5-options/"><u>New In 2024, Join MOV Videos Without Spending a Dime 5 Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/offline-adventures-top-10-android-journeys-without-connectivity/"><u>Offline Adventures Top 10 Android Journeys Without Connectivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-colored-thermal-compound-with-nano-diamonds-meet-cooler-masters-latest-ai-thermal-paste-in-cryofuze-5/"><u>Revolutionary Colored Thermal Compound with Nano-Diamonds: Meet Cooler Master’s Latest ‘AI Thermal Paste’ in CryoFuze 5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-process-of-fabricating-authentic-looking-wood-products-from-sawdust-with-3d-technology/"><u>Revolutionary Process of Fabricating Authentic-Looking Wood Products From Sawdust with 3D Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-advanced-gadget-guidance/"><u>Tom's Tech Insights: Advanced Gadget Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guide-on-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Guide on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-gadgets-secrets-with-tom-a-deep-dive-into-technology/"><u>Unlocking Gadgets Secrets with Tom: A Deep Dive Into Technology</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-lower-volume-of-the-media-files/"><u>Updated How to Lower Volume of the Media Files</u></a></li>
 </ul></div>
 

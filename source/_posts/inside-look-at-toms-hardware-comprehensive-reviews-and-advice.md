@@ -1,7 +1,7 @@
 ---
 title: "Inside Look at Tom's Hardware: Comprehensive Reviews & Advice"
-date: 2024-08-19T02:41:01.792Z
-updated: 2024-08-20T02:41:01.792Z
+date: 2025-01-27T21:38:00.351Z
+updated: 2025-02-03T00:26:31.181Z
 tags:
   - monitor
 categories:
@@ -70,8 +70,9 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
  You might need a store employee to help you locate the G34WQi in a pile of monitor boxes because its carton has little printed on it to identify the contents. The three main parts are packed in crumbly foam and will require the services of a Philips-head screwdriver. A tiny one is included. The base is a simple metal plate with holes drilled in it. Find the two bolts in a small ziplock bag and attach it to the upright. Then, the panel snaps on. There is a 75mm VESA mount for aftermarket arms, but you’ll need to source your own fasteners. The power supply is external, but it’s a large wall wart rather than the usual brick. The lone bundled cable is DisplayPort.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Product 360
 
  Image 1 of 4
@@ -83,15 +84,17 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Xiaomi)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Xiaomi)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -116,20 +119,6 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
-
-![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
-![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -143,9 +132,21 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The OSD has game-focused styling with a control guide at the bottom and signal info at the top. You can always see the input refresh rate, overdrive setting, and HDR and Adaptive-Sync status. In the Picture Mode sub-menu, there are four presets. Standard is the default and best choice for all content and usage. There are three fixed color temps to adjust the image and a custom mode with RGB sliders. Five gamma presets adjust tonal range, and you can specify the color gamut, Native, DCI-P3, or sRGB.
@@ -155,6 +156,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The Game Mode menu is redundant because if you turn it on, it enables three more picture modes and duplicates the image options found in the Picture Mode menu. There is no effect on video processing, so I recommend leaving it off.
 
  The G34WQi includes a nice graphical menu for PIP and PBP options. You can view two video sources at once in split screen or window layouts. In the System menu are the LED lighting options, called Backstrip lighting. You can change the color, choose from breathing, static or rainbow effects, and match the color to onscreen content. Also here is the refresh rate indicator. There are no aiming points or sniper modes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Xiaomi G34WQi Calibration Settings
 
@@ -173,9 +178,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 | Gamma               | 2.2                       |
 | Color Temp Custom   | Red 48, Green 49, Blue 50 |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Gaming and Hands-on
 
  Gaming on the G34WQi was a generally satisfying experience, but there were a few things that I wished were better. On the upside, the control response is quick with no perceptible input lag. I could aim and move precisely and dispatching enemies in_Doom Eternal_ was no problem. The HDR and SDR pictures were colorful and bright. The G34WQi has excellent contrast thanks to its VA panel, and the color is vivid with a natural and saturated look.
@@ -204,8 +206,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +213,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-best-fbx-game-recorder-alternatives/"><u>[New] Best FBX Game Recorder Alternatives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smart-picklist-top-value-free-livestream-software-and-apps-reviewed-this-year/"><u>2024 Approved Smart Picklist Top Value Free Livestream Software & Apps Reviewed This Year</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-magic-vs-2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor Magic Vs 2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-interactive-interface-for-podcasters-for-2024/"><u>Ideal Interactive Interface for Podcasters for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/premium-hd-backgrounds-featuring-cristiano-ronaldo-curated-collection-by-yl-software/"><u>Premium HD Backgrounds Featuring Cristiano Ronaldo - Curated Collection by YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-gadget-reviews/"><u>Tom's Tech Insights - Comprehensive Gadget Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-hardware-analysis/"><u>Tom's Tech Review - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-hardware-insights/"><u>Tom's Tech Review - In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-gadget-insights/"><u>Tom's Tech Reviews - Comprehensive Gadget Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-nonfunctional-mic-on-your-arctis-headset-arctis-99x/"><u>Troubleshooting Guide for Nonfunctional Mic on Your Arctis Headset (Arctis 9/9X)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-movie-magic-with-cg-centrals-look-up-tables-luts-for-2024/"><u>Unlock Movie Magic with CG Central's Look-Up Tables (Luts) for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-composite-device-an-overview-of-older-technology-fixes-solved/"><u>USB Composite Device - An Overview of Older Technology Fixes [SOLVED]</u></a></li>
+</ul></div>
 

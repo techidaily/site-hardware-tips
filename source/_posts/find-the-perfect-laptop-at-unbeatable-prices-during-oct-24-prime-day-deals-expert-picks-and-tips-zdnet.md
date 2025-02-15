@@ -1,7 +1,7 @@
 ---
 title: Find the Perfect Laptop at Unbeatable Prices During Oct '24 Prime Day Deals | Expert Picks and Tips | ZDNET
-date: 2025-01-29T19:37:11.072Z
-updated: 2025-02-01T20:47:56.375Z
+date: 2025-02-02T00:54:03.205Z
+updated: 2025-02-02T19:34:06.362Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-orchestrate-an-engaging-statement-with-tunes/"><u>[New] Orchestrate an Engaging Statement with Tunes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-top-ten-webcam-enhancers-master-stream-quality-for-2024/"><u>[New] The Top-Ten Webcam Enhancers Master Stream Quality for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-your-essential-gift-a-compact-bundle-of-50-banners/"><u>[Updated] Your Essential Gift A Compact Bundle of 50 Banners</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-shift-from-rgb-to-srgb-in-digital-imaging/"><u>2024 Approved The Shift From Rgb to Srgb in Digital Imaging</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/augmented-reality-computing-just-got-bigger-purchase-the-newest-100-inch-ar-laptop-display-sans-separate-monitor/"><u>Augmented Reality Computing Just Got Bigger: Purchase the Newest 100-Inch AR Laptop Display , Sans Separate Monitor!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-analysis-iphone-15-a-pro-users-must-have-device-according-to-zdnet/"><u>Expert Analysis: IPhone 15 - A Pro User's Must-Have Device According to ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-strength-of-a-minuscule-beast-the-comprehensive-review-of-the-ipad-mini-5/"><u>Exploring the Strength of a Minuscule Beast: The Comprehensive Review of the iPad Mini 5</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-email-composition-in-google-docs-a-comprehensive-guide-by-zdnet-experts/"><u>Mastering Email Composition in Google Docs: A Comprehensive Guide by ZDNet Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximizing-productivity-and-savings-a-windows-gurus-guide-to-owning-an-economy-surface-pro-11-model-zdnet/"><u>Maximizing Productivity and Savings: A Windows Guru's Guide to Owning an Economy Surface Pro ˈ11 Model | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-steal-before-prime-day-lenovo-business-laptop-slashed-by-almost-half-now-under-1k-on-amazon/"><u>Score a Steal Before Prime Day: Lenovo Business Laptop Slashed by Almost Half, Now Under $1K on Amazon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-apples-m2-macbook-air-for-an-unbelievable-price-of-749-on-amazons-prime-day-in-october-according-to-zdnet-reviews/"><u>Snag the Apple's M2 MacBook Air for an Unbelievable Price of $749 on Amazon’s Prime Day in October, According to ZDNET Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-revolutionary-technology-breakthroughs-in-2e23-the-definitive-game-changers-unveiled-by-zdnet/"><u>Top 5 Revolutionary Technology Breakthroughs in 2E23: The Definitive Game Changers Unveiled by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-tested-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Tested & Reviews by Tech Gurus - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-explores-the-advanced-more-affordable-screen-less-ar-laptop-is-it-worth-remembering/"><u>ZDNet Explores the Advanced, More Affordable Screen-Less AR Laptop: Is It Worth Remembering?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-transform-your-instagram-strategy-with-precision-metrics-monitoring-tools/"><u>[Updated] 2024 Approved Transform Your Instagram Strategy with Precision Metrics Monitoring Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-gaming-content-on-youtube/"><u>[Updated] Mastering Gaming Content on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-budget-pcie-40-motherboards-for-amd-users-the-comprehensive-review-of-b550-chipset-candidates/"><u>Best Budget PCIe 4.0 Motherboards for AMD Users: The Comprehensive Review of B550 Chipset Candidates</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-nokia-130-music-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Nokia 130 Music</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-with-tom-the-ultimate-guide-to-hardware-innovations/"><u>Exploring Advanced Gadgets with Tom - The Ultimate Guide to Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/highest-ranking-wireless-pointing-devices-in-202/"><u>Highest-Ranking Wireless Pointing Devices in 202</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-launch-errors-for-the-star-wars-jedi-fallen-order-video-game/"><u>How to Fix Launch Errors for the Star Wars Jedi: Fallen Order Video Game</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-free-youtube-end-screen-resources-enhance-video-impact/"><u>In 2024, Free YouTube End Screen Resources - Enhance Video Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nighttime-narratives-in-pixels/"><u>In 2024, Nighttime Narratives in Pixels</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-tech-with-tom-a-deep-dive-into-advanced-gear/"><u>Navigate the World of Tech with Tom: A Deep Dive Into Advanced Gear</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-techniques-for-altering-decibel-settings-on-media-playback/"><u>New In 2024, Techniques for Altering Decibel Settings on Media Playback</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-rainbow-six-siege-game-crashes-and-freezes-on-windows-step-by-step-guide/"><u>Resolving 'Rainbow Six Siege' Game Crashes & Freezes on Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-gaming-cpu-cooler-analysis-the-id-cooling-frozn-a620-se-delivers-exceptional-quality/"><u>Top Gaming CPU Cooler Analysis: The Id-Cooling Frozn A620 SE Delivers Exceptional Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-the-ultimate-resource-for-hardware-enthusiasts-at-toms-review/"><u>Unlocking Tech Secrets: The Ultimate Resource for Hardware Enthusiasts at Tom's Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-electronics-with-toms-computer-guides/"><u>Unveiling New Electronics with Tom's Computer Guides</u></a></li>
 </ul></div>
 

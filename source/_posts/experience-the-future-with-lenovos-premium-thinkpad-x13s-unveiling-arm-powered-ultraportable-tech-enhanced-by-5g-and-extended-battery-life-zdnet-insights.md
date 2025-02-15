@@ -1,7 +1,7 @@
 ---
 title: Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life | ZDNet Insights
-date: 2025-01-26T18:47:05.105Z
-updated: 2025-02-01T20:01:28.327Z
+date: 2025-02-01T20:23:54.521Z
+updated: 2025-02-03T06:35:35.607Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,21 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-how-to-upgrade-or-install-the-macos-sierra-for-2024/"><u>[New] How to Upgrade or Install the macOs Sierra for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-webcam-wizardry-on-macbook-pro/"><u>[New] In 2024, Webcam Wizardry on MacBook Pro</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-essential-tips-for-youtube-audio-optimization-for-2024/"><u>[Updated] Essential Tips for YouTube Audio Optimization for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-mini-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 mini to Android? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hps-ultimate-tech-deals-save-up-to-71-on-monitors-and-laptops-during-cyber-week-zdnet/"><u>HP's Ultimate Tech Deals: Save Up To 71% On Monitors & Laptops During Cyber Week | ZDNet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-mastery-for-phones-choose-from-the-top-8-timers/"><u>In 2024, Instagram Mastery for Phones - Choose From The Top 8 Timers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-showdown-deciding-on-the-perfect-model-for-you-pro-vs-air-edition-techradar-insights/"><u>MacBook Showdown: Deciding on the Perfect Model for You - Pro Vs. Air Edition | TechRadar Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/most-innovative-laptop-2023-the-apple-m2-macbook-air-crowned-by-zdnets-product-of-the-year-zdnet/"><u>Most Innovative Laptop 2023 - The Apple M2 MacBook Air Crowned by ZDNet's Product of the Year | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-prime-deals-alert-apples-latest-m3-macbook-air-now-available-for-250-less-on-amazon-insights-by-zdnet/"><u>October Prime Deals Alert: Apple’s Latest M3 MacBook Air Now Available for $250 Less on Amazon - Insights by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/power-your-gadgets-on-the-go-in-depth-look-at-baseus-blade-100w-versatile-power-bank-for-all-your-devices-zdnet-review/"><u>Power Your Gadgets on the Go: In-Depth Look at Baseus Blade 100W Versatile Power Bank for All Your Devices | ZDNET Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rediscovering-discarded-chatgpt-talks/"><u>Rediscovering Discarded ChatGPT Talks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-the-ultimate-gaming-ride-hp-victus-grope-up-for-under-500-on-samsungs-galaxy-unpacked-event-full-breakdown/"><u>Score the Ultimate Gaming Ride: HP Victus Grope up for Under $500 on Samsung's Galaxy Unpacked Event - Full Breakdown</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/scripting-sci-fi-elements-time-and-space-in-action/"><u>Scripting Sci-Fi Elements Time & Space in Action</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-upgraded-features-of-the-apple-watch-series-4/"><u>The Ultimate Guide to the Upgraded Features of the Apple Watch Series 4</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-70-unbeatable-christmas-gaming-pc-bargains-dive-into-the-festivities/"><u>Top 70 Unbeatable Christmas Gaming PC Bargains - Dive Into the Festivities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-vetted-by-tech-gurus-techradar/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Vetted by Tech Gurus | TechRadar</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/virtual-sphere-access-the-leading-10-pc-vr-playback-titles/"><u>Virtual Sphere Access The Leading 10 PC VR Playback Titles</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-the-ultimate-guide-to-lenovos-groundbreaking-fun-filled-and-premium-thinkpad-x1-fold-experience/"><u>ZDNet Exclusive: The Ultimate Guide to Lenovo's Groundbreaking, Fun-Filled, and Premium ThinkPad X1 Fold Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-professional-tips-to-perfect-igtv-thumbnails/"><u>[New] 2024 Approved Professional Tips to Perfect IGTV Thumbnails</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beginners-top-8-camera-options-35mm-to-pands/"><u>[New] Beginner’s Top 8 Camera Options (35Mm to P&S)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-quick-subtitleclosed-caption-integration-on-youtube/"><u>[New] Mastering Quick Subtitle/Closed Caption Integration on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-precision-techniques-to-record-your-facetime-chats/"><u>[New] Precision Techniques to Record Your FaceTime Chats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-simplified-guide-to-incorporating-ken-burns-effect-in-camtasa/"><u>[New] Simplified Guide to Incorporating Ken Burns Effect in Camtasa</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-novice-to-expert-advanced-screencasting-steps/"><u>[Updated] From Novice to Expert Advanced Screencasting Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/changing-landscapes-in-academia-is-technology-replacing-student-essays/"><u>Changing Landscapes in Academia: Is Technology Replacing Student Essays?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-thermal-solutions-surpass-300w-efficaciously-with-cooler-masters-newest-aio-and-air-cooling-tech/"><u>Cutting-Edge Thermal Solutions: Surpass 300[W Efficaciously With Cooler Master's Newest AIO and Air Cooling Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensuring-solidity-in-3d-printing-stop-layers-from-peeling-apart/"><u>Ensuring Solidity in 3D Printing: Stop Layers From Peeling Apart</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-hardware-with-tom-in-depth-guides-and-reviews/"><u>Exploring Computer Hardware with Tom - In-Depth Guides & Reviews</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-oneplus-12-by-drfone-android/"><u>Full Guide to Unlock Your OnePlus 12</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-informed-perspectives-from-toms-hardware-journey/"><u>Navigating the World of Gadgets: Informed Perspectives From Tom's Hardware Journey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175642094-revolutionize-your-pc-cooling-foolproof-thermal-interface-material-tim-applier-by-x-apply-coming-shortly/"><u>Revolutionize Your PC Cooling: 'Foolproof' Thermal Interface Material (TIM) Applier by X-Apply - Coming Shortly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-comprehensive-tech-reviews-and-guides-unveiling-cutting-edge-gadgets/"><u>Tom's Hardware - Comprehensive Tech Reviews & Guides | Unveiling Cutting Edge Gadgets!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-id-cooling-fx360-pro-is-your-best-bet-for-adequate-cooling-under-60/"><u>Why the ID-Cooling FX360 Pro Is Your Best Bet for Adequate Cooling Under $60</u></a></li>
 </ul></div>
 

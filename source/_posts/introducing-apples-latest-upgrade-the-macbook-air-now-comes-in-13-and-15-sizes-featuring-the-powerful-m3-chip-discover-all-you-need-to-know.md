@@ -1,7 +1,7 @@
 ---
 title: "Introducing Apple's Latest Upgrade: The MacBook Air Now Comes in 13 & 15 Sizes Featuring the Powerful M3 Chip - Discover All You Need to Know"
-date: 2025-01-30T17:24:54.810Z
-updated: 2025-02-01T19:51:17.988Z
+date: 2025-01-26T23:03:06.613Z
+updated: 2025-02-02T23:16:07.036Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,17 +118,14 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-premier-webcam-selections-for-dynamic-twitch-sessions/"><u>[New] Premier Webcam Selections for Dynamic Twitch Sessions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-6-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 6 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chromebooks-take-center-stage-key-reasons-unveiled/"><u>Chromebooks Take Center Stage : Key Reasons Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/early-access-to-amazons-prime-day-savings-for-october-2023-dont-miss-these-unbeatable-offers-techradar/"><u>Early Access to Amazon's Prime Day Savings for October 2023: Don’t Miss These Unbeatable Offers | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-dual-purpose-lenovo-device-with-windows-and-android-capabilities-a-comprehensive-review/"><u>Exploring the Dual-Purpose Lenovo Device with Windows & Android Capabilities - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-the-best-last-chance-deals-under-1000-laptops-at-costco-amazon-and-dell-this-holiday-season-zdnet/"><u>Find the Best Last Chance Deals: Under $1000 Laptops at Costco, Amazon, and Dell This Holiday Season | ZDNET</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-ready-for-a-galactic-celebration-on-may-warty-acemagic-introduces-the-x-wing-shaped-mini-gaming-pc/"><u>Get Ready for a Galactic Celebration on May Warty – AceMagic Introduces the X-Wing Shaped Mini Gaming PC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/immersive-tech-triumphs-upcoming-top-5-playstation-vr-games/"><u>Immersive Tech Triumphs Upcoming Top 5 PlayStation VR Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rhenus-und-die-verbesserte-systemgestaltung-der-dokumentenaufnahme-erfolg-durch-seo/"><u>Rhenus Und Die Verbesserte Systemgestaltung Der Dokumentenaufnahme – Erfolg Durch SEO?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/skipping-queues-a-guide-to-purchasing-apples-latest-macbook-pro-and-mac-mini/"><u>Skipping Queues: A Guide to Purchasing Apple's Latest MacBook Pro & Mac Mini</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-picks-youtube-to-hd-mastering-quality-conversions/"><u>Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-display-meets-wallet-friendly-price-a-detailed-review-of-an-exceptional-budget-laptop-insights/"><u>Unbeatable Display Meets Wallet-Friendly Price: A Detailed Review of an Exceptional Budget Laptop - Insights !</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-crown-jewels-the-most-liked-and-binge-watched-content/"><u>2024 Approved Twitter's Crown Jewels The Most Liked & Binge-Watched Content</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/information-wie-man-iphone-kontakte-bei-google-syncing-deaktiviert/"><u>Information: Wie Man iPhone-Kontakte Bei Google-Syncing Deaktiviert</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-world-of-srt-alteration-in-macos-systems/"><u>Navigating the World of SRT Alteration in macOS Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guides-and-reviews/"><u>Tom's Tech Hub: Comprehensive Guides & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-top-source-for-gadgets/"><u>Tom's Tech Insights: Your Top Source for Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-hats-of-2024-the-ultimate-guide-to-project-expansion-boards/"><u>Top Raspberry Pi HATs of 2024 - The Ultimate Guide to Project Expansion Boards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-headsets-for-gamers-find-the-perfect-mic/"><u>Top-Rated Headsets for Gamers: Find the Perfect Mic</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-at-the-let-loose-event-the-new-m4-ipad-pro-and-13-inch-ipad-air-revealed-with-upgraded-apple-pencil-full-recap/"><u>Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap</u></a></li>
 </ul></div>
 

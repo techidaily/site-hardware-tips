@@ -1,7 +1,7 @@
 ---
 title: "The Latest Innovation From Gigabyte: Discovering the Xtreme and Xtreme Ice Motherboards, Showcased with GPUs at Computex"
-date: 2024-08-19T02:39:10.761Z
-updated: 2024-08-20T02:39:10.761Z
+date: 2025-01-28T04:43:09.080Z
+updated: 2025-02-02T22:18:07.073Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,18 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-unlocking-screen-recording-potential-on-your-hp-notebook/"><u>[New] 2024 Approved Unlocking Screen Recording Potential on Your HP Notebook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-mastering-video-rotation-tips-and-techniques-for-adjusting-footage-orientation-in-premiere-pro/"><u>1. Mastering Video Rotation: Tips and Techniques for Adjusting Footage Orientation in Premiere Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5windows/"><u>5人気の無料ビデオ編集ツールでWindowsムービーメーカーの代わりに挑む</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-a78-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo A78 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-guide-to-selecting-a-premier-fb-cover-photo-designer/"><u>In 2024, The Ultimate Guide to Selecting a Premier FB Cover Photo Designer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722576342449-iphone-vs-samsung-the-ultimate-consumers-dilemma-top-picks-for-your-next-phone/"><u>IPhone vs Samsung: The Ultimate Consumer's Dilemma – Top Picks for Your Next Phone!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphones-qr-code-scanner-woes-with-these-essential-troubleshooting-steps/"><u>Resolving iPhone's QR Code Scanner Woes with These Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scan-and-savor-innovative-edible-qr-codes-made-with-3d-printing/"><u>Scan & Savor: Innovative Edible QR Codes Made with 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-cutting-edge-computing-tools-by-tom/"><u>The Ultimate Guide to Cutting-Edge Computing Tools by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-your-next-computer-tips-from-toms-hardware/"><u>The Ultimate Guide to Selecting Your Next Computer: Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-verdict-on-levelplays-combat-air-ca4-cpu-cooler-efficient-heat-dissipation-and-whisper-quiet-functionality/"><u>The Ultimate Verdict on Levelplay's Combat Air CA4 CPU Cooler - Efficient Heat Dissipation and Whisper-Quiet Functionality</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->

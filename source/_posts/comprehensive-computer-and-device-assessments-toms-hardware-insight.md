@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Computer and Device Assessments - Tom's Hardware Insight
-date: 2024-08-19T02:39:54.771Z
-updated: 2024-08-20T02:39:54.771Z
+date: 2025-02-02T02:07:01.813Z
+updated: 2025-02-02T21:27:49.630Z
 tags:
   - monitor
 categories:
@@ -69,6 +69,14 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 
 ![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  (Image credit: Tom's Hardware)
 
 ![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -77,9 +85,9 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 
 ![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
- (Image credit: Tom's Hardware)
-
-![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -100,25 +108,23 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
  WIthout its stand, the EM105 measures 9.17 x 6.5 x 0.31 inches and weighs 0.8 pounds. For comparison, the 15.6-inch InnoCN 151AF, which is one of the[best portable monitors](https://tools.techidaily.com) , measures 14.1 x 9.0 x 0.3 inches and weighs 1.6 pounds.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## On-Screen Display on the Eyoyo EM105 Portable Monitor
 
  You invoke the OSD on the EM105 by pressing in on the three-way rocker switch on the left side of the chassis. Up pops a basic user interface (shared with many budget-oriented portable monitors), where flicking the rocker switch upward navigates up through the OSD and vice versa. You select a menu item by pushing in on the rocker, and then up/down to adjust settings (like brightness and contrast). There’s a dedicated back button to return to the previous menu screen.
 
 ![Eyoyo EM105 10.5-inch](https://cdn.mos.cms.futurecdn.net/gFShqYRhMy9wRrGY5SrCV-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  This no-frills OSD has the usual controls for color temperature, enabling the low blue light mode and adjusting the position of the OSD. I also discovered that the monitor supports AMD FreeSync (which was not documented by the Eyoyo), and that support was confirmed via AMD’s Adrenalin driver software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Image Quality and Sound on the Eyoyo EM105 Portable Monitor
 
  The EM105 measures 10.5 inches across and has a 3:2 aspect ratio. That results in an[IPS panel](https://tools.techidaily.com) with a resolution of 1920 x 1280, versus the more typical 1920 x 1080 in this segment. However, some people will likely appreciate the extra vertical real estate. It also bucks the trend with a glossy screen coating, which we usually see covering OLED panels.
@@ -127,9 +133,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Eyoyo EM105 10.5-inch](https://cdn.mos.cms.futurecdn.net/TH3t3aoSdwsLALA4LxfZdn-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In everyday tasks, the EM105 was perfectly usable as a secondary monitor. Its size means you’ll need to tinker in Windows to make text easier to read. My “old” eyes needed assistance working with[Microsoft](https://tools.techidaily.com) Word and Excel on the small monitor.
@@ -139,17 +142,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  I was shocked to find that the EM105 includes a set of stereo speakers, and even more surprised that they sounded pretty good. Of course, they aren’t powerhouses regarding output, but music and speech sounded good through the speakers, even with the volume cranked to about 75 percent. The speakers are lacking in bass, but at this price point, the speakers are a welcome addition to the EM105.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bottom Line
 
  The Eyoyo EM105 portable monitor offers a convincing combination of small size and light weight in a relatively-robust aluminum chassis. It has both USB-C and HDMI connectivity, allowing it to connect with various types of electronics, from PCs to Macs to smartphones to game consoles to Raspberry Pi boards. The EM105 even includes a set of speakers that sounds pretty good, which we can’t often say about portable monitors.
@@ -170,8 +165,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +172,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-quick-guide-to-infusing-new-flair-in-old-content-using-instagram-features/"><u>[Updated] 2024 Approved Quick Guide to Infusing New Flair in Old Content Using Instagram Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-fresh-perspectives-picture-perfect-collages-for-lifes-highlights/"><u>[Updated] Fresh Perspectives Picture-Perfect Collages for Life's Highlights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-guide-intel-wi-fi-ax200-ac-9560-network-adapter-drivers/"><u>Download and Update Guide: Intel Wi-Fi AX200 (AC 9560) Network Adapter Drivers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/microsoft-wireless-display-adapter-wont-connect-on-windows-11-solved/"><u>Microsoft Wireless Display Adapter Won't Connect on Windows 11 [Solved]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-components-with-toms-gear-analysis/"><u>Navigating the World of Components with Tom's Gear Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimized-ram-and-vrm-heat-management-with-noctuas-latest-addition-the-sff-compatible-nh-l12sx77-low-profile-cpu-cooler/"><u>Optimized RAM and VRM Heat Management with Noctua's Latest Addition: The SFF-Compatible NH-L12Sx77 Low-Profile CPU Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-discoveries-in-pc-components-by-toms-hardware-experts/"><u>Pioneering Discoveries in PC Components by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/preventing-the-common-problem-of-layer-shifting-in-3d-printing/"><u>Preventing the Common Problem of Layer Shifting in 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quality-scandal-rocks-aio-radiator-industry-as-caseking-pulls-barrow-dabel-products-off-the-market-after-unsettling-test-results-revealed-presence-of-harmfu6/"><u>Quality Scandal Rocks AIO Radiator Industry as CaseKing Pulls Barrow Dabel Products Off the Market After Unsettling Test Results Revealed Presence of Harmful Materials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refining-the-look-of-windows-11s-basic-writing-tool/"><u>Refining the Look of Windows 11'S Basic Writing Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamped-noctua-nh-d1-g2-subdued-fan-operation-boosted-thermal-conductivity-via-new-heatpipe-array-and-innovative-design/"><u>Revamped Noctua NH-D1# G2: Subdued Fan Operation, Boosted Thermal Conductivity via New Heatpipe Array and Innovative Design</u></a></li>
+<li><a href="https://win-dash.techidaily.com/samsung-960-evo-driver-download-and-update-in-windows/"><u>Samsung 960 EVO Driver Download and Update in Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-screenshot-synergy-for-pc-users-for-2024/"><u>Seamless Screenshot Synergy for PC Users for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/taming-the-beast-an-engineers-journey-to-silence-with-a-python-powered-nzxt-kraken-aio-control-system/"><u>Taming the Beast: An Engineer's Journey to Silence with a Python-Powered NZXT Kraken AIO Control System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/test-drive-the-lian-li-galahad-ii-ultimate-guide-to-an-advanced-aio-cpu-cooler-for-gamers-and-streamers/"><u>Test Drive the Lian Li Galahad II - Ultimate Guide to an Advanced AIO CPU Cooler for Gamers and Streamers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/walking-deadlines-the-ultimate-selection-of-excellent-zombie-games-for-2024/"><u>Walking Deadlines The Ultimate Selection of Excellent Zombie Games for 2024</u></a></li>
+</ul></div>
 

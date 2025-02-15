@@ -1,7 +1,7 @@
 ---
 title: "Unleash Productivity: A Comprehensive Review of the Innovative 12-in-1 Docking Station Tailored for Windows - Plus a Battery Charging Twist! | CNET"
-date: 2025-01-31T20:35:21.415Z
-updated: 2025-02-01T20:05:30.322Z
+date: 2025-01-27T04:26:00.971Z
+updated: 2025-02-03T02:54:28.256Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72eddc09-80c8-4720-a635-4117a708ed92%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,21 +149,21 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-commonplace-phones-to-cutting-edge-vr-headsets/"><u>[New] From Commonplace Phones to Cutting-Edge VR Headsets</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-quick-and-easy-snapchat-image-manipulation-techniques/"><u>[New] In 2024, Quick and Easy Snapchat Image Manipulation Techniques</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-create-unique-instagram-ringtone-at-home-for-2024/"><u>[Updated] Create Unique Instagram Ringtone at Home for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-talent-release-form-for-filming-and-video-to-free-download/"><u>[Updated] Talent Release Form for Filming and Video to Free Download</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazons-epic-offer-dive-into-high-definition-game-sounds-for-just-150-less-discover-the-ultimate-speaker-system-honored-gaming-reviewers/"><u>Amazon's Epic Offer: Dive Into High-Definition Game Sounds for Just $150 Less! Discover the Ultimate Speaker System, Honored Gaming Reviewers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-elite-collection-of-oled-laptops-in-202email-protected-in-depth-analysis-and-ratings-zdnet/"><u>Discover the Elite Collection of OLED Laptops in 202([Email Protected]) - In-Depth Analysis and Ratings | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultra-portable-lg-gram-pro-17-exceptional-experience-and-sales-alert-during-amazon-prime-day-exclusive-insights/"><u>Discover the Ultra-Portable LG Gram Pro 17: Exceptional Experience & Sales Alert During Amazon Prime Day - Exclusive Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-limited-stock-on-the-massive-8tb-samsung-t5-ssd-deeply-discounted-to-36-after-amazons-october-prime-day-flurry-insights/"><u>Don't Miss Out! Limited Stock on the Massive 8TB Samsung T5 SSD – Deeply Discounted to 36% After Amazon's October Prime Day Flurry | Insights .</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/get-ready-to-ride-mastering-the-convenient-features-of-mods-latest-e-bike-sidecar/"><u>Get Ready To Ride: Mastering The Convenient Features Of Mod's Latest E-Bike Sidecar</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-stylus-5g-2023-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Motorola Moto G Stylus 5G (2023) Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-minute-details-on-screen-through-zooming-techniques/"><u>In 2024, Mastering Minute Details On-Screen Through Zooming Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-zooid-template-design/"><u>In 2024, Ultimate Guide to Zooid Template Design</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-repairability-in-new-microsoft-laptops-surprises-ifixit-challenges-rivals-to-step-up-apple-under-scrutiny-zdnet/"><u>Revolutionary Repairability in New Microsoft Laptops Surprises iFixit - Challenges Rivals to Step Up (Apple Under Scrutiny) | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-premium-storage-drives-for-enhanced-gaming-performance-on-pc-and-consoles/"><u>Top 6 Premium Storage Drives for Enhanced Gaming Performance on PC & Consoles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-expertly-tested-and-reviewed-linux-distros-perfect-for-newbies-get-started-with-confidence/"><u>Top Picks: Expertly Tested & Reviewed Linux Distros Perfect for Newbies - Get Started with Confidence!</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/vobmp4dvd/"><u>VOBファイルからMP4へのDVD変換手順</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-extend-your-snapstreak-success-with-these-ideas/"><u>[New] 2024 Approved Extend Your Snapstreak Success with These Ideas</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-securing-successful-video-ventures-through-team-choices/"><u>[New] Securing Successful Video Ventures Through Team Choices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-essence-of-ffmpeg-original-audio-capture/"><u>[New] The Essence of FFmpeg Original Audio Capture</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-essential-aspect-ratio-tips-for-social-media-videos/"><u>[Updated] 2024 Approved Essential Aspect Ratio Tips for Social Media Videos</u></a></li>
+<li><a href="https://win-great.techidaily.com/correcting-file-corruption-on-your-windows-10-pc-detection-and-repair-tactics/"><u>Correcting File Corruption on Your Windows 10 PC: Detection and Repair Tactics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-gadgets-with-toms-hardware-insights/"><u>Discover Top-Notch Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dominating-performance-cooling-with-the-thermalright-phantom-spirit-120-evo-an-expert-analysis/"><u>Dominating Performance Cooling with the Thermalright Phantom Spirit 120 EVO - An Expert Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-outcomes-with-chatgpt-a-guide-to-crafting-effective-user-personas/"><u>Enhancing Outcomes with ChatGPT: A Guide to Crafting Effective User Personas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-cost-effective-ultra-hd-monitors-of-2n4/"><u>Most Cost-Effective Ultra HD Monitors of 2N4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-analysis-of-electronics-toms-hardware-experts/"><u>Precision Analysis of Electronics - Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/recall-alert-bambu-labs-a1-series-promises-refunds-and-new-parts-to-continue-functioning-safely/"><u>Recall Alert: Bambu Lab's A1 Series Promises Refunds & New Parts to Continue Functioning Safely</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-science-behind-reading-emotions-through-ai-technology/"><u>The Science Behind Reading Emotions Through AI Technology</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/transferez-avec-succes-votre-windows-10-oem-sur-un-ssd-une-methode-etape-par-etape-pour-les-nuls/"><u>Transférez Avec Succès Votre Windows 10 OEM Sur Un SSD - Une Méthode Étape Par Étape Pour Les Nuls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-get-black-tpu-filament-at-a-record-low-of-16kg-perfect-for-your-3d-printer/"><u>Unbeatable Deal: Get Black TPU Filament at a Record Low of $16/Kg – Perfect for Your 3D Printer</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-11-pro-max-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 11 Pro Max using find my iphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-computer-secrets-at-toms-innovative-hardware-blog/"><u>Unlock Computer Secrets at Tom's Innovative Hardware Blog</u></a></li>
 </ul></div>
 

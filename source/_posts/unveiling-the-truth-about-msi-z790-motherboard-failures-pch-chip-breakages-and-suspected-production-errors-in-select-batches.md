@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Truth About MSI Z790 Motherboard Failures – PCH Chip Breakages & Suspected Production Errors in Select Batches
-date: 2024-08-19T02:39:16.839Z
-updated: 2024-08-20T02:39:16.839Z
+date: 2025-01-30T19:33:28.837Z
+updated: 2025-02-03T01:03:07.291Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,24 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-screen-recorder-showdown-experts-take-on-popular-tools/"><u>[Updated] The Screen Recorder Showdown Experts' Take on Popular Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-entrepreneurs-guide-free-business-template-plugins/"><u>2024 Approved Entrepreneur's Guide Free Business Template Plugins</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-leveraging-slack-and-filmora-a-path-to-scheduling-excellence/"><u>2024 Approved Leveraging Slack and Filmora A Path to Scheduling Excellence</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fragrant-heavenly-scented-new-thermal-compound/"><u>Fragrant Heavenly Scented New Thermal Compound</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-green-backdrops-available-at-zero-cost/"><u>In 2024, Green Backdrops Available at Zero Cost</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-the-valkyrie-syn-2nf-240-aio-cooling-system-great-efficacy-subpar-software-tools/"><u>In-Depth Look at the Valkyrie Syn 2Nf 240 AIO Cooling System: Great Efficacy, Subpar Software Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovation-unleashed-in-chip-technology-as-intel-and-exxonmobil-develop-advanced-liquid-cooling-techniques-for-high-end-2cu-watts-tdp-xeon-processors/"><u>Innovation Unleashed in Chip Technology as Intel & ExxonMobil Develop Advanced Liquid Cooling Techniques for High-End 2Cu Watts TDP Xeon Processors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-knowledge-on-electronics-features-by-toms-experts/"><u>Inside Knowledge on Electronics - Features by Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-next-gen-computer-cooler-tryxs-one-of-a-kind-curved-amoled-screen-by-chinas-leading-manufacturer/"><u>Introducing the Next-Gen Computer Cooler: Tryx's One-of-a-Kind Curved AMOLED Screen by China's Leading Manufacturer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/make-the-most-of-black-friday-here-are-5-reasons-why-you-need-a-3d-printer-now/"><u>Make the Most of Black Friday - Here Are 5 Reasons Why You Need a 3D Printer Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-flawless-3d-printing-no-more-blisters-or-pimples/"><u>Master the Art of Flawless 3D Printing: No More Blisters or Pimples</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-inside-perspective-by-toms-hardware/"><u>Mastering Gadgets and Systems - Inside Perspective by Tom's Hardware</u></a></li>
+<li><a href="https://discover-data.techidaily.com/secure-windows-10-usage-comprehensive-guide-on-addressing-privacy-risks-using-malwarefox-tools/"><u>Secure Windows 10 Usage: Comprehensive Guide on Addressing Privacy Risks Using MalwareFox Tools</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Workers, Get Ready to Upgrade! Exclusive Deal Alert: Prime Day's $1K Off on the Best Lenovo Laptop Picked by ZDNet."
-date: 2025-01-29T16:46:03.536Z
-updated: 2025-02-01T16:54:03.498Z
+date: 2025-01-30T20:56:03.847Z
+updated: 2025-02-03T00:46:04.848Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,22 +79,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhance-motion-capture-choose-wisely-among-gear/"><u>[Updated] 2024 Approved Enhance Motion Capture - Choose Wisely Among Gear</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-integrate-spotify-and-youtube-top-5-playlist-to-channel-converters-available/"><u>2024 Approved Integrate Spotify and YouTube Top 5 Playlist-to-Channel Converters Available</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-transformed-my-entire-tech-setup/"><u>A Week with an Ergonomic Split Keyboard: How One Change Transformed My Entire Tech Setup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-a-budget-friendly-laptop-with-stunning-display-performance-reviews-by-zdnet/"><u>Affordable Excellence: A Budget-Friendly Laptop with Stunning Display Performance, Reviews by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-hp-touchscreen-notebook-with-keyboard-and-mouse-combo-plus-free-microsoft-office-suite-only-400-on-zdnet/"><u>Budget-Friendly HP Touchscreen Notebook with Keyboard & Mouse Combo + Free Microsoft Office Suite - Only $400 on ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-code-0x0000004e-on-win11-hardware/"><u>Correcting Code 0X0000004E on Win11 Hardware</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/desktop-and-mobile-guide-step-by-step-video-upload-process-on-facebook/"><u>Desktop & Mobile Guide: Step-by-Step Video Upload Process on Facebook</u></a></li>
-<li><a href="https://win-able.techidaily.com/discord-screen-audio-woes-heres-your-guide-to-getting-it-working-again/"><u>Discord Screen Audio Woes? Here's Your Guide to Getting It Working Again!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-and-driver-download-for-techkey-usb-bluetooth-adapter-works-with-win10-win7-win8/"><u>Easy Installation Guide & Driver Download for Techkey USB Bluetooth Adapter - Works with Win10, Win7, Win8</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-the-ultimate-deal-high-capacity-samsung-t5-ssds-reduced-by-half-at-amazon-in-stock-now/"><u>Get the Ultimate Deal: High-Capacity Samsung T5 SSDs Reduced by Half at Amazon, In Stock Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-shakes-up-laptop-industry-with-innovative-approach-that-even-apple-cant-match-expert-analysis-by-zdnet/"><u>HP Shakes Up Laptop Industry with Innovative Approach that Even Apple Can't Match | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-fix-hidden-suggested-youtube-and-facebook-videos-explained/"><u>In 2024, Fix Hidden Suggested YouTube & Facebook Videos Explained</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-stepwise-process-for-capturing-live-soundtracks-online/"><u>In 2024, Stepwise Process for Capturing Live Soundtracks Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/painting-with-purpose-mastering-ai-art-through-chatgpt/"><u>Painting with Purpose: Mastering AI Art Through ChatGPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-windows-notebooks-in-depth-analysis-by-tech-experts/"><u>Top-Rated Windows Notebooks : In-Depth Analysis by Tech Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-lenovos-latest-innovation-the-enhanced-2-in-1-thinkpad-with-key-upgrades-for-professionals-detailed-review-by-zdnet/"><u>Unveiling Lenovo's Latest Innovation: The Enhanced 2-in-1 ThinkPad with Key Upgrades for Professionals - Detailed Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-simplified-non-windows-living-a-look-at-the-budget-friendly-hp-chromebook-with-a-136-discounted-price-on-zdnet/"><u>Unveiling Simplified Non-Windows Living: A Look at the Budget-Friendly HP Chromebook with a 136% Discounted Price on ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-freefire-hashtags-to-skyrocket-video-views-on-youtube/"><u>[New] In 2024, Essential FreeFire Hashtags to Skyrocket Video Views on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-voice-transformation-tools-for-social-media-stars/"><u>[New] Ultimate Voice Transformation Tools for Social Media Stars</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-tailor-made-edits-customizing-videos-in-studio/"><u>[Updated] In 2024, Tailor-Made Edits Customizing Videos in Studio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-troubleshooting-stop-sequential-frame-skips-in-live-streaming/"><u>2024 Approved Troubleshooting Stop Sequential Frame Skips in Live Streaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-companion-apps-for-androidiphone-slow-motion-shooting/"><u>Best Companion Apps for Android/iPhone Slow Motion Shooting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-tech-game-with-expert-advice-from-tome-hardware-corner/"><u>Elevate Your Tech Game with Expert Advice From Tom'e Hardware Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-guide-to-cost-effective-3d-printing-elite-models-offered-at-budget-friendly-price-points/"><u>Expert Guide to Cost-Effective 3D Printing: Elite Models Offered at Budget-Friendly Price Points</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-on-electronics-by-tom-your-reliable-hardware-source/"><u>Expert Reviews on Electronics by Tom - Your Reliable Hardware Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-tech-a-dive-into-toms-hardware-insights-and-reviews/"><u>Exploring Tech: A Dive Into Tom's Hardware Insights and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hytes-game-changing-nexus-link-streamline-pc-building-with-magnetic-connectivity-and-oversized-screen-cooler/"><u>Hyte's Game-Changing Nexus Link - Streamline PC Building with Magnetic Connectivity and Oversized Screen Cooler</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-realme-narzo-60x-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Realme Narzo 60x 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-nights-reign-black-vs-the-dawns-duty-silver/"><u>The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-all-in-one-cpu-coolers-of-2024/"><u>Top-Rated All-in-One CPU Coolers of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/trustworthy-tech-advice-from-toms-reviews-and-analysis/"><u>Trustworthy Tech Advice From Tom's Reviews & Analysis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/bes-pinnacle-tools-studio-vs-next-gen-beta-for-2024/"><u>YouTube's Pinnacle Tools Studio Vs. Next-Gen Beta for 2024</u></a></li>
 </ul></div>
 

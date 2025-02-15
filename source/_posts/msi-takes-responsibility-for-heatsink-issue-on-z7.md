@@ -1,7 +1,7 @@
 ---
 title: MSI Takes Responsibility for Heatsink Issue on Z7
-date: 2024-08-19T02:39:07.003Z
-updated: 2024-08-20T02:39:07.003Z
+date: 2025-01-31T01:14:39.075Z
+updated: 2025-02-03T00:52:22.196Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,26 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-analyzing-why-your-facebook-doesnt-suggest-movies/"><u>[New] 2024 Approved Analyzing Why Your Facebook Doesn't Suggest Movies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unlocking-tiktoks-1-gamer-list-for-2024/"><u>[New] Unlocking TikTok's #1 Gamer List for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-cutting-edge-zooid-formulation-tools/"><u>[Updated] In 2024, Cutting-Edge Zooid Formulation Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-analysis-by-professionals-at-toms-equipment-reviews/"><u>Advanced Tech Analysis by Professionals at Tom's Equipment Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-ice-floe-iceberg-thermal-unit-reviews-evaluating-the-quiet-cool-power-of-models-240-and-360/"><u>Affordable Ice FLOe Iceberg Thermal Unit Reviews: Evaluating the Quiet Cool Power of Models 240 & 360</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-the-corsair-air-a115-cpu-cooler-powerful-and-silent-but-costly/"><u>Comprehensive Guide to the Corsair Air A115 CPU Cooler: Powerful & Silent but Costly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974255443-get-your-windows-system-upgraded-free-msi-auditory-device-drivers-available-now/"><u>Get Your Windows System Upgraded: Free MSI Auditory Device Drivers Available Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-connect-chatgpt-with-siri-on-ios-devices/"><u>How to Seamlessly Connect ChatGPT with Siri on iOS Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-6s-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 6s when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/online-mpeg-to-3gp-conversion-without-costs-moveavi/"><u>Online MPEG to 3GP Conversion Without Costs - MoveAVI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-when-your-devices-main-audio-jack-fails-guide/"><u>Solution Steps for When Your Device's Main Audio Jack Fails [Guide]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-apple-watch-offers-in-july-2024-unbeatable-discounts-and-reviews-techradar/"><u>Top Apple Watch Offers in July 2024 - Unbeatable Discounts & Reviews | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-gadget-secrets-a-look-at-toms-hardware/"><u>Unlocking Gadget Secrets: A Look at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-in-depth-reviews-from-toms-hardware/"><u>Unlocking Tech Secrets: In-Depth Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-electronics-with-toms-equipment-insights/"><u>Unraveling the World of Electronics with Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest Gadgets with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-a-trip-through-toms-hardware-world/"><u>Unveiling the Latest in Technology: A Trip Through Tom's Hardware World</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-stunning-glitch-effect-in-photoshop-in-2024/"><u>Updated How to Make Stunning Glitch Effect in Photoshop, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-ultimate-guide-to-hardware-evaluations-with-toms-insights/"><u>Your Ultimate Guide to Hardware Evaluations with Tom's Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

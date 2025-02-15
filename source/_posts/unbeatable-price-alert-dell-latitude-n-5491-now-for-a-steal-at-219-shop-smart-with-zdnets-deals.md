@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!"
-date: 2025-01-27T18:46:56.065Z
-updated: 2025-02-01T19:34:22.047Z
+date: 2025-01-28T04:29:29.821Z
+updated: 2025-02-03T06:47:19.904Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,16 +87,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-achieving-virality-in-instagram-videos-practical-advice-for-2024/"><u>[New] Achieving Virality in Instagram Videos Practical Advice for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-step-into-anti-time-original-techniques-to-rewind-yt-videos/"><u>[Updated] In 2024, A Step Into Anti-Time Original Techniques to Rewind YT Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-learn-how-to-rewind-video-ordering-on-android-for-2024/"><u>[Updated] Learn How to Rewind Video Ordering on Android for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-exclusive-top-ranked-laptops-from-zdnet-now-available-with-a-staggering-500-discount-before-the-upcoming-prime-day/"><u>Amazon Exclusive: Top-Ranked Laptops From ZDNet Now Available with a Staggering $500 Discount Before the Upcoming Prime Day</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-strategies-for-flawless-srt-file-creation/"><u>In 2024, Ultimate Strategies for Flawless SRT File Creation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-updated-amd-radeon-graphics-drivers-on-windows-without-spending-a-penny/"><u>Install Updated AMD Radeon Graphics Drivers on Windows Without Spending a Penny</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-the-net-top-tags-for-eye-catching-gamer-content-for-2024/"><u>Navigating the Net Top Tags for Eye-Catching Gamer Content for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-demand-why-consumers-choose-damaged-macbook-pro-screens-insights-from-zdnet/"><u>Understanding the Demand: Why Consumers Choose Damaged MacBook Pro Screens - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-your-laptops-hidden-potential-the-overlooked-peripheral-that-boosts-performance-like-never-before-zdnet/"><u>Unlocking Your Laptop's Hidden Potential: The Overlooked Peripheral That Boosts Performance Like Never Before | ZDNet</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-top-6-online-video-speed-controller-for-chrome-safari-firefox-for-2024/"><u>Updated TOP 6 Online Video Speed Controller for Chrome, Safari, Firefox for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-essential-guide-to-the-greatest-prime-day-bargains-of-october-2024-exclusive-deals-on-tech-zdnet/"><u>Your Essential Guide to the Greatest Prime Day Bargains of October 2024 - Exclusive Deals on Tech | ZDNET</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-expressive-poetry-in-images-and-text-top-100-instagramcaptions/"><u>[New] 2024 Approved Expressive Poetry in Images and Text - Top 100 #InstagramCaptions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-extended-review-uncomplicated-hdr-approach/"><u>[New] 2024 Approved Extended Review Uncomplicated HDR Approach</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-discover-the-best-in-class-our-list-of-12-high-performing-flip-cameras/"><u>[New] In 2024, Discover the Best in Class Our List of 12 High-Performing Flip Cameras</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-guidance-from-toms-experts/"><u>Advanced Computing Guidance From Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-noise-free-performance-with-adaptable-pc-enclosures-and-shining-ventilation-fans-from-be-quiet/"><u>Enhance Noise-Free Performance with Adaptable PC Enclosures & Shining Ventilation Fans From Be Quiet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-guides-and-reviews-on-computing-equipment-by-tom-hardware/"><u>Expert Guides and Reviews on Computing Equipment by Tom Hardware</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-chic-swagtron-swagger-scooter-a-stylish-effortless-way-to-navigate-urban-spaces/"><u>Exploring the Chic Swagtron Swagger Scooter: A Stylish, Effortless Way to Navigate Urban Spaces</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-11-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 11 Pro Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pranks-and-puns-playbook-7-clever-gags-for-video-virtuosos/"><u>In 2024, Pranks & Puns Playbook 7 Clever Gags for Video Virtuosos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/inexpensive-sky-explorers-the-least-expensive-drones-for-2024/"><u>Inexpensive Sky Explorers The Least Expensive Drones for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-toms-gadget-insights/"><u>Inside the World of Tom’s Gadget Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pro-gear-evaluation-with-tomgadgetguide/"><u>Pro Gear Evaluation with TomGadgetGuide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/rapidly-finding-friends-on-facebooks-network/"><u>Rapidly Finding Friends on Facebook's Network</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-4k-resolution-monitors-for-gamers-in-2e24-features-144hz-refresh-rate-and-curve-screens/"><u>Top 5 Premium 4K Resolution Monitors for Gamers in 2E24: Features 144Hz Refresh Rate & Curve Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-space-with-a-budget-friendly-animated-3d-printer-inspired-wireless-charger-by-bambu-labs/"><u>Transform Your Space with a Budget-Friendly Animated, 3D Printer-Inspired Wireless Charger by Bambu Labs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gadgets-and-hardware-by-tom-an-expert-review/"><u>Unveiling the Latest in Gadgets & Hardware by Tom - An Expert Review</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728469133608-windows-pc/"><u>Windows PC 数据恢复常见问题与有效解决技巧</u></a></li>
 </ul></div>
 

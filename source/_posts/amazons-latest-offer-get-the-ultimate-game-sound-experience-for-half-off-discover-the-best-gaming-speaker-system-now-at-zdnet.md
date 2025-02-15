@@ -1,7 +1,7 @@
 ---
 title: Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.
-date: 2025-01-30T17:07:46.937Z
-updated: 2025-02-01T17:08:37.450Z
+date: 2025-01-31T01:47:23.421Z
+updated: 2025-02-03T00:15:52.391Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,24 +128,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-integration-combining-b-roll-and-main-scenes/"><u>[New] Seamless Integration Combining B-Roll and Main Scenes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/audience-favorite-discover-the-ultimate-combination-of-power-and-durability-in-todays-best-laptops-reviews/"><u>Audience Favorite: Discover the Ultimate Combination of Power & Durability in Today's Best Laptops Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-the-lenovo-thinkpad-x1-carbon-gen-10-a-cutting-edge-business-laptop-reviewed-by-tech-experts-zdnet-analysis/"><u>Evaluating the Lenovo ThinkPad X1 Carbon (Gen 10): A Cutting-Edge Business Laptop Reviewed by Tech Experts | ZDNET Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-save-on-your-ideal-lenovo-laptop-designed-for-hybrid-professionals-get-1000-off-this-octobers-amazon-prime-day/"><u>Exclusive Offer: Save on Your Ideal Lenovo Laptop Designed for Hybrid Professionals - Get $1,000 Off This October's Amazon Prime Day!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-list-the-best-5g-notebook-picks-for-tech-enthusiasts-featured-on-zdnet/"><u>Explore the Ultimate List: The Best 5G Notebook Picks for Tech Enthusiasts - Featured on ZDNET</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/historical-insights-at-your-fingertips-top-10-for-students/"><u>Historical Insights at Your Fingertips – Top 10 for Students</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-c02-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia C02 Phone Screen?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-game-essential-tips-and-tools-for-building-the-perfect-gamers-rig-from-zdnet/"><u>Master Your Game: Essential Tips & Tools for Building The Perfect Gamer's Rig From ZDNet</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-guide-terminating-unresponsive-programs-in-windows-11/"><u>Quick Guide: Terminating Unresponsive Programs in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamping-the-reset-account-lockout-after-incorrect-passwords-on-windows-11/"><u>Revamping the Reset Account Lockout After Incorrect Passwords on Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-on-premium-8-iphone-webcam-mount-exclusive-offer-lives-on-after-cyber-monday-check-now/"><u>Save on Premium $8 iPhone Webcam Mount - Exclusive Offer Lives On After Cyber Monday! Check Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-ultimate-vr-experience-save-big-on-metas-512gb-quest-pro-bundle-this-october-prime-day-tech-insights-by-zdnet/"><u>Snag the Ultimate VR Experience: Save Big on Meta's 512GB Quest Pro Bundle This October Prime Day | Tech Insights by ZDNET</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/subtitle-edit-for-mac-download-alternatives/"><u>Subtitle Edit for Mac Download Alternatives</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/take-on-any-challenge-discover-gaming-excellence-with-the-affordable-and-powerful-lenovo-legion-slim-5-899-packed-with-a-cutting-edge-rtx-4060-gpu/"><u>Take On Any Challenge: Discover Gaming Excellence with the Affordable and Powerful Lenovo Legion Slim 5 ($899) - Packed With a Cutting-Edge RTX 4060 GPU</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-non-apple-rechargeable-airtag-alternative-the-ideal-choice-for-your-wallet-discovered/"><u>Top Non-Apple Rechargeable AirTag Alternative: The Ideal Choice for Your Wallet - Discovered !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-for-professional-video-editors-in-depth-reviews-and-comparisons-techradar/"><u>Top-Rated Laptops for Professional Video Editors: In-Depth Reviews & Comparisons - TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-experience-the-ultimate-immersive-sound-with-a-top-rated-gaming-speaker-now-60-off-on-amazon-featured-by-zdnet/"><u>Unbeatable Deal: Experience the Ultimate Immersive Sound with a Top-Rated Gaming Speaker Now 60% Off on Amazon - Featured by ZDNet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unlocking-the-art-of-captions-a-short-guide-to-facebook-videos/"><u>Unlocking the Art of Captions A Short Guide to Facebook Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-apple-iphone-xs-max-superior-quality-with-a-hefty-premium/"><u>Unveiling the Apple iPhone XS Max - Superior Quality with a Hefty Premium</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-access-youtube-tracks-without-spending-a-dime-25plus-no-cost-audio-extractors/"><u>[New] 2024 Approved Access YouTube Tracks Without Spending a Dime 25+ No-Cost Audio Extractors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-how-to-retract-macos-upgrade-from-sierra-to-el-capitan/"><u>[New] 2024 Approved How to Retract macOS Upgrade From Sierra to El Capitan</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-efficiency-in-advertising-post-facebook-algorithm-overhaul-for-2024/"><u>[New] Efficiency in Advertising Post-Facebook Algorithm Overhaul for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-craft-your-online-identity-with-customized-youtube-urls-for-2024/"><u>[Updated] Craft Your Online Identity with Customized YouTube URLs for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>[Updated] The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-most-innovative-and-efficient-bendy-gaming-displays/"><u>2024'S Most Innovative and Efficient Bendy Gaming Displays</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/battle-for-top-chatbot-title-gpt-microsofts-and-google-writes/"><u>Battle for Top Chatbot Title: GPT, Microsoft's & Google' Writes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-selection-of-high-end-cost-effective-3d-printers/"><u>Discover the Ultimate Selection of High-End, Cost-Effective 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-pcs-cooling-system-with-the-mighty-moora-iv-600-nine-200mm-fans-and-a-bulky-35lbs-radiator-for-under-600/"><u>Enhance Your PC's Cooling System with the Mighty MOORA IV 600: Nine 200Mm Fans and a Bulky 35Lbs Radiator for Under $600</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-top-quality-with-our-favorite-the-eleegoo-neptune-4-pro-now-available-for-only-240-on-newegg/"><u>Experience Top Quality with Our Favorite - The Eleegoo Neptune 4 Pro, Now Available for Only $240 on Newegg!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-insight-on-iphone-15-top-picks-and-pro-tips-for-advanced-users-a-comprehensive-guide-by-techsavvyzdnet/"><u>Expert Insight on iPhone 15: Top Picks and Pro Tips for Advanced Users - A Comprehensive Guide by TechSavvyZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-12-proplus-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme 12 Pro+ 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nubia-red-magic-9-proplus-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nubia Red Magic 9 Pro+ Phone Now with These Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-tips-from-toms-hardware-experts/"><u>Mastering PC Building Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-choices-insider-tips-from-toms-hardware-guru/"><u>Navigating Tech Choices: Insider Tips From Tom's Hardware Guru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-ultra-compact-nh-l12sx77-enhanced-ram-clearance-and-efficient-vrm-cooling-in-sff-rigs/"><u>Noctua Unveils Ultra-Compact NH-L12Sx77: Enhanced Ram Clearance & Efficient VRM Cooling in SFF Rigs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-gadget-analysis-by-toms-hardware-experts/"><u>Pioneering Gadget Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-chronicles-a-journey-through-hardware-excellence/"><u>Tom's Computer Chronicles: A Journey Through Hardware Excellence</u></a></li>
 </ul></div>
 

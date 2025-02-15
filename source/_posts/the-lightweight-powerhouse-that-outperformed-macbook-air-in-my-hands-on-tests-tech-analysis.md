@@ -1,7 +1,7 @@
 ---
 title: The Lightweight Powerhouse That Outperformed MacBook Air in My Hands-On Tests | Tech Analysis
-date: 2025-01-28T18:51:34.132Z
-updated: 2025-02-01T16:15:20.082Z
+date: 2025-02-02T00:20:39.919Z
+updated: 2025-02-02T19:17:30.495Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -87,7 +87,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -126,21 +126,20 @@ The Surface Laptop is a flagship mid-range device that's well-rounded enough to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-engage-with-snapchat-luminaries/"><u>[New] In 2024, How to Engage with Snapchat Luminaries</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-pcandroid-tutorial-successful-facebook-video-sharing-for-2024/"><u>[New] PC/Android Tutorial Successful Facebook Video Sharing for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-voice-your-thoughts-quick-recording-in-windows-10/"><u>[Updated] 2024 Approved Voice Your Thoughts Quick Recording in Windows 10</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-virtual-visage-creation-shaping-your-exaggerated-image/"><u>[Updated] In 2024, Virtual Visage Creation Shaping Your Exaggerated Image</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-savings-with-our-pick-of-ultimate-october-2pert-deals-on-laptops-zdnet-insider-tips/"><u>Ace Your Savings with Our Pick of Ultimate October 2Pert Deals on Laptops | ZDNET Insider Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bugged-hardware-students-encounter-pest-problems-with-chromebook-devices-a-persistent-issue-explored/"><u>Bugged Hardware? Students Encounter Pest Problems with Chromebook Devices - A Persistent Issue Explored</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cost-effective-surface-pro-11-review-by-a-microsoft-maestro-exclusive/"><u>Cost-Effective Surface Pro 11 Review by A Microsoft Maestro Exclusive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-game-audio-like-never-before-with-amazons-37-discounted-top-tier-gaming-speakers-review-on-zdnet/"><u>Experience Game Audio Like Never Before with Amazon's 37% Discounted Top-Tier Gaming Speakers - Review on ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-hidden-advantages-parking-benefits-and-hov-lane-access-for-electric-vehicle-drivers/"><u>Exploring the Hidden Advantages: Parking Benefits & HOV Lane Access for Electric Vehicle Drivers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-nostalgic-portraits-retold-transforming-old-prints-to-digital/"><u>In 2024, Nostalgic Portraits Retold Transforming Old Prints to Digital</u></a></li>
-<li><a href="https://some-tips.techidaily.com/preserve-the-shine-expert-advice-on-keeping-your-iphone-13-flawless-with-key-accessories-insights-by-zdnet/"><u>Preserve the Shine: Expert Advice on Keeping Your iPhone 13 Flawless with Key Accessories - Insights by ZDNET</u></a></li>
-<li><a href="https://discover-help.techidaily.com/scambiare-grandi-file-vob-in-formato-mp4-soluzioni-facili-sicure-ed-economiche/"><u>Scambiare Grandi File VOB in Formato MP4: Soluzioni Facili, Sicure Ed Economiche</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-mini-marvel-discover-why-this-small-alienware-laptop-packs-a-powerhouse-punch-surpassing-bigger-rivals-insights-review/"><u>The Mini Marvel: Discover Why This Small Alienware Laptop Packs a Powerhouse Punch, Surpassing Bigger Rivals - Insights Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-laptop-face-off-how-the-newest-samsung-galaxy-book-stands-up-against-the-macbook-pro-insights-from-zdnet/"><u>The Ultimate Laptop Face-Off: How the Newest Samsung Galaxy Book Stands Up Against the MacBook Pro | Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-student-laptops-comprehensive-reviews-and-expert-evaluations-zdnet/"><u>Top-Ranking Student Laptops: Comprehensive Reviews & Expert Evaluations - ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-comprehending-drone-systems-mechanics-and-applications-explained/"><u>[Updated] Comprehending Drone Systems Mechanics and Applications Explained</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-richer-imagery-enhancing-video-with-device-based-filters/"><u>[Updated] Richer Imagery Enhancing Video with Device-Based Filters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-components-decoded-by-toms-hardware-wisdom/"><u>Advanced PC Components Decoded by Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-ice-floe-oasis-comprehensive-review-of-the-240-and-n360-models-for-silent-refrigeration/"><u>Affordable Ice FLOE Oasis: Comprehensive Review of the 240 & N=360 Models for Silent Refrigeration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-ssd-lifespressure-with-akasas-gecko-the-ultimate-review-of-a-premium-air-blown-heatsink/"><u>Boost Your SSD Lifespressure with Akasa's Gecko - The Ultimate Review of a Premium Air-Blown Heatsink</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-tech-a-deep-dive-into-the-impressive-capabilities-and-swift-operations-of-the-elegoo-neptune-4-plus-3d-printer/"><u>Breakthrough Tech: A Deep Dive Into the Impressive Capabilities and Swift Operations of the Elegoo Neptune 4 Plus 3D Printer</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/comedy-canvas-painting-laughter-with-top-10-video-concepts-for-2024/"><u>Comedy Canvas Painting Laughter with Top 10 Video Concepts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-cooling-get-the-best-for-just-33-thermalrights-peerless-assassin-n120-se-cpu-air-cooler/"><u>Experience Unmatched Cooling: Get the Best for Just $33 - Thermalright's Peerless Assassin N120 SE CPU Air Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-by-tom-your-ultimate-hardware-guide/"><u>Expert Insights on Gadgets by Tom - Your Ultimate Hardware Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-12-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 12 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175727926-nvme-ssd-uphere-m201-heatsink-review-exceptional-cooling-performance-at-an-unbeatable-5-price/"><u>NVMe SSD UpHere M201 Heatsink Review - Exceptional Cooling Performance at an Unbeatable $5 Price!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-motorola-razr-40-ultra-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Motorola Razr 40 Ultra Phone Hassle-Free</u></a></li>
+<li><a href="https://win-top.techidaily.com/tiff-a-jpg-convertissez-votre-fichier-sans-frais-avec-movavi-online/"><u>Tiff À Jpg : Convertissez Votre Fichier Sans Frais Avec Movavi Online!</u></a></li>
 </ul></div>
 

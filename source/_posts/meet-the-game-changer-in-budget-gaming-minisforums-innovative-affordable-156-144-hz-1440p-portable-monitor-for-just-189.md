@@ -1,7 +1,7 @@
 ---
 title: Meet the Game-Changer in Budget Gaming - Minisforum’s Innovative, Affordable 15.6” 144 Hz 1440P Portable Monitor for Just $189
-date: 2024-08-19T02:40:12.536Z
-updated: 2024-08-20T02:40:12.536Z
+date: 2025-01-28T20:42:27.384Z
+updated: 2025-02-03T05:54:41.762Z
 tags:
   - monitor
 categories:
@@ -47,6 +47,10 @@ Minisforum continues to widen its product portfolio, this time with a portable m
 
  Minisforum announced the availability of the MSS-A156 Portable Monitor on its site via both its US and Japan stores on its Discord channel. When we checked the US link also had links for buyers from the EU and UK. At the time of writing the MSS-A156 is listed at $189, which is claimed to be a $34 discount from the regular price. It's unclear how long that will last.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -61,8 +65,6 @@ Minisforum continues to widen its product portfolio, this time with a portable m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +72,24 @@ Minisforum continues to widen its product portfolio, this time with a portable m
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-crafting-connections-posting-vids-between-tweets-and-tumbles/"><u>[New] 2024 Approved Crafting Connections Posting Vids Between Tweets & Tumbles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/lutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes-for-2024/"><u>[New] Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-the-craft-of-background-image-acquisition/"><u>[Updated] Mastering the Craft of Background Image Acquisition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-essential-gratuitous-lut-downloads-of-the-year/"><u>[Updated] Top 10 Essential, Gratuitous LUT Downloads of the Year</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unveiling-30-preferred-steadicam-models-for-high-quality-dslr-projects/"><u>2024 Approved Unveiling 30 Preferred Steadicam Models for High-Quality DSLR Projects</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-triple-caption-magic-for-compelling-ig-videographies/"><u>In 2024, Triple Caption Magic for Compelling IG Videographies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphone-photography-breakthroughs-with-lifelike-motion/"><u>IPhone Photography Breakthroughs with Lifelike Motion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptron-st060-the-next-gen-cpu-cooler-that-comes-with-a-six-inch-lcd-display-as-big-and-clear-as-an-iphone-15s-retina-screen/"><u>Lamptron ST060: The Next-Gen CPU Cooler That Comes With a Six-Inch LCD Display as Big and Clear as an iPhone 15'S Retina Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/legal-battles-heat-up-competing-brands-accused-of-copying-cooler-masters-patented-radiator-technology/"><u>Legal Battles Heat Up: Competing Brands Accused of Copying Cooler Master's Patented Radiator Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-pc-builds-top-tips-from-toms-hardware-experts/"><u>Master Your PC Builds: Top Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-knowledge-your-guide-to-top-hardware-picks-by-tom/"><u>Mastering Tech Knowledge - Your Guide to Top Hardware Picks by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-pc-needs-with-insights-from-toms-hardware-experts/"><u>Mastering Your PC Needs with Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/modded-marvels-astonishingly-swift-completion-of-speed-benchy-by-an-enhanced-3d-printer-in-merely-2-minutes/"><u>Modded Marvels: Astonishingly Swift Completion of ‘Speed Benchy’ by an Enhanced 3D Printer in Merely 2 Minutes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-with-toms-hardware-insights/"><u>Navigating the World of Computers with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctuas-premium-next-gen-flagship-cooler-launches-experience-the-power-of-the-nh-d15-g2-for-150/"><u>Noctua's Premium Next-Gen Flagship Cooler Launches - Experience the Power of the NH-D15 G2 for $150!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/secrets-revealed-how-to-boost-facebook-rankings-in-under-a-minute-for-2024/"><u>Secrets Revealed How to Boost Facebook Rankings in Under a Minute for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209962928-9781734688511-what-if-you-were-god/"><u>What If You Were God? | Free Book</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->

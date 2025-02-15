@@ -1,7 +1,7 @@
 ---
 title: Discover Amazing Back-to-School Laptop Bargains for Q3/Q4 | TechRadar
-date: 2025-01-31T16:19:40.498Z
-updated: 2025-02-01T17:24:55.511Z
+date: 2025-01-30T23:53:31.813Z
+updated: 2025-02-03T03:56:57.426Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -99,14 +95,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Amazon laptop deals
@@ -145,10 +137,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple MacBook deals
 
 [Apple MacBook Air, 15-inch, M2 chip, 1TB deal for $1,599 (save $300) $1,599 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-air-15-laptop-m2-chip-16gb-memory-1tb-ssd-midnight%2F6382794.p%3FskuId%3D6382794&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -160,6 +148,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Pro, refurbished, 15-inch, 16GB RAM deal for $800 (save $2,000) $800 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-refurbished-macbook-pro-15-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-560x-512gb-ssd-space-gray%2F6515403.p%3FskuId%3D6515403&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
 
@@ -187,7 +179,7 @@ The right specs depend on your needs and how you intend to use your new laptop -
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
@@ -196,9 +188,17 @@ When you're considering your budget for a new laptop, you have to consider what 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -257,20 +257,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-acclaimed-melody-hub-for-android-devices/"><u>[New] Acclaimed Melody Hub for Android Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-step-by-step-techniques-for-optimal-voice-recording-on-set/"><u>[New] Step-By-Step Techniques for Optimal Voice Recording on Set</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-vr-on-the-go-smartphones-top-10-choices/"><u>[New] VR on the Go Smartphones' Top 10 Choices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-novices-guide-to-photo-perfection-in-snapseed/"><u>[Updated] The Novice's Guide to Photo Perfection in Snapseed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-deal-alert-grab-a-used-128gb-microsoft-surface-laptop-for-just-320-tech-tips-by-zdnet/"><u>Affordable Deal Alert: Grab a Used 128GB Microsoft Surface Laptop for Just $320 - Tech Tips by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-google-chrome-os-overpower-microsoft-with-its-latest-chromebookplus-ai-integration-discover-how-in-the-latest-tech-showdown-zdnet/"><u>Can Google Chrome OS Overpower Microsoft with Its Latest Chromebook+ AI Integration? Discover How in the Latest Tech Showdown - ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cracking-the-case-for-missing-signal-proc-on-pc/"><u>Cracking the Case for Missing Signal Proc on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mastering-screen-recordings-in-gotomeeting-for-2024/"><u>Mastering Screen Recordings in GoToMeeting for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-a-top-tier-gaming-station-with-expert-tips-from-zdnet/"><u>Mastering the Art of a Top-Tier Gaming Station with Expert Tips From ZDNet</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-download-filmora-13-editor-full-version-for-free-for-2024/"><u>New Download Filmora 13 Editor Full Version for Free for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prime-day-prep-unmissable-discounts-at-best-buy-before-the-big-event-guide/"><u>Prime Day Prep: Unmissable Discounts at Best Buy Before the Big Event Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-most-impactful-tech-innovations-of-2023-that-changed-the-game-forever-zdnet/"><u>The Most Impactful Tech Innovations of 2023 That Changed the Game Forever | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-affordable-lenovo-laptops-tailored-for-the-modern-hybrid-working-lifestyle-save-big/"><u>Top Picks: Affordable Lenovo Laptops Tailored for the Modern Hybrid Working Lifestyle - Save Big!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-win11s-leading-video-creators-guide-for-2024/"><u>[New] Win11's Leading Video Creators Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-calculating-earnings-ad-revenues-in-the-world-of-youtube-in-2024/"><u>[Updated] Calculating Earnings Ad Revenues in the World of YouTube, In 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-step-by-step-method-to-personalize-iphone-ringtones/"><u>[Updated] In 2024, Step-By-Step Method to Personalize iPhone Ringtones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-becoming-a-pro-with-obs-gaming-recordings/"><u>2024 Approved Becoming a Pro with OBS Gaming Recordings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-joining-in-on-tiktok-gigs-without-causing-a-ruckus/"><u>2024 Approved Joining in on TikTok Gigs Without Causing a Ruckus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-productivity-in-resin-3d-printing-discover-the-elegoo-solution-kit-for-only-149/"><u>Boost Productivity in Resin 3D Printing: Discover the Elegoo Solution Kit for Only $149</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-the-action-5-roblox-recordings-for-mac-users-for-2024/"><u>Capturing the Action 5 Roblox Recordings for Mac Users for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-unboxing-game-strategies-for-more-viral-videos-and-likes/"><u>In 2024, Master the Unboxing Game Strategies for More Viral Videos and Likes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-hardware-selection-with-tips-from-toms-technology-insights/"><u>Mastering Computer Hardware Selection with Tips From Tom's Technology Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-devices-by-toms-authority-in-hardware/"><u>The Ultimate Guide to Tech Devices by Tom's Authority in Hardware</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-itel-a60-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Itel A60 Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-keyboards-of-2024-compare-full-size-tkl-and-mini/"><u>Top Rated Gaming Keyboards of 2024 - Compare Full-Size, TKL & Mini</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-tier-gadgets-insights-from-toms-hardware-world/"><u>Unveiling Top-Tier Gadgets: Insights From Tom's Hardware World</u></a></li>
 </ul></div>
 

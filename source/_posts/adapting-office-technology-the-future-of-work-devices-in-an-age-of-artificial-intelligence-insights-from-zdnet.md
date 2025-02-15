@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet"
-date: 2025-01-31T19:24:49.975Z
-updated: 2025-02-01T20:26:40.740Z
+date: 2025-01-26T19:10:14.072Z
+updated: 2025-02-02T21:55:34.205Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,18 +134,22 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/s55-awaits-your-click-scan-through-our-detailed-review-of-this-affordable-high-definition-radar-detector/"><u>'S55' Awaits Your Click: Scan Through Our Detailed Review of This Affordable, High Definition Radar Detector</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-hdr-rating-does-aurora-deliver-quality/"><u>[New] HDR Rating Does Aurora Deliver Quality?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-gamers-blueprint-securing-memorable-moments-with-4-methods/"><u>[Updated] In 2024, The Gamers' Blueprint Securing Memorable Moments with 4 Methods</u></a></li>
-<li><a href="https://driver-error.techidaily.com/0x80070057-what-does-it-mean-and-how-to-fix-it/"><u>0X80070057: What Does It Mean & How to Fix It?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-apps-to-upgrade-your-gopro-creations-on-smartphones/"><u>2024 Approved Foremost Apps to Upgrade Your GoPro Creations on Smartphones</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-mastering-quick-video-pace-adjustments-on-youtube/"><u>2024 Approved Mastering Quick Video Pace Adjustments on YouTube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cyber-monday-savings-alert-snag-the-portable-powerhouse-lg-gram-17-laptop-up-to-40-off-shop-smart/"><u>Cyber Monday Savings Alert! Snag the Portable Powerhouse LG Gram 17 Laptop Up to 40% Off | Shop Smart .</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-top-10-mobile-apps-that-will-boost-your-teens-academic-skills/"><u>Discover the Top 10 Mobile Apps That Will Boost Your Teen's Academic Skills</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unlocking-the-secrets-to-superior-gaming-on-android-with-kinemaster/"><u>In 2024, Unlocking the Secrets to Superior Gaming on Android With KineMaster</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ethical-implications-of-using-customer-data-for-marketing-purposes-including-privacy-concerns-and-consent/"><u>The Ethical Implications of Using Customer Data for Marketing Purposes, Including Privacy Concerns and Consent.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-travelers-ultimate-guide-to-the-innovative-hassle-free-usb-c-cable-that-changed-my-journey-zdnet/"><u>The Traveler's Ultimate Guide to the Innovative, Hassle-Free USB-C Cable That Changed My Journey | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-test-why-the-wrinkle-resistant-usb-c-cord-is-a-must-have-for-every-traveler-a-deep-dive-on-zdnet/"><u>The Ultimate Test: Why the 'Wrinkle-Resistant' USB-C Cord Is a Must-Have for Every Traveler - A Deep Dive on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmatched-endurance-meets-eye-catching-design-exploring-the-best-long-lasting-laptops-with-beautiful-displays/"><u>Unmatched Endurance Meets Eye-Catching Design: Exploring the Best Long-Lasting Laptops with Beautiful Displays</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-enhance-visual-narratives-incorporating-titles-in-microsoft-photos-win-11/"><u>[New] 2024 Approved Enhance Visual Narratives Incorporating Titles in Microsoft Photos Win 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-how-to-smoothly-manipulate-video-speed-in-snapchat-for-2024/"><u>[New] How to Smoothly Manipulate Video Speed in Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-facing-the-reality-of-content-monetization/"><u>[New] In 2024, Facing the Reality of Content Monetization</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-cutting-edge-techniques-for-vce-22-optimization/"><u>[Updated] In 2024, Cutting Edge Techniques for VCE 2.2 Optimization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-without-breaking-the-bank-secure-your-pcs-temperature-below-45-using-deepcools-as500-plus-at-amazon/"><u>Beat the Heat without Breaking the Bank: Secure Your PC's Temperature Below $45 Using DeepCool's AS500 Plus at Amazon</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/create-edges-of-images-with-rotational-softness-blend-psx-for-2024/"><u>Create Edges of Images with Rotational Softness Blend PSX for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-and-efficient-blackberry-video-conversion-software-enable-playback-on-your-classic-device-today/"><u>Easy and Efficient BlackBerry Video Conversion Software - Enable Playback on Your Classic Device Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-electronics-with-toms-hardware-experts/"><u>Expert Insights on Electronics with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-stop-separation-between-layers-during-the-3d-printing-process/"><u>How to Stop Separation Between Layers During the 3D Printing Process</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-precision-polishing-insights-from-vlle-on-apps/"><u>In 2024, Precision Polishing Insights From VLLE on Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-top-tier-computer-systems-by-toms-team/"><u>Inside Look at Top-Tier Computer Systems by Tom’s Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125125687-modded-marvels-astonishingly-swift-completion-of-speed-benchy-by-an-enhanced-3d-printer-in-merely-2-minutes/"><u>Modded Marvels: Astonishingly Swift Completion of ‘Speed Benchy’ by an Enhanced 3D Printer in Merely 2 Minutes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-problems-in-farming-simulator-22-a-step-by-step-tutorial/"><u>Overcoming Startup Problems in Farming Simulator 22 - A Step by Step Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-reviews-and-buying-guides/"><u>Tom's Tech Hub: Comprehensive Reviews & Buying Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-cura-mistakes-and-their-easy-solutions/"><u>Top 6 Cura Mistakes & Their Easy Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-ps5s-fastest-ssds-selecting-the-speediest-nvme-memory-upgrades/"><u>Ultimate Guide to PS5's Fastest SSDs: Selecting the Speediest NVMe Memory Upgrades</u></a></li>
 </ul></div>
 

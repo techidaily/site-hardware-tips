@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Samsung Odyssey Neo G8 - Score It For Only $550 This Anti-Prime Day, Exclusively at Best Buy | ZDNET
-date: 2025-01-26T18:42:07.842Z
-updated: 2025-02-01T16:56:07.812Z
+date: 2025-01-27T06:28:44.048Z
+updated: 2025-02-03T06:17:59.959Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pro-tips-for-impressive-gopro-time-lapse-cinematography/"><u>[Updated] 2024 Approved Pro Tips for Impressive GoPro Time-Lapse Cinematography</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-an-invisible-window-bar/"><u>Crafting an Invisible Window Bar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exciting-unveilings-at-the-next-apple-gathering-m4-powered-mac-minis-advanced-ipads-and-smart-innovations-insights/"><u>Exciting Unveilings at the Next Apple Gathering: M4 Powered Mac Minis, Advanced iPads & Smart Innovations | Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-quality-with-this-asus-laptop-the-ultimate-alternative-to-the-macbook-revealed-pcmag-insights/"><u>Experience Unmatched Quality with This Asus Laptop: The Ultimate Alternative to the MacBook Revealed | PCMag Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-theory-to-reality-exploring-chatgpts-applications/"><u>From Theory to Reality: Exploring ChatGPT's Applications</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-efficient-use-of-vlc-for-media-creation/"><u>In 2024, Efficient Use of VLC for Media Creation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-ssd-850-evo-disk-drive-software-download/"><u>Samsung SSD 850 EVO Disk Drive Software Download</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-brother-hl-3170cdw-driver-setup-fast-effortless-instructions-inside/"><u>Seamless Brother HL-3170CDW Driver Setup: Fast, Effortless Instructions Inside</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-durable-laptop-with-stunning-screen-review-techradar/"><u>Top Performing Durable Laptop with Stunning Screen Review | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-prime-day-bargains-unmissable-video-game-offers-on-zdnets-list-for-october-2024/"><u>Top Prime Day Bargains: Unmissable Video Game Offers on ZDNet's List for October 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-17-inch-laptop-picks-for-2e23-expert-reviews-from-zdnet/"><u>Top Rated 17-Inch Laptop Picks for 2E23 - Expert Reviews From ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-techniques-for-rainbow-six-siege-performance-hiccups/"><u>Troubleshooting Techniques for Rainbow Six Siege Performance Hiccups</u></a></li>
-<li><a href="https://win-hot.techidaily.com/troubleshooting-tips-how-to-fix-your-non-responsive-mouse-guidance-from-yl-computing/"><u>Troubleshooting Tips: How to Fix Your Non-Responsive Mouse - Guidance From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-what-to-do-if-your-msi-ge70-rack-is-malfunctioning/"><u>Troubleshooting Tips: What To Do If Your MSI GE70 Rack Is Malfunctioning</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-recommends-find-the-perfect-gamers-acoustic-companer-at-best-buy-for-an-unparalleled-audio-experience-now-on-discount/"><u>ZDNet Recommends: Find the Perfect Gamers' Acoustic Companer at Best Buy for an Unparalleled Audio Experience, Now on Discount!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/omparative-study-of-youtubes-and-dailymentions-for-2024/"><u>[New] Comparative Study of YouTubes and DailyMentions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-real-time-tracking-for-insta-unfollower-score/"><u>[New] Real-Time Tracking for Insta Unfollower Score</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pro-iphone-tips-for-capturing-the-perfect-landscape-moments/"><u>2024 Approved Pro iPhone Tips for Capturing the Perfect Landscape Moments</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-xbox-apps-audio-challenges-in-windows-1011/"><u>Addressing Xbox App's Audio Challenges in Windows 10/11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-s17-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo S17 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/no-more-fb-notifications-the-complete-process/"><u>No More FB Notifications: The Complete Process</u></a></li>
+<li><a href="https://win-updates.techidaily.com/revamping-clickonce-deployments-a-step-by-step-guide/"><u>Revamping ClickOnce Deployments: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guides-on-latest-gadgets/"><u>Tom's Tech Reviews: Comprehensive Guides on Latest Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-industrial-laser-engraving-machines-of-2024/"><u>Top-Rated Industrial Laser Engraving Machines of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-3d-printing-the-tiny-chip-based-printer-thats-bigger-than-its-size-now-smaller-than-a-penny-with-unparalleled-reliability/"><u>Transforming 3D Printing: The Tiny Chip-Based Printer That's Bigger Than Its Size - Now Smaller than a Penny with Unparalleled Reliability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultra-compact-chip-based-3d-printer-smaller-than-a-coin-and-no-mechanical-components/"><u>Unveiling the Ultra-Compact Chip-Based 3D Printer – Smaller than a Coin & No Mechanical Components</u></a></li>
 </ul></div>
 

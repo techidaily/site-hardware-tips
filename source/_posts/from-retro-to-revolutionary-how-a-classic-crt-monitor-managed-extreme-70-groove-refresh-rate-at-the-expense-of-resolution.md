@@ -1,7 +1,7 @@
 ---
 title: "From Retro to Revolutionary: How a Classic CRT Monitor Managed Extreme 70 Groove Refresh Rate at the Expense of Resolution"
-date: 2024-08-19T02:42:30.308Z
-updated: 2024-08-20T02:42:30.308Z
+date: 2025-01-30T07:16:23.253Z
+updated: 2025-02-02T17:35:41.465Z
 tags:
   - monitor
 categories:
@@ -97,50 +97,32 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  Dough provides an excellent unboxing experience with only cardboard that protects the contents. Delicate bits are wrapped in a smooth material that’s a bit like parchment paper. The stand comes in a separate carton and is optional. It costs $99 extra. There are no cables included except for the external power brick. I’ll leave opinions on that up to the reader.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## Product 360
 
  Image 1 of 4
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Dough)
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
- (Image credit: Dough)
-
-![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Dough)
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (Image credit: Dough)
+
+![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  (Image credit: Dough)
 
  The Spectrum Black 27 has one of the narrowest bezels I’ve seen yet, just 7mm on the sides and 11mm on the top and bottom. The Gorilla Glass is visibly clearer and blacker than other OLEDs I’ve reviewed. It also has a slick finish that resists fingerprints like a smartphone or tablet. It is shiny but not too tricky to set up. I didn’t see any reflections significant enough to affect the stunning image. It is incredibly sharp and clear, definitely a bit better than the norm.
@@ -161,9 +143,6 @@ Key features:
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -173,17 +152,17 @@ Key features:
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -193,15 +172,9 @@ Key features:
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
 
-![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -221,6 +194,10 @@ Key features:
  The joystick directionals can be programmed to provide quick access to different options. You can also specify the action of the KVM button. The menu can occupy different positions, have variable transparency, and stay on for up to two minutes. It can be rotated between portrait and landscape modes.
 
  Dough has included a comprehensive set of OLED maintenance options. There is pixel shift, a screen saver, logo compensation, and others. Each one is explained at the bottom, so you know what it does. The last two, transistor wear and OLED wear compensation, take about five minutes to complete and can be run whenever you wish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dough Spectrum Black 27 Calibration Settings
 
@@ -242,9 +219,6 @@ Key features:
 | Gamma               | 2.2                |
 | Color Temp          | Normal             |
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Gaming and Hands-on
 
  The Spectrum Black 27’s main selling point is its Gorilla Glass front layer, which is supposed to make blacks deeper. OLED blacks are already about as black as can be, so, in practice, this is a subtle thing. Lining up an Alienware AW3225QF 32-inch display next to it made the Dough look slightly blacker. It’s subtle, and it depends on how ambient light hits the screen. But the Gorilla Glass makes a positive impact. Though it is shiny, it is also coated to reduce glare and it does this effectively. I liked the way it resisted fingerprints too. Though I am not a screen toucher, other users I know frequently touch the screen when pointing things out. It drives me crazy, but it’s a thing. I would pay the extra $200 for Gorilla Glass over a matte finish.
@@ -277,6 +251,10 @@ Key features:
 
 [![Dough Spectrum Black 27" QHD...](https://images.fie.futurecdn.net/products/e2c47b241aee110aca365e46930a51ce23f297a3-100-80.jpg "Dough Spectrum Black 27" QHD...")](https://images.fie.futurecdn.net/products/e2c47b241aee110aca365e46930a51ce23f297a3-100-80.jpg "Dough Spectrum Black 27" QHD...") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-3789416193429450580-20)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Amazon](https://images.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png "Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-3789416193429450580-20)
 
 [Prime](https://search-api.fie.futurecdn.net/img/misc/prime.png "Prime") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Ftryprimefree%3Ftag%3Dhawk-future-20%26ascsubtag%3Dhawk-custom-tracking-20)
@@ -307,8 +285,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -316,4 +292,20 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-92-chuckle-fest-an-analyzed-goofy-film-vhs/"><u>[New] '92 Chuckle Fest' An Analyzed Goofy Film VHS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-4-top-ranked-ways-to-grab-your-chromebook-screen-shot/"><u>[New] 4 Top-Ranked Ways To Grab Your Chromebook Screen Shot</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-crafting-a-distinctive-tiktok-stream-hashcode-for-2024/"><u>[Updated] Crafting a Distinctive TikTok Stream Hashcode for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-speed-solutions-for-sluggish-android-videos/"><u>[Updated] Top Speed Solutions for Sluggish Android Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-masterclass-choose-your-development-stage/"><u>[Updated] YouTube Masterclass Choose Your Development Stage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-the-heart-of-your-system-pc-manager-for-w11/"><u>Configuring the Heart of Your System: PC Manager for W11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crystal-clear-viewing-mastering-the-art-of-flat-screen-television-care/"><u>Crystal Clear Viewing: Mastering the Art of Flat-Screen Television Care</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-advanced-computer-components-at-toms-electronic-reviews/"><u>Discover Advanced Computer Components at Tom’s Electronic Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-power-of-pink-tims-innovative-caulk-gun-style-thermal-paste-revolutionizes-component-heat-management/"><u>Discover the Power of Pink: TIM's Innovative 'Caulk Gun' Style Thermal Paste Revolutionizes Component Heat Management</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-at-toms-hardware-store-comprehensive-guides/"><u>Expert Insights at Tom’s Hardware Store - Comprehensive Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-for-the-best-gaming-mouse-on-the-market/"><u>Expert Picks for the Best Gaming Mouse on the Market</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-meetings-to-media-how-zoom-powers-fb-live-content/"><u>In 2024, From Meetings to Media How Zoom Powers FB Live Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amv-movavi-style/"><u>オンラインでのただ今無料AMV変換 - Movavi Style</u></a></li>
+</ul></div>
 

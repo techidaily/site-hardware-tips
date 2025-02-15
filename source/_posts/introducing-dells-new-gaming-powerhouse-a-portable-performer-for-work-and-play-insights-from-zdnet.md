@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2025-01-26T17:09:16.097Z
-updated: 2025-02-01T17:22:03.790Z
+date: 2025-01-28T23:34:35.862Z
+updated: 2025-02-02T16:58:28.442Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,17 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities/"><u>[New] 2024 Approved Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-sharpen-your-visual-storytelling-advanced-kinemaster-zoom-techniques/"><u>[New] 2024 Approved Sharpen Your Visual Storytelling Advanced Kinemaster Zoom Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-masterclass-in-brief-lapses-top-5/"><u>[New] Masterclass in Brief Lapses #Top 5</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-melodic-marketing-instagram-music-tips-for-2024/"><u>[Updated] Melodic Marketing Instagram Music Tips for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-picturesegment-appraisal-for-2024/"><u>[Updated] PictureSegment Appraisal for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-prime-shopping-destinations-customizable-presents-with-flair-for-2024/"><u>[Updated] Prime Shopping Destinations Customizable Presents with Flair for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2022-tech-review-exploring-the-latest-devices-and-revolutionary-gadgets-that-shaped-our-year-zdnet/"><u>2022 Tech Review: Exploring the Latest Devices and Revolutionary Gadgets that Shaped Our Year | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/adapting-office-equipment-for-the-age-of-artificial-intelligence-future-trends-and-insights/"><u>Adapting Office Equipment for the Age of Artificial Intelligence: Future Trends and Insights</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/g-subtitles-a-step-by-step-youtube-video-approach-for-2024/"><u>Adding Subtitles A Step-by-Step YouTube Video Approach for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/behind-the-glass-my-hands-on-experience-with-lenovos-transparent-laptop-innovation/"><u>Behind the Glass: My Hands-On Experience with Lenovo's Transparent Laptop Innovation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-improved-speed-and-performance-of-googles-latest-chrome-update-for-windows-find-out-why-you-should-still-be-careful/"><u>Discover the Improved Speed & Performance of Google's Latest Chrome Update for Windows - Find Out Why You Should Still Be Careful!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-your-perfect-laptop-exclusive-black-friday-savings-of-250-on-dells-impressive-16-inch-inspiron-2-in-1-model-features-and-reviews-covered-by-pcmag.m88/"><u>Discover Your Perfect Laptop: Exclusive Black Friday Savings of $250 on Dell's Impressive 16-Inch Inspiron 2-in-1 Model - Features & Reviews Covered by PCMag</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsungs-latest-innovation-the-copilotplus-laptop-an-unbeatable-bargain-for-windows-users-discover-why-at-zdnet/"><u>Samsung's Latest Innovation: The Copilot+ Laptop - An Unbeatable Bargain for Windows Users! Discover Why at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-smartphone-into-an-extra-display-the-brilliant-laptop-docking-station-reviewed-by-zdnet/"><u>Transform Your Smartphone Into an Extra Display: The Brilliant Laptop Docking Station Reviewed by ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unraveling-the-efficiency-of-lg-ud88-w-display-technology/"><u>Unraveling the Efficiency of LG UD88-W Display Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-the-budget-friendly-macbook-pro-m3-is-a-must-have-for-professionals-exclusive-insights-from-zdnet/"><u>Why the Budget-Friendly MacBook Pro M3 Is a Must-Have for Professionals - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-thriving-as-an-online-gaming-content-creator/"><u>[New] In 2024, Thriving as an Online Gaming Content Creator</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-basic-to-brilliant-top-100plus-biographies-that-captivate-audiences/"><u>[Updated] 2024 Approved From Basic to Brilliant Top 100+ Biographies that Captivate Audiences</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-automate-playlist-retrieval-from-youtube-directly-for-2024/"><u>[Updated] Automate Playlist Retrieval From YouTube Directly for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-tecno-camon-30-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Tecno Camon 30 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-note-30-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Note 30</u></a></li>
+<li><a href="https://extra-information.techidaily.com/android-and-iphone-select-top-tier-mobile-multimedia-tools/"><u>Android & iPhone Select Top-Tier Mobile Multimedia Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-advantages-of-using-ultralight-gan-technology-in-premium-usb-c-laptop-chargers/"><u>Discover the Advantages of Using Ultralight GaN Technology in Premium USB-C Laptop Chargers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175710378-get-cold-pay-less-secure-arctics-high-efficiency-liquid-freezer-ii-aioldii-for-only-74-bucks/"><u>Get Cold, Pay Less: Secure Arctic's High-Efficiency Liquid Freezer II (AIOLDII) for Only 74 Bucks!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterclass-on-hardware-solutions-by-toms-technological-wisdom/"><u>Masterclass on Hardware Solutions by Tom's Technological Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-mastering-the-art-of-3d-printed-lithophanes/"><u>The Ultimate Guide: Mastering the Art of 3D Printed Lithophanes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-cpu-cooling-solutions-of-2024-comparing-aio-vs-air-models/"><u>Top-Rated CPU Cooling Solutions of 2024 - Comparing AIO Vs. Air Models</u></a></li>
 </ul></div>
 

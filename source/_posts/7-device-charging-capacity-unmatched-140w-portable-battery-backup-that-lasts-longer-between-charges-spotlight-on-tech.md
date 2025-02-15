@@ -1,7 +1,7 @@
 ---
 title: "7-Device Charging Capacity: Unmatched 140W Portable Battery Backup That Lasts Longer Between Charges - Spotlight on Tech"
-date: 2025-01-25T17:12:04.213Z
-updated: 2025-02-01T17:02:50.885Z
+date: 2025-02-02T04:31:30.446Z
+updated: 2025-02-02T19:21:02.882Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -81,7 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,16 +130,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-filmoras-peer-level-alternatives-the-top-10-background-changers/"><u>[New] 2024 Approved Filmora's Peer-Level Alternatives The Top 10 Background Changers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-audio-matters-ensuring-excellent-sound-in-your-youtube-shots/"><u>[Updated] 2024 Approved Audio Matters Ensuring Excellent Sound in Your YouTube Shots</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-record-ps4-with-obs/"><u>[Updated] 2024 Approved How To Record PS4 with OBS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/3000-dell-gamer-beast-review-surprising-perks-of-cutting-edge-features-that-reimagine-your-playing-experience-zdnet/"><u>$3,000 Dell Gamer Beast Review: Surprising Perks of Cutting-Edge Features That Reimagine Your Playing Experience | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-devices-versatularity-with-these-expert-tips-for-adding-more-ports-to-macbook-or-ipad-pro-recommendations/"><u>Enhance Your Device's Versatularity with These Expert Tips for Adding More Ports to MacBook or iPad Pro Recommendations</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screenshot-expertise-checker/"><u>In 2024, ScreenShot Expertise Checker</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-asuss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Asuss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/jujutsu-kaisen-characters-in-the-world-of-tiktok-creatives-for-2024/"><u>Jujutsu Kaisen Characters in the World of TikTok Creatives for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/metas-october-sale-shines-with-quest-nano-3-512gb-deal-could-be-prime-days-top-virtual-reality-bargain-says-zdnet-analysis/"><u>Meta's October Sale Shines with Quest Nano 3 512GB Deal – Could Be Prime Day’s Top Virtual Reality Bargain, Says ZDNET Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-right-touchscreen-laptop-professional-ratings-and-comparisons-at-zdnet/"><u>Ultimate Guide to Choosing the Right Touchscreen Laptop: Professional Ratings & Comparisons at ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-pairings-4-innovative-windows-webp-viewer-apps/"><u>Winning Pairings: 4 Innovative Windows WebP Viewer Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-harmony-at-hand-free-audio-from-fb/"><u>[New] Harmony at Hand Free Audio From FB</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-innovative-10-solutions-for-seamless-video-background-swapping/"><u>[Updated] 2024 Approved Innovative 10 Solutions for Seamless Video Background Swapping</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-in-style-unbeatable-deal-on-the-best-air-cooler-ever-thermalrights-peerless-assassin-120-se-at-just-33/"><u>Beat the Heat in Style - Unbeatable Deal on the Best Air Cooler Ever, Thermalright's Peerless Assassin 120 SE at Just $33!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/cutting-edge-5-home-movie-maker/"><u>Cutting-Edge 5 Home Movie Maker</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y200-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y200 for Parents | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-computing-solutions-by-tom-comprehensive-hardware-analysis/"><u>Innovative Computing Solutions by Tom - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/latest-samsung-bd-j5900-updated-review-2023/"><u>Latest Samsung BD-J5900 Updated Review 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-analysis-and-reviews-by-toms-industry-experts/"><u>Pioneering Hardware Analysis and Reviews by Tom's Industry Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-technique-for-semiconductor-assembly-using-three-dimensional-printing-technology/"><u>Revolutionary Technique for Semiconductor Assembly Using Three-Dimensional Printing Technology</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/toms-computing-solutions-in-depth-reviews-and-guides/"><u>Tom's Computing Solutions: In-Depth Reviews & Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone-for-2024/"><u>Top 5 Podcast Apps for Listening to Podcasts on an iPhone for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-university-computers-expertly-reviewed-selections-for-academics-creativity-entertainment/"><u>Top-Ranked University Computers: Expertly Reviewed Selections for Academics, Creativity, Entertainment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-am350-chipset-boards-unveiling-the-best-budget-friendly-options-for-pcie-40/"><u>Top-Rated AM350 Chipset Boards: Unveiling the Best Budget-Friendly Options for PCIe 4.0</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ultimate-chuckles-and-pixels-suite-for-2024/"><u>Ultimate Chuckles and Pixels Suite for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-secrets-of-toms-pc-insights/"><u>Unraveling the Secrets of Tom's PC Insights</u></a></li>
 </ul></div>
 

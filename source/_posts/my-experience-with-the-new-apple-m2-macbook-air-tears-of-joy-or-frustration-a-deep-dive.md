@@ -1,7 +1,7 @@
 ---
 title: My Experience with the New Apple M2 MacBook Air - Tears of Joy or Frustration? A Deep Dive
-date: 2025-01-27T17:03:48.887Z
-updated: 2025-02-01T18:54:26.083Z
+date: 2025-01-28T07:52:58.206Z
+updated: 2025-02-03T06:42:03.607Z
 tags:
   - laptops
 categories:
@@ -22,13 +22,13 @@ Cliff Joseph/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 How often can a gadget make you confront your own weaknesses, especially the lies you tell yourself?
 
@@ -57,7 +57,7 @@ But the M2 MacBook Air seemed to represent a departure from the old Air design. 
 There were two things I kept staring at: the midnight color and the new, non-tapered shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -75,12 +75,16 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -106,7 +110,7 @@ Some (like ZDNET's [review of the M2 MacBook Air](https://www.zdnet.com/article/
 I've also noticed that MagSafe isn't quite what it used to be. Previously, it had flown out of its socket with minimal force. Now, you have to give it a perceptible tug before it detaches. I can't decide whether this is good or bad. I do like the sturdier feel of the cable, however. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's all ending in tears
@@ -118,10 +122,6 @@ But no tale this positive has a happy ending.
 So, as I write this, I'm staring into space, blaring at myself for being so impulsive.
 
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -169,16 +169,22 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-marvelous-world-of-an-origami-inspired-laptop-sleeve-a-game-changer-for-tech-enthusiasts-zdnet/"><u>Discover the Marvelous World of an Origami-Inspired Laptop Sleeve - A Game Changer for Tech Enthusiasts! | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-recover-from-a-blue-screen-of-death-disaster/"><u>Expert Advice: How to Recover From a Blue Screen of Death Disaster</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/e-genesis-conceptualizing-7-funny-youtube-sessions-for-2024/"><u>Giggle Genesis Conceptualizing 7 Funny YouTube Sessions for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-and-inspiration-the-ultimate-list-of-android-drawing-apps/"><u>In 2024, Mastery & Inspiration The Ultimate List of Android Drawing Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-typing-issues-on-keyboard-no-longer-a-problem/"><u>Resolved: Typing Issues on Keyboard No Longer a Problem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-of-the-bizarre-entertaining-and-premium-priced-thinkpad-x1-fold-by-zdnet/"><u>The Ultimate Review of the Bizarre, Entertaining & Premium-Priced ThinkPad X1 Fold by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-linux-laptop-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Ranking Linux Laptop Picks , Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://games-able.techidaily.com/where-are-steam-screenshots-saved/"><u>Where Are Steam Screenshots Saved?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-reviews-unlocking-the-hidden-gem-of-dual-functionality-offices-ultimate-gadget/"><u>ZDNet Reviews: Unlocking the Hidden Gem of Dual Functionality - Office's Ultimate Gadget !</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rw2-png-movavi/"><u>무료 RW2 PNG 그림을 직접 인터넷으로 변환하는 단계별 지침 – Movavi 이용</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-20-freepaid-luts-for-dji-mini-2air-2smavic-2-for-2024/"><u>[New] 20 Free/Paid LUTS for DJI Mini 2/Air 2S/Mavic 2 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-10-strategies-to-make-money-on-youtube-shorts-easily/"><u>[Updated] 10 Strategies to Make Money on YouTube Shorts Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-faulty-speaker-on-your-pc-windows-107-solutions/"><u>How to Fix a Faulty Speaker on Your PC: Windows 10/7 Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-must-see-upgrades-in-vr-armor/"><u>In 2024, Must-See Upgrades in VR Armor</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-smart-picks-user-friendly-bd-software-for-pc-and-mac/"><u>In 2024, Smart Picks User-Friendly BD Software for PC and Mac</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-arbitration-process-can-be-tailored-to-fit-the-needs-of-the-parties-involved-allowing-for-flexibility-in-scheduling-and-procedural-rules/"><u>The Arbitration Process Can Be Tailored to Fit the Needs of the Parties Involved, Allowing for Flexibility in Scheduling and Procedural Rules.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-electronics/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-technology-breakdown-the-guide-to-high-performance-systems/"><u>Top-Tier Technology Breakdown - The Guide to High-Performance Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-selecting-high-performance-wireless-mice-in-202-cuisine-best-picks-for-productivity-comfort-and-ease/"><u>Ultimate Guide to Selecting High-Performance Wireless Mice in 202 Cuisine - Best Picks for Productivity, Comfort, and Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-latest-raspberry-pi-pico-gadgets/"><u>Ultimate Guide to the Latest Raspberry Pi Pico Gadgets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmatched-screen-quality-in-an-ultra-portable-laptop-at-great-discount-prices-exclusive-review-by-zdnet/"><u>Unmatched Screen Quality in an Ultra-Portable Laptop at Great Discount Prices – Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-hardware-secrets-insights-from-tome-experts/"><u>Unveiling Cutting-Edge Hardware Secrets - Insights From Tom'e Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-hardware-secrets-with-toms-detailed-breakdowns/"><u>Unveiling Hardware Secrets with Tom's Detailed Breakdowns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-additive-fabrication-the-new-flagship-k1c-and-revamped-ender-3-v3-from-creality/"><u>Unveiling the Future of Additive Fabrication: The New Flagship K1C and Revamped Ender 3 V3 From Creality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-fabrication-at-rapid-and-tct-2024-spotlight-on-cutting-edge-printers-materials-and-tech/"><u>Unveiling the Future of Fabrication at Rapid & TCT 2024: Spotlight on Cutting-Edge Printers, Materials & Tech</u></a></li>
 </ul></div>
 

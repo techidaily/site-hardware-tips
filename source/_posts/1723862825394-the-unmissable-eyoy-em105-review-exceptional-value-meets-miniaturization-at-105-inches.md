@@ -1,7 +1,7 @@
 ---
 title: The Unmissable EYOY EM105 Review – Exceptional Value Meets Miniaturization at 10.5 Inches!
-date: 2024-08-19T02:43:07.883Z
-updated: 2024-08-20T02:43:07.883Z
+date: 2025-01-28T19:37:52.418Z
+updated: 2025-02-02T20:27:51.755Z
 tags:
   - monitor
 categories:
@@ -65,6 +65,10 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
  My first impression is that the G34WQi is focused on image quality and performance; in those respects, it delivers well beyond its modest price.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Assembly and Accessories
 
  You might need a store employee to help you locate the G34WQi in a pile of monitor boxes because its carton has little printed on it to identify the contents. The three main parts are packed in crumbly foam and will require the services of a Philips-head screwdriver. A tiny one is included. The base is a simple metal plate with holes drilled in it. Find the two bolts in a small ziplock bag and attach it to the upright. Then, the panel snaps on. There is a 75mm VESA mount for aftermarket arms, but you’ll need to source your own fasteners. The power supply is external, but it’s a large wall wart rather than the usual brick. The lone bundled cable is DisplayPort.
@@ -75,30 +79,22 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  (Image credit: Xiaomi)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Xiaomi)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  (Image credit: Xiaomi)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The G34WQi’s styling is back to basics with no frills like molded-in features or colored trim. The front bezel is flush and thin around the top and sides, and it has a 3H hardness anti-glare layer. It keeps light reflections at bay while enabling a sharp and grain-free image. The bottom trim has the Xiaomi logo in the middle, and you’ll find a larger version in the back made from glossy letters that contrast against a matte finish. An LED ring encircles the attachment point, which can show different color and effects that are programmed in the OSD. The joystick controller is also backlit, which accesses all monitor functions.
@@ -107,9 +103,6 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
  The inputs are hidden under a removable panel, including two DisplayPort and two HDMI. The HDMIs max out at 100 Hz, so you’ll need DisplayPort to run at 180 Hz. You also get a 3.5mm headphone jack. There are no internal speakers or USB ports.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## OSD Features
 
  The G34WQi’s OSD pops up when you click the joystick to the right. Moving it left summons the input selector while up and down adjust the brightness.
@@ -122,13 +115,9 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
- (Image credit: Tom's Hardware)
-
-![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
-![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -141,6 +130,22 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
  (Image credit: Tom's Hardware)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -152,9 +157,6 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
  The G34WQi includes a nice graphical menu for PIP and PBP options. You can view two video sources at once in split screen or window layouts. In the System menu are the LED lighting options, called Backstrip lighting. You can change the color, choose from breathing, static or rainbow effects, and match the color to onscreen content. Also here is the refresh rate indicator. There are no aiming points or sniper modes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Xiaomi G34WQi Calibration Settings
 
  The G34WQi does not need calibration in the default Standard picture mode with Game Mode turned off. If you want to tweak, there are five gamma presets that measure as marked. And there’s a custom color temp with RGB sliders. They are fairly coarse in operation, but I managed a small improvement in color accuracy with a few minor changes. The full native gamut is in play for SDR and HDR content. It covers just over 91% of DCI-P3\. If you want sRGB, choose that option from the Color space field in the Picture Mode menu. Below are my recommended SDR settings. HDR signals gray out all picture controls. You can switch automatically by setting HDR to Auto. Here’s an important tip: raise the brightness to maximum before switching to HDR. Otherwise, the G34WQi will remain at the same light output level, and you won’t be able to adjust it once the HDR signal is active. More on this later.
@@ -173,8 +175,9 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 | Color Temp Custom   | Red 48, Green 49, Blue 50 |
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Gaming and Hands-on
 
  Gaming on the G34WQi was a generally satisfying experience, but there were a few things that I wished were better. On the upside, the control response is quick with no perceptible input lag. I could aim and move precisely and dispatching enemies in_Doom Eternal_ was no problem. The HDR and SDR pictures were colorful and bright. The G34WQi has excellent contrast thanks to its VA panel, and the color is vivid with a natural and saturated look.
@@ -203,8 +206,6 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +213,23 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-iphone-7-screen-save-made-simple/"><u>[New] 2024 Approved IPhone 7 Screen Save Made Simple</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-youtube-video-text-overlay-techniques/"><u>[Updated] 2024 Approved Mastering YouTube Video Text Overlay Techniques</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/10-guia-completa/"><u>10 - Guía Completa</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/a-step-by-step-process-for-twitch-streamers/"><u>A Step-by-Step Process for Twitch Streamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-electronics-with-toms-hardware-insights/"><u>Exploring Electronics with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-electronics-top-notch-reviews-by-toms-hardware-experts/"><u>Exploring Electronics: Top-Notch Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-concepts-to-creations-a-comprehensive-guide-on-producing-lithophane-art-with-3d-printing/"><u>From Concepts to Creations: A Comprehensive Guide on Producing Lithophane Art with 3D Printing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-c55-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco C55</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leveraging-jump-cuts-to-improve-video-flow/"><u>In 2024, Leveraging Jump Cuts to Improve Video Flow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-attempting-to-print-a-gun-at-home-using-3d-technology/"><u>Inside Look: Attempting to Print a Gun at Home Using 3D Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-guide-to-computer-peripherals/"><u>Mastering Gadgets with Tom's Guide to Computer Peripherals</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/maximize-learning-free-tools-for-online-video-texts/"><u>Maximize Learning Free Tools for Online Video Texts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-economic-high-quality-mechanical-keyboards/"><u>Most Economic High-Quality Mechanical Keyboards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-labyrinth-tips-from-toms-computer-analysis/"><u>Navigating the Tech Labyrinth: Tips From Tom's Computer Analysis</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssional-level-youtube-editing-techniques-you-need-to-know/"><u>Professional-Level Youtube Editing Techniques You Need To Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/wolcen-launch-issues-an-in-depth-look-at-why-gamers-are-waiting-longer-than-expected/"><u>Wolcen Launch Issues – An In-Depth Look at Why Gamers Are Waiting Longer Than Expected</u></a></li>
+</ul></div>
 

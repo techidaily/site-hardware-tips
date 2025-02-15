@@ -1,7 +1,7 @@
 ---
 title: Secure Your Exclusive $8 iPhone Shoot-Out Gear on Sale - Final Deals of Cyber Monday Event | ZDNET.
-date: 2025-01-25T17:43:14.471Z
-updated: 2025-02-01T16:55:30.180Z
+date: 2025-01-28T22:24:50.552Z
+updated: 2025-02-02T20:47:29.980Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,17 +81,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-expertly-archive-your-favorite-streamed-shows-hulu/"><u>[New] 2024 Approved How To Expertly Archive Your Favorite Streamed Shows (Hulu)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-crafting-captivating-cinematic-experiences-in-youtube-videos/"><u>[Updated] Crafting Captivating Cinematic Experiences in YouTube Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-access-the-ultimate-prime-day-sale-at-best-buy-get-your-essentials-in-october-2024/"><u>Exclusive Access: The Ultimate Prime Day Sale at Best Buy - Get Your Essentials in October 2024!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y55s-5g-2023-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo Y55s 5G (2023) Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-it-possible-to-port-your-pre-owned-windows-enhancement-key-to-a-newer-system-insights-and-guidance/"><u>Is It Possible to Port Your Pre-Owned Windows Enhancement Key to a Newer System? Insights and Guidance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-free-and-open-source-dns-services-you-can-use/"><u>Top Free & Open Source DNS Services You Can Use</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-non-functional-microsoft-print-to-pdf-on-latest-windows-versions/"><u>Troubleshooting Guide for Non-Functional Microsoft Print to PDF on Latest Windows Versions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-simplified-non-windows-living-a-look-at-the-budget-friendly-hp-chromebook-with-a-136-discounted-price/"><u>Unveiling Simplified Non-Windows Living: A Look at the Budget-Friendly HP Chromebook with a 136% Discounted Price</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-to-a-powerhouse-the-best-299-windows-laptop-for-smart-savers/"><u>Upgrade to a Powerhouse: The Best $299 Windows Laptop for Smart Savers</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-do-if-your-roku-tv-wont-start-comprehensive-troubleshooting-tips/"><u>What to Do If Your Roku TV Won't Start – Comprehensive Troubleshooting Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/what-you-should-look-forward-to-at-the-apple-event-this-october-the-launch-of-m4-mac-mini-advanced-ipads-and-latest-updates-on-siri-and-more/"><u>What You Should Look Forward to at the Apple Event This October: The Launch of M4 Mac Mini, Advanced iPads, and Latest Updates on Siri & More</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-money-matters-finns-financial-framework/"><u>[Updated] 2024 Approved Money Matters Finn's Financial Framework</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-advanced-strategies-for-enhancing-footage-with-gopro-studio-for-2024/"><u>[Updated] Advanced Strategies for Enhancing Footage with GoPro Studio for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-selections-for-computer-speakers-finding-your-perfect-audio-balance-between-cost-effectiveness-and-luxury-performance/"><u>2024'S Top Selections for Computer Speakers: Finding Your Perfect Audio Balance Between Cost-Effectiveness & Luxury Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-star-chatgpt-plugin-selections-you-should-try-without-delay/"><u>5-Star ChatGPT Plugin Selections You Should Try Without Delay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/analyzing-the-valkyrie-vind-sl125-when-anime-style-clashes-with-disappointing-functionality/"><u>Analyzing the Valkyrie Vind SL125: When Anime Style Clashes with Disappointing Functionality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-youtube-and-dailymotion-notable-contrasts/"><u>Comparing YouTube and Dailymotion Notable Contrasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-digital-gear-with-toms-hardware-analysis/"><u>Dive Into Digital Gear with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/engineering-serenity-streamlining-the-noisy-mess-of-a-nzxt-kraken-with-elegant-python-software-solutions/"><u>Engineering Serenity: Streamlining the Noisy Mess of a NZXT Kraken with Elegant Python Software Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-6-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 6</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctuas-leap-into-advanced-cooling-first-look-at-their-new-prototype-for-a-sustainable-pumpless-aio-liquid-cooler-through-evaporative-innovation/"><u>Noctua's Leap Into Advanced Cooling: First Look at Their New Prototype for a Sustainable, Pumpless AIO Liquid Cooler Through Evaporative Innovation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211181674-9798889840657-psychedelics-and-the-soul/"><u>Psychedelics and the Soul | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/studio-worth-your-money-check-out-the-tascam-cd-200bt-professional-bluetooth-player/"><u>Studio Worth Your Money? Check Out the Tascam CD-200BT Professional Bluetooth Player</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-parental-control-software-for-mac-and-windows-pcs-by-allavsoft-your-ideal-solution/"><u>Top Parental Control Software for Mac & Windows PCs by Allavsoft – Your Ideal Solution!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-icefloe-iceberg-thermal-units-unveiling-the-silent-strengths-of-budget-friendly-models-240-and-360/"><u>Top-Rated IceFLOE Iceberg Thermal Units: Unveiling the Silent Strengths of Budget-Friendly Models 240 and 360</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-your-gamesplay-fullscreen-mastery-on-pc/"><u>Transforming Your Gamesplay: FullScreen Mastery on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-lava-yuva-3-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Lava Yuva 3 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-picks-expert-guidance-from-toms-gear-testing/"><u>Unveiling Top Hardware Picks: Expert Guidance From Tom's Gear Testing</u></a></li>
 </ul></div>
 

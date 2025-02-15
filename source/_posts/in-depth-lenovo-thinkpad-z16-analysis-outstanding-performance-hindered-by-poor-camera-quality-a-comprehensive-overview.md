@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Lenovo ThinkPad Z16 Analysis: Outstanding Performance Hindered by Poor Camera Quality - A Comprehensive Overview"
-date: 2025-01-31T20:35:35.496Z
-updated: 2025-02-01T16:33:04.394Z
+date: 2025-02-01T18:57:25.607Z
+updated: 2025-02-03T00:45:46.908Z
 tags:
   - laptops
 categories:
@@ -45,7 +45,7 @@ Read on to see if this new ThinkPad from Lenovo should be your next laptop.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -60,10 +60,6 @@ Read on to see if this new ThinkPad from Lenovo should be your next laptop.
 | Ports                 | 2 x USB4 40Gbps, 1 x USB-C 3.2 Gen 2, 1 x combo audio jack (3.5mm), SD Card Reader |
 | Connectivity          | Wi-Fi 6E, Bluetooth 5.2                                                            |
 | Weight and dimensions | 3.99lb \| 354.4 x 237.4 x 15.8 mm (13.95 x 9.35 x 0.62 inches)                     |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Build
 
@@ -100,7 +96,7 @@ Michael Gariffo/ZDNET
 I was initially disappointed by the new trackpad. By default, the haptic feedback it uses to replace mechanical clicks was very weak, almost undetectable near its edges. Thankfully, once I'd raised the haptic feedback level in the laptop's settings, it improved dramatically, and was hard to discern from mechanical clicks. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features and ports
@@ -148,7 +144,7 @@ As mentioned in the video, I've given the webcam the best chance to perform well
 It's still better than most budget-laptops. But, the Z16 is a premium model, and you should expect its camera to rise to that designation. Unfortunately, it didn't. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -203,6 +199,10 @@ If you do need to top up mid-day, the included 135W charger makes quick work of 
 
 [Lenovo ThinkPad Z16 $899 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8NVY2FZ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9d7a11a8-80e2-4a96-95cc-a42fb6ddfa05%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 I opened by noting that the [ThinkPad Z16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21D4001VUS-Notebook-Board%2Fdp%2FB0B8NVY2FZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9d7a11a8-80e2-4a96-95cc-a42fb6ddfa05%7Cdtp&dtb=1) is very much a premium laptop, with the high expectations that designation carries. From the build quality, through the performance, to the battery life, I was consistently impressed. The only negative standout was that pesky webcam. If Lenovo hadn't branded the lid with its specs and created a dedicated "Communications Bar" to house it, I might have shrugged at its mediocre performance. But, if you're going to make something a showpiece of a $2,000ish laptop, it had better be a highlight. It wasn't.
@@ -210,7 +210,7 @@ I opened by noting that the [ThinkPad Z16](https://buy.geni.us/Proxy.ashx?TSID=3
 If you want a do-it-all, desktop replacement notebook that will last just about all day, look no further. There are systems that perform just as well for hundreds of dollars less, but none that offer the same level of wow-inducing build quality or the attention to detail that's made Lenovo's ThinkPad line a favorite of business travelers for 30 years. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -261,19 +261,22 @@ If you want something a bit smaller with the same ultra-premium vibes as Lenovo'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-united-experts-easeus-expert-reviews-for-2024/"><u>[New] United Experts EaseUS Expert Reviews for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bigger-photos-uncompromised-clarity/"><u>2024 Approved Bigger Photos, Uncompromised Clarity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-zte-blade-a73-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone ZTE Blade A73 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-chrome-sketching-apps-for-every-aspiring-artist/"><u>Essential Chrome Sketching Apps for Every Aspiring Artist</u></a></li>
-<li><a href="https://techtrends.techidaily.com/harnessing-the-power-of-digital-cognition-for-corporate-evolution-perspectives-by-abbyy-thought-leaders/"><u>Harnessing the Power of Digital Cognition for Corporate Evolution - Perspectives by ABBYY Thought Leaders</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instant-relief-from-frequent-applet-freezes-and-crashes/"><u>Instant Relief From Frequent Applet Freezes and Crashes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-copilotplus-pc-shines-as-a-top-contender-for-best-value-on-the-windows-platform-inside-look/"><u>Samsung Copilot+ PC Shines as a Top Contender for Best Value on the Windows Platform – Inside Look</u></a></li>
-<li><a href="https://win-info.techidaily.com/secure-code-practices-integrating-compliance-checks-into-fintech-applications/"><u>Secure Code Practices: Integrating Compliance Checks Into Fintech Applications</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-essential-guide-to-15-top-instagram-downloader-apps-for-2024/"><u>The Essential Guide to 15 Top Instagram Downloader Apps for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-workhorse-laptop-unveiled-surpasses-thoughtpad-and-macbook-in-tests-insights/"><u>Top-Performing Workhorse Laptop Unveiled, Surpasses Thoughtpad & Macbook in Tests - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-streaming-microphones-featured-on-zdnet/"><u>Top-Ranked Streaming Microphones - Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-workspaces-one-week-on-a-split-ergonomic-keyboard-and-its-impact-zdnet-explored/"><u>Transforming Workspaces: One Week on a Split Ergonomic Keyboard & Its Impact - ZDNet Explored</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-fall-tech-guide-exclusive-prime-day-like-savings-on-laptops-for-october-2024-zdnet-insights/"><u>Ultimate Fall Tech Guide: Exclusive Prime Day-Like Savings on Laptops for October 2024 | ZDNet Insights.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unparalleled-performance-discovering-top-notch-ultraportable-devices-ideal-for-telecommuters-a-comprehensive-review/"><u>Unparalleled Performance: Discovering Top-Notch Ultraportable Devices Ideal for Telecommuters - A Comprehensive Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-simplest-scan-capture-app-on-windows-10-for-2024/"><u>[Updated] Simplest Scan-Capture App on Windows 10 for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-discovering-tiktoks-most-shared-meals/"><u>2024 Approved Discovering TikTok's Most Shared Meals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-for-experts-only-top-5-best-drones-to-buy/"><u>2024 Approved For Experts Only – Top 5 Best Drones to Buy</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-smart-and-reliable-signal-a-comprehensive-review-of-the-mohu-leaf-30-antenna/"><u>Budget Smart & Reliable Signal: A Comprehensive Review of the Mohu Leaf 30 Antenna</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-cuts-in-streams-nine-windows-methods-for-smooth-video-playback/"><u>Clear Cuts in Streams: Nine Windows Methods for Smooth Video Playback</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-highest-ranked-eleegoo-neptune-4-pro-3d-printer-for-a-steal-at-240-from-newegg/"><u>Get Your Hands on the Highest-Ranked Eleegoo Neptune 4 Pro 3D Printer for a Steal at $240 From Newegg!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gms-en-wav-met-ondiepe-versterker-veerkomt-gratuis-online-bij-movavi/"><u>GMS en WAV Met Ondiepe Versterker: Veerkomt Gratuïs Online Bij Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/heavy-duty-moora-iv-600-ultimate-pc-cooling-with-massive-radiator-and-nine-powerful-200mm-fans-around-600/"><u>Heavy-Duty MoorA IV 600: Ultimate PC Cooling with Massive Radiator and Nine Powerful 200Mm Fans - Around $600</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-achieve-flawless-surfaces-on-3d-prints-by-eliminating-pillowing-concerns/"><u>How To Achieve Flawless Surfaces on 3D Prints by Eliminating Pillowing Concerns</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-find-n3-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo Find N3 and Browser | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-tech-reviews-and-tips-straight-from-toms-hardware-hub/"><u>In-Depth Tech Reviews and Tips Straight From Tom's Hardware Hub</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/infiltrating-hidden-user-communications-on-yt-platforms-for-2024/"><u>Infiltrating Hidden User Communications on YT Platforms for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-electronics-and-pc-building-tips-from-toms-hardware/"><u>Innovative Electronics and PC Building Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-pick-for-solid-state-and-hdd-protective-casings-online/"><u>Leading Pick for Solid State and HDD Protective Casings Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterclass-crafting-an-optimized-gaming-pc-that-doubles-as-a-prolific-chia-miner/"><u>Masterclass: Crafting an Optimized Gaming PC That Doubles as a Prolific Chia Miner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-insights-from-toms-hardware-review-channel/"><u>Mastering PC Building - Insights From Tom's Hardware Review Channel</u></a></li>
 </ul></div>
 

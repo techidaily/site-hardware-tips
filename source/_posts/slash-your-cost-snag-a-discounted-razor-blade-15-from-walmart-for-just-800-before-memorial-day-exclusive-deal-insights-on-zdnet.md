@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights on ZDNet"
-date: 2025-01-28T17:56:26.413Z
-updated: 2025-02-01T19:18:29.197Z
+date: 2025-01-30T23:08:06.147Z
+updated: 2025-02-02T19:41:28.064Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-creative-splitscreens-in-youtube-filmmaking/"><u>[Updated] Mastering Creative Splitscreens in YouTube Filmmaking</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-quintessential-guide-to-powerful-quadcopter-engines/"><u>[Updated] The Quintessential Guide to Powerful Quadcopter Engines</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-creativity-a-comprehensive-guide-to-instagrams-gif-features/"><u>[Updated] Unleash Creativity A Comprehensive Guide to Instagram's GIF Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-new-laptop-revives-forgotten-tech-trend-the-latest-comeback-story/"><u>Affordable New Laptop Revives Forgotten Tech Trend - The Latest Comeback Story!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/behind-the-scenes-the-making-of-an-iconic-tech-spectacle-new-iphone-launch/"><u>Behind the Scenes: The Making of an Iconic Tech Spectacle - New iPhone Launch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/college-students-guide-to-the-perfectly-priced-299-laptop-expert-advice-by-zdnet/"><u>College Student's Guide to the Perfectly Priced $299 Laptop | Expert Advice by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-whats-new-with-the-latest-upgrade-of-lenovo-thinkpad-x1-a-breakdown/"><u>Discover What's New with the Latest Upgrade of Lenovo ThinkPad X1: A Breakdown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dissecting-the-disappointment-how-the-asus-expertbook-b3-falls-short-of-its-claims-tech-analysis-on-zdnet/"><u>Dissecting the Disappointment: How the ASUS ExpertBook B3 Falls Short of Its Claims | Tech Analysis on ZDNet</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/dual-angles-debate-vertical-vs-horizontal-fb-videos/"><u>Dual Angles Debate Vertical vs Horizontal FB Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-ai-projects-unveiling-the-power-of-vector-databases/"><u>Enhance Your AI Projects: Unveiling the Power of Vector Databases</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-virtual-reality-like-never-before-discover-why-metas-quest-3-with-512gb-is-a-top-picks-for-savvy-shoppers-techsavvy/"><u>Experience Virtual Reality Like Never Before: Discover Why Meta's Quest 3 with 512GB Is a Top Picks for Savvy Shoppers | TechSavvy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hot-deal-alert-get-your-hands-on-an-msi-gaming-monitor-at-a-steep-300-cutdown-price-spotted-by-zdnet/"><u>Hot Deal Alert! Get Your Hands on an MSI Gaming Monitor at a Steep $300 Cutdown Price, Spotted by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-college-laptop-selection-4-essential-aspects-and-our-top-10-recommendations-insights/"><u>Mastering College Laptop Selection: 4 Essential Aspects and Our Top 10 Recommendations | Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-steam-unsynced-files-issue/"><u>Overcoming Steam Unsynced Files Issue</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-poco-m6-pro-4g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Poco M6 Pro 4G Black and White | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-top-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Top Social Media Sites - Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-lenovo-laptops-under-800-tailored-for-efficient-hybrid-working-read-my-review/"><u>Top Lenovo Laptops Under $800 Tailored for Efficient Hybrid Working - Read My Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-quick-and-easy-fb-video-access-choose-from-these-5-chromium-tools/"><u>[New] In 2024, Quick and Easy FB Video Access Choose From These 5 Chromium Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-enhance-viewing-experience-on-insta-by-modifying-frame-rate/"><u>2024 Approved Enhance Viewing Experience on Insta by Modifying Frame Rate</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/balancing-act-ai-advancements-vs-mental-health-risks/"><u>Balancing Act: AI Advancements vs Mental Health Risks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-creality-cr-10s-exceptional-performance-meets-an-inconvenient-fit/"><u>Comprehensive Analysis of Creality CR-10S: Exceptional Performance Meets an Inconvenient Fit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-anywhere-watch-anyplace-setting-up-remote-playback-on-your-samsung-smart-television/"><u>Connect Anywhere, Watch Anyplace: Setting Up Remote Playback on Your Samsung Smart Television</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creativity-unleashed-discover-the-power-of-crealitys-new-k1c-and-upgraded-ender-3-pro-version/"><u>Creativity Unleashed: Discover the Power of Creality’s New K1C and Upgraded Ender 3 Pro Version</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-digital-tools-trustworthy-insights-on-hardware-from-toms-perspective/"><u>Decoding Digital Tools: Trustworthy Insights on Hardware From Tom's Perspective</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-system-performance-with-easy-guide-to-update-windows-compatible-usb-sound-drivers/"><u>Enhance System Performance with Easy Guide to Update Windows-Compatible USB Sound Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-10-free-dvd-maker-tools-evaluated-and-compared-for-you/"><u>Leading 10 Free DVD Maker Tools Evaluated and Compared for You</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-tech-advice/"><u>Mastering Gadgets with Tom's Tech Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-steam-content-troubleshooting/"><u>Mastering Steam Content Troubleshooting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-build-insights-from-toms-hardware-authority/"><u>Mastering Your Build - Insights From Tom's Hardware Authority</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mpeg-to-mp4-mov-and-mp3-transcoding-made-easy-with-top-mac-mpeg-converter/"><u>MPEG to MP4, MOV & MP3 Transcoding Made Easy with Top Mac MPEG Converter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-landscapes-with-tomebrarys-hardware-focus/"><u>Navigating Tech Landscapes with Tom'ebrary’s Hardware Focus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-tips-from-toms-hardware-hub/"><u>Navigating Technology: Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-small-form-factor-pcs-with-noctuas-new-low-profile-cooler-the-nh-l12sx77-features-improved-ram-space-and-vrm-heat-dissipation/"><u>Revolutionizing Small Form Factor PCs with Noctua's New Low-Profile Cooler - The NH-L12Sx77 Features Improved RAM Space and VRM Heat Dissipation</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/schnell-aktiviert-ihr-langsames-ipad-entdecken-sie-8-wirksame-losungen-plus-2-geheime-tricks/"><u>Schnell Aktiviert Ihr Langsames iPad: Entdecken Sie 8 Wirksame Lösungen Plus 2 Geheime Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-sports-cooling-revealed-by-frore-a-solid-state-fanless-active-system-that-thrives-underwater/"><u>The Future of Sports Cooling Revealed by Frore - A Solid-State, Fanless Active System That Thrives Underwater</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-no-nonsense-guide-to-lively-tiktok-live-visits/"><u>The No-Nonsense Guide to Lively TikTok Live Visits</u></a></li>
 </ul></div>
 

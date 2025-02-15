@@ -1,7 +1,7 @@
 ---
 title: "Massive Discount on Cyber Monday: Get the Ultra-Thin and Sleek LG Gram 17 for a Steal - Save $400 Now at ZDNet's Exclusive Deals!"
-date: 2025-01-27T17:07:05.203Z
-updated: 2025-02-01T20:19:24.873Z
+date: 2025-01-29T19:48:02.883Z
+updated: 2025-02-03T04:17:24.559Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,22 +128,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-enhance-brand-recognition-inserting-watermarklogo-in-youtube-videos/"><u>[New] 2024 Approved Enhance Brand Recognition Inserting Watermark/Logo in Youtube Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-gamers-guides-essential-tips-for-recording-riveting-races/"><u>[New] Gamers' Guides Essential Tips for Recording Riveting Races</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-crafting-compelling-freefire-vids-with-strategy-guide/"><u>[Updated] Crafting Compelling FreeFire Vids with Strategy Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-streamline-learning-processes-with-detailed-chaptering-for-educational-youtube-videos/"><u>[Updated] Streamline Learning Processes with Detailed Chaptering for Educational YouTube Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/an-intro-to-digital-realms-vr-simplified/"><u>An Intro to Digital Realms VR Simplified</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-bargains-for-ultrabooks-and-notebooks-during-octobers-mega-sales-events-insider-tips/"><u>Best Bargains for Ultrabooks & Notebooks During October's Mega Sales Events - Insider Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gem-a-revolutionary-12-port-thunderbolt-dock-designed-to-empower-windows-pcs/"><u>Discover the Hidden Gem: A Revolutionary 12-Port Thunderbolt Dock Designed to Empower Windows PCs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-compelling-best-buy-discounts-in-june-2024-insider-tips/"><u>Discover the Most Compelling Best Buy Discounts in June 2024 - Insider Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-money-saving-offers-before-prime-day-2024-insights-from-zdnet/"><u>Essential Money-Saving Offers Before Prime Day 2024: Insights From ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guia-paso-a-paso-para-cargar-un-dvd-en-google-drive-solucion-completa/"><u>Guía Paso a Paso Para Cargar Un DVD en Google Drive: Solución Completa</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-grab-the-hottest-laptop-offers-before-prime-day-in-oct-24-insider-secrets-from-zdnet/"><u>How to Grab the Hottest Laptop Offers Before Prime Day in Oct '24 - Insider Secrets From ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-mix-fold-3-by-drfone-android-unlock-android-unlock/"><u>How to unlock Mix Fold 3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-clearing-drives-in-winos/"><u>Mastering the Art of Clearing Drives in WinOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-durable-notebooks-of-2024-expert-picks-revealed-by-zdnet/"><u>Top Durable Notebooks of 2024: Expert Picks Revealed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-lenovo-notebooks-for-efficiently-managing-remote-and-office-tasks-avail-our-suggested-model-at-a-whopping-1000-discount-insights/"><u>Top-Rated Lenovo Notebooks for Efficiently Managing Remote and Office Tasks: Avail Our Suggested Model at a Whopping $1,000 Discount - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate Guide to the Best MagSafe Wallets : In-Depth Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-enhanced-features-of-samsungs-latest-copilotplus-desktop-discover-its-advanced-ai-capabilities-on-zdnet/"><u>Unveiling the Enhanced Features of Samsung's Latest Copilot+ Desktop - Discover Its Advanced AI Capabilities on ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-utilize-picture-in-picture-mode-efficiently-in-safari/"><u>[New] 2024 Approved Utilize Picture In Picture Mode Efficiently in Safari</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unleashing-potential-the-instagram-success-story-guide/"><u>[New] In 2024, Unleashing Potential - The Instagram Success Story Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-precision-review-of-the-dji-inspire-2-drone/"><u>[Updated] Precision Review of the DJI Inspire 2 Drone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-prospective-cameras-to-document-2024s-music-industry-evolution/"><u>[Updated] Prospective Cameras to Document 2024'S Music Industry Evolution</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728470633693-windows-10/"><u>如何在 Windows 10 中進行電源管理資料夾鏡像產生指南</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-collaboration-intel-and-exxonmobil-develop-next-gen-liquid-cooling-tech-for-high-performance-2kw-tdp-xeon-cpus/"><u>Cutting-Edge Collaboration: Intel & ExxonMobil Develop Next-Gen Liquid Cooling Tech for High-Performance 2kW TDP Xeon CPUs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delve-into-hardware-excellence-with-toms-tech-mastery-series/"><u>Delve Into Hardware Excellence with Tom's Tech Mastery Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-tech-discovering-toms-hardware/"><u>Exploring the Latest in Tech: Discovering Tom's Hardware</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y100i-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y100i Devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mid-august-release-scheduled-intel-to-resolve-crashing-woes-by-addressing-elevated-core-voltages/"><u>Mid-August Release Scheduled: Intel to Resolve Crashing Woes by Addressing Elevated Core Voltages</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-xcover-7-wont-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung Galaxy XCover 7 won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-review-realm-pioneering-insights-on-gadgets-and-systems/"><u>Tom's Review Realm: Pioneering Insights on Gadgets and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-in-computing-innovation-featured-by-toms-hardware-specialists/"><u>Top Picks in Computing Innovation Featured by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unbeatable-apple-watch-discounts-limited-time-only/"><u>Unbeatable Apple Watch Discounts - Limited Time Only</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125172865-unveiling-the-future-of-3d-printing-at-rapid-plus-tct-2024-discover-new-tech-filaments-and-more/"><u>Unveiling the Future of 3D Printing at Rapid + TCT 2024 – Discover New Tech, Filaments & More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-from-toms-computer-review/"><u>Unveiling the Latest From Tom's Computer Review</u></a></li>
 </ul></div>
 

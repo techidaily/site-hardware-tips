@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Reliable: Why the $299 Laptop Is Perfect for Academic Use, According to ZDNET"
-date: 2025-01-31T19:20:35.670Z
-updated: 2025-02-01T17:18:48.398Z
+date: 2025-02-01T19:18:49.251Z
+updated: 2025-02-02T17:33:26.571Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,24 +77,18 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-become-a-visionary-creator-optimal-camera-lens-selection-for-2024/"><u>[New] Become a Visionary Creator Optimal Camera Lens Selection for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outube-to-avi-tutorial-plus-8-best-youtube-to-avi-converters/"><u>[New] YouTube to AVI Tutorial + 8 Best YouTube to AVI Converters</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-building-relationships-one-post-at-a-time-on-fb/"><u>[Updated] 2024 Approved Building Relationships One Post at a Time on FB</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-the-minefield-suddenly-banned-videos-on-social-media/"><u>[Updated] Navigating the Minefield Suddenly Banned Videos on Social Media</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-auditory-logging-system-tones-and-voice-samples/"><u>2024 Approved Auditory Logging System Tones & Voice Samples</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-value-meta-quest-3-snap-up-the-unbeatable-512gb-offer-during-halloween-prime-day-specials-guide/"><u>Best Value Meta Quest 3: Snap Up the Unbeatable 512GB Offer During Halloween Prime Day Specials Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-value-the-compact-power-of-an-incredible-8-in-1-usb-adapter-revealed-on-zdnet/"><u>Beyond Value: The Compact Power of an Incredible 8-in-1 USB Adapter Revealed on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comparing-the-ultimate-gaming-laptop-picks-of-2024-acer-alienware-and-beyond-on-zdnet/"><u>Comparing the Ultimate Gaming Laptop Picks of 2024 - Acer, Alienware & Beyond on ZDNET</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/comprehensive-strategies-for-desktop-tiktok-streams/"><u>Comprehensive Strategies for Desktop TikTok Streams</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/last-call-top-saving-opportunities-on-gaming-products-for-best-october-prime-day-2eve-up-to-1k-off/"><u>Last Call: Top Saving Opportunities on Gaming Products for Best October Prime Day 2Eve - Up to $1K Off!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lg-gram-pro-17-impressions-a-fan-review-and-ongoing-deals-during-octobers-amazon-prime-day-event/"><u>LG Gram Pro 17 Impressions - A Fan Review & Ongoing Deals During October's Amazon Prime Day Event</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-air-available-at-an-unbeatable-price-just-280-the-latest-deal-on-zdnet/"><u>MacBook Air Available at an Unbeatable Price: Just $280 - The Latest Deal on ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/octobers-prime-deals-extravaganza-grab-your-favorite-games-for-huge-markdowns-of-1000plus/"><u>October's Prime Deals Extravaganza: Grab Your Favorite Games for Huge Markdowns of $1,000+</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-comparison-showdown-in-depth-analysis-of-samsung-galaxy-s22s22plus-vs-iphone-13-unveiling-specs-performance-and-more/"><u>Tech Comparison Showdown: In-Depth Analysis of Samsung Galaxy S22/S22+ Vs. IPhone 13 - Unveiling Specs, Performance & More!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-110-unmissable-christmas-bargains-on-tech-and-entertainment-gear-including-smartphones-televisions-computers-zdnet/"><u>Top 110 Unmissable Christmas Bargains on Tech & Entertainment Gear – Including Smartphones, Televisions, Computers | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-simple-tips-to-boost-your-facebook-productivity/"><u>Top 5 Simple Tips to Boost Your Facebook Productivity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-your-digital-quest-evaluating-lenovo-ideapads-performance-in-revolutionizing-cloud-gaming-without-compromising-hardware-expert-insights/"><u>Unleash Your Digital Quest: Evaluating Lenovo IdeaPad's Performance in Revolutionizing Cloud Gaming Without Compromising Hardware | Expert Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/webm-perevod-v-mp4-effektivnye-metody-konvertacii-dlya-videofajlov/"><u>WebM Перевод В MP4: Эффективные Методы Конвертации Для Видеофайлов</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-easy-steps-for-logging-vimeo-media/"><u>[New] In 2024, Easy Steps for Logging Vimeo Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/deciphering-the-variance-between-metaverse-and-multi-meva-environments/"><u>Deciphering the Variance Between Metaverse and Multi-Meva Environments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-hardware-with-toms-precision-and-detailing/"><u>Exploring Computer Hardware with Tom's Precision and Detailing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-experts/"><u>Exploring High-Performance Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-kitchen-to-lab-transforming-your-cooler-gear-for-homemade-ln2-production/"><u>From Kitchen to Lab: Transforming Your Cooler Gear for Homemade LN2 Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-perfect-finishes-preventing-defects-in-three-dimensional-printing-processes/"><u>Guide to Perfect Finishes: Preventing Defects in Three-Dimensional Printing Processes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/heavy-haulers-face-off-t5-or-sjcam-s6-legend-in-2024/"><u>Heavy Haulers Face-Off T5 or SJCAM S6 Legend, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impressive-performance-ek-solutions-all-in-one-cpu-cooler-lowers-core-i7-13900ks-heat-by-up-to-20c/"><u>Impressive Performance: EK Solution's All-in-One CPU Cooler Lowers Core I7 13900KS Heat by Up to 20°C</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-conveniently-connect-friends-across-os-platforms-using-skype-chats/"><u>In 2024, Conveniently Connect Friends Across OS Platforms Using Skype Chats</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovations-in-computer-tech-revealed-by-tomn-hardware-experts/"><u>Innovations in Computer Tech Revealed by Tom'n Hardware Experts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-natures-longest-nomenclature/"><u>Unveiling Nature’s Longest Nomenclature</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-video-effects-handbook-tips-and-tricks/"><u>Updated The Ultimate Video Effects Handbook Tips and Tricks</u></a></li>
 </ul></div>
 

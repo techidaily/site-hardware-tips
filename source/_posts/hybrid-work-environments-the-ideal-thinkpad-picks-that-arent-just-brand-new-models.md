@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models
-date: 2025-01-28T20:08:04.286Z
-updated: 2025-02-01T19:33:49.610Z
+date: 2025-02-01T19:04:01.531Z
+updated: 2025-02-03T05:40:56.167Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,24 +112,21 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-how-to-create-podcast-rss-feeds/"><u>[New] How To Create Podcast RSS Feeds</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-detailed-analysis-vlc-for-video-capture/"><u>[New] In 2024, Detailed Analysis VLC for Video Capture</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-survival-housing-in-minecraft-6-10-guide/"><u>[New] Survival Housing in Minecraft #6-10 Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-masterclass-creating-alluring-vlogging-storylines/"><u>2024 Approved Masterclass Creating Alluring Vlogging Storylines</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-90-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor 90 by Name | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-buys-and-bargains-pre-prime-day-2024-top-savings-sources-highlighted-by-zdnet/"><u>Best Buys & Bargains Pre-Prime Day 2024: Top Savings Sources Highlighted by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-the-lenovo-yoga-book-t-revolutionize-dual-display-computers-with-its-latest-release-zdnet/"><u>Can the Lenovo Yoga Book T Revolutionize Dual-Display Computers with Its Latest Release? | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-to-picking-the-ideal-apple-laptop/"><u>Choosing Between MacBook Pro & MacBook Air: A Comprehensive Guide to Picking the Ideal Apple Laptop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discount-alert-score-30-less-on-the-portable-energy-source-anker-737-power-unit-tech-bargains-roundup/"><u>Discount Alert! Score $30 Less on the Portable Energy Source Anker 737 Power Unit | Tech Bargains Roundup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-octobers-mega-gaming-deals-for-the-2024-prime-day-last-call-to-save-big-with-up-to-1000-off/"><u>Don't Miss Out on October's Mega Gaming Deals for the 2024 Prime Day – Last Call to Save Big with Up to $1,000 Off!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-alert-slash-your-gaming-rig-cost-by-350-with-the-alienware-aurora-r13-score-a-steal-at-zdnet/"><u>Exclusive Offer Alert: Slash Your Gaming Rig Cost by $350 with the Alienware Aurora R13 - Score a Steal at ZDNet!</u></a></li>
-<li><a href="https://discover-best.techidaily.com/guide-watching-av1-encoded-movies-with-plex-is-it-compatible/"><u>Guide: Watching AV1 Encoded Movies with Plex - Is It Compatible?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-playwrights-lair/"><u>In 2024, Premier Playwright's Lair</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/my-heart-my-mind-and-the-flesh-of-my-body/"><u>My Heart, My Mind and the Flesh of My Body</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-networking-essentials-mastering-facebook-twitter-instagram-and-youtube-usage/"><u>Social Networking Essentials: Mastering Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nokia-130-music-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nokia 130 Music Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-digital-notepads-in-depth-expert-reviews-and-purchasing-guide-insights/"><u>Top-Rated Digital Notepads: In-Depth Expert Reviews & Purchasing Guide - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-prime-day-deal-top-performing-non-thinkpad-non-macbook-laptop-steals-the-show-with-30-discount/"><u>Unbeatable Prime Day Deal: Top-Performing Non-ThinkPad, Non-MacBook Laptop Steals the Show with 30% Discount!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-androids-technique-for-retroactive-viewing/"><u>[New] Android's Technique for Retroactive Viewing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unraveling-the-magic-of-time-extension-in-reels/"><u>[New] In 2024, Unraveling the Magic of Time Extension in Reels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-achieve-seamless-video-playback-by-removing-bars-in-youtube-for-2024/"><u>[Updated] Achieve Seamless Video Playback by Removing Bars in YouTube for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-bots-with-gpt-3-and-python/"><u>Building Bots with GPT-3 & Python</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-guide-transforming-videos-from-mp4-to-png-format-both-on-screen-and-off/"><u>Easy Guide: Transforming Videos From MP4 to PNG Format Both On-Screen & Off</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gaming-disaster-alert-fire-ants-consume-thermal-components-in-gpu-chaos-stunning-images-inside/"><u>Gaming Disaster Alert! Fire Ants Consume Thermal Components in GPU Chaos - Stunning Images Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-construct-your-own-powerful-pc-setup-for-efficient-chia-farming/"><u>How to Construct Your Own Powerful PC Setup for Efficient Chia Farming</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-lava-yuva-2-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Lava Yuva 2 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-discover-how-to-rule-an-empire-with-the-game-imperator-rome/"><u>In-Depth Review: Discover How to Rule an Empire with the Game Imperator: Rome</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-computer-world-comprehensive-hardware-reviews-and-news/"><u>Inside Tom's Computer World: Comprehensive Hardware Reviews and News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-advanced-computing-with-precision-at-tomhemaline/"><u>Navigate the World of Advanced Computing with Precision at Tom'hemaline</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-guide-to-mute-audio-in-mp4-files-without-distorting-video-quality/"><u>New Guide to Mute Audio in MP4 Files Without Distorting Video Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-affordable-luxury-of-silent-cooling-an-insightful-review-into-scythes-mugen-6-air-conditioner-and-6-black-edition/"><u>The Affordable Luxury of Silent Cooling: An Insightful Review Into Scythe's Mugen #6 Air Conditioner & #6 Black Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub - The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-tech-with-expert-tips-from-toms-hardware/"><u>Unveiling the Latest in Tech with Expert Tips From Tom's Hardware</u></a></li>
 </ul></div>
 

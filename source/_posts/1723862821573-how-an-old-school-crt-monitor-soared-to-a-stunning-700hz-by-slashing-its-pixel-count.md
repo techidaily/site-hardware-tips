@@ -1,7 +1,7 @@
 ---
 title: How an Old School CRT Monitor Soared to a Stunning 700Hz by Slashing Its Pixel Count
-date: 2024-08-19T02:44:05.514Z
-updated: 2024-08-20T02:44:05.514Z
+date: 2025-02-02T06:48:51.879Z
+updated: 2025-02-03T05:46:16.817Z
 tags:
   - monitor
 categories:
@@ -29,6 +29,10 @@ Ultra-high refresh rate LCD and OLED displays are all the rage today, with the[B
   
  Granted, you aren't going to see a CRT on our list of the[best gaming monitors](https://tools.techidaily.com) , and most people in 2024 aren't going to actually enjoy the experience of gaming at a resolution below[80s-era CGA](https://en.wikipedia.org/wiki/Color%5FGraphics%5FAdapter) . But it's interesting to see enthusiasts pushing older, "outdated" tech beyond the limits of the best cutting-edge consumer gaming monitors you can buy today. There's one area where CRTs will never be able to compete with modern LCDs, though, and that's desk space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Ultra-high refresh rate LCD and OLED displays are all the rage today, with the[B
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,24 @@ Ultra-high refresh rate LCD and OLED displays are all the rage today, with the[B
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-rendering-reawakening-amds-radeon/"><u>[New] In 2024, Rendering Reawakening AMD's Radeon</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevating-skype-discussions-through-smart-zoom-practices/"><u>[Updated] 2024 Approved Elevating Skype Discussions Through Smart Zoom Practices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/600-high-capacity-liquid-cooler-with-industrial-strength-mo-ra-iv-s-six-thousand-pound-radiator-nine-top-of-the-line-fans-at-less-than-seven-hundred-dollars14/"><u>$600 High-Capacity Liquid Cooler with Industrial Strength: MO-RA IV S Six Thousand Pound Radiator, Nine Top-of-the-Line Fans at Less than Seven Hundred Dollars</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-approach-utilizing-3d-print-technology-to-craft-multilayered-silicon-circuitry/"><u>Advanced Approach: Utilizing 3D Print Technology to Craft Multilayered Silicon Circuitry</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-overheating-the-deepcool-as5nplus-cpu-air-cooler-deal-for-below-45-on-amazon/"><u>Beat Overheating: The DeepCool AS5nplus CPU Air Cooler Deal for Below $45 on Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-achievement-customized-3d-printer-sets-new-speed-benchmark-with-speed-benchy-model-printed-in-under-two-minutes/"><u>Breakthrough Achievement: Customized 3D Printer Sets New Speed Benchmark with 'Speed Benchy' Model Printed in Under Two Minutes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-builds-discover-teamgroups-latest-addition-the-magnetized-t-force-siren-aio-cpu-cooler-for-hassle-free-pc-tweaking/"><u>Elevate Your Builds: Discover TeamGroup's Latest Addition - The Magnetized T-Force Siren AIO CPU Cooler for Hassle-Free PC Tweaking</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-kooteeck-cooling-pad-for-laptops-a-robust-and-versatile-choice/"><u>Evaluating Kooteeck Cooling Pad for Laptops – A Robust and Versatile Choice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceed-expectations-with-cooler-masters-latest-aio-and-liquid-air-coolers-300wplus-thermal-management/"><u>Exceed Expectations with Cooler Master's Latest AIO and Liquid Air Coolers - 300W+ Thermal Management</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125123567-master-tech-essentials-with-toms-gear-advice-find-the-perfect-components-now/"><u>Master Tech Essentials with Tom’s Gear Advice - Find the Perfect Components Now!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/romer-chargeable-floodlight-assessment-unveiling-the-most-potent-portable-lighting-solution-for-your-adventures/"><u>Romer Chargeable Floodlight Assessment: Unveiling the Most Potent Portable Lighting Solution for Your Adventures</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211262323-9780982718421-sex-and-quantum-physics-volume-1/"><u>Sex and Quantum Physics Volume 1 | Free Book</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-music-copyright-etiquette-on-ig/"><u>The Ultimate Guide to Music Copyright Etiquette on IG</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi Note 12T Pro Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-creativity-making-striking-slideshows-for-fb-friends/"><u>Unveiling Creativity Making Striking SlideShows for FB Friends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-electronics-with-toms-technical-guide/"><u>Unveiling the Latest in Electronics with Tom's Technical Guide</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

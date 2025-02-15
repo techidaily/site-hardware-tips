@@ -1,7 +1,7 @@
 ---
 title: Take Your Game On-The-Go with Dell’s Latest Ultraportable Gaming Laptop – Featured
-date: 2025-01-26T20:17:58.102Z
-updated: 2025-02-01T19:53:18.360Z
+date: 2025-01-31T21:54:30.156Z
+updated: 2025-02-03T07:16:16.788Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,19 +114,22 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevating-photography-through-editing-knowledge/"><u>[New] In 2024, Elevating Photography Through Editing Knowledge</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-streaming-and-recording-showdown-obs-studio-or-bandicam-in-2024/"><u>[Updated] Streaming and Recording Showdown OBS Studio or Bandicam, In 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-macbooks-shadow-a-surprising-tech-marvel-emerges-as-one-of-the-top-performers-tested-by-zdnet/"><u>Beyond MacBook's Shadow: A Surprising Tech Marvel Emerges as One of the Top Performers Tested by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-purchases-at-a-glance-setting-up-and-using-apple-pay-on-your-timepiece/"><u>Effortless Purchases at a Glance: Setting Up and Using Apple Pay on Your Timepiece</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-picks-5-superior-chromebooks-perfect-for-a-productive-work-environment-as-endorsed/"><u>Explore the Ultimate Picks: 5 Superior Chromebooks Perfect for a Productive Work Environment as Endorsed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-setting-up-a-professional-grade-stream-setup/"><u>In 2024, Setting Up a Professional-Grade Stream Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-techniques-for-setting-up-your-wd-ses-external-drive-with-updated-usb-drivers/"><u>Latest Techniques for Setting Up Your WD SES External Drive with Updated USB Drivers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-indoor-brightness-sunlight-strategies-inside/"><u>Mastering Indoor Brightness Sunlight Strategies Inside</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-ai-script-generator-virbo-guide/"><u>New In 2024, AI Script Generator | Virbo Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-into-tomorrow-secure-these-7-devices-for-metaverse-life-for-2024/"><u>Step Into Tomorrow Secure These 7 Devices for Metaverse Life for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-overlooked-gem-of-multi-purpose-gadgets-tested-for-professionals-insight/"><u>The Overlooked Gem of Multi-Purpose Gadgets Tested for Professionals Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-discounted-deals-of-2023-score-spectacular-savings-on-dell-xps-latitude-and-precision-models-techsavvy-bargains/"><u>Top Discounted Deals of 2023: Score Spectacular Savings on Dell XPS, Latitude and Precision Models | TechSavvy Bargains</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-october-2024-blowout-sales-on-laptops-find-your-dream-machine-before-the-rush/"><u>Unbeatable October 2024 Blowout Sales on Laptops: Find Your Dream Machine Before the Rush!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-lenovos-newly-released-thinkbook-at-just-749-stands-tall-as-the-top-pick-for-a-windows-laptop/"><u>Why Lenovo's Newly-Released ThinkBook at Just $749 Stands Tall as the Top Pick for a Windows Laptop</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-creating-simple-videos-top-10-youtube-projects-anyone-can-do/"><u>[Updated] In 2024, Creating Simple Videos Top 10 YouTube Projects Anyone Can Do</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-pinnacle-av-artisans-an-exclusive-list-for-you-for-2024/"><u>[Updated] Pinnacle AV Artisans An Exclusive List for You for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-high-quality-low-speed-video-gear/"><u>[Updated] Top 5 High-Quality Low-Speed Video Gear</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unveiling-burst-function-in-gopro-cameras-for-2024/"><u>[Updated] Unveiling Burst Function in GoPro Cameras for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-innovation-discovering-new-horizons-with-toms-hardware-reviews/"><u>Dive Into Innovation: Discovering New Horizons with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-ins-and-outs-of-hardware-with-tom-a-comprehensive-review-resource/"><u>Exploring the Ins and Outs of Hardware with Tom: A Comprehensive Review Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-gaming-powerhouses-the-finest-computers-to-level-up/"><u>Futureproof Gaming Powerhouses: The Finest Computers to Level Up</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guida-passo-passo-per-personalizzare-le-impostazioni-di-salvataggio/"><u>Guida Passo-Passo per Personalizzare Le Impostazioni Di Salvataggio</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/highest-quality-capture-options-for-2024/"><u>Highest Quality Capture Options for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-persistent-xerox-update-issue-error-code-0x800f020b/"><u>How to Fix the Persistent Xerox Update Issue (Error Code: 0X800F020B)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-modern-electronics-by-tom-your-trusted-source-for-hardware-knowledge/"><u>In-Depth Analysis of Modern Electronics by Tom - Your Trusted Source for Hardware Knowledge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-with-toms-hardware-insights/"><u>Mastering Gadgets and Systems with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-cutting-edge-gear-with-precision-at-toms-hardware-destination/"><u>Navigating Cutting-Edge Gear with Precision at Tom's Hardware Destination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125180330-save-big-with-our-top-pick-the-amazing-eleegoo-neptune-4-pro-now-just-240-at-newegg/"><u>Save Big with Our Top Pick - The Amazing Eleegoo Neptune 4 Pro, Now Just $240 at Newegg</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-on-pc-now-smooth-sailing-after-fixing-freezing-and-crash-bugs/"><u>Starfield on PC Now Smooth Sailing After Fixing Freezing & Crash Bugs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-top-picks-in-computer-and-hardware-technology/"><u>Unveiling Tom's Top Picks in Computer & Hardware Technology</u></a></li>
 </ul></div>
 

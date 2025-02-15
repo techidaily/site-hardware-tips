@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Most Overlooked Gem in Your Asus Laptop: A Hidden Treasure Exposed"
-date: 2025-01-31T17:41:04.219Z
-updated: 2025-02-01T18:57:53.804Z
+date: 2025-01-30T21:50:53.845Z
+updated: 2025-02-02T19:22:02.879Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,20 +106,16 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-quiet-your-feed-stop-instagrams-suggestion-system/"><u>[New] 2024 Approved Quiet Your Feed Stop Instagram's Suggestion System</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screen-recorder-showdown-features-and-prices-compared/"><u>[Updated] 2024 Approved Screen Recorder Showdown Features and Prices Compared</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-guide-seamless-facebook-live-integration-for-web-pages/"><u>[Updated] Guide Seamless Facebook Live Integration for Web Pages</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-subtitling-a-compreenhensive-review-of-key-online-tools/"><u>[Updated] Mastering Video Subtitling A Compreenhensive Review of Key Online Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/5-key-strategies-for-impactful-titles-today/"><u>5 Key Strategies for Impactful Titles Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/charge-all-your-gadgets-on-the-go-with-this-140w-multi-device-companion-lasts-until-next-charge/"><u>Charge All Your Gadgets on the Go with This 140W Multi-Device Companion - Lasts Until Next Charge</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-long-lasting-laptop-of-the-year-featuring-sleek-portability-and-extended-battery-life-zdnet/"><u>Discover the Best Long-Lasting Laptop of the Year - Featuring Sleek Portability and Extended Battery Life | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-savings-exclusive-july-2024-deals-on-laptops-featured/"><u>Discover the Ultimate Savings: Exclusive July 2024 Deals on Laptops Featured</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-play-7t-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Play 7T FRP</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/savings-alert-grab-the-8tb-samsung-t5-ssd-on-amazon-up-to-36-less-post-prime-day-zdnet-tech-reviews/"><u>Savings Alert: Grab the 8TB Samsung T5 SSD on Amazon Up to 36% Less Post-Prime Day | ZDNet Tech Reviews</u></a></li>
-<li><a href="https://games-able.techidaily.com/stop-computer-glitches-update-your-nvidia-driver/"><u>Stop Computer Glitches: Update Your Nvidia Driver</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-power-solution-for-years-of-unmatched-performance-save-big-with-limited-time-offer-at-49-off/"><u>Top-Rated Portable Power Solution for Years of Unmatched Performance | Save Big with Limited Time Offer at 49% Off!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tier-screen-quality-meets-wallet-friendly-price-in-our-latest-pick-for-best-value-laptops-insights-from-zdnets-tech-team/"><u>Top-Tier Screen Quality Meets Wallet-Friendly Price in Our Latest Pick for Best Value Laptops - Insights From ZDNET's Tech Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-cluttered-desk-into-a-tech-haven-explore-the-ultimate-11-in-1-docking-station-at-44-off-featured/"><u>Transform Your Cluttered Desk Into a Tech Haven: Explore the Ultimate 11-in-1 Docking Station at 44% Off | Featured</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-a-compreehsive-review-of-the-ultra-hd-actioncamera/"><u>[Updated] In 2024, A Compreehsive Review of the Ultra-HD ActionCamera</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-change-epub-prc-format-into-a-pdf-using-calibre/"><u>Easy Steps to Change EPUB (PRC) Format Into a PDF Using Calibre</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-top-5-high-performance-external-ssds-to-buy/"><u>Expert Review: Top 5 High-Performance External SSDs to Buy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-newest-drivers-for-your-hp-laserjet-p3n-p3015-with-this-comprehensive-resource-for-windows-users/"><u>Find and Install the Newest Drivers for Your HP LaserJet P3n (P3015) with This Comprehensive Resource for Windows Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-breakthrough-techniques-for-creative-fb-video-campaigns/"><u>In 2024, Breakthrough Techniques for Creative FB Video Campaigns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-newest-processors-face-return-surge-quadruple-over-last-generation-insights-from-retail-data/"><u>Intel's Newest Processors Face Return Surge, Quadruple Over Last Generation: Insights From Retail Data</u></a></li>
+<li><a href="https://video-capture.techidaily.com/record-to-win-optimizing-your-twitch-broadcasting-skills/"><u>Record to Win Optimizing Your Twitch Broadcasting Skills</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-tech-indulge-in-the-sweet-scents-of-advanced-cooling-paste-technology/"><u>Transform Your Tech: Indulge in the Sweet Scents of Advanced Cooling Paste Technology!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-a-malfunctioning-hyper-v-virtual-switch-effective-strategies-for-quick-resolution/"><u>Troubleshooting a Malfunctioning Hyper-V Virtual Switch - Effective Strategies for Quick Resolution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175693224-unlock-enhanced-system-efficiency-the-innovative-grizzly-heatspreader-lowers-cpu-temp-by-15-degrees/"><u>Unlock Enhanced System Efficiency - The Innovative Grizzly Heatspreader Lowers CPU Temp by 15 Degrees</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-latest-in-tech-insights-from-toms-gear-analysis/"><u>Unraveling the Latest in Tech: Insights From Tom's Gear Analysis</u></a></li>
 </ul></div>
 

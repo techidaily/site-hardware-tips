@@ -1,7 +1,7 @@
 ---
 title: "Experience Luxury Tech on Sale: $230 Off the Ultra-Sleek HP 15.6” Laptop - Grab Yours Today @ ZDNET!"
-date: 2025-01-26T17:01:33.187Z
-updated: 2025-02-01T18:15:47.747Z
+date: 2025-02-01T20:49:41.669Z
+updated: 2025-02-03T03:25:36.219Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,22 +138,14 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-budget-conscious-obs-tweaks-and-tricks-for-2024/"><u>[New] Budget-Conscious OBS Tweaks and Tricks for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-become-an-audio-concealer-expert-tips-on-altering-your-characters-voice-for-enhanced-competitive-play/"><u>[New] In 2024, Become an Audio Concealer Expert Tips on Altering Your Character's Voice for Enhanced Competitive Play</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-screen-recorder-for-youtube/"><u>[Updated] In 2024, Best Screen Recorder for YouTube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cutting-edge-techniques-for-incorporating-soundtracks-in-youtube-creations/"><u>[Updated] In 2024, Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2-upgrade-any-laptop-to-support-dual-4k-monitors-seamlessly-regardless-of-original-hardware-specs-the-ultimate-gadget-review-on-zdnet/"><u>2. Upgrade Any Laptop to Support Dual 4K Monitors Seamlessly, Regardless of Original Hardware Specs: The Ultimate Gadget Review on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-apples-fall-event-highlights-m4-mac-mini-unveiling-revolutionary-ipads-and-advancements-in-ai-with-siri-analysis/"><u>Exploring Apple's Fall Event Highlights: M4 Mac Mini Unveiling, Revolutionary iPads & Advancements in AI with Siri | Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-flash-unveiling-the-elite-ssd-lineup-expert-analysis/"><u>Future Flash: Unveiling the Elite SSD Lineup - Expert Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-updates-available-for-canon-mg3000-printing-software-download/"><u>Latest Updates Available for Canon MG3000 Printing Software Download</u></a></li>
-<li><a href="https://games-able.techidaily.com/pixel-power-choosing-between-phone-and-tablet-games/"><u>Pixel Power: Choosing Between Phone and Tablet Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-restoring-sounds-in-forza-horizon-4-the-ultimate-guide-to-fixing-audio-issues/"><u>Solved: Restoring Sounds in Forza Horizon 4 – The Ultimate Guide to Fixing Audio Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-portable-powerhouse-a-top-picks-review-reveals-why-this-laptop-is-perfect-for-digital-nomads-insights/"><u>The Ultimate Portable Powerhouse: A Top Picks Review Reveals Why This Laptop Is Perfect for Digital Nomads - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-6-strategies-for-simplifying-android-usage/"><u>Top 6 Strategies for Simplifying Android Usage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-prime-day-blowout-unbeatable-laptop-offers-available-throughout-october-202/"><u>Top-Rated Prime Day Blowout: Unbeatable Laptop Offers Available Throughout October 202</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-audio-bliss-with-top-rated-100-off-speaker-systems-now-at-best-buy-discover-the-review/"><u>Unlock Audio Bliss with Top-Rated, $100 Off Speaker Systems Now at Best Buy | Discover the Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-savings-snag-the-newly-reduced-apples-m3-macbook-pro-during-amazons-spring-clearance-event-as-revealed/"><u>Unveiling Savings: Snag the Newly-Reduced Apple's M3 MacBook Pro During Amazon’s Spring Clearance Event, as Revealed</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 11/10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-the-ideal-13-inch-work-travel-companion-not-dell-or-apple-but-equally-impressive-find-out-which-laptop-made-our-cut/"><u>ZDNet Reveals the Ideal 13-Inch Work Travel Companion: Not Dell or Apple, but Equally Impressive! Find Out Which Laptop Made Our Cut</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-zoom-expertise-for-improved-google-meet-visibility/"><u>[New] 2024 Approved The Ultimate Zoom Expertise for Improved Google Meet Visibility</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-from-vimeo-to-engaging-animated-content-for-2024/"><u>[New] Step-by-Step From Vimeo to Engaging Animated Content for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/windows-file-recoverywin11/"><u>使用Windows File Recovery保留Win11系统下的重要数据：详细教程</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-freshness-in-group-policies-for-secure-windows-networks/"><u>Ensuring Freshness in Group Policies for Secure Windows Networks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-solutions-on-toms-hardware-hub/"><u>Exploring Advanced Computing Solutions on Tom's Hardware Hub</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-much-money-can-you-score-with-youtube-short-videos/"><u>How Much Money Can You Score with YouTube Short Videos?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-world-of-computer-components-with-toms-hardware-guides/"><u>Mastering the World of Computer Components with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-the-latest-in-computing-hardware/"><u>Tom's Tech Review: Expert Insights on the Latest in Computing Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-light-into-art-a-comprehensive-guide-to-printing-lithophanes-in-3d/"><u>Transforming Light Into Art: A Comprehensive Guide to Printing Lithophanes in 3D</u></a></li>
 </ul></div>
 

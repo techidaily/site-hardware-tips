@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Apple M3 MacBook Air: The Revolutionary, Budget-Friendly AI Device You Can't Miss | Review"
-date: 2025-01-27T20:48:27.612Z
-updated: 2025-02-01T18:05:05.010Z
+date: 2025-01-28T06:35:20.588Z
+updated: 2025-02-03T05:03:31.494Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/70eba607a5493f0dcd7d40fac4dac70e28238f9a9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -43,10 +47,6 @@ First, the best thing about the arrival of the M3 MacBook Air models might be th
 One more thing to keep in mind if you're considering buying the 15-inch M3 MacBook Air: if you configure it with 16GB of RAM and 512GB of storage, then you'll be at $1,699 and quickly getting into 14-inch M3 MacBook Pro territory in terms of cost. If you're going to go there, I'd recommend opting for the 14-inch M3 MacBook Pro instead, because of its much better display and sound, and the fact that you can hook it up to two external monitors and still use the laptop's monitor as a third display.
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -72,7 +72,7 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -82,7 +82,7 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
@@ -113,10 +113,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Cinebench CPU/GPU benchmark (higher is better)
 
 ---
@@ -144,6 +140,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | CPU (Single Core)            | 140                 |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best features of M3 MacBook Air?
 
@@ -175,6 +175,10 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9d7a976-2d13-4b45-813c-13ccc3ba0f0e%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9d7a976-2d13-4b45-813c-13ccc3ba0f0e%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -184,10 +188,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,21 +235,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-the-steps-to-shut-down-your-linkdnug-account/"><u>[New] 2024 Approved Mastering the Steps to Shut Down Your LinkDnug Account</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease/"><u>[New] Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-time-your-instagram-content-for-max-engagement/"><u>[Updated] In 2024, How to Time Your Instagram Content For Max Engagement</u></a></li>
-<li><a href="https://article-tips.techidaily.com/behind-the-scenes-with-vlc-player-features/"><u>Behind the Scenes with VLC Player Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-unbeatable-prime-day-laptop-offers-coming-to-october-2024-dont-miss-out/"><u>Discover Unbeatable Prime Day Laptop Offers Coming to October 2024 – Don't Miss Out!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-presidents-day-offer-save-big-on-the-2023-apple-m2-macbook-air-get-300-discount-techsavvy/"><u>Exclusive Presidents' Day Offer: Save Big on the 2023 Apple M2 MacBook Air - Get $300 Discount | TechSavvy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-non-lenovo-non-dell-office-2-in-1-laptops-recommended-models-from-zdnet/"><u>Expert Advice on Non-Lenovo, Non-Dell Office 2-in-1 Laptops | Recommended Models From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experts-recommend-the-best-macbook-usb-c-charger-available-on-amazon-for-just-69-secure-yours-today-zdnet/"><u>Experts Recommend the Best MacBook USB-C Charger Available on Amazon for Just $69 - Secure Yours Today! | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-exceptional-office-laptops-insights-from-zdnet-on-alternatives-to-lenovo-and-apple-devices/"><u>Exploring Exceptional Office Laptops: Insights From ZDNet on Alternatives to Lenovo and Apple Devices</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-ghostly-touch-problem-with-these-10-effective-strategies/"><u>Resolve Your iPhone's Ghostly Touch Problem with These 10 Effective Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-long-lasting-ultraportable-laptop-tested-as-recommended-by-zdnet/"><u>The Best Long-Lasting Ultraportable Laptop Tested , as Recommended by ZDNet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-checklist-for-capturing-live-conversations-for-2024/"><u>The Ultimate Checklist for Capturing Live Conversations for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze-for-2024/"><u>Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-game-changing-perks-of-dells-premium-3k-gaming-rig-a-comprehensive-review/"><u>Unveiling the Game-Changing Perks of Dell's Premium $3K Gaming Rig: A Comprehensive Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-top-tweet-talent-social-medias-10-gems-for-2024/"><u>[New] Top Tweet Talent Social Media’s 10 Gems for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagrams-edge-the-best-practices-for-video-creation/"><u>[Updated] 2024 Approved Instagram's Edge The Best Practices for Video Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-connect-online-screen-sharing-secrets-for-live-streaming/"><u>2024 Approved Connect Online Screen-Sharing Secrets for Live Streaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175705805-beat-the-heat-affordably-shop-the-coolest-arctic-high-performance-liquid-freezer-aiold2018a-v2-at-74-now/"><u>Beat the Heat Affordably – Shop the Coolest Arctic High-Performance Liquid Freezer (AIOLD2018A v2) at $74 Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-computer-components-wisdom-from-toms-hardware-experts/"><u>Decoding Computer Components: Wisdom From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-channels-optimal-use-of-templated-content-in-yt-descs/"><u>Elevate Your Channels Optimal Use of Templated Content in YT Descs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-a1x-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo A1x 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-wireless-pointing-devices-the-pinnacle-of-portability-and-productivity/"><u>Revolutionary Wireless Pointing Devices - The Pinnacle of Portability and Productivity</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-tales-creating-gifs-without-charges/"><u>Twitter Tales Creating GIFs Without Charges</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175715285-unleash-the-bloom-high-performance-computing-with-aromatic-heavenly-thermal-compound/"><u>Unleash the Bloom: High-Performance Computing with Aromatic, Heavenly Thermal Compound</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/urgent-advisory-stop-using-your-bambu-lab-3d-printer-refund-and-replacement-parts-en-route-for-the-a1-model/"><u>Urgent Advisory: Stop Using Your Bambu Lab 3D Printer - Refund & Replacement Parts En Route for the A1 Model</u></a></li>
 </ul></div>
 
