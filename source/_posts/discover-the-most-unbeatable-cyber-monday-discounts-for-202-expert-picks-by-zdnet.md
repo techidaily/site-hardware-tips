@@ -1,7 +1,7 @@
 ---
 title: "Discover the Most Unbeatable Cyber Monday Discounts for 202#: Expert Picks by ZDNet"
-date: 2025-01-29T03:23:45.033Z
-updated: 2025-02-02T18:59:29.066Z
+date: 2025-02-09T21:32:24.224Z
+updated: 2025-02-15T17:17:44.488Z
 tags:
   - laptops
 categories:
@@ -131,7 +131,7 @@ ZDNET
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
@@ -152,10 +152,6 @@ ZDNET
 * [Dragon's Dogma 2 standard edition for $44 (save $12 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d6a7a4b-7078-4dcf-80e0-2c2bf8a0d6dd%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -178,6 +174,10 @@ Nintendo/ZDNET
 * [Super Mario RPG for $40 (save $20)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSuper-Mario-RPG-Nintendo-Switch-U-S-Edition%2F1349013407%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This fan-favorite title has been remastered with updated graphics and combat systems as Mario and friends search for the crystal stars to stop the Smithy Gang.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $66 (save $14 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
 
@@ -206,6 +206,10 @@ Lenovo
 * [HP Victus 16 laptop for $850 (save $450 at HP)](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r100-161-91c59av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade gamign laptop with a 16-inch 1080p IPS display, 144Hz refresh rate, 14th gen Intel Core i5 CPU, 16GB of RAM, GeForce RTX 4050 GPU, and a 512GB SSD.
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming monitor deals
 
 Samsung/ZDNET
@@ -217,7 +221,7 @@ Samsung/ZDNET
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
@@ -237,21 +241,17 @@ Samsung/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -322,19 +322,18 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-techniques-for-subtle-sound-diminution-in-audacity/"><u>[New] Techniques for Subtle Sound Diminution in Audacity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-decoding-authenticity-in-your-digital-instagram-family/"><u>[Updated] In 2024, Decoding Authenticity in Your Digital Instagram Family</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-best-vocal-transformation-programs-for-video-makers-for-2024/"><u>[Updated] The Best Vocal Transformation Programs for Video Makers for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-list-10-premium-history-channels-online/"><u>[Updated] Ultimate List 10 Premium History Channels Online</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-tech-reviews-for-gamers-and-enthusiasts-dive-into-toms-hardware-world/"><u>Discover Top-Notch Tech Reviews for Gamers & Enthusiasts - Dive Into Tom's Hardware World</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-xtool-s1-the-ultimate-high-quality-diode-laser-cutting-machine-for-diy-enthusiasts/"><u>Expert Analysis of the XTool S1: The Ultimate High-Quality Diode Laser Cutting Machine for DIY Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-high-tech-equipment-through-toms-critical-eye-on-hardware/"><u>Exploring High-Tech Equipment Through Tom's Critical Eye on Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-canon-mf4800-drivers-for-improved-printing-performance/"><u>Get Your Canon MF4800 Drivers for Improved Printing Performance</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-funnyframefinder-your-source-for-meme-creation-online/"><u>In 2024, FunnyFrameFinder Your Source for Meme Creation Online</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175692600-instant-pc-assembly-with-corsairs-game-changing-one-turn-fan-screw-design-save-precious-seconds/"><u>Instant PC Assembly with Corsair's Game-Changing One-Turn Fan Screw Design - Save Precious Seconds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-high-end-workstation-cpu-options/"><u>Navigating Through High-End Workstation CPU Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-video-editing-install-lumafusion-or-try-these-other-options-for-2024/"><u>New Mac Video Editing Install Lumafusion or Try These Other Options for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/raggiungere-i-primati-seo-con-questi-6-strumenti-chiave-nel-mese-di-settembre-del-2024-unire-due-video/"><u>Raggiungere I Primati SEO Con Questi 6 Strumenti Chiave Nel Mese Di Settembre Del 2024 - Unire Due Video</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-value-of-id-cooling-frozn-series-a-comprehensive-review/"><u>Understanding the Value of ID-Cooling Frozn Series: A Comprehensive Review</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-select-20-unencumbered-pubg-visual-stories/"><u>[Updated] 2024 Approved Select 20 Unencumbered PUBG Visual Stories</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-copyrights-and-creatives-uploading-tiktoks-safely/"><u>[Updated] Copyrights and Creatives Uploading TikToks Safely</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-valorants-finest-voice-modder-accessible-at-no-cost/"><u>[Updated] Valorant's Finest Voice Modder – Accessible at No Cost</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-boost-traffic-critical-youtube-seo-instruments-for-video-success/"><u>2024 Approved Boost Traffic Critical YouTube SEO Instruments for Video Success</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-effective-use-of-adsense-on-youtube-to-boost-channel-income/"><u>2024 Approved Effective Use of AdSense on YouTube to Boost Channel Income</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-8-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 8</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-clear-sight-tech-the-leading-10-mobile-phone-cameras-in-4k/"><u>In 2024, Clear Sight Tech The Leading 10 Mobile Phone Cameras in 4K</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-advanced-computing-solutions-toms-hardware-insights/"><u>Navigating Through Advanced Computing Solutions - Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-cpu-cooler-from-noctua-the-nh-l12sx77-delivers-superior-clearance-for-sff-ram-and-efficient-vrm-cooling/"><u>Revolutionary CPU Cooler From Noctua - The NH-L12Sx77 Delivers Superior Clearance for SFF Ram & Efficient VRM Cooling</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/tedpc/"><u>TED演説ビデオのPCとスマートフォンから簡単なダウンロードガイド</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-virtual-quest-evaluating-current-progress-and-potential-hurdles/"><u>The Virtual Quest Evaluating Current Progress & Potential Hurdles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-displays-ultimate-ps5-and-xbox-series-consoles-compatible-monitors/"><u>Top Rated Gaming Displays: Ultimate PS5 & Xbox Series Consoles Compatible Monitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-tech-analysis-with-toms-hardware-wisdom/"><u>Ultimate Tech Analysis with Tom's Hardware Wisdom</u></a></li>
 </ul></div>
 

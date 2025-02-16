@@ -1,7 +1,7 @@
 ---
 title: "Experience Luxury Tech on Sale: $230 Off the Ultra-Sleek HP 15.6” Laptop - Grab Yours Today @ ZDNET!"
-date: 2025-02-01T20:49:41.669Z
-updated: 2025-02-03T03:25:36.219Z
+date: 2025-02-13T17:39:54.490Z
+updated: 2025-02-15T16:47:32.731Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,14 +138,21 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-zoom-expertise-for-improved-google-meet-visibility/"><u>[New] 2024 Approved The Ultimate Zoom Expertise for Improved Google Meet Visibility</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-from-vimeo-to-engaging-animated-content-for-2024/"><u>[New] Step-by-Step From Vimeo to Engaging Animated Content for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/windows-file-recoverywin11/"><u>使用Windows File Recovery保留Win11系统下的重要数据：详细教程</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-freshness-in-group-policies-for-secure-windows-networks/"><u>Ensuring Freshness in Group Policies for Secure Windows Networks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-solutions-on-toms-hardware-hub/"><u>Exploring Advanced Computing Solutions on Tom's Hardware Hub</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-much-money-can-you-score-with-youtube-short-videos/"><u>How Much Money Can You Score with YouTube Short Videos?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-world-of-computer-components-with-toms-hardware-guides/"><u>Mastering the World of Computer Components with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-the-latest-in-computing-hardware/"><u>Tom's Tech Review: Expert Insights on the Latest in Computing Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-light-into-art-a-comprehensive-guide-to-printing-lithophanes-in-3d/"><u>Transforming Light Into Art: A Comprehensive Guide to Printing Lithophanes in 3D</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-prime-video-performance-tracer-in-youtube-landscape-for-2024/"><u>[Updated] Prime Video Performance Tracer in YouTube Landscape for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unleash-potential-advanced-techniques-in-instagram-loop-creation-for-2024/"><u>[Updated] Unleash Potential Advanced Techniques in Instagram Loop Creation for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/guidwindows-11/"><u>闡述GUID碟片修復技術：Windows 11版本教學指南</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-free-tools-for-editing-wmv-videos-online-and-offline-solutions/"><u>Best Free Tools for Editing WMV Videos - Online & Offline Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-get-your-iphone-to-vibrate-in-ring-or-silent-mode-use-these-8-techniques-to-resolve-the-issue/"><u>Can't Get Your iPhone to Vibrate in Ring or Silent Mode? Use These 8 Techniques to Resolve the Issue!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-strategies-for-protecting-electronics-from-scorching-heat/"><u>Effective Strategies for Protecting Electronics From Scorching Heat</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensuring-your-pc-is-prepared-a-guide-to-assessing-compatibility-with-new-graphics-cards/"><u>Ensuring Your PC Is Prepared: A Guide to Assessing Compatibility with New Graphics Cards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-logitech-keys-to-go-2-an-uncomplicated-yet-effective-upgrade/"><u>Evaluating the Logitech Keys-To-Go 2: An Uncomplicated, Yet Effective Upgrade</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719151494245-favorite-social-hub-share-your-choice/"><u>Favorite Social Hub: Share Your Choice!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fixing-your-galaxy-device-just-got-more-challenging-what-you-need-to-know/"><u>Fixing Your Galaxy Device Just Got More Challenging: What You Need To Know</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-address-the-kernel-security-check-failed-error-in-windows-10-detailed-tutorial/"><u>How to Successfully Address the Kernel Security Check Failed Error in Windows 10 [Detailed Tutorial]</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-using-air-tube-earbuds-a-worthy-choice-or-just-hype/"><u>Is Using Air Tube Earbuds a Worthy Choice or Just Hype?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/launch-of-amds-advanced-ryzen-9000-processor-range-shop-the-latest-series-today/"><u>Launch of AMD's Advanced Ryzen 9000 Processor Range – Shop the Latest Series Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/making-peace-with-monthly-fees-how-the-oura-ring-became-essential-for-me/"><u>Making Peace with Monthly Fees: How the Oura Ring Became Essential for Me</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-how-to-contact-an-anonymous-caller/"><u>Step-by-Step Tutorial on How to Contact an Anonymous Caller</u></a></li>
 </ul></div>
 

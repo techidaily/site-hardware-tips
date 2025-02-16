@@ -1,7 +1,7 @@
 ---
 title: Top Rated Ultraportable Notebook with Exceptional All-Day Battery Life Featured on ZDNet
-date: 2025-01-30T18:26:49.455Z
-updated: 2025-02-02T21:53:34.154Z
+date: 2025-02-08T21:17:28.032Z
+updated: 2025-02-15T16:42:40.048Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,19 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/0-must-have-youtube-intros-tools-for-beginners-all-free-for-2024/"><u>[New] 30 Must-Have YouTube Intros Tools for Beginners, All Free for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-immerse-in-imagination-the-bestdiscords-10-creations/"><u>[Updated] In 2024, Immerse in Imagination The BestDiscord’s 10 Creations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-mpeg-avs-movavi/"><u>1. 網路版無料移動電話影片 MPEG-AVS 改編：Movavi 轉頻器指南</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-computing-tips-from-toms-hardware-experts/"><u>Advanced Computing Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/der8auer-confesses-errors-in-thermal-grizzly-heatsinks-and-direct-die-chillers/"><u>Der8auer Confesses: Errors in Thermal Grizzly Heatsinks & Direct Die Chillers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-of-18-premium-deals-for-high-performance-laptops-this-prime-day-insider-tips-on-hp-apple-and-razer-from-zdnets-tech-experts.50/"><u>Discover the Ultimate Selection of 18 Premium Deals for High-Performance Laptops This Prime Day: Insider Tips on HP, Apple, and Razer From ZDNet's Tech Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-world-of-toms-electronic-solutions/"><u>Discover the World of Tom's Electronic Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effective-techniques-for-dividing-a-model-into-sections-for-3d-printing/"><u>Effective Techniques for Dividing a Model Into Sections for 3D Printing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-strategies-for-troubleshooting-bluetooth-pairing-problems-on-windows-10/"><u>Expert Strategies for Troubleshooting Bluetooth Pairing Problems on Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-f14-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy F14 5G Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-xs-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone XS? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-mp3s-on-android-the-best-free-tools/"><u>Mastering MP3s on Android - The Best Free Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mixed-up-tiktok-reimbursement-alert-for-bambu-lab-a1-buyers-safe-and-unfaulted-units-also-returned-accidentally/"><u>Mixed-Up TikTok Reimbursement Alert for Bambu Lab A1 Buyers: Safe and Unfaulted Units Also Returned Accidentally</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-persistent-need-for-mandatory-cybersecurity-regulation-insights-from-zdnet/"><u>The Persistent Need for Mandatory Cybersecurity Regulation - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-building-and-upgrading-at-toms-hardcore-technology/"><u>The Ultimate Resource for Building and Upgrading at Tom's Hardcore Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-electronics-resource-in-depth-analysis-of-cutting-edge-technology/"><u>Tom's Electronics Resource: In-Depth Analysis of Cutting-Edge Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-computer-components-with-toms-advice/"><u>Ultimate Guide to Computer Components with Tom's Advice</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unique-choir-compositions-as-your-smartphone-tones/"><u>Unique Choir Compositions as Your Smartphone Tones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-exploring-toms-hardware-world/"><u>Unveiling the Latest Gadgets: Exploring Tom's Hardware World</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-high-quality-avi-media-reader-mobile-and-desktop/"><u>[New] High-Quality Avi Media Reader Mobile & Desktop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-syncing-separate-iphone-videos-for-one-story/"><u>[New] Syncing Separate IPhone Videos for One Story</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-perfect-your-video-edits-step-by-step-on-youtube-cutting-for-2024/"><u>[Updated] Perfect Your Video Edits Step-by-Step on YouTube Cutting for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-acer-chromebook-perfect-blend-of-features-and-value/"><u>Affordable Acer Chromebook: Perfect Blend of Features and Value</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-bluetooth-free-airtube-headphones-actually-effective-and-true-to-claims/"><u>Are Bluetooth-Free AirTube Headphones Actually Effective and True to Claims?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assessing-the-limitations-a-closer-look-at-samsung-and-ubreakifixs-insufficient-partnership/"><u>Assessing the Limitations: A Closer Look at Samsung and uBreakiFix's Insufficient Partnership</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-bargains-on-technology-products-including-smart-security-cctv-systems-anker-portable-chargers-and-razor-pro-gaming-audio-equipment/"><u>Best Bargains on Technology Products: Including Smart Security CCTV Systems, Anker Portable Chargers & Razor Pro-Gaming Audio Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/despite-harsh-reviews-humane-ai-pin-unveils-fascinating-features-worth-exploring/"><u>Despite Harsh Reviews, 'Humane AI Pin' Unveils Fascinating Features Worth Exploring</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-20-stunning-titles-for-high-quality-gaming-experience-on-budget-potato-powered-computers/"><u>Discover 20 Stunning Titles for High-Quality Gaming Experience on Budget, Potato-Powered Computers!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-on-the-go-lut-mastery-for-picture-and-film-enhancement/"><u>In 2024, On-The-Go LUT Mastery for Picture & Film Enhancement</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724765904134-macx-dvd/"><u>MacX DVDコレクションでお得な情報が見つかる! プロモ節度大解放</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-conferences-troubleshoot-webcam-and-mic-windows/"><u>Streamlining Conferences: Troubleshoot Webcam and Mic (Windows)</u></a></li>
 </ul></div>
 

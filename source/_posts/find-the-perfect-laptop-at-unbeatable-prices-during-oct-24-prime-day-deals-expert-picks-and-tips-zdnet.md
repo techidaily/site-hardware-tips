@@ -1,7 +1,7 @@
 ---
 title: Find the Perfect Laptop at Unbeatable Prices During Oct '24 Prime Day Deals | Expert Picks and Tips | ZDNET
-date: 2025-02-02T00:54:03.205Z
-updated: 2025-02-02T19:34:06.362Z
+date: 2025-02-12T20:09:38.556Z
+updated: 2025-02-15T16:09:08.836Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-transform-your-instagram-strategy-with-precision-metrics-monitoring-tools/"><u>[Updated] 2024 Approved Transform Your Instagram Strategy with Precision Metrics Monitoring Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-gaming-content-on-youtube/"><u>[Updated] Mastering Gaming Content on YouTube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-budget-pcie-40-motherboards-for-amd-users-the-comprehensive-review-of-b550-chipset-candidates/"><u>Best Budget PCIe 4.0 Motherboards for AMD Users: The Comprehensive Review of B550 Chipset Candidates</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-nokia-130-music-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Nokia 130 Music</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-with-tom-the-ultimate-guide-to-hardware-innovations/"><u>Exploring Advanced Gadgets with Tom - The Ultimate Guide to Hardware Innovations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/highest-ranking-wireless-pointing-devices-in-202/"><u>Highest-Ranking Wireless Pointing Devices in 202</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-launch-errors-for-the-star-wars-jedi-fallen-order-video-game/"><u>How to Fix Launch Errors for the Star Wars Jedi: Fallen Order Video Game</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-free-youtube-end-screen-resources-enhance-video-impact/"><u>In 2024, Free YouTube End Screen Resources - Enhance Video Impact</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-nighttime-narratives-in-pixels/"><u>In 2024, Nighttime Narratives in Pixels</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-tech-with-tom-a-deep-dive-into-advanced-gear/"><u>Navigate the World of Tech with Tom: A Deep Dive Into Advanced Gear</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-techniques-for-altering-decibel-settings-on-media-playback/"><u>New In 2024, Techniques for Altering Decibel Settings on Media Playback</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-rainbow-six-siege-game-crashes-and-freezes-on-windows-step-by-step-guide/"><u>Resolving 'Rainbow Six Siege' Game Crashes & Freezes on Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-gaming-cpu-cooler-analysis-the-id-cooling-frozn-a620-se-delivers-exceptional-quality/"><u>Top Gaming CPU Cooler Analysis: The Id-Cooling Frozn A620 SE Delivers Exceptional Quality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-the-ultimate-resource-for-hardware-enthusiasts-at-toms-review/"><u>Unlocking Tech Secrets: The Ultimate Resource for Hardware Enthusiasts at Tom's Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-new-electronics-with-toms-computer-guides/"><u>Unveiling New Electronics with Tom's Computer Guides</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-brief-snippet-analysis-for-beginners/"><u>[New] In 2024, Brief Snippet Analysis for Beginners</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/2-guia-simple-configurar-backup-restore-points-en-windows-server-2cuatro-r2-edition/"><u>2. Guía Simple: Configurar Backup Restore Points en Windows Server 2Cuatro R2 Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gigglegadget-assistant/"><u>2024 Approved GiggleGadget Assistant</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-ultimate-chill-with-the-id-cooling-fx360-pro-top-reviews/"><u>Affordable Ultimate Chill with the ID-Cooling FX360 Pro – Top Reviews</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/el-your-inner-videographer-to-produce-top-tier-edu-videos-for-2024/"><u>Channel Your Inner Videographer to Produce Top-Tier Edu-Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-insights-by-tom-your-trusted-resource/"><u>Expert Hardware Insights by Tom - Your Trusted Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-computing-at-toms-hardware-insights/"><u>Exploring High-Performance Computing at Tom's Hardware Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro Max to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-xr-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone XR Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-top-gadgets-and-pc-parts-at-toms-hardware-destination/"><u>Navigate Through Top Gadgets and PC Parts at Tom's Hardware Destination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-chill-noctua-unveils-massive-cooler-for-nvidias-advanced-grace-hopper-processor/"><u>Next-Gen Chill: Noctua Unveils Massive Cooler for Nvidia's Advanced Grace Hopper Processor</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ent-your-youtube-presence-a-guide-to-elevated-subscription-rates-for-2024/"><u>Reinvent Your YouTube Presence A Guide to Elevated Subscription Rates for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-reviews-expert-insights-on-hardware/"><u>Tom's Computer Reviews: Expert Insights on Hardware</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unified-social-media-platforms-insta-tik-techniques/"><u>Unified Social Media Platforms Insta-Tik Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-complexities-of-tech-gear-with-toms-hardware-wisdom/"><u>Unraveling the Complexities of Tech Gear with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/valkyrie-vind-sl125-the-challenge-of-delivering-on-its-adorably-designed-promise/"><u>Valkyrie Vind SL125: The Challenge of Delivering on Its Adorably Designed Promise</u></a></li>
 </ul></div>
 

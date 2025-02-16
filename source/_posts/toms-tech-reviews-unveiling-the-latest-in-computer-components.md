@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: Unveiling the Latest in Computer Components"
-date: 2024-08-19T02:48:42.359Z
-updated: 2024-08-20T02:48:42.359Z
+date: 2025-02-12T16:42:55.178Z
+updated: 2025-02-15T17:05:54.506Z
 tags:
   - laptop
 categories:
@@ -16,6 +16,10 @@ At today's Windows and devices event, partner OEMs opened the floodgates for new
  Not only does the new Snapdragon X family seem to offer compelling performance and efficiency coupled with long runtimes, but it also features a powerful Hexagon Neural Processing Unit (NPU) that is the focal point of the[Windows 11](https://tools.techidaily.com) AI revolution and is capable of 45 TOPS compute. The NPU can efficiently process tasks such as image editing, text-to-image generation, and text creation on-device without the need for the cloud.
 
  Before we get into the specifics about the new laptops that have been announced, let’s first give you a brief specs overview of the Snapdragon X Elite and Snapdragon X Plus chips that power these machines. You can[read our comprehensive overview](https://tools.techidaily.com) of the new Arm processor family for more details.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon X Series Platform Specs
 
@@ -42,6 +46,10 @@ At today's Windows and devices event, partner OEMs opened the floodgates for new
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/mtLVLyVsEocU7UBrbmzcWN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Acer Swift 14 AI  (Image credit: Qualcomm)
 
  The Swift 14 AI features a 14.5-inch 2560 x 1600 IPS display with a 120 Hz refresh rate and 100 percent coverage of sRGB (a touch panel is optional). Acer also points out that the laptop features an easy-to-open lid and a 180-degree hinge design. If 1080p resolution is up to your videoconferencing standards, then note that the Swift 14 AI features a 1440p webcam with IR support and a privacy shutter.
@@ -59,9 +67,6 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -74,18 +79,12 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/6ajDJXDRMCTNS5JfXuENyN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
  Your "window" into the computing world is through a 14.5-inch PureSight OLED panel with a 90Hz refresh rate and a 2944 x 1840 resolution. Lenovo says you'll get 100% coverage of sRGB and the P3 color gamuts. Other features include a 1080p webcam with IR support for Windows Hello and a four-speaker[audio](https://tools.techidaily.com) system.
@@ -109,9 +108,6 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -122,11 +118,19 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dell XPS 13  (Image credit: Qualcomm)
 
@@ -150,8 +154,9 @@ Dell XPS 13  (Image credit: Qualcomm)
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -168,10 +173,6 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
@@ -201,8 +202,6 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +209,24 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-boost-instagram-growth-with-advanced-analysis-platforms/"><u>[New] 2024 Approved Boost Instagram Growth with Advanced Analysis Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-powerful-films-for-purpose-and-positivity/"><u>[Updated] Powerful Films for Purpose and Positivity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unlocking-your-youtube-potential-through-brand-partnerships-for-2024/"><u>[Updated] Unlocking Your YouTube Potential Through Brand Partnerships for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ective-methods-for-slide-embedding-from-youtube-for-2024/"><u>4 Effective Methods for Slide Embedding From YouTube for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windows-server-3/"><u>清理 Windows Server 過期备份：使用 3 招刷新系統空間</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-adata-sd810-external-solid-state-drive-fast-20gbps-speed-suitable-for-non-professional-needs/"><u>Budget-Friendly Adata SD810 External Solid State Drive: Fast 20Gbps Speed Suitable for Non-Professional Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-best-hardware-toms-technology-tips-and-tricks/"><u>Discovering the Best Hardware: Tom’s Technology Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-hardware-by-toms-computing-hub/"><u>Expert Analysis on Hardware by Tom's Computing Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-the-capacity-optimized-western-digital-my-passport-6tb-solid-performance-in-a-sleek-package/"><u>Expert Analysis on the Capacity-Optimized Western Digital My Passport (6TB): Solid Performance in a Sleek Package</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-in-depth-hardware-analysis/"><u>Exploring Technology with Tom: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-gadgets-with-toms-hardware-reviews/"><u>Exploring the World of Gadgets with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-reviews-a-comprehensive-guide-to-computer-gear/"><u>Exploring Tom's Tech Reviews: A Comprehensive Guide to Computer Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-your-perfect-match-leading-ssd-and-hard-drive-bargains-of-2024/"><u>Find Your Perfect Match: Leading SSD and Hard Drive Bargains of 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-canon-mp280-printer-drivers-compatible-with-windows-10-8-and-7/"><u>Free Canon MP280 Printer Drivers Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-ace-3-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Ace 3 to Protect Your Individual Information</u></a></li>
+<li><a href="https://win-premium.techidaily.com/penjembatan-efi-gagal-dalam-windows-11-metode-dual-untuk-mengembalikannya/"><u>Penjembatan Efi Gagal Dalam Windows 11: Metode Dual Untuk Mengembalikannya</u></a></li>
+<li><a href="https://article-tips.techidaily.com/strategic-campaign-planning-for-health-brands-for-2024/"><u>Strategic Campaign Planning for Health Brands for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Details: Inside Tom's Electronics"
-date: 2024-08-19T02:50:06.515Z
-updated: 2024-08-20T02:50:06.515Z
+date: 2025-02-11T18:22:09.795Z
+updated: 2025-02-15T21:11:45.242Z
 tags:
   - laptop
 categories:
@@ -33,15 +33,16 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Asus Vivobook S15 (S5507)](https://cdn.mos.cms.futurecdn.net/CmW4jk5Yzqazm3dLiukSe6-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Asus)
 
  Asus’ representative for the initial Copilot+ PC launch is the Vivobook S15 (S5507). This laptop is only available with the Snapdragon X Elite processor, 16GB of RAM, and a 1TB SSD, but it also features a 15.6-inch 3K OLED display with a 120 Hz refresh rate and 100% DCI-P3 color gamut.
 
  The Vivobook S15 (S5507) features two USB 4 ports, two USB 3.2 Type-A ports, a microSD card reader, an HDMI 2.1 port, and a 3.5mm headphone jack. It starts at $1,299.99 on the [Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-1448347873480858520&url=https%3A%2F%2Fshop.asus.com%2Fus%2F90nb14q2-m000w0-asus-vivobook-s-15-s5507.html) , but is out of stock at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,13 +51,18 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dell XPS 13
 
 ![Dell XPS 13](https://cdn.mos.cms.futurecdn.net/QAyqoqgfXVyMCzhuYHvvaS-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 (Image credit: Dell)
 
  The XPS 13 is one of the most popular Windows laptops around, and it’s one of the first[Dell](https://tools.techidaily.com) machines to get the Copilot+ PC brand. The XPS 13 is only available with Snapdragon X Elite X1E-80-100 chip, but you can spec it with 16GB, 32GB, or 64GB of LPDDR5X RAM. You can even get it with a 512GB, 1TB, or 2TB M.2 PCIe NVMe SSD.
@@ -64,8 +70,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
  The biggest advantage of the XPS 13 is the screen options available: it starts with a 13.4-inch display with an FHD+ resolution, but you can upgrade it to a QHD+ display. But if you want the best image quality, the XPS 13 can be had with a 3K OLED screen. The XPS 13 starts at $1,299.99 but can quickly jump to $2,499.99 if you max out its specs. It’s now available on the[Dell website](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-3641429059046625036%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptops%2Fsnapdragon%2Fspd%2Fxps-13-9345-laptop%2Fusexchcto9345qcm02) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Dell Inspiron 14 Plus
 
 ![Dell Inspiron 14 Plus Laptop](https://cdn.mos.cms.futurecdn.net/RxhbpuMwEyZwzgdfQ5xe7T-320-80.jpg)
@@ -76,16 +83,10 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  It also has a 14-inch QHD+ screen with 100% sRGB coverage. This laptop is priced at $1,099.99, and is also available today on[Dell](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1252255113311921269%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) .
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HP EliteBook Ultra 14
 
 ![HP EliteBook Ultra 14](https://cdn.mos.cms.futurecdn.net/ss4CedHQoAQaDKDSg4AVsh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 (Image credit: HP)
 
  The EliteBook Ultra 14 is[HP](https://tools.techidaily.com) ’s premium Copilot+ PC offering, with a 12-core Snapdragon X Elite X1E-78-100 chip, 16GB of RAM, and a 512GB SSD. It also has a 14-inch 2.2K display and has the following ports: two USB-C ports, a USB-A port, and a 3.5mm combo jack.
@@ -113,8 +114,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
  The Yoga Slim 7x uses a 14.5-inch 3K OLED display with a 90 Hz refresh rate. It’s also VESA-certified DisplayHDR True Black 600, giving you a great viewing experience. The laptop starts at $1,199.00 and is available for Pre-Order on[the Lenovo site](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-8727768493894058412%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fyoga%252Fyoga-slim-series%252Fyoga-slim-7x-gen-9-%252814-inch-snapdragon%2529%252Flen101y0049) at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lenovo ThinkPad T14s Gen 6
 
 ![Lenovo ThinkPad T14s Gen 6](https://cdn.mos.cms.futurecdn.net/By8PYnaLQtTDyDkoyxvmNd-320-80.jpg)
@@ -125,31 +127,20 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  This laptop has a 14-inch IPS display and two USB4 ports, two USB-A ports, an HDMI 2.1 port, and a 3.5mm headphone jack. You also have the option to add a Nano Sim slot. The ThinkPad T14s Gen 6 starts at $1,889.30 and is available for Pre-Order direct[from Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-1250424839333332531%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fthinkpad%252Fthinkpadt%252Flenovo-thinkpad-t14s-gen-6-%252814-inch-snapdragon%2529%252Flen101t0099) at the time of writing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Surface Laptop
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  Of course,[Microsoft](https://tools.techidaily.com) will not lag behind the competition when it comes to Copilot+ PCs. It is offering the most affordable Snapdragon X option, with the Surface Laptop, which starts at $999.99\. This model has a Snapdragon X Plus processor and a 13.8-inch display. It also comes with 16GB of RAM and a 512GB SSD.
 
  The more powerful Snapdragon X Elite chip-powered Surface Laptops start at $1,399.99 for the 13.8-inch version with 16GB of RAM and a 512GB SSD. Interestingly, the 15-inch model (which can only be had with a Snapdragon X Elite chip) starts at $1,299.99, but this one only has a 256GB SSD, which seems awfully small for today’s requirements. If you want to get this Copilot+ PC, the Surface Laptop is now available on[the Microsoft website](https://www.microsoft.com/en-us/store/configure/surface-laptop-7th-edition/8tq2hq5xxkj9) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Microsoft Surface Pro
 
 ![Microsoft Surface Pro](https://cdn.mos.cms.futurecdn.net/FDVeU5mue9SMrJ7zU7yjHB-320-80.jpg)
@@ -161,11 +152,16 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
  The Snapdragon X Elite model gets a 13-inch OLED screen and 16GB of RAM, but you now also have a choice between a 512GB or a 1TB SSD. The Snapdragon X Elite Surface Pro starts at $1,499.99 but jumps to $1,699.99 for the larger storage version. You can also spec this chip with 32GB of RAM and 1TB SSD, but you’ll have to shell out $2,099.99 for this model. You can get it now from[Microsoft](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj) if you want a new Windows 11 tablet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy Book4 Edge
 
 ![Samsung Galaxy Book4 Edge](https://cdn.mos.cms.futurecdn.net/92Lc3j6TS3cq5HjHkBqebH-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Samsung)
 
@@ -181,8 +177,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +184,21 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-photo-and-video-display-apps-for-iphone-series-78/"><u>[Updated] Best Photo & Video Display Apps for iPhone Series 7/8</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/cookiebot-enabled-tailored-web-experiences-at-scale/"><u>Cookiebot-Enabled: Tailored Web Experiences at Scale</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/easily-access-snapchat-on-mac-os/"><u>Easily Access Snapchat on Mac OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expect-a-10-15-surge-in-pc-memory-modules-costs-for-q1-2023-supply-constraints-persist/"><u>Expect a 10-15% Surge in PC Memory Modules Costs for Q1 2023 – Supply Constraints Persist</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experts-guide-to-the-google-wifi-router-an-ultimate-choice-for-seamless-connectivity/"><u>Experts' Guide to the Google WIFI Router: An Ultimate Choice for Seamless Connectivity</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-8-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 8 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/joining-the-vanguard-of-memory-tech-micron-advances-with-euv-party-invitation-targets-major-euv-dram-production-milestone/"><u>Joining the Vanguard of Memory Tech: Micron Advances with EUV Party Invitation, Targets Major EUV DRAM Production Milestone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/major-financial-injection-chinas-memory-tech-giant-receives-2b-from-state-funding/"><u>Major Financial Injection: China's Memory Tech Giant Receives $2B From State Funding</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-with-toms-gadget-review-center/"><u>Navigating the World of Computing with Tom’s Gadget Review Center</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/optimize-your-pc-faster-using-winutilities-techniques-by-yl-computing-experts/"><u>Optimize Your PC Faster Using WinUtilities Techniques by YL Computing Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-new-gadgets-with-tom-a-comprehensive-look-at-todays-hardware-innovations/"><u>Unveiling the New Gadgets with Tom: A Comprehensive Look at Today's Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-advanced-memory-manufacturing-an-exclusive-tour-through-microns-new-fab-in-taiwan/"><u>Unveiling the Secrets of Advanced Memory Manufacturing - An Exclusive Tour Through Micron's New Fab in Taiwan</u></a></li>
+</ul></div>
 

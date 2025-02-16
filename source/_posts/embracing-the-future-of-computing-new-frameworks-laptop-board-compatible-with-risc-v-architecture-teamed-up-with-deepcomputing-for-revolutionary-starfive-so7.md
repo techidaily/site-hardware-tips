@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Future of Computing: New Framework's Laptop Board Compatible with RISC-V Architecture, Teamed Up with DeepComputing for Revolutionary StarFive SoC"
-date: 2024-08-19T02:49:32.365Z
-updated: 2024-08-20T02:49:32.365Z
+date: 2025-02-14T17:19:57.660Z
+updated: 2025-02-15T18:25:13.459Z
 tags:
   - laptop
 categories:
@@ -34,6 +34,10 @@ Lenovo has started to roll out its business-focused[ThinkPad T14s](https://weibo
 
  Of course, there is a cost for the pro-spec and build quality. At the China eCommerce outlets, where this model popped up first, pricing starts at roughly the equivalent of $1,700 for the spec shown in the table above.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,8 +52,6 @@ Lenovo has started to roll out its business-focused[ThinkPad T14s](https://weibo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -57,8 +59,17 @@ Lenovo has started to roll out its business-focused[ThinkPad T14s](https://weibo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/hat-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos-in-2024/"><u>[New] What Are YouTube Tags and How Can You Find Great Tags For Your Videos, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-easy-screen-capture-app-w10-edition-for-2024/"><u>[Updated] Easy Screen Capture App, W10 Edition for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooler-masters-new-release-the-modular-masterhub-control-pad-challenges-stream-deck-with-this-summers-launch/"><u>Cooler Master's New Release: The Modular MasterHUB Control Pad Challenges Stream Deck with This Summer’s Launch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-productivity-with-sabrents-350-hybrid-display-and-thunderbolt-dock-featuring-65w-usb-c-ethernet-ports-and-more/"><u>Experience Enhanced Productivity with Sabrent's $350 Hybrid Display and Thunderbolt Dock - Featuring 65W USB-C, Ethernet Ports, and More!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-personalized-typing-ease-with-nuphy-gem80s-cutting-edge-keyboard-design/"><u>Experience Personalized Typing Ease with Nuphy Gem80's Cutting-Edge Keyboard Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-corsair-void-rgb-elite-at-only-79-the-ultimate-wireless-gaming-headset-compatible-with-pc-and-ps5/"><u>Get the Corsair Void RGB Elite at Only $79 - The Ultimate Wireless Gaming Headset Compatible with PC & PS5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-on-a-discounted-samsung-t5-ssd-from-amazon-ahead-of-prime-day-up-to-half-off/"><u>Snag the Deal on a Discounted Samsung T5 SSD From Amazon Ahead of Prime Day - Up To Half-Off</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-nier-replicant-hd-remaster-a-step-by-step-guide-to-fix-initialization-problems/"><u>Unlocking NieR Replicant HD Remaster: A Step-by-Step Guide to Fix Initialization Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winxvideo-artificial-intelligence-speed-up-any-video-and-audio-with-gpu-power/"><u>Winxvideo Artificial Intelligence - Speed Up Any Video & Audio with GPU Power</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->

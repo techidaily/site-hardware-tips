@@ -1,7 +1,7 @@
 ---
 title: In-Depth System Configurations with Insights From Tom's Hardware
-date: 2024-08-19T02:47:36.332Z
-updated: 2024-08-20T02:47:36.332Z
+date: 2025-02-10T21:49:10.316Z
+updated: 2025-02-15T18:22:58.683Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/CD9zueTPtyPxzUgFrAaajR-320-80.jpg
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,22 +74,18 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-fresh-perspectives-on-digital-health-promotion/"><u>[New] In 2024, Fresh Perspectives on Digital Health Promotion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/roducing-teaser-videos-with-a-twist-for-2024/"><u>[New] Producing Teaser Videos with a Twist for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-exploring-the-reasons-behind-instagram-disconnections/"><u>[Updated] In 2024, Exploring the Reasons Behind Instagram Disconnections</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-crown-jewels-the-most-liked-and-binge-watched-content/"><u>[Updated] In 2024, Twitter's Crown Jewels The Most Liked & Binge-Watched Content</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic-6-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic 6 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-ifunny-memes/"><u>In 2024, Mastering the Art of iFunny Memes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-and-equipment-reviews/"><u>Tom's Tech Insights: In-Depth Guides & Equipment Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-bargain-alert-a-high-quality-sceptre-24-curve-gaming-monitor-for-just-79/"><u>Unbelievable Bargain Alert: A High-Quality Sceptre 24 Curve Gaming Monitor for Just $79!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-game-with-a-sale-the-high-performance-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-for-only-199/"><u>Unleash Your Game with a Sale – The High-Performance Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor for Only $199</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-secrets-of-high-performance-computers-with-toms-insider-knowledge/"><u>Unlock the Secrets of High-Performance Computers with Tom's Insider Knowledge</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->

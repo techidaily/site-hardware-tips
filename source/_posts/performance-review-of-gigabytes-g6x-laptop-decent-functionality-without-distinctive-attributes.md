@@ -1,7 +1,7 @@
 ---
 title: "Performance Review of Gigabyte's G6X Laptop: Decent Functionality without Distinctive Attributes"
-date: 2024-08-19T02:49:11.710Z
-updated: 2024-08-20T02:49:11.710Z
+date: 2025-02-14T16:23:18.695Z
+updated: 2025-02-15T16:08:18.145Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,26 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-bandicam-demystified-a-clearer-understanding-of-2023-functionality/"><u>[New] 2024 Approved Bandicam Demystified A Clearer Understanding of 2023 Functionality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-exclusive-access-download-your-own-tailored-tracks/"><u>[New] In 2024, Exclusive Access Download Your Own Tailored Tracks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-xbox-storage-capacity-by-1tb-for-just-125-with-this-reliable-seagate-expansion-solution/"><u>Boost Xbox Storage Capacity by 1TB for Just $125 with This Reliable Seagate Expansion Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooling-solutions-redefined-by-silverstone-icemyst-targeting-hard-to-reach-areas-effortlessly/"><u>Cooling Solutions Redefined by SilverStone IceMyst: Targeting Hard-to-Reach Areas Effortlessly</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-facebooks-rules-through-the-lens-of-its-new-center/"><u>Decoding Facebook's Rules Through the Lens of Its New Center</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-pc-gear-discover-what-tom-has-to-say/"><u>Expert Tips on PC Gear - Discover What Tom Has to Say</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-computing-with-toms-hardware-insights/"><u>Exploring High-Performance Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-computing-essentials-a-comprehensive-guide-t17239718718531/"><u>Exploring Tom's Computing Essentials: A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-easy-recording-studio-for-win10-desktops/"><u>In 2024, Easy Recording Studio for Win10 Desktops</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-maximize-your-impact-knowledge-of-instagrams-video-time-policy/"><u>In 2024, Maximize Your Impact Knowledge of Instagram's Video Time Policy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-2020-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE (2020) Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-with-tom-expert-advice-and-reviews/"><u>Mastering Hardware with Tom: Expert Advice and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamped-cougar-pc-enclosures-with-customizable-rgb-features-to-display-your-action-figure-collection-spotted-at-computex/"><u>Revamped Cougar PC Enclosures with Customizable RGB Features to Display Your Action Figure Collection, Spotted at Computex!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-latest-echo-dot-gen-4-fresh-design-and-enhanced-features/"><u>Review of the Latest Echo Dot (Gen 4): Fresh Design and Enhanced Features</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/romantic-rhetoric-rooted-in-the-french-soul/"><u>Romantic Rhetoric Rooted in the French Soul</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-when-your-logitech-devices-arent-working-correctly-on-pcs/"><u>Solutions for When Your Logitech Devices Aren't Working Correctly on PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-a-comprehensive-look-at-hardware/"><u>Tom's Tech Review: A Comprehensive Look at Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-network-alteration-noticed-errors-quickly/"><u>Understanding and Solving 'Network Alteration Noticed Errors' Quickly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-tom-your-guide-to-cutting-edge-technology/"><u>Unveiling the Latest Gadgets with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Simple 3-Step Guide: Removing Applications From Your MacBook - Tips"
-date: 2025-01-28T16:12:48.059Z
-updated: 2025-02-03T02:35:36.601Z
+date: 2025-02-10T17:44:49.000Z
+updated: 2025-02-15T18:05:40.391Z
 tags:
   - laptops
 categories:
@@ -20,13 +20,13 @@ Image: Tamilisa Miller via iStock/Getty Images
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![dull.png](https://www.zdnet.com/a/img/resize/46440aeab6134c6c72e7fac79ce7789f38626eb9/2021/04/22/d3d18a7c-20db-4a54-aefb-401cea844d6c/dull.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Macs Apple's Mac lineup can be confusing as the company transitions from Intel processors to its own Apple Silicon processors. But we're here to help.  Read now](https://www.zdnet.com/article/best-mac/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Out with the old, in with the new. If you've recently decided to [clear out some extra space](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/) or you finally went through your credit card statement and [canceled those subscriptions](https://www.zdnet.com/home-and-office/home-entertainment/how-to-cancel-apple-music-without-itunes/) you'd forgotten about, then you may be wondering how to delete those apps from your MacBook. 
 
@@ -43,7 +43,7 @@ Go to the dock and click on the Launchpad icon or access Launchpad via the Appli
 Image: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Click and hold app
@@ -68,14 +68,10 @@ Once you click on the X or Delete button at the top left corner, a message will 
 
 Image: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why can't I delete apps from my MacBook?
@@ -90,12 +86,16 @@ If you can't delete an app from the Launchpad, you can try using Finder to remov
 
 **Also:** [**Here's how to delete apps on an iPhone**](https://www.zdnet.com/article/how-to-delete-apps-on-iphone/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How can I find an app on my Mac?
 
 If you can't find the application you're looking for in the Launchpad, go to the Applications folder in Finder. Alternatively, you can use Spotlight to search for an app by pressing Command (the ⌘ key) and the spacebar. Once you find the app through Spotlight, you can press and hold the Command key again, then double-click on the app; this will show the app in the Applications folder. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Will deleting an app cancel the subscription?
@@ -140,24 +140,18 @@ Simply deleting an app will not cancel any membership or subscription you may ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-mastering-the-craft-of-youtubers-music-reaction-videos-essentials/"><u>[New] 2024 Approved Mastering the Craft of Youtubers Music Reaction Videos Essentials</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/void-blandness-optimize-your-thumbnail-with-20-fonts-for-2024/"><u>[New] Avoid Blandness - Optimize Your Thumbnail with 20 Fonts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-20-visionary-metaverse-projects-with-educational-value/"><u>[Updated] 20 Visionary Metaverse Projects with Educational Value</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-captivating-audience-with-these-innovative-videos/"><u>[Updated] 2024 Approved Captivating Audience with These Innovative Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-streamlining-creation-top-10-easy-to-create-biz-channels-on-youtube-for-2024/"><u>[Updated] Streamlining Creation Top 10 Easy-to-Create Biz Channels on YouTube for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bring-outrageous-adventures-to-life-in-dandd-using-gpt-tips/"><u>Bring Outrageous Adventures to Life in D&D Using GPT Tips</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-tecno-spark-10-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Spark 10 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-explore-the-premier-3d-blu-ray-systems-of-today/"><u>In 2024, Explore The Premier 3D Blu-Ray Systems of Today</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 mini 3 Ways To Unlock</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-gadget-review-cutting-edge-performance-breakdowns/"><u>Inside Tom's Gadget Review: Cutting-Edge Performance Breakdowns</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-devices-with-tips-from-toms-hardware-experts/"><u>Master Your Devices with Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-flawless-3d-printouts-strategies-for-preventing-unwanted-holes-and-gaps/"><u>Mastering Flawless 3D Printouts: Strategies for Preventing Unwanted Holes and Gaps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-insightful-tips-from-toms-hardware-team/"><u>Navigating the World of Tech: Insightful Tips From Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-computing-knowledge-from-toms-hardware-hub/"><u>Precision Computing Knowledge From Tom's Hardware Hub</u></a></li>
-<li><a href="https://games-able.techidaily.com/proficient-techniques-for-finding-steam-users/"><u>Proficient Techniques for Finding Steam Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-geometric-future-eskimo-jr-innovative-layout-and-low-decibels-with-average-functionality/"><u>Review of Geometric Future Eskimo Jr.: Innovative Layout & Low Decibels with Average Functionality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rgb-memory-kits-the-ultimate-guide-to-choosing-the-best-gaming-ram/"><u>RGB Memory Kits: The Ultimate Guide to Choosing the Best Gaming RAM</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-chilled-with-eks-premium-custom-cooling-solutions-for-amd-ryzen-am5-processors/"><u>Stay Chilled with EK's Premium Custom Cooling Solutions for AMD Ryzen AM5 Processors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-toms-guide-to-understanding-advanced-hardware/"><u>The Comprehensive Tom's Guide to Understanding Advanced Hardware</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-roguelike-rankings-the-best-10-games/"><u>[Updated] In 2024, Ultimate Roguelike Rankings The Best 10 Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-device-currently-in-use-error-on-hdmi-connections/"><u>How to Fix the 'Device Currently In Use' Error on HDMI Connections</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-x-fold-2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo X Fold 2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premium-console-emulation-choosing-the-top-5-for-windows/"><u>In 2024, Premium Console Emulation Choosing the Top 5 for Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-wood-craftsmanship-how-researchers-use-3d-printing-and-sawdust-ink-to-mimic-real-wood-characteristics/"><u>Revolutionizing Wood Craftsmanship: How Researchers Use 3D Printing & Sawdust Ink to Mimic Real Wood Characteristics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-unveiled-the-inside-story-of-advanced-components-at-tome-hardware-hub/"><u>Tech Unveiled: The Inside Story of Advanced Components at Tom'e Hardware Hub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-seven-revolutions-ais-impact-on-work/"><u>The Seven Revolutions: AI's Impact on Work</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-audio-equipment-of-2024/"><u>Top Rated Gaming Audio Equipment of 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-powered-up-customize-cmd-shortcuts-using-nircmd/"><u>Windows 11 Powered Up: Customize Cmd Shortcuts Using NirCmd</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/witnessing-high-crash-rates-in-warframe-on-intels-i9-and-i7-chips-developer-report-analysis/"><u>Witnessing High Crash Rates in Warframe on Intel's I9 and I7 Chips: Developer Report Analysis</u></a></li>
 </ul></div>
 

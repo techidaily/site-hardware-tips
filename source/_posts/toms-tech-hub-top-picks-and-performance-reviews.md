@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Hub: Top Picks and Performance Reviews"
-date: 2024-08-19T02:45:38.994Z
-updated: 2024-08-20T02:45:38.994Z
+date: 2025-02-09T22:14:19.648Z
+updated: 2025-02-15T20:50:09.514Z
 tags:
   - monitor
 categories:
@@ -17,6 +17,10 @@ For those who deal with fatigue while looking at a screen, there's always paper.
 
  Working with Dave Crossland and Wenting Zhang, (aka @zephray\_wenting who you may remember for documenting his adventures with a[prison laptop](https://tools.techidaily.com) ), Soto successfully created his ideal monitor. Since its software and hardware are both open-sourced via[GitHub](https://github.com/Modos-Labs/Glider) , ambitious enough DIYers may be enabled to create this display or a similar display for themselves.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Modos Tech Paper Monitor Core Specs
 
 * **Panel Type** : Monochrome E-Ink (optional Full-Color Panel also available)
@@ -28,6 +32,10 @@ For those who deal with fatigue while looking at a screen, there's always paper.
  For many, the most important aspect may be the low latench. Modos is promising "a consistent < 120ms latency, compared to competitors, up to 270ms latency," which would make it pretty fast.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modos Tech Paper Monitor Display Modes
 
@@ -42,9 +50,9 @@ For those who deal with fatigue while looking at a screen, there's always paper.
  In any case, those who are interested can submit their information to the Modos Paper Monitor's[Crowd Supply page](https://www.crowdsupply.com/modos-tech/modos-paper-monitor) to be kept in the loop for future updates. This does seem like a nice companion for those wanting to reduce their eyestrain, though its small size makes it seem more like a laptop companion than a desktop-appropriate display.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,8 +67,6 @@ For those who deal with fatigue while looking at a screen, there's always paper.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -68,4 +74,24 @@ For those who deal with fatigue while looking at a screen, there's always paper.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-techniques-to-improve-visibility-during-youtube-playback/"><u>[New] In 2024, Techniques to Improve Visibility During YouTube Playback</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-examining-the-performance-of-recmeister-for-screen-recording/"><u>[Updated] Examining the Performance of Recmeister for Screen Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-max-360-and-hero-11-gopro-comparison-which-reigns-supreme-for-2024/"><u>[Updated] Max 360 and Hero 11 GoPro Comparison - Which Reigns Supreme for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-nitro-16-the-ultimate-deal-gamers-haven-at-just-1129-with-rtx-4070-and-amd-processor/"><u>Acer Nitro 16 - The Ultimate Deal: Gamer's Haven at Just $1,129 with RTX 4070 and AMD Processor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-explorations-a-comprehensive-guide-by-toms-hardware-haven/"><u>Advanced Tech Explorations: A Comprehensive Guide by Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-revolutionizes-laptop-performance-with-zenbook-s-and-tuf-a14-merging-intel-elegance-with-amd-strength/"><u>Asus Revolutionizes Laptop Performance with ZenBook S and TUF A14: Merging Intel Elegance with AMD Strength</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/behind-the-scenes-of-new-snapdragon-laptops-first-look-with-copilotplus-live-updates/"><u>Behind the Scenes of New Snapdragon Laptops - First Look with Copilot+ Live Updates</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/gopro-hero5-captured-life-review/"><u>GoPro Hero5 Captured Life Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g24-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G24 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/shadowing-snaptaking-discreet-methods-to-capture-snapchats-for-2024/"><u>Shadowing SnapTaking Discreet Methods to Capture SnapChats for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-high-performance-dvd-burners-featuring-built-in-hard-drives/"><u>Top 5 High-Performance DVD Burners Featuring Built-In Hard Drives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-performance-insights-from-toms-hardware-adventures/"><u>Ultimate Performance Insights From Tom's Hardware Adventures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-elite-laptops-powered-by-the-latest-snapdragon-x-processor-surpassing-the-15-hour-mark-and-challenging-intel-rivals/"><u>Unveiling Elite Laptops Powered by the Latest Snapdragon X Processor: Surpassing the 15-Hour Mark & Challenging Intel Rivals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-in-depth-articles-and-expert-opinions-from-toms-hardware/"><u>Unveiling Tech Secrets: In-Depth Articles & Expert Opinions From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-in-computer-components-through-toms-eyes/"><u>Unveiling the Best in Computer Components Through Tom's Eyes</u></a></li>
+</ul></div>
 

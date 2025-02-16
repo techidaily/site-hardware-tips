@@ -1,7 +1,7 @@
 ---
 title: "7-Device Charging Capacity: Unmatched 140W Portable Battery Backup That Lasts Longer Between Charges - Spotlight on Tech"
-date: 2025-02-02T04:31:30.446Z
-updated: 2025-02-02T19:21:02.882Z
+date: 2025-02-09T18:22:36.281Z
+updated: 2025-02-15T18:54:08.789Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -81,7 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,22 +130,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-harmony-at-hand-free-audio-from-fb/"><u>[New] Harmony at Hand Free Audio From FB</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-innovative-10-solutions-for-seamless-video-background-swapping/"><u>[Updated] 2024 Approved Innovative 10 Solutions for Seamless Video Background Swapping</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-in-style-unbeatable-deal-on-the-best-air-cooler-ever-thermalrights-peerless-assassin-120-se-at-just-33/"><u>Beat the Heat in Style - Unbeatable Deal on the Best Air Cooler Ever, Thermalright's Peerless Assassin 120 SE at Just $33!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/cutting-edge-5-home-movie-maker/"><u>Cutting-Edge 5 Home Movie Maker</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y200-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y200 for Parents | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-computing-solutions-by-tom-comprehensive-hardware-analysis/"><u>Innovative Computing Solutions by Tom - Comprehensive Hardware Analysis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/latest-samsung-bd-j5900-updated-review-2023/"><u>Latest Samsung BD-J5900 Updated Review 2023</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-analysis-and-reviews-by-toms-industry-experts/"><u>Pioneering Hardware Analysis and Reviews by Tom's Industry Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-technique-for-semiconductor-assembly-using-three-dimensional-printing-technology/"><u>Revolutionary Technique for Semiconductor Assembly Using Three-Dimensional Printing Technology</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/toms-computing-solutions-in-depth-reviews-and-guides/"><u>Tom's Computing Solutions: In-Depth Reviews & Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
-<li><a href="https://article-helps.techidaily.com/top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone-for-2024/"><u>Top 5 Podcast Apps for Listening to Podcasts on an iPhone for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-university-computers-expertly-reviewed-selections-for-academics-creativity-entertainment/"><u>Top-Ranked University Computers: Expertly Reviewed Selections for Academics, Creativity, Entertainment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-am350-chipset-boards-unveiling-the-best-budget-friendly-options-for-pcie-40/"><u>Top-Rated AM350 Chipset Boards: Unveiling the Best Budget-Friendly Options for PCIe 4.0</u></a></li>
-<li><a href="https://fox-http.techidaily.com/ultimate-chuckles-and-pixels-suite-for-2024/"><u>Ultimate Chuckles and Pixels Suite for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-secrets-of-toms-pc-insights/"><u>Unraveling the Secrets of Tom's PC Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-celebrating-soundtracks-the-ultimate-anime-list-for-2024/"><u>[New] Celebrating Soundtracks The Ultimate Anime List for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>[New] From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-overviews-discover-more-at-tomngear/"><u>Advanced Tech Overviews: Discover More at Tom'n'Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/an-android-enthusiasts-dream-customizing-your-phone-alerts-with-style-and-personality-for-2024/"><u>An Android Enthusiast’s Dream Customizing Your Phone Alerts with Style and Personality for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-guide-wacom-intuos-pro-drivers-for-windows-11/"><u>Effortless Installation Guide: Wacom Intuos Pro Drivers for Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-techniques-for-high-quality-xbox-screenshots/"><u>Expert Techniques for High-Quality Xbox Screenshots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-your-pc-with-intels-latest-discovery-arrow-lake-processors-meet-z890-chipsets-in-leaked-imagery/"><u>Futureproof Your PC with Intel's Latest Discovery: Arrow Lake Processors Meet Z890 Chipsets in Leaked Imagery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125156692-get-the-ultimate-deal-highly-rated-eleegoo-neptune-4-pro-now-priced-at-240-on-newegg/"><u>Get the Ultimate Deal - Highly Rated Eleegoo Neptune 4 Pro Now Priced at $240 on Newegg!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-one-shot-3d-print-technology-unveils-robotic-hand-a-milestone-in-diy-prosthetics-and-amputation-solutions/"><u>Innovative One-Shot 3D Print Technology Unveils Robotic Hand: A Milestone in DIY Prosthetics and Amputation Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-communication-barriers-to-enhance-teamwork-in-phasmophobia/"><u>Overcoming Voice Communication Barriers to Enhance Teamwork in Phasmophobia</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-most-convenient-bluetooth-mice-to-improve-your-workflow-and-comfort-2024-edition/"><u>The Most Convenient Bluetooth Mice to Improve Your Workflow and Comfort - 2024 Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-8-android-apps-to-change-slow-motion-videos-to-regular-speed-vide/"><u>Top 8 Android Apps to Change Slow-Motion Videos to Regular-Speed Vide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-choice-air-cooled-heatsinks-of-2024-your-guide/"><u>Top Choice Air-Cooled Heatsinks of 2024: Your Guide</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultimate-guide-setting-up-a-new-ssd-or-hdd-on-your-windows-10-pc-quick-and-easy-steps/"><u>Ultimate Guide: Setting Up a New SSD or HDD on Your Windows 10 PC - Quick and Easy Steps!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-new-era-in-ai-performance-amperes-cutting-edge-512-core-ampereone-aurora-processor-with-custom-ai-engine-capabilities-and-hbm-memory-support-rede48/"><u>Unleashing New Era in AI Performance: Ampere's Cutting-Edge 512-Core AmpereOne Aurora Processor with Custom AI Engine Capabilities and HBM Memory Support Redefining Computational Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-components-on-toms-digital-forge/"><u>Unveiling Gadgets and Components on Tom's Digital Forge</u></a></li>
 </ul></div>
 

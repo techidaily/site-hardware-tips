@@ -1,7 +1,7 @@
 ---
 title: How These Featherlight Computers Blew My Mind and Outshined the Iconic MacBook Air | ZDNet Review
-date: 2025-01-30T05:48:45.980Z
-updated: 2025-02-02T22:25:07.876Z
+date: 2025-02-12T18:24:26.723Z
+updated: 2025-02-15T22:39:30.579Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -132,21 +132,15 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hidden-gems-in-the-world-of-snapchat-ringtones-online/"><u>[New] Hidden Gems in the World of Snapchat Ringtones Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-10-cheap-cameras-for-dynamic-shots/"><u>[Updated] Top 10 Cheap Cameras For Dynamic Shots</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-virtual-reality-finger-guards-unveiled/"><u>2024 Approved Best Virtual Reality Finger Guards Unveiled</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-11-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 11 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/aseteks-groundbreaking-ai-optimized-ecam-cold-plate-created-through-cutting-edge-3d-metal-printing-in-partnership-with-fabric8labs/"><u>Asetek's Groundbreaking AI-Optimized ECAM Cold Plate, Created Through Cutting-Edge 3D Metal Printing in Partnership with Fabric8Labs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/copper-content-discrepancy-in-pc-watercoolers-investigation-finds-false-advertising-prevails-on-two-thirds/"><u>Copper Content Discrepancy in PC Watercoolers: Investigation Finds False Advertising Prevails on Two-Thirds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/critical-safety-alert-for-bambu-lab-users-a1-series-recalled-full-reimbursements-offered-and-use-temporarily-halted/"><u>Critical Safety Alert for Bambu Lab Users: A1 Series Recalled, Full Reimbursements Offered and Use Temporarily Halted</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/customizable-wireless-charging-pad-mimicking-a-3d-printer-affordable-diy-solution-by-bambu-labs-under-50/"><u>Customizable Wireless Charging Pad Mimicking a 3D Printer - Affordable DIY Solution by Bambu Labs Under $50</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-quieter-powerful-home-cooling-with-iceberg-thermal-icefloe-series-in-depth-review-of-budget-models-240-and-360/"><u>Discover Quieter, Powerful Home Cooling with Iceberg Thermal IceFLOE Series - In-Depth Review of Budget Models 240 & 360</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-dealing-with-missing-pdhdll-file-errors-on-windows/"><u>Effective Strategies for Dealing with Missing pdh.dll File Errors on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-the-innovative-qualities-of-the-creality-k1-c-carbon-sla-machine/"><u>Evaluating the Innovative Qualities of the Creality K1 C Carbon SLA Machine</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-on-high-quality-black-tpu-filament-save-big-at-just-16-per-kilo/"><u>Exclusive Deal on High-Quality Black TPU Filament – Save Big at Just $16 Per Kilo!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-6s-plus-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 6s Plus Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-powerful-photo-editing-software-to-replace-windows-10-photos/"><u>In 2024, 8 Powerful Photo Editing Software to Replace Windows 10 Photos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-vivo-y100i-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Vivo Y100i</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/samsung-k850u-bdplus-2023-assessment-for-2024/"><u>Samsung K850U BD+ 2023 Assessment for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-edit-like-a-pro-title-and-description-tips-for-igtv-success/"><u>[New] Edit Like a Pro Title & Description Tips for IGTV Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-locomotion-survey-2023/"><u>[New] Total Locomotion Survey 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-authoritative-insights-on-premium-auto-cam-tech/"><u>2024 Approved Authoritative Insights on Premium Auto Cam Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-brilliance-with-the-q500-drone/"><u>Capturing Brilliance with the Q500 Drone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eat-this-tasty-3d-printed-qr-codes-that-can-be-read-by-your-scanner/"><u>Eat This! Tasty 3D-Printed QR Codes That Can Be Read by Your Scanner</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/expert-tutorial-successfully-installing-and-using-moviebox-app-on-your-iphone-11-with-ios-13/"><u>Expert Tutorial: Successfully Installing and Using Moviebox App on Your IPhone 11 with iOS 13</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-excel-outperforms-chatgpt-in-data-management-discover-3-ways/"><u>How Excel Outperforms ChatGPT in Data Management - Discover 3 Ways!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/multi-threading-magic-the-secret-to-amds-zen-processor-outshining-intel-with-superior-power-management/"><u>Multi-Threading Magic: The Secret to AMD's Zen Processor Outshining Intel with Superior Power Management</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simplify-post-printing-steps-in-resin-3d-printing-discover-the-power-of-the-elegoo-bundle-for-just-149/"><u>Simplify Post-Printing Steps in Resin 3D Printing – Discover the Power of the Elegoo Bundle for Just $149!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-corner-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Corner: The Ultimate Guide to Computer Components</u></a></li>
 </ul></div>
 

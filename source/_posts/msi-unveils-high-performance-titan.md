@@ -1,7 +1,7 @@
 ---
 title: MSI Unveils High-Performance Titan
-date: 2024-08-19T02:49:49.304Z
-updated: 2024-08-20T02:49:49.304Z
+date: 2025-02-13T20:04:07.572Z
+updated: 2025-02-15T22:22:36.932Z
 tags:
   - laptop
 categories:
@@ -29,6 +29,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
 
  The Acemagic X1's dual-monitor experience is genuinely superior to what's come before. Asus has used small second screens on its touchpad or above its keyboard on the deck, but these are best used for palettes or control panels. Lenovo has done a lot of second-screen experimentation, doing everything from having a 7-inch display pop out of a slot in the lid on the 17-inch ThinkPad W series to putting an 8-inch screen where the numpad might be on a ThinkBook to releasing the Yoga 9i, which is two screens without a built-in keyboard. Acer also produced an Iconia laptop with two touch screens many years ago.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -44,6 +48,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
  The screens are decent, but they aren't particularly bright or colorful. The keyboard feels pretty snappy but it's not likely to make anyone forget about their ThinkPad's typing experience. The touchpad seemed ok but wasn't particularly large. Also, the entire laptop looks really unexciting in its drab, gray colorway.
 
 ![Acemagic X1](https://cdn.mos.cms.futurecdn.net/efSjDm3yhxK3FmNbUzkeoL-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -61,8 +69,6 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +76,17 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-from-idea-to-airwaves-crafting-compelling-podcast-scripts-for-2024/"><u>[New] From Idea to Airwaves Crafting Compelling Podcast Scripts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-compreayer-study-of-magix-image-suite/"><u>[Updated] A Compreayer Study of MAGIX Image Suite</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/automatico-backup-di-singolo-file-come-configurare-la-sincronizzazione-giornaliera/"><u>Automatico Backup Di Singolo File: Come Configurare La Sincronizzazione Giornaliera?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-the-definitive-source-for-pc-gear-insights-and-evaluations/"><u>Inside Tom's Hardware: The Definitive Source for PC Gear Insights and Evaluations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-youtube-with-imovie-a-soundtrack-journey-for-2024/"><u>Merging Youtube with iMovie A Soundtrack Journey for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/practical-methods-for-instagram-story-capture/"><u>Practical Methods for Instagram Story Capture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-pc-aesthetics-with-lian-lis-strimer-plus-v2-a-comprehensive-review-of-its-dazzling-psu-cable-illumination-upgrade/"><u>Revolutionizing PC Aesthetics with Lian Li's Strimer Plus V2 - A Comprehensive Review of Its Dazzling PSU Cable Illumination Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-analysis-of-the-latest-hardware/"><u>Tom's Tech Insights: In-Depth Reviews and Analysis of the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-reviews-and-advice/"><u>Tom's Tech Review: In-Depth Reviews and Advice</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->

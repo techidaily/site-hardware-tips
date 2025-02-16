@@ -1,7 +1,7 @@
 ---
 title: "Sneak Peek Into Samsung's Upcoming Laptop Lineup: The Galaxy Book 4 Edge Powered by Qualcomm's Latest Chip - Pre-Microsoft Event Tease"
-date: 2024-08-19T02:47:55.756Z
-updated: 2024-08-20T02:47:55.756Z
+date: 2025-02-10T21:14:07.084Z
+updated: 2025-02-15T16:46:49.231Z
 tags:
   - laptop
 categories:
@@ -29,6 +29,10 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The laptop comes with Wi-Fi 7, and has two USB 4 ports, two USB 3.2 Type-A ports, and a headphone jack.[Acer](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F8680306267401017872&xs=1&url=https%3A%2F%2Fwww.acer.com%2Fph-en%2Flaptops%2Fswift%2Fswift-14-ai&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fmicrosoft-copilot-pcs-available-now-here-are-all-the-snapdragon-elite-x-laptops-you-can-buy-today) says this laptop will be available in June 2024 and will start at $1,099.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus Vivobook S15 (S5507)
 
 ![Asus Vivobook S15 (S5507)](https://cdn.mos.cms.futurecdn.net/CmW4jk5Yzqazm3dLiukSe6-320-80.png)
@@ -39,9 +43,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Vivobook S15 (S5507) features two USB 4 ports, two USB 3.2 Type-A ports, a microSD card reader, an HDMI 2.1 port, and a 3.5mm headphone jack. It starts at $1,299.99 on the [Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-1448347873480858520&url=https%3A%2F%2Fshop.asus.com%2Fus%2F90nb14q2-m000w0-asus-vivobook-s-15-s5507.html) , but is out of stock at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,16 +51,14 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Dell XPS 13
 
 ![Dell XPS 13](https://cdn.mos.cms.futurecdn.net/QAyqoqgfXVyMCzhuYHvvaS-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 (Image credit: Dell)
 
  The XPS 13 is one of the most popular Windows laptops around, and it’s one of the first[Dell](https://tools.techidaily.com) machines to get the Copilot+ PC brand. The XPS 13 is only available with Snapdragon X Elite X1E-80-100 chip, but you can spec it with 16GB, 32GB, or 64GB of LPDDR5X RAM. You can even get it with a 512GB, 1TB, or 2TB M.2 PCIe NVMe SSD.
@@ -91,8 +90,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 ![HP OmniBook X 14](https://cdn.mos.cms.futurecdn.net/gu94E6KZHnHWC6swaVeuab-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 (Image credit: HP)
 
  This laptop is the budget Copilot+ PC from HP, but it doesn’t mean that you’re losing out on features. The OmniBook X 14 still uses the same chip as the EliteBook Ultra 14 with 16GB of RAM. It also has a 512GB SSD, which you can upgrade to 1TB for $100 extra. It also has a 14-inch 2.2K display, but this one is multi-touch enabled.
@@ -100,11 +100,16 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
  Although this laptop is thicker than the EliteBook Ultra 14, it’s also substantially more affordable at $1,149.99\. You can purchase and customize this laptop now on[the HP website](https://www.anrdoezrs.net/click-8900246-15852945?sid=tomshardware-us-1154629704587710143&url=https://www.hp.com/us-en/shop/ConfigureView?langId=-1&storeId=10151&catalogId=10051&catEntryId=3074457345621303820&urlLangId=&quantity=1) , but shipments will begin on July 9.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lenovo Yoga Slim 7x
 
 ![Lenovo Yoga Slim 7x](https://cdn.mos.cms.futurecdn.net/J3XYYNCds6rXWkSQVXZc49-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Lenovo)
 
@@ -116,9 +121,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Lenovo ThinkPad T14s Gen 6](https://cdn.mos.cms.futurecdn.net/By8PYnaLQtTDyDkoyxvmNd-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Lenovo knows that many businesses want to get on the AI bandwagon, so it’s bringing the Copilot+ PC certification to one of the most popular[enterprise](https://tools.techidaily.com) laptops. The ThinkPad T14s Gen 6 has a Snapdragon X Elite processor with 32GB of RAM and a 1TB SSD. It also comes with[Windows 11](https://tools.techidaily.com) Pro right out of the box.
@@ -126,8 +128,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
  This laptop has a 14-inch IPS display and two USB4 ports, two USB-A ports, an HDMI 2.1 port, and a 3.5mm headphone jack. You also have the option to add a Nano Sim slot. The ThinkPad T14s Gen 6 starts at $1,889.30 and is available for Pre-Order direct[from Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-1250424839333332531%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fthinkpad%252Fthinkpadt%252Flenovo-thinkpad-t14s-gen-6-%252814-inch-snapdragon%2529%252Flen101t0099) at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Microsoft Surface Laptop
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
@@ -142,22 +145,24 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Microsoft Surface Pro](https://cdn.mos.cms.futurecdn.net/FDVeU5mue9SMrJ7zU7yjHB-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Microsoft)
 
  If you prefer the tablet form factor, you can still get a Copilot+ PC with the Microsoft Surface Pro. This 2-in-1 starts at $999.99 for the Snapdragon X Plus version with a 13-inch LCD display, 16GB of RAM, and a 256GB SSD for the Platinum colorway. The three other colors — Sapphire, Dune, and Black — start at $1,199.99 with a larger 512GB SSD.
 
  The Snapdragon X Elite model gets a 13-inch OLED screen and 16GB of RAM, but you now also have a choice between a 512GB or a 1TB SSD. The Snapdragon X Elite Surface Pro starts at $1,499.99 but jumps to $1,699.99 for the larger storage version. You can also spec this chip with 32GB of RAM and 1TB SSD, but you’ll have to shell out $2,099.99 for this model. You can get it now from[Microsoft](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj) if you want a new Windows 11 tablet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Samsung Galaxy Book4 Edge
 
 ![Samsung Galaxy Book4 Edge](https://cdn.mos.cms.futurecdn.net/92Lc3j6TS3cq5HjHkBqebH-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Samsung)
 
  Samsung’s Copilot+ PC offering starts at $1,359.99 with the Galaxy Book4 Edge. This laptop has a 14-inch display and uses a 3.4 GHz Snapdragon X Elite X1E-80-100 chip with 16GB of RAM and 512GB of storage. The Galaxy Book4 also offers the same specs but with a larger 16-inch for $1,449.99.
@@ -172,8 +177,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +184,22 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-upgrade-your-whatsapp-experience-with-a-bespokel-ringtones-design/"><u>2024 Approved Upgrade Your WhatsApp Experience with a Bespokel Ringtones Design</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/captivating-literary-book-trailers/"><u>Captivating Literary Book Trailers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ess-foundations-top-youtube-skincare-routines-for-2024/"><u>Flawless Foundations Top YouTube Skincare Routines for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Civi 3 Disney 100th Anniversary Edition Location by Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-start-guide-solving-the-endless-boot-sequence-of-forza-horizon-5-gameplay/"><u>Quick-Start Guide: Solving the Endless Boot Sequence of Forza Horizon 5 Gameplay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-gaming-experience-with-the-alienware-aw2725df-an-oled-monitor-built-for-speed-and-immersion-reviewed-here/"><u>Revolutionize Your Gaming Experience with the Alienware AW2725DF - An OLED Monitor Built for Speed and Immersion Reviewed Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-setup-with-the-aoc-agon-pro-ag45nucg-an-in-depth-look-at-the-45-ultrawide-oled-gaming-screen-sharp-performance-meets-stylish-extreme-curv58/"><u>Revolutionize Your Setup with The AOC Agon Pro AG45nUCG - An In-Depth Look at the 45 Ultrawide OLED Gaming Screen: Sharp Performance Meets Stylish Extreme Curve</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/spectacular-size-and-speed-for-gamers-comprehensive-review-of-the-low-priced-monoprice-crystal-pro-40-inch-screen/"><u>Spectacular Size & Speed for Gamers - Comprehensive Review of the Low-Priced Monoprice Crystal Pro 40-Inch Screen</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-list-of-8-powerful-daw-options-revolutionize-your-music-production-process-for-2024/"><u>The Ultimate List of 8 Powerful DAW Options Revolutionize Your Music Production Process for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-cutting-edge-computer-components/"><u>Tom's Tech Insights: Your Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ultrawide-displays-for-gamers-best-picks-2nd3/"><u>Top Ultrawide Displays for Gamers - Best Picks 2nD3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-samsung-pixel-dense-viewfinity-s9-5k-monitor-now-just-899-save-44-on-this-premium-27-ips-display-with-integrated-4k-cam/"><u>Unbeatable Deal: Samsung Pixel-Dense ViewFinity S9 5K Monitor, Now Just $899 - Save 44% on This Premium 27 IPS Display with Integrated 4K Cam</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Workers, Get Ready to Upgrade! Exclusive Deal Alert: Prime Day's $1K Off on the Best Lenovo Laptop Picked by ZDNet."
-date: 2025-01-30T20:56:03.847Z
-updated: 2025-02-03T00:46:04.848Z
+date: 2025-02-09T19:36:54.270Z
+updated: 2025-02-15T18:02:02.398Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,21 +79,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-freefire-hashtags-to-skyrocket-video-views-on-youtube/"><u>[New] In 2024, Essential FreeFire Hashtags to Skyrocket Video Views on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-voice-transformation-tools-for-social-media-stars/"><u>[New] Ultimate Voice Transformation Tools for Social Media Stars</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-tailor-made-edits-customizing-videos-in-studio/"><u>[Updated] In 2024, Tailor-Made Edits Customizing Videos in Studio</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-troubleshooting-stop-sequential-frame-skips-in-live-streaming/"><u>2024 Approved Troubleshooting Stop Sequential Frame Skips in Live Streaming</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-companion-apps-for-androidiphone-slow-motion-shooting/"><u>Best Companion Apps for Android/iPhone Slow Motion Shooting</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-tech-game-with-expert-advice-from-tome-hardware-corner/"><u>Elevate Your Tech Game with Expert Advice From Tom'e Hardware Corner</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-guide-to-cost-effective-3d-printing-elite-models-offered-at-budget-friendly-price-points/"><u>Expert Guide to Cost-Effective 3D Printing: Elite Models Offered at Budget-Friendly Price Points</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-on-electronics-by-tom-your-reliable-hardware-source/"><u>Expert Reviews on Electronics by Tom - Your Reliable Hardware Source</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-tech-a-dive-into-toms-hardware-insights-and-reviews/"><u>Exploring Tech: A Dive Into Tom's Hardware Insights and Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hytes-game-changing-nexus-link-streamline-pc-building-with-magnetic-connectivity-and-oversized-screen-cooler/"><u>Hyte's Game-Changing Nexus Link - Streamline PC Building with Magnetic Connectivity and Oversized Screen Cooler</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-realme-narzo-60x-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Realme Narzo 60x 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-nights-reign-black-vs-the-dawns-duty-silver/"><u>The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-all-in-one-cpu-coolers-of-2024/"><u>Top-Rated All-in-One CPU Coolers of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/trustworthy-tech-advice-from-toms-reviews-and-analysis/"><u>Trustworthy Tech Advice From Tom's Reviews & Analysis</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/bes-pinnacle-tools-studio-vs-next-gen-beta-for-2024/"><u>YouTube's Pinnacle Tools Studio Vs. Next-Gen Beta for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-perfect-virtual-screens-choosing-best-meet-backgrounds/"><u>[Updated] In 2024, Perfect Virtual Screens Choosing Best Meet Backgrounds</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converti-video-mov-a-formato-ogg-free-online-con-movavi/"><u>Converti Video MOV a Formato Ogg Free Online Con Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-sas-driver-versions-for-windows-10plus-systems-easy-download-and-update-guide/"><u>Get the Newest SAS Driver Versions for Windows 10+ Systems: Easy Download and Update Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-expert-advice-on-optimal-live-cricket-broadcast-watching/"><u>In 2024, Expert Advice on Optimal Live Cricket Broadcast Watching</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-note-30-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Note 30 5G Phone Screen?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-it-safe-to-put-additional-ram-in-my-devise/"><u>Is It Safe to Put Additional RAM in My Devise?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-no-playable-sources-error-when-trying-to-load-player-on-windows/"><u>Resolved: Fixing 'No Playable Sources' Error When Trying to Load Player on Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/steer-clear-of-targeted-commercial-content-in-browsing-for-2024/"><u>Steer Clear of Targeted Commercial Content in Browsing for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-resurgence-of-interchangeable-cell-phone-batteries-changing-the-game-for-users-and-manufacturers/"><u>The Resurgence of Interchangeable Cell Phone Batteries - Changing the Game for Users and Manufacturers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-rise-of-alternatives-top-competitors-in-the-folding-phone-market/"><u>The Rise of Alternatives: Top Competitors in the Folding Phone Market</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-10-ultimate-android-weather-widget-applications-enhancing-your-forecast-experience/"><u>Top 10 Ultimate Android Weather Widget Applications: Enhancing Your Forecast Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-essential-factors-to-evaluate-before-purchasing-pre-owned-android-devices/"><u>Top 5 Essential Factors to Evaluate Before Purchasing Pre-Owned Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-benefits-of-digitizing-your-comic-book-collection-switching-from-print-to-tablet/"><u>Top 6 Benefits of Digitizing Your Comic Book Collection: Switching From Print to Tablet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Lenovo ThinkPad X1 Carbon Gen 12: Portable Powerhouse Equipped with Next-Generarian Artificial Intelligence"
-date: 2024-08-19T02:48:59.216Z
-updated: 2024-08-20T02:48:59.216Z
+date: 2025-02-14T19:00:42.149Z
+updated: 2025-02-15T18:37:34.888Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
 
  These sanctions have forced Chinese tech companies to look elsewhere for technologies, and[RISC-V’s open-source nature](https://tools.techidaily.com) is crucial for some of their plans. U.S.-imposed limitations have allowed the East Asian country to build innovative solutions based on this architecture. SiFive, the American semiconductor company behind the general-purpose cores of[Google](https://tools.techidaily.com) ’s TPUs, even[chose the faster Chinese Eswin SoC instead of an Intel processor](https://tools.techidaily.com) for its HiFive Premier P550 development board.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,8 +49,6 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +56,21 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-a-comprehensive-look-at-ig-reels-vs-stories-for-2024/"><u>[New] A Comprehensive Look at IG Reels Vs Stories for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>[Updated] 2024 Approved Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlocking-the-potential-of-youtube-partnerships-tips-for-successful-collabs/"><u>[Updated] 2024 Approved Unlocking the Potential of YouTube Partnerships Tips for Successful Collabs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-tips-and-tricks-for-flawless-sims-4-recordings/"><u>[Updated] In 2024, Tips and Tricks for Flawless Sims 4 Recordings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-edge-40-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola Edge 40 without App | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-new-gadgets-and-tools-for-your-pc-setup-in-2019-the-ultimate-list/"><u>Best New Gadgets and Tools for Your PC Setup in 2019: The Ultimate List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-pc-building-tips-and-tricks-a-comprehensive-instructional-post/"><u>DIY PC Building Tips & Tricks: A Comprehensive Instructional Post</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-insights-the-ultimate-guide-to-computer-components/"><u>Exploring Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 11 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://win11.techidaily.com/modernizing-windows-11-essential-modifications-and-improvements-for-the-taskbar/"><u>Modernizing Windows 11: Essential Modifications and Improvements for the Taskbar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pc-build-without-a-hitch-console-based-simulator-arrives/"><u>PC Build Without a Hitch: Console-Based Simulator Arrives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-vs-series-9-showdown-comparing-the-latest-innovations-of-google-and-apple-smartwatches-is-it-time-to-upgrade/"><u>Pixel Vs. Series 9 Showdown: Comparing the Latest Innovations of Google and Apple Smartwatches – Is It Time to Upgrade?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-ai-tool-designed-for-pc-builds-yields-absurdly-lowhigh-price-estimates-and-slow-performance/"><u>Revolutionary AI Tool Designed for PC Builds Yields Absurdly Low/High Price Estimates and Slow Performance</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

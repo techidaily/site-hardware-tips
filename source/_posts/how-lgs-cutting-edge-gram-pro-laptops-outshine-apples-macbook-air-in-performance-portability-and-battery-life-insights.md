@@ -1,7 +1,7 @@
 ---
 title: How LG's Cutting-Edge Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Portability, and Battery Life Insights
-date: 2025-01-30T16:22:30.001Z
-updated: 2025-02-02T21:02:46.813Z
+date: 2025-02-09T20:45:03.031Z
+updated: 2025-02-15T20:15:04.763Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,14 +114,16 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-navigating-device-specific-zoom-configurations/"><u>[Updated] 2024 Approved Navigating Device-Specific Zoom Configurations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-whispered-wealth-the-silent-online-auction-for-secrecys-treasures-2023/"><u>[Updated] 2024 Approved Whispered Wealth The Silent Online Auction for Secrecy's Treasures, 2023</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-integrating-luts-into-film-colorwork/"><u>[Updated] Integrating Luts Into Film Colorwork</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-gadgets-and-pc-hardware-insights/"><u>Exploring Tom's Gadgets and PC Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-choose-the-perfect-microsd-card-for-your-raspberry-pi-2024-buyers-guide/"><u>How to Choose the Perfect MicroSD Card for Your Raspberry Pi: 2024 Buyer’s Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-how-to-easily-add-subtitles-and-closed-captions-to-youtube-video/"><u>In 2024, How to Easily Add Subtitles and Closed Captions to YouTube Video</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reviewing-the-corsair-air-a11e-pc-fanless-cooler-robust-whisper-quiet-and-premium-priced/"><u>Reviewing the Corsair Air A11e PC Fanless Cooler: Robust, Whisper Quiet and Premium Priced</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-budget-conscious-3d-printer-picks-featuring-sla-fdm-and-sub-250-models/"><u>Top Budget-Conscious 3D Printer Picks : Featuring SLA, FDM & Sub-$250 Models</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-save-time-save-stress-a-step-by-step-guide-to-saving-fcp-projects-for-2024/"><u>Updated Save Time, Save Stress A Step-by-Step Guide to Saving FCP Projects for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-engagement-creating-top-tier-fb-ad-videos/"><u>[Updated] Enhancing Engagement Creating Top-Tier FB Ad Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-use-5g-on-your-smartphone-learn-to-check-compatibility-now/"><u>Can You Use 5G on Your Smartphone? Learn to Check Compatibility Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-amazon-fire-max-89-inch-tablet-assessment-your-ultimate-entertainment-companion-on-the-go/"><u>Comprehensive Amazon Fire Max 8.9-Inch Tablet Assessment: Your Ultimate Entertainment Companion on the Go</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-assessment-of-samsung-galaxy-z-flip-5-expert-opinions-unveiled/"><u>Comprehensive Assessment of Samsung Galaxy Z Flip 5 - Expert Opinions Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-winxdvd-ultimate-tutorial-step-by-step-installation-and-usage/"><u>Comprehensive WinXDVD Ultimate Tutorial: Step-by-Step Installation & Usage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/connecting-peripherals-to-android-a-step-by-step-tutorial-for-mice-keyboards-and-gamepads/"><u>Connecting Peripherals to Android: A Step-by-Step Tutorial for Mice, Keyboards, and Gamepads</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-quick-start-with-screencastify-video-recording/"><u>In 2024, Quick Start with Screencastify Video Recording</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-whole-home-internet-solutions-a-review-of-asuss-orbi-wi-fi-6-system-for-speed-and-reliability/"><u>In-Depth Analysis of Whole Home Internet Solutions - A Review of ASUS's Orbi Wi-Fi 6 System for Speed and Reliability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-data-analysis-building-a-pivot-table-using-microsoft-excels-features/"><u>Mastering Data Analysis: Building a Pivot Table Using Microsoft Excel's Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208507104-overcome-missing-bluetooth-feature-problems-in-windows-10-with-easy-fixes/"><u>Overcome Missing Bluetooth Feature Problems in Windows 10 with Easy Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-finder-ps5-ssds-rated/"><u>Ultimate Finder: PS5 SSDs Rated</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revamped Dell XPS Series: Elevating Portability Meets Cutting-Edge Artificer Intelligence, Retaining Timeless Design | ZDNet"
-date: 2025-01-29T19:12:47.097Z
-updated: 2025-02-01T20:48:25.019Z
+date: 2025-02-08T16:59:18.188Z
+updated: 2025-02-15T16:00:17.712Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,19 +85,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ecoding-dimensions-the-key-to-perfect-aspect-ratios-in-video-for-2024/"><u>[New] Decoding Dimensions The Key to Perfect Aspect Ratios in Video for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-full-examination-evaluating-the-gecata-analyzer-for-2024/"><u>[New] Full Examination Evaluating the Gecata Analyzer for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-android-space-savers-compendium/"><u>[New] Prime Android Space-Savers Compendium</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-direct-pathway-transferring-youtube-content-to-dailymotion/"><u>[Updated] Direct Pathway Transferring YouTube Content to Dailymotion</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-hassle-free-techniques-record-your-dell-screen-easily/"><u>[Updated] Hassle-Free Techniques Record Your Dell Screen Easily</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huawei-matebook-x-pro-unveiled-a-matchup-against-the-leading-ultraportable-laptops-reviewed-by-zdnet/"><u>Huawei MateBook X Pro Unveiled - A Matchup Against the Leading Ultraportable Laptops Reviewed by ZDNet</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-se-2020-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone SE (2020) Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-soundcard-irq-conflicts-in-windows/"><u>Resolving Soundcard IRQ Conflicts in Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-reverting-from-windows-11-back-to-windows-10-with-essential-considerations-insights-by-zdnet/"><u>Step-by-Step Guide: Reverting From Windows 11 Back to Windows 10 with Essential Considerations - Insights by ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-12-proplus-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme 12 Pro+ 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-macbook-pro-m3-max-unveiled-how-apple-secured-its-position-with-a-superior-pro-artificial-intelligence-laptop/"><u>Top Rated MacBook Pro (M3 Max) Unveiled: How Apple Secured Its Position with a Superior Pro Artificial Intelligence Laptop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-microphones-expert-picks/"><u>Top-Rated Streaming Microphones : Expert Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-mobile-device-into-an-extra-monitor-with-this-smart-laptop-docking-station-featuring-the-latest-review/"><u>Transform Your Mobile Device Into an Extra Monitor with This Smart Laptop Docking Station - Featuring the Latest Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-savings-discover-the-best-44-deals-for-storing-your-data-this-festive-season-including-ssd-bargains-guide-2023/"><u>Ultimate Savings: Discover the Best 44 Deals for Storing Your Data This Festive Season, Including SSD Bargains! Guide 2023</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-balancing-bitrate-in-obs-broadcasts/"><u>[New] 2024 Approved Balancing Bitrate in OBS Broadcasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-impeccable-console-replication-best-5-emulators/"><u>[New] 2024 Approved Impeccable Console Replication Best 5 Emulators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-3-simple-free-methods-to-infuse-music-into-mobile-video-creations-on-iphones-for-2024/"><u>[New] 3 Simple, Free Methods to Infuse Music Into Mobile Video Creations on iPhones for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-screenshots-vertical-video-editing-in-fcpx/"><u>[New] The Art of Screenshots Vertical Video Editing in FCPX</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevate-your-content-from-instagram-vids-to-crisp-mp4-files/"><u>[Updated] 2024 Approved Elevate Your Content From Instagram Vids to Crisp MP4 Files</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-nextgen-vision-optimal-4k-displays-for-professional-edits/"><u>[Updated] 2024 Approved NextGen Vision Optimal 4K Displays for Professional Edits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-premier-wide-display-monitors-reviewed-and-ranked-on-zdnet/"><u>2024'S Premier Wide-Display Monitors Reviewed and Ranked on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-perfect-keyboard-how-key-switches-impact-health-and-work-efficiency-techsavvy/"><u>Choosing the Perfect Keyboard: How Key Switches Impact Health & Work Efficiency | TechSavvy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-ergonomic-mouse-picks-for-2ebeck23-2024-by-zdnet-your-ultimate-guide/"><u>Discover the Leading Ergonomic Mouse Picks for 2Ebeck23 2024 by ZDNET: Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-non-apple-keyboards-compatible-with-your-mac-expert-picks/"><u>Discover the Top Non-Apple Keyboards Compatible with Your Mac: Expert Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-performing-levoit-air-purifiers-with-exclusive-post-prime-day-savings-insider-review/"><u>Discover Top-Performing Levoit Air Purifiers With Exclusive Post-Prime Day Savings – Insider Review</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-comparative-study-tiktok-and-trillers-social-media-strategies-max-156-chars/"><u>In 2024, Comparative Study TikTok & Triller's Social Media Strategies (Max 156 Chars)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ranking-the-ideal-alternative-keyboards-for-mac-users-a-comprehensive-guide-by-tech-experts/"><u>Ranking the Ideal Alternative Keyboards for Mac Users - A Comprehensive Guide by Tech Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-activate-your-sony-wh-1000-series-microphone-compatible-with-laptop/"><u>Step-by-Step Solution to Activate Your Sony WH-1000 Series Microphone Compatible with Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-value-the-near-perfect-17-headlamp-reviewed-on-zdnet/"><u>Ultimate Value: The Near-Perfect $17 Headlamp Reviewed on ZDNet</u></a></li>
 </ul></div>
 

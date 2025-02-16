@@ -1,7 +1,7 @@
 ---
 title: HP Victus 15 - Top-Notch Gamer Laptop for Under $500 During Best Buy Anti-Prime Event!
-date: 2025-01-29T20:42:15.609Z
-updated: 2025-02-01T19:15:14.260Z
+date: 2025-02-12T16:58:07.388Z
+updated: 2025-02-15T22:44:18.910Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 GPU and a screen capable of a 144Hz refre
 With 8GB of RAM, a 512GB SSD, and a 12th-gen Intel Core i5 processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-best-8-linux-programs-for-media-makers/"><u>[New] In 2024, Best 8 Linux Programs for Media Makers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagrams-filter-techniques-for-2024/"><u>[New] Mastering Instagram's Filter Techniques for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-toolwiz-for-professionals-a-thorough-app-assessment-for-2024/"><u>[New] Toolwiz for Professionals A Thorough App Assessment for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unleash-creativity-with-these-5-advanced-tiktok-captioning-techniques-for-2024/"><u>[New] Unleash Creativity with These 5 Advanced TikTok Captioning Techniques for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-effortlesswebcamcapturewithyoucam/"><u>2024 Approved EffortlessWebcamCaptureWithYouCam</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/az-screen-recorder-review-series-for-2024/"><u>AZ Screen Recorder Review Series for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delve-into-hardware-with-toms-insights-comprehensive-guide-and-reviews/"><u>Delve Into Hardware with Tom's Insights – Comprehensive Guide and Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-tech-trends-at-toms-electronics-insight/"><u>Discover Cutting-Edge Tech Trends at Tom's Electronics Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-top-ranked-raspberry-pi-hat-options-of-2024-ideal-additions-to-any-electronics-project/"><u>Discover the Top-Ranked Raspberry Pi HAT Options of 2024: Ideal Additions to Any Electronics Project</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-rated-computers-and-peripherals-at-toms-electronics-reviews/"><u>Discover Top-Rated Computers and Peripherals at Tom's Electronics Reviews</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/easily-modify-your-pcs-setup-with-windows-control-panel-how-to-add-or-remove-software-perfect-for-beginners-by-yl-software-solutions/"><u>Easily Modify Your PC's Setup with Windows Control Panel: How to Add or Remove Software, Perfect for Beginners by YL Software Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-best-gaming-graphics-cards-exceptional-quality-at-competitive-prices-2024-edition/"><u>Elite Selection of Best Gaming Graphics Cards - Exceptional Quality at Competitive Prices, 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-toms-pc-components-and-gadgets/"><u>Expert Insights Into Tom's PC Components and Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-unveiling-the-power-of-the-3dmakerpro-mole-3d-scanner-portable-precision-at-its-best/"><u>Expert Review: Unveiling the Power of the 3DMakerPro Mole 3D Scanner – Portable Precision at Its Best</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-gadgets-with-toms-equipment-rundown/"><u>Exploring the World of Gadgets with Tom's Equipment Rundown</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/guida-passo-passo-per-cambiare-la-configurazione-della-lingua-in-aomei-backupper-manuale-e-video/"><u>Guida Passo-Passo per Cambiare La Configurazione Della Lingua in AOMEI Backupper: Manuale E Video</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-7-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 7 Plus Without iTunes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-leveraging-look-up-table-techniques-for-richer-images-in-pscc/"><u>[New] In 2024, Leveraging Look-Up Table Techniques for Richer Images in PSCC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-smileslice-studio-memomaestrospace/"><u>[Updated] In 2024, SmileSlice Studio MemoMaestroSpace</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-to-success-boosting-viewership-and-subs-on-youtube/"><u>[Updated] Navigating to Success Boosting Viewership and Subs on Youtube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-transformative-tapes-the-essential-5-video-booster-apps/"><u>2024 Approved Transformative Tapes The Essential 5 Video Booster Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-guide-enhancing-your-raspberry-pis-performance-with-an-effective-cooling-solution-insights-from-zdnet/"><u>DIY Guide: Enhancing Your Raspberry Pi's Performance with an Effective Cooling Solution - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oppo-reno-11f-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Oppo Reno 11F 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-it-time-to-switch-to-a-state-of-the-art-apple-watch-version/"><u>Is It Time to Switch to a State-of-the-Art Apple Watch Version</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/master-these-top-techniques-for-eliminating-iphone-silence-no-more-quiet-phones/"><u>Master These Top Techniques for Eliminating iPhone Silence – No More Quiet Phones!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/no1-video-recorders-with-personalized-view/"><u>No.1 Video Recorders with Personalized View</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/out-of-room-on-your-computer-here-are-3-effective-ways-to-increase-storage-zdnet/"><u>Out of Room on Your Computer? Here Are 3 Effective Ways to Increase Storage | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviving-retro-software-microsoft-and-ibm-release-open-source-ms-dos-40-techsavvy-insights/"><u>Reviving Retro Software: Microsoft and IBM Release Open Source MS-DOS 4.0 | TechSavvy Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/small-form-factor-with-big-impact-unveiling-the-cost-effective-high-performance-pc-featured-on-zdnet/"><u>Small Form Factor with Big Impact: Unveiling the Cost-Effective, High-Performance PC Featured on ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/soundtracking-dreams-an-overview-of-magix-fx/"><u>Soundtracking Dreams An Overview of Magix FX</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-upgrading-your-system-from-linux-mint-to-the-latest-version-mint-21-tips-and-tricks/"><u>Step-by-Step Guide: Upgrading Your System From Linux Mint to the Latest Version (Mint 21) - Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/take-advantage-of-the-limited-time-labor-day-deal-hp-victus-15-price-cut-by-350-at-best-buy-details-inside-zdnet/"><u>Take Advantage of the Limited-Time Labor Day Deal: HP Victus 15 Price Cut by $350 at Best Buy - Details Inside | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-office-gadgets-in-an-ai-driven-world-evolution-and-innovation-exploring-trends-with-zdnet/"><u>The Future of Office Gadgets in an AI-Driven World: Evolution & Innovation | Exploring Trends with ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-from-ces-202n-the-latest-gadgets-available-today/"><u>Top Picks From CES 202N: The Latest Gadgets Available Today</u></a></li>
 </ul></div>
 

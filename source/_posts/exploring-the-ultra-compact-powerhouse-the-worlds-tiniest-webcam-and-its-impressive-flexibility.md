@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Ultra-Compact Powerhouse: The World’s Tiniest Webcam and Its Impressive Flexibility"
-date: 2025-01-29T20:21:40.728Z
-updated: 2025-02-01T17:23:58.477Z
+date: 2025-02-14T21:31:34.877Z
+updated: 2025-02-15T16:25:55.270Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Regarding the battery life on the ThinkBook 14 2-in-1, I found it to be acceptab
 I can get a full day's worth of work out of this laptop on one charge, but honestly, barely so. That being said, the fast charging capability does bring the laptop from nearly dead to 100% in less than an hour. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,16 +120,22 @@ If you're looking for a similarly-priced convertible with a better display, chec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastery-in-simulating-chrono-displacement/"><u>[New] In 2024, Mastery in Simulating Chrono-Displacement</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-full-disclosure-unveiling-all-about-google-podcasts-app/"><u>[Updated] In 2024, Full Disclosure Unveiling All About Google Podcasts App</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-upload-longer-videos-to-instagram-on-mac/"><u>2024 Approved How to Upload Longer Videos to Instagram on Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordably-superior-screen-quality-in-a-featherlight-notebook-in-depth-analysis-tech-reviews/"><u>Affordably Superior Screen Quality in a Featherlight Notebook – In-Depth Analysis | Tech Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-apple-laptop-a-detailed-comparison-of-m3-vs-m2-macbook-air-models/"><u>Choosing the Right Apple Laptop: A Detailed Comparison of M3 Vs. M2 MacBook Air Models</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/early-birds-guide-to-score-on-prime-day-2024-exclusive-offers-revealed-by-zdnet/"><u>Early Bird's Guide to Score on Prime Day 2024 – Exclusive Offers Revealed by ZDNET!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-sale-alert-secure-almost-1k-off-on-lenovos-premium-business-laptop-before-amazons-prime-day-in-october-insights/"><u>Huge Sale Alert: Secure Almost $1K Off on Lenovo's Premium Business Laptop Before Amazon's Prime Day in October - Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/long-lasting-laptop-charger-on-sale-save-big-with-discounted-durable-power-banks/"><u>Long-Lasting Laptop Charger on Sale – Save Big with Discounted Durable Power Banks!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-srt-to-txt-translation-the-fastest-guide/"><u>Mastering SRT to TXT Translation - The Fastest Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastering-webinar-capture-straightforward-steps-for-os-xwindows-for-2024/"><u>Mastering Webinar Capture Straightforward Steps for OS X/Windows for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-a-customized-soundscape-youtube-playlist-building-on-the-internetapps/"><u>[Updated] Crafting a Customized Soundscape YouTube Playlist Building on the Internet/Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-essential-vr-adventures-on-oculus-devices/"><u>[Updated] Essential VR Adventures on Oculus Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac-for-2024/"><u>[Updated] Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-guide-to-selective-object-removal-in-iphone-images/"><u>[Updated] Ultimate Guide to Selective Object Removal in iPhone Images</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-curating-striking-instagram-profile-photos/"><u>2024 Approved Curating Striking Instagram Profile Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-daily-routine-discover-5-key-uses-of-the-elgato-stream-deck-for-workflow-improvement-beyond-gaming-live-streams/"><u>Boost Your Daily Routine: Discover 5 Key Uses of the Elgato Stream Deck for Workflow Improvement Beyond Gaming Live Streams</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-edge-40-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Edge 40</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-vcplusplus-package-significance/"><u>Deciphering VC++ Package Significance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-instructions-on-installing-extra-ram-in-your-notebook-gadgetguru/"><u>Easy Instructions on Installing Extra RAM in Your Notebook | GadgetGuru</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-gopro-video-editing-on-mac-for-beginners-for-2024/"><u>Edit Like a Pro GoPro Video Editing on Mac for Beginners for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-audio-experience-top-tier-headphone-amplifier-for-an-unmatched-holiday-gift/"><u>Elevate Your Audio Experience: Top-Tier Headphone Amplifier for an Unmatched Holiday Gift</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rejuvenate-your-workspace-the-unexpected-relaxation-of-refreshing-a-five-year-old-keyboard/"><u>Rejuvenate Your Workspace: The Unexpected Relaxation of Refreshing a Five-Year-Old Keyboard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-curious-case-of-flawed-display-macbook-pro-sales-uncovered-by-zdnet/"><u>The Curious Case of Flawed Display MacBook Pro Sales Uncovered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-alternative-keyboards-for-mac-users-a-non-apple-guide/"><u>Top Alternative Keyboards for Mac Users - A Non-Apple Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultimate-selection-zdnets-pick-for-the-finest-computer-mouse-pads-in-2-groovy-titles-that-maintain-a-similar-meaning-to-the-5-best-mouse-pads-146/"><u>Unveiling the Ultimate Selection: ZDNet's Pick for the Finest Computer Mouse Pads in 2 Groovy Titles that Maintain a Similar Meaning to The 5 Best Mouse Pads of 2022 | ZDNET.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/user-experience-with-lg-dualview-display-adaptation-to-the-169-aspect-ratio-insights-from-zdnets-editor/"><u>User Experience with LG DualView Display: Adaptation to the 16:9 Aspect Ratio - Insights From ZDNet's Editor</u></a></li>
 </ul></div>
 

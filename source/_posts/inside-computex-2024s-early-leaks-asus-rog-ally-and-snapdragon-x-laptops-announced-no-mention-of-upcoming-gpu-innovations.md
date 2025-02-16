@@ -1,7 +1,7 @@
 ---
 title: "Inside Computex 2024'S Early Leaks: Asus ROG Ally & Snapdragon X Laptops Announced, No Mention of Upcoming GPU Innovations"
-date: 2024-08-19T02:49:42.473Z
-updated: 2024-08-20T02:49:42.473Z
+date: 2025-02-11T21:48:13.267Z
+updated: 2025-02-15T21:25:33.040Z
 tags:
   - laptop
 categories:
@@ -16,6 +16,10 @@ At today's Windows and devices event, partner OEMs opened the floodgates for new
  Not only does the new Snapdragon X family seem to offer compelling performance and efficiency coupled with long runtimes, but it also features a powerful Hexagon Neural Processing Unit (NPU) that is the focal point of the[Windows 11](https://tools.techidaily.com) AI revolution and is capable of 45 TOPS compute. The NPU can efficiently process tasks such as image editing, text-to-image generation, and text creation on-device without the need for the cloud.
 
  Before we get into the specifics about the new laptops that have been announced, let’s first give you a brief specs overview of the Snapdragon X Elite and Snapdragon X Plus chips that power these machines. You can[read our comprehensive overview](https://tools.techidaily.com) of the new Arm processor family for more details.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon X Series Platform Specs
 
@@ -42,6 +46,10 @@ At today's Windows and devices event, partner OEMs opened the floodgates for new
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/mtLVLyVsEocU7UBrbmzcWN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Acer Swift 14 AI  (Image credit: Qualcomm)
 
  The Swift 14 AI features a 14.5-inch 2560 x 1600 IPS display with a 120 Hz refresh rate and 100 percent coverage of sRGB (a touch panel is optional). Acer also points out that the laptop features an easy-to-open lid and a 180-degree hinge design. If 1080p resolution is up to your videoconferencing standards, then note that the Swift 14 AI features a 1440p webcam with IR support and a privacy shutter.
@@ -59,9 +67,6 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -74,9 +79,6 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
@@ -106,9 +108,6 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -119,32 +118,12 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -166,6 +145,10 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -173,6 +156,10 @@ Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 The 3.17-pound Inspiron 14 Plus measures 12.36 x 8.80 x 0.66 inches.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/ejCrV57dyrk8JZeZLG66eN-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dell Latitude 7455  (Image credit: Qualcomm)
 
@@ -182,19 +169,16 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -218,8 +202,6 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +209,20 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-ultimate-guide-to-maximum-fitness-mac-recordings-for-snapchat/"><u>[New] In 2024, Ultimate Guide to Maximum Fitness Mac Recordings for Snapchat</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-social-streaming-success-maximizing-video-impact-with-desktop-integration-on-facebook/"><u>[New] Social Streaming Success Maximizing Video Impact with Desktop Integration on Facebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-unseen-ui-techniques-for-newcomers/"><u>[New] Ultimate Unseen UI Techniques for Newcomers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-html5-video-tools-you-must-check/"><u>[Updated] Excellent HTML5 Video Tools You Must Check</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-digital-dollars-earn-from-youtubers-in-8-ways/"><u>2024 Approved Digital Dollars Earn From YouTubers in 8 Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-thermaltake-toughpower-gf3-a-top-notch-850w-psu-for-your-pc-build/"><u>Comprehensive Evaluation of the Thermaltake Toughpower GF3 – A Top-Notch 850W PSU for Your PC Build</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-analysis-by-tom-on-latest-computer-hardware-innovations/"><u>Detailed Analysis by Tom on Latest Computer Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-new-horizons-in-technology-with-toms-gadget-insights/"><u>Exploring New Horizons in Technology with Tom's Gadget Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic5-ultimate-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic5 Ultimate Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-end-to-end-guide-to-picsart-for-2024/"><u>The End-to-End Guide to PicsArt for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-computer-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Latest Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-hardware-analysis-t17239718751782/"><u>Tom's Tech Reviews: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-review-of-the-hyperx-alloy-rise-for-gamers-assessing-its-robust-features-and-cost-value-proposition/"><u>Ultimate Review of the HyperX Alloy Rise for Gamers: Assessing Its Robust Features and Cost-Value Proposition</u></a></li>
+</ul></div>
 

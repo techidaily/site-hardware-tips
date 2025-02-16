@@ -1,7 +1,7 @@
 ---
 title: "PC Manufacturers Criticized by Framework: The Excessive Use of 'AI' In Marketing"
-date: 2024-08-19T02:49:51.427Z
-updated: 2024-08-20T02:49:51.427Z
+date: 2025-02-13T22:04:31.431Z
+updated: 2025-02-15T18:19:53.687Z
 tags:
   - laptop
 categories:
@@ -29,6 +29,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
 
  The Acemagic X1's dual-monitor experience is genuinely superior to what's come before. Asus has used small second screens on its touchpad or above its keyboard on the deck, but these are best used for palettes or control panels. Lenovo has done a lot of second-screen experimentation, doing everything from having a 7-inch display pop out of a slot in the lid on the 17-inch ThinkPad W series to putting an 8-inch screen where the numpad might be on a ThinkBook to releasing the Yoga 9i, which is two screens without a built-in keyboard. Acer also produced an Iconia laptop with two touch screens many years ago.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -44,6 +48,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
  The screens are decent, but they aren't particularly bright or colorful. The keyboard feels pretty snappy but it's not likely to make anyone forget about their ThinkPad's typing experience. The touchpad seemed ok but wasn't particularly large. Also, the entire laptop looks really unexciting in its drab, gray colorway.
 
 ![Acemagic X1](https://cdn.mos.cms.futurecdn.net/efSjDm3yhxK3FmNbUzkeoL-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -61,8 +69,6 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +76,26 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-breakdown-of-essential-features-in-movie-maker-for-windows-8/"><u>[New] Breakdown of Essential Features in Movie Maker for Windows 8</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-a-comprehensive-manual-for-desktop-made-tiktok-hits-for-2024/"><u>[Updated] A Comprehensive Manual for Desktop-Made TikTok Hits for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-immersive-worlds-unveiled-delving-into-mr-ar-and-vrs-distinctions/"><u>[Updated] In 2024, Immersive Worlds Unveiled Delving Into MR, AR, and VR's Distinctions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-14-pro-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 14 Pro</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/bake-your-sites-traffic-with-cookiebot-seo-technology/"><u>Bake Your Site's Traffic with Cookiebot SEO Technology</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-motorola-moto-g84-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Motorola Moto G84 5G.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/energy-efficiency-and-strength-in-numbers-running-multiple-nvidia-rtx-4090-gpus-with-cooler-masters-mx-mighty-power-supplies/"><u>Energy Efficiency & Strength in Numbers: Running Multiple NVIDIA RTX 4090 GPUs with Cooler Master’s MX Mighty Power Supplies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhanced-gaming-pc-power-msis-1300w-with-pcie-50-support/"><u>Enhanced Gaming PC Power: MSI's 1300W with PCIe 5.0 Support</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-trick-for-gamers-use-blow-dryer-to-prepare-your-high-end-gpus-cabling-before-setup/"><u>Essential Trick for Gamers: Use Blow Dryer to Prepare Your High-End GPU's Cabling Before Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-insights-with-toms-technology-hub/"><u>Exploring Hardware Insights with Tom’s Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/faulty-power-supply-leads-to-evga-issuing-full-refunds-on-damaged-ssds/"><u>Faulty Power Supply Leads to EVGA Issuing Full Refunds on Damaged SSDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-innovations-light-and-leverage/"><u>Gameplay Innovations: Light and Leverage</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-seeking-outtop-8-android-apps-for-cost-effective-video-tile-creation/"><u>In 2024, Seeking Outtop 8 Android Apps for Cost-Effective Video Tile Creation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-expertise-in-depth-reviews-on-hardware-solutions/"><u>Mastering Gadgets with Tom's Expertise: In-Depth Reviews on Hardware Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadget-expertise-navigating-the-world-of-advanced-computer-components/"><u>Tom's Gadget Expertise: Navigating the World of Advanced Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-cutting-edge-computing/"><u>Tom's Tech Hub: Your Ultimate Guide to Cutting-Edge Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-on-computer-components/"><u>Tom's Tech Insights: In-Depth Guides on Computer Components</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-free-vob-video-editors-for-pc-and-mac/"><u>Top-Rated Free VOB Video Editors for PC and Mac</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

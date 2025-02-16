@@ -1,7 +1,7 @@
 ---
 title: Score an Asus 15-Inch Laptop for $250 + Full Ports Availability | Shop Now at Walmart
-date: 2025-02-01T01:53:47.380Z
-updated: 2025-02-03T07:28:55.791Z
+date: 2025-02-13T19:23:07.608Z
+updated: 2025-02-15T19:57:26.328Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,24 +87,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-wacom-tablet-driver-not-found-on-windows-10/"><u>[Solved] Wacom Tablet Driver Not Found on Windows 10</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-androids-top-video-recording-options-5-excellent-picks/"><u>[Updated] In 2024, Android's Top Video Recording Options - 5 Excellent Picks</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-learn-how-to-obtain-fee-free-pictorial-entertainment/"><u>[Updated] In 2024, Learn How To Obtain Fee-Free Pictorial Entertainment</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-leveraging-colored-backdrops-for-seamless-edits/"><u>[Updated] In 2024, Leveraging Colored Backdrops for Seamless Edits</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210101854-9781989838761-bedtime-stories-for-stressed-out-adults-relaxing-sleep-stories-guided-mindfulness-meditations-self-hypnosis-for-deep-sleep-overcoming-anxiety-insomnia-stress-re/"><u>Bedtime Stories for Stressed Out Adults Relaxing Sleep Stories, Guided Mindfulness Meditations & Self-Hypnosis For Deep Sleep, Overcoming Anxiety, Insomnia & Stress Relief | Free Book</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/custom-interactive-actions-for-enhanced-user-experience/"><u>Custom Interactive Actions for Enhanced User Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-pc-gear-with-toms-hardware-reviews/"><u>Discover Top-Notch PC Gear with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125172275-get-premium-printing-quality-instantly-grab-the-editor-selected-elegoo-neptune-4-pro-for-75-less/"><u>Get Premium Printing Quality Instantly: Grab the Editor-Selected Elegoo Neptune 4 Pro for $75 Less!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-enlarge-and-reduce-images-on-your-iphone-or-ipad-a-step-by-step-guide/"><u>How to Enlarge and Reduce Images on Your iPhone or iPad: A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-tapping-into-the-funny-side-with-photos/"><u>In 2024, Tapping Into the Funny Side with Photos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-electronics-with-toms-hardware/"><u>Inside the World of Electronics with Tom's Hardware</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/follower-tracker-software/"><u>Live Follower Tracker Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-your-tech-choices-with-confidence-using-toms-hardware-analysis/"><u>Navigate Your Tech Choices with Confidence Using Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-huge-printing-capabilities-at-a-lower-price-save-80-on-elegoo-neptune-3-plus/"><u>Score Huge Printing Capabilities at a Lower Price – Save $80 on Elegoo Neptune 3 Plus</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-hardware-resource-from-tech-visionary-tom/"><u>The Ultimate Hardware Resource From Tech Visionary, Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-cooling-system-with-pink-caulk-gun-thermal-gel-say-goodbye-to-traditional-thermal-pads/"><u>Transform Your Cooling System with Pink Caulk-Gun Thermal Gel: Say Goodbye to Traditional Thermal Pads</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-blurry-scans-how-to-achieve-sharp-images-with-your-scanner-tips-from-yl-software/"><u>Troubleshooting Blurry Scans: How to Achieve Sharp Images with Your Scanner - Tips From YL Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/xpgs-innovative-cpu-cooler-the-integrated-pump-loop-and-radiator-for-ultimate-high-wattage-control-up-to-280w/"><u>XPG's Innovative CPU Cooler – The Integrated Pump, Loop & Radiator for Ultimate High Wattage Control (Up To 280W)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-go-to-source-for-in-depth-gadget-evaluations-trust-toms-hardware/"><u>Your Go-To Source for In-Depth Gadget Evaluations - Trust Tom's Hardware</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-shines-mastering-the-art-of-content-highlights-for-2024/"><u>[New] Instagram Shines Mastering the Art of Content Highlights for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-iphoneipad-video-and-image-archive-for-2024/"><u>[New] The Ultimate iPhone/iPad Video & Image Archive for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-exploring-the-depths-of-fraps-recorders/"><u>[Updated] Exploring the Depths of Fraps Recorders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-engaging-audien-writes-and-converting-followers-through-instigra/"><u>[Updated] In 2024, Engaging Audien Writes and Converting Followers Through Instigra</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/fix-ios-videos-wont-stream-on-your-windows-laptop-or-desktop/"><u>Fix: IOS Videos Won't Stream on Your Windows Laptop or Desktop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-choices-leading-3d-printing-filaments/"><u>Future-Proof Choices: Leading 3D Printing Filaments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 14 Plus without Losing Data? | Stellar</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-how-to-choose-the-background-music-for-the-trailer/"><u>In 2024, How to Choose the Background Music for the Trailer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-cutting-edge-technology-toms-equipment-hub/"><u>Inside Look at Cutting-Edge Technology - Tom's Equipment Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-top-notch-computing-devices-at-toms-tech-blog/"><u>Navigating Through Top-Notch Computing Devices at Tom's Tech Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guides-on-all-things-hardware/"><u>Tom's Tech Hub: Comprehensive Guides on All Things Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-reviews/"><u>Tom's Tech Review: In-Depth Analysis & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ps5-solid-state-drives-optimal-nvme-options-enhancing-console-performance/"><u>Top PS5 Solid State Drives: Optimal NVMe Options Enhancing Console Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforma-tu-contenido-audiovisual-descubre-como-winxvideo-ai-mejora-la-excelencia-en-calidad-de-video/"><u>Transforma Tu Contenido Audiovisual: Descubre Cómo Winxvideo AI Mejora La Excelencia en Calidad De Video</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-small-form-factor-pc-boxes-for-2n4-best-mini-itx-cases-reviewed/"><u>Ultimate Selection of Small Form Factor PC Boxes for 2N4, Best Mini-ITX Cases Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unpacking-the-features-and-benefits-of-the-lian-li-hydroshift-lcd-360s-reviewed/"><u>Unpacking the Features and Benefits of the Lian Li Hydroshift LCD 360S Reviewed</u></a></li>
 </ul></div>
 

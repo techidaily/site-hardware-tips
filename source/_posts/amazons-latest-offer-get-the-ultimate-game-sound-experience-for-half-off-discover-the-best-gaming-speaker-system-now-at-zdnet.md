@@ -1,7 +1,7 @@
 ---
 title: Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.
-date: 2025-01-31T01:47:23.421Z
-updated: 2025-02-03T00:15:52.391Z
+date: 2025-02-09T17:49:06.308Z
+updated: 2025-02-15T16:43:58.177Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,24 +128,17 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-access-youtube-tracks-without-spending-a-dime-25plus-no-cost-audio-extractors/"><u>[New] 2024 Approved Access YouTube Tracks Without Spending a Dime 25+ No-Cost Audio Extractors</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-how-to-retract-macos-upgrade-from-sierra-to-el-capitan/"><u>[New] 2024 Approved How to Retract macOS Upgrade From Sierra to El Capitan</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-efficiency-in-advertising-post-facebook-algorithm-overhaul-for-2024/"><u>[New] Efficiency in Advertising Post-Facebook Algorithm Overhaul for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-craft-your-online-identity-with-customized-youtube-urls-for-2024/"><u>[Updated] Craft Your Online Identity with Customized YouTube URLs for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>[Updated] The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-most-innovative-and-efficient-bendy-gaming-displays/"><u>2024'S Most Innovative and Efficient Bendy Gaming Displays</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/battle-for-top-chatbot-title-gpt-microsofts-and-google-writes/"><u>Battle for Top Chatbot Title: GPT, Microsoft's & Google' Writes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-selection-of-high-end-cost-effective-3d-printers/"><u>Discover the Ultimate Selection of High-End, Cost-Effective 3D Printers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-pcs-cooling-system-with-the-mighty-moora-iv-600-nine-200mm-fans-and-a-bulky-35lbs-radiator-for-under-600/"><u>Enhance Your PC's Cooling System with the Mighty MOORA IV 600: Nine 200Mm Fans and a Bulky 35Lbs Radiator for Under $600</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-top-quality-with-our-favorite-the-eleegoo-neptune-4-pro-now-available-for-only-240-on-newegg/"><u>Experience Top Quality with Our Favorite - The Eleegoo Neptune 4 Pro, Now Available for Only $240 on Newegg!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-insight-on-iphone-15-top-picks-and-pro-tips-for-advanced-users-a-comprehensive-guide-by-techsavvyzdnet/"><u>Expert Insight on iPhone 15: Top Picks and Pro Tips for Advanced Users - A Comprehensive Guide by TechSavvyZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-12-proplus-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme 12 Pro+ 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nubia-red-magic-9-proplus-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nubia Red Magic 9 Pro+ Phone Now with These Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-tips-from-toms-hardware-experts/"><u>Mastering PC Building Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-tech-choices-insider-tips-from-toms-hardware-guru/"><u>Navigating Tech Choices: Insider Tips From Tom's Hardware Guru</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-ultra-compact-nh-l12sx77-enhanced-ram-clearance-and-efficient-vrm-cooling-in-sff-rigs/"><u>Noctua Unveils Ultra-Compact NH-L12Sx77: Enhanced Ram Clearance & Efficient VRM Cooling in SFF Rigs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-gadget-analysis-by-toms-hardware-experts/"><u>Pioneering Gadget Analysis by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-chronicles-a-journey-through-hardware-excellence/"><u>Tom's Computer Chronicles: A Journey Through Hardware Excellence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-capture-your-skype-sessions-on-mac-and-windows/"><u>[New] 2024 Approved How to Capture Your Skype Sessions on Mac and Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-seamless-story-connectivity-on-facebook-4-tips/"><u>[New] In 2024, Seamless Story Connectivity on Facebook (4 Tips)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2023s-elite-professionals-choosing-360-cameras-for-2024/"><u>[Updated] 2023'S Elite Professionals Choosing 360 Cameras for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-most-crucial-info-for-new-youtube-tv-users/"><u>[Updated] In 2024, The Most Crucial Info for New YouTube TV Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-wallet-friendly-4k-camera-and-camcorder-deals/"><u>2024 Approved Wallet-Friendly 4K Camera and Camcorder Deals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-top-pc-case-selections-of-2024-to-elevate-your-personal-computer-setup/"><u>Expertly Reviewed Top PC Case Selections of 2024 to Elevate Your Personal Computer Setup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-x8b-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor X8b</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-revolutionary-beelink-gti14-with-pcie-x8-slot-and-integrated-power-built-on-meteor-lake-technology/"><u>Introducing the Revolutionary Beelink GTi14 with PCIe X8 Slot and Integrated Power – Built on Meteor Lake Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-switch-key-inquiries-before-committing-to-an-electric-vehicle-purchase/"><u>Navigating the Switch: Key Inquiries Before Committing to an Electric Vehicle Purchase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-reviews-top-gadgets-and-pc-builds/"><u>Tom's Hardware Reviews: Top Gadgets and PC Builds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-tech-trends-at-toms-hardware-chronicles/"><u>Unveiling New Tech Trends at Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-a-tour-of-toms-technology-rundown/"><u>Unveiling the Latest Gadgets: A Tour of Tom's Technology Rundown</u></a></li>
 </ul></div>
 

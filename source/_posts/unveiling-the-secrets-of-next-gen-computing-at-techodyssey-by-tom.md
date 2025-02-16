@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Secrets of Next-Gen Computing at TechOdyssey by Tom
-date: 2024-08-19T02:48:05.453Z
-updated: 2024-08-20T02:48:05.453Z
+date: 2025-02-14T18:41:22.524Z
+updated: 2025-02-15T20:38:24.298Z
 tags:
   - laptop
 categories:
@@ -33,6 +33,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Copilot+ PCs: Microsoft’s New Standard
 
  Since then,[Microsoft](https://tools.techidaily.com) has introduced its[Copilot+](https://tools.techidaily.com) PCs, with laptops from Asus, Dell, Acer, Samsung, HP, Lenovo, Samsung, and Microsoft's Surface brand. Those all use[Qualcomm's Snapdragon X Elite and Plus processors](https://tools.techidaily.com) at the moment, though Microsoft has said upcoming AMD Strix Point (aka Ryzen AI 300) and Intel Lunar Lake chips may also fit the bill. To be considered a Copilot+ PC, laptops need to have at least 16GB RAM, 256GB storage, and an on-board NPU that's capable of 40 TOPS (trillions of operations per second). The Qualcomm Snapdragon X Elite chips support 45 TOPS on the NPU.
@@ -42,6 +46,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
  So, anyone who doesn’t buy a Snapdragon X-powered laptop will have to wait on those special Windows features, likely for many months. AMD recently confirmed that its[Ryzen AI 300 PCs won’t be getting the Copilot+](https://tools.techidaily.com) features when they launch later this year, but will eventually. Desktop users are left out of the cold until at least the launch of Intel Arrowlake in Q4\. And anyone with a current-gen laptop or desktop is probably left out permanently.
 
  Given the weak set of Copilot+ features, anyone who is actually paying attention probably isn’t that sad about having to miss them or wait for them. There are many other ways to get an offline (or online) AI image generator, to do real-time translation and to blur your webcam background. Recall is somewhat unique, but many people won’t want it, because of the privacy risks associated with taking constant screenshots of your work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Intel and AMD define AI PC more Broadly
 
@@ -85,6 +93,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
 ![AI PC](https://cdn.mos.cms.futurecdn.net/MkQCTwWhY8wPcsdu5CbJsi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Apple)
 
  Because Apple uses its silicon across all of its Macs, its desktops, like the iMac, Mac Studio, and Mac Pro also have NPU (or as Apple refers to them, Neural Engines). That means macOS will have AI-specific features on desktop running on NPUs before Windows.
@@ -116,8 +128,9 @@ Right now? "Need" is a strong word.
  No matter what type of PC you're using, you should still adhere to good security practices. Other humans are still outsmarting us there.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bottom line
 
  Right now, the term “AI PC” is still somewhat vague. CPU vendors and Microsoft are using the term to sell you new computers (currently, new laptops only) that have powerful NPUs built into their processors. Most of the generative AI features people actually use today (chatbots, image generators) are free to use in the cloud, making them less than “must-haves” in their local form.
@@ -134,8 +147,6 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +154,26 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-essential-scripting-instant-stopwatch-integration-in-obs-for-2024/"><u>[New] Essential Scripting Instant Stopwatch Integration in OBS for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-accessible-gamers-soundtrack-without-restrictions/"><u>[Updated] Accessible Gamers' Soundtrack Without Restrictions</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-erase-discord-server-settings-desktopsmartphones/"><u>[Updated] In 2024, Erase Discord Server Settings (Desktop/Smartphones)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-lite-video-downloading-made-easy-top-6-tools-of-2023/"><u>[Updated] In 2024, Facebook Lite Video Downloading Made Easy Top 6 Tools of 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gigabyte-announces-amd-ryzen-9000-series-rebranding-with-zen-5-chipset-beta-bios-tested-on-500-series-mobos/"><u>Gigabyte Announces AMD Ryzen 9000 Series Rebranding with Zen 5 Chipset: Beta BIOS Tested on 500-Series Mobos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gigabytes-latest-in-miniature-power-in-depth-look-at-the-b760m-motherboard-with-three-monitors-support/"><u>Gigabyte's Latest in Miniature Power: In-Depth Look at the B760M Motherboard with Three Monitors Support</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-the-asus-zephyrus-g14-sets-new-standards-in-non-compromising-portable-gaming-systems/"><u>How the Asus Zephyrus G14 Sets New Standards in Non-Compromising Portable Gaming Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-install-linksys-wusb6300-wi-fi-driver-for-smooth-connectivity-comprehensive-guide/"><u>How to Get & Install Linksys WUSB6300 Wi-Fi Driver for Smooth Connectivity – Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/icrafts-new-b760m-motherboard-infused-with-pastel-hues-a-must-have-for-anime-fans/"><u>ICraft's New B760M Motherboard Infused with Pastel Hues: A Must-Have for Anime Fans</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-f23-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo F23 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-stunning-iphone-close-ups-and-macros/"><u>In 2024, Expert Tips for Stunning iPhone Close-Ups & Macros</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-motorola-g24-power-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Motorola G24 Power Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-technology-world/"><u>Inside Tom's Technology World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-digital-worlds-with-toms-hardware-haven/"><u>Mastering Digital Worlds with Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-detailed-evaluations-of-computer-components-by-toms-gadget-review/"><u>Mastering Technology: Detailed Evaluations of Computer Components by Tom's Gadget Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maxsun-unveils-intel-and-amds-latest-gear-an-extensive-selection-of-31-high-performance-chipsets-meet-the-future/"><u>Maxsun Unveils Intel and AMD's Latest Gear: An Extensive Selection of 31 High-Performance Chipsets - Meet the Future</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maxsuns-top-tier-motherboard-unveiled-the-z79d5-atx-board-with-ice-cool-appearance-and-ample-pcie-lanes-for-5x-m2-nvme-ssds/"><u>Maxsun's Top-Tier Motherboard Unveiled: The Z79#D5 ATX Board with Ice Cool Appearance and Ample PCIe Lanes for 5X M.2 NVMe SSDs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/msi-leads-with-groundbreaking-z790-project-zero-board-elevating-desktops-with-advanced-camm2-ram-standard/"><u>MSI Leads with Groundbreaking Z790 Project Zero Board, Elevating Desktops with Advanced CAMM2 RAM Standard</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-compatibility-with-new-hp-printer-software-update-download-now/"><u>Seamless Compatibility with New HP Printer Software Update - Download Now!</u></a></li>
+</ul></div>
 

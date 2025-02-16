@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest in Tech: A Closer Look at Tom's Selection"
-date: 2024-08-19T02:48:15.607Z
-updated: 2024-08-20T02:48:15.607Z
+date: 2025-02-13T16:07:58.561Z
+updated: 2025-02-15T20:50:40.306Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ The Snapdragon X Elite is just starting to emerge in the wild, powering[Microsof
 
  Tom's Hardware journalists enjoyed[their hands-on time with Microsoft's Surface laptops](https://tools.techidaily.com) at the[Microsoft](https://tools.techidaily.com) Build event in May, finding no proof of foul play in Microsoft's demos or benchmarks. Third-party reviewers have[also gotten high results in their deeper testing](https://tools.techidaily.com) , though Microsoft commissioned the reviews, so take the results with a grain of salt. In-depth day-one reviews haven't come out due to the review embargo, so withhold judgment until then. At the very least, nothing has been so bad as the[severe allegations of Qualcomm's benchmark cheating from back in April](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ The Snapdragon X Elite is just starting to emerge in the wild, powering[Microsof
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,24 @@ The Snapdragon X Elite is just starting to emerge in the wild, powering[Microsof
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-enhance-your-digital-diaries-for-free-extensions-and-mobile-edition/"><u>[New] 2024 Approved Enhance Your Digital Diaries for Free – Extensions & Mobile Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-mac-recording-software-top-5-innovations-revealed/"><u>[New] Premier Mac Recording Software Top 5 Innovations Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-engineering-engrossing-movie-excerpts-for-2024/"><u>[Updated] Engineering Engrossing Movie Excerpts for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-introduces-cost-effective-ddr5-support-with-latest-z790-aywifi-wd-motherboard-perfect-for-overclockers/"><u>Asus Introduces Cost-Effective DDR5 Support with Latest Z790-AYWIFI WD Motherboard Perfect for Overclockers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-releases-intel-baseline-update-resolves-stability-issues-for-gamers-on-raptor-lakerefresh-processors/"><u>Asus Releases Intel Baseline Update: Resolves Stability Issues for Gamers on Raptor Lake/Refresh Processors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-unveils-exclusive-motherboard-for-chinese-cpu-overclocking-enhancing-kx-7000-performance-by-one-quarter/"><u>Asus Unveils Exclusive Motherboard for Chinese CPU Overclocking, Enhancing KX-7000 Performance by One Quarter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bios-update-rollouts-begin-amds-partner-mothersboards-fix-the-logofail-glitch/"><u>BIOS Update Rollouts Begin: AMD's Partner Mothersboards Fix the LogoFail Glitch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-the-maxsun-terminator-z790m-d5-ice-motherboard-high-performance-white-micro-atx-with-five-m2-ports/"><u>Comprehensive Review: The Maxsun Terminator Z790M D5 Ice Motherboard – High-Performance White Micro ATX with Five M.2 Ports</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-tech-specs-and-benchmarks-wisdom-from-toms-hardware-experts/"><u>Decoding Tech Specs and Benchmarks - Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-hardware-expertise-with-toms-technology-corner/"><u>Discover Hardware Expertise with Tom's Technology Corner</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/effective-solutions-fixing-a-stuck-printer-at-home-or-office-tips-from-yl-software/"><u>Effective Solutions: Fixing a Stuck Printer at Home or Office - Tips From YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-htpc-with-the-x60ntm5-itx-asrocks-latest-mini-itx-marvel-in-thin-motherboards/"><u>Elevate Your HTPC with the X60nTM5-ITX: ASRock's Latest Mini-ITX Marvel in Thin Motherboards</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-prevent-repeated-uploads-of-the-same-pictures-from-your-iphone-a-solution-guide/"><u>How to Prevent Repeated Uploads of the Same Pictures From Your iPhone - A Solution Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-s23-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy S23 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/top-choice-elite-videographer-tool-for-vimeo/"><u>Top Choice Elite Videographer Tool for Vimeo</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

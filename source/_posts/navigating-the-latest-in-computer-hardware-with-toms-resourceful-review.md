@@ -1,7 +1,7 @@
 ---
 title: Navigating the Latest in Computer Hardware with Tom's Resourceful Review
-date: 2024-08-19T02:47:45.033Z
-updated: 2024-08-20T02:47:45.033Z
+date: 2025-02-09T20:58:31.322Z
+updated: 2025-02-15T17:53:35.018Z
 tags:
   - laptop
 categories:
@@ -60,6 +60,10 @@ _Control: Ultimate Edition_
 
  Using the Windows version of Steam and the[DirectX](https://tools.techidaily.com) 12 version of the game, a[MacBook Pro with an M3 Max](https://tools.techidaily.com) played the title at 46 - 50 frames per second on high-quality settings and high ray tracing with a resolution of 1728 x 1117\. I picked up the DualSense controller Apple had in front of the Mac and took on some Hiss guards as Jesse Faden, and it felt largely ready to go. If this is what convinced Remedy to port the game over, I can kind of see why it happened. With the M3 series and M4 chips supporting ray tracing tech, the game looks great.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -69,13 +73,18 @@ _Control: Ultimate Edition_
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Unified Gaming Platform
 
  Where Apple may have an advantage is where it typically excels: in its ecosystem. If games are released for the Mac, but then you can play them on your iPad or iPhone, it could open up gaming to tons of people who wouldn't have done so previously — and make it easier for enthusiast Mac gamers to play anywhere.
 
 ![Apple gaming showcase with Mac, iPad, iPhone](https://cdn.mos.cms.futurecdn.net/KmMXFc9hGHqpSKASjSdmrP-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -90,21 +99,15 @@ _Assassin's Creed Mirage_ has similar tricks, but only across the iPhone and iPa
 ![Apple gaming showcase with Mac, iPad, iPhone](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Apple gaming showcase with Mac, iPad, iPhone](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple needs to beef up its gaming library
 
  As much as I liked seeing more games run well, particularly on the Mac, it still needs a lot more games to make it the main place for anyone to play. Ubisoft and Capcom are great partners — big studios with games people want to play. But the gaming PC is popular because it supports just about every major game outside of some console exclusives, and has a backlog going back decades.
@@ -114,26 +117,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Apple gaming showcase with Mac, iPad, iPhone](https://cdn.mos.cms.futurecdn.net/JS8KyTUyCkK6QgiFQZ5HeQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  That also means it will take a significant amount of time for Apple to get its gaming efforts anywhere near mainstream. I hope the company is ready to continue this investment in chips, developer relations, and technologies. To get gamers and studios entirely on board will take a lot work. It will take years to see if this can be a true success. (Apple also needs to ensure it doesn't alienate game developers and publishers,[like Epic Games](https://tools.techidaily.com) , which means one of the biggest games in the world doesn't run natively on its flagship platform).  
   
  But sitting in that room, playing some_Resident Evil_ on a MacBook Pro_, Assassin's Creed_ on an iPad,_Palworld_ on a Mac, and_Control_ through x86 emulation tech makes me believe Apple is taking gaming seriously this time. It may never release a gaming laptop — instead, the idea is_any_ Mac (with Apple Silicon, of course) can be a gaming machine. So can any iPad, any iPhone. It's a bold claim that will take continued successes to convince the often-skeptical PC gaming community.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Quality of life improvements, as long as you're in the ecosystem
 
  Apple's other gaming-focused projects are less shiny. Game Mode, which launched on the Mac last year, is coming to the iPhone and iPad this year with iOS 18 and iPadOS 18, minimizing background activity and reducing latency for[audio](https://tools.techidaily.com) and controllers. MacOS Sequoia will have a new version that reduces background processes even further.
@@ -152,8 +144,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +151,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techtrends.techidaily.com/convertir-formato-de-archivo-aifc-a-aiff-online-sin-costo-alguno-con-movavi/"><u>Convertir Formato De Archivo AIFC a AIFF Online Sin Costo Alguno Con Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-learn-all-about-the-rumored-google-pixel-10-and-its-expected-launch-timeline/"><u>Get Ahead of the Curve - Learn All About the Rumored Google Pixel 10 and Its Expected Launch Timeline!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-a24-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy A24 Easily?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone XS Max</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-mac-user-writers-guide-to-dynamic-srt-adjustment-for-2024/"><u>The Mac User’ Writers Guide to Dynamic SRT Adjustment for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-pc-and-peripheral-advice-by-toms-hardware-experts/"><u>Ultimate PC and Peripheral Advice by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-innovations-at-toms-hardware-blog/"><u>Uncovering Innovations at Tom's Hardware Blog</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/universal-data-rescue-compendium/"><u>Universal Data Rescue Compendium</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-vivid-colors-and-rapid-refresh-the-full-review-of-the-viewsonic-oled-gaming-masterpiece/"><u>Unleash Vivid Colors and Rapid Refresh: The Full Review of the ViewSonic OLED Gaming Masterpiece</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-gamers-delight-with-bright-colorful-performance-a-critical-look-at-viewsonic-xg272-2k-monitor/"><u>Unleashing Gamers' Delight with Bright, Colorful Performance: A Critical Look at ViewSonic XG272-2K Monitor</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-infinix-note-30-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Note 30 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-high-tech-secrets-at-toms-gear-and-hardware-insights/"><u>Unveiling High-Tech Secrets at Tom's Gear & Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-with-toms-hardware-wisdom/"><u>Unveiling Tech Secrets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-hardware-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest in Computing Hardware with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/yt-highlights-year-end-spotlight-on-top-music-reactions-for-2024/"><u>YT Highlights Year-End Spotlight on Top Music Reactions for 2024</u></a></li>
+</ul></div>
 

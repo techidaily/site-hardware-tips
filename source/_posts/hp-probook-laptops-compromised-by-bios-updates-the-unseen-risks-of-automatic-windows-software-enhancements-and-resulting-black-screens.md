@@ -1,7 +1,7 @@
 ---
 title: HP ProBook Laptops Compromised by BIOS Updates - The Unseen Risks of Automatic Windows Software Enhancements and Resulting Black Screens
-date: 2024-08-19T02:50:20.842Z
-updated: 2024-08-20T02:50:20.842Z
+date: 2025-02-14T22:38:42.815Z
+updated: 2025-02-15T20:09:43.579Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,17 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-navigating-apples-screen-recording-tools/"><u>[New] 2024 Approved Navigating Apple's Screen Recording Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-effortless-transition-free-onlineoffline-text-animation-for-2024/"><u>[Updated] Effortless Transition Free Online/Offline Text Animation for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-harmonyhub-pro-downloads-and-reviews/"><u>[Updated] In 2024, HarmonyHub Pro Downloads & Reviews</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking/"><u>2024 Approved From Clicks to Cash The Systematic Triple Pathway for YouTube Revenue Tracking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-system-insights-by-toms-hardware-specialists/"><u>Advanced System Insights by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-ensure-accurate-layer-adhesion-and-prevent-shifting-on-your-3d-printer/"><u>How to Ensure Accurate Layer Adhesion and Prevent Shifting on Your 3D Printer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-star-wars-battlefront-ii-from-crashing-in-your-gameplay-experience/"><u>How to Stop 'Star Wars: Battlefront II' From Crashing in Your Gameplay Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-pioneering-computer-reviews/"><u>Tom's Tech Insights: Pioneering Computer Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-home-energy-storage-solutions-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranked Home Energy Storage Solutions - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-expertise-on-computer-systems/"><u>Unveiling Tom’s Expertise on Computer Systems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

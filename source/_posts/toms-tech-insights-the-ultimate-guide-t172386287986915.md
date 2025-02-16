@@ -1,7 +1,7 @@
 ---
 title: Tom's Tech Insights - The Ultimate Guide
-date: 2024-08-19T02:50:40.708Z
-updated: 2024-08-20T02:50:40.708Z
+date: 2025-02-12T18:40:54.253Z
+updated: 2025-02-15T19:25:30.626Z
 tags:
   - laptop
 categories:
@@ -33,6 +33,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Copilot+ PCs: Microsoft’s New Standard
 
  Since then,[Microsoft](https://tools.techidaily.com) has introduced its[Copilot+](https://tools.techidaily.com) PCs, with laptops from Asus, Dell, Acer, Samsung, HP, Lenovo, Samsung, and Microsoft's Surface brand. Those all use[Qualcomm's Snapdragon X Elite and Plus processors](https://tools.techidaily.com) at the moment, though Microsoft has said upcoming AMD Strix Point (aka Ryzen AI 300) and Intel Lunar Lake chips may also fit the bill. To be considered a Copilot+ PC, laptops need to have at least 16GB RAM, 256GB storage, and an on-board NPU that's capable of 40 TOPS (trillions of operations per second). The Qualcomm Snapdragon X Elite chips support 45 TOPS on the NPU.
@@ -42,6 +46,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
  So, anyone who doesn’t buy a Snapdragon X-powered laptop will have to wait on those special Windows features, likely for many months. AMD recently confirmed that its[Ryzen AI 300 PCs won’t be getting the Copilot+](https://tools.techidaily.com) features when they launch later this year, but will eventually. Desktop users are left out of the cold until at least the launch of Intel Arrowlake in Q4\. And anyone with a current-gen laptop or desktop is probably left out permanently.
 
  Given the weak set of Copilot+ features, anyone who is actually paying attention probably isn’t that sad about having to miss them or wait for them. There are many other ways to get an offline (or online) AI image generator, to do real-time translation and to blur your webcam background. Recall is somewhat unique, but many people won’t want it, because of the privacy risks associated with taking constant screenshots of your work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Intel and AMD define AI PC more Broadly
 
@@ -85,6 +93,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
 ![AI PC](https://cdn.mos.cms.futurecdn.net/MkQCTwWhY8wPcsdu5CbJsi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Apple)
 
  Because Apple uses its silicon across all of its Macs, its desktops, like the iMac, Mac Studio, and Mac Pro also have NPU (or as Apple refers to them, Neural Engines). That means macOS will have AI-specific features on desktop running on NPUs before Windows.
@@ -116,10 +128,9 @@ Right now? "Need" is a strong word.
  No matter what type of PC you're using, you should still adhere to good security practices. Other humans are still outsmarting us there.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bottom line
 
  Right now, the term “AI PC” is still somewhat vague. CPU vendors and Microsoft are using the term to sell you new computers (currently, new laptops only) that have powerful NPUs built into their processors. Most of the generative AI features people actually use today (chatbots, image generators) are free to use in the cloud, making them less than “must-haves” in their local form.
@@ -136,8 +147,6 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +154,26 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamlabs-versus-obs-the-ultimate-showdown/"><u>[New] 2024 Approved Streamlabs Versus OBS The Ultimate Showdown</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-deciphering-digital-domination-a-deep-dive-into-directors-videos-for-2024/"><u>[New] Deciphering Digital Domination A Deep Dive Into Directors' Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-asmr-audio-excellence-high-quality-mic-recommendations-for-2024/"><u>[Updated] ASMR Audio Excellence High-Quality Mic Recommendations for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-record-and-save-voices-on-iphone-efficiently-for-2024/"><u>[Updated] How to Record & Save Voices on iPhone Efficiently for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-vimeo-vs-youtube-the-differentiators-analysis/"><u>[Updated] Vimeo V/S YouTube The Differentiator's Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-sources-for-pixel-ringtone-downloads-for-2024/"><u>Best Sources for Pixel Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-a-spectacular-rainbow-pc-made-simple-with-hytes-connectivity-network/"><u>Building a Spectacular Rainbow PC Made Simple with Hyte's Connectivity Network</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-devices-toms-in-depth-analysis-of-tech-equipment/"><u>Delving Into Digital Devices: Tom’s In-Depth Analysis of Tech Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175712434-discover-exceptional-cooling-value-the-thermalight-phantom-spirit-120-se-now-available-at-an-unbeatable-price-of-just-35/"><u>Discover Exceptional Cooling Value: The Thermalight Phantom Spirit 120 SE, Now Available at an Unbeatable Price of Just $35</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-hardware-hub-unveiling-the-best-pc-gear/"><u>Expert Insights From Tom's Hardware Hub: Unveiling the Best PC Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-features-of-mingda-magician-pro2-substantial-print-size-with-whisper-quiet-functionality/"><u>Exploring the Features of Mingda Magician Pro2: Substantial Print Size with Whisper-Quiet Functionality</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-note-30-pro-by-drfone-android/"><u>How to Bypass FRP on Infinix Note 30 Pro?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-dell-laptops-unresponsive-keyboard-step-by-step-solutions/"><u>How to Repair Your Dell Laptop's Unresponsive Keyboard - Step-by-Step Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-tips-for-smooth-ipad-screen-capture/"><u>Quick Tips for Smooth iPad Screen Capture</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-pc-exploring-sfc-and-dism-tools-for-fixing-windows-10-issues/"><u>Reviving Your PC: Exploring SFC and DISM Tools for Fixing Windows 10 Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-strength-of-amd-vs-intel-how-zen-technology-surpasses-with-advanced-threading-techniques/"><u>The Strength of AMD vs Intel: How Zen Technology Surpasses with Advanced Threading Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Computer and Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-digital-mastery-exploring-innovations-at-toms-hardware-hub/"><u>Unlocking Digital Mastery: Exploring Innovations at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-expert-insights/"><u>Unveiling the Latest Gadgets with Tom's Expert Insights</u></a></li>
+</ul></div>
 

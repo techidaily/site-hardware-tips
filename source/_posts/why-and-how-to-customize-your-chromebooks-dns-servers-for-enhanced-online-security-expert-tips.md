@@ -1,7 +1,7 @@
 ---
 title: Why and How to Customize Your Chromebook's DNS Servers for Enhanced Online Security - Expert Tips
-date: 2025-02-02T06:32:40.417Z
-updated: 2025-02-03T02:58:05.779Z
+date: 2025-02-09T17:33:38.424Z
+updated: 2025-02-15T22:37:56.434Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,20 +120,16 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-strategy-for-collecting-multiple-videos-from-tiktok-for-2024/"><u>[Updated] The Ultimate Strategy for Collecting Multiple Videos From TikTok for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-video-integration-youtube-images-in-slide-decks/"><u>2024 Approved Video Integration YouTube Images in Slide Decks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-x7b-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor X7b FRP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-list-of-leading-artificial-intelligence-apps-for-notetaking/"><u>Critical List of Leading Artificial Intelligence Apps for Notetaking</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-15-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 15 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-8-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 8</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-make-videos-like-a-pro-on-mac-top-rated-video-makers/"><u>In 2024, Make Videos Like a Pro on Mac Top-Rated Video Makers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-world-of-computing-hardware-by-tom/"><u>Mastering the World of Computing Hardware by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/most-durable-and-stylish-raspberry-pi-housing-options/"><u>Most Durable & Stylish Raspberry Pi Housing Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-tech-trends-a-closer-look-at-new-devices-with-tomn-hardware/"><u>Navigating Tech Trends: A Closer Look at New Devices with Tom'n Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-at-toms-hardware-store/"><u>Navigating the World of Gadgets at Tom's Hardware Store</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-rumor-confirmed-intel-to-launch-core-ultra-and-arrow-lake-cpus-paired-with-new-z89chip-set-platform/"><u>Tech Rumor Confirmed: Intel to Launch Core Ultra & Arrow Lake CPUs Paired With New Z89^chip Set Platform</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-gaming-desktops-and-pcs-a-comprehensive-guide/"><u>Top-Ranked Gaming Desktops & PCs : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-11s-disappearing-bluetooth-fast-fixes-for-seamless-connectivity/"><u>Troubleshoot Windows 11'S Disappearing Bluetooth: Fast Fixes for Seamless Connectivity!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-in-computer-components-at-toms-hardware-hub/"><u>Unveiling the Best in Computer Components at Tom's Hardware Hub</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-circumnavigating-youtubes-block-list/"><u>[New] In 2024, Circumnavigating YouTube's Block List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-obs-versus-wirecast-assessing-the-best-for-live-broadcasts/"><u>[New] In 2024, OBS Versus Wirecast Assessing the Best for Live Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/a-filmmakers-companion-for-advanced-lut-expertise-for-2024/"><u>A Filmmaker's Companion for Advanced LUT Expertise for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-studies-now-discover-the-ultimate-keyboard-featuring-chatgpt-shortcuts-a-must-read-review-on-zdnet/"><u>Boost Your Studies Now! Discover the Ultimate Keyboard Featuring ChatGPT Shortcuts - A Must-Read Review on ZDNET</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-10-tools-for-clearing-up-clutter-in-audio-files-a-comprehensive-guide/"><u>In 2024, Top 10 Tools for Clearing Up Clutter in Audio Files A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/section-4c-qanda-with-solutions/"><u>Section 4C: Q&A with Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-the-continuous-glare-asus-display-guide/"><u>Stop the Continuous Glare: ASUS Display Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-imperative-shift-to-bring-your-own-ai-breaking-free-from-model-monopolies-and-driving-technological-advancements/"><u>The Imperative Shift to Bring Your Own AI: Breaking Free From Model Monopolies and Driving Technological Advancements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-35-unmissable-dell-promotions-on-cyber-monday-across-stores-like-best-buy-and-amazon-insights-from-zdnet/"><u>Top 35 Unmissable Dell Promotions on Cyber Monday Across Stores Like Best Buy & Amazon - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-graphing-calcualtors-a-comprehensive-review-by-zdnet/"><u>Top-Ranked Graphing Calcualtors : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/video-to-image-easily-separate-and-save-pics-from-movies-windows-10-for-2024/"><u>Video to Image Easily Separate and Save Pics From Movies (Windows 10) for 2024</u></a></li>
 </ul></div>
 

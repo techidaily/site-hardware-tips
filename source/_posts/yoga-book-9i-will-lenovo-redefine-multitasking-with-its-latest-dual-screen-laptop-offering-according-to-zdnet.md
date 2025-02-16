@@ -1,7 +1,7 @@
 ---
 title: "Yoga Book ^9I: Will Lenovo Redefine Multitasking with Its Latest Dual-Screen Laptop Offering, According to ZDNet?"
-date: 2025-01-30T01:31:34.914Z
-updated: 2025-02-03T05:34:12.349Z
+date: 2025-02-14T20:55:54.907Z
+updated: 2025-02-15T22:20:36.286Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take screenshots on any laptop
 
 ## Requirements
@@ -48,10 +52,6 @@ The button can be just about anywhere, so just look for something that looks as 
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Paste your screenshot
 
 Once you've captured your display, the easiest way to edit and save it is by pasting it into an image editing app. If you've got Photoshop, that'll work, but since most people don't have access to such pro software, a much easier, free option works, too: Microsoft Paint.
@@ -64,7 +64,15 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -78,12 +86,16 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
@@ -98,25 +110,13 @@ Michael Gariffo/ZDNET
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,20 +157,20 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-boosting-your-short-form-video-content-on-youtube/"><u>[New] In 2024, Boosting Your Short-Form Video Content on Youtube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-what-lies-beneath-instagram-story-perceptions/"><u>[Updated] What Lies Beneath Instagram Story Perceptions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-sony-xbr65x85e-65-inch-4k-television-a-comprehensive-evaluation/"><u>Affordable Sony XBR65X85e 65 Inch 4K Television - A Comprehensive Evaluation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-gear-with-toms-hardware-exploration/"><u>Discover Top Gear with Tom's Hardware Exploration</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-nokia-c12-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Nokia C12 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-picking-aspect-ratios-for-media/"><u>In 2024, The Art of Picking Aspect Ratios for Media</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-precision-with-the-xtool-s1-top-reviews-and-insights-into-diode-laser-technology-for-hobbies/"><u>Mastering Precision with the XTool S1 – Top Reviews & Insights Into Diode Laser Technology for Hobbies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-cura-fuzzy-skin-functionality-a-step-by-step-guide-for-enhancing-your-3d-prints-with-texture/"><u>Mastering the Cura Fuzzy Skin Functionality: A Step-by-Step Guide for Enhancing Your 3D Prints with Texture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-electronics-with-tom-expert-hardware-analysis/"><u>Navigating Electronics with Tom - Expert Hardware Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-wi-fi-login-issues-a-step-by-step-guide-for-android-users/"><u>Resolving Wi-Fi Login Issues: A Step-by-Step Guide for Android Users</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317729-9781401924874-return-to-the-sacred/"><u>Return to the Sacred | Free Book</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/tailoring-meet-backdrop-for-enhanced-presentations/"><u>Tailoring Meet Backdrop for Enhanced Presentations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-high-performance-gear-by-toms-hardware/"><u>The Ultimate Guide to High-Performance Gear by Tom's Hardware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-svchosts-impact-on-cpu-in-windows-10-environments/"><u>Understanding and Resolving Svchost's Impact on CPU in Windows 10 Environments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gadgets-with-toms-hardware-expertise/"><u>Unveiling the Latest in Gadgets with Tom’s Hardware Expertise</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freememogen-your-guide-to-free-memes/"><u>[New] FreeMemoGen Your Guide to FREE Memes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-10-audio-amplifiers-windows-mac-android-and-ios/"><u>[Updated] In 2024, Top 10 Audio Amplifiers Windows, Mac, Android & iOS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-ipad-artistry-with-the-ultimate-precision-tool-the-zagg-pro-stylus-2/"><u>Enhance Your iPad Artistry with the Ultimate Precision Tool - The ZAGG Pro Stylus 2!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-bargains-on-technology-10th-generation-ipad-at-334-roku-streaming-stick-with-4k-support-and-premium-anker-chargers/"><u>Exclusive Bargains on Technology: 10Th Generation iPad at $334, Roku Streaming Stick with 4K Support, & Premium Anker Chargers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expanding-fmd-network-google-integrates-motorolas-tracking-features-for-better-device-management/"><u>Expanding FMD Network, Google Integrates Motorola’s Tracking Features for Better Device Management</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-upgraded-sonos-roam-2-say-goodbye-to-past-imperfections/"><u>Experience the Upgraded Sonos Roam 2 - Say Goodbye to Past Imperfections</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-11-key-smart-home-configurations-that-transform-your-living-experience/"><u>Expert Advice: 11 Key Smart Home Configurations That Transform Your Living Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-selected-elite-nas-solutions/"><u>Expertly Selected Elite NAS Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/novice-to-pro-the-complete-creator-hub-guide/"><u>From Novice to Pro The Complete Creator Hub Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/google-enhances-locator-capabilities-with-motos-tracking-technology/"><u>Google Enhances Locator Capabilities with Moto's Tracking Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-nuances-of-slow-motion-video-with-gopro-hero-10/"><u>Navigating the Nuances of Slow Motion Video with GoPro Hero 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-chatgpt-jailbreaking-benefits-vs-risks/"><u>Navigating the World of ChatGPT Jailbreaking: Benefits Vs. Risks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-infinix-hot-30i-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Infinix Hot 30i.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-power-at-a-bargain-snap-up-the-hp-victus-15-for-just-515-during-best-buys-prime-day-special-insights/"><u>Unleash Power at a Bargain: Snap Up the HP Victus 15 for Just $515 During Best Buy's Prime Day Special - Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-chuckles-on-a-budget-memetic-creators-guide-for-2024/"><u>Unlocking Chuckles on a Budget - Memetic Creator’s Guide for 2024</u></a></li>
 </ul></div>
 

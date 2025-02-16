@@ -1,7 +1,7 @@
 ---
 title: Take Your Game On-The-Go with Dell’s Latest Ultraportable Gaming Laptop – Featured
-date: 2025-01-31T21:54:30.156Z
-updated: 2025-02-03T07:16:16.788Z
+date: 2025-02-09T18:36:57.578Z
+updated: 2025-02-15T21:26:16.492Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,18 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-creating-simple-videos-top-10-youtube-projects-anyone-can-do/"><u>[Updated] In 2024, Creating Simple Videos Top 10 YouTube Projects Anyone Can Do</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-pinnacle-av-artisans-an-exclusive-list-for-you-for-2024/"><u>[Updated] Pinnacle AV Artisans An Exclusive List for You for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-high-quality-low-speed-video-gear/"><u>[Updated] Top 5 High-Quality Low-Speed Video Gear</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unveiling-burst-function-in-gopro-cameras-for-2024/"><u>[Updated] Unveiling Burst Function in GoPro Cameras for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-innovation-discovering-new-horizons-with-toms-hardware-reviews/"><u>Dive Into Innovation: Discovering New Horizons with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-ins-and-outs-of-hardware-with-tom-a-comprehensive-review-resource/"><u>Exploring the Ins and Outs of Hardware with Tom: A Comprehensive Review Resource</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/futureproof-gaming-powerhouses-the-finest-computers-to-level-up/"><u>Futureproof Gaming Powerhouses: The Finest Computers to Level Up</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/guida-passo-passo-per-personalizzare-le-impostazioni-di-salvataggio/"><u>Guida Passo-Passo per Personalizzare Le Impostazioni Di Salvataggio</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/highest-quality-capture-options-for-2024/"><u>Highest Quality Capture Options for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-persistent-xerox-update-issue-error-code-0x800f020b/"><u>How to Fix the Persistent Xerox Update Issue (Error Code: 0X800F020B)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-modern-electronics-by-tom-your-trusted-source-for-hardware-knowledge/"><u>In-Depth Analysis of Modern Electronics by Tom - Your Trusted Source for Hardware Knowledge</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-with-toms-hardware-insights/"><u>Mastering Gadgets and Systems with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-cutting-edge-gear-with-precision-at-toms-hardware-destination/"><u>Navigating Cutting-Edge Gear with Precision at Tom's Hardware Destination</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125180330-save-big-with-our-top-pick-the-amazing-eleegoo-neptune-4-pro-now-just-240-at-newegg/"><u>Save Big with Our Top Pick - The Amazing Eleegoo Neptune 4 Pro, Now Just $240 at Newegg</u></a></li>
-<li><a href="https://win-able.techidaily.com/starfield-on-pc-now-smooth-sailing-after-fixing-freezing-and-crash-bugs/"><u>Starfield on PC Now Smooth Sailing After Fixing Freezing & Crash Bugs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-top-picks-in-computer-and-hardware-technology/"><u>Unveiling Tom's Top Picks in Computer & Hardware Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts/"><u>[New] 2024 Approved Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-the-keys-exploring-the-top-features-of-an-exceptional-iphone-case-on-zdnet/"><u>Beyond the Keys: Exploring the Top Features of an Exceptional iPhone Case on ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/efficient-photo-management-combining-identical-pictures-of-the-same-individuals-using-iphone-and-mac-tools/"><u>Efficient Photo Management: Combining Identical Pictures of the Same Individuals Using iPhone & Mac Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-s24-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy S24 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-smooth-sailing-with-instagram-fixes-for-frustrations/"><u>In 2024, Smooth Sailing with Instagram Fixes for Frustrations</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/professional-data-recovery-software-recover-clone-and-monitor-hard-drive/"><u>Professional Data Recovery Software – Recover, Clone & Monitor Hard Drive</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-evolution-a-deep-dive-into-lgs-oled-monitors-ud88-w/"><u>The Evolution A Deep Dive Into LG's OLED Monitors UD88-W</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-protective-covers-for-google-pixel-6-in-2/"><u>Top-Rated Protective Covers for Google Pixel 6 in 2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshoot-mobile-internet-issues-top-8-solutions-when-your-androids-data-wont-connect/"><u>Troubleshoot Mobile Internet Issues: Top 8 Solutions When Your Android's Data Won't Connect</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-durable-phone-cases-for-google-pixel-7a-2023-edition/"><u>Ultimate Selection: Durable Phone Cases for Google Pixel 7a - 2023 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-tips-for-choosing-and-configuring-default-programs-on-your-android-device/"><u>Ultimate Tips for Choosing and Configuring Default Programs on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-functionality-of-carkey-technology-in-android-devices/"><u>Understanding the Functionality of CarKey Technology in Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-security-of-googles-find-my-device-how-effective-is-it-in-locating-lost-phones-or-tablets/"><u>Understanding the Security of Google's Find My Device: How Effective Is It in Locating Lost Phones or Tablets?</u></a></li>
 </ul></div>
 

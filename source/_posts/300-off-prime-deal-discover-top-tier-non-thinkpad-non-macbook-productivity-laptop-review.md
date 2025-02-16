@@ -1,7 +1,7 @@
 ---
 title: "$300 Off Prime Deal: Discover Top-Tier Non-ThinkPad, Non-MacBook Productivity Laptop Review"
-date: 2025-01-29T16:57:30.884Z
-updated: 2025-02-01T17:31:15.979Z
+date: 2025-02-11T18:47:48.134Z
+updated: 2025-02-15T22:00:54.570Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Amazon's October Prime Day event has officially ended, but many laptops are stil
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,18 +146,22 @@ All things considered, the [sale price of $989](https://www.awin1.com/awclick.ph
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-ideal-websites-for-extracting-text-visual-upgrades-for-2024/"><u>[Updated] Ideal Websites for Extracting Text Visual Upgrades for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/guia-paso-a-paso-como-configurar-la-supervision-automatica-y-transferencia-de-archivos-entre-carpetas/"><u>Guía Paso a Paso: Cómo Configurar La Supervisión Automática Y Transferencia De Archivos Entre Carpetas</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-beyond-views-and-likes-pursuing-profits-on-youtube/"><u>In 2024, Beyond Views and Likes Pursuing Profits on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pump-it-up-the-20-most-energizing-workout-playlists-for-2024/"><u>Pump It Up The 20 Most Energizing Workout Playlists for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-arctic-freezer-36-a-revolutionary-leap-in-budget-friendly-air-conditioning/"><u>Review of Arctic Freezer 36 - A Revolutionary Leap in Budget-Friendly Air Conditioning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamlessly-blending-silence-ai-assisted-meditation-routines/"><u>Seamlessly Blending Silence: AI-Assisted Meditation Routines</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-chilled-and-lit-valkyrie-al125-air-cooler-for-pc-enthusiasts-with-ips-monitor-compatibility-and-customizable-rgb-lighting-all-under-20/"><u>Stay Chilled and Lit: Valkyrie AL125 Air Cooler for PC Enthusiasts with IPS Monitor Compatibility and Customizable RGB Lighting All Under $20</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/strategies-for-avoiding-layer-displacement-faults-during-3d-printing-process/"><u>Strategies for Avoiding Layer Displacement Faults During 3D Printing Process</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-critical-hardware-and-software-analysis-by-tom/"><u>The Ultimate Resource for Critical Hardware and Software Analysis by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-insights-into-cutting-edge-hardware/"><u>Tom's Tech Hub: Insights Into Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-to-latest-hardware/"><u>Tom's Tech Review: Comprehensive Guide to Latest Hardware</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-mac-software-the-ultimate-list/"><u>Top Rated Mac Software : The Ultimate List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-picks-and-tips-for-thriving-in-valheim-for-2024/"><u>[New] Top Picks & Tips for Thriving in Valheim for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-make-text-talk-on-screen-without-spending-for-2024/"><u>[Updated] How to Make Text Talk on Screen Without Spending for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-download-and-utilize-the-full-power-of-ez-grabber-quickly/"><u>2024 Approved Download and Utilize the Full Power of EZ Grabber Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamics-mmx-200-a-sound-revolution/"><u>Beyerdynamic's MMX 200: A Sound Revolution</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/counterclockwise-playback-in-instagram-videos-for-2024/"><u>Counterclockwise Playback in Instagram Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hyperxs-latest-release-the-pulsefire-haste-2-mouse-series-and-clutch-gladiate-for-enhanced-xbox-gameplay-insider-review/"><u>Exploring HyperX's Latest Release: The Pulsefire Haste #2 Mouse Series and Clutch Gladiate for Enhanced Xbox Gameplay | Insider Review</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-can-you-convert-rtf-documents-into-pdf-format-without-using-external-tools-discover-flipbuildercoms-method/"><u>How Can You Convert RTF Documents Into PDF Format Without Using External Tools? [Discover FlipBuilder.com's Method]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-10-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark 10 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-se-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone SE Properly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-pro-users-rejoice-fedora-linux-compatible-with-every-apple-silicon-machine-one-exception-techspot/"><u>MacBook Pro Users Rejoice: Fedora Linux Compatible with Every Apple Silicon Machine, One Exception! | TechSpot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rocketbook-fusion-moleskine-alternative-up-to-24-off-perfect-for-eco-friendly-note-taking/"><u>Rocketbook Fusion Moleskine Alternative: Up To 24% Off - Perfect For Eco-Friendly Note Taking</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-insider-guide-to-regular-broadcast-etiquette-for-2024/"><u>The Insider Guide to Regular Broadcast Etiquette for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-most-comfortable-ergonomic-keyboards-featured-on-zdnet/"><u>Top 5 Most Comfortable Ergonomic Keyboards - Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-creators-why-the-dream-dock-with-16-ports-is-a-must-have-on-your-workspace-zdnet-review/"><u>Top Picks for Creators: Why the Dream Dock with 16 Ports Is a Must-Have on Your Workspace – ZDNET Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-most-highly-rated-graphic-design-displays-of-2024-as-tested-by-professionals-zdnet/"><u>Ultimate Guide to the Most Highly Rated Graphic Design Displays of 2024, as Tested by Professionals | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-46-off-on-innovative-earwax-removal-cameras-must-have-gadget-this-black-friday-zdnet/"><u>Unlock 46% OFF on Innovative Earwax Removal Cameras - Must-Have Gadget This Black Friday! | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-workflow-with-the-ultimate-16-port-dream-dock-every-artists-top-tech-pick-zdnet/"><u>Upgrade Your Workflow with the Ultimate 16-Port Dream Dock - Every Artist's Top Tech Pick | ZDNET</u></a></li>
 </ul></div>
 

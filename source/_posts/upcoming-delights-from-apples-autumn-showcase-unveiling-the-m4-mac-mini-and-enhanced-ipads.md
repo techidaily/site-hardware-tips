@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Delights From Apple's Autumn Showcase: Unveiling the M4 Mac Mini & Enhanced iPads!"
-date: 2025-01-30T19:00:11.730Z
-updated: 2025-02-01T19:42:00.501Z
+date: 2025-02-13T21:32:00.454Z
+updated: 2025-02-15T17:20:20.765Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,22 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-send-gif-on-snapchat-stey-by-stey-guide/"><u>[New] How to Send Gif on Snapchat [Stey-by-Stey Guide]</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-seamlessly-convert-vimeo-media-to-mp3/"><u>[Updated] 2024 Approved How to Seamlessly Convert Vimeo Media to MP3</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-influence-of-immersive-technology/"><u>[Updated] 2024 Approved The Influence of Immersive Technology</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-leading-edge-in-online-advertising-fb-insights/"><u>[Updated] 2024 Approved The Leading Edge in Online Advertising FB Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-the-rush-for-black-friday-get-your-samsung-t5-ssd-at-a-massive-48-off-before-the-prime-day-extravaganza/"><u>Beat the Rush for Black Friday: Get Your Samsung T5 SSD at a Massive 48% Off Before the Prime Day Extravaganza</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dell-upgrades-its-acclaimed-xps-series-now-packed-with-advanced-ai-capabilities-and-stunning-designs-insights-from-zdnet/"><u>Dell Upgrades Its Acclaimed XPS Series: Now Packed with Advanced AI Capabilities and Stunning Designs - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-how-the-new-macbook-pro-with-advanced-m2-pro-processor-transforms-your-computing-experience-expert-review-by-zdnet/"><u>Discover How the New MacBook Pro with Advanced M2 Pro Processor Transforms Your Computing Experience – Expert Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-apple-device-experience-a-comprehensive-tutorial-for-installing-extra-ports-on-macbookipad-pro/"><u>Enhance Your Apple Device Experience: A Comprehensive Tutorial for Installing Extra Ports on MacBook/iPad Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-selected-and-evaluated-ultimate-list-of-premium-online-notekeepers-for-purchase/"><u>Expertly Selected & Evaluated Ultimate List of Premium Online Notekeepers for Purchase</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/open-source-banner-resources-a-gift-to-youtubers-for-2024/"><u>Open Source Banner Resources A Gift to YouTubers for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-non-functional-dell-speakers/"><u>Quick Solutions for Non-Functional Dell Speakers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-design-how-lenovos-newest-2-in-1-laptop-defies-expectations-a-zdnet-review/"><u>Revolutionary Design: How Lenovo's Newest 2-in-1 Laptop Defies Expectations – A ZDNet Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sale-alert-secure-a-36-discount-on-the-durable-8tb-samsung-portable-ssd-at-amazon-insights-from-zdnet/"><u>Sale Alert: Secure a 36% Discount on the Durable 8TB Samsung Portable SSD at Amazon - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-pro-13-protective-covers-and-skins-2024-edition/"><u>Top-Rated iPad Pro 13 Protective Covers & Skins - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-immediate-discounts-on-m1-macbook-air-save-hundreds-with-us-today-techguide/"><u>Unlock Immediate Discounts on M1 MacBook Air - Save Hundreds with Us Today! | TechGuide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ignite-conversations-top-10-creative-reaction-insights-for-videos-for-2024/"><u>[Updated] Ignite Conversations Top 10 Creative Reaction Insights for Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-realigning-your-personal-soundtracks-from-spotify-to-youtube-music/"><u>[Updated] Realigning Your Personal Soundtracks From Spotify to YouTube Music</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-visual-virtuosos-selecting-framing-software/"><u>[Updated] Visual Virtuosos Selecting Framing Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-uncovering-the-hidden-risks-how-a-key-airtag-safety-function-could-damage-your-device-a-comprehensive-guide/"><u>1. Uncovering the Hidden Risks: How a Key AirTag Safety Function Could Damage Your Device - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-the-ultimate-selection-of-cheap-webcams-for-your-home-office-this-year/"><u>Affordable Excellence: The Ultimate Selection of Cheap Webcams for Your Home Office This Year</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-budget-friendly-webcams-for-online-communication-top-picks-of-2023/"><u>Best Budget-Friendly Webcams for Online Communication - Top Picks of 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effiziente-losungen-fur-die-energieerzeugungsindustrie-automatische-rechnungsverarbeitung-durch-abbyy-kundenzugange-und-referenzen/"><u>Effiziente Lösungen Für Die Energieerzeugungsindustrie: Automatische Rechnungsverarbeitung Durch ABBYY - Kundenzugänge Und Referenzen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-recording-gear-for-environmentalists/"><u>Essential Recording Gear for Environmentalists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-rode-procaster-assessment-high-end-audio-performance-at-less-than-200-a-must-read-guide/"><u>Expert Rode PROCaster Assessment: High-End Audio Performance at Less Than $200 - A Must-Read Guide!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-choosing-the-ultimate-action-cam-does-black-gopro-outshine-x1000v/"><u>In 2024, Choosing the Ultimate Action Cam Does Black GoPro Outshine X1000V?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-next-gen-consumer-engagement-strategies/"><u>In 2024, Next-Gen Consumer Engagement Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-end-of-3g-essential-guide-to-identifying-and-replacing-impacted-gadgets-zdnets-expert-advice/"><u>Navigating the End of 3G: Essential Guide to Identifying and Replacing Impacted Gadgets | ZDNET's Expert Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-accessible-webcam-solutions-by-logitee-perfect-for-todays-virtual-teams-insights-from-zdnet/"><u>New Accessible Webcam Solutions by Logitee: Perfect for Today's Virtual Teams, Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pinpointing-premium-hdr-camera-brands/"><u>Pinpointing Premium HDR Camera Brands</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-journey-of-the-obsolete-from-floppy-disks-to-modern-transport-uncovering-their-hidden-presence-zdnet/"><u>The Journey of the Obsolete: From Floppy Disks to Modern Transport - Uncovering Their Hidden Presence | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-most-effective-laptop-chillers-of-2er-year-professional-evaluations-techradar/"><u>Ultimate Guide to the Most Effective Laptop Chillers of 2Er Year: Professional Evaluations | TechRadar</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/understanding-and-using-spanish-verb-endings/"><u>Understanding and Using Spanish Verb Endings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-savings-with-our-earwax-removal-tech-toolkit-camera-black-friday-deal-alert-from-zdnet/"><u>Unlock Savings with Our Earwax Removal Tech Toolkit Camera – Black Friday Deal Alert From ZDNet!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-noticed-20-stunning-adobe-premiere-intro-templates-free-to-download/"><u>Updated 2024 Approved Get Noticed 20 Stunning Adobe Premiere Intro Templates Free to Download</u></a></li>
 </ul></div>
 

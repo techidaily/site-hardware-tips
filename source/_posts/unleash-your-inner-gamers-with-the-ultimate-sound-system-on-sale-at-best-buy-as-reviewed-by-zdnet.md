@@ -1,7 +1,7 @@
 ---
 title: Unleash Your Inner Gamers with the Ultimate Sound System on Sale at Best Buy, as Reviewed by ZDNet
-date: 2025-01-27T17:05:15.143Z
-updated: 2025-02-02T16:22:58.395Z
+date: 2025-02-10T20:53:26.341Z
+updated: 2025-02-15T22:34:14.075Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -75,7 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -87,7 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -124,24 +124,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-amplify-content-reach-essential-strategies-to-skyrocket-views/"><u>[New] 2024 Approved Amplify Content Reach Essential Strategies to Skyrocket Views</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-analyzing-user-interface-and-features-in-youtube-mobile-app/"><u>[New] 2024 Approved Analyzing User Interface and Features in YouTube Mobile App</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-auditsound-scrutiny/"><u>[New] 2024 Approved AuditSound Scrutiny</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-boost-your-home-cinema-skills-with-these-top-5-tips-for-2024/"><u>[New] Boost Your Home Cinema Skills with These Top 5 Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-easy-path-sending-fb-videos-to-whatsapp-contacts-for-2024/"><u>[New] Easy Path Sending FB Videos to WhatsApp Contacts for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ree-high-quality-youtube-banner-samples-inside/"><u>[New] Free High-Quality YouTube Banner Samples Inside!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-search-filters-on-instagram-and-get-more-filters-for-free/"><u>[Updated] 2024 Approved How to Search Filters on Instagram and Get More Filters for Free</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-micro-music-moments-character-compositions/"><u>[Updated] Micro-Music Moments Character Compositions</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-11s-0x800713f-email-problem/"><u>Addressing Windows 11'S 0X800713F Email Problem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-accessories-to-boost-your-raspberry-pi-projects/"><u>Advanced Accessories to Boost Your Raspberry Pi Projects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-at-pc-components-a-review-by-toms-hardware-experts/"><u>Inside Look at PC Components - A Review by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/large-client-withdrawals-cause-asetek-to-stop-providing-earnings-projections/"><u>Large Client Withdrawals Cause Asetek to Stop Providing Earnings Projections</u></a></li>
-<li><a href="https://article-tips.techidaily.com/make-a-splash-impressive-video-edits-with-windows-10s-tools/"><u>Make a Splash Impressive Video Edits with Windows 10'S Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-high-tech-wonders-with-professional-reviews-from-toms-hardware/"><u>Navigate Through High-Tech Wonders with Professional Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-your-way-through-innovative-hardware-with-expert-insights-from-tom/"><u>Navigate Your Way Through Innovative Hardware with Expert Insights From Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/say-hello-to-noctuas-home-series-the-stellar-100-nv-fs1-desk-fan-leads-the-way/"><u>Say Hello to Noctua's Home Series: The Stellar $100 NV-FS1 Desk Fan Leads the Way</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-gadget-reviews-and-advice/"><u>Tom's Tech Hub: Expert Gadget Reviews and Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-premier-wavy-gaming-screens-2024-edition/"><u>Ultimate Selection: Premier Wavy Gaming Screens - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pc-the-smart-way-advice-from-toms-hardware-experts/"><u>Upgrade Your PC the Smart Way – Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-efficient-way-to-broadcast-tiktok-videos-via-facebook/"><u>[New] Efficient Way to Broadcast TikTok Videos via Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-innovative-8-cameras-transforming-online-broadcasting/"><u>[New] In 2024, Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-innovative-education-prime-15-youtube-science-outlets/"><u>[New] Innovative Education Prime 15 YouTube Science Outlets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-educational-history-vlogs-the-ultimate-list/"><u>[Updated] Educational History Vlogs - The Ultimate List</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-from-static-to-spectaculous-the-yi-hero-video-journey/"><u>[Updated] From Static to Spectaculous The Yi Hero Video Journey</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-kinemasters-full-potential-in-zoomed-sections-for-2024/"><u>[Updated] Unlocking Kinemaster's Full Potential in Zoomed Sections for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-the-secrets-of-instagram-scheduling/"><u>2024 Approved Unlocking the Secrets of Instagram Scheduling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-minds-and-devices-chatgpt-on-android/"><u>Bridging Minds & Devices: ChatGPT on Android</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-future-the-revolutionary-google-pixel-fold/"><u>Discovering the Future: The Revolutionary Google Pixel Fold</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-methods-for-detecting-and-locating-airtags-with-android-smartphones/"><u>Easy Methods for Detecting and Locating AirTags with Android Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-tutorial-capturing-audio-from-voice-calls-on-android-phones/"><u>Easy Tutorial: Capturing Audio From Voice Calls on Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-methods-to-retrieve-deleted-android-contacts/"><u>Effective Methods to Retrieve Deleted Android Contacts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-innovation-in-smartphones-the-latest-galaxy-z-fold-5-by-samsung-boasts-a-refined-hinge-mechanism-and-enhanced-brightness-for-unmatched-viewing-pl2/"><u>Experience Innovation in Smartphones: The Latest Galaxy Z Fold 지빌드 5 by Samsung Boasts a Refined Hinge Mechanism and Enhanced Brightness for Unmatched Viewing Pleasure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-insights-and-predictions-for-googles-2024-creation-post-pixel-9-era/"><u>Exploring the Future: Insights and Predictions for Google's 2024 Creation - Post-Pixel 9 Era</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/googles-new-foldable-pixel-expectations-for-potential-adjustments-to-camera-specifications/"><u>Google's New Foldable Pixel: Expectations for Potential Adjustments to Camera Specifications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/green-technology-and-gadgets-the-role-of-google-in-promoting-prolonged-device-usage-for-environmental-conservation/"><u>Green Technology and Gadgets: The Role of Google in Promoting Prolonged Device Usage for Environmental Conservation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-90-lite-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor 90 Lite For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
 

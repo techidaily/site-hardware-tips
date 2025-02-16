@@ -1,7 +1,7 @@
 ---
 title: "The Debate on AI Branding: Framework Takes a Stand Against PC Industry Practices"
-date: 2024-08-19T02:49:18.378Z
-updated: 2024-08-20T02:49:18.378Z
+date: 2025-02-09T20:49:45.721Z
+updated: 2025-02-15T19:36:28.524Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,21 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-microphone-recordings-list-9-reviews-of-choice/"><u>[New] In 2024, The Ultimate Microphone Recordings List 9 Reviews of Choice</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-insiders-guide-to-youtube-tv-features-and-functions/"><u>[New] The Insider's Guide to YouTube TV Features & Functions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-sharing-content-video-posts-on-instagram-guide/"><u>[Updated] 2024 Approved Sharing Content Video Posts on Instagram Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-step-by-step-ps4-recording-techniques-for-gamers/"><u>[Updated] In 2024, Step-by-Step PS4 Recording Techniques for Gamers</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/easy-methods-for-pc-users-to-digitize-and-save-their-old-vhs-collection-as-dvd-files/"><u>Easy Methods for PC Users to Digitize and Save Their Old VHS Collection as DVD Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/game-enthusiasts-rejoice-eblazter-presents-customizable-gaming-computers-in-one-compact-design/"><u>Game Enthusiasts Rejoice: EBlazter Presents Customizable Gaming Computers in One Compact Design</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-gionee-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Gionee Phone When You Forget the Password</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-toms-tech-expert-insights-and-comprehensive-reviews/"><u>In-Depth Analysis of Tom's Tech: Expert Insights and Comprehensive Reviews</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refreshdisplayinvertedcorrection/"><u>RefreshDisplayInvertedCorrection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/retail-launch-akasas-innovative-13-inch-fanless-nuc-13-pro-computing-system/"><u>Retail Launch: Akasa's Innovative 13-Inch Fanless NUC 13 Pro Computing System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964477710-save-big-on-your-dream-rig-the-stylish-fractal-design-north-case-at-just-119/"><u>Save Big on Your Dream Rig: The Stylish Fractal Design North Case at Just $119</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-review-comprehensive-insights-into-the-latest-tech/"><u>Tom's Computer Review: Comprehensive Insights Into the Latest Tech</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-infinix-note-30i-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Infinix Note 30i Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-world-of-gadgets-with-toms-technology-insights/"><u>Unveiling the World of Gadgets with Tom's Technology Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->

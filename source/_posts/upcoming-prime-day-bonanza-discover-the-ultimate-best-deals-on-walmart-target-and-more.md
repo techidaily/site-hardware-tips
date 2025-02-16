@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Prime Day Bonanza: Discover the Ultimate Best Deals on Walmart, Target & More!"
-date: 2025-01-31T20:22:30.427Z
-updated: 2025-02-01T17:46:57.978Z
+date: 2025-02-08T19:16:39.491Z
+updated: 2025-02-15T22:13:42.004Z
 tags:
   - laptops
 categories:
@@ -99,16 +99,16 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -119,6 +119,10 @@ Kyle Kucharski/ZDNET
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -128,10 +132,14 @@ Kyle Kucharski/ZDNET
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
@@ -141,13 +149,13 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -155,17 +163,9 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,20 +230,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-gauge-if-an-mcn-is-right-for-your-youtube-journey/"><u>[Updated] In 2024, How to Gauge if an MCN Is Right for Your YouTube Journey</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-best-value-screen-recorder-apps-under-50/"><u>2024 Approved Best Value Screen Recorder Apps Under $50</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elegoo-neptune-4-max-unveiling-its-impressive-speed-and-size-while-navigating-through-the-glitches/"><u>Elegoo Neptune 4 Max: Unveiling Its Impressive Speed & Size While Navigating Through the Glitches</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-deals-on-cutting-edge-3d-printer-technology-for-savvy-shoppers/"><u>Exclusive Deals on Cutting-Edge 3D Printer Technology for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expanding-possibilities-with-raspberry-pi-hats-a-comprehensive-selection-guide/"><u>Expanding Possibilities with Raspberry Pi HATs - A Comprehensive Selection Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-recommendations-fastest-nvme-storage-options-tailored-for-the-steam-deck-enthusiasts/"><u>Expert Recommendations: Fastest NVMe Storage Options Tailored for the Steam Deck Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-hub-for-computer-components-toms-hardware-unveiled/"><u>Expert Review Hub for Computer Components - Tom's Hardware Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-corsairs-icue-link-h150i-rgb-sets-new-standards-for-graphics-card-customization-and-power/"><u>Expert Review: Corsair's iCUE Link H150i RGB Sets New Standards for Graphics Card Customization & Power</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-v27-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo V27 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-premium-audio-visual-leading-blu-ray-devices/"><u>In 2024, Premium Audio, Visual Leading Blu-Ray Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-mp4-ogg-video-format-transformation-zero-cost-with-movavi/"><u>Online MP4-OGG Video Format Transformation: Zero Cost with Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-of-transportation-unveiling-potential-details-for-the-apple-car-pricing-insights-and-release-info/"><u>The Future of Transportation: Unveiling Potential Details for the Apple Car – Pricing Insights and Release Info</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-seo-tips-for-maximizing-your-seagate-backup-plus-experience-year-2024/"><u>Ultimate SEO Tips for Maximizing Your Seagate Backup Plus Experience (Year 2024)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-ai-powered-tools-how-chatgpt-can-boost-your-job-search-successfully/"><u>Utilizing AI-Powered Tools: How ChatGPT Can Boost Your Job Search Successfully</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-method-for-recorded-instagram-stories-for-2024/"><u>[New] The Ultimate Method for Recorded Instagram Stories for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-streamline-video-using-vimeo-record-for-live-captures/"><u>[Updated] In 2024, Streamline Video Using Vimeo Record for Live Captures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-perfect-drone-companions-for-skilled-pilots-top-5/"><u>[Updated] Perfect Drone Companions for Skilled Pilots (Top 5)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/130-handheld-display-transforms-pricey-1000-dell-desktop-into-a-relic-insights-from-zdnet/"><u>$130 Handheld Display Transforms Pricey $1,000 Dell Desktop Into a Relic: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-premier-solid-state-drives-unveiled-insights-and-comparisons-techradar/"><u>2024'S Premier Solid State Drives Unveiled: Insights & Comparisons – TechRadar</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/dable-gear-for-aspiring-content-creators-for-2024/"><u>Affordable Gear for Aspiring Content Creators for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-review-and-overview-of-du-recorder-for-2024/"><u>Comprehensive Review and Overview of Du Recorder for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-16-port-creative-hub-the-must-have-stationary-powerhouse-for-designers/"><u>Essential 16-Port Creative Hub: The Must-Have Stationary Powerhouse for Designers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-a-130-mobile-display-transformed-my-high-end-dell-setup-into-a-relic/"><u>How a $130 Mobile Display Transformed My High-End Dell Setup Into a Relic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-a-simple-130-gadget-turned-my-high-end-dell-into-a-vintage-classic-unveiling-upgrades-on-zdnet/"><u>How a Simple $130 Gadget Turned My High-End Dell Into a Vintage Classic | Unveiling Upgrades on ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-resolve-realtek-wireless-adapter-glitches-in-various-versions-of-windows/"><u>How to Resolve RealTek Wireless Adapter Glitches in Various Versions of Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hyperx-unveils-the-next-gen-pulsefire-haste-2-gaming-mice-and-clutch-gladiate-xbox-control-device-what-you-need-to-know/"><u>HyperX Unveils the Next-Gen Pulsefire Haste #2 Gaming Mice & Clutch Gladiate Xbox Control Device – What You Need to Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/privacy-protection-plan-reject-these-invasive-apps/"><u>Privacy Protection Plan: Reject These Invasive Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-maintaining-your-mechanical-keyboards-lifespan-with-proper-cleaning-techniques/"><u>Step-by-Step Guide: Maintaining Your Mechanical Keyboard's Lifespan with Proper Cleaning Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/take-your-podcasting-game-to-the-next-level-using-focusrite-scarlett-2i2-insider-tips-featured-on-zdnet/"><u>Take Your Podcasting Game to the Next Level Using Focusrite Scarlett 2I2 - Insider Tips Featured on ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-secrets-to-studio-level-audio-on-your-phone-a-look-at-apples-iphone-16-pro-sound-mix-technology-analysis/"><u>Unlocking the Secrets to Studio-Level Audio on Your Phone: A Look at Apple's iPhone 16 Pro Sound Mix Technology Analysis</u></a></li>
 </ul></div>
 

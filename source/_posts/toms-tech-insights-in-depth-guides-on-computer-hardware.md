@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: In-Depth Guides on Computer Hardware"
-date: 2024-08-19T02:50:39.409Z
-updated: 2024-08-20T02:50:39.409Z
+date: 2025-02-12T21:25:15.307Z
+updated: 2025-02-15T19:46:48.383Z
 tags:
   - laptop
 categories:
@@ -29,6 +29,10 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
 
  Nevertheless,[American lawmakers are still investigating China’s access to this technology](https://tools.techidaily.com) , especially as Washington is working hard to[restrict Beijing’s access](https://tools.techidaily.com) to advanced tech. However, since it remains open, many[Chinese startups](https://tools.techidaily.com) [and companies](https://tools.techidaily.com) are taking advantage of this ISA, allowing them to produce chips that aren’t restricted by American sanction.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,9 +45,17 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
 
 ![Framework, DeepComputing collaborate](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Framework, DeepComputing)
 
 ![Framework, DeepComputing collaborate](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Framework, DeepComputing)
 
@@ -55,8 +67,6 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,23 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-advanced-strategies-for-screen-recording-on-ipad/"><u>[New] Advanced Strategies for Screen Recording on iPad</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mastering-makeup-tutorials-launching-your-glam-vlog/"><u>[Updated] 2024 Approved Mastering Makeup Tutorials Launching Your Glam Vlog</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-logic-pro-techniques-for-fading-out-sounds/"><u>[Updated] Logic Pro Techniques for Fading Out Sounds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-illustration-insights-elevating-text-in-three-dimensions/"><u>2024 Approved Illustration Insights Elevating Text in Three Dimensions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-with-tom-comprehensive-hardware-insights/"><u>Exploring Advanced Computing with Tom - Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://win-net.techidaily.com/get-the-latest-from-new-party-tyme-exclusive-karaoke-streaming-service-launched-april-23-2018/"><u>Get the Latest From New Party Tyme: Exclusive Karaoke Streaming Service Launched April 23, 2018</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-setup-your-logitech-hd-webcam-model-c525-for-windows-users/"><u>How to Download and Setup Your Logitech HD Webcam Model C525 for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-insights-from-tomn-hardware-reviews/"><u>Mastering Technology Insights From Tom'n Hardware Reviews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/on-device-ai-demystified-an-in-depth-look-at-how-it-operates/"><u>On-Device AI Demystified: An In-Depth Look at How It Operates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-hardware-assessments-toms-technology-hub/"><u>Professional Hardware Assessments - Tom's Technology Hub</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/restoring-lost-emails-from-your-outlook-account-essential-tips-and-tricks/"><u>Restoring Lost Emails From Your Outlook Account: Essential Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/speed-up-pc-assembly-corsairs-innovative-one-turn-screw-for-ultimate-efficiency/"><u>Speed Up PC Assembly: Corsair's Innovative One-Turn Screw for Ultimate Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-cooler-master-ion-360-reviewed-examining-progress-and-setbacks-in-liquid-cpu-cooling/"><u>The Cooler Master ION 360 Reviewed: Examining Progress and Setbacks in Liquid CPU Cooling</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience-for-2024/"><u>The Ultimate Monitor List for an Immersive Xbox Series X Experience for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tiny-yet-titanium-breakthrough-in-3d-printing-metals-bigger-than-the-smallest-virus/"><u>Tiny Yet Titanium: Breakthrough in 3D Printing Metals Bigger Than the Smallest Virus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-4k-ultra-hd-monitors-latest-models-of-2024/"><u>Top Affordable 4K Ultra HD Monitors - Latest Models of 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

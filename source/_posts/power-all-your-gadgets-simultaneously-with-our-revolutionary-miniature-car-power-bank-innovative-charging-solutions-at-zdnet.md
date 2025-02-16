@@ -1,7 +1,7 @@
 ---
 title: Power All Your Gadgets Simultaneously with Our Revolutionary Miniature Car Power Bank | Innovative Charging Solutions at ZDNET
-date: 2025-01-30T18:42:05.759Z
-updated: 2025-02-01T20:48:57.106Z
+date: 2025-02-12T17:18:17.235Z
+updated: 2025-02-15T22:12:27.054Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,19 +134,18 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-cracking-the-code-to-reinstating-your-tiktok-profile/"><u>[New] Cracking the Code to Reinstating Your TikTok Profile</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/xpert-guide-to-video-to-audio-10-best-tools-reviewed/"><u>[New] Expert Guide to Video-to-Audio #10 Best Tools Reviewed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-achieving-verified-on-instagram-accelerating-follower-count-through-effective-techniques/"><u>[New] In 2024, Achieving Verified on Instagram Accelerating Follower Count Through Effective Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-advice-on-cutting-edge-computer-hardware-by-toms-team/"><u>Expert Reviews and Advice on Cutting-Edge Computer Hardware by Tom's Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-toms-gear-guidance-in-depth-analysis/"><u>Exploring Technology with Tom's Gear Guidance: In-Depth Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/grizzlys-thermal-advancement-a-phase-changing-pad-for-optimal-temperature-regulation-starting-at-45c/"><u>Grizzly's Thermal Advancement: A Phase-Changing Pad for Optimal Temperature Regulation Starting at 45°C!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/groundbreaking-single-run-technique-produces-functional-robotic-hand-a-leap-toward-personal-printers-for-replacing-lost-arms/"><u>Groundbreaking Single-Run Technique Produces Functional Robotic Hand: A Leap Toward Personal Printers for Replacing Lost Arms</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-t2x-5g-frp-by-drfone-android/"><u>How Can We Bypass Vivo T2x 5G FRP?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-guide-to-utilizing-curas-fuzziness-functionality-for-improved-print-quality/"><u>In-Depth Guide to Utilizing Cura's Fuzziness Functionality for Improved Print Quality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revitalizing-your-monitors-appearance-fixes-for-pixel-damage-and-fading-hues-on-digital-displays/"><u>Revitalizing Your Monitor's Appearance: Fixes for Pixel Damage & Fading Hues on Digital Displays</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-anatomy-of-a-hack-attempt-on-linus-tech-tips-lessons-learned-for-better-security-practices/"><u>The Anatomy of a Hack Attempt on Linus Tech Tips: Lessons Learned for Better Security Practices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unveiling-the-secrets-to-snap-success-for-2024/"><u>Unveiling the Secrets to Snap Success for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-timeline-when-can-we-expect-gpt-5-to-hit-the-market/"><u>Unveiling the Timeline: When Can We Expect GPT-5 to Hit the Market?</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/wie-man-in-onedrive-gezielt-ausgewahlte-verzeichnisse-synchronisiert/"><u>Wie Man in OneDrive Gezielt Ausgewählte Verzeichnisse Synchronisiert</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-engaging-scriptwriting-techniques-for-higher-video-rankings-for-2024/"><u>[Updated] Engaging Scriptwriting Techniques for Higher Video Rankings for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-lifelike-livestreaming-should-streamers-trust-softwares-or-systems/"><u>[Updated] Lifelike Livestreaming Should Streamers Trust Softwares or Systems?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-tutorial-tracking-down-your-youtube-comments-for-2024/"><u>[Updated] Tutorial Tracking Down Your YouTube Comments for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-soar-in-popularity-with-key-seo-strategies-for-your-youtube-content/"><u>2024 Approved Soar in Popularity with Key SEO Strategies for Your YouTube Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-sleep-inducing-series-analyzing-video-bedtime-stories/"><u>2024 Approved The Sleep-Inducing Series Analyzing Video Bedtime Stories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-alert-procure-your-dream-monitor-at-a-bargain-price-non-gamer-secures-epic-32-curved-model-for-230-insider-info-from-techsavvypundit/"><u>Best Value Alert: Procure Your Dream Monitor at a Bargain Price - Non-Gamer Secures Epic 32 Curved Model for $230, Insider Info From TechSavvyPundit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-pc-efficiency-the-ultimate-guide-to-high-speed-m3-nvme-ssds-featured-on-zdnet/"><u>Elevate PC Efficiency: The Ultimate Guide to High-Speed M.^3 NVMe SSDs Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-workspace-with-x-techs-ergonomic-marvel-the-x-chair-executive-chair-unveiled-on-cnet/"><u>Elevate Your Workspace with X-Tech's Ergonomic Marvel – The X-Chair Executive Chair Unveiled on CNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-upgrading-your-laptops-memory-techadvice/"><u>Step-by-Step Guide: Upgrading Your Laptop's Memory | TechAdvice</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1732515762283-top-techniques-to-accelerate-your-computers-performance-insights-from-yl-computing/"><u>Top Techniques to Accelerate Your Computer's Performance - Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-widescreen-displays-the-ultimate-list-featured-on-zdnet/"><u>Top-Ranking Widescreen Displays: The Ultimate List - Featured on ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unseen-fb-video-tactics-unlock-all-sharing-options/"><u>Unseen FB Video Tactics Unlock All Sharing Options</u></a></li>
 </ul></div>
 

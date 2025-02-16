@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis of Hardware by Tom - Your Go-To Resource
-date: 2024-08-19T02:49:34.656Z
-updated: 2024-08-20T02:49:34.656Z
+date: 2025-02-12T20:50:16.136Z
+updated: 2025-02-15T16:49:54.865Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/fUDcfXwW4rykNu8WKxoqmC-320-80.jpg
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,20 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-15-unboxing-youtube-channels-2024/"><u>[New] Best 15 Unboxing YouTube Channels 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-seek-all-sharing-in-a-group-chat-via-messenger/"><u>[New] In 2024, Seek All Sharing in a Group Chat via Messenger</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-channel-expansion-sharing-your-show-across-30-platforms-for-2024/"><u>[Updated] Channel Expansion Sharing Your Show Across 30 Platforms for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-pioneering-features-of-bard-excitingly-debuted-at-googles-2023-event/"><u>7 Pioneering Features of Bard, Excitingly Debuted at Google's 2023 Event</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/concurrent-resolutions-although-non-binding-they-may-be-used-by-the-house-to-express-its-collective-stance-on-fiscal-matters-urging-compliance-from-the-sena17/"><u>Concurrent Resolutions – Although Non-Binding, They May Be Used by the House to Express Its Collective Stance on Fiscal Matters, Urging Compliance From the Senate</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gadgets-with-toms-hardware-experts-your-guide-for-quality-tech-choices/"><u>Exploring Computer Gadgets with Tom's Hardware Experts: Your Guide for Quality Tech Choices</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-reno-11f-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo Reno 11F 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-leveraging-hashtags-in-twitter-advertising/"><u>In 2024, Leveraging Hashtags in Twitter Advertising</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/preserving-personal-files-a-guide-to-securely-refreshing-your-windows-11-system-with-two-strategies/"><u>Preserving Personal Files: A Guide to Securely Refreshing Your Windows 11 System with Two Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964488813-stream-like-a-pro-at-record-lows-with-logiteches-g-yeti-gx-microphone-offer-dont-miss-this-exclusive-deal/"><u>Stream Like a Pro at Record Lows with Logiteche's G Yeti GX Microphone Offer – Don’t Miss This Exclusive Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-gameplay-get-asus-rog-strix-scope-ii-gaming-keyboard-at-only-69/"><u>Transform Your Gameplay: Get ASUS ROG Strix Scope II Gaming Keyboard at Only $69</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-xr-headsets-elevating-work-and-wanderlust-with-new-features-discover-how/"><u>Unveiling the Top XR Headsets Elevating Work & Wanderlust with New Features - Discover How!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

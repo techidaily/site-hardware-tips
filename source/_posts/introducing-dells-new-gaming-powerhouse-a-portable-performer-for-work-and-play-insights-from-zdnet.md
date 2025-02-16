@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2025-01-28T23:34:35.862Z
-updated: 2025-02-02T16:58:28.442Z
+date: 2025-02-10T18:18:15.329Z
+updated: 2025-02-15T16:42:16.589Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,17 +114,20 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-thriving-as-an-online-gaming-content-creator/"><u>[New] In 2024, Thriving as an Online Gaming Content Creator</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-basic-to-brilliant-top-100plus-biographies-that-captivate-audiences/"><u>[Updated] 2024 Approved From Basic to Brilliant Top 100+ Biographies that Captivate Audiences</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-automate-playlist-retrieval-from-youtube-directly-for-2024/"><u>[Updated] Automate Playlist Retrieval From YouTube Directly for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-tecno-camon-30-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Tecno Camon 30 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-note-30-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Note 30</u></a></li>
-<li><a href="https://extra-information.techidaily.com/android-and-iphone-select-top-tier-mobile-multimedia-tools/"><u>Android & iPhone Select Top-Tier Mobile Multimedia Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-advantages-of-using-ultralight-gan-technology-in-premium-usb-c-laptop-chargers/"><u>Discover the Advantages of Using Ultralight GaN Technology in Premium USB-C Laptop Chargers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175710378-get-cold-pay-less-secure-arctics-high-efficiency-liquid-freezer-ii-aioldii-for-only-74-bucks/"><u>Get Cold, Pay Less: Secure Arctic's High-Efficiency Liquid Freezer II (AIOLDII) for Only 74 Bucks!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/masterclass-on-hardware-solutions-by-toms-technological-wisdom/"><u>Masterclass on Hardware Solutions by Tom's Technological Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-mastering-the-art-of-3d-printed-lithophanes/"><u>The Ultimate Guide: Mastering the Art of 3D Printed Lithophanes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-cpu-cooling-solutions-of-2024-comparing-aio-vs-air-models/"><u>Top-Rated CPU Cooling Solutions of 2024 - Comparing AIO Vs. Air Models</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/reative-vlog-ideas-for-daily-use/"><u>[New] Creative Vlog Ideas for Daily Use</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1-descargar-archivo-de-audio-mp3-de-la-pelicula-en-hd-desde-mkv-sin-coste-conservacion-de-calidad-premium/"><u>1. Descargar Archivo De Audio MP3 De La Película en HD Desde .mkv Sin Coste - Conservación De Calidad Premium</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/chromebooks-best-capture-tools-no-cost/"><u>Chromebook's Best Capture Tools (No Cost)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/googles-dominance-as-the-primary-creator-of-android-overladen-software/"><u>Google's Dominance as the Primary Creator of Android Overladen Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-cozi-transformed-our-home-into-an-oasis-of-order-a-testament-from-a-family/"><u>How Cozi Transformed Our Home Into an Oasis of Order: A Testament From a Family</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-ios-16-borrowed-these-13-ideas-from-android-according-to-tech-experts/"><u>How iOS 16 Borrowed These 13 Ideas From Android, According to Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-removing-obsolete-android-programs-can-boost-your-phones-efficiency-and-speed/"><u>How Removing Obsolete Android Programs Can Boost Your Phone's Efficiency and Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-perform-a-soft-reset-on-android-devices/"><u>How to Perform a Soft Reset on Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-safeguard-against-identity-theft-by-securing-your-mobile-line/"><u>How to Safeguard Against Identity Theft by Securing Your Mobile Line</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-morning-judgment-creative-viewpoints/"><u>In 2024, Morning Judgment Creative Viewpoints</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-proven-methods-for-backdrop-cleansing-in-photoshop-enhanced-by-affinity/"><u>In 2024, Proven Methods for Backdrop Cleansing in Photoshop Enhanced by Affinity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-timepieces-for-your-dream-wedding-on-smartphones-for-2024/"><u>Premium Timepieces for Your Dream Wedding on Smartphones for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-video-editing-solutions-for-creators/"><u>Top-Rated Video Editing Solutions for Creators</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/webmand/"><u>WebM動画が開けない場合、このヒントで解析&修正法 - テクニカルサポート</u></a></li>
 </ul></div>
 

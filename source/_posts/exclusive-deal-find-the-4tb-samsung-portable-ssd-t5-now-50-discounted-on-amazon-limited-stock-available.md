@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal: Find the 4TB Samsung Portable SSD (T5) Now 50%% Discounted on Amazon – Limited Stock Available"
-date: 2025-01-29T22:40:31.529Z
-updated: 2025-02-03T05:42:25.025Z
+date: 2025-02-13T19:28:46.979Z
+updated: 2025-02-15T18:05:23.911Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -75,7 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -87,7 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -124,24 +124,16 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-podcast-vs-youtube-determining-your-digital-destination/"><u>[New] 2024 Approved Podcast Vs. YouTube Determining Your Digital Destination</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/lternative-cinema-choices-for-every-fan/"><u>[New] Alternative Cinema Choices for Every Fan</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-key-takeaways-from-reviewing-zdsofts-vision-recorder/"><u>[Updated] Key Takeaways From Reviewing ZDSoft's Vision Recorder</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-kinemaster-tools-for-cohesive-narrative-flow/"><u>[Updated] Kinemaster Tools for Cohesive Narrative Flow</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-picks-top-quality-3d-printer-filaments-for-enhanced-printing/"><u>Expert Picks: Top Quality 3D Printer Filaments for Enhanced Printing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exquisite-scenery-tips-for-live-shows/"><u>Exquisite Scenery Tips for Live Shows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-gt-5-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme GT 5 Pro Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-processors-and-storage-a-look-at-toms-equipment-rundown/"><u>Inside the World of Processors & Storage - A Look at Tom's Equipment Rundown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-hardware-reviews/"><u>Mastering Gadgets with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-parts-with-toms-hardware-experts/"><u>Navigating the World of PC Parts with Tom's Hardware Experts</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-join-mov-videos-without-spending-a-dime-5-options/"><u>New In 2024, Join MOV Videos Without Spending a Dime 5 Options</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/offline-adventures-top-10-android-journeys-without-connectivity/"><u>Offline Adventures Top 10 Android Journeys Without Connectivity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-colored-thermal-compound-with-nano-diamonds-meet-cooler-masters-latest-ai-thermal-paste-in-cryofuze-5/"><u>Revolutionary Colored Thermal Compound with Nano-Diamonds: Meet Cooler Master’s Latest ‘AI Thermal Paste’ in CryoFuze 5</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-process-of-fabricating-authentic-looking-wood-products-from-sawdust-with-3d-technology/"><u>Revolutionary Process of Fabricating Authentic-Looking Wood Products From Sawdust with 3D Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-advanced-gadget-guidance/"><u>Tom's Tech Insights: Advanced Gadget Guidance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guide-on-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Guide on Computer Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-gadgets-secrets-with-tom-a-deep-dive-into-technology/"><u>Unlocking Gadgets Secrets with Tom: A Deep Dive Into Technology</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-lower-volume-of-the-media-files/"><u>Updated How to Lower Volume of the Media Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-scenes-insights-deciphering-what-unlisted-means-for-youtube-users/"><u>[New] In 2024, Behind-the-Scenes Insights Deciphering What 'Unlisted' Means for YouTube Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-youtube-tv-a-must-read-article/"><u>[Updated] In 2024, Getting Started with YouTube TV A Must-Read Article</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-no-charge-subtitle-makers-srt-for-2024/"><u>[Updated] The Ultimate Guide to No-Charge Subtitle Makers (SRT) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cd/"><u>専門家が選ぶCDコンバータプログラム：高解像度、豊富機能。ストレス無くオーディオファイル作り！</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-guide-extracting-specific-segments-from-youtube/"><u>Quick Guide Extracting Specific Segments From YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/struggling-with-gift-selection-let-googles-cutting-edge-ai-create-the-perfect-present-insights-from-zdnet/"><u>Struggling with Gift Selection? Let Google's Cutting-Edge AI Create the Perfect Present: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tutorial-implementing-interactive-buttons-in-android-applications/"><u>The Ultimate Tutorial: Implementing Interactive Buttons in Android Applications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-14-amazing-android-innovations-that-are-worth-your-attention/"><u>Top 14 Amazing Android Innovations That Are Worth Your Attention</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-cyclists-choice-ultimate-guide-to-the-premier-bicycle-smartphone-holders/"><u>Top-Rated Cyclist's Choice: Ultimate Guide to the Premier Bicycle Smartphone Holders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshooting-text-message-issues-why-your-android-device-may-not-be-getting-sms/"><u>Troubleshooting Text Message Issues: Why Your Android Device May Not Be Getting SMS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-elite-selection-of-google-pixel-6-pro-cases-in-2e23/"><u>Ultimate Guide: Elite Selection of Google Pixel 6 Pro Cases in 2E23</u></a></li>
 </ul></div>
 

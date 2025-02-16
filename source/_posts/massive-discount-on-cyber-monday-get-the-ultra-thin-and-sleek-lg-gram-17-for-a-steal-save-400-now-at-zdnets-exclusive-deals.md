@@ -1,7 +1,7 @@
 ---
 title: "Massive Discount on Cyber Monday: Get the Ultra-Thin and Sleek LG Gram 17 for a Steal - Save $400 Now at ZDNet's Exclusive Deals!"
-date: 2025-01-29T19:48:02.883Z
-updated: 2025-02-03T04:17:24.559Z
+date: 2025-02-12T21:26:45.152Z
+updated: 2025-02-15T22:47:26.614Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,22 +128,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-utilize-picture-in-picture-mode-efficiently-in-safari/"><u>[New] 2024 Approved Utilize Picture In Picture Mode Efficiently in Safari</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unleashing-potential-the-instagram-success-story-guide/"><u>[New] In 2024, Unleashing Potential - The Instagram Success Story Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-precision-review-of-the-dji-inspire-2-drone/"><u>[Updated] Precision Review of the DJI Inspire 2 Drone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-prospective-cameras-to-document-2024s-music-industry-evolution/"><u>[Updated] Prospective Cameras to Document 2024'S Music Industry Evolution</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728470633693-windows-10/"><u>如何在 Windows 10 中進行電源管理資料夾鏡像產生指南</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cutting-edge-collaboration-intel-and-exxonmobil-develop-next-gen-liquid-cooling-tech-for-high-performance-2kw-tdp-xeon-cpus/"><u>Cutting-Edge Collaboration: Intel & ExxonMobil Develop Next-Gen Liquid Cooling Tech for High-Performance 2kW TDP Xeon CPUs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delve-into-hardware-excellence-with-toms-tech-mastery-series/"><u>Delve Into Hardware Excellence with Tom's Tech Mastery Series</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-tech-discovering-toms-hardware/"><u>Exploring the Latest in Tech: Discovering Tom's Hardware</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y100i-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y100i Devices | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mid-august-release-scheduled-intel-to-resolve-crashing-woes-by-addressing-elevated-core-voltages/"><u>Mid-August Release Scheduled: Intel to Resolve Crashing Woes by Addressing Elevated Core Voltages</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-xcover-7-wont-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung Galaxy XCover 7 won't play MOV videos, how to fix ?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-review-realm-pioneering-insights-on-gadgets-and-systems/"><u>Tom's Review Realm: Pioneering Insights on Gadgets and Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-in-computing-innovation-featured-by-toms-hardware-specialists/"><u>Top Picks in Computing Innovation Featured by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unbeatable-apple-watch-discounts-limited-time-only/"><u>Unbeatable Apple Watch Discounts - Limited Time Only</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125172865-unveiling-the-future-of-3d-printing-at-rapid-plus-tct-2024-discover-new-tech-filaments-and-more/"><u>Unveiling the Future of 3D Printing at Rapid + TCT 2024 – Discover New Tech, Filaments & More</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-from-toms-computer-review/"><u>Unveiling the Latest From Tom's Computer Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-compreayers-primer-to-navigating-the-online-copyright-labyrinth/"><u>[New] 2024 Approved A Compreayer's Primer to Navigating the Online Copyright Labyrinth</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-boosting-zoom-screen-sharpness-essential-tips/"><u>[New] Boosting Zoom Screen Sharpness Essential Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-navigating-famebit-pathways-to-secure-youtube-partnerships/"><u>[New] Navigating FameBit Pathways to Secure YouTube Partnerships</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-brand-expression-made-simple-affordable-personalized-logo-templates-free/"><u>[Updated] Brand Expression Made Simple Affordable Personalized Logo Templates (Free)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-prime-pioneering-1980s-techniques-in-film-making-for-2024/"><u>[Updated] Prime Pioneering 1980S Techniques in Film Making for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-s17e-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo S17e</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-steps-toward-constructing-an-energy-efficient-tech-savvy-abode/"><u>Affordable Steps Toward Constructing an Energy-Efficient, Tech-Savvy Abode</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-huawei-nova-y91s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Huawei Nova Y91s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-the-art-of-refreshing-your-asus-maximus-x-hero-graphics-card-drivers-with-this-easy-guide/"><u>Master the Art of Refreshing Your ASUS Maximus X Hero Graphics Card Drivers with This Easy Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/srgb-encoding-versus-rgb-basics/"><u>Srgb Encoding Versus Rgb Basics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-mesh-wi-fi-networks-a-comprehensive-guide/"><u>Understanding Mesh Wi-Fi Networks: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-impulse-buys-from-the-2024-amazon-prime-day-sale-extravaganza/"><u>Unmissable Impulse Buys From the 2024 Amazon Prime Day Sale Extravaganza!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unseen-wi-fi-troubleshooting-guide-making-your-network-visible-again/"><u>Unseen Wi-Fi Troubleshooting Guide: Making Your Network Visible Again</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-amds-advanced-artificial-intelligence-chip-in-new-asus-rog-zephyrus-g16-laptop/"><u>Unveiling AMD's Advanced Artificial Intelligence Chip in New ASUS ROG Zephyrus G16 Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-functionality-of-mesh-wireless-technology-explained-simply/"><u>Unveiling the Functionality of Mesh Wireless Technology Explained Simply</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-jbl-quantum-stream-the-ultimate-usb-mic-for-aspiring-podcasters/"><u>Unveiling the JBL Quantum Stream: The Ultimate USB Mic for Aspiring Podcasters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secret-how-every-printed-document-carries-hidden-identifiers/"><u>Unveiling the Secret: How Every Printed Document Carries Hidden Identifiers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-speednova-experience-in-true-wireless-cetra-gaming-earphones-by-rog-sound-quality-and-latency-tested/"><u>Unveiling the SpeedNova Experience in True Wireless Cetra Gaming Earphones by ROG - Sound Quality and Latency Tested!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-you-should-consider-adding-a-docking-station-to-your-laptop-the-ultimate-guide/"><u>Why You Should Consider Adding a Docking Station to Your Laptop: The Ultimate Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look at Microsoft’s Cutting-Edge AI Processor: The Future of Computing That Surpasses Apple's Latest | Discovered"
-date: 2025-01-31T17:13:41.440Z
-updated: 2025-02-01T19:51:01.669Z
+date: 2025-02-10T20:37:17.378Z
+updated: 2025-02-15T21:29:42.510Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Magic Editor in Google Photos
@@ -53,7 +53,7 @@ By now, you likely know what [Magic Editor](https://www.zdnet.com/article/magic-
 You'll be able to select a photo in the Google Photos app, tap (or click) Magic Eraser, and start editing the image to your liking. You can reposition and resize objects, use contextual suggestions to improve the lighting and background, and completely reimagine your photos with a few clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Gemini on your Chromebook
@@ -63,7 +63,7 @@ That's right, [Gemini](https://www.zdnet.com/article/what-is-google-gemini/) is 
 If you're a new Chromebook Plus user, you'll get the Google One AI Premium plan at no cost for 12 months. After that, you'll have to pay for the Gemini subscription. That plan includes access to Gemini Advance, 2TB of cloud storage, Gemini in Docs, Sheets, Slides, Gmail, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Help Me Write
@@ -75,7 +75,7 @@ If you're a new Chromebook Plus user, you'll get the Google One AI Premium plan 
 Help Me Write helps generate text from scratch, using a prompt, or can help you rewrite existing text to make it more formal, shorten it, or totally rephrase it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-generated wallpapers and video call backgrounds
@@ -85,7 +85,7 @@ With the help of AI, you'll be able to dream up just about any kind of image you
 You'll find some pre-built prompts included to help you build your backgrounds of all types (such as fun, whimsical, zen, and professional). Select what you want to see, and Google's AI will take it from there to generate an image specific to your prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Quick access to Google Tasks
@@ -128,20 +128,19 @@ These new features will be available to Chromebook Plus devices on the latest Ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-exhaustive-breakdown-of-vsco-photography-tool/"><u>[New] 2024 Approved Exhaustive Breakdown of VSCO Photography Tool</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-step-by-step-privacy-adjustments-for-youtube/"><u>[New] 2024 Approved Step-by-Step Privacy Adjustments for YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-an-impactful-online-presence-with-perfect-yt-dimensions/"><u>[New] In 2024, Crafting an Impactful Online Presence with Perfect YT Dimensions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-inventory-a-multitude-of-video-recorders/"><u>[New] Inventory A Multitude of Video Recorders</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-ensuring-authenticity-and-compliance-in-your-tiktoks-for-2024/"><u>[Updated] Ensuring Authenticity & Compliance in Your TikToks for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-video-submission-pc-and-android-users-blueprint/"><u>[Updated] In 2024, Facebook Video Submission PC and Android Users' Blueprint</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max without Passcode or Face ID</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-3d-creations-with-elegoo-saturn-4-ultra-an-in-depth-assessment/"><u>Mastering the Art of 3D Creations with Elegoo Saturn 4 Ultra: An In-Depth Assessment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-world-through-toms-hardware-insights/"><u>Mastering the Digital World Through Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-realm-with-toms-computing-wisdom/"><u>Navigating the Digital Realm with Tom's Computing Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-in-computing-unveiling-high-tech-secrets-with-toms-hardware-insights/"><u>Precision in Computing: Unveiling High-Tech Secrets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-communication-equipment-for-your-gaming-setup-revealed/"><u>The Best Communication Equipment for Your Gaming Setup Revealed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-psu-picks-for-gamers-expert-roundup-and-reviews/"><u>The Best PSU Picks for Gamers : Expert Roundup and Reviews</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-navigating-printer-setup-and-management-on-your-windows-10-machine/"><u>Ultimate Guide: Navigating Printer Setup and Management on Your Windows 10 Machine</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-voice-over-like-a-pro-essential-fcp-recording-tips/"><u>Updated Voice Over Like a Pro Essential FCP Recording Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-building-rapport-an-interviewers-toolkit-for-2024/"><u>[New] Building Rapport An Interviewer's Toolkit for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-video-discoverability-with-strategic-tagging-on-youtube-for-2024/"><u>[Updated] Elevating Video Discoverability with Strategic Tagging on Youtube for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/520-hp-victus-gaming-laptop-deal-alert-save-up-to-40-off-in-latest-blowout-exclusive-zdnet-coverage/"><u>$520 HP Victus Gaming Laptop Deal Alert! Save Up to 40% Off in Latest Blowout | Exclusive ZDNET Coverage</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-maximize-creativity-10-no-cost-tiktok-editors-for-macos/"><u>2024 Approved Maximize Creativity 10 No-Cost TikTok Editors for MacOS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoiding-tech-mishaps-with-the-right-usb-c-cable-selection-expert-guide/"><u>Avoiding Tech Mishaps with the Right USB-C Cable Selection: Expert Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/defy-the-odds-successful-windows-11-installation-on-vintage-pcs-against-microsofts-advice-zdnet-insights/"><u>Defy the Odds: Successful Windows 11 Installation on Vintage PCs Against Microsoft's Advice | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-costco-cyber-week-deals-revealed-save-big-on-high-quality-tvs-computers-and-tablet-offers-in-our-top-38-picks/"><u>Exclusive Costco Cyber Week Deals Revealed: Save Big on High-Quality TVs, Computers & Tablet Offers in Our Top 38 Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-the-ultimate-list-of-mechanical-keyboards-zdnets-selection/"><u>Expertly Reviewed: The Ultimate List of Mechanical Keyboards | ZDNet's Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/free-windows-11-upgrade-no-longer-available-whats-next/"><u>Free Windows 11 Upgrade No Longer Available: What's Next?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-poco-m6-pro-4g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Poco M6 Pro 4G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instagrams-vertical-vortex-sideways-media-mystery-for-2024/"><u>Instagram's Vertical Vortex Sideways Media Mystery for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/master-the-art-of-cryptocurrency-mining-setup-and-optimization-techniques-using-yl-software/"><u>Master the Art of Cryptocurrency Mining: Setup & Optimization Techniques Using YL Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/by-step-to-subscription-the-youtube-partner-program-route/"><u>Step-by-Step to Subscription The YouTube Partner Program Route</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's WWDC 2023 Highlights: Discover the Revolutionary Features of the New Mac Pro, Mac Studio and Power-Packed M2 Ultra Exclusive"
-date: 2025-01-28T20:39:10.528Z
-updated: 2025-02-01T19:52:09.746Z
+date: 2025-02-12T18:21:52.587Z
+updated: 2025-02-15T19:37:14.465Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,19 +142,16 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-design-unique-outro-videos-without-paying-a-penny/"><u>[New] 2024 Approved Design Unique Outro Videos Without Paying a Penny</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-framemorph-editor/"><u>[Updated] 2024 Approved FrameMorph Editor</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-live-on-air-how-to-broadcast-on-youtube-and-twitch-using-obs/"><u>[Updated] Live on Air How to Broadcast on YouTube & Twitch Using OBS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/5-must-have-accessories-and-addons-for-your-raspberry-pi-pico/"><u>5 Must-Have Accessories and Addons for Your Raspberry Pi Pico</u></a></li>
-<li><a href="https://discover-help.techidaily.com/comment-faciliter-le-clonage-dun-disque-encrypte-mcafee-sans-probleme/"><u>Comment Faciliter Le Clonage D'un Disque Encrypté McAfee Sans Problème?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-vivo-y36i-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y36i Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone 13 mini</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-substitutes-for-winmovie-new-windows-editors/"><u>In 2024, Substitutes for WinMovie New Windows Editors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-windows-10-complexities-simplified/"><u>In 2024, Unraveling Windows 10 Complexities Simplified</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rugal-filmmakers-choice-best-cameras-at-low-costs-for-2024/"><u>The Frugal Filmmaker's Choice Best Cameras at Low Costs for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-performance-secrets-in-toms-equipment-reviews/"><u>Unveiling Performance Secrets in Tom's Equipment Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-building-toms-reviews-and-tips/"><u>Unveiling the Latest in PC Building - Tom's Reviews & Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-to-a-two-fan-system-cooler-masters-revolutionary-graphics-card-design/"><u>Upgrade to a Two-Fan System: Cooler Master's Revolutionary Graphics Card Design</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/us-birthplace-of-innovation-prusas-new-manufacturing-hub-for-3d-tech-in-delaware/"><u>US Birthplace of Innovation – Prusa's New Manufacturing Hub for 3D Tech in Delaware</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-youtube-storytelling-made-simple-with-premiere-pro-tips/"><u>[New] In 2024, YouTube Storytelling Made Simple - With Premiere Pro Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-windows-11-movie-maker-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Windows 11 Movie Maker A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beating-the-dark-curse-fixing-persona-5-strikers-unwanted-black-screens/"><u>Beating the Dark Curse: Fixing Persona 5 Strikers' Unwanted Black Screens</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-a1x-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo A1x 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-depth-of-marvels-avengers-exceptional-epic-or-simply-unimpressive/"><u>Exploring the Depth of Marvel's Avengers: Exceptional Epic or Simply Unimpressive?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-tips-and-tricks-for-easily-finding-your-youtube-comments/"><u>In 2024, Tips & Tricks for Easily Finding Your YouTube Comments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-savings-on-samsungs-4tb-portable-ssd-over-50-discount-exclusively-at-amazon-for-labor-day-tech-deals-blog/"><u>Massive Savings on Samsung's 4TB Portable SSD - Over 50% Discount Exclusively at Amazon for Labor Day | Tech Deals Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-with-rtx-nvidia-geforce-4080-at-270-off-for-black-friday-events-zdnet-reveals-exclusive-offer/"><u>Maximize Savings with RTX Nvidia GeForce 4080 at $270 Off for Black Friday Events | ZDNET Reveals Exclusive Offer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-mechanical-keyboard-picks-insights-by-zdnet/"><u>Top-Rated Mechanical Keyboard Picks - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-finest-anti-blue-light-films-for-mobile-displays/"><u>Ultimate Guide to Choosing the Finest Anti-Blue Light Films for Mobile Displays</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unleashing-iphones-potential-for-dynamic-shots-for-2024/"><u>Unleashing iPhone’s Potential for Dynamic Shots for 2024</u></a></li>
 </ul></div>
 

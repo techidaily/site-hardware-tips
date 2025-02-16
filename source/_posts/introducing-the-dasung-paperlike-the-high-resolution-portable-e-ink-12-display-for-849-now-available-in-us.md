@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Dasung Paperlike: The High-Resolution Portable E-Ink 12 Display for $849 - Now Available in U.S"
-date: 2024-08-19T02:44:26.712Z
-updated: 2024-08-20T02:44:26.712Z
+date: 2025-02-13T20:50:23.505Z
+updated: 2025-02-15T17:22:06.159Z
 tags:
   - monitor
 categories:
@@ -47,6 +47,10 @@ Minisforum continues to widen its product portfolio, this time with a portable m
 
  Minisforum announced the availability of the MSS-A156 Portable Monitor on its site via both its US and Japan stores on its Discord channel. When we checked the US link also had links for buyers from the EU and UK. At the time of writing the MSS-A156 is listed at $189, which is claimed to be a $34 discount from the regular price. It's unclear how long that will last.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -61,8 +65,6 @@ Minisforum continues to widen its product portfolio, this time with a portable m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +72,26 @@ Minisforum continues to widen its product portfolio, this time with a portable m
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-innovative-shooting-the-best-cinematographic-tips-and-ideas/"><u>[Updated] 2024 Approved Innovative Shooting The Best Cinematographic Tips & Ideas</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-instagrams-podcast-post-and-story-distribution/"><u>[Updated] 2024 Approved Mastering Instagram's Podcast Post & Story Distribution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-tom-navigating-modern-technology/"><u>Expert Advice From Tom - Navigating Modern Technology</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/harmonious-hugs-best-chill-country-songs-for-relaxing-dance-parties-on-tiktok/"><u>Harmonious Hugs Best Chill Country Songs for Relaxing Dance Parties on TikTok</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g04-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G04 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y36i-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y36i Phone without Google Account?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-pc-world-expert-hardware-assessments-and-advice/"><u>Inside Tom's PC World: Expert Hardware Assessments & Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-a-guide-from-toms-hardware/"><u>Navigating the World of Electronics - A Guide From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-pc-cooling-foolproof-thermal-interface-material-tim-applier-by-x-apply-coming-shortly/"><u>Revolutionize Your PC Cooling: 'Foolproof' Thermal Interface Material (TIM) Applier by X-Apply - Coming Shortly!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/shake-up-your-streams-xplit-alternatives-explored/"><u>Shake Up Your Streams Xplit-Alternatives Explored</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-clear-of-obscurity-secure-a-top-spot-with-youtube-seo-tips/"><u>Steer Clear of Obscurity Secure a Top Spot with YouTube SEO Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/submerged-success-a-breakthrough-3d-printer-operating-within-a-public-swimming-pool/"><u>Submerged Success: A Breakthrough 3D Printer Operating Within a Public Swimming Pool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-convenience-revolution-discover-how-teamgroup-reinvented-t-force-siren-aio-cpu-coolers-with-integrated-magnet-features-for-simplified-pc-setup/"><u>The Convenience Revolution: Discover How TeamGroup Reinvented T-Force Siren AIO CPU Coolers With Integrated Magnet Features for Simplified PC Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-top-2024-pickings-for-supreme-bent-display-gaming-screens/"><u>The Ultimate List: Top 2024 Pickings for Supreme Bent Display Gaming Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-10-affordable-gaming-laptops-below-1k-buyers-guide/"><u>Top 10 Affordable Gaming Laptops Below $1K: Buyer's Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-11x-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme 11X 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-12-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 12 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-potential-inside-look-at-sk1-two-trees-fast-free-software-core-processor-performance/"><u>Unlocking Potential: Inside Look at SK1 Two Trees' Fast, Free Software Core Processor Performance</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-rated-online-video-editors-compatible-with-chromebook/"><u>Updated Top-Rated Online Video Editors Compatible with Chromebook</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->

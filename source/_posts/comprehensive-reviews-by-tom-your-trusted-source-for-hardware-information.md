@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Reviews by Tom: Your Trusted Source for Hardware Information"
-date: 2024-08-19T02:48:51.553Z
-updated: 2024-08-20T02:48:51.553Z
+date: 2025-02-10T16:56:00.364Z
+updated: 2025-02-15T18:23:22.264Z
 tags:
   - laptop
 categories:
@@ -29,6 +29,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
 
  The Acemagic X1's dual-monitor experience is genuinely superior to what's come before. Asus has used small second screens on its touchpad or above its keyboard on the deck, but these are best used for palettes or control panels. Lenovo has done a lot of second-screen experimentation, doing everything from having a 7-inch display pop out of a slot in the lid on the 17-inch ThinkPad W series to putting an 8-inch screen where the numpad might be on a ThinkBook to releasing the Yoga 9i, which is two screens without a built-in keyboard. Acer also produced an Iconia laptop with two touch screens many years ago.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -44,6 +48,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
  The screens are decent, but they aren't particularly bright or colorful. The keyboard feels pretty snappy but it's not likely to make anyone forget about their ThinkPad's typing experience. The touchpad seemed ok but wasn't particularly large. Also, the entire laptop looks really unexciting in its drab, gray colorway.
 
 ![Acemagic X1](https://cdn.mos.cms.futurecdn.net/efSjDm3yhxK3FmNbUzkeoL-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -61,8 +69,6 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +76,26 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-maximizing-your-iphones-creative-capabilities/"><u>[New] 2024 Approved Maximizing Your iPhone's Creative Capabilities</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-immersive-experienences-adding-sounds-to-reels-for-2024/"><u>[New] Crafting Immersive Experienences Adding Sounds to Reels for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebook-cover-video-key-strategies-and-tactics-explained/"><u>[Updated] 2024 Approved Facebook Cover Video Key Strategies and Tactics Explained</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-check-your-youtube-channels-for-accurate-monetization-practices-for-2024/"><u>[Updated] Check Your YouTube Channels for Accurate Monetization Practices for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-cutting-edge-video-editing-strategies-for-impactful-obs-content/"><u>[Updated] In 2024, Cutting-Edge Video Editing Strategies for Impactful OBS Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-list-of-twitter-sensations/"><u>[Updated] The Ultimate List of Twitter Sensations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-setup-with-nvidias-new-release-boosted-gpu-power-and-advanced-obs-noise-reduction-technology/"><u>Elevate Your Setup with Nvidia's New Release: Boosted GPU Power and Advanced OBS Noise Reduction Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-electronics-by-tom-detailed-gadget-evaluations/"><u>Expert Analysis on Electronics by Tom - Detailed Gadget Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-computer-components-by-toms-engineering-experts/"><u>Expert Insights Into Computer Components by Tom's Engineering Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-gear-experts-in-depth-insights-into-computer-hardware/"><u>Exploring Tom's Gear Experts: In-Depth Insights Into Computer Hardware</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-m34-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy M34 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-xsipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone XS/iPad/iPod</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-12-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 12 Smoothly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-simplified-guide-to-saving-instagrams-dynamic-content/"><u>In 2024, Simplified Guide to Saving Instagram's Dynamic Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/liquid-nitrogen-cooling-enables-record-setting-runs-with-overclocked-ryzen-processor/"><u>Liquid Nitrogen Cooling Enables Record-Setting Runs with Overclocked Ryzen Processor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-realm-with-toms-gear-insights-unveiling-top-tier-electronics-and-systems/"><u>Mastering the Digital Realm with Tom's Gear Insights - Unveiling Top-Tier Electronics and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-tech-scene-with-toms-hardware-insights-and-reviews/"><u>Mastering the Tech Scene with Tom's Hardware Insights and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-of-computer-components-t17239718706108/"><u>Tom's Tech Review: In-Depth Analysis of Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-full-potential-of-raspberry-pi-with-remarkable-3ghz-speed-via-advanced-overclocking-techniques/"><u>Unleashing the Full Potential of Raspberry Pi with Remarkable 3GHz Speed via Advanced Overclocking Techniques</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

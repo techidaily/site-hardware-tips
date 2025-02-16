@@ -1,7 +1,7 @@
 ---
 title: Discover Why Samsung's New Copilot+ Is Dominating the Market as the Premier Windows Laptop Bargain of the Year | Tech Insight by ZDNet.
-date: 2025-01-29T18:16:38.064Z
-updated: 2025-02-01T19:31:42.622Z
+date: 2025-02-12T19:20:06.398Z
+updated: 2025-02-15T16:16:18.707Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,18 +166,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-speaker-breakdown-latest-models-for-2024/"><u>[New] Speaker Breakdown Latest Models for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-7-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 7 Plus Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962403972-quick-and-simple-get-your-microsoft-4000-ergonomic-keyboard-up-and-running/"><u>Quick and Simple: Get Your Microsoft 4000 Ergonomic Keyboard Up & Running</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-chilled-secure-the-ultra-efficient-arctic-aio-cooler-at-an-unbeatable-price-of-only-74/"><u>Stay Chilled: Secure the Ultra-Efficient Arctic AIO Cooler at an Unbeatable Price of Only $74!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-into-safe-mode-and-removing-your-windows-8-gpu-drivers/"><u>Step-by-Step Guide: Booting Into Safe Mode & Removing Your Windows 8 GPU Drivers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-select-picks-quality-3d-printing-filaments-of-2024/"><u>The Best Select Picks: Quality 3D Printing Filaments of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-finest-psu-selection-for-profitable-crypto-farming-power-reliability-for-bitcoin-ethereum/"><u>The Finest PSU Selection for Profitable Crypto Farming: Power Reliability for Bitcoin, Ethereum</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-enriching-youtube-videos-with-harmonics/"><u>The Ultimate Guide to Enriching YouTube Videos with Harmonics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-best-usb-hubs-with-power-features-travel-ready-and-modern-type-c-connectors/"><u>The Ultimate Selection of Best USB Hubs - With Power Features, Travel-Ready, and Modern Type-C Connectors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-insights-on-latest-pc-technologies-and-equipment/"><u>Tom's Insights on Latest PC Technologies and Equipment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-comparisons/"><u>Tom's Tech Insights: In-Depth Reviews and Comparisons</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-avatar-in-2024/"><u>What Is an AI Avatar, In 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-becoming-a-snapshot-wizard-top-positions-for-iphone-photos/"><u>[New] 2024 Approved Becoming a Snapshot Wizard Top Positions for iPhone Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-apples-flop-to-a-hit-the-surprising-evolution-story/"><u>From Apple’s Flop to a Hit: The Surprising Evolution Story</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-failure-to-triumph-apple-transforms-its-poorest-offering-into-a-top-tier-gem-zdnet/"><u>From Failure to Triumph: Apple Transforms Its Poorest Offering Into a Top-Tier Gem | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-most-out-of-audio-on-a-budget-explore-the-monoprice-dt-3bt-desktop-speaker-deal-under-100-zdnet/"><u>Get the Most Out of Audio on a Budget: Explore the Monoprice DT-3BT Desktop Speaker Deal Under 100$ | ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>In 2024, 4K Monitor Buying Guide How to Choose the Right Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/logitech-unveils-budget-friendly-webcams-tailored-for-remote-and-hybrid-professionals-whats-new-zdnet/"><u>Logitech Unveils Budget-Friendly Webcams Tailored for Remote & Hybrid Professionals: What's New? [ZDNet]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/my-top-pick-the-surprisingly-versatile-paper-writing-laptop-stylus-from-ces-a-must-see-innovation/"><u>My Top Pick: The Surprisingly Versatile Paper-Writing Laptop Stylus From CES - A Must-See Innovation!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/noteworthy-14-dynamic-text-artworks-for-2024/"><u>Noteworthy 14 Dynamic Text Artworks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-ergonomics-zdnet-examines-the-latest-x-tech-executive-chair-for-professionals/"><u>Revolutionizing Ergonomics: ZDNET Examines the Latest X-Tech Executive Chair for Professionals</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sonys-dsc-w800-blending-robustness-and-reasonable-pricing-across-markets/"><u>Sony's DSC-W800: Blending Robustness & Reasonable Pricing Across Markets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-art-of-self-introduction-crafting-a-compelling-answer-to-tell-me-about-yourself-for-successful-interviews-expertise-by-zdnet/"><u>The Art of Self-Introduction: Crafting a Compelling Answer to Tell Me About Yourself for Successful Interviews | Expertise by ZDNET</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-7-affordable-4k-mirrorless-cameras-(1000-for-2024/"><u>Top 7 Affordable 4K Mirrorless Cameras <$1,000 for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-for-byb-e430s-elite-led-lamppost-with-advanced-swing-arm-design-what-you-need-to-know/"><u>Top Review for BYB E430's Elite LED Lamppost with Advanced Swing Arm Design - What You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transitioning-to-better-how-a-simple-logitech-keyboard-outperforms-apples-own-on-mac-devices-tips-and-reviews-by-zdnet/"><u>Transitioning to Better: How a Simple Logitech Keyboard Outperforms Apple's Own on Mac Devices - Tips and Reviews by ZDNet</u></a></li>
 </ul></div>
 

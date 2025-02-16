@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Samsung Odyssey Neo G8 - Score It For Only $550 This Anti-Prime Day, Exclusively at Best Buy | ZDNET
-date: 2025-01-27T06:28:44.048Z
-updated: 2025-02-03T06:17:59.959Z
+date: 2025-02-09T17:50:35.985Z
+updated: 2025-02-15T21:53:14.567Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,17 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/omparative-study-of-youtubes-and-dailymentions-for-2024/"><u>[New] Comparative Study of YouTubes and DailyMentions for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-real-time-tracking-for-insta-unfollower-score/"><u>[New] Real-Time Tracking for Insta Unfollower Score</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-pro-iphone-tips-for-capturing-the-perfect-landscape-moments/"><u>2024 Approved Pro iPhone Tips for Capturing the Perfect Landscape Moments</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-xbox-apps-audio-challenges-in-windows-1011/"><u>Addressing Xbox App's Audio Challenges in Windows 10/11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-s17-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo S17 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/no-more-fb-notifications-the-complete-process/"><u>No More FB Notifications: The Complete Process</u></a></li>
-<li><a href="https://win-updates.techidaily.com/revamping-clickonce-deployments-a-step-by-step-guide/"><u>Revamping ClickOnce Deployments: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guides-on-latest-gadgets/"><u>Tom's Tech Reviews: Comprehensive Guides on Latest Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-industrial-laser-engraving-machines-of-2024/"><u>Top-Rated Industrial Laser Engraving Machines of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-3d-printing-the-tiny-chip-based-printer-thats-bigger-than-its-size-now-smaller-than-a-penny-with-unparalleled-reliability/"><u>Transforming 3D Printing: The Tiny Chip-Based Printer That's Bigger Than Its Size - Now Smaller than a Penny with Unparalleled Reliability</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultra-compact-chip-based-3d-printer-smaller-than-a-coin-and-no-mechanical-components/"><u>Unveiling the Ultra-Compact Chip-Based 3D Printer – Smaller than a Coin & No Mechanical Components</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-connect-worlds-quickly-sharing-tiktoks-with-facebook-for-2024/"><u>[New] Connect Worlds Quickly Sharing TikToks with Facebook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-direct-link-between-spotify-and-youtube-the-top-tools-for-music-sharing-for-2024/"><u>[New] Direct Link Between Spotify and YouTube The Top Tools for Music Sharing for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-jolly-video-recorder-critique-for-2024/"><u>[New] Jolly Video Recorder Critique for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-efficient-image-capture-try-these-top-5-pc-tools-for-2024/"><u>[Updated] Efficient Image Capture? Try These Top 5 PC Tools for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-masterful-moments-a-deep-dive-into-youtube-to-facebook-sharing/"><u>2024 Approved Masterful Moments A Deep Dive Into YouTube-to-Facebook Sharing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-top-ranked-wireless-keyboards-of-2024-unveiled/"><u>Comprehensive Review: Top-Ranked Wireless Keyboards of 2024 Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diving-into-comfort-the-complete-guide-to-bamboo-lab-a1-bed-in-a-slipcover-format-for-king-size-luxury/"><u>Diving Into Comfort: The Complete Guide to Bamboo Lab A1 Bed in a Slipcover Format for King-Size Luxury</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-cutting-edge-devices-by-tom/"><u>Expert Advice on Cutting-Edge Devices by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-computer-and-gadget-critiques-from-toms-hardware-authority/"><u>Expert Computer and Gadget Critiques From Tom's Hardware Authority</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994188556-expert-guide-to-overcoming-discord-live-stream-buffering-problems-now-solved/"><u>Expert Guide to Overcoming Discord Live Stream Buffering Problems – Now Solved!</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-5-drones-the-ultimate-professional-buy-guide-for-2024/"><u>Leading 5 Drones - The Ultimate Professional Buy Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-with-tom-expert-insights-on-cutting-edge-technology-today/"><u>Navigating Hardware with Tom: Expert Insights on Cutting-Edge Technology Today!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resurrect-your-iphone-without-using-itunes-a-comprehensive-tutorial/"><u>Resurrect Your iPhone Without Using iTunes – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-tech-savvy-living-by-toms-gear-experts/"><u>The Definitive Guide to Tech Savvy Living by Tom's Gear Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-advanced-gadgets-with-tomtech-insights/"><u>The Ultimate Guide to Advanced Gadgets with TomTech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-hidden-gems-in-electronic-devices-with-tom/"><u>Uncovering Hidden Gems in Electronic Devices with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-your-guide-to-toms-hardware-insights/"><u>Unveiling the Latest in Computing - Your Guide to Tom's Hardware Insights</u></a></li>
 </ul></div>
 

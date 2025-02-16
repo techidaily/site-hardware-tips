@@ -1,7 +1,7 @@
 ---
 title: Last-Minute Opportunity! Snag Amazing October Deals & Save Big on Games - $1,00# Cutbacks | ZDNET
-date: 2025-01-31T21:45:44.343Z
-updated: 2025-02-03T03:53:17.520Z
+date: 2025-02-11T18:49:39.988Z
+updated: 2025-02-15T20:04:59.057Z
 tags:
   - laptops
 categories:
@@ -101,6 +101,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals still available
 
 ZDNET
@@ -161,10 +165,6 @@ Nintendo/ZDNET
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals still available
 
 Kyle Kucharski/ZDNET
@@ -186,10 +186,6 @@ Lenovo
 * [Acer Predator Triton Neo 16 for $1,500 (save $400 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPredator-Verified-AI-Powered-processor-PTN16-51-932N%2Fdp%2FB0CZBVRSXT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): The 16-inch display is Calman Verified for color accuracy, and the laptop is built with both an Intel Core Ultra 9 CPU and Nvidia GeForce RTX 4070 GPU.
 * [Alienware m18 for $1,750 (save $800 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m18-fhd-480hz-gaming-laptop-amd-ryzen-9-32gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6543535.p%3FskuId%3D6543535&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's high-end gaming laptop has an 18-inch display with an impressive 480Hz refresh rate. It's built with an AMD Ryzen 9 7000 series CPU, 32GB of RAM, a 1TB SSD, and Nvidia RTX 4070.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming monitor deals still available
 
 Samsung/ZDNET
@@ -200,6 +196,10 @@ Samsung/ZDNET
 * [LG UltraGear OLED 39-inch curved monitor for $803 (save $697)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-39GS95QE-UltraGear-DisplayHDR-DisplayPort%2Fdp%2FB0CV1VL18C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): This ultra-wide monitor has a 240Hz refresh rate, 0.03ms response time, and OLED panel for more accurate colors, detailing, and contrast.
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PC gaming accessories deals still available
 
 * [Logitech G560 speaker system for $160 (save $40)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-LIGHTSYNC-Gaming-Speakers-Lighting%2Fdp%2FB07B2WLS17%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A high-end speaker system for PC and console gaming with 7.1CH surround sound DTS:X Ultra audio, and RGB lighting.
@@ -207,7 +207,7 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
@@ -218,10 +218,14 @@ Samsung/ZDNET
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
@@ -230,10 +234,6 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ra
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -304,19 +304,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-5-essential-strategies-for-successful-twitch-livestreaming/"><u>[New] 2024 Approved 5 Essential Strategies for Successful Twitch Livestreaming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-master-the-art-of-virtual-reality-from-videography-to-youtube-upload/"><u>[Updated] Master the Art of Virtual Reality From Videography to YouTube Upload</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-5-youtube-creators-subscription-leaders/"><u>2024 Approved Top 5 YouTube Creators Subscription Leaders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/analyzing-user-feedback-the-latest-on-lg-bp350-display-tech/"><u>Analyzing User Feedback The Latest on LG BP350 Display Tech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/creativity-unleashed-discover-the-stunning-features-and-capabilities-of-crealitys-new-k1c-3d-printer/"><u>Creativity Unleashed! Discover the Stunning Features and Capabilities of Creality's New K1C 3D Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-secure-your-editor-endorsed-elegoo-neptune-amo-now-at-an-amazing-75-off-deal/"><u>Don't Miss Out: Secure Your Editor-Endorsed Elegoo Neptune Amo, Now at an Amazing $75 Off Deal</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-a15-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy A15 5G Phone Screen?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-high-tech-terrain-wisdom-from-toms-hardware-reviews/"><u>Navigating High-Tech Terrain: Wisdom From Tom's Hardware Reviews</u></a></li>
-<li><a href="https://fox-search.techidaily.com/simultaneous-cloning-of-windows-operating-system-across-various-pcs/"><u>Simultaneous Cloning of Windows Operating System Across Various PCs</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/asy-fix-for-a-desired-list-directionality/"><u>The Easy Fix for a Desired List Directionality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-breakdown-of-the-corsair-air-a115-cooler-striking-balance-between-strength-quiet-operation-and-expense/"><u>The Ultimate Breakdown of the Corsair Air A115 Cooler: Striking Balance Between Strength, Quiet Operation & Expense</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-high-performance-pc-components-by-tom-hardscape/"><u>The Ultimate Guide to High-Performance PC Components by Tom Hardscape</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-5-best-tv-for-ps5-and-xbox-series-x-for-2024/"><u>Top 5 Best TV for Ps5 and Xbox Series X for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-at-toms-gadgets-hub/"><u>Unveiling the Latest in Hardware at Tom's Gadgets Hub</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-central-luts-in-post-production-filmmaking-revolution/"><u>[Updated] Central Luts in Post-Production Filmmaking Revolution</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-game-on-log-it-galaxy-phone-playthroughs/"><u>[Updated] In 2024, Game on, Log It! Galaxy Phone Playthroughs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-effective-solutions-for-resolving-ghost-touch-issues-on-your-iphone/"><u>10 Effective Solutions for Resolving 'Ghost Touch' Issues on Your iPhone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-overclockers-picks-premium-cpu-coolers-for-hot-runners-air-vs-aio-technologies-explored/"><u>Best Overclockers' Picks: Premium CPU Coolers for Hot-Runners - Air vs AIO Technologies Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-3d-printing-game-with-crealitys-cutting-edge-flagship-printer-the-k1c-and-next-gen-ender-v3/"><u>Elevate Your 3D Printing Game with Creality's Cutting-Edge Flagship Printer, the K1C & Next-Gen Ender V3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-game-with-the-qidi-tech-q1-pro-an-expert-review-guide/"><u>Elevate Your Game with the QIDI Tech Q1 Pro - An Expert Review Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/encode-high-capacity-data-on-everyday-plastics-discovering-the-potential-of-3d-printed-holographic-storage/"><u>Encode High Capacity Data on Everyday Plastics: Discovering the Potential of 3D-Printed Holographic Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-computing-with-toms-technology-insights/"><u>Explore Advanced Computing with Tom's Technology Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-a15-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy A15 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-10-apps-to-elevate-your-picture-grids/"><u>In 2024, 10 Apps to Elevate Your Picture Grids</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cost-free-win-10-screencast-solutions-top-5-picks/"><u>In 2024, Cost-Free Win 10 Screencast Solutions Top 5 Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-vpn-solutions-evaluated-find-out-which-ones-really-excel/"><u>Leading VPN Solutions Evaluated – Find Out Which Ones Really Excel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sk1-two-trees-dual-core-processor-analysis-an-exploration-of-open-source-speed-performance/"><u>SK1 Two Trees Dual-Core Processor Analysis: An Exploration of Open-Source Speed Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-troubleshooting-restoring-missing-intel-integrated-graphics-drivers-in-windows-11/"><u>Step-by-Step Troubleshooting: Restoring Missing Intel Integrated Graphics Drivers in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-amateur-scientists-journey-how-to-make-liquid-nitropressure-using-refrigerator-parts/"><u>The Amateur Scientist's Journey: How to Make Liquid Nitropressure Using Refrigerator Parts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-raspberry-pi-gadgets-and-peripherals/"><u>Top-Rated Raspberry Pi Gadgets and Peripherals</u></a></li>
 </ul></div>
 

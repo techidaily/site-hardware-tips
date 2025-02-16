@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models
-date: 2025-02-01T19:04:01.531Z
-updated: 2025-02-03T05:40:56.167Z
+date: 2025-02-08T19:07:55.364Z
+updated: 2025-02-15T17:16:21.062Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,21 +112,20 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-androids-technique-for-retroactive-viewing/"><u>[New] Android's Technique for Retroactive Viewing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unraveling-the-magic-of-time-extension-in-reels/"><u>[New] In 2024, Unraveling the Magic of Time Extension in Reels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-achieve-seamless-video-playback-by-removing-bars-in-youtube-for-2024/"><u>[Updated] Achieve Seamless Video Playback by Removing Bars in YouTube for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-bots-with-gpt-3-and-python/"><u>Building Bots with GPT-3 & Python</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/easy-guide-transforming-videos-from-mp4-to-png-format-both-on-screen-and-off/"><u>Easy Guide: Transforming Videos From MP4 to PNG Format Both On-Screen & Off</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gaming-disaster-alert-fire-ants-consume-thermal-components-in-gpu-chaos-stunning-images-inside/"><u>Gaming Disaster Alert! Fire Ants Consume Thermal Components in GPU Chaos - Stunning Images Inside!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-construct-your-own-powerful-pc-setup-for-efficient-chia-farming/"><u>How to Construct Your Own Powerful PC Setup for Efficient Chia Farming</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-lava-yuva-2-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Lava Yuva 2 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-discover-how-to-rule-an-empire-with-the-game-imperator-rome/"><u>In-Depth Review: Discover How to Rule an Empire with the Game Imperator: Rome</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-computer-world-comprehensive-hardware-reviews-and-news/"><u>Inside Tom's Computer World: Comprehensive Hardware Reviews and News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-advanced-computing-with-precision-at-tomhemaline/"><u>Navigate the World of Advanced Computing with Precision at Tom'hemaline</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-guide-to-mute-audio-in-mp4-files-without-distorting-video-quality/"><u>New Guide to Mute Audio in MP4 Files Without Distorting Video Quality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-affordable-luxury-of-silent-cooling-an-insightful-review-into-scythes-mugen-6-air-conditioner-and-6-black-edition/"><u>The Affordable Luxury of Silent Cooling: An Insightful Review Into Scythe's Mugen #6 Air Conditioner & #6 Black Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub - The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-tech-with-expert-tips-from-toms-hardware/"><u>Unveiling the Latest in Tech with Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers-for-2024/"><u>[New] Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-emoji-mastery-for-engaging-youtube-discussions-for-2024/"><u>[Updated] Emoji Mastery for Engaging YouTube Discussions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726221704834-pcx-gif-movavi/"><u>無限制網路直接過渡 PCX為 GIF - 使用 Movavi 編輯器</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-the-enhanced-build-platform-and-multi-head-technology-featured-in-original-prusa-xl/"><u>Expert Insights on the Enhanced Build Platform & Multi-Head Technology Featured in Original Prusa XL</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-latest-in-hardware-with-toms-detailed-reviews/"><u>Explore the Latest in Hardware with Tom's Detailed Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hytes-innovative-nexus-link-transforms-how-you-build-rainbow-pcs-with-seamless-rgb-connectivity/"><u>Hyte's Innovative Nexus Link Transforms How You Build Rainbow PCs with Seamless RGB Connectivity</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unveil-the-power-of-storytelling-in-your-facebook-bio/"><u>In 2024, Unveil the Power of Storytelling in Your Facebook Bio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-toms-hardware-test-reports-a-tech-enthusiasts-companion/"><u>Inside Look at Tom's Hardware Test Reports - A Tech Enthusiast's Companion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-realm-of-time-lapses-gopro-hero-10-in-action/"><u>Navigating the Realm of Time Lapses GoPro Hero 10 in Action</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-whatsapps-camera-zoom-glitch-with-simple-fixes/"><u>Overcome WhatsApp's Camera Zoom Glitch with Simple Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-next-wave-in-additive-manufacturing-maker-built-submerged-3d-printer-designed-for-water-settings/"><u>The Next Wave in Additive Manufacturing: Maker-Built Submerged 3D Printer Designed for Water Settings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tech-review-destination-discovering-toms-hardware-secrets/"><u>The Ultimate Tech Review Destination: Discovering Tom's Hardware Secrets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-an-in-depth-look-into-modern-computer-components-by-tom/"><u>Unveiling Tech Secrets: An In-Depth Look Into Modern Computer Components by Tom</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-1178-msi-driver-upgrade-guide/"><u>Win 11/7/8: MSI Driver Upgrade Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-strategies-unlocking-your-gaming-directory/"><u>Win Strategies: Unlocking Your Gaming Directory</u></a></li>
 </ul></div>
 

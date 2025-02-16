@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights From ZDNet"
-date: 2025-01-31T04:11:30.807Z
-updated: 2025-02-03T07:27:15.169Z
+date: 2025-02-14T21:08:39.171Z
+updated: 2025-02-15T16:57:18.972Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,19 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-golivepod-steps-for-a-hassle-free-podcast-broadcast-experience/"><u>[New] GoLivePod Steps for a Hassle-Free Podcast Broadcast Experience</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-link-sharing-instagram-stories-and-posts/"><u>[Updated] 2024 Approved Mastering Link Sharing Instagram Stories & Posts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-asmr-production-101-essential-strategies-for-cutting-edge-video-making/"><u>[Updated] In 2024, ASMR Production 101 Essential Strategies for Cutting-Edge Video Making</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-latest-gadgets-with-toms-hardware-experts/"><u>Discovering the Latest Gadgets with Tom's Hardware Experts</u></a></li>
-<li><a href="https://facebook.techidaily.com/freedom-of-expression-say-no-to-facebook-tagged-photos/"><u>Freedom of Expression: Say No to Facebook Tagged Photos</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-motorola-razr-40-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Razr 40 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intels-launch-of-new-14th-gen-processors-unveiling-nine-cpu-variants-with-no-e-cores-leading-with-flagship-core-i9-1/"><u>Intel's Launch of New 14Th Gen Processors: Unveiling Nine CPU Variants with No E-Cores, Leading With Flagship Core I9-1</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-components-inside-view-from-toms-hardware-haven/"><u>Mastering Gadgets and Components - Inside View From Tom's Hardware Haven</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-blueprint-of-dynamic-dialogue-in-scripts-for-2024/"><u>The Blueprint of Dynamic Dialogue in Scripts for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-gear-hub-expert-insights-into-your-digital-devices/"><u>Tom's Gear Hub: Expert Insights Into Your Digital Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-apple-imac-27-4k-display-tech-and-performance-evaluation/"><u>Ultimate Guide: Apple iMac 27 4K Display Tech & Performance Evaluation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-insights-into-pc-building-from-toms-hardware-hub/"><u>Ultimate Insights Into PC Building From Tom's Hardware Hub</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-hiberfilsys-in-windows-11-comprehensive-guide-to-deletion/"><u>Understanding hiberfil.sys in Windows 11: Comprehensive Guide to Deletion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/user-guide-for-the-omoton-t1-an-in-depth-look-at-a-robust-budget-friendly-tablet-holder/"><u>User Guide for the Omoton T1: An In-Depth Look at a Robust, Budget-Friendly Tablet Holder</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-20plus-free-business-slideshow-templates-makers-and-ideas/"><u>[New] 20+ Free Business Slideshow Templates, Makers, and Ideas</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-pros-choice-review-the-ultimate-4k-dslr-rigs/"><u>[New] 2024 Approved Pro's Choice Review The Ultimate 4K DSLR Rigs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-elevate-video-aesthetics-to-meet-instagram-standards/"><u>[New] In 2024, Elevate Video Aesthetics to Meet Instagram Standards</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-8-free-video-calling-applications-recommended-for-businesses/"><u>[New] Top 8 Free Video Calling Applications Recommended for Businesses</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-avoiding-threats-while-grabbing-gratis-vlc-player-for-apple-machines/"><u>[Updated] Avoiding Threats While Grabbing Gratis VLC Player for Apple Machines</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-guide-to-background-dimming-in-videos/"><u>[Updated] Step-by-Step Guide to Background Dimming in Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-cable-modem-models-reviewed-for-optimal-internet-speed/"><u>2024'S Most Effective Cable Modem Models Reviewed for Optimal Internet Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3d-ideal-printer-selection-for-startup-enterprises/"><u>3D: Ideal Printer Selection for Startup Enterprises</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-direct-from-device-to-digital-world-recording-your-apple-gadgets/"><u>In 2024, Direct From Device to Digital World Recording Your Apple Gadgets</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-role-and-benefits-of-placeholder-memory-chips-for-personal-computing-enthusiasts/"><u>Understanding the Role and Benefits of Placeholder Memory Chips for Personal Computing Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/undetected-backdoor-discovered-how-a-security-glitch-endangers-amd-cpu-users-with-stealthy-malware/"><u>Undetected Backdoor Discovered: How a Security Glitch Endangers AMD CPU Users with Stealthy Malware</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unwind-with-bargains-top-deals-on-noise-canceling-earbuds-for-better-sleep/"><u>Unwind with Bargains: Top Deals on Noise-Canceling Earbuds for Better Sleep</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-tablet-experience-discover-why-the-zagg-pro-stylus-2-is-an-essential-accessory-for-every-ipad-owner/"><u>Upgrade Your Tablet Experience: Discover Why the ZAGG Pro Stylus 2 Is an Essential Accessory for Every iPad Owner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/week-in-review-changes-to-netflix-plans-and-top-tips-for-upgrading-iphone-repairs/"><u>Week in Review: Changes to Netflix Plans & Top Tips for Upgrading iPhone Repairs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-overcame-my-dislike-of-subscriptions-with-oura-ring/"><u>Why I Overcame My Dislike of Subscriptions with Oura Ring</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-thunderbolt-technology-will-revolutionize-your-laptop-experience-what-you-need-to-know/"><u>Why Thunderbolt Technology Will Revolutionize Your Laptop Experience - What You Need to Know!</u></a></li>
 </ul></div>
 

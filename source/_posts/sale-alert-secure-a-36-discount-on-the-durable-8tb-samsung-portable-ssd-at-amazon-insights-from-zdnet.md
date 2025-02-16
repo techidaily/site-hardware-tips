@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Secure a 36%% Discount on the Durable 8TB Samsung Portable SSD at Amazon - Insights From ZDNet"
-date: 2025-01-31T21:50:27.141Z
-updated: 2025-02-02T22:22:07.363Z
+date: 2025-02-14T20:14:01.123Z
+updated: 2025-02-15T18:29:26.791Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5d25efea-41c2-4721-bece-33eaed47020a%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,20 +65,24 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-facetimes-role-in-modern-communication-best-practices-for-recording-calls/"><u>[New] In 2024, FaceTime's Role in Modern Communication Best Practices for Recording Calls</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-zoom-tools-for-clear-session-capture/"><u>[Updated] 2024 Approved Best Zoom Tools for Clear Session Capture</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-blending-binaries-digital-photographic-techniques/"><u>[Updated] Blending Binaries Digital Photographic Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-digital-filters-for-optimal-video-quality/"><u>2024 Approved Navigating the World of Digital Filters for Optimal Video Quality</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-comparative-look-at-samsung-photo-tools/"><u>A Comparative Look at Samsung Photo Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decoding-and-troubleshooting-windows-blue-screen-error-0xc00x00000e9-a-step-by-step-guide/"><u>Decoding and Troubleshooting Windows Blue Screen Error 0xC00^X00000E9: A Step-by-Step Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/elite-selections-5-fast-screen-recorders-for-2024/"><u>Elite Selections 5 Fast Screen Recorders for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sharpen-your-writing-skills-eliminate-errors-with-chatgpt-insights/"><u>Sharpen Your Writing Skills – Eliminate Errors with ChatGPT Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-solution-for-fixing-giants-feet-flaws-in-additive-manufacturing/"><u>Step-by-Step Solution for Fixing Giants' Feet Flaws in Additive Manufacturing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/taste-the-future-of-technology-scannable-and-edible-3d-qr-creations/"><u>Taste the Future of Technology: Scannable and Edible 3D QR Creations</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209691054-9781250250704-the-game-of-life-and-how-to-play-it/"><u>The Game of Life and How to Play It | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tech-destination-toms-hardware-deep-dives/"><u>The Ultimate Tech Destination: Tom's Hardware Deep Dives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-unlocking-the-secrets-of-computer-components/"><u>Tom's Tech Hub: Unlocking the Secrets of Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Insights: Comprehensive Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-go-to-guide-for-computer-hardware/"><u>Tom's Tech Insights: Your Go-To Guide for Computer Hardware</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-leading-home-climate-monitors-of-2024-a-buyers-list/"><u>Discover the Leading Home Climate Monitors of 2024 - A Buyer's List</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/easy-fixes-for-system-thread-exception-not-handled/"><u>Easy Fixes for System Thread Exception Not Handled</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-annoyance-steps-to-cease-relentless-cursor-blindness/"><u>End the Annoyance: Steps to Cease Relentless Cursor Blindness</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-in-depth-analysis-of-the-meta-512gb-quest-3-offer-the-premier-vr-headset-deal-on-the-market/"><u>Get In-Depth Analysis of the Meta 512GB Quest 3 Offer - The Premier VR Headset Deal on the Market!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-innovation-bamboo-lab-unveils-a1-the-speedster-bed-slinger-on-dec-14th/"><u>Get Ready for Innovation - Bamboo Lab Unveils A1, The Speedster Bed Slinger on Dec. 14Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-maintain-and-declogs-your-3d-printing-equipment-effectively/"><u>How to Maintain and Declogs Your 3D Printing Equipment Effectively</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-codec-confrontation-who-takes-the-victory-av1-or-vp9/"><u>In 2024, Codec Confrontation Who Takes the Victory, AV1 or VP9?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-insider-beta-features-hidden/"><u>Keeping Insider Beta Features Hidden</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175706813-lamptrons-latest-st060-cpu-cooler-a-mighty-large-6-inch-display-matching-iphone-15-specs-and-acts-as-an-extra-screen/"><u>Lamptron's Latest ST060 CPU Cooler: A Mighty Large 6-Inch Display Matching iPhone 15 Specs and Acts as an Extra Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/maintain-peak-condition-in-windows-11-with-these-5-checks/"><u>Maintain Peak Condition in Windows 11 with These 5 Checks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-with-toms-hardware-insights/"><u>Navigating Tech with Tom's Hardware Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-the-world-of-vr-playback-technology-for-2024/"><u>Navigating the World of VR Playback Technology for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-streamlining-editing-how-to-excise-audio-from-video-tracks-using-premiere-pro-for-2024/"><u>New Streamlining Editing How to Excise Audio From Video Tracks Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reliability-boost-intel-announces-increased-warranty-term-for-13th-and-14th-gen-core-cpus-facing-stability-setbacks/"><u>Reliability Boost: Intel Announces Increased Warranty Term for 13Th and 14Th Gen Core CPUs Facing Stability Setbacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-hardware-experts/"><u>The Ultimate Resource for Computer Enthusiasts - Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-external-hdd-drives-and-ssd-encasements/"><u>Top Rated External HDD Drives & SSD Encasements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-elegoo-neptone-x4-pro-only-284-awaits-you/"><u>Unbeatable Price: Elegoo Neptone X4 Pro Only $284 Awaits You!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-toms-authoritative-hardware-analysis/"><u>Unveiling Tech Secrets: Tom's Authoritative Hardware Analysis</u></a></li>
 </ul></div>
 

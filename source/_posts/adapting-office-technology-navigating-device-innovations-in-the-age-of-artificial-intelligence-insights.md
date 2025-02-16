@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: Navigating Device Innovations in the Age of Artificial Intelligence - Insights"
-date: 2025-01-31T20:45:39.925Z
-updated: 2025-02-01T17:08:56.231Z
+date: 2025-02-09T18:57:36.250Z
+updated: 2025-02-15T19:41:27.210Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,14 +134,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlock-potential-innovating-with-effective-instagram-video-loops/"><u>[New] 2024 Approved Unlock Potential Innovating with Effective Instagram Video Loops</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-uploading-to-twitter-a-complete-video-walkthrough/"><u>2024 Approved Uploading to Twitter A Complete Video Walkthrough</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-simplified-non-windows-life-with-an-incredibly-cheap-hp-chromebook-offering-136-off-techradar-exclusive/"><u>Discover the Simplified Non-Windows Life with an Incredibly Cheap HP Chromebook Offering $136 Off – TechRadar Exclusive</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-13-free-pdf-editor-apps-for-july-2024/"><u>Discover the Ultimate List: 13 Free PDF Editor Apps for July 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dual-modes-and-stability-in-sony-hdrcx405/"><u>Dual Modes & Stability in Sony HDRCX405</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experts-guide-to-the-best-13-inch-notebook-exceptional-endurance-and-dynamic-design-unveiled-insights/"><u>Expert's Guide to the Best 13-Inch Notebook: Exceptional Endurance and Dynamic Design Unveiled Insights</u></a></li>
-<li><a href="https://win-studio.techidaily.com/guide-pratique-pour-localiser-et-recuperer-des-fichiers-disparus-sur-votre-carte-sd/"><u>Guide Pratique Pour Localiser Et Récupérer Des Fichiers Disparus Sur Votre Carte SD</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/teamgees-dual-monitor-offer-cut-costs-by-120-a-must-have-for-mobile-workstations/"><u>TeamGee's Dual Monitor Offer: Cut Costs by $120 - A Must-Have for Mobile Workstations!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-dual-purpose-tech-of-the-year-unlocking-its-underappreciated-office-potential-zdnet/"><u>Top Rated Dual-Purpose Tech of The Year - Unlocking Its Underappreciated Office Potential | ZDNET</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-elevate-your-video-workflow-capturing-mov-files-on-windows-10-for-2024/"><u>[New] Elevate Your Video Workflow Capturing MOV Files on Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-10-best-4k-monitors-for-mac-for-2024/"><u>[Updated] Top 10 Best 4K Monitors for Mac for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-linuxone-4-express-is-ibms-economical-mainframe-the-perfect-choice-for-your-business-a-deep-dive-by-zdnet/"><u>Discovering LinuxONE 4 Express: Is IBM's Economical Mainframe the Perfect Choice for Your Business? - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enjoy-the-epic-battle-seamlessly-overcoming-the-crash-glitch-in-god-of-war-for-pc-gamers/"><u>Enjoy the Epic Battle Seamlessly - Overcoming the Crash Glitch in God of War for PC Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-look-at-the-quietest-gaming-mice-of-2024-in-depth-zdnet-ratings-and-expert-analysis/"><u>Exclusive Look at the Quietest Gaming Mice of 2024: In-Depth ZDNET Ratings and Expert Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gifting-ideas-alert-discover-14-trending-tiktok-kitchen-essentials-to-impress-your-favorite-chefs/"><u>Gifting Ideas Alert! Discover 14 Trending TikTok Kitchen Essentials to Impress Your Favorite Chefs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-z-fold-5-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy Z Fold 5 Without Password?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-idub-for-2024/"><u>New IDub for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-access-to-missing-pin-post-update-in-windows-11/"><u>Regain Access to Missing PIN Post-Update in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-systems-expert-tips-on-preventing-logofail-vulnerabilities-zdnet/"><u>Secure Your Systems: Expert Tips on Preventing LogoFAIL Vulnerabilities | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-hidden-risks-of-airtags-power-saving-features-uncovering-potential-damage-and-remedies-zdnet/"><u>The Hidden Risks of AirTag’s Power Saving Features: Uncovering Potential Damage and Remedies | ZDNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uncovering-inshots-edge-in-the-editing-world/"><u>Uncovering InShot's Edge in the Editing World</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-12-mini-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-m34-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy M34 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-2022-review-of-secretlabs-titan-evo-leading-gaming-chair-contender-pcgamerinsights/"><u>Unveiling the Latest: 2022 Review of Secretlab's Titan Evo - Leading Gaming Chair Contender | PCGamerInsights</u></a></li>
 </ul></div>
 

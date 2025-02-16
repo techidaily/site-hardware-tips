@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet"
-date: 2025-01-26T19:10:14.072Z
-updated: 2025-02-02T21:55:34.205Z
+date: 2025-02-13T16:43:35.488Z
+updated: 2025-02-15T22:41:14.976Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,22 +134,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-enhance-visual-narratives-incorporating-titles-in-microsoft-photos-win-11/"><u>[New] 2024 Approved Enhance Visual Narratives Incorporating Titles in Microsoft Photos Win 11</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-how-to-smoothly-manipulate-video-speed-in-snapchat-for-2024/"><u>[New] How to Smoothly Manipulate Video Speed in Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-facing-the-reality-of-content-monetization/"><u>[New] In 2024, Facing the Reality of Content Monetization</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-cutting-edge-techniques-for-vce-22-optimization/"><u>[Updated] In 2024, Cutting Edge Techniques for VCE 2.2 Optimization</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-without-breaking-the-bank-secure-your-pcs-temperature-below-45-using-deepcools-as500-plus-at-amazon/"><u>Beat the Heat without Breaking the Bank: Secure Your PC's Temperature Below $45 Using DeepCool's AS500 Plus at Amazon</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/create-edges-of-images-with-rotational-softness-blend-psx-for-2024/"><u>Create Edges of Images with Rotational Softness Blend PSX for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-and-efficient-blackberry-video-conversion-software-enable-playback-on-your-classic-device-today/"><u>Easy and Efficient BlackBerry Video Conversion Software - Enable Playback on Your Classic Device Today!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-electronics-with-toms-hardware-experts/"><u>Expert Insights on Electronics with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-stop-separation-between-layers-during-the-3d-printing-process/"><u>How to Stop Separation Between Layers During the 3D Printing Process</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-precision-polishing-insights-from-vlle-on-apps/"><u>In 2024, Precision Polishing Insights From VLLE on Apps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-at-top-tier-computer-systems-by-toms-team/"><u>Inside Look at Top-Tier Computer Systems by Tom’s Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125125687-modded-marvels-astonishingly-swift-completion-of-speed-benchy-by-an-enhanced-3d-printer-in-merely-2-minutes/"><u>Modded Marvels: Astonishingly Swift Completion of ‘Speed Benchy’ by an Enhanced 3D Printer in Merely 2 Minutes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-startup-problems-in-farming-simulator-22-a-step-by-step-tutorial/"><u>Overcoming Startup Problems in Farming Simulator 22 - A Step by Step Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-reviews-and-buying-guides/"><u>Tom's Tech Hub: Comprehensive Reviews & Buying Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-cura-mistakes-and-their-easy-solutions/"><u>Top 6 Cura Mistakes & Their Easy Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-ps5s-fastest-ssds-selecting-the-speediest-nvme-memory-upgrades/"><u>Ultimate Guide to PS5's Fastest SSDs: Selecting the Speediest NVMe Memory Upgrades</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-farewell-to-friends-how-to-leave-a-discord-server/"><u>2024 Approved Farewell to Friends How to Leave a Discord Server</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-v27e-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo V27e Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-the-next-gen-gpt-4s-leap-over-gpt-35/"><u>Comparing the Next Gen: GPT-4's Leap over GPT-3.5</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-to-stop-fifa-21-game-crashes-on-pc-comprehensive-instructions-inside/"><u>Easy Fixes to Stop FIFA 21 Game Crashes on PC - Comprehensive Instructions Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/harness-unmatched-thermal-efficiency-with-pioneercools-ultrafrost-duo-aio-liquid-cooler/"><u>Harness Unmatched Thermal Efficiency with PioneerCool's UltraFrost-Duo AIO Liquid Cooler</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-nord-n30-5g-lock-screen-password-by-drfone-android/"><u>How To Change OnePlus Nord N30 5G Lock Screen Password?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-iphone-macro-photography-tips-and-tricks/"><u>In 2024, Expert iPhone Macro Photography Tips and Tricks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-zte-nubia-z60-ultra-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of ZTE Nubia Z60 Ultra Without PUK Codes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-reviews-by-toms-hardware-authority/"><u>The Ultimate Guide to Tech Reviews by Tom's Hardware Authority</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-comprehvew-on-cutting-edge-computer-equipment/"><u>Tom's Comprehvew on Cutting-Edge Computer Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-hardware-guides-and-reviews/"><u>Tom's Tech Hub: Comprehensive Hardware Guides and Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-executing-windows-restore-operations/"><u>Understanding and Executing Windows Restore Operations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-potential-of-your-pc-with-tips-from-toms-tech-wisdom/"><u>Unlocking the Potential of Your PC with Tips From Tom’s Tech Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-by-toms-experts/"><u>Unveiling the Latest in Computer Hardware by Tom's Experts</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Updated Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
 </ul></div>
 

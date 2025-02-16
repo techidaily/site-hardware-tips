@@ -1,7 +1,7 @@
 ---
 title: "Best 5G Notebooks : Ultimate Guide and Rankings on CNet"
-date: 2025-01-25T16:18:14.035Z
-updated: 2025-02-01T16:08:37.880Z
+date: 2025-02-09T19:42:53.582Z
+updated: 2025-02-15T20:28:39.184Z
 tags:
   - laptops
 categories:
@@ -21,6 +21,10 @@ You're attempting to listen to music or watch a video on your computer.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -43,7 +47,7 @@ And with a snafu like no sound, there are a few ways to troubleshoot the issue, 
 Here's how to pull this off in both Windows 10 and 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reset your audio settings in Windows
@@ -55,6 +59,10 @@ You've probably already checked the usual suspects. But let's review anyway. Mak
 Check the volume.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Go to sound settings
 
@@ -75,7 +83,7 @@ Screenshot by Lance Whitney/ZDNET
 If you use external speakers, double-check for loose wires, unseated connections, and similar physical ailments. (Yes, try unplugging and plugging them in again.) If those all pass the test, then it's time to ask for help from Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn to a Windows troubleshooter
@@ -107,7 +115,7 @@ Confirm the device.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Go to sound settings to run troubleshooter in another way
@@ -119,10 +127,6 @@ In Windows 10, click the **Troubleshoot** button under Master Volume. In Windows
 Use the Get Help app.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. In the sound settings screen, check the Volume mixer
 
@@ -137,10 +141,6 @@ Screenshot by Lance Whitney
 Check the Volume mixer in Windows 11.
 
 Screenshot by Lance Whitney
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Click the Reset button
 
@@ -162,10 +162,6 @@ Check sound settings.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Uncheck Enable audio enhancements
 
 At the Properties window, click the **Advanced** tab and uncheck the box for **Enable audio enhancements**. Then click the **Test** button. Next, click the tab for **Spatial sound** and made sure this option is off.
@@ -181,6 +177,10 @@ If the sound still isn't working, close all of the sound settings windows. Right
 Open Device Manager.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Click Update driver
 
@@ -259,19 +259,21 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-audience-enchantment-advanced-audacity-crossfading/"><u>[New] Audience Enchantment Advanced Audacity Crossfading</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-strategies-to-optimize-time-and-quality-in-thumbnail-design/"><u>[New] Strategies to Optimize Time and Quality in Thumbnail Design</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-comprehensive-io-recorder-explained-for-users/"><u>[Updated] 2024 Approved Comprehensive IO Recorder Explained for Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-picks-for-efficient-youtube-video-url-condensers/"><u>[Updated] 2024 Approved Top Picks for Efficient YouTube Video URL Condensers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>2024 Approved Unlocking Video Potential The Crème De La Crème Browser Recorders</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-samsung-galaxy-watch-active-assessment-your-go-to-companion-for-health-and-fitness/"><u>Comprehensive Samsung Galaxy Watch Active Assessment: Your Go-To Companion for Health and Fitness</u></a></li>
-<li><a href="https://fox-http.techidaily.com/crafting-the-future-revolutionary-tools-for-3d-modelers-for-2024/"><u>Crafting the Future Revolutionary Tools for 3D Modelers for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-hidden-gems-exploring-the-stealthy-trackpoint-and-more-in-this-compact-lenovo-powerhouse-insights-from-zdnet/"><u>Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-premium-vr-with-metas-latest-steal-the-512gb-quest-3-deal-that-dominates-todays-market-insider-tips/"><u>Experience Premium VR with Meta's Latest Steal: The 512GB Quest 3 Deal That Dominates Today’s Market | Insider Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guida-alla-comprensione-e-alluso-dei-file-mkv-un-tutorial-completo-sullestrazione-dei-dati/"><u>Guida Alla Comprensione E All'uso Dei File MKV: Un Tutorial Completo Sull'estrazione Dei Dati</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-guide-for-video-narration-implementation/"><u>In 2024, Step-By-Step Guide for Video Narration Implementation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-ultraportable-notebook-with-exceptional-all-day-battery-life-featured-on-zdnet/"><u>Top Rated Ultraportable Notebook with Exceptional All-Day Battery Life Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-work-tablet-a-non-microsoft-non-lenovo-contender-that-exceeds-expectations-insights-from-a-seasoned-reviewer/"><u>Top-Performing Work Tablet: A Non-Microsoft, Non-Lenovo Contender That Exceeds Expectations - Insights From a Seasoned Reviewer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-linux-based-laptop-picks-comprehensive-evaluation-by-tech-gurus-insights-from-zdnet/"><u>Top-Ranking Linux-Based Laptop Picks : Comprehensive Evaluation by Tech Gurus - Insights From ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-guide-to-enable-dynamic-hdr-in-windows-11/"><u>[New] In 2024, Guide to Enable Dynamic HDR in Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-efficiently-traverse-youtubes-votes-and-reaction-space/"><u>[Updated] 2024 Approved Efficiently Traverse YouTube’s Votes and Reaction Space</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-3-ways-for-ipad-voice-recording/"><u>[Updated] 3 Ways for iPad Voice Recording</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-step-by-step-guide-for-text-superimposition-on-video-using-windows-photos-for-2024/"><u>[Updated] Step-by-Step Guide for Text Superimposition on Video Using Windows Photos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3g-network-discontinuation-uncover-which-gadgets-are-impacted-and-whether-you-need-to-upgrade/"><u>3G Network Discontinuation: Uncover Which Gadgets Are Impacted and Whether You Need to Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-cooling-solutions-the-leading-ac-units-for-savings-consumer-digest-ratings/"><u>Affordable Cooling Solutions: The Leading AC Units for Savings – Consumer Digest Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-hps-innovative-subscription-service-really-improve-your-printer-experience-and-love-for-the-brand/"><u>Can HP's Innovative Subscription Service Really Improve Your Printer Experience and Love for the Brand?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-samsungs-latest-innovations-a-detailed-review-of-the-neo-qled-and-oled-models-for-2n23-unlocking-features-and-purchase-info/"><u>Exploring Samsung's Latest Innovations: A Detailed Review of the Neo QLED & OLED Models for 2N23 - Unlocking Features & Purchase Info</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/finding-the-ultimate-productivity-companion-does-logitechs-mx-master-ebyte-excel-in-business-settings-zdnet-reviews/"><u>Finding the Ultimate Productivity Companion: Does Logitech's MX Master Ebyte Excel in Business Settings - ZDNET Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/framing-character-arcs-on-screen-for-2024/"><u>Framing Character Arcs on Screen for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-dive-into-video-production-mastering-green-screens-on-yt/"><u>In 2024, Dive Into Video Production Mastering Green Screens on YT</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unsuccessful-discord-updates-for-windows-users/"><u>Resolving Unsuccessful Discord Updates for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-budget-friendly-webcams-comprehensive-guide-by-zdnet/"><u>Top 5 Budget-Friendly Webcams : Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-smart-outlet-devices-expert-reviews-by-zdnet/"><u>Top 5 Smart Outlet Devices - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-visitors-a-guide-on-identifying-accessors-of-your-google-document/"><u>Unveiling the Visitors: A Guide on Identifying Accessors of Your Google Document</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/what-to-do-if-you-suspect-a-faulty-component-in-your-pc-guidance-from-tech-experts-at-yl-software/"><u>What To Do If You Suspect a Faulty Component in Your PC – Guidance From Tech Experts at YL Software</u></a></li>
 </ul></div>
 

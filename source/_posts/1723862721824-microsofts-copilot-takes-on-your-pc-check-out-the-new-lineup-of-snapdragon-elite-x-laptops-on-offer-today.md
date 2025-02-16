@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Copilot Takes On Your PC - Check Out the New Lineup of Snapdragon Elite X Laptops on Offer Today!
-date: 2024-08-19T02:48:47.216Z
-updated: 2024-08-20T02:48:47.216Z
+date: 2025-02-10T16:08:10.601Z
+updated: 2025-02-15T22:33:35.908Z
 tags:
   - laptop
 categories:
@@ -21,6 +21,10 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Acer Swift 14 AI](https://cdn.mos.cms.futurecdn.net/iyqbmFMKoheZ3ZFceuSYAi-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Acer)
 
  The Swift 14 AI is Acer’s bet on the Copilot+ PC, and it can be had with either a Snapdragon X Plus or Snapdragon X Elite chip. It also has a 75Wh battery, which the company claims will give the laptop up to 26 hours of battery life. You can also spec it with as much as 32GB of RAM and a 1TB SSD.
@@ -39,9 +43,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Vivobook S15 (S5507) features two USB 4 ports, two USB 3.2 Type-A ports, a microSD card reader, an HDMI 2.1 port, and a 3.5mm headphone jack. It starts at $1,299.99 on the [Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-1448347873480858520&url=https%3A%2F%2Fshop.asus.com%2Fus%2F90nb14q2-m000w0-asus-vivobook-s-15-s5507.html) , but is out of stock at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -54,6 +55,10 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Dell XPS 13](https://cdn.mos.cms.futurecdn.net/QAyqoqgfXVyMCzhuYHvvaS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Dell)
 
  The XPS 13 is one of the most popular Windows laptops around, and it’s one of the first[Dell](https://tools.techidaily.com) machines to get the Copilot+ PC brand. The XPS 13 is only available with Snapdragon X Elite X1E-80-100 chip, but you can spec it with 16GB, 32GB, or 64GB of LPDDR5X RAM. You can even get it with a 512GB, 1TB, or 2TB M.2 PCIe NVMe SSD.
@@ -64,35 +69,16 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Dell Inspiron 14 Plus Laptop](https://cdn.mos.cms.futurecdn.net/RxhbpuMwEyZwzgdfQ5xe7T-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: Dell)
 
  If you don’t have the budget for a premium laptop, but still trust Dell’s quality, you can pick the Inspiron 14 Plus to get on the Copilot+ PC bandwagon. This laptop uses the less potent (but still powerful) Snapdragon X Plus X1P-64-100 chip with 16GB of RAM and a 512GB SSD.
 
  It also has a 14-inch QHD+ screen with 100% sRGB coverage. This laptop is priced at $1,099.99, and is also available today on[Dell](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1252255113311921269%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## HP EliteBook Ultra 14
 
 ![HP EliteBook Ultra 14](https://cdn.mos.cms.futurecdn.net/ss4CedHQoAQaDKDSg4AVsh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 (Image credit: HP)
 
  The EliteBook Ultra 14 is[HP](https://tools.techidaily.com) ’s premium Copilot+ PC offering, with a 12-core Snapdragon X Elite X1E-78-100 chip, 16GB of RAM, and a 512GB SSD. It also has a 14-inch 2.2K display and has the following ports: two USB-C ports, a USB-A port, and a 3.5mm combo jack.
@@ -103,21 +89,19 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![HP OmniBook X 14](https://cdn.mos.cms.futurecdn.net/gu94E6KZHnHWC6swaVeuab-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: HP)
 
  This laptop is the budget Copilot+ PC from HP, but it doesn’t mean that you’re losing out on features. The OmniBook X 14 still uses the same chip as the EliteBook Ultra 14 with 16GB of RAM. It also has a 512GB SSD, which you can upgrade to 1TB for $100 extra. It also has a 14-inch 2.2K display, but this one is multi-touch enabled.
 
  Although this laptop is thicker than the EliteBook Ultra 14, it’s also substantially more affordable at $1,149.99\. You can purchase and customize this laptop now on[the HP website](https://www.anrdoezrs.net/click-8900246-15852945?sid=tomshardware-us-1154629704587710143&url=https://www.hp.com/us-en/shop/ConfigureView?langId=-1&storeId=10151&catalogId=10051&catEntryId=3074457345621303820&urlLangId=&quantity=1) , but shipments will begin on July 9.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x
 
 ![Lenovo Yoga Slim 7x](https://cdn.mos.cms.futurecdn.net/J3XYYNCds6rXWkSQVXZc49-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Lenovo)
 
@@ -125,40 +109,46 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Yoga Slim 7x uses a 14.5-inch 3K OLED display with a 90 Hz refresh rate. It’s also VESA-certified DisplayHDR True Black 600, giving you a great viewing experience. The laptop starts at $1,199.00 and is available for Pre-Order on[the Lenovo site](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-8727768493894058412%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fyoga%252Fyoga-slim-series%252Fyoga-slim-7x-gen-9-%252814-inch-snapdragon%2529%252Flen101y0049) at the time of writing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lenovo ThinkPad T14s Gen 6
 
 ![Lenovo ThinkPad T14s Gen 6](https://cdn.mos.cms.futurecdn.net/By8PYnaLQtTDyDkoyxvmNd-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Lenovo knows that many businesses want to get on the AI bandwagon, so it’s bringing the Copilot+ PC certification to one of the most popular[enterprise](https://tools.techidaily.com) laptops. The ThinkPad T14s Gen 6 has a Snapdragon X Elite processor with 32GB of RAM and a 1TB SSD. It also comes with[Windows 11](https://tools.techidaily.com) Pro right out of the box.
 
  This laptop has a 14-inch IPS display and two USB4 ports, two USB-A ports, an HDMI 2.1 port, and a 3.5mm headphone jack. You also have the option to add a Nano Sim slot. The ThinkPad T14s Gen 6 starts at $1,889.30 and is available for Pre-Order direct[from Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-1250424839333332531%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fthinkpad%252Fthinkpadt%252Flenovo-thinkpad-t14s-gen-6-%252814-inch-snapdragon%2529%252Flen101t0099) at the time of writing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Surface Laptop
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  Of course,[Microsoft](https://tools.techidaily.com) will not lag behind the competition when it comes to Copilot+ PCs. It is offering the most affordable Snapdragon X option, with the Surface Laptop, which starts at $999.99\. This model has a Snapdragon X Plus processor and a 13.8-inch display. It also comes with 16GB of RAM and a 512GB SSD.
 
  The more powerful Snapdragon X Elite chip-powered Surface Laptops start at $1,399.99 for the 13.8-inch version with 16GB of RAM and a 512GB SSD. Interestingly, the 15-inch model (which can only be had with a Snapdragon X Elite chip) starts at $1,299.99, but this one only has a 256GB SSD, which seems awfully small for today’s requirements. If you want to get this Copilot+ PC, the Surface Laptop is now available on[the Microsoft website](https://www.microsoft.com/en-us/store/configure/surface-laptop-7th-edition/8tq2hq5xxkj9) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Surface Pro
 
 ![Microsoft Surface Pro](https://cdn.mos.cms.futurecdn.net/FDVeU5mue9SMrJ7zU7yjHB-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Microsoft)
 
  If you prefer the tablet form factor, you can still get a Copilot+ PC with the Microsoft Surface Pro. This 2-in-1 starts at $999.99 for the Snapdragon X Plus version with a 13-inch LCD display, 16GB of RAM, and a 256GB SSD for the Platinum colorway. The three other colors — Sapphire, Dune, and Black — start at $1,199.99 with a larger 512GB SSD.
@@ -168,6 +158,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ## Samsung Galaxy Book4 Edge
 
 ![Samsung Galaxy Book4 Edge](https://cdn.mos.cms.futurecdn.net/92Lc3j6TS3cq5HjHkBqebH-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Samsung)
 
@@ -183,8 +177,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +184,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-pixelated-palaces-starter-designs-for-new-minecrafters-for-2024/"><u>[New] Pixelated Palaces Starter Designs for New Minecrafters for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-accessing-premium-clip-art-at-no-expense/"><u>[Updated] 2024 Approved Accessing Premium Clip-Art at No Expense</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-choices-for-professional-gopro-video-editing/"><u>2024 Approved Top Choices for Professional GoPro Video Editing</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a05s-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-practice-for-incorporating-gopro-clips-into-360-video-tapestries-for-2024/"><u>Best Practice for Incorporating GoPro Clips Into 360 Video Tapestries for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-reliable-is-chatgpt-when-seeking-online-medical-information/"><u>How Reliable Is ChatGPT When Seeking Online Medical Information?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-5-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 5 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-7-plus-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 7 Plus iCloud Bypass</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/optimale-hd-dvd-konvertierung-von-dvd-zu-mp4-fur-die-perfekte-kompatibilitat/"><u>Optimale HD-DVD-Konvertierung Von DVD Zu MP4 Für Die Perfekte Kompatibilität</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-resolution-of-ralink-rt3290-drivers-in-windows-7-8-and-11-expert-insights-and-strategies/"><u>Step-by-Step Resolution of Ralink RT3290 Drivers in Windows 7, 8 & 11: Expert Insights and Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-on-hardware-and-software/"><u>Tom's Tech Insights: In-Depth Guides on Hardware and Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-guides-t17239718704657/"><u>Tom's Tech Insights: In-Depth Reviews and Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-lexar-ssd-showdown-a-comprehensive-test-of-the-1tb-m2-nvme-2280-gaming-drive/"><u>Ultimate Lexar SSD Showdown: A Comprehensive Test of the 1TB M.2 NVMe 2280 Gaming Drive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-power-of-a-4tb-solid-state-drive-with-patriots-viper-vp4300-lite-a-comprehvew/"><u>Unlocking the Power of a 4TB Solid State Drive with Patriot's Viper VP4300 Lite: A Comprehvew</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-with-tom-trusted-review-source/"><u>Unveiling the Latest in Computer Hardware with Tom - Trusted Review Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gadgets-with-toms-electronic-review/"><u>Unveiling the Latest in Gadgets with Tom's Electronic Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-toms-electronic-innovations/"><u>Unveiling the Latest in Tom's Electronic Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-gaming-experience-with-nextorages-new-8tb-ssd-fast-speeds-and-abundant-space-only-849-perfect-for-pc-and-ps5-gamers/"><u>Upgrade Your Gaming Experience with Nextorage's New 8TB SSD - Fast Speeds & Abundant Space! Only $849 – Perfect for PC and PS5 Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ymtc-files-lawsuit-against-micron-in-us-claims-unauthorized-use-of-11-chinese-owned-memory-patents/"><u>YMTC Files Lawsuit Against Micron in U.S.: Claims Unauthorized Use of 11 Chinese-Owned Memory Patents</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Lenovo Forecasts Essential AI and Cybersecurity Capabilities in Future Laptops - Insights From ZDNet
-date: 2025-01-31T20:41:50.588Z
-updated: 2025-02-01T18:31:23.313Z
+date: 2025-02-14T19:46:28.381Z
+updated: 2025-02-15T20:10:52.875Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b10e21-f130-4fd6-8759-09233f2e6da0%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,24 +77,24 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-buzz-factor-creating-catch-all-content-for-facebook/"><u>[New] 2024 Approved The Buzz Factor Creating Catch-All Content for Facebook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-spotlight-on-professionals-the-cutting-edge-soundtracked-photovideo-artists/"><u>[New] Spotlight on Professionals The Cutting-Edge, Soundtracked Photo/Video Artists</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-ultimate-review-why-dells-newest-xps-lineup-excels-in-performance-and-style-insights-from-a-tech-guru/"><u>1. Ultimate Review: Why Dell's Newest XPS Lineup Excels in Performance & Style - Insights From a Tech Guru</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/15-gaming-laptop-at-just-515-best-sale-at-best-buy-techspot/"><u>15 Gaming Laptop at Just $515 - Best Sale at Best Buy | TechSpot</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/adapting-office-technology-the-future-of-work-devices-in-an-age-of-artificial-intelligence-insights-from-zdnet/"><u>Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/advanced-technicians-program-for-comprehensive-data-salvaging-effective-on-various-storage-mediums/"><u>Advanced Technician's Program for Comprehensive Data Salvaging – Effective on Various Storage Mediums</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazons-latest-offer-get-the-ultimate-game-sound-experience-for-half-off-discover-the-best-gaming-speaker-system-now-at-zdnet/"><u>Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-2024-bargains-at-best-buy-top-picks-and-last-minute-savings/"><u>Exclusive October Prime Day 2024 Bargains at Best Buy: Top Picks & Last-Minute Savings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-future-with-lenovos-premium-thinkpad-x13s-unveiling-arm-powered-ultraportable-tech-enhanced-by-5g-and-extended-battery-life-zdnet-insights/"><u>Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life | ZDNet Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-achieve-negative-like-images-effectively-for-2024/"><u>How to Achieve Negative-Like Images Effectively for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-sony-xperia-10-v-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Sony Xperia 10 V to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-poco-f5-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Poco F5 Pro 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-ios-slide-show-tools-tailored-for-high-end-models/"><u>In 2024, IOS Slide Show Tools Tailored for High-End Models</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data/"><u>In 2024, Navigating the Seas of Success Utilizing Social Blade for YouTube Data</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-seamless-synergy-wearable-helps-open-mac-gadgets/"><u>In 2024, Seamless Synergy Wearable Helps Open Mac Gadgets</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-october-prime-day-bargain-metas-51er-new-quest-vr-headset-with-512gb-capacity-on-special-offer-limited-availability-now-zdnet/"><u>Top October Prime Day Bargain: Meta's 51Er New Quest VR Headset with 512GB Capacity on Special Offer - Limited Availability Now | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-apples-m3-series-key-insights-before-your-purchase-decision-zdnet/"><u>Understanding Apple’s M3 Series: Key Insights Before Your Purchase Decision | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-new-chromeos-upgrade-windows-11-integration-revamps-your-chromebooks/"><u>Unveiling the New ChromeOS Upgrade: Windows 11 Integration Revamps Your Chromebooks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-master-list-of-leading-free-screen-capture-programs/"><u>[New] In 2024, Master List of Leading Free Screen Capture Programs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-9-techniques-for-attractive-and-engaging-unboxings-on-instagram/"><u>[Updated] 9 Techniques for Attractive and Engaging Unboxings on Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2023s-ultimate-selection-of-premium-mechanical-keyboards-insider-picks/"><u>2023'S Ultimate Selection of Premium Mechanical Keyboards - Insider Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-colors-unveiled-the-comprehensive-tutorial/"><u>2024 Approved Colors Unveiled The Comprehensive Tutorial</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/4-excel-windows-pc/"><u>4 種 Excel專用 Windows PC 復原保存技巧</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/compact-and-efficient-ourlink-u631-wireless-usb-wi-fi-dongle/"><u>Compact & Efficient Ourlink U631 Wireless USB Wi-Fi Dongle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-listening-experience-this-festive-season-with-zdnets-premium-headphone-amplifier-an-exceptional-gift-idea/"><u>Elevate Your Listening Experience This Festive Season with ZDNet's Premium Headphone Amplifier - An Exceptional Gift Idea!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevating-youtube-prominence-with-expert-use-of-the-hub/"><u>In 2024, Elevating Youtube Prominence with Expert Use of the Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-what-ways-might-conservation-biologists-use-metapopulation-theory-in-their-work/"><u>In What Ways Might Conservation Biologists Use Metapopulation Theory in Their Work?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/indirect-interactions-via-shared-resources-illustrate-how-the-presence-and-actions-of-one-species-can-affect-others-through-a-common-dependence-on-resources151/"><u>Indirect Interactions via Shared Resources Illustrate How the Presence and Actions of One Species Can Affect Others Through a Common Dependence on Resources Like Prey.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/interspecific-competition-occurs-when-two-or-more-species-compete-for-the-same-limited-resource/"><u>Interspecific Competition Occurs when Two or More Species Compete for the Same Limited Resource.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/perfect-emulators-to-replay-playstation-1-classics-for-2024/"><u>Perfect Emulators to Replay PlayStation 1 Classics for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-your-free-iscan-device-at-a-staggering-20-discount-exclusive-offer-on-zdnet/"><u>Snag Your Free iScan Device at a Staggering 20% Discount - Exclusive Offer on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-for-configuring-your-initial-raspberry-pi-project-as-featured-by-zdnet/"><u>Step-by-Step Tutorial for Configuring Your Initial Raspberry Pi Project as Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-compact-imaging-devices-the-ultimate-guide-to-portable-photo-printers-zdnet/"><u>Top Rated Compact Imaging Devices: The Ultimate Guide to Portable Photo Printers - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-leading-smart-air-purifiers-thoroughly-tested-and-reviewed-cnet/"><u>Ultimate List of Leading Smart Air Purifiers : Thoroughly Tested & Reviewed | CNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-guide-solving-xbox-one-controller-connectivity-issues/"><u>Ultimate Troubleshooting Guide: Solving Xbox One Controller Connectivity Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-screen-lost-cursor-found/"><u>Win11 Screen Lost, Cursor Found</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the New Contender: How the Microsoft Surface Pro N Aligns with the Expectations of Windows Devotees in Its Challenge to MacBook"
-date: 2025-01-25T16:32:14.913Z
-updated: 2025-02-01T19:49:05.083Z
+date: 2025-02-08T20:43:01.931Z
+updated: 2025-02-15T20:19:09.731Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [How to use Android's emergency satellite texting if you lose cell signal](https://www.zdnet.com/article/how-to-use-androids-emergency-satellite-texting-if-you-lose-cell-signal/)
@@ -42,7 +38,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -62,7 +58,7 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -83,6 +79,10 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The aptly-named Surface Studio 2+
 
 The Surface Studio 2+ looks nearly identical to the Surface Studio 2.
@@ -98,7 +98,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -114,7 +114,7 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -163,16 +163,22 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-updated-user-manual-for-navigating-facebook-for-2024/"><u>[New] The Updated User Manual for Navigating Facebook for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-ideal-culmination-in-virtual-ventures/"><u>[Updated] 2024 Approved Ideal Culmination in Virtual Ventures</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-loop-and-love-effortless-youtube-video-views-on-your-tv-screen-for-2024/"><u>[Updated] Loop & Love Effortless YouTube Video Views on Your TV Screen for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-id-cooling-frozn-a410-and-a610-evaluation-cost-effective-cooling-with-solid-results/"><u>Affordable ID-Cooling FROZN A410 & A610 Evaluation: Cost-Effective Cooling with Solid Results</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-gamers-companion-the-best-of-2024s-full-size-tkl-and-mini-keyboards/"><u>Choosing the Right Gamer's Companion: The Best of 2024’S Full-Size, TKL & Mini Keyboards</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/crackdown-on-lamptron-the-scandal-of-shipping-counterfeit-keyed-software-with-lcd-gadgets/"><u>Crackdown on Lamptron: The Scandal of Shipping Counterfeit Keyed Software With LCD Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/creality-cr10s-assessment-balancing-premium-features-against-incorrect-dimensions/"><u>Creality CR10s Assessment: Balancing Premium Features Against Incorrect Dimensions</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/safeguard-facebook-privacy-against-hacking/"><u>Safeguard Facebook Privacy Against Hacking</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-ffxiv-issues-with-final-fantasy-xiv-version-verification/"><u>Troubleshooting FFXIV: Issues with Final Fantasy XIV Version Verification</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-and-pc-parts-at-toms-computer-store/"><u>Unveiling the Latest Gadgets and PC Parts at Tom's Computer Store</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-access-worlds-biggest-youtube-short-downloaders/"><u>[New] 2024 Approved Free Access World’s Biggest YouTube Short Downloaders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bring-the-chuckles-home-creating-memes-on-demand/"><u>[New] Bring the Chuckles Home Creating Memes on Demand</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-to-supercharge-your-editing-workflow/"><u>[New] Innovative Approaches to Supercharge Your Editing Workflow</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-boost-channels-to-partner-status-in-under-90-days-start-now/"><u>[Updated] Boost Channels to Partner Status in Under 90 Days, Start Now!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unlocking-cash-on-the-snapchat-grid/"><u>2024 Approved Unlocking Cash on the Snapchat Grid</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbots-face-off-which-delivers-quality-content-for-the-same-creative-cue/"><u>Chatbots Face-Off: Which Delivers Quality Content for the Same Creative Cue?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciding-and-executing-user-unfollow-on-x-previously-known-as-twitter-a-detailed-walkthrough/"><u>Deciding and Executing User Unfollow on X (Previously Known as Twitter): A Detailed Walkthrough</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decision-time-which-mac-desktop-fits-your-needs-best-mini-studio-imac-or-pro-insights/"><u>Decision Time: Which Mac Desktop Fits Your Needs Best – Mini, Studio, iMac, or Pro Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-advancements-in-affordable-tech-the-power-and-potential-of-raspberry-pi-zero-s-upgraded-processor-zdnet-review/"><u>Exploring the Latest Advancements in Affordable Tech: The Power and Potential of Raspberry Pi Zero Ⅱ's Upgraded Processor | ZDNET Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-gain-an-edge-access-these-top-8-sites-for-free-eco-screen-backdrops-and-clips/"><u>In 2024, Gain an Edge - Access These Top 8 Sites for FREE Eco-Screen Backdrops and Clips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-windows-11-microsofts-controversial-release-or-a-step-forward-exploring-public-sentiment-and-features/"><u>Is Windows 11 Microsoft's Controversial Release or a Step Forward?: Exploring Public Sentiment and Features</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-access-how-to-set-up-a-hardware-unhook-icon-in-win11/"><u>Secure Access: How to Set Up a Hardware Unhook Icon in Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-microsoft-exploring-the-comprehensive-cloud-advertising-and-device-integration-plan/"><u>The Future of Microsoft: Exploring the Comprehensive Cloud, Advertising, and Device Integration Plan</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tpm-explained-how-it-affects-your-upgrade-to-windows-11-digital-gearbox/"><u>TPM Explained: How It Affects Your Upgrade to Windows 11 | Digital Gearbox</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-assembling-your-dream-gaming-rig-with-nvidias-rtx-3080-tips-from-zdnet/"><u>Ultimate Guide: Assembling Your Dream Gaming Rig with NVIDIA's RTX 3080 - Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-mastery-how-to-run-windows-11-on-vintage-computers-despite-microsofts-advice-expert-tech-tips/"><u>Upgrade Mastery: How to Run Windows 11 on Vintage Computers Despite Microsoft's Advice | Expert Tech Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/where-to-get-your-hands-on-the-latest-raspberry-pi-model-plus-best-alternatives-revealed-zdnet/"><u>Where to Get Your Hands on the Latest Raspberry Pi Model + Best Alternatives Revealed | ZDNet</u></a></li>
 </ul></div>
 
